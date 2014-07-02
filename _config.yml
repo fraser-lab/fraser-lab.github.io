@@ -1,0 +1,10 @@
+name: "Fraser Lab"
+description: "This is the official web page for the Fraser lab, built in Jekyll by Benjamin Barad"
+
+url: "http://fraser-lab.github.io"
+
+paginate: 10
+
+markdown: rdiscount
+permalink: pretty
+pygments: true
