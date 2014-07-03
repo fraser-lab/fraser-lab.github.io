@@ -1,5 +1,12 @@
 {% include header.html %}
 
-{{ content }}
+<div class="row-fluid">
+    <div class="col-xs-9 col-s-8">
+        {{ content }}
+    </div>
+    <div class="col-xs-3 col-s-9">
+        {% include sidebar.html %}
+    </div>
+</div>
 
 {% include footer.html %}
