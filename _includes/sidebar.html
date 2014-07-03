@@ -1,6 +1,5 @@
-<h3>Contact Us</h3>
-
-<p>James Fraser, Ph.D.<br>
+<p><h3>Contact Us</h3>
+James Fraser, Ph.D. <br>
 Assistant Professor <br>
 Department of Bioengineering and Therapeutic Sciences <br>
 California Institute of Quantitative Biosciences (QB3) <br>
@@ -12,4 +11,12 @@ fax: 415 514 016 nine <br>
 Genentech Hall Room N212C (Office), N216 (Lab) <br>
 UCSF Mail Code 2140 <br>
 600 16th Street <br>
-San Francisco, CA 94158 </p>
+San Francisco, CA 94158 <br>
+
+</p>
+<p> Recent Posts </p>
+<ul>
+  {% for post in site.posts limit: 5 %}
+    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+  {% endfor %}
+</ul>
