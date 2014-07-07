@@ -1,20 +1,75 @@
 ---
 Title: Current Members
+layout: none
 ---
 # PI
 -	name: James Fraser
-	startdate: 
+	# startdate: 
 	image: img/members/fraser.jpg
 	position: Principal Investigator
 	email: jfraser(at)fraserlab(dot)com
 	twitter: @fraserlab
-	description: James was a graduate student with Tom Alber at UC Berkeley, where he studied protein structure and dynamics. There, he developed biophysical methods to characterize protein side chain flexibility and applied these techniques to study connections between conformational dynamics and enzymatic catalysis. In January 2011, James started his independent career as a QB3 at UCSF Fellow. In January 2013, he was appointed as an Assistant Professor in the Department of Bioengineering and Therapeutic Sciences. 
+	description: "James was a graduate student with Tom Alber at UC Berkeley, where he studied protein structure and dynamics. There, he developed biophysical methods to characterize protein side chain flexibility and applied these techniques to study connections between conformational dynamics and enzymatic catalysis. In January 2011, James started his independent career as a QB3 at UCSF Fellow. In January 2013, he was appointed as an Assistant Professor in the Department of Bioengineering and Therapeutic Sciences." 
+
 # Research Scientists
 
 # Postdocs
+- name: Lin Liu
+  # startdate:
+  image: img/members/fraser.jpg
+  position: Postdoc
+  email: lin(dot)liu(at)ucsf(dot)edu
+  description: "Lin was a graduate student at University of Pittsburgh with Angela Gronenborn and Ivet Bahar. Lin is a joint post-doc between the Kortemme and Fraser labs, using computational and experimental techniques to study the evolution of protein dynamics."
+
+- name: Daniel Keedy
+  # startdate:
+  image: img/members/fraser.jpg
+  position: Postdoc
+  email: daniel(dot)keedy(at)gmail(dot)com
+  twitter: @danielkeedy
+  description: "Daniel was a graduate student at Duke University with Jane and David Richardson, where he studied protein flexibility in structure validation, prediction, and design. In the Fraser lab, he will develop techniques to build multi-conformer structural models, extract functional cooperative conformational changes, and engineer allosteric/drug-sensitive proteins."
 
 # Graduate Students
+- name: Ben Barad
+  image: img/members/fraser.jpg
+  position: Graduate Student
+  email: benjamin(dot)barad(at)gmail(dot)com
+  twitter: @benjaminbarad
+  description: "Ben graduated from Stanford University in Biological Chemistry. As an undergraduate, he worked in the laboratory of Elizabeth Sattel studying bacterial lignin degradation."
 
+- name: Justin Biel
+  image: img/members/fraser.jpg
+  position: Graduate Student
+  email: justin(dot)biel(at)ucsf(dot)edu
+  twitter: @thebieldeal
+  description: "There is nothing interesting about justin because he hasn't written anything yet"
+
+
+- name: David Mavor
+  image: img/members/fraser.jpg
+  position: Graduate Student
+  email: david(dot)mavor(at)ucsf(dot)edu
+  twitter: "@#"
+  description: "David graduated from Reed College in Biochemistry after working with Dr. Jay Mellies on E. coli virulence factors. He then worked with Dr. Alan Frankel at UCSF before joining iPQB in biophysics. Currently he is investigating the conformational dynamics of protein-protein interactions. When not in lab, David enjoys making music, swing dancing and playing with his 70 lbs beast, Lucy."
+
+- name: Andrew VanBenschoten
+  image: img/members/fraser.jpg
+  position: Graduate Student
+  email: andrew(dot)vanbenschoten(at)ucsf(dot)edu
+  twitter: @vanben11
+  description: "Andrew completed his undergraduate studies in biology at MIT. While there, he worked with Cathy Drennan on determining the structure of metalloenzymes via X-ray crystallography. Andrew started at UCSF in the fall of 2011 and is investigating the features of diffuse X-ray scatter in several model protein systems and molecular machines."
+
+- name: Rahel Woldeyes
+  image: img/members/fraser.jpg
+  position: Graduate Student
+  email: rahel(dot)woldeyes(at)ucsf(dot)edu
+  twitter: @rahelwoldeyes
+  description: "Rahel graduated from University of Minnesota – Twin cities with B.S in Biochemistry and Chemistry. As an undergraduate student, she worked in several labs on projects ranging from cell to structural biology. In the Fraser lab, Rahel will be studying the structure-dynamics-function relationships of proteins and protein-ligand complexes using a combination of room temperature X-ray Crystallography and NMR approaches. Furthermore, she will be developing and implementing methods to dissect allostery in drug targets."
 # Rotation Students
 
 # Summer Students
+- name: Jennifer Li
+  image: img/members/fraser.jpg
+  position: Summer Student
+  
+
