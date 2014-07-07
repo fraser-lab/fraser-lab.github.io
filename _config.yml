@@ -4,6 +4,7 @@ description: "This is the official web page for the Fraser lab, built in Jekyll 
 url: "http://fraser-lab.github.io"
 
 paginate: 10
+paginate_path: "news/page:num"
 
 markdown: rdiscount
 permalink: pretty
