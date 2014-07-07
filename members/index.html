@@ -1,0 +1,24 @@
+---
+Title: Fraser Lab Members
+layout: members
+---
+
+<h1>Fraser Lab Members</h1>
+<hr>
+
+{% for person in site.data.members %}
+<div class="row">
+    <div class="col-sm-4">
+        <img class="img-responsive img-thumbnail" src="{{person.image}}" alt="{{person.name}}"> <br>
+        {{person.name}} <br>
+        {{person.email}}
+        {% if person.twitter %}
+          <br><a href= "http://twitter.com/{{person.twitter}}"> @{{person.twitter}} </a>
+        {% endif %}
+    </div>
+    <div class="col-sm-8">
+        {{person.description}}
+    </div>  
+</div>
+<hr>
+{% endfor %}
