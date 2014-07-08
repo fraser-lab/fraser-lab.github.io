@@ -4,6 +4,7 @@ layout: publications
 ---
 
 <h1>Publications</h1>
+<hr>
 <ul>
 {% for publication in site.data.publications | sort: "date" %}
 <li>{{ publication.citation | markdownify }}</li>
@@ -19,5 +20,6 @@ layout: publications
 	</ul>
 	</div>
 </div>
+<hr>
 {% endfor %}
 </ul>
