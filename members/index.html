@@ -5,14 +5,14 @@ group: members
 ---
 
 <h1>Fraser Lab Members</h1>
-<hr>
 
 {% for person in site.data.members %}
+<hr>
 <div id = "{{person.name}}" class="row">
     <div class="col-sm-4">
         <img class="img-responsive" src="{{person.image}}" alt="{{person.name}}"> <br>
         <strong>{{person.name}}</strong> <br>
-        {{person.email}} <br>
+        <em>{{person.email}}</em> <br>
         {% if person.twitter %}
           <a href= "http://twitter.com/{{person.twitter}}"> @{{person.twitter}} </a> <br>
         {% endif %}
@@ -21,5 +21,4 @@ group: members
         {{person.description}}
     </div>  
 </div>
-<hr>
 {% endfor %}

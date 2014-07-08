@@ -7,6 +7,7 @@ group: news
 
 <!-- This loops through the paginated posts -->
 {% for post in paginator.posts %}
+  <hr>
   <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
   <p class="author">
     <span class="date">{{ post.date | date_to_long_string }}</span>
@@ -15,7 +16,7 @@ group: news
     {{ post.excerpt }}
   </div>
 {% endfor %}
-
+<hr>
 
 <!-- This makes links to other paginator pages -->
 {% if paginator.total_pages > 1 %}

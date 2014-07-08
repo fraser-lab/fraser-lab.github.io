@@ -5,9 +5,9 @@ group: publications
 ---
 
 <h1>Publications</h1>
-<hr>
 <ul>
 {% for publication in site.data.publications | sort: "date" %}
+<hr>
 <li>{{ publication.citation | markdownify }}
 <div class="row-fluid">
 	<div class="col-sm-6">
@@ -22,6 +22,5 @@ group: publications
 	</div>
 </div>
 </li>
-<hr>
 {% endfor %}
 </ul>
