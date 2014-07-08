@@ -37,12 +37,13 @@
           </div>
           <div class="navbar-collapse collapse">
             <ul class="nav navbar-nav navbar-right">
-              <li><a href="/">Home</a></li>
-              <li><a href="/research">Research</a></li>
-              <li><a href="/publications">Publications</a></li>
-              <li><a href="/members">Members</a></li>
-              <li><a href="/news">News</a></li>
-              <li><a href="/contact">Contact</a></li>
+              {% for link in site.data.navlinks %}
+                {% if page.group == link.group %}
+                  <li class = "active"><a href="/{{link.name}}" alt="{{link.name}}"> {{link.name}}</a></li>
+                {% else %}
+                  <li><a href="/{{link.name}}" alt="{{link.name}}"> {{link.name}}</a></li>
+                {% endif %}
+              {% endfor %}
             </ul>
           </div><!--/.nav-collapse -->
         </div><!--/.container-fluid -->

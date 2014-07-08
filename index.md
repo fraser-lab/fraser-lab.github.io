@@ -1,6 +1,7 @@
 ---
 title: Hello, World!
 layout: home
+group: home
 ---
 
 # Hello World

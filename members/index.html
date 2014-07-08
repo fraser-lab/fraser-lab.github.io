@@ -1,6 +1,7 @@
 ---
 Title: Fraser Lab Members
 layout: members
+group: members
 ---
 
 <h1>Fraser Lab Members</h1>
@@ -10,10 +11,10 @@ layout: members
 <div id = "{{person.name}}" class="row">
     <div class="col-sm-4">
         <img class="img-responsive" src="{{person.image}}" alt="{{person.name}}"> <br>
-        {{person.name}} <br>
-        {{person.email}}
+        <strong>{{person.name}}</strong> <br>
+        {{person.email}} <br>
         {% if person.twitter %}
-          <br><a href= "http://twitter.com/{{person.twitter}}"> @{{person.twitter}} </a>
+          <a href= "http://twitter.com/{{person.twitter}}"> @{{person.twitter}} </a> <br>
         {% endif %}
     </div>
     <div class="col-sm-8">

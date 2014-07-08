@@ -1,0 +1,17 @@
+- name: home
+  group: home
+
+- name: research
+  group: research
+
+- name: publications
+  group: publications
+
+- name: members
+  group: members
+
+- name: news
+  group: news
+
+- name: contact
+  group: contact
