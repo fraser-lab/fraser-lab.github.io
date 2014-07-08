@@ -39,9 +39,9 @@
             <ul class="nav navbar-nav navbar-right">
               {% for link in site.data.navlinks %}
                 {% if page.group == link.group %}
-                  <li class = "active"><a href="/{{link.name}}" alt="{{link.name}}"> {{link.name}}</a></li>
+                  <li class = "active"><a href="{{link.link}}" alt="{{link.name}}"> {{link.name}}</a></li>
                 {% else %}
-                  <li><a href="/{{link.name}}" alt="{{link.name}}"> {{link.name}}</a></li>
+                  <li><a href="{{link.link}}" alt="{{link.name}}"> {{link.name}}</a></li>
                 {% endif %}
               {% endfor %}
             </ul>
