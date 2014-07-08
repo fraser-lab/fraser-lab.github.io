@@ -8,19 +8,20 @@ group: publications
 <hr>
 <ul>
 {% for publication in site.data.publications | sort: "date" %}
-<li>{{ publication.citation | markdownify }}</li>
+<li>{{ publication.citation | markdownify }}
 <div class="row-fluid">
 	<div class="col-sm-6">
 		<img class = "img-responsive" src = "{{publication.image}}" alt = "Key Figure">
 	</div>
 	<div class="col-sm-6">
-	<ul>
-		<li>PMID: <a href="http://www.ncbi.nlm.nih.gov/pubmed/{{publication.pmid}}" alt = "pubmed link: {{publication.pmid}}"> {{publication.pmid}}</a></li>
-		<li>PMCID: <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/{{publication.pmcid}}" alt = "pubmed central link: {{publication.pmcid}}"> {{publication.pmcid}}</a></li>
-		<li><a href="{{publication.pdf}}" alt = "PDF"> Full Text</a></li>
-	</ul>
+		<ul>
+			<li>PMID: <a href="http://www.ncbi.nlm.nih.gov/pubmed/{{publication.pmid}}" alt = "pubmed link: {{publication.pmid}}"> {{publication.pmid}}</a></li>
+			<li>PMCID: <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/{{publication.pmcid}}" alt = "pubmed central link: {{publication.pmcid}}"> {{publication.pmcid}}</a></li>
+			<li><a href="{{publication.pdf}}" alt = "PDF"> Full Text</a></li>
+		</ul>
 	</div>
 </div>
+</li>
 <hr>
 {% endfor %}
 </ul>
