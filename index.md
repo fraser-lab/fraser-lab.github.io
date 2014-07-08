@@ -4,6 +4,10 @@ layout: home
 group: home
 ---
 
-# Hello World
+# Welcome to the Fraser Lab!
 
-* Welcome to the future website of the Fraser Lab at UCSF!
+We are part of the Department of Bioengineering and Therapeutic Sciences, the Macromolecular Structure Group, and the California Institute of Quantitative Biosciences (QB3). 
+
+Research in the lab is focused on discovering the fundamental principles of macromolecular structure and dynamics.  We are interested in defining conformational states that are essential for function and understanding how conformational transitions couple to biological mechanisms.
+
+We are located in Genentech Hall at the Mission Bay Campus of UCSF.
