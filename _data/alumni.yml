@@ -1,9 +1,5 @@
----
-Title: Alumni
-layout: none
----
--	name: Lillian Kenner
-	position: Specialist
-	startdate: January 2011
-	enddate: July 2014
-	current: Graduate Student (UCSF)
+- name: Lillian Kenner
+  position: Specialist
+  startdate: January 2011
+  enddate: July 2014
+  current: Graduate Student (UCSF)

@@ -1,22 +1,6 @@
----
-Title: Publications
-Layout: none
----
-
-# 2014
-- citation:
-  date:
-  image:
-  PMID:
-  PMCID:
-  PDF:
-
-# 2013
-
-# 2012
-
-# 2011
-
-# 2010
-
-# Earlier
+- citation: "**Keedy D**, van den Bedem H, Sivak DA, Petsko GA, Ringe D, Wilson MA, **Fraser JS**. Crystal Cryocooling Distorts Conformational Heterogeneity in a Model Michaelis Complex of DHFR. *Structure* May 2014."
+  date: 201405
+  image: "/img/pub/pub1.jpg"
+  pmid: 24882744
+  pmcid: PMC4082491
+  pdf: "http://www.fraserlab.com/publications/publications_pdfs/keedy_structure_2014.pdf?attredirects=0"

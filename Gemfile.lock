@@ -65,7 +65,7 @@ GEM
       rb-kqueue (>= 0.2)
     maruku (0.7.0)
     mini_portile (0.6.0)
-    minitest (5.3.5)
+    minitest (5.4.0)
     nokogiri (1.6.2.1)
       mini_portile (= 0.6.0)
     parslet (1.5.0)

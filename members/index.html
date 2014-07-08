@@ -7,7 +7,7 @@ layout: members
 <hr>
 
 {% for person in site.data.members %}
-<div class="row">
+<div id = "{{person.name}}" class="row">
     <div class="col-sm-4">
         <img class="img-responsive" src="{{person.image}}" alt="{{person.name}}"> <br>
         {{person.name}} <br>
