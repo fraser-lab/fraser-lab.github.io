@@ -1,10 +1,10 @@
 # fraser-lab.github.io
 ====================
 
-Technologies this website uses:
-    Jekyll
-    Github Pages
-    Twitter Bootstrap 3.2
+Technologies this website uses:  
+    Jekyll  
+    Github Pages  
+    Twitter Bootstrap 3.2  
 
 Before pushing changes, please check that they will work on your system first with the plugins included in the Gemfile using the bundler tool (results served at [0.0.0.0:4000](0.0.0.0:4000)):
 
