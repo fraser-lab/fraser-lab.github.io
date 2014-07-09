@@ -3,13 +3,18 @@ body {
   padding-bottom: 40px;
 }
 
+
 .navbar-default {
   background-color: #7fab91;
   border-color: #668a75;
 }
+
 .navbar-default .navbar-brand {
+  font-family: "Lucida Bright", Georgia, serif;
+  font-size: 175%;
   color: #f6f6f6;
 }
+
 .navbar-default .navbar-brand:hover, .navbar-default .navbar-brand:focus {
   color: #fdfdfd;
 }
