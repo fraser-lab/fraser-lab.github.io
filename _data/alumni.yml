@@ -1,8 +1,13 @@
 - name: Lillian Kenner
   position: Specialist
-  startdate: January 2011
-  enddate: July 2014
+  startdate: 2011
+  enddate: 2014
   current: Funemployed (almost a Graduate Student @ UCSF)
+
+- name: Jessica Friedman
+  position: Rotation Student
+  enddate: Fall 2013
+  current: Graduate Student @ UCSF
 
 - name: Khanh Vuu
   position: Technician
