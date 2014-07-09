@@ -2,6 +2,7 @@
 ====================
 
 Technologies this website uses:  
+
     Jekyll  
     Github Pages  
     Twitter Bootstrap 3.2  
