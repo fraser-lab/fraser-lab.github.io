@@ -1,53 +1,53 @@
 - name: James Fraser
-  image: /img/members/fraser.jpg
+  image: /static/img/members/fraser.jpg
   position: Principal Investigator
   email: jfraser (at) fraserlab.com
   twitter: "fraserlab"
   description: "James was a graduate student with Tom Alber at UC Berkeley, where he studied protein structure and dynamics. There, he developed biophysical methods to characterize protein side chain flexibility and applied these techniques to study connections between conformational dynamics and enzymatic catalysis. In January 2011, James started his independent career as a QB3 at UCSF Fellow. In January 2013, he was appointed as an Assistant Professor in the Department of Bioengineering and Therapeutic Sciences."
 
 - name: Lin Liu
-  image: /img/members/lliu.jpg
+  image: /static/img/members/lliu.jpg
   position: Postdoc
   twitter: "linliu"
   email: lin.liu (at) ucsf.edu
   description: "Lin was a graduate student at University of Pittsburgh with Angela Gronenborn and Ivet Bahar. Lin is a joint post-doc between the Kortemme and Fraser labs, using computational and experimental techniques to study the evolution of protein dynamics."
 
 - name: Daniel Keedy
-  image: /img/members/dkeedy.jpg
+  image: /static/img/members/dkeedy.jpg
   position: Postdoc
   email: daniel.keedy (at) gmail.com
   twitter: "danielkeedy"
   description: "Daniel was a graduate student at Duke University with Jane and David Richardson, where he studied protein flexibility in structure validation, prediction, and design. In the Fraser lab, he will develop techniques to build multi-conformer structural models, extract functional cooperative conformational changes, and engineer allosteric/drug-sensitive proteins."
 
 - name: Ben Barad
-  image: /img/members/bbarad.jpg
+  image: /static/img/members/bbarad.jpg
   position: Graduate Student
   email: benjamin.barad (at) gmail.com
   twitter: "benjaminbarad"
   description: "Ben graduated from Stanford University in Biological Chemistry. As an undergraduate, he worked in the laboratory of Elizabeth Sattely studying bacterial lignin degradation."
 
 - name: Justin Biel
-  image: /img/members/jbiel.jpg
+  image: /static/img/members/jbiel.jpg
   position: Graduate Student
   email: justin.biel (at) ucsf.edu
   twitter: "thebieldeal"
   description: "Justin graduated from Oregon State University with a degree in Biochemistry and Biophysics. He conducted research in both the laboratories of Elisar Barbar studying dynein protein interactions, and P. Andrew Karplus conducting structural bioinformatic research on protein structural components from ultra-high resolution protein crystal structures."
 
 - name: David Mavor
-  image: /img/members/dmavor.jpg
+  image: /static/img/members/dmavor.jpg
   position: Graduate Student
   email: david.mavor (at) ucsf.edu
   description: "David graduated from Reed College in Biochemistry after working with Dr. Jay Mellies on E. coli virulence factors. He then worked with Dr. Alan Frankel at UCSF before joining iPQB in biophysics. Currently he is investigating the conformational dynamics of protein-protein interactions. When not in lab, David enjoys making music, swing dancing and playing with his 70 lbs beast, Lucy."
 
 - name: Andrew VanBenschoten
-  image: /img/members/avanbenschoten.jpg
+  image: /static/img/members/avanbenschoten.jpg
   position: Graduate Student
   email: andrew.vanbenschoten (at) ucsf.edu
   twitter: "vanben11"
   description: "Andrew completed his undergraduate studies in biology at MIT. While there, he worked with Cathy Drennan on determining the structure of metalloenzymes via X-ray crystallography. Andrew started at UCSF in the fall of 2011 and is investigating the features of diffuse X-ray scatter in several model protein systems and molecular machines."
 
 - name: Rahel Woldeyes
-  image: /img/members/rwoldeyes.jpg
+  image: /static/img/members/rwoldeyes.jpg
   position: Graduate Student
   email: rahel(dot)woldeyes (at) ucsf(dot)edu
   twitter: "rahelwoldeyes"
@@ -56,6 +56,6 @@
 
 # Summer Students
 - name: Jennifer Li
-  image: /img/members/fraser.jpg
+  image: /static/img/members/fraser.jpg
   position: Summer Student
   description: "Jennifer is a high school student working with the Fraser lab through the UCSF SEP High School Summer program."
