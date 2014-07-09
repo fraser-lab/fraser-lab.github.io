@@ -11,7 +11,7 @@ body {
 
 .navbar-default .navbar-brand {
   font-family: "Lucida Bright", Georgia, serif;
-  font-size: 175%;
+
   color: #f6f6f6;
 }
 
@@ -66,4 +66,10 @@ body {
     color: #fdfdfd;
     background-color: #668a75;
   }
+}
+
+@media (min-width: 992px) {
+   .collapse {
+       display: none !important;
+   }
 }
