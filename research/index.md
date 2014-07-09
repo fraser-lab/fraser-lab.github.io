@@ -4,7 +4,7 @@ layout: default
 group: research
 ---
 
-<img class="img-responsive center-block" src="/img/fraseratucsf.jpg" alt="Fraser at UCSF, in molecular form">
+<img class="img-responsive center-block" src="/static/img/fraseratucsf.jpg" alt="Fraser at UCSF, in molecular form">
 
 # The Fraser lab is focused on answering some of the central questions in protein biophysics and structural biology: 
 
