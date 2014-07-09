@@ -4,10 +4,22 @@
   pmid: 24882744
   pmcid: PMC4082491
   pdf: "http://www.fraserlab.com/publications/publications_pdfs/keedy_structure_2014.pdf?attredirects=0"
+  links:
+    - name: "Wilson Lab"
+      url: "https://redoxbiologycenter.unl.edu/markwilsonphd"
+    - name: "Petsko/Ringe Lab"
+      url: "http://www.bio.brandeis.edu/prLab/"
+    - name: "Paper Submission Celebration Photo"
+      url: "https://twitter.com/fraser_lab/status/443233965017559040"
+    - name: "F1000 Evaluation"
+      url: "http://f1000.com/prime/718430130"
 
 # - citation:
 #   date:
 #   image:
 #   pmid:
-#   pmcid:
+#   pmcd:
 #   pdf:
+#   links:
+#     - name:
+#       url:
