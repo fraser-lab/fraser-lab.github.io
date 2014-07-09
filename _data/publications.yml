@@ -1,25 +1,25 @@
-- citation: "**Keedy D**, van den Bedem H, Sivak DA, Petsko GA, Ringe D, Wilson MA, **Fraser JS**. Crystal Cryocooling Distorts Conformational Heterogeneity in a Model Michaelis Complex of DHFR. *Structure* May 2014."
+- citation: '**Keedy D**, van den Bedem H, Sivak DA, Petsko GA, Ringe D, Wilson MA, **Fraser JS**. Crystal Cryocooling Distorts Conformational Heterogeneity in a Model Michaelis Complex of DHFR. *Structure* May 2014.'
   date: 2014.05
-  image: "/img/pub/pub1.jpg"
+  image: '/img/pub/pub1.jpg'
   pmid: 24882744
   pmcid: PMC4082491
-  pdf: "http://www.fraserlab.com/publications/publications_pdfs/keedy_structure_2014.pdf?attredirects=0"
+  pdf: 'http://www.fraserlab.com/publications/publications_pdfs/keedy_structure_2014.pdf?attredirects=0'
   links:
-    - name: "Wilson Lab"
-      url: "https://redoxbiologycenter.unl.edu/markwilsonphd"
-    - name: "Petsko/Ringe Lab"
-      url: "http://www.bio.brandeis.edu/prLab/"
-    - name: "Paper Submission Celebration Photo"
-      url: "https://twitter.com/fraser_lab/status/443233965017559040"
-    - name: "F1000 Evaluation"
-      url: "http://f1000.com/prime/718430130"
+    - name: 'Wilson Lab'
+      url: 'https://redoxbiologycenter.unl.edu/markwilsonphd'
+    - name: 'Petsko/Ringe Lab'
+      url: 'http://www.bio.brandeis.edu/prLab/'
+    - name: 'Paper Submission Celebration Photo'
+      url: 'https://twitter.com/fraser_lab/status/443233965017559040'
+    - name: 'F1000 Evaluation'
+      url: 'http://f1000.com/prime/718430130'
 
-# - citation:
-#   date:
-#   image:
-#   pmid:
-#   pmcd:
-#   pdf:
-#   links:
-#     - name:
-#       url:
+# THE WEIRDEST BUG: using escapes requires single-quotes instead of double...
+- citation: 'Fischer M\*, Coleman RG\*, **Fraser JS**, Shoichet BK. Incorporation of protein ﬂexibility and conformational energy penalties in docking screens to improve ligand discovery. *Nature Chemistry*. 2014'
+  date: 201405
+  image: 'https://284cce1a-a-8e7126c7-s-sites.googlegroups.com/a/fraserlab.com/ucsf/publications/nchem.1954_toc.jpg?attachauth=ANoY7cr185L7qiWSqgfyMo4JK_SfBZ_ymNubogsfFhchB8-JLln4U3SSS-WEiKeW03UqAASmxcIW9Yg_g6M0TeK-E8pu0ljDahTtkuy7W2BtQMEaDRmy_mMLT5ZKwfsLORXjARTyzkTEmyygeGZSyF91ONWuWIExSdeyNRhq3ag2LhvR45-40Ks7gbzGb-MSRSSd4m7k4xWiX8dR91hX59iIsW0wKzECWqKmTkCxZpPic95Bj157i8I%3D&attredirects=0'
+  pmid: 24950326
+  pdf: 'http://www.fraserlab.com/publications/publications_pdfs/fischer_coleman.pdf?attredirects=0'
+  links:
+    - name: NChem News and Views
+      url: 'http://www.nature.com/nchem/journal/v6/n7/full/nchem.1986.html'
