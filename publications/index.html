@@ -18,7 +18,7 @@ group: publications
 			<li>PMID: <a href="http://www.ncbi.nlm.nih.gov/pubmed/{{publication.pmid}}" alt = "pubmed link: {{publication.pmid}}"> {{publication.pmid}}</a></li>
 			{% if publication.pmcid %}
 			<li>PMCID: <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/{{publication.pmcid}}" alt = "pubmed central link: {{publication.pmcid}}"> {{publication.pmcid}}</a></li>
-			{% endif %s}
+			{% endif %}
 			<li><a href="{{publication.pdf}}" alt = "PDF"> Full Text</a></li>
 			<strong>Additional Links</strong>
 			{% for link in publication.links %}
