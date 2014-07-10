@@ -6,41 +6,54 @@ group: contact
 
 # Contact the Fraser Lab:
 
-<div class="row-fluid">
-  <div class="col-md-4 col-md-height">
-    <div class="panel panel-default">
-      <div class="panel-body">
-      James Fraser, Ph.D. <br>
-      Assistant Professor <br>
-      Department of Bioengineering and Therapeutic Sciences <br>
-      California Institute of Quantitative Biosciences (QB3)
-      </div>
-    </div>  
-  </div>
-  <div class="col-md-4 col-md-height">
-    <div class="panel panel-default">
-      <div class="panel-body">
-      email: james.fraser#!ucsf.edu <br>
-      tel: 415 493 842 one <br>
-      fax: 415 514 016 nine
-      </div>
-    </div>  
-  </div>
-  <div class="col-md-4 col-md-height">
-    <div class="panel panel-default">
-      <div class="panel-body">
-      Genentech Hall Room N212C (Office), N216 (Lab) <br>
-      UCSF Mail Code 2140  <br>
-      600 16th Street  <br>
-      San Francisco, CA 94158
-      </div>
-    </div>  
-  </div>
+
+<div class="row">
+
+<div class="col-md-4">
+
+  <h4>James Fraser</h4>
+  Assistant Professor  <br>
+  Department of Bioengineering and Therapeutic Sciences  <br>
+  California Institute of Quantitative Biosciences (QB3)  <br>
+  email: james.fraser (at) ucsf.edu <br>
+  tel: 415 493 842 one 
+
+</div>
+
+<div class="col-md-4">
+
+  <h4> Elizabeth Willey</h4>
+  Administrative Assistant  <br>
+  Email: elizabeth.willey (at) ucsf.edu  <br>
+  Phone: 415 514 981 six   <br>
+  Fax: 415 514 102 eight  
+
+</div>
+
+<div class="col-md-4">
+
+  <h4>Lab Area </h4>
+  tel: 415 476 306 eight <br> 
+  fax: 415 514 016 nine  
+
+</div>
+
 </div>
 
 ***
 
 # Directions to the Fraser Lab
+Office Address:
+ Genentech Hall Room N212C
+ UCSF Mail Code 2140
+ 600 16th Street
+ San Francisco, CA 94158
+
+Lab Address:
+ Genentech Hall Room N216Q
+ UCSF Mail Code 2140
+ 600 16th Street
+ San Francisco, CA 94158
 
 Our lab is in on the UCSF Mission Bay campus in Genentech Hall (600 16th St, San Francisco, CA 94158)
 
