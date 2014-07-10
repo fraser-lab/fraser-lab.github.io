@@ -4,7 +4,7 @@ layout: default
 group: contact
 ---
 
-# Contact the Fraser Lab:
+# Contact the Fraser Lab
 
 
 <div class="row">
