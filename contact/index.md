@@ -1,25 +1,44 @@
 ---
 Title: Contact the Fraser Lab
 layout: default
+group: contact
 ---
 
 # Contact the Fraser Lab:
 
-```
-James Fraser, Ph.D.
-Assistant Professor
-Department of Bioengineering and Therapeutic Sciences
-California Institute of Quantitative Biosciences (QB3)
+<div class="row-fluid">
+  <div class="col-md-4 col-md-height">
+    <div class="panel panel-default">
+      <div class="panel-body">
+      James Fraser, Ph.D. <br>
+      Assistant Professor <br>
+      Department of Bioengineering and Therapeutic Sciences <br>
+      California Institute of Quantitative Biosciences (QB3)
+      </div>
+    </div>  
+  </div>
+  <div class="col-md-4 col-md-height">
+    <div class="panel panel-default">
+      <div class="panel-body">
+      email: james.fraser#!ucsf.edu <br>
+      tel: 415 493 842 one <br>
+      fax: 415 514 016 nine
+      </div>
+    </div>  
+  </div>
+  <div class="col-md-4 col-md-height">
+    <div class="panel panel-default">
+      <div class="panel-body">
+      Genentech Hall Room N212C (Office), N216 (Lab) <br>
+      UCSF Mail Code 2140  <br>
+      600 16th Street  <br>
+      San Francisco, CA 94158
+      </div>
+    </div>  
+  </div>
+</div>
 
-email: james.fraser#!ucsf.edu
-tel: 415 493 842 one
-fax: 415 514 016 nine
-
-Genentech Hall Room N212C (Office), N216 (Lab)
-UCSF Mail Code 2140
-600 16th Street
-San Francisco, CA 94158
-```
+***
 
 # Directions to the Fraser Lab
 

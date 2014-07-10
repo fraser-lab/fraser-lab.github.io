@@ -73,3 +73,9 @@ body {
        display: none !important;
    }
 }
+
+@media (min-width: 992px) {
+  .col-md-4 > .panel > .panel-body {
+    min-height: 150px;
+  }
+}
