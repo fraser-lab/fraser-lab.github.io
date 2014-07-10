@@ -43,20 +43,22 @@ group: contact
 ***
 
 # Directions to the Fraser Lab
-Office Address:
- Genentech Hall Room N212C
- UCSF Mail Code 2140
- 600 16th Street
- San Francisco, CA 94158
+**Office Address:**
 
-Lab Address:
- Genentech Hall Room N216Q
- UCSF Mail Code 2140
- 600 16th Street
- San Francisco, CA 94158
+Genentech Hall Room N212C  
+UCSF Mail Code 2140  
+600 16th Street  
+San Francisco, CA 94158  
 
-Our lab is in on the UCSF Mission Bay campus in Genentech Hall (600 16th St, San Francisco, CA 94158)
+**Lab Address:**
 
+Genentech Hall Room N216Q  
+UCSF Mail Code 2140  
+600 16th Street  
+San Francisco, CA 94158  
+
+<!-- Our lab is in on the UCSF Mission Bay campus in Genentech Hall (600 16th St, San Francisco, CA 94158)
+ -->
 ###The Mission Bay Campus can be reached:  
 * ####by public transportation:
   * **Option 1**: Exit BART at the 16th St Station and wait for the free UCSF Red shuttle that stops directly outside the Burger King (This option is only available on weekdays: http://www.campuslifeservices.ucsf.edu/transportation/services/shuttles).
