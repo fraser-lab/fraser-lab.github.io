@@ -61,7 +61,7 @@ San Francisco, CA 94158
  -->
 ###The Mission Bay Campus can be reached:  
 * ####by public transportation:
-  * **Option 1**: Exit BART at the 16th St Station and wait for the free UCSF Red shuttle that stops directly outside the Burger King (This option is only available on weekdays: http://www.campuslifeservices.ucsf.edu/transportation/services/shuttles).
+  * **Option 1**: Exit BART at the 16th St Station and wait for the free UCSF Red shuttle that stops directly outside [the Burger King](https://www.google.com/maps/@37.765092,-122.419164,3a,75y,5.38h,82.64t/data=!3m4!1e1!3m2!1sH_jzIrhuF8wnnEp0duvIEQ!2e0) (This option is only available on weekdays: http://www.campuslifeservices.ucsf.edu/transportation/services/shuttles).
   * **Option 2**: Exit BART at the Embarcadero Station and then take the MUNI T-line inbound to Sunnydale. Exit at the Mission Bay stop on 3rd Street. 
 * ####by car: 
   * We are at 600 16th Street Street, between Owens and 4th St. There are two parking garages (please park in the  garages and not in the surface lots) on campus that are equally convenient. 
