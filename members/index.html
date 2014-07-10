@@ -8,6 +8,7 @@ group: members
 
 {% for person in site.data.members %}
 <hr>
+<!-- The paddingtop and margin-top edits allow anchors to link properly. -->
 <div id = "{{person.name}}" class="row" style="padding-top: 60px; margin-top: -60px;">
     <div class="col-sm-4">
         <img class="img-responsive" src="{{person.image}}" alt="{{person.name}}"> <br>
