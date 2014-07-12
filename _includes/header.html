@@ -4,6 +4,10 @@
   <head>
     <meta charset="utf-8">
     <title>{{ site.name }}</title>
+    <!-- {% if page.group == news %} -->
+    <link rel="alternate" type="application/atom+xml" title="Fraser Lab News Feed"
+      href="{{site.url}}/news.xml" />
+    <!-- {% endif %} -->
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
     <meta name="description" content="{{ site.description }}">
 
