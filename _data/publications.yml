@@ -90,3 +90,19 @@
       url: 'http://www6.slac.stanford.edu/news/2013-08-08-How-Proteins-Shift-Into-Working-Mode.aspx'
     - name: Youtube CONTACT
       url: 'http://www.youtube.com/watch?v=O29pJhFUwpk'
+
+- citation: 'Braberg H, Jin H, Moehle E, Chan YA, Wang S, Shales M, Benschop JJ, Morris JH, **Fraser JS**,  Qiu C, Hu F, Tang LK, Holstege FCP, Hieter P, Guthrie C, Kaplan CD, Krogan NJ. From structure to systems: high-resolution, quantitative genetic analysis of RNA polymerase II. Protein structural ensembles are revealed by redefining X-ray electron density noise. *Cell*. 2013'
+  date: 201308
+  image: '/static/img/pub/braberg_cell_2013.jpg'
+  pmid: 23932120
+  pmcid: PMC3932829
+  pdf: '/static/pdf/braberg_cell_2013.pdf'
+  links:
+    - name: Krogan Lab
+      url: 'http://kroganlab.ucsf.edu/'
+    - name: "UCSF: Innovative Method to Profile and Predict the Behavior of Proteins"
+      url: 'http://www.ucsf.edu/news/2013/08/107951/scientists-devise-innovative-method-profile-and-predict-behavior-proteins'
+    - name: "NRG: Pol II Interactions in Detail"
+      url: 'http://www.nature.com/nrg/journal/vaop/ncurrent/full/nrg3582.html'
+    - name: F1000 Evaluation
+      url: 'http://f1000.com/prime/718071447'
