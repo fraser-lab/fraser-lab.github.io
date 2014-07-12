@@ -231,8 +231,6 @@
     - name: "Fagotto Lab"
       url: 'http://biology.mcgill.ca/faculty/fagotto/'
 
-#fraser nature
-
 - citation: '**Fraser JS**, Clarkson MW, Degnan SC, Erion R, Kern D, Alber T. Hidden alternative structures of proline isomerase essential for catalysis. *Nature*. 2009.'
   date: 200912
   image: '/static/img/pub/fraser_nature_2009.jpg'
@@ -251,8 +249,30 @@
     - name: "Faculty 1000 evaluation"
       url: 'http://f1000.com/1309961'
 
-#fraser comb
+- citation: '**Fraser JS**, Maxwell KL, Davidson, AR. Immunoglobulin-Like Domains on Bacteriophage: Weapons of Modest Damage? *Current Opinion in Microbiology.* 2007.'
+  date: 200708
+  image: '/static/img/pub/fraser_comb_2007.jpg'
+  pmid: 17765600
+  pdf: '/static/pdf/fraser_comb_2007.pdf'
+  links:
+    - name: "Davidson Lab"
+      url: 'http://individual.utoronto.ca/davidsonlab/Davidson_Lab/Home.html'
 
-#fraser mol micro
+- citation: '**Fraser JS\***, Merlie Jr. JP\*, Echols N\*, Weisfield SR, Mignot T, Wemmer DE, Zusman D, Alber T. An atypical receiver domain controls the dynamic polar localization of the Myxococcus xanthus social motility protein FrzS. *Molecular Microbiology*. 2007.'
+  date: 200707
+  image: '/static/img/pub/fraser_molm_2007.jpg'
+  pmid: 17573816
+  pmcid: PMC1974792
+  pdf: '/static/pdf/fraser_molm_2007.pdf'
+  links:
+    - name: "Zusman Lab"
+      url: 'https://mcb.berkeley.edu/labs/zusman/'
 
-#fraser jmb
+- citation: '**Fraser JS**, Yu Z, Maxwell KL, Davidson AR. Ig-like domains on bacteriophages: a tale of promiscuity and deceit. *Journal of Molecular Biology*. 2006.'
+  date: 200606
+  image: '/static/img/pub/fraser_jmb_2006.jpg'
+  pmid: 16631788
+  pdf: '/static/pdf/fraser_jmb_2006.pdf'
+  links:
+    - name: "Davidson Lab"
+      url: 'http://individual.utoronto.ca/davidsonlab/Davidson_Lab/Home.html'
