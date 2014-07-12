@@ -230,7 +230,26 @@
   links:
     - name: "Fagotto Lab"
       url: 'http://biology.mcgill.ca/faculty/fagotto/'
+
 #fraser nature
+
+- citation: '**Fraser JS**, Clarkson MW, Degnan SC, Erion R, Kern D, Alber T. Hidden alternative structures of proline isomerase essential for catalysis. *Nature*. 2009.'
+  date: 200912
+  image: '/static/img/pub/fraser_nature_2009.jpg'
+  pmid: 19956261
+  pmcid: PMC2805857
+  pdf: '/static/pdf/fraser_nature_2009.pdf'
+  links:
+    - name: "Nature: Editor's Summary"
+      url: 'http://www.nature.com/nature/journal/v462/n7273/edsumm/e091203-17.html'
+    - name: "QB3: QB3 scientists pin down shape-changing enzyme"
+      url: 'http://qb3.org/news/archive/2009/qb3-scientists-pin-down-shape-changing-enzyme'
+    - name: "Chemical & Engineering News: Crystallographic Noise Characterizes Enzyme"
+      url: 'http://pubs.acs.org/isubscribe/journals/cen/87/i49/html/8749scic4.html'
+    - name: "Conformational Flux: Alternate Structures and Catalysis in Cyclophilin"
+      url: 'http://conflux.mwclarkson.com/2009/12/alternate-structures-and-catalysis-in-cyclophilin/'
+    - name: "Faculty 1000 evaluation
+      url: 'http://f1000.com/1309961'
 
 #fraser comb
 
