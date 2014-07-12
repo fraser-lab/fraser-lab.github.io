@@ -41,7 +41,7 @@
     - name: Meeting Slides and Website
       url: 'http://cci.lbl.gov/dials/oct_2013_diffuse.htm'
 
-- citation: 'Fenwick RB, van den Bedem H, **Fraser JS**, Wright PE.  Integrated description of protein dynamics from room-temperature X-ray crystallography and NMR. * Proceedings of the National Academy of Sciences*. 2014'
+- citation: 'Fenwick RB, van den Bedem H, **Fraser JS**, Wright PE.  Integrated description of protein dynamics from room-temperature X-ray crystallography and NMR. *Proceedings of the National Academy of Sciences*. 2014'
   date: 201401
   image: '/static/img/pub/fenwick_pnas_2014.jpg'
   pmid: 24474795
