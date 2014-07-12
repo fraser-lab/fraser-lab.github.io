@@ -1,6 +1,7 @@
 ---
 Title: Links
 layout: default
+group: links
 ---
 
 #Links
