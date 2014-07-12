@@ -120,3 +120,60 @@
       url: 'https://kortemmelab.ucsf.edu/resources/MIE_Supplement.tar.gz'
     - name: Backrub Server
       url: 'https://kortemmelab.ucsf.edu/backrub/cgi-bin/rosettaweb.py?query=index'
+
+- citation: '**Fraser JS**, Gross JD, Krogan NJ. From Systems to Structure: Bridging Networks and Mechanism. *Molecular Cell*. 2013.'
+  date: 201301
+  image: '/static/img/pub/fraser_molcell_2013.jpg'
+  pmid: 23352243
+  pmcid: PMC3558917
+  pdf: '/static/pdf/fraser_molcell_2013.pdf'
+  links:
+    - name: Gross Lab
+      url: 'http://grosslab.ucsf.edu/'
+    - name: Krogan Lab
+      url: 'http://kroganlab.ucsf.edu/'
+    - name: "Molecular Cell: Celebrating 15 years of New Connections"
+      url: 'http://www.cell.com/molecular-cell/fulltext/S1097-2765(13)00045-2'
+
+- citation: 'Vila JA, Sue SC, **Fraser JS**, Scheraga HA, Dyson HJ. CheShift-2 resolves a local inconsistency between two X-ray crystal structures. *Journal of Biomolecular NMR*. 2012.'
+  date: 201210
+  image: '/static/img/pub/vila_jbnmr_2012.jpg'
+  pmid: 22945426
+  pmcid: PMC3471536
+  pdf: '/static/pdf/vila_jbnmr_2012.pdf'
+  links:
+    - name: Dyson Lab
+      url: 'http://www.scripps.edu/dyson/'
+    - name: Scheraga Lab
+      url: 'http://www.chem.cornell.edu/has5/'
+    - name: CheShift-2 Server
+      url: 'http://cheshift.com/'
+
+- citation: 'Beltrao P, Albanèse V, **Kenner LR**, Swaney DL, Burlingame A, Villén J, Lim WA, **Fraser JS**, Frydman J, Krogan NJ. Systematic functional prioritization of protein posttranslational modifications. *Cell*. 2012.'
+  date: 201207
+  image: '/static/img/pub/beltrao_cell_2012.jpg'
+  pmid: 22817900
+  pmcid: PMC3404735
+  pdf: '/static/pdf/beltrao_cell_2012.pdf'
+  links:
+    - name: Krogan Lab
+      url: 'http://kroganlab.ucsf.edu/'
+    - name: PTMfunc database
+      url: 'http://ptmfunc.com/'
+    - name: "NMethods: Making PTMs a priority"
+      url: 'http://www.nature.com/nmeth/journal/v9/n9/full/nmeth.2153.html'
+    - name: "Pedro's Public Ramblings: Evolution and Function of Post-translational Modifications"
+      url: 'http://www.evocellnet.com/2012/07/evolution-and-function-of-post.html'
+
+- citation: 'Kapp GT, Liu S, Stein A, Wong DT, Reményi A, Yeh BJ, **Fraser JS**, Taunton J, Lim WA, Kortemme T. Control of protein signaling using a computationally designed GTPase/GEF orthogonal pair. *Proceedings of the National Academy of Sciences*. 2012.'
+  date: 201204
+  image: '/static/img/pub/kapp_pnas_2012.jpg'
+  pmid: 22403064
+  pmcid: PMC3325720
+  pdf: '/static/pdf/kapp_pnas_2012.pdf'
+  links:
+    - name: Kortemme Lab
+      url: 'http://kortemmelab.ucsf.edu/'
+    - name: "PNAS: Designing orthogonal signaling pathways: how to fit in with the surroundings."
+      url: 'http://www.ncbi.nlm.nih.gov/pubmed/22451928'
+
