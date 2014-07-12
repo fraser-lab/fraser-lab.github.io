@@ -1,3 +1,4 @@
+# THE WEIRDEST BUG: using escapes requires single-quotes instead of double...
 - citation: '**Keedy D**, van den Bedem H, Sivak DA, Petsko GA, Ringe D, Wilson MA, **Fraser JS**. Crystal Cryocooling Distorts Conformational Heterogeneity in a Model Michaelis Complex of DHFR. *Structure* May 2014.'
   date: 2014.05
   image: '/static/img/pub/keedy_structure_2014.jpg'
@@ -14,7 +15,6 @@
     - name: 'F1000 Evaluation'
       url: 'http://f1000.com/prime/718430130'
 
-# THE WEIRDEST BUG: using escapes requires single-quotes instead of double...
 - citation: 'Fischer M\*, Coleman RG\*, **Fraser JS**, Shoichet BK. Incorporation of protein ﬂexibility and conformational energy penalties in docking screens to improve ligand discovery. *Nature Chemistry*. 2014'
   date: 201405
   image: '/static/img/pub/fischer_coleman_2014.jpg'
@@ -29,3 +29,14 @@
       url: 'http://www.nature.com/nchem/journal/v6/n7/covers/index.html'
     - name: DOCK Software
       url: 'http://dock.compbio.ucsf.edu/DOCK3.7/'
+
+
+- citation: 'Wall ME, Adams PD, **Fraser JS**, Sauter NK.  Diffuse X-ray Scattering to Model Protein Motions. *Structure*. 2014'
+  date: 201405
+  image: '/static/img/pub/wall_structure_2014.jpg'
+  pmid: 24507780
+  pmcid: PMC4070675
+  pdf: '/static/pdf/wall_structure_2014.pdf'
+  links:
+    - name: Meeting Slides and Website
+      url: 'http://cci.lbl.gov/dials/oct_2013_diffuse.htm'
