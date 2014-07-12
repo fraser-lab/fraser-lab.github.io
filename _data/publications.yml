@@ -201,8 +201,10 @@
   pmid: 21190057
   pmcid: PMC3092063
   pdf: '/static/pdf/fraser_cmls_2011.pdf'
+  links:
+    - name: "Jackson Lab"
+      url: 'http://jacksonlab.wordpress.com/'
 
-#lang prot sci
 - citation: 'Lang PT\*, Ng HL\*, **Fraser JS, Corn JE, Echols N, Sales M, Holton JM, Alber T. Automated electron-density sampling reveals widespread conformational polymorphism in proteins. *Protein Science*. 2010.'
   date: 201007
   image: '/static/img/pub/lang_ps_2010.jpg'
@@ -219,9 +221,19 @@
     - name: "Ringer is now also available as an alpha feature in the PHENIX GUI or on the command line as mmtbx.ringer"
       url: 'http://phenix-online.org'    
 
-
-#fraser jcb
+- citation: 'Maghzal N\*, Vogt E\*, Reintsch W, **Fraser JS**, Fagotto F. The tumor-associated EpCAM regulates morphogenetic movements through intracellular signaling. *Journal of Cell Biology*. 2010.'
+  date: 201011
+  image: '/static/img/pub/fagotto_jcb_2010.jpg'
+  pmid: 20974811
+  pmcid: PMC3003323
+  pdf: '/static/pdf/fagotto_jcb_2010.pdf'
+  links:
+    - name: "Fagotto Lab"
+      url: 'http://biology.mcgill.ca/faculty/fagotto/'
 #fraser nature
+
 #fraser comb
+
 #fraser mol micro
+
 #fraser jmb
