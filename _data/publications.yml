@@ -40,3 +40,17 @@
   links:
     - name: Meeting Slides and Website
       url: 'http://cci.lbl.gov/dials/oct_2013_diffuse.htm'
+
+- citation: 'Fenwick RB, van den Bedem H, **Fraser JS**, Wright PE.  Integrated description of protein dynamics from room-temperature X-ray crystallography and NMR. * Proceedings of the National Academy of Sciences*. 2014'
+  date: 201401
+  image: '/static/img/pub/fenwick_pnas_2014.jpg'
+  pmid: 24474795
+  pmcid: PMC3910589
+  pdf: '/static/pdf/fenwick_pnas_2014.pdf'
+  links:
+    - name: Wright Lab
+      url: 'http://www.scripps.edu/wright/'
+    - name: F1000 Evaluation
+      url: 'http://f1000.com/prime/718255725'
+    - name: Python Scripts
+      url: 'http://www.scripps.edu/wright/mcOPA.tar.gz'
