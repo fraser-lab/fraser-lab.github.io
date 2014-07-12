@@ -195,8 +195,31 @@
     - name: "SLAC: Proteins better analyzed at room temperature"
       url: 'https://news.slac.stanford.edu/features/proteins-better-analyzed-room-temperature-report-finds'
 
-#fraser jackson
+- citation: '**Fraser JS**, Jackson CJ. Mining electron density for functionally relevant protein polysterism in crystal structures. *Cellular and Molecular Life Sciences*. 2011.'
+  date: 201106
+  image: '/static/img/pub/fraser_cmls_2011.jpg'
+  pmid: 21190057
+  pmcid: PMC3092063
+  pdf: '/static/pdf/fraser_cmls_2011.pdf'
+
 #lang prot sci
+- citation: 'Lang PT\*, Ng HL\*, **Fraser JS, Corn JE, Echols N, Sales M, Holton JM, Alber T. Automated electron-density sampling reveals widespread conformational polymorphism in proteins. *Protein Science*. 2010.'
+  date: 201007
+  image: '/static/img/pub/lang_ps_2010.jpg'
+  pmid: 20499387
+  pmcid: PMC2974833
+  pdf: '/static/pdf/lang_ps_2010.pdf'
+  links:
+    - name: "Ringer Website"
+      url: 'http://bl831.als.lbl.gov/ringer/'
+    - name: "Protein Science: Peripatetic proteins"
+      url: 'http://onlinelibrary.wiley.com/doi/10.1002/pro.422/abstract'
+    - name: "QB3: QB3 structural biologists make algorithm available on the web"
+      url: 'http://qb3.org/news-and-events/archive/2010/qb3-structural-biologists-make-algorithm-available-on-the-web'
+    - name: "Ringer is now also available as an alpha feature in the PHENIX GUI or on the command line as mmtbx.ringer"
+      url: 'http://phenix-online.org'    
+
+
 #fraser jcb
 #fraser nature
 #fraser comb
