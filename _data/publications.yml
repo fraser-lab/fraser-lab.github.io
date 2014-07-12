@@ -67,7 +67,7 @@
 
 - citation: 'van den Bedem H, Bhabha G, Yang K, Wright PE, **Fraser JS**. Automated identification of functional dynamic contact networks from X-ray crystallography. *Nature Methods*. 2013'
   date: 201409
-  image: '/static/img/pub/vdb_nmethods_2013.jpg'
+  image: '/static/img/pub/vdb_nmethods_2013.png'
   pmid: 23913260
   pmcid: PMC3760795
   pdf: '/static/pdf/vdb_nmethods_2013.pdf'
@@ -76,12 +76,12 @@
       url: 'http://smb.slac.stanford.edu/CONTACT/'
     - name: Henry van den Bedem
       url: 'https://people.stanford.edu/vdbedem/'
-#     - name: Wright Lab
-#       url: 'http://www.scripps.edu/wright/'
-#     - name: NMethods News and Views Vizualizing Networks of Protein Mobility
-#       url: 'http://www.nature.com/nmeth/journal/v10/n9/pdf/nmeth.2606.pdf'
-#     - name: NSMB Crystal Clear Dynamics
-#       url: 'http://www.nature.com/nsmb/journal/v20/n9/full/nsmb.2670.html'
+    - name: Wright Lab
+      url: 'http://www.scripps.edu/wright/'
+    - name: NMethods News and Views Vizualizing Networks of Protein Mobility
+      url: 'http://www.nature.com/nmeth/journal/v10/n9/pdf/nmeth.2606.pdf'
+    - name: NSMB Crystal Clear Dynamics
+      url: 'http://www.nature.com/nsmb/journal/v20/n9/full/nsmb.2670.html'
 #     - name: NChemBiol Shake it up, baby
 #       url: 'http://www.nature.com/nchembio/journal/v9/n10/full/nchembio.1344.html'
 #     - name: SBKB Drug Discovery: Identifying Dynamic Networks by CONTACT 
