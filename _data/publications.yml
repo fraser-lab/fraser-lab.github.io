@@ -65,17 +65,17 @@
     - name: END/RAPID Website
       url: 'http://bl831.als.lbl.gov/END/RAPID/'
 
-# - citation: 'van den Bedem H, Bhabha G, Yang K, Wright PE, **Fraser JS**. Automated identification of functional dynamic contact networks from X-ray crystallography. *Nature Methods*. 2013'
-#   date: 201409
-#   image: '/static/img/pub/vdb_nmethods_2013.jpg'
-#   pmid: 23913260
-#   pmcid: PMC3760795
-#   pdf: '/static/pdf/vdb_nmethods_2013.pdf'
-#   links:
-#     - name: CONTACT Website
-#       url: 'http://smb.slac.stanford.edu/CONTACT/'
-#     - name: Henry van den Bedem
-#       url: 'https://people.stanford.edu/vdbedem/'
+- citation: 'van den Bedem H, Bhabha G, Yang K, Wright PE, **Fraser JS**. Automated identification of functional dynamic contact networks from X-ray crystallography. *Nature Methods*. 2013'
+  date: 201409
+  image: '/static/img/pub/vdb_nmethods_2013.jpg'
+  pmid: 23913260
+  pmcid: PMC3760795
+  pdf: '/static/pdf/vdb_nmethods_2013.pdf'
+  links:
+    - name: CONTACT Website
+      url: 'http://smb.slac.stanford.edu/CONTACT/'
+    - name: Henry van den Bedem
+      url: 'https://people.stanford.edu/vdbedem/'
 #     - name: Wright Lab
 #       url: 'http://www.scripps.edu/wright/'
 #     - name: NMethods News and Views Vizualizing Networks of Protein Mobility
