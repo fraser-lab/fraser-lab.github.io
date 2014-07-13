@@ -13,6 +13,7 @@
 
 - name: Daniel Keedy
   image: /static/img/members/dkeedy.jpg
+  altimage: /static/img/members/dkeedyaltsmall.jpg
   position: Postdoc
   email: daniel.keedy (at) gmail.com
   twitter: "danielkeedy"
