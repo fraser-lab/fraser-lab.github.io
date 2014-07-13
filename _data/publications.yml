@@ -205,7 +205,7 @@
     - name: "Jackson Lab"
       url: 'http://jacksonlab.wordpress.com/'
 
-- citation: 'Lang PT\*, Ng HL\*, **Fraser JS, Corn JE, Echols N, Sales M, Holton JM, Alber T. Automated electron-density sampling reveals widespread conformational polymorphism in proteins. *Protein Science*. 2010.'
+- citation: 'Lang PT\*, Ng HL\*, **Fraser JS**, Corn JE, Echols N, Sales M, Holton JM, Alber T. Automated electron-density sampling reveals widespread conformational polymorphism in proteins. *Protein Science*. 2010.'
   date: 201007
   image: '/static/img/pub/lang_ps_2010.jpg'
   pmid: 20499387
