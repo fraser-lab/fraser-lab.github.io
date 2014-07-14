@@ -48,12 +48,12 @@ Feedly is a good RSS aggregator. Right now you will first have to add a feed.  S
 
 Install the [Google chrome extension](https://chrome.google.com/webstore/detail/rss-subscription-extensio/nlbjncdgjeocebhnmkbbbdekmmmcbfjd?hl=en)
 After it is installed, alter the options for this extension in Chrome:
-+ Window->Extensions
-+ Find RSS Subscription Extension (by Google) and click Options
-+ In “RSS Subscription options” click add
-+ Enter:
-+ Description: Feedly
-+ URL: http://www.feedly.com/home#subscription/feed/%s
+<li>Window->Extensions
+<li>Find RSS Subscription Extension (by Google) and click Options
+<li>In “RSS Subscription options” click add
+<li>Enter:
+<li>Description: Feedly
+<li>URL: http://www.feedly.com/home#subscription/feed/%s
 
 Make sure this is the default selection, and click “Always use my default reader when subscribing to feeds.”
 
@@ -66,33 +66,33 @@ This is a just  first step - don’t worry you will get a broader range of journ
 Now that the Chrome extension is set up, go the websites of your favourite journals - if there is an RSS logo in the location bar, add it.  If not, search for RSS in the text (this is especially bad for the Cell Press family).  I suggest making a quick list first of the journals you want to hit first.  Below is my list, followed by the url for the RSS feed so you can just copy and paste it into the “add content” bar in feedly.
 
 The big/weekly/general interest journals (everyone cares):
-+ Nature -http://www.nature.com/nature/current_issue/rss
-+ Science - http://www.sciencemag.org/rss/current.xml
-+ Cell - http://rss.sciencedirect.com/publication/science/00928674
-+ eLife - http://elife.elifesciences.org/rss/recent.xml
-+ PLoS Biology - http://www.plosbiology.org/article/feed
-+ PNAS - http://www.pnas.org/rss/current.xml
+<li>Nature -http://www.nature.com/nature/current_issue/rss
+<li>Science - http://www.sciencemag.org/rss/current.xml
+<li>Cell - http://rss.sciencedirect.com/publication/science/00928674
+<li>eLife - http://elife.elifesciences.org/rss/recent.xml
+<li>PLoS Biology - http://www.plosbiology.org/article/feed
+<li>PNAS - http://www.pnas.org/rss/current.xml
 
 biweekly/npg/baby plos/etc (most people probably care):
-+ Nature Methods: http://www.nature.com/nmeth/current_issue/rss
-+ Molecular Systems Biology: http://www.nature.com/msb/current_issue/rss/
-+ Nature Genetics: http://feeds.nature.com/ng/rss/current
-+ NSMB: http://www.nature.com/nsmb/current_issue/rss
-+ Nature ChemBiol: "http://feeds.nature.com/nchembio/rss/current
-+ PLoS Genetics: http://www.plosgenetics.org/article/feed
-+ PLoS CompBio: http://www.ploscompbiol.org/article/feed
-+ Science Signalling: http://stke.sciencemag.org/rss/current.xml
-+ Cell Reports: http://rss.sciencedirect.com/publication/science/22111247
-+ Molecular Cell: http://rss.sciencedirect.com/publication/science/10972765
+<li>Nature Methods: http://www.nature.com/nmeth/current_issue/rss
+<li>Molecular Systems Biology: http://www.nature.com/msb/current_issue/rss/
+<li>Nature Genetics: http://feeds.nature.com/ng/rss/current
+<li>NSMB: http://www.nature.com/nsmb/current_issue/rss
+<li>Nature ChemBiol: "http://feeds.nature.com/nchembio/rss/current
+<li>PLoS Genetics: http://www.plosgenetics.org/article/feed
+<li>PLoS CompBio: http://www.ploscompbiol.org/article/feed
+<li>Science Signalling: http://stke.sciencemag.org/rss/current.xml
+<li>Cell Reports: http://rss.sciencedirect.com/publication/science/22111247
+<li>Molecular Cell: http://rss.sciencedirect.com/publication/science/10972765
 
 a few specific to my field (you and your colleagues care):
-+ ActaCrystD: http://journals.iucr.org/d/rss10.xml
-+ JBiolNMR: http://www.springerlink.com/content/102922/?sortorder=asc&amp;+export=rss
-+ Current opinion in structural biology: http://rss.sciencedirect.com/+publication/science/0959440X
-+ Protein Science: http://www3.interscience.wiley.com/rss/journal/121502357
-+ Structure: http://rss.sciencedirect.com/publication/science/09692126
-+ Biochemistry: http://pubs.acs.org/wls/alerts/rss/bichaw.rss
-+ JMB: http://rss.sciencedirect.com/publication/science/00222836
+<li>ActaCrystD: http://journals.iucr.org/d/rss10.xml
+<li>JBiolNMR: http://www.springerlink.com/content/102922/?sortorder=asc&amp;+export=rss
+<li>Current opinion in structural biology: http://rss.sciencedirect.com/+publication/science/0959440X
+<li>Protein Science: http://www3.interscience.wiley.com/rss/journal/121502357
+<li>Structure: http://rss.sciencedirect.com/publication/science/09692126
+<li>Biochemistry: http://pubs.acs.org/wls/alerts/rss/bichaw.rss
+<li>JMB: http://rss.sciencedirect.com/publication/science/00222836
 
 *note*: for the Cell Press Journals, I use the ScienceDirect Feeds rather than the ones that go to the journal itself.  This is because Cell stopped updating their RSS feeds for a brief period earlier in 2013 and UCSF only has access through ScienceDirect anyway.
 
