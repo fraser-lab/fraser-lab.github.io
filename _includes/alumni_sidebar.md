@@ -1,7 +1,4 @@
-<!-- ---
-title: Alumni Sidebar
----
- -->
+
 ## Fraser Lab Alumni
 
 ---
