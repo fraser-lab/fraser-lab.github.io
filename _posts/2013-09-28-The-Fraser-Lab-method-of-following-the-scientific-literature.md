@@ -20,7 +20,8 @@ Ultimately if PLoS1 is successful in absorbing all of Pubmed, sorting through th
 
 I use an RSS reader on my iPhone to scan through the titles of papers almost anytime I am walking within our building.  I read abstracts on my phone anytime I am sitting down waiting for something to start. I read papers on my computer in the morning when I’m drinking coffee. I probably spend 10-20 minutes a day engaged in the literature, almost all of it while waiting or walking. How do I set this up?  Read on...
 
-**What is RSS?))
+###What is RSS?
+
 RSS is a web syndication format that allows publishers to automatically update their audience of changes in content.  For the audience (us) this eliminates the need to check the website for updates - any new content is delivered via an RSS feed.  For scientific publishing, each journal generally has its own feed and each article is a separate item in the feed.  By directing all of these feeds to the same place, we can aggregate all the articles you would want to read. Google Reader was a very popular aggregator, but Google killed it.  I use Feedly now and find that it is pretty reliable and easy to use. It has a little more style than I would like, because I find the uneven formatting distracting.   I’ll detail more on how to use Feedly and my general workflow below.
 
 Most newspaper sites, blogs, etc also have RSS feeds - but I keep my science and personal RSS feeds separate.
@@ -30,7 +31,7 @@ The RSS logo is this:
 
 More information can be found on [Wikipedia](http://en.wikipedia.org/wiki/RSS)
 
-**Why RSS instead of emailed TOC or Twitter?**
+###Why RSS instead of emailed TOC or Twitter?
 
 You can use RSS feeds to automatically collect all the new articles in one place, read through the titles rapidly, save the titles that look interesting, and then read only a limited subset of those articles. Like receiving table of contents (TOC) emails, RSS feeds will notify you when a journal publishes a new issue and give you titles of all the articles.  
 
@@ -38,7 +39,7 @@ There are two major advantages over email TOC: 1) in the RSS feed, articles are 
 
 Why not Twitter? RSS feeds will give you the opportunity to (quickly) sort through every article. If you buy the premise that the literature is overwhelming, then Twitter might be good for you. I worry that the signal-to-noise on literature commenting/highlighting on Twitter will be very low - but I haven’t really used it much.
 
-**How to set up RSS feeds:**
+###How to set up RSS feeds:
 
 1) [Create a feedly account](http://cloud.feedly.com/#start) 
 
@@ -120,17 +121,17 @@ Yes - but that presents more opportunities to actually read an important paper.
 
 ~15 minutes. Plus, anytime you want to add a new search for a new author or new journal, you can just add the feed.
 
-**How to move through RSS feeds efficiently:**
+###How to move through RSS feeds efficiently:
 
 Separate reading titles, sorting abstracts, and reading papers into distinct tasks at distinct times
 
-*Titles, while walking around:*
+####Titles, while walking around:
 
 I scan through the titles from RSS feeds very quickly. I have a good RSS reader on my phone (Byline, which I prefer to Feedly’s native app) that syncs with feedly. Whenever I am walking, I use byline to swipe through article titles and star the ones with interesting sounding abstracts. I generally sneak a peek at the author list too and save based on authors. 
 
 Similarly, when I’m on my computer, I scan through titles very quickly using keyboard shortcuts (j for next, k for previous) and save articles for later (keyboard shortcut “s”).  
 
-*Abstracts, while sitting and waiting:*
+####Abstracts, while sitting and waiting:
 
 When I have small pockets of time (usually waiting for someone or sitting somewhere), I go into my saved folder (on the phone or computer) and read the abstracts.  If I have a lot of time (more than 5 minutes) and am at my computer, I will open the interesting ones in the background 
 
@@ -140,11 +141,11 @@ and then the keyboard shortcut is “;”) -
 
 This keeps the focus on the abstracts and doesn’t require touching the mouse or trackpad.  I get into a rhythm of hitting “j” (then “;”) then “s” to advance (, open) and unstar an article.  If I’m on my phone or don’t have a lot of time, I just unstar the ones that no longer interest me. 
 
-*Reading, while you have >5 minutes at your computer:*
+####Reading, while you have >5 minutes at your computer:
 
 When I have time (generally first thing in the AM and on weekends) - I open up background tabs for all the articles have survived in my saved folder and start scanning through them.  I’m a fairly fast reader and have learned to get a lot out of scanning articles.  I don’t read many articles carefully, but I get a good idea of what is going on in the literature based on...
 
-**My 80-20 theory of the literature:**
+####My 80-20 theory of the literature:
 
 I scan through all the articles in my RSS feeds and save ~20% of the titles to read the abstracts (1-3 seconds per paper). This is done on my phone or on my computer.
 
@@ -162,10 +163,10 @@ This strategy keeps me aware of what is being published and gives me a partial k
 
 Is the 80/20 number totally made up? Yes. Many weeks it might end up as 95/5 in some steps and 50/50 in others.  It’s just a guideline that makes me very comfortable in abandoning papers at any point in the process.
 
-**Why I don’t use Mendeley or Papers or anything else.**
+###Why I don’t use Mendeley or Papers or anything else.
 
 I’ve never been the type to take notes on physical paper or even on PDFs.  For this purpose, I imagine these applications are quite useful. I also think the amount of time people spend categorizing and organizing papers is better spent reading titles, abstracts, and papers. With pubmed searches and a good memory for author names, you are never more than 5 seconds from finding the paper anyway. I like the idea of Pubchase using this information to prioritize a feed of articles - but wish they would embrace RSS feeds as a way to stay on top of the literature.  
 
-**Ok - I actually do use Papers.**
+###Ok - I actually do use Papers.
 
 -but only for citations (it is much better than endnote).  I don’t pay attention to my Library at all.  I just search in a browser window for what I want, copy the pubmed ID and then import based on that into my library.  Then I generally use PMID for finding and inserting the references.
