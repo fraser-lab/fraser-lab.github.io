@@ -25,12 +25,13 @@ RSS is a web syndication format that allows publishers to automatically update t
 
 Most newspaper sites, blogs, etc also have RSS feeds - but I keep my science and personal RSS feeds separate.
 The RSS logo is this: 
+
 ![RSS Logo](/static/img/news/rss-logo.png "RSS")
 
-
-More information can be found on Wikipedia: http://en.wikipedia.org/wiki/RSS
+More information can be found on [Wikipedia](http://en.wikipedia.org/wiki/RSS)
 
 **Why RSS instead of emailed TOC or Twitter?**
+
 You can use RSS feeds to automatically collect all the new articles in one place, read through the titles rapidly, save the titles that look interesting, and then read only a limited subset of those articles. Like receiving table of contents (TOC) emails, RSS feeds will notify you when a journal publishes a new issue and give you titles of all the articles.  
 
 There are two major advantages over email TOC: 1) in the RSS feed, articles are discretized (often with the abstract) - meaning you can quickly sort through the entire issue and save the relevant portions for later, 2) email is for back and forth communication - I am often overwhelmed by the amount of email that I get and have set up several filters to try to reserve my inbox to actual back and forth communication, leaving all non-urgent notifications to sort through at a later time. Separating the literature into RSS feeds (away from email) also creates a psychological divide between one of my most joyful activities as a scientist (reading the literature) from one of my most hated (email).
@@ -38,78 +39,85 @@ There are two major advantages over email TOC: 1) in the RSS feed, articles are 
 Why not Twitter? RSS feeds will give you the opportunity to (quickly) sort through every article. If you buy the premise that the literature is overwhelming, then Twitter might be good for you. I worry that the signal-to-noise on literature commenting/highlighting on Twitter will be very low - but I haven’t really used it much.
 
 **How to set up RSS feeds:**
+
 1) [Create a feedly account](http://cloud.feedly.com/#start) 
 
 Feedly is a good RSS aggregator. Right now you will first have to add a feed.  Search for “Plos biology” and click “add to my feedly” to be prompted to create an account. Link the account to your google account.  
 
-2) Set up chrome to add RSS feeds properly.  
-Install the (Google chrome extension)[https://chrome.google.com/webstore/detail/rss-subscription-extensio/nlbjncdgjeocebhnmkbbbdekmmmcbfjd?hl=en]
+2) Set up chrome to add RSS feeds properly. 
+
+Install the [Google chrome extension](https://chrome.google.com/webstore/detail/rss-subscription-extensio/nlbjncdgjeocebhnmkbbbdekmmmcbfjd?hl=en)
 After it is installed, alter the options for this extension in Chrome:
-Window->Extensions
-Find RSS Subscription Extension (by Google) and click Options
-In “RSS Subscription options” click add
-Enter:
-Description: Feedly
-URL: http://www.feedly.com/home#subscription/feed/%s
++Window->Extensions
++Find RSS Subscription Extension (by Google) and click Options
++In “RSS Subscription options” click add
++Enter:
++Description: Feedly
++URL: http://www.feedly.com/home#subscription/feed/%s
 
 Make sure this is the default selection, and click “Always use my default reader when subscribing to feeds.”
 
 Now, anytime you are on a website with an RSS feed, the RSS logo will appear at the right of the location/search bar.  Clicking on the logo will take you to feedly to add the RSS feed to your list.
 
 3) Add RSS feeds for journals. 
+
 This is a just  first step - don’t worry you will get a broader range of journals through keyword, author and citation based searches!
 
 Now that the Chrome extension is set up, go the websites of your favourite journals - if there is an RSS logo in the location bar, add it.  If not, search for RSS in the text (this is especially bad for the Cell Press family).  I suggest making a quick list first of the journals you want to hit first.  Below is my list, followed by the url for the RSS feed so you can just copy and paste it into the “add content” bar in feedly.
 
 The big/weekly/general interest journals (everyone cares):
-Nature -http://www.nature.com/nature/current_issue/rss
-Science - http://www.sciencemag.org/rss/current.xml
-Cell - http://rss.sciencedirect.com/publication/science/00928674
-eLife - http://elife.elifesciences.org/rss/recent.xml
-PLoS Biology - http://www.plosbiology.org/article/feed
-PNAS - http://www.pnas.org/rss/current.xml
++Nature -http://www.nature.com/nature/current_issue/rss
++Science - http://www.sciencemag.org/rss/current.xml
++Cell - http://rss.sciencedirect.com/publication/science/00928674
++eLife - http://elife.elifesciences.org/rss/recent.xml
++PLoS Biology - http://www.plosbiology.org/article/feed
++PNAS - http://www.pnas.org/rss/current.xml
 
 biweekly/npg/baby plos/etc (most people probably care):
-Nature Methods: http://www.nature.com/nmeth/current_issue/rss
-Molecular Systems Biology: http://www.nature.com/msb/current_issue/rss/
-Nature Genetics: http://feeds.nature.com/ng/rss/current
-NSMB: http://www.nature.com/nsmb/current_issue/rss
-Nature ChemBiol: "http://feeds.nature.com/nchembio/rss/current
-PLoS Genetics: http://www.plosgenetics.org/article/feed
-PLoS CompBio: http://www.ploscompbiol.org/article/feed
-Science Signalling: http://stke.sciencemag.org/rss/current.xml
-Cell Reports: http://rss.sciencedirect.com/publication/science/22111247
-Molecular Cell: http://rss.sciencedirect.com/publication/science/10972765
++Nature Methods: http://www.nature.com/nmeth/current_issue/rss
++Molecular Systems Biology: http://www.nature.com/msb/current_issue/rss/
++Nature Genetics: http://feeds.nature.com/ng/rss/current
++NSMB: http://www.nature.com/nsmb/current_issue/rss
++Nature ChemBiol: "http://feeds.nature.com/nchembio/rss/current
++PLoS Genetics: http://www.plosgenetics.org/article/feed
++PLoS CompBio: http://www.ploscompbiol.org/article/feed
++Science Signalling: http://stke.sciencemag.org/rss/current.xml
++Cell Reports: http://rss.sciencedirect.com/publication/science/22111247
++Molecular Cell: http://rss.sciencedirect.com/publication/science/10972765
 
 a few specific to my field (you and your colleagues care):
-ActaCrystD: http://journals.iucr.org/d/rss10.xml
-JBiolNMR: http://www.springerlink.com/content/102922/?sortorder=asc&amp;export=rss
-Current opinion in structural biology: http://rss.sciencedirect.com/publication/science/0959440X
-Protein Science: http://www3.interscience.wiley.com/rss/journal/121502357
-Structure: http://rss.sciencedirect.com/publication/science/09692126
-Biochemistry: http://pubs.acs.org/wls/alerts/rss/bichaw.rss
-JMB: http://rss.sciencedirect.com/publication/science/00222836
++ActaCrystD: http://journals.iucr.org/d/rss10.xml
++JBiolNMR: http://www.springerlink.com/content/102922/?sortorder=asc&amp;+export=rss
++Current opinion in structural biology: http://rss.sciencedirect.com/+publication/science/0959440X
++Protein Science: http://www3.interscience.wiley.com/rss/journal/121502357
++Structure: http://rss.sciencedirect.com/publication/science/09692126
++Biochemistry: http://pubs.acs.org/wls/alerts/rss/bichaw.rss
++JMB: http://rss.sciencedirect.com/publication/science/00222836
 
 *note*: for the Cell Press Journals, I use the ScienceDirect Feeds rather than the ones that go to the journal itself.  This is because Cell stopped updating their RSS feeds for a brief period earlier in 2013 and UCSF only has access through ScienceDirect anyway.
 
 4) Add custom searches from pubmed
--For some journals, I really only care about a subset of the stuff that is published. For example, there is a lot of organic chemistry in JACS that I don’t care about, but I generally want  to read anything in JACS that has the word protein in it. Narrower searches could be useful for PLoS1, etc. It just requires a little sleuthing to figure out the Pubmed Abbreviation for the Journal. To set this up search described above, enter into the pubmed seach bar: “"J Am Chem Soc"[Journal] AND protein” and click on the RSS logo under the pubmed search bar (not on the location bar). Then, add the url for that search to feedly:
+
+For some journals, I really only care about a subset of the stuff that is published. For example, there is a lot of organic chemistry in JACS that I don’t care about, but I generally want  to read anything in JACS that has the word protein in it. Narrower searches could be useful for PLoS1, etc. It just requires a little sleuthing to figure out the Pubmed Abbreviation for the Journal. To set this up search described above, enter into the pubmed seach bar: “"J Am Chem Soc"[Journal] AND protein” and click on the RSS logo under the pubmed search bar (not on the location bar). Then, add the url for that search to feedly:
 
 http://eutils.ncbi.nlm.nih.gov/entrez/eutils/erss.cgi?rss_guid=0ht3efJvo9Hq3At6XO-qXnFhj1CwHy-Eb84dXls1aXt
 
--Similarly, you can use Pubmed to set up RSS feeds to follow your favourite scientists and friends. Just search pubmed for their name “Fraser JS” for example and click on the RSS logo.  I have feeds for most of the people in my department, my collaborators, people whose work I really admire, etc.
+Similarly, you can use Pubmed to set up RSS feeds to follow your favourite scientists and friends. Just search pubmed for their name “Fraser JS” for example and click on the RSS logo.  I have feeds for most of the people in my department, my collaborators, people whose work I really admire, etc.
 
--Finally, keywords in pubmed. I recommend trying out a few searches first. But anything that has less than 20 new papers published per week is pretty manageable. 
+Finally, keywords in pubmed. I recommend trying out a few searches first. But anything that has less than 20 new papers published per week is pretty manageable. 
 
 5) Add citation-based searches. 
+
 This is a bit trickier and relies on ISI Web of Knowledge.  I have these set up for most of my papers and papers published by others that I care a lot about. Instructions are (here)[http://images.webofknowledge.com/WOK45/help/WOK/h_citalerts.html]
 
 I wish google would implement this for google scholar - they have email alerts, but not RSS. You can use an (email to rss converter)[http://emails2rss.appspot.com/] to help with this.
 
 6) Isn’t there some redundancy?
+
 Yes - but that presents more opportunities to actually read an important paper.
 
 7) How long does this take to set-up?  
+
 ~15 minutes. Plus, anytime you want to add a new search for a new author or new journal, you can just add the feed.
 
 **How to move through RSS feeds efficiently:**
@@ -117,11 +125,13 @@ Yes - but that presents more opportunities to actually read an important paper.
 Separate reading titles, sorting abstracts, and reading papers into distinct tasks at distinct times
 
 *Titles, while walking around:*
+
 I scan through the titles from RSS feeds very quickly. I have a good RSS reader on my phone (Byline, which I prefer to Feedly’s native app) that syncs with feedly. Whenever I am walking, I use byline to swipe through article titles and star the ones with interesting sounding abstracts. I generally sneak a peek at the author list too and save based on authors. 
 
 Similarly, when I’m on my computer, I scan through titles very quickly using keyboard shortcuts (j for next, k for previous) and save articles for later (keyboard shortcut “s”).  
 
 *Abstracts, while sitting and waiting:*
+
 When I have small pockets of time (usually waiting for someone or sitting somewhere), I go into my saved folder (on the phone or computer) and read the abstracts.  If I have a lot of time (more than 5 minutes) and am at my computer, I will open the interesting ones in the background 
 
 (install (this extension)[https://chrome.google.com/webstore/detail/feedly-background-tab/gjlijkhcebalcchkhgaiflaooghmoegk]
@@ -131,9 +141,11 @@ and then the keyboard shortcut is “;”) -
 This keeps the focus on the abstracts and doesn’t require touching the mouse or trackpad.  I get into a rhythm of hitting “j” (then “;”) then “s” to advance (, open) and unstar an article.  If I’m on my phone or don’t have a lot of time, I just unstar the ones that no longer interest me. 
 
 *Reading, while you have >5 minutes at your computer:*
+
 When I have time (generally first thing in the AM and on weekends) - I open up background tabs for all the articles have survived in my saved folder and start scanning through them.  I’m a fairly fast reader and have learned to get a lot out of scanning articles.  I don’t read many articles carefully, but I get a good idea of what is going on in the literature based on...
 
 **My 80-20 theory of the literature:**
+
 I scan through all the articles in my RSS feeds and save ~20% of the titles to read the abstracts (1-3 seconds per paper). This is done on my phone or on my computer.
 
 Of the papers I read the abstracts for, I open the full article for ~20% (5-10 seconds per paper).  I read abstracts on my phone or my computer. If I’m on my computer, I will often go through the rest of the steps. If I’m on my phone, I simply unstar the ones I don’t want to read and come back to the full text when I’m at my computer.
@@ -151,7 +163,9 @@ This strategy keeps me aware of what is being published and gives me a partial k
 Is the 80/20 number totally made up? Yes. Many weeks it might end up as 95/5 in some steps and 50/50 in others.  It’s just a guideline that makes me very comfortable in abandoning papers at any point in the process.
 
 **Why I don’t use Mendeley or Papers or anything else.**
+
 I’ve never been the type to take notes on physical paper or even on PDFs.  For this purpose, I imagine these applications are quite useful. I also think the amount of time people spend categorizing and organizing papers is better spent reading titles, abstracts, and papers. With pubmed searches and a good memory for author names, you are never more than 5 seconds from finding the paper anyway. I like the idea of Pubchase using this information to prioritize a feed of articles - but wish they would embrace RSS feeds as a way to stay on top of the literature.  
 
 **Ok - I actually do use Papers.**
+
 -but only for citations (it is much better than endnote).  I don’t pay attention to my Library at all.  I just search in a browser window for what I want, copy the pubmed ID and then import based on that into my library.  Then I generally use PMID for finding and inserting the references.
