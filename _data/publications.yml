@@ -182,7 +182,7 @@
   image: '/static/img/pub/fraser_pnas_2011.jpg'
   pmid: 21918110
   pmcid: PMC3182744
-  pdf: '/static/pdf/fraser_pnas_2011.pdf'
+  pdf: '/static/pdf/fraser_2011_pnas.pdf'
   links:
     - name: "qFIT server"
       url: 'http://smb.slac.stanford.edu/qFitServer/qFit.jsp'
