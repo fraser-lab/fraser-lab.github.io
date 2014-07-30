@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Fraser Lab @ UCSF
 layout: home
 group: home
 ---
