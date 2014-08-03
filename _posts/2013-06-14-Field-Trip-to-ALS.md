@@ -1,20 +1,16 @@
 ---
-Title: <!-- Title Goes Here -->
+Title: ALS Trip
 layout: post
 group: news
 ---
-![group](/static/img/news/als-group.jpg "group")
-
+<img src="/static/img/news/als-group.jpg" alt="group" class="img-responsive">
 #groupshot
 
-![snack](/static/img/news/als-snack.jpg "snack")
-
+<img src="/static/img/news/als-snack.jpg" alt="snack" class="img-responsive">
 #midnightsnack
 
-![hok](/static/img/news/als-avi.png "hok")
-
+<img src="/static/img/news/als-avi.png" alt="avi" class="img-responsive">
 #makinghimjealous
 
-![2theta](/static/img/news/als-two-theta.jpg "2theta")
-
+<img src="/static/img/news/als-two-theta.jpg" alt="avi" class="img-responsive">
 #twotheta
