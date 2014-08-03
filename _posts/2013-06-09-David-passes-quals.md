@@ -12,6 +12,6 @@ describing how he felt **after** answering...
 
 
 two down, one to go!
-![rahel](/static/img/news/david-quals3.jpg "rahel")
+<img src="/static/img/news/david-quals3.jpg" alt="rahel" class="img-responsive">
 
 Congratulations Iggy!
