@@ -5,4 +5,4 @@ group: news
 ---
 ![Panorama](/static/img/news/daniel-bday-panorama.jpg "Panorama")
 
-![Group](/static/img/news/daniel-bday-panorama.jpg "Group")![Cake](/static/img/news/daniel-bday-cake.jpg "Cake")
+![Group](/static/img/news/daniel-bday.jpg "Group")![Cake](/static/img/news/daniel-bday-cake.jpg "Cake")
