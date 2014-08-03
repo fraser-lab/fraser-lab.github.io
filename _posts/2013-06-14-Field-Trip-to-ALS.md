@@ -4,13 +4,13 @@ layout: post
 group: news
 ---
 <img src="/static/img/news/als-group.jpg" alt="group" class="img-responsive">
-#groupshot
+\#groupshot
 
 <img src="/static/img/news/als-snack.jpg" alt="snack" class="img-responsive">
-#midnightsnack
+\#midnightsnack
 
 <img src="/static/img/news/als-avi.png" alt="avi" class="img-responsive">
-#makinghimjealous
+\#makinghimjealous
 
 <img src="/static/img/news/als-two-theta.jpg" alt="avi" class="img-responsive">
-#twotheta
+\#twotheta
