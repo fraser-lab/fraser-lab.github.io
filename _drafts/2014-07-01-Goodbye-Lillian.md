@@ -1,7 +1,18 @@
 ---
-Title: <!-- Title Goes Here -->
+Title: Goodbye Lillian
 layout: post
 group: news
 ---
 
-<!-- Content goes here in the markdown format. The page title should be saved as Year-Month-Day-Title.md in the _posts folder when draft is complete to publish -->
+
+ <img src="/static/img/news/Lillian_Sad.jpg" alt="Sad" class="img-responsive">
+
+ <img src="/static/img/news/LCakes.jpg" alt="LCakes" class="img-responsive">
+
+ <img src="/static/img/news/LCakes_Squared.jpg" alt="LCakes^2" class="img-responsive">
+
+ <img src="/static/img/news/LILLIAN_IN_MOTION.gif" alt="Attack!" class="img-responsive">
+
+ <img src="/static/img/news/Lillian_Gift.jpg" alt="Laser Pointer" class="img-responsive">
+
+
