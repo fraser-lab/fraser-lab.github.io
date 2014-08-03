@@ -194,6 +194,8 @@
       url: 'http://www.pnas.org/content/108/39/16135.full#sec-4'
     - name: "SLAC: Proteins better analyzed at room temperature"
       url: 'https://news.slac.stanford.edu/features/proteins-better-analyzed-room-temperature-report-finds'
+    - name: "PLoS Postcard based on a talk just prior to publication"
+      url: 'http://www.ploscompbiol.org/article/info:doi/10.1371/journal.pcbi.1002000#s3'
 
 - citation: '**Fraser JS**, Jackson CJ. Mining electron density for functionally relevant protein polysterism in crystal structures. *Cellular and Molecular Life Sciences*. 2011.'
   date: 201106
