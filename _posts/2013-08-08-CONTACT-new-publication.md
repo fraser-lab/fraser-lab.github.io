@@ -1,0 +1,8 @@
+---
+Title: CONTACT
+layout: post
+group: news
+---
+Our paper with Henry van den Bedem and Peter Wright has been published at Nature Methods.
+
+Henry worked with Mike Ross at SLAC to make a (YouTube video)[https://www.youtube.com/watch?v=O29pJhFUwpk] explaining the method.
