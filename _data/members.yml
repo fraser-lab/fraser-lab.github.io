@@ -1,39 +1,40 @@
+
 - name: James Fraser
   image: /static/img/members/fraser.jpg
   position: Principal Investigator
   email: jfraser (at) fraserlab.com
   twitter: "fraser_lab"
-  description: 'James was an undergraduate at McGill University, where he worked in the lab of <a href="http://biology.mcgill.ca/faculty/fagotto/"> Francois Fagotto</a> on <a href="/publications#20974811">Xenopus developmental biology</a>.
-  During the summers, he returned to his hometown of Toronto and worked in <a href="http://individual.utoronto.ca/davidsonlab/Davidson_Lab/Home.html">Alan Davidson's lab</a>) on TetR repressor biophysics and <a href="/publications#16631788">bacteriophage genomics</a>.'
-  He moved to California in 2005 to do his PhD in <a href="http://mcb.berkeley.edu">Molecular and Cell Biology at UC Berkeley</a>.
-  There, he worked with with <a href="http://fraserlab.com/2014/04/04/Tom-Alber/">Tom Alber</a>. They...'
-#   James has an interest in baseball and programming. 
+  description: 'James was an undergraduate at McGill University, where he worked in the lab of [Francois Fagotto](http://biology.mcgill.ca/faculty/fagotto/) on [Xenopus developmental biology](/publications#20974811).
+    During the summers, he worked in [Alan Davidson''s lab](http://individual.utoronto.ca/davidsonlab/Davidson_Lab/Home.html) on TetR repressor biophysics and [bacteriophage genomics](/publications#16631788).
+    He moved to California in 2005 to do his PhD in [Molecular and Cellular Biology at UC Berkeley](http://mcb.berkeley.edu).
+    There, he worked with [Tom Alber](http://fraserlab.com/2014/04/04/Tom-Alber/). They...'
 
-# []("/publications#PMID")
+# #   James has an interest in baseball and programming. 
 
-# http://alumni.berkeley.edu/news/california-magazine/mayjune-2007-new-food-and-farming/playing-stats
-# http://ibiomagazine.org/issues/november-2011-issue/james-fraser-a-michael-eisen.html
-# http://www.wired.com/wiredscience/2011/12/how-box-scores-are-like-gene-sequences-the-geek-path-from-baseball-to-bio/
-# http://intro-prog-bioinfo-2014.wikispaces.com/
-#    TMOL.
+# # []("/publications#PMID")
 
-#   Near the end of his PhD, he was an EMBO short term with Danny Tawfik.
-#   In January 2011, James started his independent career as a QB3 at UCSF Fellow in the Department of CMP. 
-#   http://qb3.ucsf.edu/events/mini-bio-james-fraser.shtml
-#   Fellows Webpage
-#   In January 2013, he was appointed as an Assistant Professor in the Department of Bioengineering and Therapeutic Sciences.
-#   The lab is part of these things and works a lot at BL831 (directed by our good friend James Holton. 
-#   He's been awarded these things...
-# http://pharmacy.ucsf.edu/news/2014/04/09/1/
-# http://www.nih.gov/news/health/sep2011/od-30.htm
-# http://www.ucsf.edu/news/2011/09/10713/protein-scientist-receives-national-institutes-health-early-investigator-award
+# # http://alumni.berkeley.edu/news/california-magazine/mayjune-2007-new-food-and-farming/playing-stats
+# # http://ibiomagazine.org/issues/november-2011-issue/james-fraser-a-michael-eisen.html
+# # http://www.wired.com/wiredscience/2011/12/how-box-scores-are-like-gene-sequences-the-geek-path-from-baseball-to-bio/
+# # http://intro-prog-bioinfo-2014.wikispaces.com/
+# #    TMOL.
+
+# #   Near the end of his PhD, he was an EMBO short term with Danny Tawfik.
+# #   In January 2011, James started his independent career as a QB3 at UCSF Fellow in the Department of CMP. 
+# #   http://qb3.ucsf.edu/events/mini-bio-james-fraser.shtml
+# #   Fellows Webpage
+# #   In January 2013, he was appointed as an Assistant Professor in the Department of Bioengineering and Therapeutic Sciences.
+# #   The lab is part of these things and works a lot at BL831 (directed by our good friend James Holton. 
+# #   He's been awarded these things...
+# # http://pharmacy.ucsf.edu/news/2014/04/09/1/
+# # http://www.nih.gov/news/health/sep2011/od-30.htm
+# # http://www.ucsf.edu/news/2011/09/10713/protein-scientist-receives-national-institutes-health-early-investigator-award
 
 
-# http://www.forbes.com/pictures/mkg45giif/james-fraser-qb3-fellow-university-of-california-san-francisco-29/
-# http://nih.gov/about/director/12212011_eia2011.htm
-# http://www.ucsf.edu/news/2011/12/11186/two-ucsf-scientists-forbes-magazines-30-under-30-list-brightest-young-stars
-# '
-
+# # http://www.forbes.com/pictures/mkg45giif/james-fraser-qb3-fellow-university-of-california-san-francisco-29/
+# # http://nih.gov/about/director/12212011_eia2011.htm
+# # http://www.ucsf.edu/news/2011/12/11186/two-ucsf-scientists-forbes-magazines-30-under-30-list-brightest-young-stars
+# # '
 
 - name: Lin Liu
   image: /static/img/members/lliu.jpg
