@@ -19,7 +19,7 @@ group: members
         {% endif %}
     </div>
     <div class="col-sm-8">
-        {{person.description}}
+        {{person.description | markdownify}}
     </div>  
 </div>
 {% endfor %}
