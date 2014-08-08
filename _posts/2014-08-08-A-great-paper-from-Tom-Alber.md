@@ -10,4 +10,4 @@ One of the most interesting and provocative papers published by [Tom Alber](http
 
 [This pdf](/static/pdf/alber_ciba_1982.pdf) includes the article and  a transcript of the fun discussion that followed Greg Petsko's presentation, featuring Tom Steitz, Hans Frauenfelder, Johann Deisenhofer, Martin Karpus and others.
 
-A few people have asked me for this paper - because it is hard to find in print and doesn't seem to be freely available online - so I thought I would just post it!
+A few people have asked me for this paper - because it is hard to find in print and doesn't seem to be freely available online - so I thought I would post my scan of a hardcopy!
