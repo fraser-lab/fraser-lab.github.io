@@ -1,4 +1,14 @@
 # THE WEIRDEST BUG: using escapes requires single-quotes instead of double...
+- citation: '**Woldeyes RA**, Sivak DA, **Fraser JS**. E pluribus unum, no more: from one crystal, many conformations. *Current Opinion in Structural Biology*. 2014.'
+  date: 2014.10
+  image: '/static/img/pub/woldeyes_cosb_2014.jpg'
+  pmid: TBD
+  pmcid: TBD
+  pdf: '/static/pdf/woldeyes_cosb_2014.pdf'
+  links:
+    - name: 'David Sivak'
+      url: 'http://davidsivak.com/Home.html'
+
 - citation: '**Keedy D**, van den Bedem H, Sivak DA, Petsko GA, Ringe D, Wilson MA, **Fraser JS**. Crystal Cryocooling Distorts Conformational Heterogeneity in a Model Michaelis Complex of DHFR. *Structure*. 2014.'
   date: 2014.05
   image: '/static/img/pub/keedy_structure_2014.jpg'
