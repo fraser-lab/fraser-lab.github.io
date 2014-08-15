@@ -1,3 +1,9 @@
+---
+Title: BP205
+layout: default
+group: pubs
+---
+
 **Biophysics 205A: Physical Underpinnings of Biological Systems**
 
 Fall 2014 Syllabus
