@@ -110,9 +110,9 @@ _Lab work: Measure doubling times as a function of small molecule perturbation c
 Lecturers: James Fraser (9/29,9/30), Joe DeRisi (9/29), Hiten Madhani (10/1)  
 Assigned reading:
 
-- (Fowler and Fields, 2014)
-- (Finley et al., 2012)
-- (Roscoe et al., 2013)
+- [(Fowler and Fields, 2014)](http://www.ncbi.nlm.nih.gov/pubmed/25075907)
+- [(Finley et al., 2012)](http://www.ncbi.nlm.nih.gov/pubmed/23028185)
+- [(Roscoe et al., 2013)](http://www.ncbi.nlm.nih.gov/pubmed/23376099)
 
 **Week 2 – Theme: Chemical Genetics**
 
