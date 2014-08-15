@@ -4,7 +4,7 @@ layout: default
 group: pubs
 ---
 
-**Biophysics 205A: Physical Underpinnings of Biological Systems**
+#Biophysics 205A: Physical Underpinnings of Biological Systems#
 
 Fall 2014 Syllabus
 
