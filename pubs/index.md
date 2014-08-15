@@ -122,9 +122,9 @@ Lecturers: Michael Keiser (10/6), Sourav Bandyopadhyay (10/7), Eric Chow (10/8)
 
 Assigned reading:
 
-- (Bandyopadhyay et al., 2010)
-- (Lemieux et al., 2013)
-- (Aghajan et al., 2010)
+- [(Bandyopadhyay et al., 2010)](http://www.ncbi.nlm.nih.gov/pubmed/21127252)
+- [(Lemieux et al., 2013)](http://www.ncbi.nlm.nih.gov/pubmed/24260022)
+- [(Aghajan et al., 2010)](http://www.ncbi.nlm.nih.gov/pubmed/20581845)
 
 **Week 3 – Theme: Massive Functional Profiling**
 
@@ -134,9 +134,9 @@ Lecturers: Nadav Ahituv (10/13), Ryan Hernandez (10/15)
 
 Assigned reading:
 
-- (Adzhubei et al., 2010)
-- (Araya et al., 2012)
-- (Smith et al., 2013)
+- [(Adzhubei et al., 2010)](http://www.ncbi.nlm.nih.gov/pubmed/20354512)
+- [(Araya et al., 2012)](http://www.ncbi.nlm.nih.gov/pubmed/23035249)
+- [(Smith et al., 2013)](http://www.ncbi.nlm.nih.gov/pubmed/23892608)
 
 **Week 4 – Theme: Sequence Conservation and Statistical Mechanics**
 
@@ -146,10 +146,10 @@ Lecturers: Elaine Meng (10/21), Bo Huang (10/22)
 
 Assigned reading: 
 
-- (McLaughlin et al., 2012)
-- (Pollock et al., 2012)
-- (Pei and Grishin, 2001)
-- http://www.rbvi.ucsf.edu/chimera/data/tutorials/systems/index.html
+- [(McLaughlin et al., 2012)](http://www.ncbi.nlm.nih.gov/pubmed/23041932)
+- [(Pollock et al., 2012)](http://www.ncbi.nlm.nih.gov/pubmed/22547823)
+- [(Pei and Grishin, 2001)](http://www.ncbi.nlm.nih.gov/pubmed/11524371)
+- [Chimera Tutorial by Elaine Meng](http://www.rbvi.ucsf.edu/chimera/data/tutorials/systems/index.html)
 
 
 
@@ -161,9 +161,9 @@ Lecturers: David Morgan (10/28), Jason Gestwicki (10/29)
 
 Assigned reading:
 
-- (Gestwicki and Garza, 2012)
-- (Sowa et al., 2009)
-- (Rodrigo-Brenni et al., 2010)
+- [(Gestwicki and Garza, 2012)](http://www.ncbi.nlm.nih.gov/pubmed/22482455)
+- [(Sowa et al., 2009)](http://www.ncbi.nlm.nih.gov/pubmed/19615732)
+- [(Rodrigo-Brenni et al., 2010)](http://www.ncbi.nlm.nih.gov/pubmed/20797627)
 
 **Week 6 – Theme: Single Cell/Molecule vs. Bulk Measurements**
 
@@ -173,9 +173,9 @@ Lecturers: Kurt Thorn (11/3), Steven Altschuler and Lani Wu (11/4), Tanja Kortem
 
 Assigned reading:
 
-- (Patel et al., 2014)
-- (Tinoco and Gonzalez, 2011)
-- (Rajaram et al., 2012)
+- [(Patel et al., 2014)](http://www.ncbi.nlm.nih.gov/pubmed/24925914)
+- [(Tinoco and Gonzalez, 2011)](http://www.ncbi.nlm.nih.gov/pubmed/21685361)
+- [(Rajaram et al., 2012)](http://www.ncbi.nlm.nih.gov/pubmed/22743764)
 
 **Week 7– Theme: Constraints on Stability and Interaction Specificity**
 
@@ -185,9 +185,9 @@ Lecturers: Tanja Kortemme (11/10), Samuel Thompson+Kyle Barlow (11/12)
 
 Assigned reading:
 
-- (Ollikainen et al., 2013)
-- (Leaver-Fay et al., 2011)
-- (Phillips et al., 2013)
+- [(Ollikainen et al., 2013)](http://www.ncbi.nlm.nih.gov/pubmed/23422426)
+- [(Leaver-Fay et al., 2011)](http://www.ncbi.nlm.nih.gov/pubmed/21187238)
+- [(Phillips et al., 2013)](http://www.ncbi.nlm.nih.gov/pubmed/23801757)
 
 
 
@@ -199,11 +199,11 @@ Lecturers: Adam Abate (11/17), Matthew Thomson (11/18), Dave Toczyski (11/19)
 
 Assigned reading:
 
-- (Agresti et al., 2010)
-- (Thomson et al., 2011)
-- (Stelter and Ulrich, 2003)
+- [(Agresti et al., 2010)](http://www.ncbi.nlm.nih.gov/pubmed/20142500)
+- [(Thomson et al., 2011)](http://www.ncbi.nlm.nih.gov/pubmed/21663792)
+- [(Stelter and Ulrich, 2003)](http://www.ncbi.nlm.nih.gov/pubmed/12968183)
 
-
+**References:**
 
 Adzhubei, I.A., Schmidt, S., Peshkin, L., Ramensky, V.E., Gerasimova, A., Bork, P., Kondrashov, A.S., and Sunyaev, S.R. (2010). A method and server for predicting damaging missense mutations. Nat Meth _7_, 248–249.
 
