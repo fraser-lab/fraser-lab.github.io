@@ -28,21 +28,21 @@ Fall 2014 Syllabus
 
 **TAs:**        
 
-Zairan Liu, [Zairan.Liu@ucsf.edu](mailto:Zairan.Liu@ucsf.edu)
+[Zairan Liu](mailto:Zairan.Liu@ucsf.edu)
 
-Ben Barad, [ben.barad@ucsf.edu](mailto:ben.barad@ucsf.edu)
+[Ben Barad](mailto:ben.barad@ucsf.edu)
 
-Clint Cario, [clintcario@gmail.com](mailto:clintcario@gmail.com?Subject=EMail%20From%20Website)
+[Clint Cario](mailto:clintcario@gmail.com)
 
-Alain Bonny, [alain.bonny@gmail.com](mailto:alain.bonny@gmail.com)
+[Alain Bonny](mailto:alain.bonny@gmail.com)
 
-Garrett Gaskins, [garrett](mailto:garrett.gaskins@ucsf.edu) [.](mailto:garrett.gaskins@ucsf.edu) [gaskins](mailto:garrett.gaskins@ucsf.edu) [@](mailto:garrett.gaskins@ucsf.edu) [ucsf](mailto:garrett.gaskins@ucsf.edu) [.edu](mailto:garrett.gaskins@ucsf.edu)
+[Garrett Gaskins](mailto:garrett.gaskins@ucsf.edu) 
 
 **Rosetta Helpers:**
 
-Kyle Barlow, [kyle.barlow@ucsf.edu](mailto:kyle.barlow@ucsf.edu)
+[Kyle Barlow](mailto:kyle.barlow@ucsf.edu)
 
-Samuel Thompson, [Samuel.Thompson@ucsf.edu](mailto:Samuel.Thompson@ucsf.edu)
+[Samuel Thompson](mailto:Samuel.Thompson@ucsf.edu)
 
 **Lecturers/Facilitators:**
 
