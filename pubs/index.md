@@ -79,8 +79,9 @@ Activities and speakers for each week will be announced at the beginning of each
 
 **Course Goals:**
 
-The goal of the course is to provide an immersive, hands-on experience in the context of genuine research questions. In module 1, each team will be provided an "unknown" chemical perturbation. Using deep mutational profiling, each team will measure the fitness of all possibleindividual point mutants of ubiquitin, an essential protein that is akey cellular integrator of stress. Upon processing the sequencing data, each team willperform comparisons against a reference dataset. Teams may use whatever literature, software, and resources that are available publicly, and are encouraged to write their own scripts and software where necessary.
+The goal of the course is to provide an immersive, hands-on experience in the context of genuine research questions. Teams may use whatever literature, software, and resources that are available publicly, and are encouraged to write their own scripts and software where necessary. The "official" language of the class is python - beginners should try [codeacademy](http://www.codecademy.com/en/tracks/python) or the QB3 Berkeley [intensive course](http://intro-prog-bioinfo-2014.wikispaces.com/). 
 
+ In module 1, each team will be provided an "unknown" chemical perturbation. Using deep mutational profiling, each team will measure the fitness of all possibleindividual point mutants of ubiquitin, an essential protein that is akey cellular integrator of stress. Upon processing the sequencing data, each team willperform comparisons against a reference dataset. 
 In module 2, teams will compare their data against thedatasets of other teams and perform microscopy experiments to determine whether their stress response elicits a multimodal response in growth rate. This module will reinforce core concepts of ensemble vs. single observation measurements at many levels of biophysics and systems biology.
 
 In module 3, the teams will leverage interactions with Tanja Kortemme and members of her lab to perform protein design protocols to predict sequences optimized for multiple criteria. They will test how well their deep sequencing data matches with protein design profiles generated under different constraints such as: protein stability or maintaining interactions with specific mediators of stress responses. For the final presentations, teams will explain the unique features of their Ubiquitin mutant profile by grounding their analysis in specific protein-protein interactions along branches of the cellular proteostasis network.
@@ -91,6 +92,7 @@ In module 3, the teams will leverage interactions with Tanja Kortemme and member
 - Appropriate methods for documenting laboratory procedures
 - Library prep and Ultra-Deep Sequencing 
 - Bioinformatics and algorithms
+- Python scripting
 - Experimental design and planning 
 - Yeast molecular biology 
 - Introduction to microscopy 
