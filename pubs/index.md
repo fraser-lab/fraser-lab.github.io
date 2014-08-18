@@ -22,7 +22,7 @@ group: pubs
 
 **Course Days/Hours:** Monday, Tuesday, Wednesday 1pm-5pm        
 
-**Instructors:**     James Fraser; [jfraser+bp205a@fraserlab.com](mailto:jfraser+bp205a@fraserlab.com)
+**Instructors:** James Fraser; [jfraser+bp205a@fraserlab.com](mailto:jfraser+bp205a@fraserlab.com)
 
 **Course Coordinator:** David Mavor; [David.Mavor@ucsf.edu](mailto:David.Mavor@ucsf.edu)
 
@@ -56,35 +56,37 @@ James Fraser, Joe DeRisi, Hiten Madhani, Michael Keiser, Sourav Bandyopadhyay, J
 
 **Background:**
 
- "Precision Medicine" is an emerging theme in biomedical research and patient care, and refers to the use of genome-wide information, such as DNA sequence, expression profiling, metabolic labeling/imaging, and other technologies to better inform ultimately customize therapy. For cancer medicine, discreet genomic changes can be tied directly to particular treatments, such as immunotherapies or small molecules directed against a mutated enzyme. However, the cancer genome is not necessarily a static entity, and may be subjected to intense selective pressures resulting in highly dynamic changes that manifest as relevant phenotypes, such as drug resistance or metastatic potential. Technological revolutions, such as DNA microarrays, followed by ultra-deep sequencing, have allowed high-resolution views of the genome and dynamical views of the expression programs they exhibit.
+"Precision Medicine" is an emerging theme in biomedical research and patient care, and refers to the use of genome-wide information, such as DNA sequence, expression profiling, metabolic labeling/imaging, and other technologies to better inform ultimately customize therapy. For cancer medicine, discreet genomic changes can be tied directly to particular treatments, such as immunotherapies or small molecules directed against a mutated enzyme. However, the cancer genome is not necessarily a static entity, and may be subjected to intense selective pressures resulting in highly dynamic changes that manifest as relevant phenotypes, such as drug resistance or metastatic potential. Technological revolutions, such as DNA microarrays, followed by ultra-deep sequencing, have allowed high-resolution views of the genome and dynamical views of the expression programs they exhibit.
 
-  Despite the promise for personalized care, many challenges remain. The genome, its expression, and its translation into phenotype embody a highly complex and dynamic system, whether it is a cancer cell, a yeast cell, or even a virus. Mutations that drive a phenotype may not be necessarily distinguishable from those that are mere passengers, and the molecular determinants of large-scale alterations remain largely uncharacterized. 
+Despite the promise for personalized care, many challenges remain. The genome, its expression, and its translation into phenotype embody a highly complex and dynamic system, whether it is a cancer cell, a yeast cell, or even a virus. Mutations that drive a phenotype may not be necessarily distinguishable from those that are mere passengers, and the molecular determinants of large-scale alterations remain largely uncharacterized. 
 
-  Ultimately, the goal is the synthesis of predictive models that can reveal fundamental regulatory principles, and in the case of patients, deliver actionable information for treatment, early detection, and prevention.
+Ultimately, the goal is the synthesis of predictive models that can reveal fundamental regulatory principles, and in the case of patients, deliver actionable information for treatment, early detection, and prevention.
 
 **Course Description:**
 
-  The course is a hands-on, project-based course that integrates deep mutational profiling [(Fowler and Fields, _Nature Methods_, 2014)](http://www.ncbi.nlm.nih.gov/pubmed/25075907), automated microscopy, and computational biology. The model organism, _Saccharomyces cerevisiae_, will be used as the organismal basis. Our goal is to experimentally determine the fitness of all possible  
-individual point mutants of ubiquitin, an essential protein that is akey cellular integrator of stress, under a variety of experimentalperturbations. The course is organized around three modules, described below. Each hands-on module will be accompanied by "chalk talk" style lectures. The course director and/or each lecturer will assign research papers, literature reviews, or other reading material in advance. In addition students are expected to conduct their own literature reviews during the course of the project. Students will work in small teams, and each team will be assigned a different perturbation for initial analysis. Students are expected to remain in their teams for the duration of the course, although team-team collaboration is highly encouraged. All team members are expected to participate in each activity.
+The course is a hands-on, project-based course that integrates deep mutational profiling [(Fowler and Fields, _Nature Methods_, 2014)](http://www.ncbi.nlm.nih.gov/pubmed/25075907), automated microscopy, and computational biology. The model organism, _Saccharomyces cerevisiae_, will be used as the organismal basis. Our goal is to experimentally determine the fitness of all possible individual point mutants of ubiquitin, an essential protein that is a key cellular integrator of stress, under a variety of experimental perturbations. The course is organized around three modules, described below. Each hands-on module will be accompanied by "chalk talk" style lectures. The course director and/or each lecturer will assign research papers, literature reviews, or other reading material in advance. In addition students are expected to conduct their own literature reviews during the course of the project. Students will work in small teams, and each team will be assigned a different perturbation for initial analysis. Students are expected to remain in their teams for the duration of the course, although team-team collaboration is highly encouraged. All team members are expected to participate in each activity.
 
-  After module 1 and module 3, each team will orally present their findings to the class and faculty, limited to 15 minutes and 15 slides maximum, with 10 minutes for discussion and questions. All members of the team are expected to speak and describe their contributions. These presentations are currently scheduled for Oct 27th and Nov 24th, the final day of class.
+After **module 1** and **module 3**, each team will orally present their findings to the class and faculty, limited to 15 minutes and 15 slides maximum, with 10 minutes for discussion and questions. All members of the team are expected to speak and describe their contributions. These presentations are currently scheduled for Oct 27th and Nov 24th, the final day of class.
 
 Activities and speakers for each week will be announced at the beginning of each module.
 
-**Module 1.** Sept 29th – Oct 22nd. Ultra-deep sequencing, and chemical genomics.
+**Module 1.** *Sept 29th – Oct 22nd*. Ultra-deep sequencing, and chemical genomics.
 
-**Module 2.** Oct 27h – Nov 5th .     Ensemble vs. single observation measurements.
+**Module 2.** *Oct 27th – Nov 5th*. Ensemble vs. single observation measurements.
 
-**Module 3.** Nov 10th – Nov 24th    Computational biology and evolutionary constraints.
+**Module 3.** *Nov 10th – Nov 24th*. Computational biology and evolutionary constraints.
+
+
 
 **Course Goals:**
 
-The goal of the course is to provide an immersive, hands-on experience in the context of genuine research questions. Teams may use whatever literature, software, and resources that are available publicly, and are encouraged to write their own scripts and software where necessary. The "official" language of the class is python - beginners should try [codeacademy](http://www.codecademy.com/en/tracks/python) or the QB3 Berkeley [intensive course](http://intro-prog-bioinfo-2014.wikispaces.com/). 
+The goal of the course is to provide an immersive, hands-on experience in the context of genuine research questions. Teams may use whatever literature, software, and resources that are available publicly, and are encouraged to write their own scripts and software where necessary. The "official" language of the class is [python](https://www.python.org) - beginners should try [codecademy](http://www.codecademy.com/en/tracks/python) or the QB3 Berkeley [intensive course](http://intro-prog-bioinfo-2014.wikispaces.com/). 
 
- In module 1, each team will be provided an "unknown" chemical perturbation. Using deep mutational profiling, each team will measure the fitness of all possibleindividual point mutants of ubiquitin, an essential protein that is akey cellular integrator of stress. Upon processing the sequencing data, each team willperform comparisons against a reference dataset. 
-In module 2, teams will compare their data against thedatasets of other teams and perform microscopy experiments to determine whether their stress response elicits a multimodal response in growth rate. This module will reinforce core concepts of ensemble vs. single observation measurements at many levels of biophysics and systems biology.
+In **module 1**, each team will be provided an "unknown" chemical perturbation. Using deep mutational profiling, each team will measure the fitness of all possibleindividual point mutants of ubiquitin, an essential protein that is a key cellular integrator of stress. Upon processing the sequencing data, each team willperform comparisons against a reference dataset.
 
-In module 3, the teams will leverage interactions with Tanja Kortemme and members of her lab to perform protein design protocols to predict sequences optimized for multiple criteria. They will test how well their deep sequencing data matches with protein design profiles generated under different constraints such as: protein stability or maintaining interactions with specific mediators of stress responses. For the final presentations, teams will explain the unique features of their Ubiquitin mutant profile by grounding their analysis in specific protein-protein interactions along branches of the cellular proteostasis network.
+In **module 2**, teams will compare their data against thedatasets of other teams and perform microscopy experiments to determine whether their stress response elicits a multimodal response in growth rate. This module will reinforce core concepts of ensemble vs. single observation measurements at many levels of biophysics and systems biology.
+
+In **module 3**, the teams will leverage interactions with Tanja Kortemme and members of her lab to perform protein design protocols to predict sequences optimized for multiple criteria. They will test how well their deep sequencing data matches with protein design profiles generated under different constraints such as: protein stability or maintaining interactions with specific mediators of stress responses. For the final presentations, teams will explain the unique features of their Ubiquitin mutant profile by grounding their analysis in specific protein-protein interactions along branches of the cellular proteostasis network.
 
 **Student Learning Objectives**
 
