@@ -101,15 +101,15 @@ _Absences_: The instructor must be notified by the second week of classes for an
 
 _Accommodations for students with disabilities:_ Please see the instructor as soon as possible if you need particular accommodations, and we will work out the necessary arrangements.
 
-
+##Preliminary lab work and reading schedule
 
 **Week 1 – Theme: Ubiquitin and Deep Mutational Profiling**
 
 _Lab work: Measure doubling times as a function of small molecule perturbation concentrations_
 
 Lecturers: James Fraser (9/29,9/30), Joe DeRisi (9/29), Hiten Madhani (10/1)  
-Assigned reading:
 
+Recommended reading:
 - [(Fowler and Fields, 2014)](http://www.ncbi.nlm.nih.gov/pubmed/25075907)
 - [(Finley et al., 2012)](http://www.ncbi.nlm.nih.gov/pubmed/23028185)
 - [(Roscoe et al., 2013)](http://www.ncbi.nlm.nih.gov/pubmed/23376099)
@@ -120,8 +120,7 @@ _Lab work: Performing selection experiments under chemical stresses_
 
 Lecturers: Michael Keiser (10/6), Sourav Bandyopadhyay (10/7), Eric Chow (10/8)
 
-Assigned reading:
-
+Recommended reading:
 - [(Bandyopadhyay et al., 2010)](http://www.ncbi.nlm.nih.gov/pubmed/21127252)
 - [(Lemieux et al., 2013)](http://www.ncbi.nlm.nih.gov/pubmed/24260022)
 - [(Aghajan et al., 2010)](http://www.ncbi.nlm.nih.gov/pubmed/20581845)
@@ -132,8 +131,7 @@ _Lab work: Deep sequencing library preparation_
 
 Lecturers: Nadav Ahituv (10/13), Ryan Hernandez (10/15)
 
-Assigned reading:
-
+Recommended reading:
 - [(Adzhubei et al., 2010)](http://www.ncbi.nlm.nih.gov/pubmed/20354512)
 - [(Araya et al., 2012)](http://www.ncbi.nlm.nih.gov/pubmed/23035249)
 - [(Smith et al., 2013)](http://www.ncbi.nlm.nih.gov/pubmed/23892608)
@@ -144,8 +142,7 @@ _Lab Work: Computational analysis of sequencing data_
 
 Lecturers: Elaine Meng (10/21), Bo Huang (10/22)
 
-Assigned reading: 
-
+Recommended reading: 
 - [(McLaughlin et al., 2012)](http://www.ncbi.nlm.nih.gov/pubmed/23041932)
 - [(Pollock et al., 2012)](http://www.ncbi.nlm.nih.gov/pubmed/22547823)
 - [(Pei and Grishin, 2001)](http://www.ncbi.nlm.nih.gov/pubmed/11524371)
@@ -159,8 +156,7 @@ _Lab Work: Comparisons of perturbations between teams_
 
 Lecturers: David Morgan (10/28), Jason Gestwicki (10/29)
 
-Assigned reading:
-
+Recommended reading:
 - [(Gestwicki and Garza, 2012)](http://www.ncbi.nlm.nih.gov/pubmed/22482455)
 - [(Sowa et al., 2009)](http://www.ncbi.nlm.nih.gov/pubmed/19615732)
 - [(Rodrigo-Brenni et al., 2010)](http://www.ncbi.nlm.nih.gov/pubmed/20797627)
@@ -171,8 +167,7 @@ _Lab Work: Growth rates via microscopy and bulk measurements_
 
 Lecturers: Kurt Thorn (11/3), Steven Altschuler and Lani Wu (11/4), Tanja Kortemme (11/5)
 
-Assigned reading:
-
+Recommended reading:
 - [(Patel et al., 2014)](http://www.ncbi.nlm.nih.gov/pubmed/24925914)
 - [(Tinoco and Gonzalez, 2011)](http://www.ncbi.nlm.nih.gov/pubmed/21685361)
 - [(Rajaram et al., 2012)](http://www.ncbi.nlm.nih.gov/pubmed/22743764)
@@ -183,8 +178,7 @@ _Lab Work: Computational protein design_
 
 Lecturers: Tanja Kortemme (11/10), Samuel Thompson+Kyle Barlow (11/12)
 
-Assigned reading:
-
+Recommended reading:
 - [(Ollikainen et al., 2013)](http://www.ncbi.nlm.nih.gov/pubmed/23422426)
 - [(Leaver-Fay et al., 2011)](http://www.ncbi.nlm.nih.gov/pubmed/21187238)
 - [(Phillips et al., 2013)](http://www.ncbi.nlm.nih.gov/pubmed/23801757)
@@ -197,8 +191,7 @@ _Lab Work: Comparison of computational design and selection experiments_
 
 Lecturers: Adam Abate (11/17), Matthew Thomson (11/18), Dave Toczyski (11/19)
 
-Assigned reading:
-
+Recommended reading:
 - [(Agresti et al., 2010)](http://www.ncbi.nlm.nih.gov/pubmed/20142500)
 - [(Thomson et al., 2011)](http://www.ncbi.nlm.nih.gov/pubmed/21663792)
 - [(Stelter and Ulrich, 2003)](http://www.ncbi.nlm.nih.gov/pubmed/12968183)
