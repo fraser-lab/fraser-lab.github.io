@@ -11,6 +11,14 @@ group: contact
 
 <div class="col-md-4">
 
+  <h4>Lab Area </h4>
+  tel: 415 476 306 eight <br> 
+  fax: 415 514 016 nine  
+
+</div>
+
+<div class="col-md-4">
+
   <h4>James Fraser</h4>
   Assistant Professor  <br>
   Department of Bioengineering and Therapeutic Sciences  <br>
@@ -27,14 +35,6 @@ group: contact
   Email: elizabeth.willey (at) ucsf.edu  <br>
   Phone: 415 514 981 six   <br>
   Fax: 415 514 102 eight  
-
-</div>
-
-<div class="col-md-4">
-
-  <h4>Lab Area </h4>
-  tel: 415 476 306 eight <br> 
-  fax: 415 514 016 nine  
 
 </div>
 
