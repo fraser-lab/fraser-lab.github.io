@@ -14,6 +14,12 @@ group: members
         <img class="img-responsive" src="{{person.image}}" {% if person.altimage %} onmouseover="this.src='{{person.altimage}}';" onmouseout="this.src='{{person.image}}';" {% endif %} alt="{{person.name}}"><br>
         <strong>{{person.name}}</strong> <br>
         <em>{{person.email}}</em> <br>
+        {% if person.website %}
+          <a href= "{{person.website}}">{{person.website}}</a> <br>
+        {% endif %}
+        {% if person.scholar %}
+          <a href= "http://scholar.google.com/citations?user={{person.scholar}}"> Scholar Citations </a> <br>
+        {% endif %}
         {% if person.twitter %}
           <a href= "http://twitter.com/{{person.twitter}}"> @{{person.twitter}} </a> <br>
         {% endif %}
