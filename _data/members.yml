@@ -37,6 +37,7 @@
   altimage: /static/img/members/dkeedyaltsmall.jpg
   position: Postdoc
   email: daniel.keedy (at) gmail.com
+  scholar: TVaqcVwAAAAJ
   twitter: "danielkeedy"
   description: "Daniel was a graduate student at Duke University with Jane and David Richardson, where he studied protein flexibility in structure validation, prediction, and design. In the Fraser lab, he will develop techniques to build multi-conformer structural models, extract functional cooperative conformational changes, and engineer allosteric/drug-sensitive proteins."
 
@@ -44,7 +45,7 @@
   image: /static/img/members/bbarad.jpg
   position: Graduate Student
   email: benjamin.barad (at) gmail.com
-  scholar: XDH9FrwAAAAJ
+  # scholar: XDH9FrwAAAAJ
   website: "http://benjaminbarad.com"
   twitter: "benjaminbarad"
   description: "Ben graduated from Stanford University in Biological Chemistry. As an undergraduate, he worked in the laboratory of Elizabeth Sattely studying bacterial lignin degradation."
