@@ -1,5 +1,6 @@
 ---
-Title: Ken starts his rotation
+title: Ken starts his rotation
+author: James Fraser
 layout: post
 group: news
 ---

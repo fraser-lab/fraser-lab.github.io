@@ -1,5 +1,6 @@
 ---
-Title: The Fraser lab begins!
+title: The Fraser lab begins!
+author: James Fraser
 layout: post
 group: news
 ---

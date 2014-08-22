@@ -1,5 +1,6 @@
 ---
-Title: Andrew celebrates after giving group meeting
+title: Andrew celebrates after giving group meeting
+author: James Fraser
 layout: post
 group: news
 ---

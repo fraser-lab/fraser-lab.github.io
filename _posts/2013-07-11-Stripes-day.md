@@ -1,5 +1,6 @@
 ---
-Title: Stripes day!
+title: Stripes day!
+author: James Fraser
 layout: post
 group: news
 ---

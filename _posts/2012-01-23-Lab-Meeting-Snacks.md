@@ -1,5 +1,6 @@
 ---
-Title: Lab Meeting Snacks
+title: Lab Meeting Snacks
+author: James Fraser
 layout: post
 group: news
 ---

@@ -1,5 +1,6 @@
 ---
-Title: David passes quals
+title: David passes quals
+author: James Fraser
 layout: post
 group: news
 ---

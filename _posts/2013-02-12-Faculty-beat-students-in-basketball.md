@@ -1,5 +1,6 @@
 ---
-Title: Faculty beat students
+title: Faculty beat students
+author: James Fraser
 layout: post
 group: news
 ---

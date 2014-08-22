@@ -1,5 +1,6 @@
 ---
-Title: Canada Day BBQ
+title: Canada Day BBQ
+author: James Fraser
 layout: post
 group: news
 ---

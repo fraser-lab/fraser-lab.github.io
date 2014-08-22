@@ -1,5 +1,6 @@
 ---
-Title: Welcome to roton Ben
+title: Welcome to roton Ben
+author: James Fraser
 layout: post
 group: news
 ---
