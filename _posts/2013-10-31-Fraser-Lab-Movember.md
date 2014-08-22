@@ -1,5 +1,6 @@
 ---
-Title: Fraser Lab Movember
+title: Fraser Lab Movember
+author: James Fraser
 layout: post
 group: news
 ---

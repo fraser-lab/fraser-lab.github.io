@@ -1,5 +1,6 @@
 ---
-Title: The role of mobility in the substrate binding and catalytic machinery of enzymes.
+title: The role of mobility in the substrate binding and catalytic machinery of enzymes.
+author: James Fraser
 layout: post
 group: news
 ---

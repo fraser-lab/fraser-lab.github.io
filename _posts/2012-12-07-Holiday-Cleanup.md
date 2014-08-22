@@ -1,5 +1,6 @@
 ---
-Title: Holiday Cleanup
+title: Holiday Cleanup
+author: James Fraser
 layout: post
 group: news
 ---

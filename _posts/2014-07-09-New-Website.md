@@ -1,5 +1,6 @@
 ---
-Title: New Website!
+title: New Website!
+author: Ben Barad
 layout: post
 group: news
 ---

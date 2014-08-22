@@ -1,5 +1,6 @@
 ---
-Title: Lillian shepherds the lab through another successful safety inspection!
+title: Lillian shepherds the lab through another successful safety inspection!
+author: James Fraser
 layout: post
 group: news
 ---

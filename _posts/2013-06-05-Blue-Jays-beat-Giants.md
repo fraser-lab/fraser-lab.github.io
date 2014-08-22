@@ -1,5 +1,6 @@
 ---
-Title: Blue Jays v Giants
+title: Blue Jays v Giants
+author: James Fraser
 layout: post
 group: news
 ---

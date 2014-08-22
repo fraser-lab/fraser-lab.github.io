@@ -1,5 +1,6 @@
 ---
-Title: Belated Canada Day
+title: Belated Canada Day
+author: James Fraser
 layout: post
 group: news
 ---
