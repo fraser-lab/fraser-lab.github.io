@@ -1,5 +1,6 @@
 ---
-Title: Move to Genentech Hall
+title: Move to Genentech Hall
+author: James Fraser
 layout: post
 group: news
 ---

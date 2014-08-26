@@ -1,5 +1,6 @@
 ---
-Title: Diffuse Scattering Workshop
+title: Diffuse Scattering Workshop
+author: James Fraser
 layout: post
 group: news
 ---

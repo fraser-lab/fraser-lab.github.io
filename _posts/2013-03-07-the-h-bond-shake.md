@@ -1,5 +1,6 @@
 ---
-Title: The H-Bond Shake
+title: The H-Bond Shake
+author: James Fraser
 layout: post
 group: news
 ---

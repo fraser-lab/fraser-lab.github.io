@@ -1,5 +1,6 @@
 ---
-Title: ALS Trip
+title: ALS Trip
+author: James Fraser
 layout: post
 group: news
 ---

@@ -1,5 +1,6 @@
 ---
-Title: Fraser Lab attends Alber fest
+title: Fraser Lab attends Alber fest
+author: James Fraser
 layout: post
 group: news
 ---

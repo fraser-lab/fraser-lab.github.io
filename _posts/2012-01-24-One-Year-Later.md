@@ -1,5 +1,6 @@
 ---
-Title: One Year Later
+title: One Year Later
+author: James Fraser
 layout: post
 group: news
 ---

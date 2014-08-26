@@ -1,5 +1,6 @@
 ---
-Title: Welcome Rotons
+title: Welcome Rotons
+author: James Fraser
 layout: post
 group: news
 ---

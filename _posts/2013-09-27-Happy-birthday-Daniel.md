@@ -1,5 +1,6 @@
 ---
-Title: Happy Birthday Daniel
+title: Happy Birthday Daniel
+author: James Fraser
 layout: post
 group: news
 ---
