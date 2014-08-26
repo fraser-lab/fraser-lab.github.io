@@ -63,6 +63,7 @@
   date: 201405
   image: '/static/img/pub/fischer_coleman_2014.jpg'
   pmid: 24950326
+  pmcid: TBD
   pdf: '/static/pdf/fischer_coleman_2014.pdf'
   links:
     - name: Shoichet Lab
