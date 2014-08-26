@@ -1,5 +1,6 @@
 ---
-Title: Step up Lin
+title: Step up Lin
+author: James Fraser
 layout: post
 group: news
 ---

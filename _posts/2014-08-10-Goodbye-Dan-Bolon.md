@@ -1,5 +1,6 @@
 ---
-Title: Goodbye Dan Bolon!
+title: Goodbye Dan Bolon!
+author: James Fraser
 layout: post
 group: news
 ---

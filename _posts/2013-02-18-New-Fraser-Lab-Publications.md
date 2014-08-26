@@ -1,5 +1,6 @@
 ---
-Title: New Fraser Lab Publications
+title: New Fraser Lab Publications
+author: James Fraser
 layout: post
 group: news
 ---

@@ -1,5 +1,6 @@
 ---
-Title: The Fraser Lab Method of Following the Scientific Literature
+title: The Fraser Lab Method of Following the Scientific Literature
+author: James Fraser
 layout: post
 group: news
 ---

@@ -1,5 +1,6 @@
 ---
-Title: Goodbye Avi
+title: Goodbye Avi
+author: James Fraser
 layout: post
 group: news
 ---

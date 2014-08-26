@@ -1,5 +1,6 @@
 ---
-Title: Happy Birthday David
+title: Happy Birthday David
+author: James Fraser
 layout: post
 group: news
 ---

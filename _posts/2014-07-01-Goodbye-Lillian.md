@@ -1,5 +1,6 @@
 ---
-Title: Goodbye Lillian
+title: Goodbye Lillian
+author: James Fraser
 layout: post
 group: news
 ---

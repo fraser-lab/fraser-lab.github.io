@@ -1,5 +1,6 @@
 ---
-Title: New Rotation Student
+title: New Rotation Student
+author: James Fraser
 layout: post
 group: news
 ---
