@@ -10,7 +10,7 @@ Yesterday [Peter Kim](http://web.stanford.edu/group/kimlab/) presented me (and [
          <iframe src="//www.youtube.com/embed/fQ7p9mHDJUw" frameborder="0" width="560" height="315"></iframe>
 </div>
 
-Tom was incredibly courageous during the final years of his life. He never stopped learning about the underlying mechanisms of ALS and thinking of potential therapies. It was very painful to see him disappointed again and again by the ineffectiveness of the available treatments. Some of this disappointment is due to general difficulties in developing treatments for neurodegenerative diseases, but some of it was due to the 
+Tom was incredibly courageous during the final years of his life. He never stopped learning about the underlying mechanisms of ALS and thinking of potential therapies. It was very painful to see him disappointed again and again by the ineffectiveness of the available treatments. Some of this disappointment is due to general difficulties in developing treatments for neurodegenerative diseases, but some of it was due to our lack of knowledge about the basic mechanisms of this disease.
 
 <div class="video-container">
          <iframe src="//www.youtube.com/embed/UJ2mUbhzWic" frameborder="0" width="560" height="315"></iframe>
