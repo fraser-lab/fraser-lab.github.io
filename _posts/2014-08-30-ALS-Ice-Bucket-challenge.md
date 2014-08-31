@@ -4,11 +4,17 @@ author: James Fraser
 layout: post
 group: news
 ---
-Yesterday [Peter Kim](http://web.stanford.edu/group/kimlab/) presented me (and [Bob Stroud](http://www.msg.ucsf.edu/stroud/index.htm) and [Charly Craik](http://www.craiklab.ucsf.edu/)) with the [Ice Bucket Challenge](http://www.alsa.org/fight-als/ice-bucket-challenge.html). Peter was challenged by [Terry Oas](https://www.youtube.com/watch?v=-ils6pggkGg). This fundraiser holds special significance for all of us because Tom Alber, our friend and my PhD advisor, recently passed away from ALS. I think that Tom would have loved the Ice Bucket Challenge.
+Yesterday [Peter Kim](http://web.stanford.edu/group/kimlab/) presented me (and [Bob Stroud](http://www.msg.ucsf.edu/stroud/index.htm) and [Charly Craik](http://www.craiklab.ucsf.edu/)) with the [Ice Bucket Challenge](http://www.alsa.org/fight-als/ice-bucket-challenge.html). Peter and Susan Marqusee were challenged by [Terry Oas](https://www.youtube.com/watch?v=-ils6pggkGg). This fundraiser holds special significance for all of us because Tom Alber, our friend and my PhD advisor, recently passed away from ALS. I think that Tom would have loved the Ice Bucket Challenge.
 
 <div class="video-container">
          <iframe src="//www.youtube.com/embed/fQ7p9mHDJUw" frameborder="0" width="560" height="315"></iframe>
 </div>
+
+
+<div class="video-container">
+         <iframe src="//www.youtube.com/embed/9VrzhmSkqfQ" frameborder="0" width="560" height="315"></iframe>
+</div>
+
 
 Tom was incredibly courageous during the final years of his life. He never stopped learning about the underlying mechanisms of ALS and thinking of potential therapies. It was very painful to see him disappointed again and again by the ineffectiveness of the available treatments. Some of this disappointment is due to general difficulties in developing treatments for neurodegenerative diseases, but some of it was due to our lack of knowledge about the basic mechanisms of this disease.
 
