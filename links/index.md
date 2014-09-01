@@ -1,5 +1,5 @@
 ---
-Title: Links
+title: Links
 layout: default
 group: links
 ---

@@ -1,5 +1,5 @@
 ---
-Title: Research in the Fraser Lab
+title: Research in the Fraser Lab
 layout: default
 group: research
 ---
