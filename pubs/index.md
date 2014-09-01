@@ -1,5 +1,5 @@
 ---
-Title: BP205
+title: BP205
 layout: default
 group: pubs
 ---
