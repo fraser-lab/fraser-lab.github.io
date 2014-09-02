@@ -25,6 +25,8 @@
 #   pmid: TBD
 #   pmcid: TBD
 #   pdf: '/static/pdf/williams_chm_2014.pdf'
+#   pdbs:
+#     -
 #   links:
 #   	-name: 'Fischbach Lab'
 #   	 url: 'http://www.fischbachgroup.org'
@@ -49,6 +51,15 @@
   pmid: 24882744
   pmcid: PMC4082491
   pdf: '/static/pdf/keedy_structure_2014.pdf'
+  pdbs:
+    - 4PSS 
+    - 4PST
+    - 4PSY
+    - 4PSZ
+    - 4PTJ
+    - 4P3Q
+    - 4P3R
+    - 4PTH
   links:
     - name: 'Wilson Lab'
       url: 'https://redoxbiologycenter.unl.edu/markwilsonphd'
@@ -65,6 +76,23 @@
   pmid: 24950326
   pmcid: TBD
   pdf: '/static/pdf/fischer_coleman_2014.pdf'
+  pdbs:
+    - 4OQ7  
+    - 4NVA
+    - 4NVB
+    - 4NVC
+    - 4NVD
+    - 4NVE
+    - 4NVF
+    - 4NVG
+    - 4NVH
+    - 4NVI
+    - 4NVJ
+    - 4NVK
+    - 4NVL
+    - 4NVM
+    - 4NVN
+    - 4NVO
   links:
     - name: Shoichet Lab
       url: 'http://shoichetlab.compbio.ucsf.edu/'
@@ -92,6 +120,9 @@
   pmid: 24474795
   pmcid: PMC3910589
   pdf: '/static/pdf/fenwick_pnas_2014.pdf'
+  pdbs:
+    - 4NX6
+    - 4NX7  
   links:
     - name: Wright Lab
       url: 'http://www.scripps.edu/wright/'
@@ -106,6 +137,8 @@
   pmid: 24363322
   pmcid: PMC3890839
   pdf: '/static/pdf/lang_pnas_2014.pdf'
+  pdbs:
+    - 4NX4 
   links:
     - name: END/RAPID Website
       url: 'http://bl831.als.lbl.gov/END/RAPID/'
@@ -116,6 +149,10 @@
   pmid: 23913260
   pmcid: PMC3760795
   pdf: '/static/pdf/vdb_nmethods_2013.pdf'
+  pdbs:
+    - 4KJJ 
+    - 4KJK 
+    - 4KJL 
   links:
     - name: CONTACT Website
       url: 'http://smb.slac.stanford.edu/CONTACT/'
@@ -216,6 +253,8 @@
   pmid: 22403064
   pmcid: PMC3325720
   pdf: '/static/pdf/kapp_pnas_2012.pdf'
+  pdbs:
+    - 3QBV
   links:
     - name: Kortemme Lab
       url: 'http://kortemmelab.ucsf.edu/'
@@ -228,6 +267,8 @@
   pmid: 21918110
   pmcid: PMC3182744
   pdf: '/static/pdf/fraser_2011_pnas.pdf'
+  pdbs:
+    - 3TGP
   links:
     - name: "qFIT server"
       url: 'http://smb.slac.stanford.edu/qFitServer/qFit.jsp'
@@ -292,7 +333,7 @@
     - 3K0O
     - 3K0P
     - 3K0Q
-    - 3K0O
+    - 3K0R
   links:
     - name: "Nature: Editor's Summary"
       url: 'http://www.nature.com/nature/journal/v462/n7273/edsumm/e091203-17.html'
@@ -320,6 +361,11 @@
   pmid: 17573816
   pmcid: PMC1974792
   pdf: '/static/pdf/fraser_molm_2007.pdf'
+  pdbs:
+    - 2GKG
+    - 2I6F
+    - 2NT4 
+    - 2NT3
   links:
     - name: "Zusman Lab"
       url: 'https://mcb.berkeley.edu/labs/zusman/'
