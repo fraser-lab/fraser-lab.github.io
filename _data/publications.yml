@@ -1,4 +1,24 @@
 # THE WEIRDEST BUG: using escapes requires single-quotes instead of double...
+# - citation: 'Wall ME, **VanBenschoten AH**, Sauter NK, Adams PD, **Fraser JS**, Terwilliger TC.  Conformational Dynamics of a Crystalline Protein from Microsecond-Scale Molecular Dynamics Simulations and Diffuse X-Ray Scattering. *Submitted*. 2014'
+#   date: 2014.12
+#   image: '/static/img/pub/wall_2014.jpg'
+#   pmid: TBD
+#   pmcid: TBD
+#   pdf: '/static/pdf/walll_2014.pdf'
+#   links:
+#     - name: 'Paper Submission Celebration Photo'
+#       url: 'https://twitter.com/fraser_lab/status/'
+#
+# - citation: 'van den Bedem H, **Fraser JS**. Integrative, Dynamic Structural Biology at Atomic Resolution — It’s About Time. *Nature Methods*. 2014.'
+#   date: 201412
+#   image: '/static/img/pub/vdb_2014.jpg'
+#   pmid: 23913260
+#   pmcid: PMC3760795
+#   pdf: '/static/pdf/vdb_2014.pdf'
+#   links:
+#     - name: Henry van den Bedem
+#       url: 'https://people.stanford.edu/vdbedem/'
+# 
 # - citation: 'Cimermancic P...**Keedy DA**, **Woldeyes RA**, **Fraser JS**, Sali A. Cryptic Sites. *TBD*. 2014.'
 #   date: 2014.12
 #   image: '/static/img/pub/cimermancic_2014.jpg'
@@ -18,6 +38,8 @@
 #   links:
 #     - name: 'Paper Submission Celebration Photo'
 #       url: 'https://twitter.com/fraser_lab/status/504068281766920193'
+#     - name: 'Justin\'s figure scripts'
+#       url: 'http://www.fraserlab.com/justin_figures.html'
 #
 # - citation: 'Williams BB, **VanBenschoten AH**, Cimermancic P, Donia MS, Zimmermann M, Taketani M,  Ishihara A, Kashyap PC, **Fraser JS**, Fischbach MA. Discovery and characterization of two tryptamine-producing decarboxylases from the gut microbiota. *Cell Host and Microbe*. 2014.'
 #   date: 2014.09
@@ -35,7 +57,7 @@
 #       url: 'https://twitter.com/fraser_lab/status/422902102298357760'
 
 - citation: '**Woldeyes RA**, Sivak DA, **Fraser JS**. E pluribus unum, no more: from one crystal, many conformations. *Current Opinion in Structural Biology*. 2014.'
-  date: 2014.10
+  date: 201410
   image: '/static/img/pub/woldeyes_cosb_2014.jpg'
   pmid: 25113271
   pmcid: TBD
@@ -47,7 +69,7 @@
       url: 'https://twitter.com/fraser_lab/status/466374369317781504'
 
 - citation: '**Keedy DA**, van den Bedem H, Sivak DA, Petsko GA, Ringe D, Wilson MA, **Fraser JS**. Crystal Cryocooling Distorts Conformational Heterogeneity in a Model Michaelis Complex of DHFR. *Structure*. 2014.'
-  date: 2014.05
+  date: 201405
   image: '/static/img/pub/keedy_structure_2014.jpg'
   pmid: 24882744
   pmcid: PMC4082491
@@ -145,7 +167,7 @@
       url: 'http://bl831.als.lbl.gov/END/RAPID/'
 
 - citation: 'van den Bedem H, Bhabha G, Yang K, Wright PE, **Fraser JS**. Automated identification of functional dynamic contact networks from X-ray crystallography. *Nature Methods*. 2013.'
-  date: 201409
+  date: 201309
   image: '/static/img/pub/vdb_nmethods_2013.gif'
   pmid: 23913260
   pmcid: PMC3760795
