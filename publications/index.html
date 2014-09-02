@@ -21,7 +21,7 @@ group: publications
 			{% endif %}
 			<li><a href="{{publication.pdf}}" alt = "PDF"> Full Text</a></li>
 			{% if publication.pdbs %}
-			<li>Deposited Structures: 
+			<li>Deposited Structure{% if publication.pdbs.size > 1 %}s{% endif %}: 
 			{% for code in publication.pdbs %}
 			<a href="http://www.rcsb.org/pdb/explore/explore.do?structureId={{code}}">{{code}}</a>{% unless forloop.last %}, {% endunless %}
 			{% endfor %}
