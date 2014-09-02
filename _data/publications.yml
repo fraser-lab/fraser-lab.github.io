@@ -286,13 +286,13 @@
   pmid: 19956261
   pmcid: PMC2805857
   pdf: '/static/pdf/fraser_nature_2009.pdf'
-  structures:
-    - pdb: 3K0M
-    - pdb: 3K0N
-    - pdb: 3K0O
-    - pdb: 3K0P
-    - pdb: 3K0Q
-    - pdb: 3K0O
+  pdbs:
+    - 3K0M
+    - 3K0N
+    - 3K0O
+    - 3K0P
+    - 3K0Q
+    - 3K0O
   links:
     - name: "Nature: Editor's Summary"
       url: 'http://www.nature.com/nature/journal/v462/n7273/edsumm/e091203-17.html'
