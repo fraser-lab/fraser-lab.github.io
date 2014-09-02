@@ -20,10 +20,10 @@ group: publications
 			<li>PMCID: <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/{{publication.pmcid}}" alt = "pubmed central link: {{publication.pmcid}}"> {{publication.pmcid}}</a></li>
 			{% endif %}
 			<li><a href="{{publication.pdf}}" alt = "PDF"> Full Text</a></li>
-			{% if publication.structures %}
+			{% if publication.pdbs %}
 			<li>Deposited Structures: 
-			{% for structure in publication.structures %}
-			<a href="http://www.rcsb.org/pdb/explore/explore.do?structureId={{structure.pdb}}">{{structure.pdb}}</a>{% unless forloop.last %}, {% endunless %}
+			{% for code in publication.pdbs %}
+			<a href="http://www.rcsb.org/pdb/explore/explore.do?structureId={{code}}">{{code}}</a>{% unless forloop.last %}, {% endunless %}
 			{% endfor %}
 			</li>
 			{% endif %}
