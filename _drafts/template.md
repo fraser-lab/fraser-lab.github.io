@@ -1,5 +1,6 @@
 ---
-Title: <!-- Title Goes Here -->
+title: <!-- Title Goes Here -->
+author: <!-- Author's full name goes here -->
 layout: post
 group: news
 ---
