@@ -184,13 +184,14 @@ Recommended reading:
 
 _Lab Work: Computational protein design_
 
-Lecturers: Tanja Kortemme (11/10), Samuel Thompson+Kyle Barlow (11/12)
+Lecturers: Tanja Kortemme, Samuel Thompson+Kyle Barlow (11/10), Matthew Thomson (11/12)
 
 Recommended reading:
 
 - [(Ollikainen et al., 2013)](http://www.ncbi.nlm.nih.gov/pubmed/23422426)
 - [(Leaver-Fay et al., 2011)](http://www.ncbi.nlm.nih.gov/pubmed/21187238)
 - [(Phillips et al., 2013)](http://www.ncbi.nlm.nih.gov/pubmed/23801757)
+- [(Thomson et al., 2011)](http://www.ncbi.nlm.nih.gov/pubmed/21663792)
 
 
 
@@ -198,12 +199,11 @@ Recommended reading:
 
 _Lab Work: Comparison of computational design and selection experiments_
 
-Lecturers: Adam Abate (11/17), Matthew Thomson (11/18), Dave Toczyski (11/19)
+Lecturers: Adam Abate (11/17),  Samuel Thompson+Kyle Barlow (11/18), Dave Toczyski (11/19)
 
 Recommended reading:
 
 - [(Agresti et al., 2010)](http://www.ncbi.nlm.nih.gov/pubmed/20142500)
-- [(Thomson et al., 2011)](http://www.ncbi.nlm.nih.gov/pubmed/21663792)
 - [(Stelter and Ulrich, 2003)](http://www.ncbi.nlm.nih.gov/pubmed/12968183)
 
 **References:**
