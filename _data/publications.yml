@@ -123,6 +123,8 @@
       url: 'http://www.nature.com/nchem/journal/v6/n7/full/nchem.1986.html'
     - name: NChem Cover
       url: 'http://www.nature.com/nchem/journal/v6/n7/covers/index.html'
+    - name: Cover Explanation
+      url: 'http://rgc.name/images/natchemcoverexplanation.pdf'
     - name: DOCK Software
       url: 'http://dock.compbio.ucsf.edu/DOCK3.7/'
 
