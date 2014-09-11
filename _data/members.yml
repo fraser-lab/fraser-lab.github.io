@@ -42,11 +42,11 @@
   twitter: "danielkeedy"
   description: "Daniel was a graduate student at Duke University with Jane and David Richardson, where he studied protein flexibility in structure validation, prediction, and design. In the Fraser lab, he will develop techniques to build multi-conformer structural models, extract functional cooperative conformational changes, and engineer allosteric/drug-sensitive proteins."
 
-# - name: Michael Thompson
-#   iamge: /static/img/members/default.jpg
-#   position: Postdoc
-#   email:
-#   description:
+- name: Michael Thompson
+  image: /static/img/members/mike.jpg
+  position: Postdoc
+  email: mct.ucsf (at) gmail.com
+  description: 'Michael was an undergraduate at UC Berkeley, where he was introduced to structural biology and X-ray crystallography as a research assistant in Tom Alber’s laboratory. He received his Ph.D. in 2014 from UCLA, where he worked under the direction of Todd Yeates, investigating structure-function relationships in a key family of proteins that define a widespread class of prokaryotic organelles collectively known as “bacterial microcompartments.” As a postdoc in the Fraser Lab, Michael will examine how amino acid substitutions alter the catalytic rates of enzymes by modifying their conformational ensembles. This work will emphasize the characterization of disease-associated mutations found in human proteases. Additionally, Michael will work on developing experimental methodology for studying conformational heterogeneity and structural dynamics of protein molecules using X-ray free electron lasers (XFELs).'
 
 - name: Ben Barad
   image: /static/img/members/bbarad.jpg
