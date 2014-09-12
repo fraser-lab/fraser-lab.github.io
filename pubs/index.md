@@ -204,6 +204,8 @@ Lecturers: Adam Abate (11/17),  Peter Turnbaugh (11/18), Dave Toczyski (11/19)
 Recommended reading:
 
 - [(Agresti et al., 2010)](http://www.ncbi.nlm.nih.gov/pubmed/20142500)
+- [(David et al., 2013)](http://www.ncbi.nlm.nih.gov/pubmed/24336217)
+- [(Haiser et al., 2013)](http://www.ncbi.nlm.nih.gov/pubmed/?term=23869020)
 - [(Stelter and Ulrich, 2003)](http://www.ncbi.nlm.nih.gov/pubmed/12968183)
 
 **References:**
@@ -218,11 +220,15 @@ Araya, C.L., Fowler, D.M., Chen, W., Muniez, I., Kelly, J.W., and Fields, S. (20
 
 Bandyopadhyay, S., Mehta, M., Kuo, D., Sung, M.K., Chuang, R., Jaehnig, E.J., Bodenmiller, B., Licon, K., Copeland, W., Shales, M., et al. (2010). Rewiring of Genetic Networks in Response to DNA Damage. Science _330_, 1385–1389.
 
+David, L.A., Maurice, C.M., Carmody, R.N., Gootenberg, D.B., Button, J.E., Wolfe, B.E., Ling, A.V., Devlin, A.S., Varma, Y., Fischbach, M.A., Biddinger, S.B., Dutton, R.J., and P.J. Turnbaugh. Diet rapidly and reproducibly alters the human gut microbiome. Nature, Epub ahead of print, Nov 2013. doi:10.1038/nature12820.
+
 Finley, D., Ulrich, H.D., Sommer, T., and Kaiser, P. (2012). The Ubiquitin-Proteasome System of Saccharomyces cerevisiae. Genetics _192_, 319–360.
 
 Fowler, D.M., and Fields, S. (2014). Deep mutational scanning: a new style of protein science. Nat Meth _11_, 801–807.
 
 Gestwicki, J.E., and Garza, D. (2012). Protein Quality Control in Neurodegenerative Disease. In Molecular Biology of Neurodegenerative Diseases, (Elsevier), pp. 327–353.
+
+Haiser, H.J., Gootenberg, D.B., Chatman, K., Sirasani, G., Balskus, E.P., and P.J. Turnbaugh. Predicting and manipulating cardiac drug inactivation by the human gut bacterium Eggerthella lenta. Science 341, 295-298 (2013).
 
 Leaver-Fay, A., Tyka, M., Lewis, S.M., Lange, O.F., Thompson, J., Jacak, R., Kaufman, K.W., Renfrew, P.D., Smith, C.A., Sheffler, W., et al. (2011). Rosetta3. In Computer Methods, Part C, (Elsevier), pp. 545–574.
 
