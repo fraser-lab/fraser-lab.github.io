@@ -199,7 +199,7 @@ Recommended reading:
 
 _Lab Work: Comparison of computational design and selection experiments_
 
-Lecturers: Adam Abate (11/17),  Samuel Thompson+Kyle Barlow (11/18), Dave Toczyski (11/19)
+Lecturers: Adam Abate (11/17),  Peter Turnbaugh (11/18), Dave Toczyski (11/19)
 
 Recommended reading:
 
