@@ -1,4 +1,25 @@
 # THE WEIRDEST BUG: using escapes requires single-quotes instead of double...
+# - citation: 'Dellus-Gur E, Elias M, Caselli E, Prati F, Salverda MLM, de Visser JAGM, **Fraser JS**, Tawfik DS. Negative epistasis and evolvability – the thin line between an enzyme’s conformational freedom and anarchy. *Submitted*, 2014.'
+#   date: 2014.12
+#   image: 'static/img/pub/eynat_2014.jpg'
+#   pmid: TBD
+#   pmcid: TBD
+#   pdf: 'static/pdf/eynat_2014.pdf'
+#   pdbs:
+#      - 4OP5
+#      - 4OP8
+#      - 4OPQ
+#      - 4OPR
+#      - 4OPY
+#      - 4OPZ
+#      - 4OQ0
+#      - 4OQG
+#      - 4OQH
+#      - 4OQI
+#   links:
+#     - name: 'Tawfik Lab'
+#       url: 'http://www.weizmann.ac.il/Biological_Chemistry/scientist/Tawfik/'
+#
 # - citation: 'Thomaston JL, Alfonso-Prieto M, **Woldeyes RA**, **Fraser JS**, Klein ML, Fiorin G, DeGrado WF. High resolution structures of the M2 proton channel from influenza A virus reveal  dynamic pathways for proton stabilization and transduction. *Submitted to Nature Chemistry*, 2014.'
 #   date: 2014.12
 #   image: '/static/img/pub/thomaston_2014.jpg'
