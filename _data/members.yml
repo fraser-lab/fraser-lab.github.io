@@ -59,6 +59,7 @@
 
 - name: Justin Biel
   image: /static/img/members/jbiel.jpg
+  altimage: /static/img/members/jbielalt.jpg
   position: Graduate Student
   email: justin.biel (at) ucsf.edu
   scholar: FatB6VQAAAAJ
