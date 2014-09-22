@@ -3,7 +3,7 @@
 #   date: 2014.12
 #   image: 'static/img/pub/eynat_2014.gif'
 #   pmid: TBD
-#   pmcid: TBD
+#   pmcid: In Process
 #   pdf: 'static/pdf/eynat_2014.pdf'
 #   pdbs:
 #      - 4OP5
@@ -24,7 +24,7 @@
 #   date: 2014.12
 #   image: '/static/img/pub/thomaston_2014.jpg'
 #   pmid: TBD
-#   pmcid: TBD
+#   pmcid: In Process
 #   pdf: '/static/pdf/thomaston_2014.pdf'
 #   pdbs:
 #     - 4QK7
@@ -41,7 +41,7 @@
 #   date: 2014.12
 #   image: '/static/img/pub/wall_2014.jpg'
 #   pmid: TBD
-#   pmcid: TBD
+#   pmcid: In Process
 #   pdf: '/static/pdf/wall_2014.pdf'
 #   links:
 #     - name: 'Paper Submission Celebration Photo'
@@ -51,7 +51,7 @@
 #   date: 2014.12
 #   image: '/static/img/pub/vdb_2014.jpg'
 #   pmid: TBD
-#   pmcid: TBD
+#   pmcid: In Process
 #   pdf: '/static/pdf/vdb_2014.pdf'
 #   links:
 #     - name: Henry van den Bedem
@@ -61,7 +61,7 @@
 #   date: 2014.12
 #   image: '/static/img/pub/cimermancic_2014.jpg'
 #   pmid: TBD
-#   pmcid: TBD
+#   pmcid: In Process
 #   pdf: '/static/pdf/cimermancic_2014.pdf'
 #   links:
 #     - name: 'Paper Submission Celebration Photo'
@@ -71,7 +71,7 @@
 #   date: 2014.12
 #   image: '/static/img/pub/bhabha_acr_2014.jpg'
 #   pmid: TBD
-#   pmcid: TBD
+#   pmcid: In Process
 #   pdf: '/static/pdf/bhabha_acr_2014.pdf'
 #   links:
 #     - name: 'Paper Submission Celebration Photo'
@@ -83,7 +83,7 @@
 #   date: 2014.09
 #   image: '/static/img/pub/williams_chm_2014.jpg'
 #   pmid: TBD
-#   pmcid: TBD
+#   pmcid: In Process
 #   pdf: '/static/pdf/williams_chm_2014.pdf'
 #   pdbs: 
 #     - 4OBU
@@ -98,7 +98,7 @@
   date: 201410
   image: '/static/img/pub/woldeyes_cosb_2014.jpg'
   pmid: 25113271
-  pmcid: TBD
+  pmcid: In Process
   pdf: '/static/pdf/woldeyes_cosb_2014.pdf'
   links:
     - name: 'David Sivak'
@@ -135,7 +135,7 @@
   date: 201405
   image: '/static/img/pub/fischer_coleman_2014.jpg'
   pmid: 24950326
-  pmcid: TBD
+  pmcid: PMC4144196
   pdf: '/static/pdf/fischer_coleman_2014.pdf'
   pdbs:
     - 4OQ7  
