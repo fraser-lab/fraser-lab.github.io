@@ -147,7 +147,7 @@ Recommended reading:
 
 _Lab Work: Computational analysis of sequencing data_
 
-Lecturers: Elaine Meng (10/21), Bo Huang (10/22)
+Lecturers: Joe DeRisi (10/20), Elaine Meng (10/21), Bo Huang (10/22)
 
 Recommended reading: 
 
