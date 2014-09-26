@@ -14,6 +14,8 @@ group: pubs
 
 **Course Format:** 12 hours of lab per week
 
+**Location:** Genentech Hall Teaching Lab - Room 227 
+
 **Prerequisites:** All incoming first year iPQB and CCB graduate students are required to enroll in this course.
 
 **Grading:** Letter grade
