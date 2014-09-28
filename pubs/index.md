@@ -121,6 +121,12 @@ Recommended reading:
 - [(Finley et al., 2012)](http://www.ncbi.nlm.nih.gov/pubmed/23028185)
 - [(Roscoe et al., 2013)](http://www.ncbi.nlm.nih.gov/pubmed/23376099)
 
+Files for Computation:
+
+- [Allele_dic.pkl](https://drive.google.com/file/d/0Bz5C8aG_xj4sc3g5V29LcXluSE0/edit?usp=sharing)
+- [translate.pkl](https://drive.google.com/file/d/0Bz5C8aG_xj4sRVZVMU9RdUJoRkk/edit?usp=sharing)
+- [aminotonumber.pkl](https://drive.google.com/file/d/0Bz5C8aG_xj4sa0dlbGczQnd5R3c/edit?usp=sharing)
+
 **Week 2 – Theme: Chemical Genetics**
 
 _Lab work: Performing selection experiments under chemical stresses_
