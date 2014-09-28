@@ -29,6 +29,7 @@ group: pubs
 **Course Coordinator:** David Mavor; [David.Mavor@ucsf.edu](mailto:David.Mavor@ucsf.edu)
 
 **Microscopy Coodinator:** Laura Deming; [biophysics205a@gmail.com](mailto:biophysics205a@gmail.com)
+
 **TAs:**        
 
 [Zairan Liu](mailto:Zairan.Liu@ucsf.edu)
