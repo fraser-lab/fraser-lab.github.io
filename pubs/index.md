@@ -127,6 +127,8 @@ Files for Computation:
 - [translate.pkl](https://drive.google.com/file/d/0Bz5C8aG_xj4sRVZVMU9RdUJoRkk/edit?usp=sharing)
 - [aminotonumber.pkl](https://drive.google.com/file/d/0Bz5C8aG_xj4sa0dlbGczQnd5R3c/edit?usp=sharing)
 
+[Information about the server](/pubs/server/)
+
 **Week 2 – Theme: Chemical Genetics**
 
 _Lab work: Performing selection experiments under chemical stresses_
