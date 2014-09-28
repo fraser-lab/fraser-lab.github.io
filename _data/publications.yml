@@ -79,20 +79,21 @@
 #     - name: 'Justin\'s figure scripts'
 #       url: 'http://www.fraserlab.com/justin_figures.html'
 #
-- citation: 'Williams BB, **VanBenschoten AH**, Cimermancic P, Donia MS, Zimmermann M, Taketani M,  Ishihara A, Kashyap PC, **Fraser JS**, Fischbach MA. Discovery and characterization of two tryptamine-producing decarboxylases from the gut microbiota. *Cell Host and Microbe*. 2014.'
-  date: 201410
-  image: '/static/img/pub/williams_chm_2014.jpg'
-  pmid: 1111
-  pmcid: In Process
-  pdf: '/static/pdf/williams_chm_2014.pdf'
-  pdbs: 
-    - 4OBU
-    - 4OBV
-  links:
-  	-name: 'Fischbach Lab'
-  	 url: 'http://www.fischbachgroup.org'
-    - name: 'Paper Submission Celebration Photo'
-      url: 'https://twitter.com/fraser_lab/status/422902102298357760'
+
+# - citation: 'Williams BB, **VanBenschoten AH**, Cimermancic P, Donia MS, Zimmermann M, Taketani M,  Ishihara A, Kashyap PC, **Fraser JS**, Fischbach MA. Discovery and characterization of two tryptamine-producing decarboxylases from the gut microbiota. *Cell Host and Microbe*. 2014.'
+#   date: 201410
+#   image: '/static/img/pub/williams_chm_2014.jpg'
+#   pmid: 1111
+#   pmcid: In Process
+#   pdf: '/static/pdf/williams_chm_2014.pdf'
+#   pdbs: 
+#     - 4OBU
+#     - 4OBV
+#   links:
+#   	-name: 'Fischbach Lab'
+#   	 url: 'http://www.fischbachgroup.org'
+#     - name: 'Paper Submission Celebration Photo'
+#       url: 'https://twitter.com/fraser_lab/status/422902102298357760'
 
 - citation: '**Woldeyes RA**, Sivak DA, **Fraser JS**. E pluribus unum, no more: from one crystal, many conformations. *Current Opinion in Structural Biology*. 2014.'
   date: 201410
