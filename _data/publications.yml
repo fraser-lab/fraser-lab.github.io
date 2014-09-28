@@ -90,10 +90,11 @@
     - 4OBU
     - 4OBV
   links:
-  	- name: 'Fischbach Lab'
-  	  url: 'http://www.fischbachgroup.org'
+    - name: 'Fischbach Lab'
+      url: 'http://www.fischbachgroup.org'
     - name: 'Paper Submission Celebration Photo'
       url: 'https://twitter.com/fraser_lab/status/422902102298357760'
+
 
 - citation: '**Woldeyes RA**, Sivak DA, **Fraser JS**. E pluribus unum, no more: from one crystal, many conformations. *Current Opinion in Structural Biology*. 2014.'
   date: 201410
