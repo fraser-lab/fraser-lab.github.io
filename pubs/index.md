@@ -133,6 +133,8 @@ Files for Computation:
 
 [PDF of Lecture 1](https://drive.google.com/file/d/0Bx0d95RwVYufMFpUbTk1azcxUTQ/edit?usp=sharing)
 
+[Transformation Protocol](https://docs.google.com/document/d/1-6-rbLosBYkAZI4EOcmwP8C2wDNiLE4OWvXjNS0Yfko/edit?usp=sharing)
+
 **Week 2 – Theme: Chemical Genetics**
 
 _Lab work: Performing selection experiments under chemical stresses_
