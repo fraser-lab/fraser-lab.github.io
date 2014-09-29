@@ -131,6 +131,8 @@ Files for Computation:
 
 [Information about the server](/pubs/server/)
 
+[PDF of Lecture 1](https://drive.google.com/file/d/0Bx0d95RwVYufMFpUbTk1azcxUTQ/edit?usp=sharing)
+
 **Week 2 – Theme: Chemical Genetics**
 
 _Lab work: Performing selection experiments under chemical stresses_
