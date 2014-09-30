@@ -131,9 +131,11 @@ Files for Computation:
 
 [Information about the server](/pubs/server/)
 
-[PDF of Lecture 1](https://drive.google.com/file/d/0Bx0d95RwVYufMFpUbTk1azcxUTQ/edit?usp=sharing)
+[PDF of Lecture 1](https://drive.google.com/open?id=0Bx0d95RwVYufMFpUbTk1azcxUTQ&authuser=0)
 
 [Transformation Protocol](https://docs.google.com/document/d/1-6-rbLosBYkAZI4EOcmwP8C2wDNiLE4OWvXjNS0Yfko/edit?usp=sharing)
+
+[Yeast Handout by Hiten Madhani](https://drive.google.com/file/d/0Bx0d95RwVYufUDhZdWxnU2pRTWs/view?usp=sharing)
 
 **Week 2 – Theme: Chemical Genetics**
 
