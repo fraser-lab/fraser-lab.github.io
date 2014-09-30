@@ -137,6 +137,8 @@ Files for Computation:
 
 [Yeast Handout by Hiten Madhani](https://drive.google.com/file/d/0Bx0d95RwVYufUDhZdWxnU2pRTWs/view?usp=sharing)
 
+[Drug Concentration Protocol](https://docs.google.com/document/d/12Az3DGJlL4jZ2Rx5Y-xOM5y-EFrUIxhF5lf0DuWwiFE/edit?usp=sharing)
+
 **Week 2 – Theme: Chemical Genetics**
 
 _Lab work: Performing selection experiments under chemical stresses_
