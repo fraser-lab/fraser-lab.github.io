@@ -109,7 +109,7 @@ _Absences_: The instructor must be notified by the second week of classes for an
 
 _Accommodations for students with disabilities:_ Please see the instructor as soon as possible if you need particular accommodations, and we will work out the necessary arrangements.
 
-##Preliminary lab work and reading schedule
+##Lab work and recommended reading schedule
 
 **Week 1 – Theme: Ubiquitin and Deep Mutational Profiling**
 
@@ -149,8 +149,8 @@ Lecturers: Michael Keiser (10/6), Sourav Bandyopadhyay (10/7), Eric Chow (10/8)
 
 Recommended reading:
 
-- [(Bandyopadhyay et al., 2010)](http://www.ncbi.nlm.nih.gov/pubmed/21127252)
 - [(Lemieux et al., 2013)](http://www.ncbi.nlm.nih.gov/pubmed/24260022)
+- [(Bandyopadhyay et al., 2010)](http://www.ncbi.nlm.nih.gov/pubmed/21127252)
 - [(Aghajan et al., 2010)](http://www.ncbi.nlm.nih.gov/pubmed/20581845)
 
 **Week 3 – Theme: Massive Functional Profiling**
@@ -174,9 +174,9 @@ Lecturers: Joe DeRisi (10/20), Elaine Meng (10/21), Bo Huang (10/22)
 Recommended reading: 
 
 - [(McLaughlin et al., 2012)](http://www.ncbi.nlm.nih.gov/pubmed/23041932)
-- [(Pollock et al., 2012)](http://www.ncbi.nlm.nih.gov/pubmed/22547823)
 - [(Pei and Grishin, 2001)](http://www.ncbi.nlm.nih.gov/pubmed/11524371)
 - [Chimera Tutorial by Elaine Meng](http://www.rbvi.ucsf.edu/chimera/data/tutorials/systems/index.html)
+- [(Pollock et al., 2012)](http://www.ncbi.nlm.nih.gov/pubmed/22547823)
 
 **Week 5 – Theme: Stress Response Networks**
 
@@ -186,9 +186,9 @@ Lecturers: David Morgan (10/28), Jason Gestwicki (10/29)
 
 Recommended reading:
 
+- [(Rodrigo-Brenni et al., 2010)](http://www.ncbi.nlm.nih.gov/pubmed/20797627)
 - [(Gestwicki and Garza, 2012)](http://www.ncbi.nlm.nih.gov/pubmed/22482455)
 - [(Sowa et al., 2009)](http://www.ncbi.nlm.nih.gov/pubmed/19615732)
-- [(Rodrigo-Brenni et al., 2010)](http://www.ncbi.nlm.nih.gov/pubmed/20797627)
 
 **Week 6 – Theme: Single Cell/Molecule vs. Bulk Measurements**
 
@@ -214,8 +214,6 @@ Recommended reading:
 - [(Leaver-Fay et al., 2011)](http://www.ncbi.nlm.nih.gov/pubmed/21187238)
 - [(Phillips et al., 2013)](http://www.ncbi.nlm.nih.gov/pubmed/23801757)
 - [(Thomson et al., 2011)](http://www.ncbi.nlm.nih.gov/pubmed/21663792)
-
-
 
 **Week 8– Theme: Constraints in the Context of Networks**
 
