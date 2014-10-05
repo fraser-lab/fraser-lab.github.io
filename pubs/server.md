@@ -14,7 +14,7 @@ group: pubs
 - **RAM:** 256Gb
 - **Cores:** 64
 - **Disk:** 7.3 Tb
-- **Access:** use ssh, sftp, or scp to access your account or files. Note, off campus will require [VPN](https://it.ucsf.edu/services/vpn).
+- **Access:** use ssh, sftp, or scp to access your account or files. Note, off campus will require [VPN](https://it.ucsf.edu/services/vpn). In the teaching lab, the network "TeachingLab" should let you in.  Password is written on the whiteboard.
 - **Home Directories:** Each team will share an account and home directory, all located in /data/
 - **Standard shell:** zsh
 - **Shared Data:** All shared class data will be stored in: /data/ClassData/ 	
