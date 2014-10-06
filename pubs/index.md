@@ -129,17 +129,14 @@ Files for Computation:
 - [translate.pkl](https://drive.google.com/file/d/0Bz5C8aG_xj4sRVZVMU9RdUJoRkk/edit?usp=sharing)
 - [aminotonumber.pkl](https://drive.google.com/file/d/0Bz5C8aG_xj4sa0dlbGczQnd5R3c/edit?usp=sharing)
 
-[Information about the server](/pubs/server/)
+Other Class Material:
 
-[PDF of Lecture 1](https://drive.google.com/open?id=0Bx0d95RwVYufMFpUbTk1azcxUTQ&authuser=0)
-
-[Fred Sherman's "Getting started with Yeast"](https://instruct.uwo.ca/biology/3596a/startedyeast.pdf)
-
-[Transformation Protocol](https://docs.google.com/document/d/1-6-rbLosBYkAZI4EOcmwP8C2wDNiLE4OWvXjNS0Yfko/edit?usp=sharing)
-
-[Yeast Handout by Hiten Madhani](https://drive.google.com/file/d/0Bx0d95RwVYufUDhZdWxnU2pRTWs/view?usp=sharing)
-
-[Drug Concentration Protocol](https://docs.google.com/document/d/12Az3DGJlL4jZ2Rx5Y-xOM5y-EFrUIxhF5lf0DuWwiFE/edit?usp=sharing)
+- [Information about the server](/pubs/server/)
+- [PDF of Lecture 1](https://drive.google.com/open?id=0Bx0d95RwVYufMFpUbTk1azcxUTQ&authuser=0)
+- [Fred Sherman's "Getting started with Yeast"](https://instruct.uwo.ca/biology/3596a/startedyeast.pdf)
+- [Transformation Protocol](https://docs.google.com/document/d/1-6-rbLosBYkAZI4EOcmwP8C2wDNiLE4OWvXjNS0Yfko/edit?usp=sharing)
+- [Yeast Handout by Hiten Madhani](https://drive.google.com/file/d/0Bx0d95RwVYufUDhZdWxnU2pRTWs/view?usp=sharing)
+- [Drug Concentration Protocol](https://docs.google.com/document/d/12Az3DGJlL4jZ2Rx5Y-xOM5y-EFrUIxhF5lf0DuWwiFE/edit?usp=sharing)
 
 **Week 2 – Theme: Chemical Genetics**
 
@@ -153,8 +150,10 @@ Recommended reading:
 - [(Bandyopadhyay et al., 2010)](http://www.ncbi.nlm.nih.gov/pubmed/21127252)
 - [(Aghajan et al., 2010)](http://www.ncbi.nlm.nih.gov/pubmed/20581845)
 
-[Sign up for CAT access](https://docs.google.com/forms/d/1Yr9Sv5713ntGnR-yAWfG_yWP4jkJ0UInIjwWlXz0b7U/viewform?c=0&w=1)
-[Protocol for library growth](https://docs.google.com/document/d/1OIC1oyDUla72RJlt5a6kquhzMdSC1IuGUyPyztDxddc/edit?usp=sharing)
+Other Class Material:
+
+- [Sign up for CAT access](https://docs.google.com/forms/d/1Yr9Sv5713ntGnR-yAWfG_yWP4jkJ0UInIjwWlXz0b7U/viewform?c=0&w=1)
+- [Protocol for library growth](https://docs.google.com/document/d/1OIC1oyDUla72RJlt5a6kquhzMdSC1IuGUyPyztDxddc/edit?usp=sharing)
 
 **Week 3 – Theme: Massive Functional Profiling**
 
