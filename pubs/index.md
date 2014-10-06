@@ -154,6 +154,8 @@ Other Class Material:
 
 - [Sign up for CAT access](https://docs.google.com/forms/d/1Yr9Sv5713ntGnR-yAWfG_yWP4jkJ0UInIjwWlXz0b7U/viewform?c=0&w=1)
 - [Protocol for library growth](https://docs.google.com/document/d/1OIC1oyDUla72RJlt5a6kquhzMdSC1IuGUyPyztDxddc/edit?usp=sharing)
+- [Promega Colony Counting App](http://www.promega.com/resources/mobile-apps/)
+- [Zappy Lab Bench Tools](https://itunes.apple.com/us/app/zappylab-bench-tools/id731295151?mt=8)
 
 **Week 3 – Theme: Massive Functional Profiling**
 
