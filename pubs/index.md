@@ -153,6 +153,9 @@ Recommended reading:
 - [(Bandyopadhyay et al., 2010)](http://www.ncbi.nlm.nih.gov/pubmed/21127252)
 - [(Aghajan et al., 2010)](http://www.ncbi.nlm.nih.gov/pubmed/20581845)
 
+[Sign up for CAT access](https://docs.google.com/forms/d/1Yr9Sv5713ntGnR-yAWfG_yWP4jkJ0UInIjwWlXz0b7U/viewform?c=0&w=1)
+[Protocol for library growth](https://docs.google.com/document/d/1OIC1oyDUla72RJlt5a6kquhzMdSC1IuGUyPyztDxddc/edit?usp=sharing)
+
 **Week 3 – Theme: Massive Functional Profiling**
 
 _Lab work: Deep sequencing library preparation_
