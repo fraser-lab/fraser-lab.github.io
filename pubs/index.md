@@ -156,6 +156,7 @@ Other Class Material:
 - [Protocol for library growth](https://docs.google.com/document/d/1OIC1oyDUla72RJlt5a6kquhzMdSC1IuGUyPyztDxddc/edit?usp=sharing)
 - [Promega Colony Counting App](http://www.promega.com/resources/mobile-apps/)
 - [Zappy Lab Bench Tools](https://itunes.apple.com/us/app/zappylab-bench-tools/id731295151?mt=8)
+- [Eric Chow Lecture Notes](https://drive.google.com/file/d/0Bx0d95RwVYufSDhReVRUckFJSFU/view?usp=sharing)
 
 **Week 3 – Theme: Massive Functional Profiling**
 
