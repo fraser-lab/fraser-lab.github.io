@@ -169,6 +169,14 @@ Recommended reading:
 - [(Araya et al., 2012)](http://www.ncbi.nlm.nih.gov/pubmed/23035249)
 - [(Smith et al., 2013)](http://www.ncbi.nlm.nih.gov/pubmed/23892608)
 
+Other Class Material:
+
+- Team and Time Specific Barcodes
+- Yeast Miniprep protocol
+- Library PCR protocol
+- Quality control protocol
+- A guide to anticipated deep sequencing results
+
 **Week 4 – Theme: Sequence Conservation and Statistical Mechanics**
 
 _Lab Work: Computational analysis of sequencing data_
@@ -177,10 +185,15 @@ Lecturers: Joe DeRisi (10/20), Elaine Meng (10/21), Bo Huang (10/22)
 
 Recommended reading: 
 
+- [(Bystrykh, 2012)](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0036852)
 - [(McLaughlin et al., 2012)](http://www.ncbi.nlm.nih.gov/pubmed/23041932)
 - [(Pei and Grishin, 2001)](http://www.ncbi.nlm.nih.gov/pubmed/11524371)
 - [Chimera Tutorial by Elaine Meng](http://www.rbvi.ucsf.edu/chimera/data/tutorials/systems/index.html)
 - [(Pollock et al., 2012)](http://www.ncbi.nlm.nih.gov/pubmed/22547823)
+
+Other Class Material:
+
+- [Hamming Distance](http://en.wikipedia.org/wiki/Hamming_distance)
 
 **Week 5 – Theme: Stress Response Networks**
 
@@ -243,6 +256,8 @@ Agresti, J.J., Antipov, E., Abate, A.R., Ahn, K., Rowat, A.C., Baret, J.C., Marq
 Araya, C.L., Fowler, D.M., Chen, W., Muniez, I., Kelly, J.W., and Fields, S. (2012). A fundamental protein property, thermodynamic stability, revealed solely from large-scale measurements of protein function. Proc. Natl. Acad. Sci. U.S.a. _109_, 16858–16863.
 
 Bandyopadhyay, S., Mehta, M., Kuo, D., Sung, M.K., Chuang, R., Jaehnig, E.J., Bodenmiller, B., Licon, K., Copeland, W., Shales, M., et al. (2010). Rewiring of Genetic Networks in Response to DNA Damage. Science _330_, 1385–1389.
+
+Bystrykh LV (2012) Generalized DNA Barcode Design Based on Hamming Codes. PLoS ONE 7(5): e36852. doi:10.1371/journal.pone.0036852
 
 David, L.A., Maurice, C.M., Carmody, R.N., Gootenberg, D.B., Button, J.E., Wolfe, B.E., Ling, A.V., Devlin, A.S., Varma, Y., Fischbach, M.A., Biddinger, S.B., Dutton, R.J., and P.J. Turnbaugh. Diet rapidly and reproducibly alters the human gut microbiome. Nature, Epub ahead of print, Nov 2013. doi:10.1038/nature12820.
 
