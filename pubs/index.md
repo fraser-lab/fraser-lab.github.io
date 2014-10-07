@@ -219,6 +219,11 @@ Recommended reading:
 - [(Tinoco and Gonzalez, 2011)](http://www.ncbi.nlm.nih.gov/pubmed/21685361)
 - [(Rajaram et al., 2012)](http://www.ncbi.nlm.nih.gov/pubmed/22743764)
 
+Other Class Material:
+
+- Microscopy protocol
+- CellProfiler instructions
+
 **Week 7– Theme: Constraints on Stability and Interaction Specificity**
 
 _Lab Work: Computational protein design_
