@@ -154,6 +154,7 @@ Other Class Material:
 
 - [Sign up for CAT access](https://docs.google.com/forms/d/1Yr9Sv5713ntGnR-yAWfG_yWP4jkJ0UInIjwWlXz0b7U/viewform?c=0&w=1)
 - [Protocol for library growth](https://docs.google.com/document/d/1OIC1oyDUla72RJlt5a6kquhzMdSC1IuGUyPyztDxddc/edit?usp=sharing)
+- [Illustrated Protocol](https://drive.google.com/file/d/0Bx0d95RwVYufNk5palhZYmg0WHM/view?usp=sharing)
 - [Promega Colony Counting App](http://www.promega.com/resources/mobile-apps/)
 - [Zappy Lab Bench Tools](https://itunes.apple.com/us/app/zappylab-bench-tools/id731295151?mt=8)
 - [Eric Chow Lecture Notes](https://drive.google.com/file/d/0Bx0d95RwVYufSDhReVRUckFJSFU/view?usp=sharing)
@@ -162,7 +163,15 @@ Other Class Material:
 
 _Lab work: Deep sequencing library preparation_
 
-Lecturers: Nadav Ahituv (10/13), Ryan Hernandez (10/15)
+Lecturers: Nadav Ahituv (10/13), Journal Club (10/14), Ryan Hernandez (10/15)
+
+Journal Club Assignments:
+
+- [Chemical genetics screen for enhancers of rapamycin ...](http://www.ncbi.nlm.nih.gov/pubmed/20581845) - UBCELSS
+- [A fundamental protein property....](http://www.ncbi.nlm.nih.gov/pubmed/23035249) - DUBSTEP
+- [The spatial architecture of protein function](http://www.ncbi.nlm.nih.gov/pubmed/23041932) - KRATE 
+- [Recognition dynamics up to microseconds...](http://www.ncbi.nlm.nih.gov/pubmed/18556554) - ATG 
+- [A proteomics approach to understanding protein ubiquitination...](http://www.ncbi.nlm.nih.gov/pubmed/12872131) - YBUB 
 
 Recommended reading:
 
