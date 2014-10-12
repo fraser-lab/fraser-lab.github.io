@@ -167,7 +167,7 @@ Lecturers: Nadav Ahituv (10/13), Journal Club (10/14), Ryan Hernandez (10/15)
 
 Journal Club Assignments:
 
-- [Chemical genetics screen for enhancers of rapamycin ...](http://www.ncbi.nlm.nih.gov/pubmed/20581845) - UBCELSS
+- [Chemical genetics screen for enhancers of rapamycin ...](http://www.ncbi.nlm.nih.gov/pubmed/20581845) - UBCELß
 - [A fundamental protein property....](http://www.ncbi.nlm.nih.gov/pubmed/23035249) - DUBSTEP
 - [The spatial architecture of protein function](http://www.ncbi.nlm.nih.gov/pubmed/23041932) - KRATE 
 - [Recognition dynamics up to microseconds...](http://www.ncbi.nlm.nih.gov/pubmed/18556554) - ATG 
@@ -182,7 +182,7 @@ Recommended reading:
 Other Class Material:
 
 - Team and Time Specific Barcodes
-- Yeast Miniprep protocol
+- [Yeast Miniprep protocol](https://docs.google.com/document/d/1zk_h_pS1Ikb1VfqSSx_ePHROVGu3dl55mJ_NSeYw3ss/edit?usp=sharing)
 - Library PCR protocol
 - Quality control protocol
 - A guide to anticipated deep sequencing results
