@@ -45,7 +45,7 @@ group: pubs
 
 **Lecturers/Facilitators:**
 
-James Fraser, Joe DeRisi, Hiten Madhani, Michael Keiser, Sourav Bandyopadhyay, Jessica Lund, Eric Chow, Nadav Ahituv, Ryan Hernandez, Elaine Meng, Bo Huang, David Morgan, Jason Gestwicki, Kurt Thorn, Steven Altschuler, Lani Wu, Tanja Kortemme, Adam Abate, Matthew Thomson, Dave Toczyski
+James Fraser, Joe DeRisi, Hiten Madhani, Michael Keiser, Sourav Bandyopadhyay, Jessica Lund, Eric Chow, Nadav Ahituv, Ryan Hernandez, Elaine Meng, Bo Huang, David Morgan, Jason Gestwicki, Kurt Thorn, Steven Altschuler, Lani Wu, Tanja Kortemme, Wendell Lim, Adam Abate, Matthew Thomson, Dave Toczyski
 
 **Important Dates:**
 
