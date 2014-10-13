@@ -176,6 +176,7 @@ Recommended reading:
 
 Other Class Material:
 
+- [Sign-up for QB3 Cluster Access](https://docs.google.com/spreadsheets/d/1Ln9NYKVmoerzhfmzSMEgb47gYY5dohb9iXJtfnlwYhs/edit?usp=sharing)
 - Team and Time Specific Barcodes
 - [Yeast Miniprep protocol](https://docs.google.com/document/d/1zk_h_pS1Ikb1VfqSSx_ePHROVGu3dl55mJ_NSeYw3ss/edit?usp=sharing)
 - [Illustrated Yeast Miniprep protocol](https://drive.google.com/file/d/0Bx0d95RwVYufLURGVWdpQnNYeUE/view?usp=sharing)
