@@ -222,7 +222,7 @@ Recommended reading:
 
 _Lab Work: Growth rates via microscopy and bulk measurements_
 
-Lecturers: Kurt Thorn (11/3), Steven Altschuler and Lani Wu (11/4), Tanja Kortemme (11/5), Wendell Lim Kilobots Demo (11/5)
+Lecturers: Kurt Thorn (11/3), Steven Altschuler and Lani Wu (11/4), Tanja Kortemme (11/5), Wendell Lim Kilobot Demo (11/5)
 
 Recommended reading:
 
