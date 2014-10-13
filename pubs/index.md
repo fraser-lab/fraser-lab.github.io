@@ -32,21 +32,16 @@ group: pubs
 
 **TAs:**
 
-[Zairan Liu](mailto:Zairan.Liu@ucsf.edu)
-
-[Ben Barad](mailto:ben.barad@ucsf.edu)
-
-[Clint Cario](mailto:clintcario@gmail.com)
-
-[Alain Bonny](mailto:alain.bonny@gmail.com)
-
-[Garrett Gaskins](mailto:garrett.gaskins@ucsf.edu)
+- [Zairan Liu](mailto:Zairan.Liu@ucsf.edu)
+- [Ben Barad](mailto:ben.barad@ucsf.edu)
+- [Clint Cario](mailto:clintcario@gmail.com)
+- [Alain Bonny](mailto:alain.bonny@gmail.com)
+- [Garrett Gaskins](mailto:garrett.gaskins@ucsf.edu)
 
 **Rosetta Helpers:**
 
-[Kyle Barlow](mailto:kyle.barlow@ucsf.edu)
-
-[Samuel Thompson](mailto:Samuel.Thompson@ucsf.edu)
+- [Kyle Barlow](mailto:kyle.barlow@ucsf.edu)
+- [Samuel Thompson](mailto:Samuel.Thompson@ucsf.edu)
 
 **Lecturers/Facilitators:**
 
