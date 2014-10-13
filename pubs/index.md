@@ -14,7 +14,7 @@ group: pubs
 
 **Course Format:** 12 hours of lab per week
 
-**Location:** Genentech Hall Teaching Lab - Room 227 
+**Location:** Genentech Hall Teaching Lab - Room 227
 
 **Prerequisites:** All incoming first year iPQB and CCB graduate students are required to enroll in this course.
 
@@ -22,7 +22,7 @@ group: pubs
 
 **Textbook:** None. Lab protocols and course materials will be available in class or online
 
-**Course Days/Hours:** Monday, Tuesday, Wednesday 1pm-5pm        
+**Course Days/Hours:** Monday, Tuesday, Wednesday 1pm-5pm
 
 **Instructors:** James Fraser; [jfraser+bp205a@fraserlab.com](mailto:jfraser+bp205a@fraserlab.com)
 
@@ -30,7 +30,7 @@ group: pubs
 
 **Microscopy Coodinator:** Laura Deming; [biophysics205a@gmail.com](mailto:biophysics205a@gmail.com)
 
-**TAs:**        
+**TAs:**
 
 [Zairan Liu](mailto:Zairan.Liu@ucsf.edu)
 
@@ -40,7 +40,7 @@ group: pubs
 
 [Alain Bonny](mailto:alain.bonny@gmail.com)
 
-[Garrett Gaskins](mailto:garrett.gaskins@ucsf.edu) 
+[Garrett Gaskins](mailto:garrett.gaskins@ucsf.edu)
 
 **Rosetta Helpers:**
 
@@ -54,15 +54,15 @@ James Fraser, Joe DeRisi, Hiten Madhani, Michael Keiser, Sourav Bandyopadhyay, J
 
 **Important Dates:**
 
-- Deep Sequencing Presentation: Monday, October 27th 
+- Deep Sequencing Presentation: Monday, October 27th
 - NSF GRFP due: Oct 30th (Chemistry), Nov 4th (Life Sciences)
-- Rosetta/Microscopy presentations: Monday, November 24th 
+- Rosetta/Microscopy presentations: Monday, November 24th
 
 **Background:**
 
 "Precision Medicine" is an emerging theme in biomedical research and patient care, and refers to the use of genome-wide information, such as DNA sequence, expression profiling, metabolic labeling/imaging, and other technologies to better inform ultimately customize therapy. For cancer medicine, discreet genomic changes can be tied directly to particular treatments, such as immunotherapies or small molecules directed against a mutated enzyme. However, the cancer genome is not necessarily a static entity, and may be subjected to intense selective pressures resulting in highly dynamic changes that manifest as relevant phenotypes, such as drug resistance or metastatic potential. Technological revolutions, such as DNA microarrays, followed by ultra-deep sequencing, have allowed high-resolution views of the genome and dynamical views of the expression programs they exhibit.
 
-Despite the promise for personalized care, many challenges remain. The genome, its expression, and its translation into phenotype embody a highly complex and dynamic system, whether it is a cancer cell, a yeast cell, or even a virus. Mutations that drive a phenotype may not be necessarily distinguishable from those that are mere passengers, and the molecular determinants of large-scale alterations remain largely uncharacterized. 
+Despite the promise for personalized care, many challenges remain. The genome, its expression, and its translation into phenotype embody a highly complex and dynamic system, whether it is a cancer cell, a yeast cell, or even a virus. Mutations that drive a phenotype may not be necessarily distinguishable from those that are mere passengers, and the molecular determinants of large-scale alterations remain largely uncharacterized.
 
 Ultimately, the goal is the synthesis of predictive models that can reveal fundamental regulatory principles, and in the case of patients, deliver actionable information for treatment, early detection, and prevention.
 
@@ -96,12 +96,12 @@ In **module 3**, the teams will leverage interactions with Tanja Kortemme and me
 
 - Laboratory safety
 - Appropriate methods for documenting laboratory procedures
-- Library prep and Ultra-Deep Sequencing 
+- Library prep and Ultra-Deep Sequencing
 - Bioinformatics and algorithms
 - Python scripting
-- Experimental design and planning 
-- Yeast molecular biology 
-- Introduction to microscopy 
+- Experimental design and planning
+- Yeast molecular biology
+- Introduction to microscopy
 
 **Class Policies**
 
@@ -169,9 +169,9 @@ Journal Club Assignments:
 
 - [Chemical genetics screen for enhancers of rapamycin ...](http://www.ncbi.nlm.nih.gov/pubmed/20581845) - UBCELß
 - [A fundamental protein property....](http://www.ncbi.nlm.nih.gov/pubmed/23035249) - DUBSTEP
-- [The spatial architecture of protein function](http://www.ncbi.nlm.nih.gov/pubmed/23041932) - KRATE 
-- [Recognition dynamics up to microseconds...](http://www.ncbi.nlm.nih.gov/pubmed/18556554) - ATG 
-- [A proteomics approach to understanding protein ubiquitination...](http://www.ncbi.nlm.nih.gov/pubmed/12872131) - YBUB 
+- [The spatial architecture of protein function](http://www.ncbi.nlm.nih.gov/pubmed/23041932) - KRATE
+- [Recognition dynamics up to microseconds...](http://www.ncbi.nlm.nih.gov/pubmed/18556554) - ATG
+- [A proteomics approach to understanding protein ubiquitination...](http://www.ncbi.nlm.nih.gov/pubmed/12872131) - YBUB
 
 Recommended reading:
 
@@ -194,7 +194,7 @@ _Lab Work: Computational analysis of sequencing data_
 
 Lecturers: Joe DeRisi (10/20), Elaine Meng (10/21), Bo Huang (10/22)
 
-Recommended reading: 
+Recommended reading:
 
 - [(Bystrykh, 2012)](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0036852)
 - [(McLaughlin et al., 2012)](http://www.ncbi.nlm.nih.gov/pubmed/23041932)
@@ -222,7 +222,7 @@ Recommended reading:
 
 _Lab Work: Growth rates via microscopy and bulk measurements_
 
-Lecturers: Kurt Thorn (11/3), Steven Altschuler and Lani Wu (11/4), Tanja Kortemme (11/5)
+Lecturers: Kurt Thorn (11/3), Steven Altschuler and Lani Wu (11/4), Tanja Kortemme (11/5), Wendell Lim Kilobots Demo (11/5)
 
 Recommended reading:
 
@@ -234,6 +234,7 @@ Other Class Material:
 
 - Microscopy protocol
 - CellProfiler instructions
+- [The Kilobot Project](http://www.eecs.harvard.edu/ssr/projects/progSA/kilobot.html)
 
 **Week 7– Theme: Constraints on Stability and Interaction Specificity**
 
