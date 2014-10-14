@@ -187,6 +187,7 @@ Other Class Material:
 - [Gel extraction protocol](https://drive.google.com/file/d/0Bx0d95RwVYufb2MtUml0SU5OWms/view?usp=sharing)
 - [Barcode Addition PCR protocol](https://docs.google.com/document/d/1US4qYUKqMY-s9H_ifFyWCCDQJfykd8Xmz4RwA8EBO7w/edit?usp=sharing)
 - [Team and Time Specific Barcodes](https://docs.google.com/spreadsheets/d/1tEfTOXOHSn7MAwEFa_pVOB1hl1f_NqEjmi3tTbTvfJ8/edit?usp=sharing)
+- [PCR cleanup protocol](https://drive.google.com/file/d/0Bx0d95RwVYufSGtfMXNZUjRXN3c/view?usp=sharing)
 - Plasmid Sequence and annotation
 - Quality control protocol
 - A guide to anticipated deep sequencing results
