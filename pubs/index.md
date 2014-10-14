@@ -180,7 +180,7 @@ Other Class Material:
 - [Yeast Miniprep protocol](https://docs.google.com/document/d/1zk_h_pS1Ikb1VfqSSx_ePHROVGu3dl55mJ_NSeYw3ss/edit?usp=sharing)
 - [Illustrated Yeast Miniprep protocol](https://drive.google.com/file/d/0Bx0d95RwVYufLURGVWdpQnNYeUE/view?usp=sharing)
 - [Library PCR protocol](https://docs.google.com/document/d/1KUXhrxh-QxumFcgfjUVXTdYNZq_956ZQ11zpUSxtGR0/edit?usp=sharing)
-- [Gel extraction protocol](https://drive.google.com/file/d/0Bx0d95RwVYufQUkxaEk4MU5tNHc/view?usp=sharing)
+- [Gel extraction protocol](https://drive.google.com/file/d/0Bx0d95RwVYufb2MtUml0SU5OWms/view?usp=sharing)
 - Barcode Addition PCR protocol
 - Team and Time Specific Barcodes
 - Quality control protocol
