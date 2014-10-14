@@ -167,10 +167,10 @@ Lecturers: Nadav Ahituv (10/13), Journal Club (10/14), Ryan Hernandez (10/15)
 Journal Club Assignments:
 
 - [Chemical genetics screen for enhancers of rapamycin ...](http://www.ncbi.nlm.nih.gov/pubmed/20581845) - UBCELß
-- [A fundamental protein property....](http://www.ncbi.nlm.nih.gov/pubmed/23035249) - DUBSTEP
+- [A fundamental protein property ...](http://www.ncbi.nlm.nih.gov/pubmed/23035249) - DUBSTEP
 - [The spatial architecture of protein function](http://www.ncbi.nlm.nih.gov/pubmed/23041932) - KRATE
-- [Recognition dynamics up to microseconds...](http://www.ncbi.nlm.nih.gov/pubmed/18556554) - ATG
-- [A proteomics approach to understanding protein ubiquitination...](http://www.ncbi.nlm.nih.gov/pubmed/12872131) - YBUB
+- [Recognition dynamics up to microseconds ...](http://www.ncbi.nlm.nih.gov/pubmed/18556554) - ATG
+- [A proteomics approach to understanding protein ubiquitination ...](http://www.ncbi.nlm.nih.gov/pubmed/12872131) - YBUB
 
 Recommended reading:
 
