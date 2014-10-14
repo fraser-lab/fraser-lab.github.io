@@ -20,7 +20,7 @@
 #     - name: 'Tawfik Lab'
 #       url: 'http://www.weizmann.ac.il/Biological_Chemistry/scientist/Tawfik/'
 #
-# - citation: 'Thomaston JL, Alfonso-Prieto M, **Woldeyes RA**, **Fraser JS**, Klein ML, Fiorin G, DeGrado WF. High resolution structures of the M2 proton channel from influenza A virus reveal  dynamic pathways for proton stabilization and transduction. *Submitted to Nature Chemistry*, 2014.'
+# - citation: 'Thomaston JL, Alfonso-Prieto M, **Woldeyes RA**, **Fraser JS**, Klein ML, Fiorin G, DeGrado WF. High resolution structures of the M2 proton channel from influenza A virus reveal  dynamic pathways for proton stabilization and transduction. *Submitted to Nature Communications*, 2014.'
 #   date: 2014.12
 #   image: '/static/img/pub/thomaston_2014.jpg'
 #   pmid: TBD
@@ -47,7 +47,7 @@
 #   links:
 #     - name: Henry van den Bedem
 #       url: 'https://people.stanford.edu/vdbedem/'
-# 
+#
 # - citation: 'Cimermancic P...**Keedy DA**, **Woldeyes RA**, **Fraser JS**, Sali A. Cryptic Sites. *TBD*. 2014.'
 #   date: 2014.12
 #   image: '/static/img/pub/cimermancic_2014.jpg'
@@ -81,7 +81,7 @@
 #       url: 'http://public.lanl.gov/mewall/'
 #     - name: 'Paper Submission Celebration Photo'
 #       url: 'https://twitter.com/fraser_lab/status/506975938043580416'
-# 
+#
 
 - citation: 'Williams BB, **VanBenschoten AH**, Cimermancic P, Donia MS, Zimmermann M, Taketani M,  Ishihara A, Kashyap PC, **Fraser JS**, Fischbach MA. Discovery and characterization of two tryptamine-producing decarboxylases from the gut microbiota. *Cell Host and Microbe*. 2014.'
   date: 201410
@@ -89,7 +89,7 @@
   pmid: 25263219
   pmcid: In Process
   pdf: '/static/pdf/williams_chm_2014.pdf'
-  pdbs: 
+  pdbs:
     - 4OBU
     - 4OBV
   links:
@@ -120,7 +120,7 @@
   pmcid: PMC4082491
   pdf: '/static/pdf/keedy_structure_2014.pdf'
   pdbs:
-    - 4PSS 
+    - 4PSS
     - 4PST
     - 4PSY
     - 4PSZ
@@ -145,7 +145,7 @@
   pmcid: PMC4144196
   pdf: '/static/pdf/fischer_coleman_2014.pdf'
   pdbs:
-    - 4OQ7  
+    - 4OQ7
     - 4NVA
     - 4NVB
     - 4NVC
@@ -192,7 +192,7 @@
   pdf: '/static/pdf/fenwick_pnas_2014.pdf'
   pdbs:
     - 4NX6
-    - 4NX7  
+    - 4NX7
   links:
     - name: Wright Lab
       url: 'http://www.scripps.edu/wright/'
@@ -208,7 +208,7 @@
   pmcid: PMC3890839
   pdf: '/static/pdf/lang_pnas_2014.pdf'
   pdbs:
-    - 4NX4 
+    - 4NX4
   links:
     - name: END/RAPID Website
       url: 'http://bl831.als.lbl.gov/END/RAPID/'
@@ -220,9 +220,9 @@
   pmcid: PMC3760795
   pdf: '/static/pdf/vdb_nmethods_2013.pdf'
   pdbs:
-    - 4KJJ 
-    - 4KJK 
-    - 4KJL 
+    - 4KJJ
+    - 4KJK
+    - 4KJL
   links:
     - name: CONTACT Website
       url: 'http://smb.slac.stanford.edu/CONTACT/'
@@ -236,7 +236,7 @@
       url: 'http://www.nature.com/nsmb/journal/v20/n9/full/nsmb.2670.html'
     - name: "NChemBiol: Shake it up, baby"
       url: 'http://www.nature.com/nchembio/journal/v9/n10/full/nchembio.1344.html'
-    - name: "SBKB Drug Discovery: Identifying Dynamic Networks by CONTACT" 
+    - name: "SBKB Drug Discovery: Identifying Dynamic Networks by CONTACT"
       url: 'http://sbkb.org/update/research/drug-discovery-identifying-dynamic-networks-by-contact'
     - name: "SLAC: How Proteins Shift into Working Mode"
       url: 'http://www6.slac.stanford.edu/news/2013-08-08-How-Proteins-Shift-Into-Working-Mode.aspx'
@@ -379,7 +379,7 @@
     - name: "QB3: QB3 structural biologists make algorithm available on the web"
       url: 'http://qb3.org/news-and-events/archive/2010/qb3-structural-biologists-make-algorithm-available-on-the-web'
     - name: "Ringer is now also available as an alpha feature in the PHENIX GUI or on the command line as mmtbx.ringer"
-      url: 'http://phenix-online.org'    
+      url: 'http://phenix-online.org'
 
 - citation: 'Maghzal N\*, Vogt E\*, Reintsch W, **Fraser JS**, Fagotto F. The tumor-associated EpCAM regulates morphogenetic movements through intracellular signaling. *Journal of Cell Biology*. 2010.'
   date: 201011
@@ -434,7 +434,7 @@
   pdbs:
     - 2GKG
     - 2I6F
-    - 2NT4 
+    - 2NT4
     - 2NT3
   links:
     - name: "Zusman Lab"
