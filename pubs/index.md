@@ -47,7 +47,7 @@ group: pubs
 
 James Fraser, Joe DeRisi, Hiten Madhani, Michael Keiser,
 Sourav Bandyopadhyay, Jessica Lund, Eric Chow, Nadav Ahituv,
-Ryan Hernandez, Elaine Meng, Bo Huang, David Morgan, Jason Gestwicki, 
+Ryan Hernandez, Elaine Meng, Bo Huang, David Morgan, Jason Gestwicki,
 Kurt Thorn, Steven Altschuler, Lani Wu, Tanja Kortemme, Wendell Lim,
 Adam Abate, Matthew Thomson, Dave Toczyski
 
@@ -185,8 +185,9 @@ Other Class Material:
 - [Illustrated Yeast Miniprep protocol](https://drive.google.com/file/d/0Bx0d95RwVYufLURGVWdpQnNYeUE/view?usp=sharing)
 - [Library PCR protocol](https://docs.google.com/document/d/1KUXhrxh-QxumFcgfjUVXTdYNZq_956ZQ11zpUSxtGR0/edit?usp=sharing)
 - [Gel extraction protocol](https://drive.google.com/file/d/0Bx0d95RwVYufb2MtUml0SU5OWms/view?usp=sharing)
-- Barcode Addition PCR protocol
-- Team and Time Specific Barcodes
+- [Barcode Addition PCR protocol](https://docs.google.com/document/d/1US4qYUKqMY-s9H_ifFyWCCDQJfykd8Xmz4RwA8EBO7w/edit?usp=sharing)
+- [Team and Time Specific Barcodes](https://docs.google.com/spreadsheets/d/1tEfTOXOHSn7MAwEFa_pVOB1hl1f_NqEjmi3tTbTvfJ8/edit?usp=sharing)
+- Plasmid Sequence and annotation
 - Quality control protocol
 - A guide to anticipated deep sequencing results
 
