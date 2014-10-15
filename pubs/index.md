@@ -188,7 +188,8 @@ Other Class Material:
 - [Barcode Addition PCR protocol](https://docs.google.com/document/d/1US4qYUKqMY-s9H_ifFyWCCDQJfykd8Xmz4RwA8EBO7w/edit?usp=sharing)
 - [Team and Time Specific Barcodes](https://docs.google.com/spreadsheets/d/1tEfTOXOHSn7MAwEFa_pVOB1hl1f_NqEjmi3tTbTvfJ8/edit?usp=sharing)
 - [PCR cleanup protocol](https://drive.google.com/file/d/0Bx0d95RwVYufSGtfMXNZUjRXN3c/view?usp=sharing)
-- Quality control protocol
+- [QBit Protocol](https://drive.google.com/file/d/0Bx0d95RwVYufM0xhZ01USllneHM/view?usp=sharing)
+- [Final Library Hand-off Instructions](https://docs.google.com/document/d/1G3YY9Vu_Wk7EhnlTzQaXWyNiBv9dsUlrlWJZJoGg8BU/edit?usp=sharing)
 
 
 **Week 4 – Theme: Sequence Conservation and Statistical Mechanics**
