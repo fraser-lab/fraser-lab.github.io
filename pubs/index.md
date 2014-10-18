@@ -208,8 +208,9 @@ Recommended reading:
 
 Other Class Material:
 
+- Computation Basics Refresher
 - Plasmid Sequence and annotation
-- A guide to anticipated deep sequencing results
+- The structure of your fastq files
 - [Hamming Distance](http://en.wikipedia.org/wiki/Hamming_distance)
 
 **Week 5 – Theme: Stress Response Networks**
