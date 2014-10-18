@@ -208,7 +208,7 @@ Recommended reading:
 
 Other Class Material:
 
-- Computation Basics Refresher
+- Computation Refresher
 - Plasmid Sequence and annotation
 - The structure of your fastq files
 - [Hamming Distance](http://en.wikipedia.org/wiki/Hamming_distance)
@@ -217,7 +217,7 @@ Other Class Material:
 
 _Lab Work: Comparisons of perturbations between teams_
 
-Lecturers: David Morgan (10/28), Jason Gestwicki (10/29)
+Lecturers: Student Presentations (10/27), David Morgan (10/28), Jason Gestwicki (10/29)
 
 Recommended reading:
 
