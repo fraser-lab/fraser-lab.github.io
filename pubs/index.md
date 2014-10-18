@@ -209,8 +209,9 @@ Recommended reading:
 Other Class Material:
 
 - Computation Refresher
+- [Information about the server](/pubs/server/)
 - Plasmid Sequence and annotation
-- The structure of your fastq files
+- [Information about the format of your fastq files](http://support.illumina.com/help/SequencingAnalysisWorkflow/Content/Vault/Informatics/Sequencing_Analysis/CASAVA/swSEQ_mCA_FASTQFiles.htm)
 - [Hamming Distance](http://en.wikipedia.org/wiki/Hamming_distance)
 
 **Week 5 – Theme: Stress Response Networks**
