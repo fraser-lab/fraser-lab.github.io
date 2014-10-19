@@ -210,7 +210,10 @@ Other Class Material:
 
 - Computation Refresher
 - [Information about the server](/pubs/server/)
-- Plasmid Sequence and annotation
+- [A Plasmid Editor (APE)](http://biologylabs.utah.edu/jorgensen/wayned/ape/)
+- [APE file for Plasmid](https://drive.google.com/file/d/0Bx0d95RwVYufNzJTaGpDU2lOR0E/view?usp=sharing)
+- [APE file for PCR product](https://drive.google.com/file/d/0Bx0d95RwVYufMUhpcFdqRnN2aG8/view?usp=sharing)
+- [PCR Product Annotation](https://docs.google.com/document/d/12CGyjBaVTB1ncw00-yRyQl6Acga-LS7bfywvrpxLbNg/edit?usp=sharing)
 - [Information about the format of your fastq files](http://support.illumina.com/help/SequencingAnalysisWorkflow/Content/Vault/Informatics/Sequencing_Analysis/CASAVA/swSEQ_mCA_FASTQFiles.htm)
 - [Hamming Distance](http://en.wikipedia.org/wiki/Hamming_distance)
 
