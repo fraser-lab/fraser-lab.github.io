@@ -208,7 +208,7 @@ Recommended reading:
 
 Other Class Material:
 
-- Computation Refresher
+- [Computation Refresher](https://docs.google.com/presentation/d/1GMJg5oZIrMgenp6726jASmwLrbFJkYwlJRf7B8nM9g8/edit?usp=sharing)
 - [Information about the server](/pubs/server/)
 - [A Plasmid Editor (APE)](http://biologylabs.utah.edu/jorgensen/wayned/ape/)
 - [APE file for Plasmid](https://drive.google.com/file/d/0Bx0d95RwVYufNzJTaGpDU2lOR0E/view?usp=sharing)
