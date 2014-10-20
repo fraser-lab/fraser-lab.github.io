@@ -203,11 +203,11 @@ Recommended reading:
 - [(Bystrykh, 2012)](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0036852)
 - [(McLaughlin et al., 2012)](http://www.ncbi.nlm.nih.gov/pubmed/23041932)
 - [(Pei and Grishin, 2001)](http://www.ncbi.nlm.nih.gov/pubmed/11524371)
-- [Chimera Tutorial by Elaine Meng](http://www.rbvi.ucsf.edu/chimera/data/tutorials/systems/index.html)
 - [(Pollock et al., 2012)](http://www.ncbi.nlm.nih.gov/pubmed/22547823)
 
 Other Class Material:
 
+- [Chimera Tutorial by Elaine Meng](http://www.rbvi.ucsf.edu/chimera/data/tutorials/systems/index.html)
 - [Please Enter OD readings here](https://docs.google.com/spreadsheets/d/1tEfTOXOHSn7MAwEFa_pVOB1hl1f_NqEjmi3tTbTvfJ8/edit?usp=sharing)
 - [Computation Refresher](https://docs.google.com/presentation/d/1GMJg5oZIrMgenp6726jASmwLrbFJkYwlJRf7B8nM9g8/edit?usp=sharing)
 - [Information about the server](/pubs/server/)
