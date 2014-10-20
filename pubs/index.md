@@ -208,6 +208,7 @@ Recommended reading:
 
 Other Class Material:
 
+- [Please Enter OD readings here](https://docs.google.com/spreadsheets/d/1tEfTOXOHSn7MAwEFa_pVOB1hl1f_NqEjmi3tTbTvfJ8/edit?usp=sharing)
 - [Computation Refresher](https://docs.google.com/presentation/d/1GMJg5oZIrMgenp6726jASmwLrbFJkYwlJRf7B8nM9g8/edit?usp=sharing)
 - [Information about the server](/pubs/server/)
 - [Updated Allele Pickle File (including WT sequences)](https://drive.google.com/file/d/0Bx0d95RwVYufQmJVaHU0RTFnYXM/view?usp=sharing)
