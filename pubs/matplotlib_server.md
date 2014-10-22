@@ -18,20 +18,25 @@ up a plot. For the server, we recommend using the "agg" backend. PDF and SVG are
 also acceptable options.  
 
 Changing the backend happens at the top of your file. Find the following line in the code:
+
 ```python
 from matplotlib import pyplot as plt
 ```
+
 or
+
 ```python
 import matplotlib.pyplot as plt
 ```
 
 Replace this line with the following 3 lines:
+
 ```python
 import matplotlib
 matplotlib.use('Agg')
 import matplotlib.pyplot as plt
 ```
+
 Now your backend is Agg, which will work on the server!
 
 However, Agg is unable to interactively display a graph, so `plt.show()`
@@ -41,10 +46,13 @@ will not work. Therefore, the second thing you need to do is find the line:
 plt.show()
 ```
 or
+
 ```python
 fig.show()
 ```
+
 Replace this line with the following:
+
 ```python
 plt.savefig('OUTPUT_FILENAME.png') # You can also use SVG or PDF as a file extension if you prefer vector graphics.
 ```
