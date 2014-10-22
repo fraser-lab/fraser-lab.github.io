@@ -218,6 +218,7 @@ Other Class Material:
 - [PCR Product Annotation](https://docs.google.com/document/d/12CGyjBaVTB1ncw00-yRyQl6Acga-LS7bfywvrpxLbNg/edit?usp=sharing)
 - [Information about the format of your fastq files](http://support.illumina.com/help/SequencingAnalysisWorkflow/Content/Vault/Informatics/Sequencing_Analysis/CASAVA/swSEQ_mCA_FASTQFiles.htm)
 - [Hamming Distance](http://en.wikipedia.org/wiki/Hamming_distance)
+- [Using Matplotlib on the Server](/pubs/matplotlib_server/)
 
 **Week 5 – Theme: Stress Response Networks**
 
