@@ -232,6 +232,11 @@ Recommended reading:
 - [(Gestwicki and Garza, 2012)](http://www.ncbi.nlm.nih.gov/pubmed/22482455)
 - [(Sowa et al., 2009)](http://www.ncbi.nlm.nih.gov/pubmed/19615732)
 
+Other Class Material:
+
+- [Unperturbed Dataset - Fig 2b of Roscoe...Bolon JMB, 2012](https://drive.google.com/file/d/0Bx0d95RwVYufaEZOREZiTnVBRmM/view?usp=sharing)
+
+
 **Week 6 – Theme: Single Cell/Molecule vs. Bulk Measurements**
 
 _Lab Work: Growth rates via microscopy and bulk measurements_
