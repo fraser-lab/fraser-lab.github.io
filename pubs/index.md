@@ -234,7 +234,7 @@ Recommended reading:
 
 Other Class Material:
 
-- [Unperturbed Dataset - Fig 2b of Roscoe...Bolon JMB, 2012](https://drive.google.com/file/d/0Bx0d95RwVYufaEZOREZiTnVBRmM/view?usp=sharing)
+- [Unperturbed Dataset - Raw Data for Fig 2b of Roscoe...Bolon JMB, 2012](https://drive.google.com/file/d/0Bx0d95RwVYufaEZOREZiTnVBRmM/view?usp=sharing)
 
 
 **Week 6 – Theme: Single Cell/Molecule vs. Bulk Measurements**
