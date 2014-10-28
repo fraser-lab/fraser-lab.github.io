@@ -236,6 +236,15 @@ Other Class Material:
 
 - [Unperturbed Dataset - Raw Data for Fig 2b of Roscoe...Bolon JMB, 2012](https://drive.google.com/file/d/0Bx0d95RwVYufaEZOREZiTnVBRmM/view?usp=sharing)
 - [Epistasis Deep Sequencing Paper](http://www.sciencedirect.com/science/article/pii/S0960982214012688)
+- [Module 1 Presentation Live Stream Archive](https://www.youtube.com/watch?v=Q_PGiV9JX5E&feature=youtu.be)
+
+Sub-groups:
+
+- Hamming Distance error correction
+- Reproducibility of fitness scores at the barcodes and codon scale
+- Data visualization and structural mapping
+- Difference matrices,  global similarity between perturbations, and reproducibility between days
+- Standardization of Fitness scores and methods write up for paper (including as much standardized computation of other sub-groups as possible!)
 
 
 **Week 6 – Theme: Single Cell/Molecule vs. Bulk Measurements**
