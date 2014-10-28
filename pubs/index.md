@@ -244,7 +244,8 @@ Sub-groups:
 - Reproducibility of fitness scores at the barcodes and codon scale
 - Data visualization and structural mapping
 - Difference matrices,  global similarity between perturbations, and reproducibility between days
-- Standardization of Fitness scores and methods write up for paper (including as much standardized computation of other sub-groups as possible!)
+- Standardization of Fitness scores and methods write up for paper
+  - including as much standardized computation of other sub-groups as possible!
 
 
 **Week 6 – Theme: Single Cell/Molecule vs. Bulk Measurements**
