@@ -237,6 +237,7 @@ Other Class Material:
 - [Unperturbed Dataset - Raw Data for Fig 2b of Roscoe...Bolon JMB, 2012](https://drive.google.com/file/d/0Bx0d95RwVYufaEZOREZiTnVBRmM/view?usp=sharing)
 - [Epistasis Deep Sequencing Paper](http://www.sciencedirect.com/science/article/pii/S0960982214012688)
 - [Module 1 Presentation Live Stream Archive](https://www.youtube.com/watch?v=Q_PGiV9JX5E&feature=youtu.be)
+- [Jason Gestwicki Notes](https://www.dropbox.com/s/m9adzvig6xl21uw/2014-10-29%2014.10.50.jpg?dl=0)
 
 Sub-groups:
 
