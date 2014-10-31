@@ -263,8 +263,8 @@ Recommended reading:
 
 Other Class Material:
 
-- Microscopy protocol
-- CellProfiler instructions
+- [Microscopy protocol](https://docs.google.com/document/d/1Doupn7DB_Igeb8Bm7W7g7PEi9HufYAtf82qySTvqUK4/edit?usp=sharing)
+- [CellProfiler instructions](https://docs.google.com/document/d/1ztp1lmxZ8dUUiLuV4Mri6G5M2Q2FgryPaXmzxxpR4Ak/edit?usp=sharing)
 - [The Kilobot Project](http://www.eecs.harvard.edu/ssr/projects/progSA/kilobot.html)
 
 **Week 7– Theme: Constraints on Stability and Interaction Specificity**
