@@ -257,7 +257,7 @@ Lecturers: Kurt Thorn (11/3), Steven Altschuler and Lani Wu (11/4), Tanja Kortem
 
 Recommended reading:
 
-- [(Patel et al., 2014)](http://www.ncbi.nlm.nih.gov/pubmed/24925914)
+- [(Ye et al., 2012)](http://www.ncbi.nlm.nih.gov/pubmed/23201676)
 - [(Tinoco and Gonzalez, 2011)](http://www.ncbi.nlm.nih.gov/pubmed/21685361)
 - [(Rajaram et al., 2012)](http://www.ncbi.nlm.nih.gov/pubmed/22743764)
 
@@ -325,8 +325,6 @@ McLaughlin, R.N., Jr, Poelwijk, F.J., Raman, A., Gosal, W.S., and Ranganathan, R
 
 Ollikainen, N., Smith, C.A., Fraser, J.S., and Kortemme, T. (2013). Flexible Backbone Sampling Methods to Model and Design Protein Alternative Conformations. In Methods in Protein Design, (Elsevier), pp. 61–85.
 
-Patel, A.P., Tirosh, I., Trombetta, J.J., Shalek, A.K., Gillespie, S.M., Wakimoto, H., Cahill, D.P., Nahed, B.V., Curry, W.T., Martuza, R.L., et al. (2014). Single-cell RNA-seq highlights intratumoral heterogeneity in primary glioblastoma. Science _344_, 1396–1401.
-
 Pei, J., and Grishin, N.V. (2001). AL2CO: calculation of positional conservation in a protein sequence alignment. Bioinformatics _17_, 700–712.
 
 Phillips, A.H., Zhang, Y., Cunningham, C.N., Zhou, L., Forrest, W.F., Liu, P.S., Steffek, M., Lee, J., Tam, C., Helgason, E., et al. (2013). Conformational dynamics control ubiquitin-deubiquitinase interactions and influence in vivo signaling. Proceedings of the National Academy of Sciences _110_, 11379–11384.
@@ -348,3 +346,5 @@ Stelter, P., and Ulrich, H.D. (2003). Control of spontaneous and damage-induced 
 Thomson, M., Liu, S.J., Zou, L.-N., Smith, Z., Meissner, A., and Ramanathan, S. (2011). Pluripotency Factors in Embryonic Stem Cells Regulate Differentiation into Germ Layers. Cell _145_, 875–889.
 
 Tinoco, I., and Gonzalez, R.L. (2011). Biological mechanisms, one molecule at a time. Genes Dev. _25_, 1205–1231.
+
+Ye Y, Blaser G, Horrocks MH, Ruedas-Rama MJ, Ibrahim S, Zhukov AA, Orte A, Klenerman D, Jackson SE, and Komander D. (2012). Ubiquitin chain conformation regulates recognition and activity of interacting proteins. Nature _492_, 266-70
