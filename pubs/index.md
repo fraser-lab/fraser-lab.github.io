@@ -260,6 +260,7 @@ Recommended reading:
 - [(Ye et al., 2012)](http://www.ncbi.nlm.nih.gov/pubmed/23201676)
 - [(Tinoco and Gonzalez, 2011)](http://www.ncbi.nlm.nih.gov/pubmed/21685361)
 - [(Rajaram et al., 2012)](http://www.ncbi.nlm.nih.gov/pubmed/22743764)
+- [(van Wijk et al., 2012)](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3714537/)
 
 Other Class Material:
 
@@ -346,5 +347,7 @@ Stelter, P., and Ulrich, H.D. (2003). Control of spontaneous and damage-induced 
 Thomson, M., Liu, S.J., Zou, L.-N., Smith, Z., Meissner, A., and Ramanathan, S. (2011). Pluripotency Factors in Embryonic Stem Cells Regulate Differentiation into Germ Layers. Cell _145_, 875–889.
 
 Tinoco, I., and Gonzalez, R.L. (2011). Biological mechanisms, one molecule at a time. Genes Dev. _25_, 1205–1231.
+
+van Wijk SJ, Fiskin E, Putyrski M, Pampaloni F, Hou J, Wild P, Kensche T, Grecco HE, Bastiaens P, and Dikic I. (2012) Fluorescence-based sensors to monitor localization and functions of linear and K63-linked ubiquitin chains in cells. Molecular Cell. _14_, 797-809.
 
 Ye Y, Blaser G, Horrocks MH, Ruedas-Rama MJ, Ibrahim S, Zhukov AA, Orte A, Klenerman D, Jackson SE, and Komander D. (2012). Ubiquitin chain conformation regulates recognition and activity of interacting proteins. Nature _492_, 266-70
