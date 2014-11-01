@@ -281,6 +281,7 @@ Recommended reading:
 - [(Phillips et al., 2013)](http://www.ncbi.nlm.nih.gov/pubmed/23801757)
 
 Other Class Material:
+
 - Notes on the QB3 Cluster
 - Generating Flexible Backbone Ensembles
   - [README](https://drive.google.com/open?id=0By0in41MNLEZQ3laWGtROUVEYms&authuser=0)
