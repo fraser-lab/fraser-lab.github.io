@@ -272,14 +272,27 @@ Other Class Material:
 
 _Lab Work: Computational protein design_
 
-Lecturers: Tanja Kortemme, Samuel Thompson+Kyle Barlow (11/10), Matthew Thomson (11/12)
+Lecturers: Kyle Barlow (11/10), Samuel Thompson (11/12)
 
 Recommended reading:
 
 - [(Ollikainen et al., 2013)](http://www.ncbi.nlm.nih.gov/pubmed/23422426)
 - [(Leaver-Fay et al., 2011)](http://www.ncbi.nlm.nih.gov/pubmed/21187238)
 - [(Phillips et al., 2013)](http://www.ncbi.nlm.nih.gov/pubmed/23801757)
-- [(Thomson et al., 2011)](http://www.ncbi.nlm.nih.gov/pubmed/21663792)
+
+Other Class Material:
+- Notes on the QB3 Cluster
+- Generating Flexible Backbone Ensembles
+  - [README](https://drive.google.com/open?id=0By0in41MNLEZQ3laWGtROUVEYms&authuser=0)
+  - [backrub.sh](https://drive.google.com/open?id=0By0in41MNLEZQ3laWGtROUVEYms&authuser=0)
+- Predict Tolerated Sequence Space
+  - [README](https://drive.google.com/open?id=0By0in41MNLEZYmd1Y1VKblV0ZUU&authuser=0)
+  - [seqtol.sh](https://drive.google.com/open?id=0By0in41MNLEZbDhYRnFkWEExRm8&authuser=0)
+  - [example_resfile1.res](https://drive.google.com/open?id=0By0in41MNLEZd1c2MEpOb21vQUE&authuser=0)
+  - [example_resfile2.res](https://drive.google.com/open?id=0By0in41MNLEZRVdHb0tMNVJha0U&authuser=0)
+- Protein Design to Stabilize a Fold or Interaction
+  - [README](https://drive.google.com/open?id=0By0in41MNLEZVUs2MjhxN3BrbkU&authuser=0)
+  - [fixbb.sh](https://drive.google.com/open?id=0By0in41MNLEZalQtS01DRWJlN1E&authuser=0)
 
 **Week 8– Theme: Constraints in the Context of Networks**
 
@@ -343,8 +356,6 @@ Smith, R.P., Taher, L., Patwardhan, R.P., Kim, M.J., Inoue, F., Shendure, J., Ov
 Sowa, M.E., Bennett, E.J., Gygi, S.P., and Harper, J.W. (2009). Defining the Human Deubiquitinating Enzyme Interaction Landscape. Cell _138_, 389–403.
 
 Stelter, P., and Ulrich, H.D. (2003). Control of spontaneous and damage-induced mutagenesis by SUMO and ubiquitin conjugation. Nature _425_, 188–191.
-
-Thomson, M., Liu, S.J., Zou, L.-N., Smith, Z., Meissner, A., and Ramanathan, S. (2011). Pluripotency Factors in Embryonic Stem Cells Regulate Differentiation into Germ Layers. Cell _145_, 875–889.
 
 Tinoco, I., and Gonzalez, R.L. (2011). Biological mechanisms, one molecule at a time. Genes Dev. _25_, 1205–1231.
 
