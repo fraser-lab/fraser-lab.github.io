@@ -276,8 +276,10 @@ Lecturers: Kyle Barlow (11/10), Samuel Thompson (11/12)
 
 Recommended reading:
 
+- [(Mandell and Kortemme, 2009)](http://www.ncbi.nlm.nih.gov/pubmed/19841629)
+- [(Humphris and Kortemme, 2007)](http://www.ncbi.nlm.nih.gov/pubmed/17722975)
+- [(Kellogg et al., 2011)](http://www.ncbi.nlm.nih.gov/pubmed/21287615)
 - [(Ollikainen et al., 2013)](http://www.ncbi.nlm.nih.gov/pubmed/23422426)
-- [(Leaver-Fay et al., 2011)](http://www.ncbi.nlm.nih.gov/pubmed/21187238)
 - [(Phillips et al., 2013)](http://www.ncbi.nlm.nih.gov/pubmed/23801757)
 
 Other Class Material:
@@ -330,11 +332,17 @@ Fowler, D.M., and Fields, S. (2014). Deep mutational scanning: a new style of pr
 
 Gestwicki, J.E., and Garza, D. (2012). Protein Quality Control in Neurodegenerative Disease. In Molecular Biology of Neurodegenerative Diseases, (Elsevier), pp. 327–353.
 
-Haiser, H.J., Gootenberg, D.B., Chatman, K., Sirasani, G., Balskus, E.P., and P.J. Turnbaugh. Predicting and manipulating cardiac drug inactivation by the human gut bacterium Eggerthella lenta. Science 341, 295-298 (2013).
+Haiser, H.J., Gootenberg, D.B., Chatman, K., Sirasani, G., Balskus, E.P., and P.J. Turnbaugh. (2013) Predicting and manipulating cardiac drug inactivation by the human gut bacterium Eggerthella lenta. Science 341, 295-298.
+
+Humphris EL, Kortemme T. (2007). Design of multi-specificity in protein interfaces. PLoS Comput Biol. 2007 3(8):e164.
+
+Kellogg EH, Leaver-Fay A, Baker D. (2011). Role of conformational sampling in computing mutation-induced changes in protein structure and stability. 79(3):830-8.
 
 Leaver-Fay, A., Tyka, M., Lewis, S.M., Lange, O.F., Thompson, J., Jacak, R., Kaufman, K.W., Renfrew, P.D., Smith, C.A., Sheffler, W., et al. (2011). Rosetta3. In Computer Methods, Part C, (Elsevier), pp. 545–574.
 
 Lemieux, G.A., Keiser, M.J., Sassano, M.F., Laggner, C., Mayer, F., Bainton, R.J., Werb, Z., Roth, B.L., Shoichet, B.K., and Ashrafi, K. (2013). In Silico Molecular Comparisons of C. elegans and Mammalian Pharmacology Identify Distinct Targets That Regulate Feeding. PLoS Biol _11_, e1001712.
+
+Mandell D.J., and Kortemme, T. Computer-aided design of functional protein interactions. (2009). Nat Chem Biol. _5_797-807.
 
 McLaughlin, R.N., Jr, Poelwijk, F.J., Raman, A., Gosal, W.S., and Ranganathan, R. (2012). The spatial architecture of protein function and adaptation. Nature _491_, 138–142.
 
