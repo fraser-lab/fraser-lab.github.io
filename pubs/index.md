@@ -284,7 +284,9 @@ Recommended reading:
 
 Other Class Material:
 
+- [Tanja's Lecture from 11/5](https://drive.google.com/file/d/0Bz5C8aG_xj4sbGFERC1kWUJpZDR1RHlIZ29QcWJXSXU5MWd3/view?usp=sharing)
 - Notes on the QB3 Cluster
+  - [Submitting Jobs to the Cluster Queue](https://salilab.org/qb3cluster/Cluster_Usage) - Failure to follow these instructions may lead to you not being able to run jobs!
 - Generating Flexible Backbone Ensembles
   - [README](https://drive.google.com/open?id=0By0in41MNLEZQ3laWGtROUVEYms&authuser=0)
   - [backrub.sh](https://drive.google.com/open?id=0By0in41MNLEZQ3laWGtROUVEYms&authuser=0)
