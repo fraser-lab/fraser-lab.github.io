@@ -1,6 +1,6 @@
 # THE WEIRDEST BUG: using escapes requires single-quotes instead of double...
 # - citation: 'Dellus-Gur E, Elias M, Caselli E, Prati F, Salverda MLM, de Visser JAGM, **Fraser JS**, Tawfik DS. Negative epistasis and evolvability – the thin line between an enzyme’s conformational freedom and anarchy. *Submitted*, 2014.'
-#   date: 2014.12
+#   date: 201412
 #   image: 'static/img/pub/eynat_2014.gif'
 #   pmid: TBD
 #   pmcid: In Process
@@ -21,7 +21,7 @@
 #       url: 'http://www.weizmann.ac.il/Biological_Chemistry/scientist/Tawfik/'
 #
 # - citation: 'Thomaston JL, Alfonso-Prieto M, **Woldeyes RA**, **Fraser JS**, Klein ML, Fiorin G, DeGrado WF. High resolution structures of the M2 proton channel from influenza A virus reveal  dynamic pathways for proton stabilization and transduction. *Submitted to Nature Communications*, 2014.'
-#   date: 2014.12
+#   date: 201412
 #   image: '/static/img/pub/thomaston_2014.jpg'
 #   pmid: TBD
 #   pmcid: In Process
@@ -39,7 +39,7 @@
 #
 #
 # - citation: 'van den Bedem H, **Fraser JS**. Integrative, Dynamic Structural Biology at Atomic Resolution — It’s About Time. *Nature Methods*. 2014.'
-#   date: 2014.12
+#   date: 201412
 #   image: '/static/img/pub/vdb_2014.jpg'
 #   pmid: TBD
 #   pmcid: In Process
@@ -49,7 +49,7 @@
 #       url: 'https://people.stanford.edu/vdbedem/'
 #
 # - citation: 'Cimermancic P...**Keedy DA**, **Woldeyes RA**, **Fraser JS**, Sali A. Cryptic Sites. *TBD*. 2014.'
-#   date: 2014.12
+#   date: 201412
 #   image: '/static/img/pub/cimermancic_2014.jpg'
 #   pmid: TBD
 #   pmcid: In Process
@@ -59,7 +59,7 @@
 #       url: 'https://twitter.com/fraser_lab/status/482313979524444161'
 #
 # - citation: 'Bhabha G, **Biel JT**, **Fraser JS**. Keep on Moving: Discovering and Perturbing the Conformational Dynamics of Enzymes. *Accounts of Chemical Research*. 2014.'
-#   date: 2014.12
+#   date: 201412
 #   image: '/static/img/pub/bhabha_acr_2014.jpg'
 #   pmid: TBD
 #   pmcid: In Process
@@ -71,7 +71,7 @@
 #       url: 'http://www.fraserlab.com/justin_figures.html'
 #
 # - citation: 'Wall ME, **VanBenschoten AH**, Sauter NK, Adams PD, **Fraser JS**, Terwilliger TC.  Conformational Dynamics of a Crystalline Protein from Microsecond-Scale Molecular Dynamics Simulations and Diffuse X-Ray Scattering. *Proceedings of the National Academy of Sciences*. 2014'
-#   date: 2014.12
+#   date: 201412
 #   image: '/static/img/pub/wall_pnas_2014.jpg'
 #   pmid: TBD
 #   pmcid: In Process
