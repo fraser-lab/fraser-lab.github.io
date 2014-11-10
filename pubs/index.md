@@ -285,6 +285,9 @@ Recommended reading:
 Other Class Material:
 
 - [Tanja's Lecture from 11/5](https://drive.google.com/file/d/0Bz5C8aG_xj4sbGFERC1kWUJpZDR1RHlIZ29QcWJXSXU5MWd3/view?usp=sharing)
+- [Kyle's Lecture](https://drive.google.com/file/d/0Bz5C8aG_xj4sa20zMTRBd3BvSVFPMk1nUzBrZkR1NzFYQzhz/view?usp=sharing)
+- [DDG data website](https://guybrush.ucsf.edu/local/DDG/ubiquitin)
+- [Backup JSON](/pubs/ubiquitin.json)
 - Notes on the QB3 Cluster
   - [Submitting Jobs to the Cluster Queue](https://salilab.org/qb3cluster/Cluster_Usage) - Failure to follow these instructions may lead to you not being able to run jobs!
 - Generating Flexible Backbone Ensembles
