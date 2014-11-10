@@ -289,6 +289,8 @@ Other Class Material:
 - [DDG data website](https://guybrush.ucsf.edu/local/DDG/ubiquitin)
 - [Backup JSON](/pubs/ubiquitin.json)
 - [Student Fitness Data](https://drive.google.com/folderview?id=0Bz5C8aG_xj4sdDZiTzdGSVdZdDg&usp=sharing)
+- [PDB files of Ubiquitin Complexes](https://drive.google.com/folderview?id=0Bx0d95RwVYufYUliUXJzaTAyTEk&usp=sharing)
+  - These files were the starting point for the Rosetta analysis. For the Rosetta DDG analysis, these structures were minimized in the Rosetta forcefield. Those minimized structures are in the Pymol session. These pdb files are for the pre-minimized structures.
 - Notes on the QB3 Cluster
   - [Submitting Jobs to the Cluster Queue](https://salilab.org/qb3cluster/Cluster_Usage) - Failure to follow these instructions may lead to you not being able to run jobs!
 - Generating Flexible Backbone Ensembles
