@@ -286,6 +286,7 @@ Other Class Material:
 
 - [Tanja's Lecture from 11/5](https://drive.google.com/file/d/0Bz5C8aG_xj4sbGFERC1kWUJpZDR1RHlIZ29QcWJXSXU5MWd3/view?usp=sharing)
 - [Kyle's Lecture](https://drive.google.com/file/d/0Bz5C8aG_xj4sa20zMTRBd3BvSVFPMk1nUzBrZkR1NzFYQzhz/view?usp=sharing)
+- [Samuel's Lecture](https://drive.google.com/file/d/0Bx0d95RwVYufaGwyeDh1dFpRaFU/view?usp=sharing)
 - [DDG data website](https://guybrush.ucsf.edu/local/DDG/ubiquitin)
 - [Backup JSON](/pubs/ubiquitin.json)
 - [Student Fitness Data](https://drive.google.com/folderview?id=0Bz5C8aG_xj4sdDZiTzdGSVdZdDg&usp=sharing)
