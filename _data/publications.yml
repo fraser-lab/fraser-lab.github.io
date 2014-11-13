@@ -101,7 +101,10 @@
       url: 'http://www.cell.com/pb/assets/raw/journals/research/cell-host-microbe/fischbach.mp3'
     - name: 'Paper Submission Celebration Photo'
       url: 'https://twitter.com/fraser_lab/status/422902102298357760'
-
+    - name: 'Science Signaling: Bacteria May Mess with Your Mind'
+      url: 'http://stke.sciencemag.org/content/7/348/ec289.abstract'
+    - name: 'Nature Reviews Microbiology: Bacteria and the brain'
+      url: 'http://www.nature.com/nrmicro/journal/v12/n11/full/nrmicro3373.html'
 
 - citation: '**Woldeyes RA**, Sivak DA, **Fraser JS**. E pluribus unum, no more: from one crystal, many conformations. *Current Opinion in Structural Biology*. 2014.'
   date: 201410
