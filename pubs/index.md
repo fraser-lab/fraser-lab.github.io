@@ -294,7 +294,7 @@ Other Class Material:
   - These files were the starting point for the Rosetta analysis. For the Rosetta DDG analysis, these structures were minimized in the Rosetta forcefield. Those minimized structures are in the Pymol session. These pdb files are for the pre-minimized structures.
 - Notes on the QB3 Cluster
   - [Submitting Jobs to the Cluster Queue](https://salilab.org/qb3cluster/Cluster_Usage) - Failure to follow these instructions may lead to you not being able to run jobs!
-- Generating Flexible Backbone Ensembles
+<!-- - Generating Flexible Backbone Ensembles
   - [README](https://drive.google.com/open?id=0By0in41MNLEZQ3laWGtROUVEYms&authuser=0)
   - [backrub.sh](https://drive.google.com/open?id=0By0in41MNLEZQ3laWGtROUVEYms&authuser=0)
 - Predict Tolerated Sequence Space
@@ -304,7 +304,7 @@ Other Class Material:
   - [example_resfile2.res](https://drive.google.com/open?id=0By0in41MNLEZRVdHb0tMNVJha0U&authuser=0)
 - Protein Design to Stabilize a Fold or Interaction
   - [README](https://drive.google.com/open?id=0By0in41MNLEZVUs2MjhxN3BrbkU&authuser=0)
-  - [fixbb.sh](https://drive.google.com/open?id=0By0in41MNLEZalQtS01DRWJlN1E&authuser=0)
+  - [fixbb.sh](https://drive.google.com/open?id=0By0in41MNLEZalQtS01DRWJlN1E&authuser=0) -->
 - Multi-state Design [Files](https://drive.google.com/open?id=0By0in41MNLEZcXdNUG12Q2lQejQ&authuser=0)
 
 **Week 8– Theme: Constraints in the Context of Networks**
