@@ -305,13 +305,27 @@ Other Class Material:
 - Protein Design to Stabilize a Fold or Interaction
   - [README](https://drive.google.com/open?id=0By0in41MNLEZVUs2MjhxN3BrbkU&authuser=0)
   - [fixbb.sh](https://drive.google.com/open?id=0By0in41MNLEZalQtS01DRWJlN1E&authuser=0) -->
-- Multi-state Design [Files](https://drive.google.com/open?id=0By0in41MNLEZcXdNUG12Q2lQejQ&authuser=0)
 
 **Week 8– Theme: Constraints in the Context of Networks**
 
 _Lab Work: Comparison of computational design and selection experiments_
 
 Lecturers: Adam Abate (11/17),  Peter Turnbaugh (11/18), Dave Toczyski (11/19)
+
+Other Class Material:
+
+- Multi-state Design [Files](https://drive.google.com/open?id=0By0in41MNLEZcXdNUG12Q2lQejQ&authuser=0)
+- Final Presentations:
+  - 7 minutes per team maximum
+  - Briefly cover your major results from Module 1
+  - Focus mainly on Module 3
+    - provide background on the assigned Ub complex and links to perturbation
+    - discuss initial (stability) results
+    - discuss multi-state design results
+  - Discuss future directions about:
+    - your perturbation and Ub biology
+    - what other experiments you would like to do (sequencing or otherwise)
+    - the limitations and extensions of the design methodology to explain the sequencing results
 
 Recommended reading:
 
