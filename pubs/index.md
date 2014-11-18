@@ -316,7 +316,7 @@ Other Class Material:
 
 - Multi-state Design [Files](https://drive.google.com/open?id=0By0in41MNLEZcXdNUG12Q2lQejQ&authuser=0)
 - Final Presentations:
-  - 7 minutes per team maximum
+  - 12 minutes per team maximum
   - Briefly cover your major results from Module 1
   - Focus mainly on Module 3
     - provide background on the assigned Ub complex and links to perturbation
