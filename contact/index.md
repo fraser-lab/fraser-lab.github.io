@@ -97,7 +97,7 @@ San Francisco, CA 94158
 2. Sign in at security for a meeting with Dr. James Fraser (office Genentech Hall S472E)
 3. Take the elevator or staircase to the fourth floor
 4. Walk west down the hall. If the floor changes colour to grey, you have gone the wrong way and are now in Byers Hall. Turn around and walk back to Genentech Hall
-5. Make your second left (south) to the S472 neighborhood
+5. Make your second left (south) to the S401-484 neighborhood
 6. James' office is through the clear doors, the lab is on your right.
 
 <img class="img-responsive center-block" src="/static/img/map_to_mission_bay.png" alt="Map of Mission Bay">
