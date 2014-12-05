@@ -58,8 +58,8 @@ group: contact
 
 <h4>Office Address</h4>
 
-Genentech Hall Room N212C<br>
-UCSF Mail Code 2140<br>
+Genentech Hall Room S472E<br>
+UCSF Mail Code 2240<br>
 600 16th Street<br>
 San Francisco, CA 94158
 
@@ -70,8 +70,8 @@ San Francisco, CA 94158
 
 <h4>Lab Address</h4>
 
-Genentech Hall Room N216Q<br>
-UCSF Mail Code 2140<br>
+Genentech Hall Room S476<br>
+UCSF Mail Code 2240<br>
 600 16th Street<br>
 San Francisco, CA 94158
 
