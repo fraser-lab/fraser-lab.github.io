@@ -14,7 +14,7 @@ email: james.fraser#!ucsf.edu
 tel: 415 493 842 one
 fax: 415 514 016 nine
 
-Genentech Hall Room N212C (Office), N216 (Lab)
-UCSF Mail Code 2140
+Genentech Hall Room S472E (Office), S476 (Lab)
+UCSF Mail Code 2240
 600 16th Street
 San Francisco, CA 94158
