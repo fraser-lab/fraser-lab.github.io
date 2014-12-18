@@ -1,4 +1,24 @@
 # THE WEIRDEST BUG: using escapes requires single-quotes instead of double...
+# - citation: 'Urzhumtsev A, Afonine PV, **Van Benschoten AH**, **Fraser JS**, Adams PD. From deep TLS validation to ensembles of atomic models built from elemental motions. *Submitted*. 2015.'
+#   date: 201501
+#   image: '/static/img/pub/avb_2_2015.jpg'
+#   pmid: TBD
+#   pmcid: In Process
+#   pdf: '/static/pdf/avb_2_2015.pdf'
+#   links:
+#     - name: Phenix.TLS Code
+#       url: 'https://people.stanford.edu/vdbedem/'
+#
+# - citation: '**Van Benschoten AH**, Afonine PV, Terwilliger TC, Wall ME, Jackson CJ, Sauter NK, Adams PD, Urzhumtsev A, **Fraser JS**. Predicting X-ray Diffuse Scattering from Translation Libration Screw Structural Ensembles. *Submitted*. 2015.'
+#   date: 201501
+#   image: '/static/img/pub/avb_1_2015.jpg'
+#   pmid: TBD
+#   pmcid: In Process
+#   pdf: '/static/pdf/avb_1_2015.pdf'
+#   links:
+#     - name: Phenix.Diffuse Code
+#       url: 'https://people.stanford.edu/vdbedem/'
+#
 # - citation: 'Dellus-Gur E, Elias M, Caselli E, Prati F, Salverda MLM, de Visser JAGM, **Fraser JS**, Tawfik DS. Negative epistasis and evolvability – the thin line between an enzyme’s conformational freedom and anarchy. *Submitted*, 2014.'
 #   date: 201412
 #   image: 'static/img/pub/eynat_2014.gif'
