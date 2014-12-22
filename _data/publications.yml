@@ -94,7 +94,7 @@
   date: 201412
   image: '/static/img/pub/wall_pnas_2014.jpg'
   pmid: 25453071
-  pmcid: In Process
+  pmcid: PMC4273327
   pdf: '/static/pdf/wall_pnas_2014.pdf'
   pdbs:
     - 4WOR
@@ -109,7 +109,7 @@
   date: 201410
   image: '/static/img/pub/williams_chm_2014.jpg'
   pmid: 25263219
-  pmcid: In Process
+  pmcid: PMC4260654
   pdf: '/static/pdf/williams_chm_2014.pdf'
   pdbs:
     - 4OBU
