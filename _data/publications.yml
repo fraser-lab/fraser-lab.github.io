@@ -78,18 +78,18 @@
 #     - name: 'Paper Submission Celebration Photo'
 #       url: 'https://twitter.com/fraser_lab/status/482313979524444161'
 #
-# - citation: 'Bhabha G, **Biel JT**, **Fraser JS**. Keep on Moving: Discovering and Perturbing the Conformational Dynamics of Enzymes. *Accounts of Chemical Research*. 2014.'
-#   date: 201412
-#   image: '/static/img/pub/bhabha_acr_2014.jpg'
-#   pmid: TBD
-#   pmcid: In Process
-#   pdf: '/static/pdf/bhabha_acr_2014.pdf'
-#   links:
-#     - name: 'Paper Submission Celebration Photo'
-#       url: 'https://twitter.com/fraser_lab/status/504068281766920193'
-#     - name: 'Justin\'s figure scripts'
-#       url: 'http://www.fraserlab.com/justin_figures.html'
-#
+- citation: 'Bhabha G, **Biel JT**, **Fraser JS**. Keep on Moving: Discovering and Perturbing the Conformational Dynamics of Enzymes. *Accounts of Chemical Research*. 2014.'
+  date: 201412
+  image: '/static/img/pub/bhabha_acr_2014.jpg'
+  pmid: TBD
+  pmcid: In Process
+  pdf: '/static/pdf/bhabha_acr_2014.pdf'
+  links:
+    - name: 'Paper Submission Celebration Photo'
+      url: 'https://twitter.com/fraser_lab/status/504068281766920193'
+    # - name: 'Justin\'s figure scripts'
+    #   url: 'http://www.fraserlab.com/justin_figures.html'
+
 - citation: 'Wall ME, **VanBenschoten AH**, Sauter NK, Adams PD, **Fraser JS**, Terwilliger TC.  Conformational Dynamics of a Crystalline Protein from Microsecond-Scale Molecular Dynamics Simulations and Diffuse X-Ray Scattering. *Proceedings of the National Academy of Sciences*. 2014'
   date: 201412
   image: '/static/img/pub/wall_pnas_2014.jpg'
