@@ -58,7 +58,8 @@
 #   links:
 #     - name: 'Paper Submission Celebration Photo'
 #       url: 'https://twitter.com/fraser_lab/status/482313979524444161'
-#
+#     - name: 'Big thanks to'
+#       url: 'http://steveandlaniareawesome.com'
 - citation: 'Urzhumtsev A, Afonine PV, **Van Benschoten AH**, **Fraser JS**, Adams PD. From deep TLS validation to ensembles of atomic models built from elemental motions. *Submitted - Preprint available on BioRxiv*. 2015.'
   date: 201501
   image: '/static/img/pub/avb_2_2015.jpg'
