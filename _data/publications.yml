@@ -73,6 +73,17 @@
 #     - name: 'Paper Submission Celebration Photo'
 #       url: 'https://twitter.com/fraser_lab/status/482313979524444161'
 #
+- citation: '**Barad BA**, Echols N, Wang RYR, Cheng Y, DiMaio F, Adams PD, **Fraser JS**. Side-chain-directed model and map validation for 3D Electron Cryomicroscopy. *Submitted - Preprint available on BioRxiv*. 2015.'
+  date: 201502
+  image: '/static/img/pub/bab_1_2015.jpg'
+  pmid: Submitted
+  pmcid: Submitted
+  pdf: 'http://biorxiv.org/content/biorxiv/early/2015/02/03/014738.full.pdf'
+  links:
+    - name: Preprint on BioRxiv
+      url: 'http://biorxiv.org/content/early/2015/02/03/014738'
+
+
 - citation: 'Urzhumtsev A, Afonine PV, **Van Benschoten AH**, **Fraser JS**, Adams PD. From deep TLS validation to ensembles of atomic models built from elemental motions. *Submitted - Preprint available on BioRxiv*. 2015.'
   date: 201501
   image: '/static/img/pub/avb_2_2015.jpg'
