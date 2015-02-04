@@ -84,6 +84,8 @@
       url: 'http://biorxiv.org/content/early/2015/02/03/014738'
     - name: Paper Submission Celebration Photo
       url: 'https://twitter.com/fraser_lab/status/562799246689460224'
+    - name: EMRinger Code on Github
+      url: 'https://github.com/fraser-lab/EMRinger'
 
 
 - citation: 'Urzhumtsev A, Afonine PV, **Van Benschoten AH**, **Fraser JS**, Adams PD. From deep TLS validation to ensembles of atomic models built from elemental motions. *Submitted - Preprint available on BioRxiv*. 2015.'
