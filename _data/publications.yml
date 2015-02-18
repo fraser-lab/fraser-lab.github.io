@@ -79,6 +79,8 @@
   pmid: Submitted
   pmcid: Submitted
   pdf: 'http://biorxiv.org/content/biorxiv/early/2015/02/03/014738.full.pdf'
+  pdbs:
+    - 3J9I
   links:
     - name: Preprint on BioRxiv
       url: 'http://biorxiv.org/content/early/2015/02/03/014738'
@@ -94,8 +96,6 @@
   pmid: Submitted
   pmcid: Submitted
   pdf: '/static/pdf/avb_2_2015.pdf'
-  pdbs:
-    - 3J9I
   links:
     - name: Preprint on BioRxiv
       url: 'http://biorxiv.org/content/early/2015/01/02/012930'
