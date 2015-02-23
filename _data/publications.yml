@@ -74,7 +74,7 @@
 #       url: 'https://twitter.com/fraser_lab/status/482313979524444161'
 #
 - citation: '**Barad BA**, Echols N, Wang RYR, Cheng Y, DiMaio F, Adams PD, **Fraser JS**. Side-chain-directed model and map validation for 3D Electron Cryomicroscopy. *Submitted - Preprint available on BioRxiv*. 2015.'
-  date: 201502
+  date: 201503
   image: '/static/img/pub/bab_1_2015.jpg'
   pmid: Submitted
   pmcid: Submitted
@@ -91,7 +91,7 @@
 
 
 - citation: 'Urzhumtsev A, Afonine PV, **Van Benschoten AH**, **Fraser JS**, Adams PD. From deep TLS validation to ensembles of atomic models built from elemental motions. *Submitted - Preprint available on BioRxiv*. 2015.'
-  date: 201501
+  date: 201503
   image: '/static/img/pub/avb_2_2015.jpg'
   pmid: Submitted
   pmcid: Submitted
@@ -103,7 +103,7 @@
       url: 'https://twitter.com/fraser_lab/status/545387123688214528'
 
 - citation: '**Van Benschoten AH**, Afonine PV, Terwilliger TC, Wall ME, Jackson CJ, Sauter NK, Adams PD, Urzhumtsev A, **Fraser JS**. Predicting X-ray Diffuse Scattering from Translation Libration Screw Structural Ensembles. *Submitted - Preprint available on BioRxiv*. 2015.'
-  date: 201501
+  date: 201503
   image: '/static/img/pub/avb_1_2015.jpg'
   pmid: Submitted
   pmcid: Submitted
@@ -114,11 +114,11 @@
     - name: 'Paper Submission Celebration Photo'
       url: 'https://twitter.com/fraser_lab/status/545387123688214528'
 
-- citation: 'Bhabha G, **Biel JT**, **Fraser JS**. Keep on Moving: Discovering and Perturbing the Conformational Dynamics of Enzymes. *Accounts of Chemical Research*. 2014.'
-  date: 201412
+- citation: 'Bhabha G, **Biel JT**, **Fraser JS**. Keep on Moving: Discovering and Perturbing the Conformational Dynamics of Enzymes. *Accounts of Chemical Research*. 2015.'
+  date: 201502
   image: '/static/img/pub/bhabha_acr_2014.jpg'
   pmid: 25539415
-  pmcid: In Process
+  pmcid: PMC4334266
   pdf: '/static/pdf/bhabha_acr_2014.pdf'
   links:
     - name: 'Paper Submission Celebration Photo'
