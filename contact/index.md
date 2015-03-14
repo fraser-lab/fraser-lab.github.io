@@ -30,7 +30,8 @@ group: contact
 <div class="col-md-4">
 
   <h4> Joslyn Polzien</h4>
-  Administrative Assistant <br>
+  Administrative Assistant to Drs. Patricia Babbitt, Tanja Kortemme, and James Fraser<br>
+  Department of Bioengineering and Therapeutic Sciences  <br>
   Email: joslyn.polzien (at) ucsf.edu  <br>
   Phone: 415 514 121 four   <br>
   Fax: 415 514 102 eight  
