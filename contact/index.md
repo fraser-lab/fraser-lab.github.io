@@ -12,8 +12,7 @@ group: contact
 <div class="col-md-4">
 
   <h4>Lab Area </h4>
-  tel: 415 476 306 eight <br>
-  fax: 415 514 016 nine  
+  tel: 415 502 348 eight 
 
 </div>
 
@@ -30,10 +29,10 @@ group: contact
 
 <div class="col-md-4">
 
-  <h4> Elizabeth Willey</h4>
-  Administrative Assistant  <br>
-  Email: elizabeth.willey (at) ucsf.edu  <br>
-  Phone: 415 514 981 six   <br>
+  <h4> Joslyn Polzien</h4>
+  Administrative Assistant <br>
+  Email: joslyn.polzien (at) ucsf.edu  <br>
+  Phone: 415 514 121 four   <br>
   Fax: 415 514 102 eight  
 
 </div>
