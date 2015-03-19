@@ -73,6 +73,35 @@
 #     - name: 'Paper Submission Celebration Photo'
 #       url: 'https://twitter.com/fraser_lab/status/482313979524444161'
 #
+- citation: '**Keedy DA**\*, **Kenner LR**\*, Warkentin M\*, **Woldeyes RA**\*, **Thompson MC**, Brewster AS, **Van Benschoten AH**, Baxter EL, Hopkins JB, Uervirojnangkoorn M, McPhillips SE, Song J, Alonso-Mori R, Holton JM, Weis WI, Brunger AT, Soltis SM, Lemke H, Gonzalez A, Sauter NK, Cohen AE, van den Bedem H, Thorne RE, **Fraser JS**. Mapping the Conformational Landscape of a Dynamic Enzyme by XFEL and Multitemperature Crystallography. *Submitted - Preprint available on BioRxiv*. 2015.'
+  date: 201503
+  image: '/static/img/pub/keedy_1_2015.png'
+  pmid: Submitted
+  pmcid: Submitted
+  pdf: 'http://biorxiv.org/content/biorxiv/early/2015/03/19/016733.full.pdf'
+  pdbs:
+    - 4YUG
+    - 4YUH
+    - 4YUI
+    - 4YUJ
+    - 4YUK
+    - 4YUL
+    - 4YUM
+    - 4YUN
+    - 4YUO
+    - 4YUP
+  links:
+    - name: Preprint on BioRxiv
+      url: 'http://biorxiv.org/content/early/2015/03/19/016733'
+    - name: Paper Submission Celebration Photo
+      url: 'https://twitter.com/fraser_lab/status/578354918529994752'
+    - name: LCLS XPP Beamline
+      url: 'https://portal.slac.stanford.edu/sites/lcls_public/instruments/xpp/Pages/default.aspx'
+    - name: Henry van den Bedem
+      url: 'https://people.stanford.edu/vdbedem/'
+    - name: Thorne Lab at Cornell
+      url: 'http://pages.physics.cornell.edu/~rthorne/'
+
 - citation: '**Barad BA**, Echols N, Wang RYR, Cheng Y, DiMaio F, Adams PD, **Fraser JS**. Side-chain-directed model and map validation for 3D Electron Cryomicroscopy. *Submitted - Preprint available on BioRxiv*. 2015.'
   date: 201503
   image: '/static/img/pub/bab_1_2015.jpg'
