@@ -53,15 +53,6 @@
 #       url: 'http://www.degradolab.org/'
 #
 #
-# - citation: 'van den Bedem H, **Fraser JS**. Integrative, Dynamic Structural Biology at Atomic Resolution — It’s About Time. *Nature Methods*. 2015.'
-#   date: 201412
-#   image: '/static/img/pub/vdb_2015.jpg'
-#   pmid: TBD
-#   pmcid: In Process
-#   pdf: '/static/pdf/vdb_2015.pdf'
-#   links:
-#     - name: Henry van den Bedem
-#       url: 'https://people.stanford.edu/vdbedem/'
 #
 # - citation: 'Cimermancic P...**Keedy DA**, **Woldeyes RA**, **Fraser JS**, Sali A. Cryptic Sites. *TBD*. 2014.'
 #   date: 201412
@@ -73,6 +64,16 @@
 #     - name: 'Paper Submission Celebration Photo'
 #       url: 'https://twitter.com/fraser_lab/status/482313979524444161'
 #
+- citation: 'van den Bedem H, **Fraser JS**. Integrative, Dynamic Structural Biology at Atomic Resolution — It’s About Time. *Nature Methods*. 2015.'
+  date: 201504
+  image: '/static/img/pub/vdb_2015.jpg'
+  pmid: TBD
+  pmcid: In Process
+  pdf: '/static/pdf/vdb_2015.pdf'
+  links:
+    - name: Henry van den Bedem
+      url: 'https://people.stanford.edu/vdbedem/'
+
 - citation: '**Keedy DA**\*, **Kenner LR**\*, Warkentin M\*, **Woldeyes RA**\*, **Thompson MC**, Brewster AS, **Van Benschoten AH**, Baxter EL, Hopkins JB, Uervirojnangkoorn M, McPhillips SE, Song J, Alonso-Mori R, Holton JM, Weis WI, Brunger AT, Soltis SM, Lemke H, Gonzalez A, Sauter NK, Cohen AE, van den Bedem H, Thorne RE, **Fraser JS**. Mapping the Conformational Landscape of a Dynamic Enzyme by XFEL and Multitemperature Crystallography. *Submitted - Preprint available on BioRxiv*. 2015.'
   date: 201503
   image: '/static/img/pub/keedy_1_2015.png'
