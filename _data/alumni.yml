@@ -1,3 +1,13 @@
+- name: Erin Poss
+  position: Rotation Student
+  enddate: Winter 2015
+  current: Graduate Student @ UCSF
+
+- name: Evan Green
+  position: Rotation Student
+  enddate: Winter 2015
+  current: Graduate Student @ UCSF
+
 - name: Jennifer Li
   position: Summer Student/Artist-in-Residence
   enddate: Summer 2014
@@ -12,7 +22,7 @@
 - name: Jessica Friedman
   position: Rotation Student
   enddate: Fall 2013
-  current: Graduate Student @ UCSF
+  current: Graduate Student - Kroetz Lab @ UCSF
 
 - name: Khanh Vuu
   position: Technician
@@ -28,7 +38,7 @@
 - name: Brian O'Donovan
   position: Rotation Student
   enddate: Winter 2013
-  current: Graduate Student - Douglas Lab @ UCSF
+  current: Graduate Student - DeRisi Lab @ UCSF
 
 - name: Catherine Shi
   position: Rotation Student
@@ -44,4 +54,3 @@
   position: Technician
   enddate: Summer 2011
   current: Graduate Student - Marqusee Lab @ UC Berkeley
-
