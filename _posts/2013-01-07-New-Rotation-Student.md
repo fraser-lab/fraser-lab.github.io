@@ -1,9 +1,11 @@
 ---
-title: New Rotation Student
+title: Spring quarter has sprung
 author: James Fraser
 layout: post
 group: news
 ---
-Brian O'Donovan starts his rotation!
+A belated welcome to our new rotation student Eugene!
 
- <img src="/static/img/news/brian.jpg" alt="rahel" class="img-responsive">
+ <img src="/static/img/news/eugene.jpg" alt="Gene-Cakes" class="img-responsive">
+
+And farewell to Erin and Evan who have moved on to their final rotations in the Gestwicki and Frost labs, respectively...
