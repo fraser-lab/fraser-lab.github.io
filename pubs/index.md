@@ -31,12 +31,12 @@ group: pubs
 **Mass Spectrometry Coodinator:** Danielle Swaney; [Danielle.Swaney@ucsf.edu](mailto:Danielle.Swaney@ucsf.edu)
 
 **TAs:**
-
+<!--
 -
 -
 -
 -
--
+- -->
 
 **Rosetta Helpers:**
 
@@ -310,7 +310,7 @@ Other Class Material:
 - Protein Design to Stabilize a Fold or Interaction
   - [README](https://drive.google.com/open?id=0By0in41MNLEZVUs2MjhxN3BrbkU&authuser=0)
   - [fixbb.sh](https://drive.google.com/open?id=0By0in41MNLEZalQtS01DRWJlN1E&authuser=0) -->
-
+<!--
 **Week 8– Theme: Constraints in the Context of Networks**
 
 _Lab Work: Comparison of computational design and selection experiments_
