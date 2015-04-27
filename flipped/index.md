@@ -34,15 +34,13 @@ For our UCSF class, our discussion time will focus primarily on the Research Lec
 If you want to talk to us about preparing your discussion session, please feel free to talk to us in advance with the faculty assigned for your discussion day.
 
 
-**May 15**
+#May 15#
 Leaders: Kelsey Hass, Jasper Williams
 Primary Faculty:	Ron
 
-iBioSeminars and Assigned Papers:
-
 ##Jack Szostack##
 
-Assigned Paper:
+#Assigned Paper:
 - [Adamala, K. and Szostak, J.W. (2013). Nonenzymatic template-directed RNA synthesis inside model protocells.  Science 342: 1098-1100.](Nonenzymatic template-directed RNA synthesis inside model protocells)
 
 <div class="video-container">
