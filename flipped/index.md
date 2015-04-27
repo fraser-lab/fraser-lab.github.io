@@ -19,15 +19,15 @@ group: pubs
 How did life evolve?  How can understand the principles of biological systems to create new proteins, new chemicals, biological structures, cells and tissues?  We will cover these topics in a "flipped course" where you will hear online lectures from scientific leaders in the field, read a paper, and then discuss as a group.  We have chosen diverse topics within this subject area, since they provide a window into how scientists tackle problems using different approaches.  We will meet for 7 sessions.  Prior to each session, students and faculty will view the three parts of an iBiology talk (usually 3 x ~30 min segments) and read one research paper from the speaker which is also discussed in the talk.  For the first session, two talks are assigned (they can be viewed at anytime prior to the course, as is true also of the other lectures).  A series of prompt questions will be prepared to help guide student-faculty discussion as a group.  One student and faculty member will be assigned as a discussion leader, but all students will be expected to be well prepared to engage in the discussion.  
 
 
-##Course work and reading schedule##
+##Course structure##
 
-2 students will serve as Discussion Leaders (pre-assigned in the document).  Everyone should be prepared for class (i.e. having viewed the talks and read the paper carefully).
+2 students will serve as Discussion Leaders (pre-assigned below) for each class.  Everyone should be prepared for class by having viewed the talks and read the paper carefully.
 
-Discussion Leaders will need do advance work.  The goal is to derive a set of questions that can lead to a provocative discussion with your classmates.   Beyond our class, we would like the Discussion Leaders also to invest effort and produce a set of "Teaching Tools" which could be posted on the iBiology web site (with your name listed as having prepared them).  Then, other teachers (mostly undergrad teachers) can benefit and lead discussions or make assignments for their classes on these lectures.  It is also good opportunity for you to learn how to produce useful education material, which might prove useful later in your life.  We can help you with revising your Teaching Tools (which will be part of the learning process) before we post them.   Here is a [guide to preparing Teaching Tools](/flipped/teaching_tools/).  The teaching tools overall are aimed for upper level undergraduate classes.
+**Discussion Leaders will need do advance work**.  The goal is to derive a set of questions that can lead to a provocative discussion with your classmates.   Beyond our class, we would like the Discussion Leaders also to invest effort and produce a set of ["Teaching Tools"](/flipped/teaching_tools/) which could be posted on the iBiology web site (with your name listed as having prepared them).  Then, other teachers (mostly undergrad teachers) can benefit and lead discussions or make assignments for their classes on these lectures.  It is also good opportunity for you to learn how to produce useful education material, which might prove useful later in your life.  We can help you with revising your [Teaching Tools](/flipped/teaching_tools/) (which will be part of the learning process) before we post them and have created an online [guide to preparing Teaching Tools](/flipped/teaching_tools/).  Remember, the teaching tools overall are aimed for upper level undergraduate classes.
 
 ##The goals/timelines are indicated below:
-- To prepare a set of Discussion Questions  (e.g. 5 (or a couple more if you want) on each part of the assigned iBioSeminars Talk and on the paper (see instructions on Teaching Tools).  These questions should be distributed to your classmates 2 days before the assigned discussion, so you will need to view the material, discuss with your assigned co-leader, and then email to the group.  You can start on this before the class starts (obviously necessary for the first 2 classes).  This is why we are distributing this information in advance.   You do not need to have written answers for the purpose of our mini-course discussion (but will need for the assignment below).
-- Prepare Teaching Tools on your assigned speaker according to guidelines and examples below by June 1.  This will include more material (e.g. overview, review questions, etc) for undergrads.  For the Discussion Questions, you can also see what worked or did not work in our session or come up with new questions based upon the class discussion.  If you send us a preliminary version of your Teaching Tools, we will provide you with feedback so that you can revise and also learn from the experience.  Some of the iBiology staff at UCSF will likely help with feedback as well.
+- To prepare a set of Discussion Questions  (e.g. 5 (or a couple more if you want) on each part of the assigned iBioSeminars Talk and on the paper (see instructions on [Teaching Tools](/flipped/teaching_tools/)).  **These questions should be distributed to your classmates 2 days before the assigned discussion**, so you will need to view the material, discuss with your assigned co-leader, and then email to the group.  You can start on this before the class starts (obviously necessary for the first 2 classes).  This is why we are distributing this information in advance.   You do not need to have written answers for the purpose of our mini-course discussion (but will need for the assignment below).
+- Prepare [Teaching Tools](/flipped/teaching_tools/) on your assigned speaker according to guidelines and examples below **by June 1**.  This will include more material (e.g. overview, review questions, etc) for undergrads.  For the Discussion Questions, you can also see what worked or did not work in our session or come up with new questions based upon the class discussion.  If you send us a preliminary version of your Teaching Tools, we will provide you with feedback so that you can revise and also learn from the experience.  Some of the iBiology staff at UCSF will likely help with feedback as well.
 
 For our UCSF class, our discussion time will focus primarily on the Research Lectures (part II and III of the iBiology Talk (or the main talk for Tejal Desai) and on the assigned paper.   However, we also discuss the Introduction Talk from the point of view of the effectiveness of the presentation.  Did you like the talk and the style of the speaker?  What techniques did the speaker use well to engage the viewer or get a point across?  To be successful in science, you will have to become a good communicator, so it is valuable to analyze what you think constitutes a successful talk (and also appreciate that there are various strategies for crafting a good talk).
 
@@ -35,32 +35,31 @@ If you want to talk to us about preparing your discussion session, please feel f
 
 
 **May 15**
-
-[Jack Szostak]()	:		[The Origins of Life on Earth (teaching tools made)]()
-
-<div class="video-container">
-         <iframe src="//www.youtube.com/embed/fQ7p9mHDJUw" frameborder="0" width="560" height="315"></iframe>
-</div>
-
-
-
-[Dianne Newman]()	:	[Microbial Diversity and Evolution]()
-
-<div class="video-container">
-         <iframe src="//www.youtube.com/embed/fQ7p9mHDJUw" frameborder="0" width="560" height="315"></iframe>
-</div>
-
-
 Leaders: Kelsey Hass, Jasper Williams
 Primary Faculty:	Ron
 
+iBioSeminars and Assigned Papers:
 
-Assigned Papers:
 Jack Szostack
-Adamala, K. and Szostak, J.W. (2013). Nonenzymatic template-directed RNA synthesis inside model protocells.  Science 342: 1098-1100.
+
+[Adamala, K. and Szostak, J.W. (2013). Nonenzymatic template-directed RNA synthesis inside model protocells.  Science 342: 1098-1100.](Nonenzymatic template-directed RNA synthesis inside model protocells)
+
+<div class="video-container">
+         <iframe src="//www.youtube.com/embed/PqPGOhXoprU" frameborder="0" width="560" height="315"></iframe>
+</div>
+
+
+<div class="video-container">
+         <iframe src="//www.youtube.com/embed/CJ5jh33OiOA" frameborder="0" width="560" height="315"></iframe>
+</div>
+
+<div class="video-container">
+         <iframe src="//www.youtube.com/embed/jfq5-i8xoIU" frameborder="0" width="560" height="315"></iframe>
+</div>
 
 Dianne Newman
-Wu, C.-H., Bialecka-Fornal, M., and Newman, D.K. (2015). Methylation at the C-2 position of hopanoids increases rigidity in native bacterial membranes. Elife: 4:e05663.
+
+[Wu, C.-H., Bialecka-Fornal, M., and Newman, D.K. (2015). Methylation at the C-2 position of hopanoids increases rigidity in native bacterial membranes. Elife: 4:e05663.](http://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25599566/)
 
 
 May 18:	David Baker			Protein Design
