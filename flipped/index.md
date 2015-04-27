@@ -26,7 +26,7 @@ How did life evolve?  How can understand the principles of biological systems to
 **Discussion Leaders will need do advance work**.  The goal is to derive a set of questions that can lead to a provocative discussion with your classmates.   Beyond our class, we would like the Discussion Leaders also to invest effort and produce a set of ["Teaching Tools"](/flipped/teaching_tools/) which could be posted on the iBiology web site (with your name listed as having prepared them).  Then, other teachers (mostly undergrad teachers) can benefit and lead discussions or make assignments for their classes on these lectures.  It is also good opportunity for you to learn how to produce useful education material, which might prove useful later in your life.  We can help you with revising your [Teaching Tools](/flipped/teaching_tools/) (which will be part of the learning process) before we post them and have created an online [guide to preparing Teaching Tools](/flipped/teaching_tools/).  Remember, the teaching tools overall are aimed for upper level undergraduate classes.
 
 ##Course goals/timelines:
-- To prepare a set of Discussion Questions  (e.g. 5 (or a couple more if you want) on each part of the assigned iBioSeminars Talk and on the paper (see instructions on [Teaching Tools](/flipped/teaching_tools/)).  **These questions should be distributed to your classmates 2 days before the assigned discussion**, so you will need to view the material, discuss with your assigned co-leader, and then email to the group.  You can start on this before the class starts (obviously necessary for the first 2 classes).  This is why we are distributing this information in advance.   You do not need to have written answers for the purpose of our mini-course discussion (but will need for the assignment below).
+- Prepare a set of Discussion Questions  (e.g. 5 (or a couple more if you want) on each part of the assigned iBioSeminars Talk and on the paper (see instructions on [Teaching Tools](/flipped/teaching_tools/)).  **These questions should be distributed to your classmates 2 days before the assigned discussion**, so you will need to view the material, discuss with your assigned co-leader, and then email to the group.  You can start on this before the class starts (obviously necessary for the first 2 classes).  This is why we are distributing this information in advance.   You do not need to have written answers for the purpose of our mini-course discussion (but will need for the assignment below).
 - Prepare [Teaching Tools](/flipped/teaching_tools/) on your assigned speaker according to guidelines and examples below **by June 1**.  This will include more material (e.g. overview, review questions, etc) for undergrads.  For the Discussion Questions, you can also see what worked or did not work in our session or come up with new questions based upon the class discussion.  If you send us a preliminary version of your Teaching Tools, we will provide you with feedback so that you can revise and also learn from the experience.  Some of the iBiology staff at UCSF will likely help with feedback as well.
 
 For our UCSF class, our discussion time will focus primarily on the Research Lectures (part II and III of the iBiology Talk (or the main talk for Tejal Desai) and on the assigned paper.   However, we also discuss the Introduction Talk from the point of view of the effectiveness of the presentation.  Did you like the talk and the style of the speaker?  What techniques did the speaker use well to engage the viewer or get a point across?  To be successful in science, you will have to become a good communicator, so it is valuable to analyze what you think constitutes a successful talk (and also appreciate that there are various strategies for crafting a good talk).
@@ -75,14 +75,23 @@ Assigned Paper:
          <iframe src="//www.youtube.com/embed/OEuD7j1PALI" frameborder="0" width="280" height="107"></iframe>
 </div>
 
-May 18:	David Baker			Protein Design
+#May 18#
 Leaders:	           Aditya Anand, Lynn Wang
 Primary Faculty:	Jaime
 
-Assigned Papers:
-David Baker
-Correia BE. et al. Proof of principle for epitope-focused vaccine design. Nature. 2014. 507: 201-206. PMID: 24499818
+##David Baker##
 
+Assigned Paper:
+
+- [Correia BE. et al. Proof of principle for epitope-focused vaccine design. Nature. 2014. 507: 201-206. PMID: 24499818](http://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24499818/)
+
+<div class="video-container">
+         <iframe src="//www.youtube.com/embed/0LetJMbu7uY" frameborder="0" width="280" height="107"></iframe>
+</div>
+
+<div class="video-container">
+         <iframe src="//www.youtube.com/embed/ZrAwWx7meTk" frameborder="0" width="280" height="107"></iframe>
+</div>
 
 May 20:   	Chaitan Khosla		Polyketide Assembly Lines
 Leaders:	           Ben Barsi-Rhyne, Beck Anderson
