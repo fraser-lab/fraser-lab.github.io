@@ -1,7 +1,7 @@
 ---
 title: Engineering Life:  A Flipped Classroom with iBiology
 layout: default
-group: flipped
+group: pubs
 ---
 
 #Engineering Life:  A Flipped Classroom with iBiology#
