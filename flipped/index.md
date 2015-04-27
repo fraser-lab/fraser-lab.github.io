@@ -25,7 +25,7 @@ How did life evolve?  How can understand the principles of biological systems to
 
 **Discussion Leaders will need do advance work**.  The goal is to derive a set of questions that can lead to a provocative discussion with your classmates.   Beyond our class, we would like the Discussion Leaders also to invest effort and produce a set of ["Teaching Tools"](/flipped/teaching_tools/) which could be posted on the iBiology web site (with your name listed as having prepared them).  Then, other teachers (mostly undergrad teachers) can benefit and lead discussions or make assignments for their classes on these lectures.  It is also good opportunity for you to learn how to produce useful education material, which might prove useful later in your life.  We can help you with revising your [Teaching Tools](/flipped/teaching_tools/) (which will be part of the learning process) before we post them and have created an online [guide to preparing Teaching Tools](/flipped/teaching_tools/).  Remember, the teaching tools overall are aimed for upper level undergraduate classes.
 
-##The goals/timelines are indicated below:
+##Course goals/timelines:
 - To prepare a set of Discussion Questions  (e.g. 5 (or a couple more if you want) on each part of the assigned iBioSeminars Talk and on the paper (see instructions on [Teaching Tools](/flipped/teaching_tools/)).  **These questions should be distributed to your classmates 2 days before the assigned discussion**, so you will need to view the material, discuss with your assigned co-leader, and then email to the group.  You can start on this before the class starts (obviously necessary for the first 2 classes).  This is why we are distributing this information in advance.   You do not need to have written answers for the purpose of our mini-course discussion (but will need for the assignment below).
 - Prepare [Teaching Tools](/flipped/teaching_tools/) on your assigned speaker according to guidelines and examples below **by June 1**.  This will include more material (e.g. overview, review questions, etc) for undergrads.  For the Discussion Questions, you can also see what worked or did not work in our session or come up with new questions based upon the class discussion.  If you send us a preliminary version of your Teaching Tools, we will provide you with feedback so that you can revise and also learn from the experience.  Some of the iBiology staff at UCSF will likely help with feedback as well.
 
@@ -40,24 +40,25 @@ Primary Faculty:	Ron
 
 iBioSeminars and Assigned Papers:
 
-Jack Szostack
+##Jack Szostack##
 
-[Adamala, K. and Szostak, J.W. (2013). Nonenzymatic template-directed RNA synthesis inside model protocells.  Science 342: 1098-1100.](Nonenzymatic template-directed RNA synthesis inside model protocells)
+Assigned Paper:
+- [Adamala, K. and Szostak, J.W. (2013). Nonenzymatic template-directed RNA synthesis inside model protocells.  Science 342: 1098-1100.](Nonenzymatic template-directed RNA synthesis inside model protocells)
 
 <div class="video-container">
-         <iframe src="//www.youtube.com/embed/PqPGOhXoprU" frameborder="0" width="560" height="315"></iframe>
+         <iframe src="//www.youtube.com/embed/PqPGOhXoprU" frameborder="0" width="280" height="107"></iframe>
 </div>
 
 
 <div class="video-container">
-         <iframe src="//www.youtube.com/embed/CJ5jh33OiOA" frameborder="0" width="560" height="315"></iframe>
+         <iframe src="//www.youtube.com/embed/CJ5jh33OiOA" frameborder="0" width="280" height="107"></iframe>
 </div>
 
 <div class="video-container">
-         <iframe src="//www.youtube.com/embed/jfq5-i8xoIU" frameborder="0" width="560" height="315"></iframe>
+         <iframe src="//www.youtube.com/embed/jfq5-i8xoIU" frameborder="0" width="280" height="107"></iframe>
 </div>
 
-Dianne Newman
+##Dianne Newman##
 
 [Wu, C.-H., Bialecka-Fornal, M., and Newman, D.K. (2015). Methylation at the C-2 position of hopanoids increases rigidity in native bacterial membranes. Elife: 4:e05663.](http://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25599566/)
 
