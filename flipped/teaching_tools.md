@@ -3,7 +3,7 @@ title: Teaching Tools Guid
 layout: default
 group: pubs
 ---
-Teaching Tools- Guidelines for Formatting and Content
+#Teaching Tools- Guidelines for Formatting and Content#
 
 Thank you very much for preparing Teaching Tools for an iBiology talk.  We are happy to include your name on the Teaching Tools page to indicate your participation in preparing these resources.
 
