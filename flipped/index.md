@@ -1,5 +1,5 @@
 ---
-title: Engineering Life:  A Flipped Classroom with iBiology
+title: iBio_Class
 layout: default
 group: pubs
 ---
