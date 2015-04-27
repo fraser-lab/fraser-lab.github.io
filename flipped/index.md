@@ -40,7 +40,8 @@ Primary Faculty:	Ron
 
 ##Jack Szostack##
 
-#Assigned Paper:
+Assigned Paper:
+
 - [Adamala, K. and Szostak, J.W. (2013). Nonenzymatic template-directed RNA synthesis inside model protocells.  Science 342: 1098-1100.](Nonenzymatic template-directed RNA synthesis inside model protocells)
 
 <div class="video-container">
@@ -58,8 +59,21 @@ Primary Faculty:	Ron
 
 ##Dianne Newman##
 
-[Wu, C.-H., Bialecka-Fornal, M., and Newman, D.K. (2015). Methylation at the C-2 position of hopanoids increases rigidity in native bacterial membranes. Elife: 4:e05663.](http://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25599566/)
+Assigned Paper:
 
+- [Wu, C.-H., Bialecka-Fornal, M., and Newman, D.K. (2015). Methylation at the C-2 position of hopanoids increases rigidity in native bacterial membranes. Elife: 4:e05663.](http://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25599566/)
+
+<div class="video-container">
+         <iframe src="//www.youtube.com/embed/laeowpY5WPE" frameborder="0" width="280" height="107"></iframe>
+</div>
+
+<div class="video-container">
+         <iframe src="//www.youtube.com/embed/4NoIqtZwTjU" frameborder="0" width="280" height="107"></iframe>
+</div>
+
+<div class="video-container">
+         <iframe src="//www.youtube.com/embed/OEuD7j1PALI" frameborder="0" width="280" height="107"></iframe>
+</div>
 
 May 18:	David Baker			Protein Design
 Leaders:	           Aditya Anand, Lynn Wang
