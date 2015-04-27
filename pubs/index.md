@@ -6,7 +6,7 @@ group: pubs
 
 #Biophysics 205A: Physical Underpinnings of Biological Systems#
 
-##Fall 2014 Syllabus##
+##Fall 2015 Syllabus##
 
 **Course Title:** Physical Underpinnings of Biological Systems (PUBS)
 
@@ -28,24 +28,24 @@ group: pubs
 
 **Course Coordinator:** David Mavor; [David.Mavor@ucsf.edu](mailto:David.Mavor@ucsf.edu)
 
-**Microscopy Coodinator:** Laura Deming; [biophysics205a@gmail.com](mailto:biophysics205a@gmail.com)
+**Mass Spectrometry Coodinator:** Danielle Swaney; [Danielle.Swaney@ucsf.edu](mailto:Danielle.Swaney@ucsf.edu)
 
 **TAs:**
 
-- [Zairan Liu](mailto:Zairan.Liu@ucsf.edu)
-- [Ben Barad](mailto:ben.barad@ucsf.edu)
-- [Clint Cario](mailto:clintcario@gmail.com)
-- [Alain Bonny](mailto:alain.bonny@gmail.com)
-- [Garrett Gaskins](mailto:garrett.gaskins@ucsf.edu)
+-
+-
+-
+-
+-
 
 **Rosetta Helpers:**
 
-- [Kyle Barlow](mailto:kyle.barlow@ucsf.edu)
-- [Samuel Thompson](mailto:Samuel.Thompson@ucsf.edu)
+- #[Kyle Barlow](mailto:kyle.barlow@ucsf.edu)
+- #[Samuel Thompson](mailto:Samuel.Thompson@ucsf.edu)
 
 **Lecturers/Facilitators:**
 
-James Fraser, Joe DeRisi, Hiten Madhani, Michael Keiser,
+James Fraser, Joe DeRisi, #Hiten Madhani, Michael Keiser,
 Sourav Bandyopadhyay, Jessica Lund, Eric Chow, Nadav Ahituv,
 Ryan Hernandez, Elaine Meng, Bo Huang, David Morgan, Jason Gestwicki,
 Kurt Thorn, Steven Altschuler, Lani Wu, Tanja Kortemme, Wendell Lim,
@@ -53,9 +53,9 @@ Adam Abate, Matthew Thomson, Dave Toczyski
 
 **Important Dates:**
 
-- Deep Sequencing Presentation: Monday, October 27th
-- NSF GRFP due: Oct 30th (Chemistry), Nov 4th (Life Sciences)
-- Rosetta/Microscopy presentations: Monday, November 24th
+- #Deep Sequencing Presentation: Monday, October 27th
+- #NSF GRFP due: Oct 30th (Chemistry), Nov 4th (Life Sciences)
+- #Rosetta/Microscopy presentations: Monday, November 24th
 
 **Background:**
 
@@ -73,23 +73,27 @@ After **module 1** and **module 3**, each team will orally present their finding
 
 Activities and speakers for each week will be announced at the beginning of each module.
 
-**Module 1.** *Sept 29th – Oct 22nd*. Ultra-deep sequencing, and chemical genomics.
+**Module 1.** #*Sept 29th – Oct 22nd*. Ultra-deep sequencing, and chemical genomics.
 
-**Module 2.** *Oct 27th – Nov 5th*. Ensemble vs. single observation measurements.
+**Module 2.** #*Oct 27th – Nov 5th*. Ensemble vs. single observation measurements.
 
-**Module 3.** *Nov 10th – Nov 24th*. Computational biology and evolutionary constraints.
+**Module 3.** #*Nov 10th – Nov 24th*. Computational biology and evolutionary constraints.
 
 
 
 **Course Goals:**
 
-The goal of the course is to provide an immersive, hands-on experience in the context of genuine research questions. As articulated by [Vale and colleagues](http://www.sciencemag.org/content/338/6114/1542.long), there are tremendous advantages when graduate students work "pursuing a research question with unknown answers and uncertain outcomes, students and faculty combine their wits and skills to design experiments, evaluate progress, and troubleshoot along the way". These advantages are likely to be common accross [all learning levels](http://blogs.kqed.org/mindshift/2014/09/can-project-based-learning-close-gaps-in-science-education/). In our course, teams may use whatever literature, software, and resources that are available publicly, and are encouraged to write their own scripts and software where necessary. The "official" language of the class is [python](https://www.python.org) - beginners should try [Learn Python The Hard Way](http://learnpythonthehardway.org/book/), people with a background in other languages should try [Google's python course](https://developers.google.com/edu/python/). The QB3 Berkeley [intensive python course](http://intro-prog-bioinfo-2014.wikispaces.com/) provides many biological examples. Students should be comfortable with basic syntax and scripting prior to the start of instruction.
+The goal of the course is to provide an immersive, hands-on experience in the context of genuine research questions. As articulated by [Vale and colleagues](http://www.sciencemag.org/content/338/6114/1542.long), there are tremendous advantages when graduate students work "pursuing a research question with unknown answers and uncertain outcomes, students and faculty combine their wits and skills to design experiments, evaluate progress, and troubleshoot along the way". These advantages are likely to be common accross [all learning levels](http://blogs.kqed.org/mindshift/2014/09/can-project-based-learning-close-gaps-in-science-education/). In our course, teams may use whatever literature, software, and resources that are available publicly, and are encouraged to write their own scripts and software where necessary.
 
-In **module 1**, each team will be provided an "unknown" chemical perturbation. Using deep mutational profiling, each team will measure the fitness of all possible individual point mutants of ubiquitin, an essential protein that is a key cellular integrator of stress. Upon processing the sequencing data, each team willperform comparisons against a reference dataset.
+The "official" language of the class is [python](https://www.python.org) - beginners should try [Learn Python The Hard Way](http://learnpythonthehardway.org/book/), people with a background in other languages should try [Google's python course](https://developers.google.com/edu/python/). The QB3 Berkeley [intensive python course](http://intro-prog-bioinfo-2014.wikispaces.com/) provides many biological examples. Students should be comfortable with basic syntax and scripting prior to the start of instruction.
 
-In **module 2**, teams will compare their data against the datasets of other teams and perform microscopy experiments to determine whether their stress response elicits a multimodal response in growth rate. This module will reinforce core concepts of ensemble vs. single observation measurements at many levels of biophysics and systems biology.
+**Although TAs, instructors, and your fellow students will be happy to help out, it is important to be familiar with basic scripting and the principles of python PRIOR to starting the class.**
 
-In **module 3**, the teams will leverage interactions with Tanja Kortemme and members of her lab to perform protein design protocols to predict sequences optimized for multiple criteria. They will test how well their deep sequencing data matches with protein design profiles generated under different constraints such as: protein stability or maintaining interactions with specific mediators of stress responses. For the final presentations, teams will explain the unique features of their Ubiquitin mutant profile by grounding their analysis in specific protein-protein interactions along branches of the cellular proteostasis network.
+In **module 1**, #each team will be provided an "unknown" chemical perturbation. Using deep mutational profiling, each team will measure the fitness of all possible individual point mutants of ubiquitin, an essential protein that is a key cellular integrator of stress. Upon processing the sequencing data, each team willperform comparisons against a reference dataset.
+
+In **module 2**, #teams will compare their data against the datasets of other teams and perform microscopy experiments to determine whether their stress response elicits a multimodal response in growth rate. This module will reinforce core concepts of ensemble vs. single observation measurements at many levels of biophysics and systems biology.
+
+In **module 3**, #the teams will leverage interactions with Tanja Kortemme and members of her lab to perform protein design protocols to predict sequences optimized for multiple criteria. They will test how well their deep sequencing data matches with protein design profiles generated under different constraints such as: protein stability or maintaining interactions with specific mediators of stress responses. For the final presentations, teams will explain the unique features of their Ubiquitin mutant profile by grounding their analysis in specific protein-protein interactions along branches of the cellular proteostasis network.
 
 **Student Learning Objectives**
 
@@ -110,7 +114,7 @@ _Accommodations for students with disabilities:_ Please see the instructor as so
 
 ##Lab work and recommended reading schedule
 
-**Week 1 – Theme: Ubiquitin and Deep Mutational Profiling**
+<!-- **Week 1 – Theme: Ubiquitin and Deep Mutational Profiling**
 
 _Lab work: Measure doubling times as a function of small molecule perturbation concentrations_
 
@@ -394,4 +398,4 @@ Tinoco, I., and Gonzalez, R.L. (2011). Biological mechanisms, one molecule at a 
 
 van Wijk SJ, Fiskin E, Putyrski M, Pampaloni F, Hou J, Wild P, Kensche T, Grecco HE, Bastiaens P, and Dikic I. (2012) Fluorescence-based sensors to monitor localization and functions of linear and K63-linked ubiquitin chains in cells. Molecular Cell. _14_, 797-809.
 
-Ye Y, Blaser G, Horrocks MH, Ruedas-Rama MJ, Ibrahim S, Zhukov AA, Orte A, Klenerman D, Jackson SE, and Komander D. (2012). Ubiquitin chain conformation regulates recognition and activity of interacting proteins. Nature _492_, 266-70
+Ye Y, Blaser G, Horrocks MH, Ruedas-Rama MJ, Ibrahim S, Zhukov AA, Orte A, Klenerman D, Jackson SE, and Komander D. (2012). Ubiquitin chain conformation regulates recognition and activity of interacting proteins. Nature _492_, 266-70 -->
