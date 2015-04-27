@@ -16,7 +16,7 @@ group: pubs
 
 **Location:** Genentech Hall Teaching Lab - Room 227
 
-**Prerequisites:** All incoming first year iPQB and CCB graduate students are required to enroll in this course.
+**Prerequisites:** All incoming first year iPQB and CCB graduate students are required to enroll in this course. **Although TAs, instructors, and your fellow students will be happy to help out, it is important to be familiar with basic scripting and the principles of python PRIOR to starting the class.** This will be covered in bootcamp, but it is also a good idea to get a jump start during the summer (suggestions are listed below).
 
 **Grading:** Letter grade
 
