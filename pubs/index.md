@@ -40,22 +40,23 @@ group: pubs
 
 **Rosetta Helpers:**
 
-- #[Kyle Barlow](mailto:kyle.barlow@ucsf.edu)
-- #[Samuel Thompson](mailto:Samuel.Thompson@ucsf.edu)
+<!-- - [Kyle Barlow](mailto:kyle.barlow@ucsf.edu)
+- [Samuel Thompson](mailto:Samuel.Thompson@ucsf.edu) -->
 
 **Lecturers/Facilitators:**
 
-James Fraser, Joe DeRisi, #Hiten Madhani, Michael Keiser,
+James Fraser, Joe DeRisi, Danielle Swaney... more to come
+<!-- Hiten Madhani, Michael Keiser,
 Sourav Bandyopadhyay, Jessica Lund, Eric Chow, Nadav Ahituv,
 Ryan Hernandez, Elaine Meng, Bo Huang, David Morgan, Jason Gestwicki,
 Kurt Thorn, Steven Altschuler, Lani Wu, Tanja Kortemme, Wendell Lim,
-Adam Abate, Matthew Thomson, Dave Toczyski
+Adam Abate, Matthew Thomson, Dave Toczyski -->
 
 **Important Dates:**
 
-- #Deep Sequencing Presentation: Monday, October 27th
-- #NSF GRFP due: Oct 30th (Chemistry), Nov 4th (Life Sciences)
-- #Rosetta/Microscopy presentations: Monday, November 24th
+<!-- - Deep Sequencing Presentation: Monday, October 27th
+- NSF GRFP due: Oct 30th (Chemistry), Nov 4th (Life Sciences)
+- Rosetta/Microscopy presentations: Monday, November 24th -->
 
 **Background:**
 
@@ -73,11 +74,11 @@ After **module 1** and **module 3**, each team will orally present their finding
 
 Activities and speakers for each week will be announced at the beginning of each module.
 
-**Module 1.** #*Sept 29th – Oct 22nd*. Ultra-deep sequencing, and chemical genomics.
+<!-- **Module 1.** *Sept 29th – Oct 22nd*. Ultra-deep sequencing, and chemical genomics.
 
-**Module 2.** #*Oct 27th – Nov 5th*. Ensemble vs. single observation measurements.
+**Module 2.** *Oct 27th – Nov 5th*. Ensemble vs. single observation measurements.
 
-**Module 3.** #*Nov 10th – Nov 24th*. Computational biology and evolutionary constraints.
+**Module 3.** *Nov 10th – Nov 24th*. Computational biology and evolutionary constraints. -->
 
 
 
