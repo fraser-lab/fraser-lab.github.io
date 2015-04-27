@@ -35,8 +35,9 @@ If you want to talk to us about preparing your discussion session, please feel f
 
 
 #May 15#
-Leaders: Kelsey Hass, Jasper Williams
-Primary Faculty:	Ron
+
+- Leaders: Kelsey Hass, Jasper Williams
+- Primary Faculty:	Ron
 
 ##Jack Szostack##
 
@@ -76,8 +77,9 @@ Assigned Paper:
 </div>
 
 #May 18#
-Leaders:	           Aditya Anand, Lynn Wang
-Primary Faculty:	Jaime
+
+- Leaders:	           Aditya Anand, Lynn Wang
+- Primary Faculty:	Jaime
 
 ##David Baker##
 
