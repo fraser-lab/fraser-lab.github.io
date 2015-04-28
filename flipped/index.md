@@ -189,7 +189,8 @@ Assigned Paper:
 
 ##Robert Langer		Biomaterials and Delivery Systems##
 
-[Timko, B.P., Arruebo, M., Shankarappa, S.A., McAlvin, J.B., Okonkwo, O.S., Mizrahi, B., Stefanescu, C.F., Gomez, L., Zhu, J., Zhu, A., et al. (2014). Near-infrared-actuated devices for remotely controlled drug delivery. Proceedings of the National Academy of Sciences 111, 1349–1354.](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3910641/)
+Assigned paper:
+- [Timko, B.P., Arruebo, M., Shankarappa, S.A., McAlvin, J.B., Okonkwo, O.S., Mizrahi, B., Stefanescu, C.F., Gomez, L., Zhu, J., Zhu, A., et al. (2014). Near-infrared-actuated devices for remotely controlled drug delivery. Proceedings of the National Academy of Sciences 111, 1349–1354.](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3910641/)
 
 <div class="video-container">
          <iframe src="//www.youtube.com/embed/O3KccVX574s" frameborder="0" width="280" height="107"></iframe>
@@ -210,4 +211,3 @@ No paper assigned
 <div class="video-container">
          <iframe src="//www.youtube.com/embed/49O7vJJvg6E" frameborder="0" width="280" height="107"></iframe>
 </div>
-Assigned Paper:
