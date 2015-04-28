@@ -162,22 +162,52 @@ Assigned Paper:
 </div>
 
 
-May 27:  	Sangeeta Bhatia		Tissue Engineering
-Leaders:	           Karina Perlaza, Brian Yang
-Primary Faculty:	Ron
+#May 27#
+
+- Leaders:	           Karina Perlaza, Brian Yang
+- Primary Faculty:	Ron
+
+##Sangeeta Bhatia		Tissue Engineering##
 
 Assigned Paper:
 
-Sangeeta Bhatia
-Stevens, K.R., Ungrin, M.D., Schwartz, R.E., Ng, S., Carvalho, B., Christine, K.S., Chaturvedi, R.R., Li, C.Y., Zandstra, P.W., Chen, C.S., et al. (2013). InVERT molding for scalable control of tissue microarchitecture. Nature Communications 4, 1847.
+- [Stevens, K.R., Ungrin, M.D., Schwartz, R.E., Ng, S., Carvalho, B., Christine, K.S., Chaturvedi, R.R., Li, C.Y., Zandstra, P.W., Chen, C.S., et al. (2013). InVERT molding for scalable control of tissue microarchitecture. Nature Communications 4, 1847.](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3660041/)
+
+<div class="video-container">
+         <iframe src="//www.youtube.com/embed/8p2CYTPGiYE" frameborder="0" width="280" height="107"></iframe>
+</div>
+
+<div class="video-container">
+         <iframe src="//www.youtube.com/embed/JHXPxAkYrQ8" frameborder="0" width="280" height="107"></iframe>
+</div>
 
 
-May 29:   	Robert Langer		Biomaterials and Delivery Systems
-		Desai/Bhisitkul	Advancing the Treatment of Retinal Disease
-				http://www.ibiology.org/ibioeducation/taking-courses/bench-						to-bedside/advancing-treatment-retinal-diseases.html
-Leaders:		Valentina Garcia, Tess Veuthey
-Primary Faculty:	Ron
+#May 29#
 
+- Leaders:		Valentina Garcia, Tess Veuthey
+- Primary Faculty:	Ron
+
+##Robert Langer		Biomaterials and Delivery Systems##
+
+[Timko, B.P., Arruebo, M., Shankarappa, S.A., McAlvin, J.B., Okonkwo, O.S., Mizrahi, B., Stefanescu, C.F., Gomez, L., Zhu, J., Zhu, A., et al. (2014). Near-infrared-actuated devices for remotely controlled drug delivery. Proceedings of the National Academy of Sciences 111, 1349–1354.](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3910641/)
+
+<div class="video-container">
+         <iframe src="//www.youtube.com/embed/O3KccVX574s" frameborder="0" width="280" height="107"></iframe>
+</div>
+
+<div class="video-container">
+         <iframe src="//www.youtube.com/embed/o4moymWepUg" frameborder="0" width="280" height="107"></iframe>
+</div>
+
+<div class="video-container">
+         <iframe src="//www.youtube.com/embed/ZOgobBrGYVM" frameborder="0" width="280" height="107"></iframe>
+</div>
+
+##Desai/Bhisitkul	Advancing the Treatment of Retinal Disease##
+
+No paper assigned
+
+<div class="video-container">
+         <iframe src="//www.youtube.com/embed/49O7vJJvg6E" frameborder="0" width="280" height="107"></iframe>
+</div>
 Assigned Paper:
-Robert Langer only
-Timko, B.P., Arruebo, M., Shankarappa, S.A., McAlvin, J.B., Okonkwo, O.S., Mizrahi, B., Stefanescu, C.F., Gomez, L., Zhu, J., Zhu, A., et al. (2014). Near-infrared-actuated devices for remotely controlled drug delivery. Proceedings of the National Academy of Sciences 111, 1349–1354.
