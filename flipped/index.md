@@ -95,13 +95,28 @@ Assigned Paper:
          <iframe src="//www.youtube.com/embed/ZrAwWx7meTk" frameborder="0" width="280" height="107"></iframe>
 </div>
 
-May 20:   	Chaitan Khosla		Polyketide Assembly Lines
-Leaders:	           Ben Barsi-Rhyne, Beck Anderson
-Primary Faculty:	Jaime
+#May 20#
 
-Assigned Papers:
-Chaitan Khosla
-Walker MC, Thuronyi BW, Charkoudian LK, Lowry B, Khosla C, Chang MC.Expanding the fluorine chemistry of living systems using engineered polyketide synthase pathways. Science. 2013. 341: 1089-1094.  PMID: 24009388
+- Leaders:	           Ben Barsi-Rhyne, Beck Anderson
+- Primary Faculty:	Jaime
+
+##Chaitan Khosla##
+
+Assigned Paper:
+
+- [Walker MC, Thuronyi BW, Charkoudian LK, Lowry B, Khosla C, Chang MC.Expanding the fluorine chemistry of living systems using engineered polyketide synthase pathways. Science. 2013. 341: 1089-1094.  PMID: 24009388](http://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24009388/)
+
+<div class="video-container">
+         <iframe src="//www.youtube.com/embed/NEXFK04IVVs" frameborder="0" width="280" height="107"></iframe>
+</div>
+
+<div class="video-container">
+         <iframe src="//www.youtube.com/embed/gUm2evBSDM0" frameborder="0" width="280" height="107"></iframe>
+</div>
+
+<div class="video-container">
+         <iframe src="//www.youtube.com/embed/4ZCyDpLB00" frameborder="0" width="280" height="107"></iframe>
+</div>
 
 May 22:	William Shih  		Nanofabrication via Structural DNA
 Leaders:    	      Juan Perez, Karen Cheng
