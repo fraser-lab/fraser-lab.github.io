@@ -39,7 +39,7 @@ If you want to talk to us about preparing your discussion session, please feel f
 - Leaders: Kelsey Hass, Jasper Williams
 - Primary Faculty:	Ron
 
-##Jack Szostack##
+##Jack Szostack - The Origins of Life on Earth##
 
 Assigned Paper:
 
@@ -58,7 +58,7 @@ Assigned Paper:
          <iframe src="//www.youtube.com/embed/jfq5-i8xoIU" frameborder="0" width="280" height="107"></iframe>
 </div>
 
-##Dianne Newman##
+##Dianne Newman - Microbial Diversity and Evolution##
 
 Assigned Paper:
 
@@ -81,7 +81,7 @@ Assigned Paper:
 - Leaders:	           Aditya Anand, Lynn Wang
 - Primary Faculty:	Jaime
 
-##David Baker##
+##David Baker - Protein Design##
 
 Assigned Paper:
 
@@ -100,7 +100,7 @@ Assigned Paper:
 - Leaders:	           Ben Barsi-Rhyne, Beck Anderson
 - Primary Faculty:	Jaime
 
-##Chaitan Khosla##
+##Chaitan Khosla - Polyketide Assembly Lines##
 
 Assigned Paper:
 
@@ -118,22 +118,49 @@ Assigned Paper:
          <iframe src="//www.youtube.com/embed/4ZCyDpLB00" frameborder="0" width="280" height="107"></iframe>
 </div>
 
-May 22:	William Shih  		Nanofabrication via Structural DNA
-Leaders:    	      Juan Perez, Karen Cheng
-Primary Faculty:  Ron
+#May 22#
+
+- Leaders:    	      Juan Perez, Karen Cheng
+- Primary Faculty:  Ron
+
+##William Shih - Nanofabrication via Structural DNA##
+
 
 Assigned Papers:
-Ke, Y., Ong, L.L., Shih, W.M., and Yin, P. (2012). Three-Dimensional Structures Self-Assembled from DNA Bricks. Science 338, 1177–1183.
-Derr, N.D., Goodman, B.S., Jungmann, R., Leschziner, A.E., Shih, W.M., and Reck-Peterson, S.L. (2012). Tug-of-War in Motor Protein Ensembles Revealed with a Programmable DNA Origami Scaffold. Science 338, 662–665.
 
+- [Ke, Y., Ong, L.L., Shih, W.M., and Yin, P. (2012). Three-Dimensional Structures Self-Assembled from DNA Bricks. Science 338, 1177–1183.](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3843647/)
+- [Derr, N.D., Goodman, B.S., Jungmann, R., Leschziner, A.E., Shih, W.M., and Reck-Peterson, S.L. (2012). Tug-of-War in Motor Protein Ensembles Revealed with a Programmable DNA Origami Scaffold. Science 338, 662–665.](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3840815/)
 
-May 26:	Kristala Prather-Jones	Synthetic Biology and Metabolic Engineering
-Leaders:	           Elijah Martin, Lindsay Osso
-Primary Faculty:	Jaime
+<div class="video-container">
+         <iframe src="//www.youtube.com/embed/Ek-FDPymyyg" frameborder="0" width="280" height="107"></iframe>
+</div>
+
+<div class="video-container">
+         <iframe src="//www.youtube.com/embed/noWkRxKYBhU" frameborder="0" width="280" height="107"></iframe>
+</div>
+
+<div class="video-container">
+         <iframe src="//www.youtube.com/embed/5cmg1oa4-fg" frameborder="0" width="280" height="107"></iframe>
+</div>
+
+#May 26#
+
+- Leaders:	           Elijah Martin, Lindsay Osso
+- Primary Faculty:	Jaime
+
+##Kristala Prather-Jones	Synthetic Biology and Metabolic Engineering##
 
 Assigned Paper:
-Kristala Prather-Jones
-Sheppard MJ, Kunjapur AM, Wenck SJ, Prather KL. Retro-biosynthetic screening of a modular pathway design achieves selective route for microbial synthesis of 4-methyl-pentanol. Nat Commun. 2014. PMID: 25248664
+- [Sheppard MJ, Kunjapur AM, Wenck SJ, Prather KL. Retro-biosynthetic screening of a modular pathway design achieves selective route for microbial synthesis of 4-methyl-pentanol. Nat Commun. 2014. PMID: 25248664](http://www.nature.com/ncomms/2014/140924/ncomms6031/full/ncomms6031.html)
+
+<div class="video-container">
+         <iframe src="//www.youtube.com/embed/ndThuqVumAk" frameborder="0" width="280" height="107"></iframe>
+</div>
+
+<div class="video-container">
+         <iframe src="//www.youtube.com/embed/8m-HAhRcxVo" frameborder="0" width="280" height="107"></iframe>
+</div>
+
 
 May 27:  	Sangeeta Bhatia		Tissue Engineering
 Leaders:	           Karina Perlaza, Brian Yang
