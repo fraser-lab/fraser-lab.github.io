@@ -64,6 +64,21 @@
 #     - name: 'Paper Submission Celebration Photo'
 #       url: 'https://twitter.com/fraser_lab/status/482313979524444161'
 #
+
+- citation: '**Keedy DA**, **Fraser JS**, van den Bedem H. Exposing hidden alternative backbone conformations in X-ray crystallography using qFit. *Submitted - Preprint available on BioRxiv*. 2015.'
+  date: 201505
+  image: '/static/img/pub/keedy_pcb_2015.jpg'
+  pmid: Submitted
+  pmcid: Submitted
+  pdf: 'http://biorxiv.org/content/biorxiv/'
+  links:
+    - name: Henry van den Bedem
+      url: 'https://people.stanford.edu/vdbedem/'
+    - name: qFit webserver
+      url: 'http://smb.slac.stanford.edu/qFitServer/qFit.jsp'
+    - name: qFit code
+      url: 'https://simtk.org/home/qfit'
+
 - citation: 'van den Bedem H, **Fraser JS**. Integrative, Dynamic Structural Biology at Atomic Resolution — It’s About Time. *Nature Methods*. 2015.'
   date: 201504
   image: '/static/img/pub/vdb_2015.jpg'
