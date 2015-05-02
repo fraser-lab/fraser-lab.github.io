@@ -1,6 +1,6 @@
 # THE WEIRDEST BUG: using escapes requires single-quotes instead of double...
 #
-# - citation: 'Fischer M, Shoichet BK, **Fraser JS**. . *Submitted to Nature Chemical Biology*, 2015.'
+# - citation: 'Fischer M, Shoichet BK, **Fraser JS**. . *Submitted to ChemBioChem*, 2015.'
 #   date: 201512
 #   image: '/static/img/pub/fischer_2015.jpg'
 #   pmid: TBD
@@ -78,6 +78,8 @@
       url: 'http://smb.slac.stanford.edu/qFitServer/qFit.jsp'
     - name: qFit code
       url: 'https://simtk.org/home/qfit'
+    - name: Paper Submission Celebration Photo
+      url: 'https://twitter.com/fraser_lab/status/594308094403837952'
 
 - citation: 'van den Bedem H, **Fraser JS**. Integrative, Dynamic Structural Biology at Atomic Resolution — It’s About Time. *Nature Methods*. 2015.'
   date: 201504
