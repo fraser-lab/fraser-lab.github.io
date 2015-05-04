@@ -145,7 +145,7 @@ Assigned Papers:
 
 #May 26#
 
-- Leaders:	           Elijah Martin, Lindsay Osso
+- Leaders:	           Elijah Martin, Tess Veuthey
 - Primary Faculty:	Jaime
 
 ##Kristala Prather-Jones	Synthetic Biology and Metabolic Engineering##
@@ -184,7 +184,7 @@ Assigned Paper:
 
 #May 29#
 
-- Leaders:		Valentina Garcia, Tess Veuthey
+- Leaders:		Valentina Garcia, Lindsay Osso
 - Primary Faculty:	Ron
 
 ##Robert Langer		Biomaterials and Delivery Systems##
