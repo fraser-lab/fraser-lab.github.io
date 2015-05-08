@@ -72,6 +72,8 @@
   pmcid: Submitted
   pdf: 'http://biorxiv.org/content/biorxiv/early/2015/05/04/018879.full.pdf'
   links:
+    - name: Preprint on BioRxiv
+      url: 'http://biorxiv.org/content/early/2015/05/04/018879'
     - name: Henry van den Bedem
       url: 'https://people.stanford.edu/vdbedem/'
     - name: qFit webserver
