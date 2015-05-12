@@ -105,7 +105,7 @@ In **module 3**, #the teams will leverage interactions with Tanja Kortemme and m
 - Python scripting
 - Experimental design and planning
 - Yeast molecular biology
-- Introduction to microscopy
+- Introduction to mass spectrometry
 
 **Class Policies**
 
