@@ -16,7 +16,11 @@ group: pubs
 
 **Location:** Genentech Hall Teaching Lab - Room 227
 
-**Prerequisites:** All incoming first year iPQB and CCB graduate students are required to enroll in this course. **Although TAs, instructors, and your fellow students will be happy to help out, it is important to be familiar with basic scripting and the principles of python PRIOR to starting the class.** This will be covered in bootcamp, but it is also a good idea to get a jump start during the summer (suggestions are listed below).
+**Prerequisites:** All incoming first year iPQB and CCB graduate students are required to enroll in this course.
+
+#Although TAs, instructors, and your fellow students will be happy to help out, it is important to be familiar with basic scripting and the principles of python PRIOR to starting the class.
+
+This will be covered in bootcamp, but it is also a good idea to get a jump start during the summer (suggestions are listed below).
 
 **Grading:** Letter grade
 
@@ -109,7 +113,7 @@ _Absences_: The instructor must be notified by the second week of classes for an
 
 _Accommodations for students with disabilities:_ Please see the instructor as soon as possible if you need particular accommodations, and we will work out the necessary arrangements.
 
-##Lab work, individual presentation schedule, and recommended reading 
+##Lab work, individual presentation schedule, and recommended reading
 
 <!-- **Week 1 – Theme: Ubiquitin and Deep Mutational Profiling**
 
