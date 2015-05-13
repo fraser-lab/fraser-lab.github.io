@@ -14,28 +14,8 @@
 #     - name: Shoichet Lab
 #       url: 'http://shoichetlab.compbio.ucsf.edu/'
 #
-# - citation: 'Dellus-Gur E, Elias M, Caselli E, Prati F, Salverda MLM, de Visser JAGM, **Fraser JS**, Tawfik DS. Negative epistasis and evolvability – the thin line between an enzyme’s conformational freedom and anarchy. *Submitted*, 2014.'
-#   date: 201412
-#   image: 'static/img/pub/eynat_2014.gif'
-#   pmid: TBD
-#   pmcid: In Process
-#   pdf: 'static/pdf/eynat_2014.pdf'
-#   pdbs:
-#      - 4OP5
-#      - 4OP8
-#      - 4OPQ
-#      - 4OPR
-#      - 4OPY
-#      - 4OPZ
-#      - 4OQ0
-#      - 4OQG
-#      - 4OQH
-#      - 4OQI
-#   links:
-#     - name: 'Tawfik Lab'
-#       url: 'http://www.weizmann.ac.il/Biological_Chemistry/scientist/Tawfik/'
 #
-# - citation: 'Thomaston JL, Alfonso-Prieto M, **Woldeyes RA**, **Fraser JS**, Klein ML, Fiorin G, DeGrado WF. High resolution structures of the M2 proton channel from influenza A virus reveal  dynamic pathways for proton stabilization and transduction. *Submitted to Nature Communications*, 2014.'
+# - citation: 'Thomaston JL, Alfonso-Prieto M, **Woldeyes RA**, **Fraser JS**, Klein ML, Fiorin G, DeGrado WF. High resolution structures of the M2 proton channel from influenza A virus reveal  dynamic pathways for proton stabilization and transduction. *Submitted*, 2014.'
 #   date: 201412
 #   image: '/static/img/pub/thomaston_2014.jpg'
 #   pmid: TBD
@@ -64,7 +44,27 @@
 #     - name: 'Paper Submission Celebration Photo'
 #       url: 'https://twitter.com/fraser_lab/status/482313979524444161'
 #
-
+# - citation: 'Dellus-Gur E, Elias M, Caselli E, Prati F, Salverda MLM, de Visser JAGM, **Fraser JS**, Tawfik DS. Negative epistasis and evolvability – the thin line between an enzyme’s conformational freedom and anarchy. *Journal of Molecular Biology*, 2015.'
+#   date: 201505
+#   image: 'static/img/pub/eynat_2015.gif'
+#   pmid: TBD
+#   pmcid: In Process
+#   pdf: 'static/pdf/eynat_2015.pdf'
+#   pdbs:
+#      - 4OP5
+#      - 4OP8
+#      - 4OPQ
+#      - 4OPR
+#      - 4OPY
+#      - 4OPZ
+#      - 4OQ0
+#      - 4OQG
+#      - 4OQH
+#      - 4OQI
+#   links:
+#     - name: 'Tawfik Lab'
+#       url: 'http://www.weizmann.ac.il/Biological_Chemistry/scientist/Tawfik/'
+#
 - citation: '**Keedy DA**, **Fraser JS**, van den Bedem H. Exposing hidden alternative backbone conformations in X-ray crystallography using qFit. *Submitted - Preprint available on BioRxiv*. 2015.'
   date: 201505
   image: '/static/img/pub/keedy_pcb_2015.jpg'
