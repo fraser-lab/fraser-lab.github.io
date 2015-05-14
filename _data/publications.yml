@@ -65,22 +65,22 @@
 #     - name: 'Tawfik Lab'
 #       url: 'http://www.weizmann.ac.il/Biological_Chemistry/scientist/Tawfik/'
 #
--citation: 'Kane JR, Stanley DJ, Hultquist JF, Johnson JR, Mietrach N,
-Binning JM, Jonsson SR, **Barelier S**, Newton BW, Johnson TL,
-Franks-Skiba KE, Li M, Brown WL, Gunnarsson HI, Adalbjornsdottir A, **Fraser JS**, Harris RS, Andresdottir V, Gross JD, Krogan NJ. Lineage-Specific Viral Hijacking of Non-canonical E3 Ubiquitin Ligase Cofactors in the Evolution
-of Vif Anti-APOBEC3 Activity. *Cell Reports*. 2015.'
-  date: 201505
-  image: '/static/img/pub/kane_2015.jpg'
-  pmid: TBD
-  pmcid: In Process
-  pdf: '/static/pdf/kane_2015.pdf'
-  links:
-    - name: Gross Lab
-      url: 'http://grosslab.ucsf.edu/'
-    - name: Krogan Lab
-      url: 'http://kroganlab.ucsf.edu/'
-    - name: HARC Center
-      url: 'http://harc.ucsf.edu/'
+# -citation: 'Kane JR, Stanley DJ, Hultquist JF, Johnson JR, Mietrach N,
+# Binning JM, Jonsson SR, **Barelier S**, Newton BW, Johnson TL,
+# Franks-Skiba KE, Li M, Brown WL, Gunnarsson HI, Adalbjornsdottir A, **Fraser JS**, Harris RS, Andresdottir V, Gross JD, Krogan NJ. Lineage-Specific Viral Hijacking of Non-canonical E3 Ubiquitin Ligase Cofactors in the Evolution
+# of Vif Anti-APOBEC3 Activity. *Cell Reports*. 2015.'
+#   date: 201505
+#   image: '/static/img/pub/kane_2015.jpg'
+#   pmid: TBD
+#   pmcid: In Process
+#   pdf: '/static/pdf/kane_2015.pdf'
+#   links:
+#     - name: Gross Lab
+#       url: 'http://grosslab.ucsf.edu/'
+#     - name: Krogan Lab
+#       url: 'http://kroganlab.ucsf.edu/'
+#     - name: HARC Center
+#       url: 'http://harc.ucsf.edu/'
 
 - citation: '**Keedy DA**, **Fraser JS**, van den Bedem H. Exposing hidden alternative backbone conformations in X-ray crystallography using qFit. *Submitted - Preprint available on BioRxiv*. 2015.'
   date: 201505
