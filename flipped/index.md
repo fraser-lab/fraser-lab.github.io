@@ -43,7 +43,7 @@ If you want to talk to us about preparing your discussion session, please feel f
 
 Assigned Paper:
 
-- [Adamala, K. and Szostak, J.W. (2013). Nonenzymatic template-directed RNA synthesis inside model protocells.  Science 342: 1098-1100.](Nonenzymatic template-directed RNA synthesis inside model protocells)
+- [Adamala, K. and Szostak, J.W. (2013). Nonenzymatic template-directed RNA synthesis inside model protocells.  Science 342: 1098-1100.](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4104020/)
 
 <div class="video-container">
          <iframe src="//www.youtube.com/embed/PqPGOhXoprU" frameborder="0" width="280" height="107"></iframe>
