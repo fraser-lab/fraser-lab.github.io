@@ -12,7 +12,7 @@ group: pubs
 
 **Location:** Genentech Hall S261
 
-**Instructors:** [Ron Vale](Ron.Vale@ucsf.edu) and [James Fraser](jfraser@fraserlab.com);
+**Instructors:** [Ron Vale](mailto:Ron.Vale@ucsf.edu) and [James Fraser](mailto:jfraser@fraserlab.com);
 
 **Course Description:**
 
