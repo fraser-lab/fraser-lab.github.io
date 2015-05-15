@@ -10,7 +10,7 @@ group: pubs
 
 **Course Days/Hours:** 3pm-5pm on May 15, 18, 20, 22, 26, 27, 29
 
-**Location:** Genentech Hall S201
+**Location:** Genentech Hall S261
 
 **Instructors:** [Ron Vale](Ron.Vale@ucsf.edu) and [James Fraser](jfraser@fraserlab.com);
 
