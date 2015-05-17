@@ -48,7 +48,7 @@
     - name: Shoichet Lab
       url: 'http://shoichetlab.compbio.ucsf.edu/'
 
-- citation: 'Dellus-Gur E, Elias M, Caselli E, Prati F, Salverda MLM, de Visser JAGM, **Fraser JS**, Tawfik DS. Negative epistasis and evolvability – the thin line between an enzyme’s conformational freedom and anarchy. *Journal of Molecular Biology*. 2015.'
+- citation: 'Dellus-Gur E, Elias M, Caselli E, Prati F, Salverda MLM, de Visser JAGM, **Fraser JS**, Tawfik DS. Negative epistasis and evolvability in TEM-1 &#946-lactamase – The thin line between an enzyme’s conformational freedom and disorder. *Journal of Molecular Biology*. 2015.'
   date: 201505
   image: '/static/img/pub/dellus_gur_2015.gif'
   pmid: TBD
