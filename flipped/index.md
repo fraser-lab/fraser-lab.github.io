@@ -76,6 +76,8 @@ Assigned Paper:
          <iframe src="//www.youtube.com/embed/OEuD7j1PALI" frameborder="0" width="280" height="107"></iframe>
 </div>
 
+- Discussion Questions: [Szostak and Newman](/static/pdf/flipped/szostak_newman.pdf)
+
 #May 18#
 
 - Leaders:	           Aditya Anand, Lynn Wang
@@ -94,6 +96,8 @@ Assigned Paper:
 <div class="video-container">
          <iframe src="//www.youtube.com/embed/ZrAwWx7meTk" frameborder="0" width="280" height="107"></iframe>
 </div>
+
+- Discussion Questions: [David Baker](/static/pdf/flipped/baker.pdf)
 
 #May 20#
 
