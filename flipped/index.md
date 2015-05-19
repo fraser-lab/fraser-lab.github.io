@@ -121,6 +121,8 @@ Assigned Paper:
 <div class="video-container">
          <iframe src="//www.youtube.com/embed/hjXUEqBDxmY" frameborder="0" width="280" height="107"></iframe>
 </div>
+- Discussion Questions: [Chaitan Khosla](/static/pdf/flipped/khosla.pdf)
+
 
 #May 22#
 
