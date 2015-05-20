@@ -101,7 +101,7 @@ Assigned Paper:
 
 #May 20#
 
-- Leaders:	           Ben Barsi-Rhyne, Beck Anderson
+- Leaders:	           Ben Barsi-Rhyne, Becky Anderson
 - Primary Faculty:	Jaime
 
 ##Chaitan Khosla - Polyketide Assembly Lines##
@@ -126,7 +126,7 @@ Assigned Paper:
 
 #May 22#
 
-- Leaders:    	      Juan Perez, Karen Cheng
+- Leaders:    	      Karen Cheng
 - Primary Faculty:  Ron
 
 ##William Shih - Nanofabrication via Structural DNA##
