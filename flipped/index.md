@@ -149,6 +149,9 @@ Assigned Papers:
          <iframe src="//www.youtube.com/embed/5cmg1oa4-fg" frameborder="0" width="280" height="107"></iframe>
 </div>
 
+- Discussion Questions: [William Shih](/static/pdf/flipped/shih.pdf)
+
+
 #May 26#
 
 - Leaders:	           Elijah Martin, Tess Veuthey
