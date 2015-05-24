@@ -171,12 +171,12 @@ Franks-Skiba KE, Li M, Brown WL, Gunnarsson HI, Adalbjornsdottir A, **Fraser JS*
     - name: 'Paper Submission Celebration Photo'
       url: 'https://twitter.com/fraser_lab/status/545387123688214528'
 
-- citation: '**Van Benschoten AH**, Afonine PV, Terwilliger TC, Wall ME, Jackson CJ, Sauter NK, Adams PD, Urzhumtsev A, **Fraser JS**. Predicting X-ray Diffuse Scattering from Translation Libration Screw Structural Ensembles. *Submitted - Preprint available on BioRxiv*. 2015.'
+- citation: '**Van Benschoten AH**, Afonine PV, Terwilliger TC, Wall ME, Jackson CJ, Sauter NK, Adams PD, Urzhumtsev A, **Fraser JS**. Predicting X-ray Diffuse Scattering from Translation Libration Screw Structural Ensembles. *Acta Crystallographica D*. 2015.'
   date: 201503
   image: '/static/img/pub/avb_1_2015.jpg'
-  pmid: Submitted
-  pmcid: Submitted
-  pdf: '/static/pdf/avb_1_2015.pdf'
+  pmid: TBD
+  pmcid: In Process
+  pdf: In press
   links:
     - name: Preprint on BioRxiv
       url: 'http://biorxiv.org/content/early/2015/01/02/012955'
