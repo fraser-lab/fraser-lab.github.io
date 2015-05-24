@@ -170,6 +170,7 @@ Assigned Paper:
          <iframe src="//www.youtube.com/embed/8m-HAhRcxVo" frameborder="0" width="280" height="107"></iframe>
 </div>
 
+- Discussion Questions: [Kristala Prather](/static/pdf/flipped/prather.pdf)
 
 #May 27#
 
