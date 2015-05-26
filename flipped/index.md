@@ -191,6 +191,8 @@ Assigned Paper:
          <iframe src="//www.youtube.com/embed/JHXPxAkYrQ8" frameborder="0" width="280" height="107"></iframe>
 </div>
 
+- Discussion Questions: [Sangeeta Bhatia](/static/pdf/flipped/bhatia.pdf)
+
 
 #May 29#
 
