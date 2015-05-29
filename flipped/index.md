@@ -215,6 +215,7 @@ Assigned paper:
 <div class="video-container">
          <iframe src="//www.youtube.com/embed/ZOgobBrGYVM" frameborder="0" width="280" height="107"></iframe>
 </div>
+- Discussion Questions: [Robert Langer](/static/pdf/flipped/langer.pdf)
 
 ##Desai/Bhisitkul	Advancing the Treatment of Retinal Disease##
 
