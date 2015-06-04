@@ -53,7 +53,7 @@
   image: '/static/img/pub/dellus_gur_2015.gif'
   pmid: 26004540
   pmcid: In Process
-  pdf: In press #'static/pdf/eynat_2015.pdf'
+  pdf: 'static/pdf/gur_2015.pdf'
   pdbs:
      - 4OP5
      - 4OP8
