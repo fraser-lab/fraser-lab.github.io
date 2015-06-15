@@ -34,7 +34,7 @@
   image: '/static/img/pub/fischer_2015.jpg'
   pmid: TBD
   pmcid: In Process
-  pdf: In press #'/static/pdf/fischer_2015.pdf'
+  pdf: '/static/pdf/fischer_2015.pdf'
   pdbs:
     - 4XV7
     - 4XV6
