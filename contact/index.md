@@ -48,10 +48,9 @@ group: contact
   * **[Pharmaceutical Sciences and Pharmacogenomics](http://pspg.ucsf.edu/)**: The Pharmaceutical Sciences and Pharmacogenomics (PSPG) Graduate Program at the University of California, San Francisco (UCSF) focuses on how to develop effective drug therapies for patients that have a minimum of adverse effects.
   * **[Tetrad](http://tetrad.ucsf.edu/)**: The Tetrad graduate program offers diverse training in Biochemistry & Molecular Biology, Cell Biology, Developmental Biology, & Genetics.
 
-***
   # Postdoctoral Fellows
 
-  ###Inquiries about Postdoctoral positions should be emailed directly to James Fraser and clearly, but briefly, articulate why you are potentially interested in joining the lab. Candidates will be encouraged to explore applying for extramural fellowships to support their research. 
+###Inquiries about Postdoctoral positions should be emailed directly to James Fraser and clearly, but briefly, articulate why you are potentially interested in joining the lab. Candidates will be encouraged to explore applying for extramural fellowships to support their research.
 
 ***
 # Directions to the Fraser Lab
