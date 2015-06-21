@@ -12,7 +12,7 @@ group: contact
 <div class="col-md-4">
 
   <h4>Lab Area </h4>
-  tel: 415 502 348 eight 
+  tel: 415 502 348 eight
 
 </div>
 
@@ -33,7 +33,7 @@ group: contact
   Administrative Assistant to Drs. Patricia Babbitt, Tanja Kortemme, and James Fraser<br>
   Department of Bioengineering and Therapeutic Sciences  <br>
   Email: joslyn.polzien (at) ucsf.edu  <br>
-  Phone: 415 514 121 four   <br> 
+  Phone: 415 514 121 four   <br>
 
 </div>
 
@@ -47,6 +47,11 @@ group: contact
   * **[Chemistry and Chemical Biology](http://ccb.ucsf.edu/)**: The Chemistry and Chemical Biology Graduate Program (CCB) at the University of California, San Francisco (UCSF) prepares scientists to address problems at the intersection of chemistry and biology by providing a chemical foundation for understanding complex biological processes at an atomic level.
   * **[Pharmaceutical Sciences and Pharmacogenomics](http://pspg.ucsf.edu/)**: The Pharmaceutical Sciences and Pharmacogenomics (PSPG) Graduate Program at the University of California, San Francisco (UCSF) focuses on how to develop effective drug therapies for patients that have a minimum of adverse effects.
   * **[Tetrad](http://tetrad.ucsf.edu/)**: The Tetrad graduate program offers diverse training in Biochemistry & Molecular Biology, Cell Biology, Developmental Biology, & Genetics.
+
+***
+  # Postdoctoral Fellows
+
+  ###Inquiries about Postdoctoral positions should be emailed directly to James Fraser and clearly, but briefly, articulate why you are potentially interested in joining the lab. Candidates will be encouraged to explore applying for extramural fellowships to support their research. 
 
 ***
 # Directions to the Fraser Lab
