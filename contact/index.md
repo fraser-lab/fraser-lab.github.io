@@ -61,10 +61,9 @@ Inquiries about Postdoctoral positions should be emailed directly to James Frase
 
 <h4>Office Address</h4>
 
-Genentech Hall Room S472E<br>
-UCSF Mail Code 2240<br>
-600 16th Street<br>
-San Francisco, CA 94158
+Department of Bioengineering and Therapeutic Sciences Box #2240<br>
+600 16th Street, Genentech Hall Room S472E<br>
+San Francisco, CA 94143
 
 
 </div>
@@ -73,10 +72,9 @@ San Francisco, CA 94158
 
 <h4>Lab Address</h4>
 
-Genentech Hall Room S476<br>
-UCSF Mail Code 2240<br>
-600 16th Street<br>
-San Francisco, CA 94158
+Department of Bioengineering and Therapeutic Sciences Box #2240<br>
+600 16th Street, Genentech Hall Room S476<br>
+San Francisco, CA 94143
 
 </div>
 
