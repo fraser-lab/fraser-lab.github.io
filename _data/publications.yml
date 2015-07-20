@@ -17,7 +17,17 @@
 #     - name: 'DeGrado Lab'
 #       url: 'http://www.degradolab.org/'
 #
-#
+# - citation: 'Petek N, Kraemer J, Derman A, **Fraser JS**, DiMaio F, Baker D,  Pogliano J, Agard D, Mullins RD.Structure and function of actin-like protein Alp7A reveal conserved and unique features of actin-based plasmid segregation. *Submitted*, 2015.'
+#   date: 201507
+#   image: '/static/img/pub/petek_2015.jpg'
+#   pmid: TBD
+#   pmcid: In Process
+#   pdf: '/static/pdf/petek_2015.pdf'
+#   pdbs:
+#     - 5XXX
+#   links:
+#     - name: 'Mullins Lab'
+#       url: 'http://mullinslab.ucsf.edu/'
 #
 # - citation: 'Cimermancic P...**Keedy DA**, **Woldeyes RA**, **Fraser JS**, Sali A. Cryptic Sites. *TBD*. 2014.'
 #   date: 201412
