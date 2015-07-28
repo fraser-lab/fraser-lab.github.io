@@ -177,7 +177,7 @@ Franks-Skiba KE, Li M, Brown WL, Gunnarsson HI, Adalbjornsdottir A, **Fraser JS*
   image: '/static/img/pub/avb_2_2015.jpg'
   pmid: In press
   pmcid: In process
-  pdf: In press
+  pdf: '/static/pdf/avb_2_2015.pdf'
   links:
     - name: Preprint on BioRxiv
       url: 'http://biorxiv.org/content/early/2015/01/02/012930'
@@ -189,7 +189,7 @@ Franks-Skiba KE, Li M, Brown WL, Gunnarsson HI, Adalbjornsdottir A, **Fraser JS*
   image: '/static/img/pub/avb_1_2015.jpg'
   pmid: In press
   pmcid: In process
-  pdf: In press
+  pdf: '/static/pdf/avb_1_2015.pdf'
   links:
     - name: Preprint on BioRxiv
       url: 'http://biorxiv.org/content/early/2015/01/02/012955'
