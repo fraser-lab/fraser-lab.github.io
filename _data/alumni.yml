@@ -1,7 +1,12 @@
+- name: Saul Cortez
+  position: Summer Student
+  enddate: Summer 2015
+  current: High School Student at Lincoln
+
 - name: Eugene Palovcak
   position: Rotation Student
   enddate: Spring 2015
-  current: Graduate Student - Cheng Lab @ UCSF 
+  current: Graduate Student - Cheng Lab @ UCSF
 
 - name: Evan Green
   position: Rotation Student
@@ -15,8 +20,8 @@
 
 - name: Jennifer Li
   position: Summer Student/Artist-in-Residence
-  enddate: Summer 2014
-  current: High School Student at Lowell
+  enddate: Summer 2014 & 2015
+  current: Undergraduate @ UC Davis
 
 - name: Lillian Kenner
   position: Specialist

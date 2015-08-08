@@ -89,7 +89,7 @@
   email: eposs (at) fraserlab.com
   twitter: "ernpossible"
   description: "Erin graduated from Drake University with a degree in Biochemistry and Chemistry.  As an undergraduate, Erin worked in several labs ranging from exercise physiology to biophysics. In her free time, she enjoys running, hiking, and exploring San Francisco."
-  
+
 - name: Andrew VanBenschoten
   image: /static/img/members/avanbenschoten.jpg
   position: Graduate Student
@@ -102,6 +102,7 @@
   image: /static/img/members/rwoldeyes.jpg
   position: Graduate Student
   email: rahel.woldeyes (at) ucsf.edu
+  scholar: kFoaho8AAAAJ
   twitter: "rahelwoldeyes"
   description: "Rahel graduated from University of Minnesota – Twin cities with B.S in Biochemistry and Chemistry. As an undergraduate student, she worked in several labs on projects ranging from cell to structural biology. In the Fraser lab, Rahel will be studying the structure-dynamics-function relationships of proteins and protein-ligand complexes using a combination of room temperature X-ray Crystallography and NMR approaches. Furthermore, she will be developing and implementing methods to dissect allostery in drug targets."
 # Rotation Students
