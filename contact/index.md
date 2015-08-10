@@ -33,7 +33,7 @@ group: contact
   Administrative Assistant to Drs. Michael Fischbach and James Fraser<br>
   Department of Bioengineering and Therapeutic Sciences  <br>
   Email: Eleanor.Rono (at) ucsf.edu  <br>
-  Phone: 415 514 121 four   <br>
+  Phone: 415 514 486 one   <br>
 
 </div>
 
