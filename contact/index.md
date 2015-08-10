@@ -29,10 +29,10 @@ group: contact
 
 <div class="col-md-4">
 
-  <h4> Joslyn Polzien</h4>
-  Administrative Assistant to Drs. Patricia Babbitt, Tanja Kortemme, and James Fraser<br>
+  <h4> Eleanor Rono</h4>
+  Administrative Assistant to Drs. Michael Fischbach and James Fraser<br>
   Department of Bioengineering and Therapeutic Sciences  <br>
-  Email: joslyn.polzien (at) ucsf.edu  <br>
+  Email: Eleanor.Rono (at) ucsf.edu  <br>
   Phone: 415 514 121 four   <br>
 
 </div>
