@@ -19,6 +19,9 @@ group: publications
 			{% if publication.pmcid %}
 			<li>PMCID: <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/{{publication.pmcid}}" alt = "pubmed central link: {{publication.pmcid}}"> {{publication.pmcid}}</a></li>
 			{% endif %}
+			{% if publication.biorxiv %}
+			<li>Biorxiv Preprint: <a href="http://dx.doi.org/10.1101/{{publication.biorxiv}}" alt = "biorxiv prepring link: {{publication.pmcid}}"> {{publication.biorxiv}}</a></li>
+			{% endif %}
 			<li><a href="{{publication.pdf}}" alt = "PDF"> Full Text</a></li>
 			{% if publication.pdbs %}
 			<li>Deposited Structure{% if publication.pdbs.size > 1 %}s{% endif %}: 
