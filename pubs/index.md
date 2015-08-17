@@ -186,10 +186,22 @@ Other Class Material:
 
 **Week 6 – Theme: Preparation for sequencing**
 
+#NSF GRFP due this week!
+
 _Lab work: Molecular biology to isolate library_
 
 Lecturers: Nadav Ahituv (10/27)
 
-Student Presentations:
+Student Presentations: Student #13 (Yeast Miniprep protocol, 10/26), Student #14 (Barcode explanation and assigment to teams, 10/26), Student #15 (PCR 1, gel extraction, and PCR 2, 10/27), Student 16 (PCR cleanup and QBIT, 10/28)
 
 Other Class Material:
+
+- [Yeast Miniprep protocol](https://docs.google.com/document/d/1zk_h_pS1Ikb1VfqSSx_ePHROVGu3dl55mJ_NSeYw3ss/edit?usp=sharing)
+- [Illustrated Yeast Miniprep protocol](https://drive.google.com/file/d/0Bx0d95RwVYufLURGVWdpQnNYeUE/view?usp=sharing)
+- Team and Time Specific Barcodes
+- [Library PCR protocol](https://docs.google.com/document/d/1KUXhrxh-QxumFcgfjUVXTdYNZq_956ZQ11zpUSxtGR0/edit?usp=sharing)
+- [Gel extraction protocol](https://drive.google.com/file/d/0Bx0d95RwVYufb2MtUml0SU5OWms/view?usp=sharing)
+- [Barcode Addition PCR protocol](https://docs.google.com/document/d/1US4qYUKqMY-s9H_ifFyWCCDQJfykd8Xmz4RwA8EBO7w/edit?usp=sharing)
+- [PCR cleanup protocol](https://drive.google.com/file/d/0Bx0d95RwVYufSGtfMXNZUjRXN3c/view?usp=sharing)
+- [QBit Protocol](https://drive.google.com/file/d/0Bx0d95RwVYufM0xhZ01USllneHM/view?usp=sharing)
+- Final Library Hand-off Instructions
