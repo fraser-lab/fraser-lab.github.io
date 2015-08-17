@@ -45,18 +45,13 @@ This will be covered in bootcamp, but it is also a good idea to get a jump start
 
 **Lecturers/Facilitators:**
 
-James Fraser, Danielle Swaney, Joe DeRisi, Martin Kampmann,... more to come
-<!-- Hiten Madhani, Michael Keiser,
-Sourav Bandyopadhyay, Jessica Lund, Eric Chow, Nadav Ahituv,
-Ryan Hernandez, Elaine Meng, Bo Huang, David Morgan, Jason Gestwicki,
-Kurt Thorn, Steven Altschuler, Lani Wu, Tanja Kortemme, Wendell Lim,
-Adam Abate, Matthew Thomson, Dave Toczyski -->
+James Fraser, David Mavor, Danielle Swaney, Joe DeRisi, Martin Kampmann, Hiten Madhani, David Morgan, Jason Gestwicki, Eric Chow, Nadav Ahituv, Ryan Hernandez, Bo Huang, Justin Biel, Tanja Kortemme, Kyle Barlow
 
 **Important Dates:**
 
-- Mass Spectrometry Presentation: Wednesday, October 14th
-- NSF GRFP due???  (Chemistry) (Life Sciences)
-- Deep Sequencing/Final presentations: Monday, November 23rd
+- Mass Spectrometry Presentation: Monday, October 12th
+- NSF GRFP due Monday, October 26 (Life Sciences) and Friday, October 30 (Chemistry)
+- Final presentations: Monday, November 23rd
 
 **Background:**
 
@@ -70,17 +65,9 @@ Ultimately, the goal is the synthesis of predictive models that can reveal funda
 
 The course is a hands-on, project-based course that integrates proteomics, deep mutational profiling [(Fowler and Fields, _Nature Methods_, 2014)](http://www.ncbi.nlm.nih.gov/pubmed/25075907), and computational biology. The model organism, _Saccharomyces cerevisiae_, will be used as the organismal basis. Our goals are to experimentally determine the kinases responsible for phosphorylating ubiquitin and to measure the fitness of all possible individual point mutants of ubiquitin. Ubiquitin is an essential protein that is a key cellular integrator of stress, under a variety of experimental perturbations. The library of these point mutants was assembled by [Dan Bolon](http://profiles.umassmed.edu/profiles/display/133553) and verified during a summer visit to the Fraser lab. The course is organized around modules, described below. Each hands-on module will be accompanied by lectures (either "chalk talk" or with slides). Students will present short talks to the class covering the assigned protocols or summarizing literature related to the class.   In addition students are expected to conduct their own literature reviews during the course of the project. Students will work in small teams, and each team will be assigned a different set of kinases for initial analysis. Based on the results, the teams will design a perturbation experiment for deep sequencing.  Students are expected to remain in their teams for the duration of the course, although team-team collaboration is highly encouraged. All team members are expected to participate in each activity.
 
-At the conclusion of the mass spec module and at the end of the class, each team will orally present their findings to the class and faculty, limited to 15 minutes and 15 slides maximum, with 10 minutes for discussion and questions. All members of the team are expected to speak and describe their contributions. These presentations are currently scheduled for Oct 14th and Nov 23rd, the final day of class.
+At the conclusion of the mass spec module and at the end of the class, each team will orally present their findings to the class and faculty, limited to 15 minutes and 15 slides maximum, with 10 minutes for discussion and questions. All members of the team are expected to speak and describe their contributions. These presentations are currently scheduled for Oct 12th and Nov 23rd, the final day of class.
 
 Activities and speakers for each week will be announced at the beginning of each module.
-
-<!-- **Module 1.** *Sept 29th – Oct 22nd*. Ultra-deep sequencing, and chemical genomics.
-
-**Module 2.** *Oct 27th – Nov 5th*. Ensemble vs. single observation measurements.
-
-**Module 3.** *Nov 10th – Nov 24th*. Computational biology and evolutionary constraints. -->
-
-
 
 **Course Goals:**
 
@@ -94,11 +81,11 @@ Students should be comfortable with basic syntax and scripting prior to the star
 
 **Although TAs, instructors, and your fellow students will be happy to help out, it is important to be familiar with basic scripting and the principles of python PRIOR to starting the class.**
 
-<!-- In **module 1**, #each team will be provided an "unknown" chemical perturbation. Using deep mutational profiling, each team will measure the fitness of all possible individual point mutants of ubiquitin, an essential protein that is a key cellular integrator of stress. Upon processing the sequencing data, each team willperform comparisons against a reference dataset.
+In **module 1**, teams will be given a yeast strain with a single protein kinase gene deletion. Mass spectrometry will be used to identify changes in the phosphoproteome and, in particular, to evaluate any changes in phosphorylation of the protein Ubiquitin.
 
-In **module 2**, #teams will compare their data against the datasets of other teams and perform microscopy experiments to determine whether their stress response elicits a multimodal response in growth rate. This module will reinforce core concepts of ensemble vs. single observation measurements at many levels of biophysics and systems biology.
+In **module 2**, each team will select a chemical perturbation. Using deep mutational profiling, each team will measure the fitness of all possible individual point mutants of Ubiquitin, an essential protein that is a key cellular integrator of stress. Upon processing the sequencing data, each team will perform comparisons against a reference dataset.
 
-In **module 3**, #the teams will leverage interactions with Tanja Kortemme and members of her lab to perform protein design protocols to predict sequences optimized for multiple criteria. They will test how well their deep sequencing data matches with protein design profiles generated under different constraints such as: protein stability or maintaining interactions with specific mediators of stress responses. For the final presentations, teams will explain the unique features of their Ubiquitin mutant profile by grounding their analysis in specific protein-protein interactions along branches of the cellular proteostasis network. -->
+In **module 3**, the teams will leverage interactions with Tanja Kortemme and members of her lab to perform protein design protocols to predict sequences optimized for multiple criteria. They will test how well their deep sequencing data matches with protein design profiles generated under different constraints such as: protein stability or maintaining interactions with specific mediators of stress responses.
 
 **Student Learning Objectives**
 
@@ -343,65 +330,4 @@ Recommended reading:
 - [(David et al., 2013)](http://www.ncbi.nlm.nih.gov/pubmed/24336217)
 - [(Haiser et al., 2013)](http://www.ncbi.nlm.nih.gov/pubmed/?term=23869020)
 - [(Stelter and Ulrich, 2003)](http://www.ncbi.nlm.nih.gov/pubmed/12968183)
-
-**References:**
-
-Adzhubei, I.A., Schmidt, S., Peshkin, L., Ramensky, V.E., Gerasimova, A., Bork, P., Kondrashov, A.S., and Sunyaev, S.R. (2010). A method and server for predicting damaging missense mutations. Nat Meth _7_, 248–249.
-
-Aghajan, M., Jonai, N., Flick, K., Fu, F., Luo, M., Cai, X., Ouni, I., Pierce, N., Tang, X., Lomenick, B., et al. (2010). Chemical genetics screen for enhancers of rapamycin identifies a specific inhibitor of an SCF family E3 ubiquitin ligase. Nat. Biotechnol. _28_, 738–742.
-
-Agresti, J.J., Antipov, E., Abate, A.R., Ahn, K., Rowat, A.C., Baret, J.C., Marquez, M., Klibanov, A.M., Griffiths, A.D., and Weitz, D.A. (2010). Ultrahigh-throughput screening in drop-based microfluidics for directed evolution. Proceedings of the National Academy of Sciences _107_, 4004–4009.
-
-Araya, C.L., Fowler, D.M., Chen, W., Muniez, I., Kelly, J.W., and Fields, S. (2012). A fundamental protein property, thermodynamic stability, revealed solely from large-scale measurements of protein function. Proc. Natl. Acad. Sci. U.S.a. _109_, 16858–16863.
-
-Bandyopadhyay, S., Mehta, M., Kuo, D., Sung, M.K., Chuang, R., Jaehnig, E.J., Bodenmiller, B., Licon, K., Copeland, W., Shales, M., et al. (2010). Rewiring of Genetic Networks in Response to DNA Damage. Science _330_, 1385–1389.
-
-Bystrykh LV (2012) Generalized DNA Barcode Design Based on Hamming Codes. PLoS ONE 7(5): e36852. doi:10.1371/journal.pone.0036852
-
-David, L.A., Maurice, C.M., Carmody, R.N., Gootenberg, D.B., Button, J.E., Wolfe, B.E., Ling, A.V., Devlin, A.S., Varma, Y., Fischbach, M.A., Biddinger, S.B., Dutton, R.J., and P.J. Turnbaugh. Diet rapidly and reproducibly alters the human gut microbiome. Nature, Epub ahead of print, Nov 2013. doi:10.1038/nature12820.
-
-Finley, D., Ulrich, H.D., Sommer, T., and Kaiser, P. (2012). The Ubiquitin-Proteasome System of Saccharomyces cerevisiae. Genetics _192_, 319–360.
-
-Fowler, D.M., and Fields, S. (2014). Deep mutational scanning: a new style of protein science. Nat Meth _11_, 801–807.
-
-Gestwicki, J.E., and Garza, D. (2012). Protein Quality Control in Neurodegenerative Disease. In Molecular Biology of Neurodegenerative Diseases, (Elsevier), pp. 327–353.
-
-Haiser, H.J., Gootenberg, D.B., Chatman, K., Sirasani, G., Balskus, E.P., and P.J. Turnbaugh. (2013) Predicting and manipulating cardiac drug inactivation by the human gut bacterium Eggerthella lenta. Science 341, 295-298.
-
-Humphris EL, Kortemme T. (2007). Design of multi-specificity in protein interfaces. PLoS Comput Biol. 2007 3(8):e164.
-
-Kellogg EH, Leaver-Fay A, Baker D. (2011). Role of conformational sampling in computing mutation-induced changes in protein structure and stability. 79(3):830-8.
-
-Leaver-Fay, A., Tyka, M., Lewis, S.M., Lange, O.F., Thompson, J., Jacak, R., Kaufman, K.W., Renfrew, P.D., Smith, C.A., Sheffler, W., et al. (2011). Rosetta3. In Computer Methods, Part C, (Elsevier), pp. 545–574.
-
-Lemieux, G.A., Keiser, M.J., Sassano, M.F., Laggner, C., Mayer, F., Bainton, R.J., Werb, Z., Roth, B.L., Shoichet, B.K., and Ashrafi, K. (2013). In Silico Molecular Comparisons of C. elegans and Mammalian Pharmacology Identify Distinct Targets That Regulate Feeding. PLoS Biol _11_, e1001712.
-
-Mandell D.J., and Kortemme, T. Computer-aided design of functional protein interactions. (2009). Nat Chem Biol. _5_797-807.
-
-McLaughlin, R.N., Jr, Poelwijk, F.J., Raman, A., Gosal, W.S., and Ranganathan, R. (2012). The spatial architecture of protein function and adaptation. Nature _491_, 138–142.
-
-Ollikainen, N., Smith, C.A., Fraser, J.S., and Kortemme, T. (2013). Flexible Backbone Sampling Methods to Model and Design Protein Alternative Conformations. In Methods in Protein Design, (Elsevier), pp. 61–85.
-
-Pei, J., and Grishin, N.V. (2001). AL2CO: calculation of positional conservation in a protein sequence alignment. Bioinformatics _17_, 700–712.
-
-Phillips, A.H., Zhang, Y., Cunningham, C.N., Zhou, L., Forrest, W.F., Liu, P.S., Steffek, M., Lee, J., Tam, C., Helgason, E., et al. (2013). Conformational dynamics control ubiquitin-deubiquitinase interactions and influence in vivo signaling. Proceedings of the National Academy of Sciences _110_, 11379–11384.
-
-Pollock, D.D., Thiltgen, G., and Goldstein, R.A. (2012). Amino acid coevolution induces an evolutionary Stokes shift. Proceedings of the National Academy of Sciences _109_, E1352–E1359.
-
-Rajaram, S., Pavie, B., Wu, L.F., and Altschuler, S.J. (2012). PhenoRipper: software for rapidly profiling microscopy images. Nat Meth _9_, 635–637.
-
-Rodrigo-Brenni, M.C., Foster, S.A., and Morgan, D.O. (2010). Catalysis of Lysine 48-Specific Ubiquitin Chain Assembly by Residues in E2 and Ubiquitin. Mol. Cell _39_, 548–559.
-
-Roscoe, B.P., Thayer, K.M., Zeldovich, K.B., Fushman, D., and Bolon, D.N.A. (2013). Analyses of the Effects of All Ubiquitin Point Mutants on Yeast Growth Rate. J. Mol. Biol. _425_, 1363–1377.
-
-Smith, R.P., Taher, L., Patwardhan, R.P., Kim, M.J., Inoue, F., Shendure, J., Ovcharenko, I., and Ahituv, N. (2013). Massively parallel decoding of mammalian regulatory sequences supports a flexible organizational model. Nature Genetics 1–10.
-
-Sowa, M.E., Bennett, E.J., Gygi, S.P., and Harper, J.W. (2009). Defining the Human Deubiquitinating Enzyme Interaction Landscape. Cell _138_, 389–403.
-
-Stelter, P., and Ulrich, H.D. (2003). Control of spontaneous and damage-induced mutagenesis by SUMO and ubiquitin conjugation. Nature _425_, 188–191.
-
-Tinoco, I., and Gonzalez, R.L. (2011). Biological mechanisms, one molecule at a time. Genes Dev. _25_, 1205–1231.
-
-van Wijk SJ, Fiskin E, Putyrski M, Pampaloni F, Hou J, Wild P, Kensche T, Grecco HE, Bastiaens P, and Dikic I. (2012) Fluorescence-based sensors to monitor localization and functions of linear and K63-linked ubiquitin chains in cells. Molecular Cell. _14_, 797-809.
-
-Ye Y, Blaser G, Horrocks MH, Ruedas-Rama MJ, Ibrahim S, Zhukov AA, Orte A, Klenerman D, Jackson SE, and Komander D. (2012). Ubiquitin chain conformation regulates recognition and activity of interacting proteins. Nature _492_, 266-70 -->
+ -->
