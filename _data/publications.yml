@@ -159,7 +159,7 @@ Franks-Skiba KE, Li M, Brown WL, Gunnarsson HI, Adalbjornsdottir A, **Fraser JS*
   image: '/static/img/pub/bab_1_2015.jpg'
   pmid: In press
   pmcid: In process
-  pdf: In press
+  pdf: '/static/pdf/barad_2015.pdf'
   pdbs:
     - 3J9I
     - 3J9J
