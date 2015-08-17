@@ -102,10 +102,9 @@ Franks-Skiba KE, Li M, Brown WL, Gunnarsson HI, Adalbjornsdottir A, **Fraser JS*
   image: '/static/img/pub/keedy_pcb_2015.jpg'
   pmid: In press
   pmcid: In process
+  biorxiv: 018879
   pdf: In press
   links:
-    - name: Preprint on BioRxiv
-      url: 'http://biorxiv.org/content/early/2015/05/04/018879'
     - name: Henry van den Bedem
       url: 'https://people.stanford.edu/vdbedem/'
     - name: qFit webserver
@@ -130,6 +129,7 @@ Franks-Skiba KE, Li M, Brown WL, Gunnarsson HI, Adalbjornsdottir A, **Fraser JS*
   image: '/static/img/pub/keedy_1_2015.png'
   pmid: Submitted
   pmcid: Submitted
+  biorxiv: "016733"
   pdf: 'http://biorxiv.org/content/biorxiv/early/2015/03/19/016733.full.pdf'
   pdbs:
     - 4YUG
@@ -143,8 +143,6 @@ Franks-Skiba KE, Li M, Brown WL, Gunnarsson HI, Adalbjornsdottir A, **Fraser JS*
     - 4YUO
     - 4YUP
   links:
-    - name: Preprint on BioRxiv
-      url: 'http://biorxiv.org/content/early/2015/03/19/016733'
     - name: Paper Submission Celebration Photo
       url: 'https://twitter.com/fraser_lab/status/578354918529994752'
     - name: LCLS XPP Beamline
@@ -158,14 +156,13 @@ Franks-Skiba KE, Li M, Brown WL, Gunnarsson HI, Adalbjornsdottir A, **Fraser JS*
   date: 201503
   image: '/static/img/pub/bab_1_2015.jpg'
   pmid: In press
+  biorxiv: 014738
   pmcid: In process
   pdf: '/static/pdf/barad_2015.pdf'
   pdbs:
     - 3J9I
     - 3J9J
   links:
-    - name: Preprint on BioRxiv
-      url: 'http://biorxiv.org/content/early/2015/02/03/014738'
     - name: Paper Submission Celebration Photo
       url: 'https://twitter.com/fraser_lab/status/562799246689460224'
     - name: EMRinger Code on Github
@@ -177,10 +174,9 @@ Franks-Skiba KE, Li M, Brown WL, Gunnarsson HI, Adalbjornsdottir A, **Fraser JS*
   image: '/static/img/pub/avb_2_2015.jpg'
   pmid: 26249348
   pmcid: In process
+  biorxiv: 012930
   pdf: '/static/pdf/avb_2_2015.pdf'
   links:
-    - name: Preprint on BioRxiv
-      url: 'http://biorxiv.org/content/early/2015/01/02/012930'
     - name: 'Paper Submission Celebration Photo'
       url: 'https://twitter.com/fraser_lab/status/545387123688214528'
 
@@ -189,10 +185,9 @@ Franks-Skiba KE, Li M, Brown WL, Gunnarsson HI, Adalbjornsdottir A, **Fraser JS*
   image: '/static/img/pub/avb_1_2015.jpg'
   pmid: 26249347
   pmcid: In process
+  biorxiv: 012955
   pdf: '/static/pdf/avb_1_2015.pdf'
   links:
-    - name: Preprint on BioRxiv
-      url: 'http://biorxiv.org/content/early/2015/01/02/012955'
     - name: 'Paper Submission Celebration Photo'
       url: 'https://twitter.com/fraser_lab/status/545387123688214528'
 
