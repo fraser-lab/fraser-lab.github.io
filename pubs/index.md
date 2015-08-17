@@ -119,7 +119,7 @@ Recommended reading:
 
 - [(Fowler and Fields, 2014)](http://www.ncbi.nlm.nih.gov/pubmed/25075907)
 - [(Finley et al., 2012)](http://www.ncbi.nlm.nih.gov/pubmed/23028185)
-- [(Roscoe et al., 2013)](http://www.ncbi.nlm.nih.gov/pubmed/23376099)
+
 
 Files for Computation:
 
@@ -149,3 +149,47 @@ Other Class Material:
 - IMAC-lyophylize protocl (9/30)
 
 **Week 3 – Theme: Mass Spec Bioinformatics**
+
+
+_Lab work: Analyze mass spec data_
+
+Lecturers: Danielle Swaney (10/5), David Morgan (10/6), David Mavor (10/7)
+
+Student Presentations: Student #7 (Mass spec pipeline, 10/5)
+
+Other Class Material:
+
+**Week 4 – Theme: Chemical Petrubations**
+
+_Lab work: Growth rate measurements_
+
+Lecturers: Jason Gestwicki (10/13), Eric Chow (10/14)
+
+Student Presentations: All students (Mass spec presentation, 10/12), Student #8 (Growth Rate protocol, 10/13), 1 representative per team (Growth Rate analysis, 10/14)
+
+Other Class Material:
+
+- [Drug Concentration Protocol](https://docs.google.com/document/d/12Az3DGJlL4jZ2Rx5Y-xOM5y-EFrUIxhF5lf0DuWwiFE/edit?usp=sharing)
+
+**Week 5 – Theme: Growth Competitions**
+
+_Lab work: Harvest library of all Ubiquitin mutants_
+
+Lecturers: Martin Kampmann (10/20)
+
+Student Presentations: Student #9 (Library collection growth protocol, 10/19), Student #10 (Journal Club on [Roscoe et al., 2013](http://www.ncbi.nlm.nih.gov/pubmed/23376099), 10/19), Student #11 (Journal Club on [Roscoe et al, 2014](http://www.ncbi.nlm.nih.gov/pubmed/24862281), 10/20), Student #12 (Journal Club on [Hillenmeyer et al, 2009](http://www.ncbi.nlm.nih.gov/pubmed/18420932), 10/21)
+
+Other Class Material:
+
+- [Protocol for library growth](https://docs.google.com/document/d/1OIC1oyDUla72RJlt5a6kquhzMdSC1IuGUyPyztDxddc/edit?usp=sharing)
+- [Illustrated Protocol](https://drive.google.com/file/d/0Bx0d95RwVYufNk5palhZYmg0WHM/view?usp=sharing)
+
+**Week 6 – Theme: Preparation for sequencing**
+
+_Lab work: Molecular biology to isolate library_
+
+Lecturers: Nadav Ahituv (10/27)
+
+Student Presentations:
+
+Other Class Material:
