@@ -192,7 +192,7 @@ _Lab work: Molecular biology to isolate library_
 
 Lecturers: Nadav Ahituv (10/27)
 
-Student Presentations: Student #13 (Yeast Miniprep protocol, 10/26), Student #14 (Barcode explanation and assigment to teams, 10/26), Student #15 (PCR 1, gel extraction, and PCR 2, 10/27), Student 16 (PCR cleanup and QBIT, 10/28)
+Student Presentations: Student #13 (Yeast Miniprep protocol, 10/26), Student #14 (Barcode explanation and assigment to teams, 10/26), Student #15 (PCR 1, gel extraction, and PCR 2, 10/27), Student #16 (PCR cleanup and QBIT, 10/28)
 
 Other Class Material:
 
@@ -205,3 +205,55 @@ Other Class Material:
 - [PCR cleanup protocol](https://drive.google.com/file/d/0Bx0d95RwVYufSGtfMXNZUjRXN3c/view?usp=sharing)
 - [QBit Protocol](https://drive.google.com/file/d/0Bx0d95RwVYufM0xhZ01USllneHM/view?usp=sharing)
 - Final Library Hand-off Instructions
+
+**Week 7 – Theme: Sequencing Data**
+
+_Lab work: Begin sequencing pipeline_
+
+Lecturers: Eric Chow (11/2), Joe DeRisi (11/2), TAs (11/2), Ryan Hernandez (11/3), Bo Huang (11/4)
+
+Student Presentations: Student #17 (Journal Club on [McLaughlin et al, 2012](http://www.ncbi.nlm.nih.gov/pubmed?cmd=search&term=23041932), 11/3), Student #18 (Journal Club on [Pollack et al, 2012](http://www.ncbi.nlm.nih.gov/pubmed/?term=22547823), 11/4)
+
+Other Class Material:
+- [Computation Refresher](https://docs.google.com/presentation/d/1GMJg5oZIrMgenp6726jASmwLrbFJkYwlJRf7B8nM9g8/edit?usp=sharing)
+- [A Plasmid Editor (APE)](http://biologylabs.utah.edu/jorgensen/wayned/ape/)
+- [APE file for Plasmid](https://drive.google.com/file/d/0Bx0d95RwVYufNzJTaGpDU2lOR0E/view?usp=sharing)
+- [APE file for PCR product](https://drive.google.com/file/d/0Bx0d95RwVYufMUhpcFdqRnN2aG8/view?usp=sharing)
+- [PCR Product Annotation](https://docs.google.com/document/d/12CGyjBaVTB1ncw00-yRyQl6Acga-LS7bfywvrpxLbNg/edit?usp=sharing)
+- [Information about the format of your fastq files](http://support.illumina.com/help/SequencingAnalysisWorkflow/Content/Vault/Informatics/Sequencing_Analysis/CASAVA/swSEQ_mCA_FASTQFiles.htm)
+- [Using Matplotlib on the Server](/pubs/matplotlib_server/)
+
+
+**Week 8 – Theme: Team Shuffles**
+
+_Lab work: Unify sequencing pipeline_
+
+Lecturers: Justin Biel (11/10)
+
+Student Presentations: 1 representative per team (11/9), Student #19 (Journal Club on [Lange et al, 2008](http://www.ncbi.nlm.nih.gov/pubmed/18556554), 11/10)
+
+Sub-group suggestions:
+
+- Hamming Distance error correction
+- Reproducibility of fitness scores at the barcodes and codon scale
+- Data visualization and structural mapping
+- Difference matrices,  global similarity between perturbations, and reproducibility between days
+- Standardization of Fitness scores and methods write up for paper
+- including as much standardized computation of other sub-groups as possible!
+
+Other Class Material:
+
+- [Hamming Distance](http://en.wikipedia.org/wiki/Hamming_distance)
+
+**Week 8 – Theme: Biophysical Calcuations**
+
+_Lab work: Rosetta predictions of protein stability_
+
+Lecturers: Tanja Kortemme (11/16), Kyle Barlow
+
+Student Presentations: 1 representative per sub-group (10/16), Student #20 (Journal Club on [Ye et al, 2012](http://www.ncbi.nlm.nih.gov/pubmed/?term=23201676), 10/17), Student #21 (Journal Club on [Humpris et al, 2007](http://www.ncbi.nlm.nih.gov/pubmed/?term=17722975), 10/18)
+
+Other Class Material:
+
+- PDBs
+- Rosetta material
