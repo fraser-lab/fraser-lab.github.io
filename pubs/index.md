@@ -159,6 +159,8 @@ Student Presentations: Student #7 (Mass spec pipeline, 10/5)
 
 Other Class Material:
 
+- List of available chemical perturbations
+
 **Week 4 – Theme: Chemical Petrubations**
 
 _Lab work: Growth rate measurements_
