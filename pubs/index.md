@@ -107,11 +107,13 @@ at http://sds.ucsf.edu. Accommodations are never retroactive; therefore students
 
 ##Lab work, individual presentation schedule, and recommended reading
 
-<!-- **Week 1 – Theme: Ubiquitin and Deep Mutational Profiling**
+**Week 1 – Theme: Ubiquitin and Programming**
 
-_Lab work: Measure doubling times as a function of small molecule perturbation concentrations_
+_Lab work: Pickle project and Yeast transformation_
 
-Lecturers: James Fraser (9/29,9/30), Joe DeRisi (9/29), Hiten Madhani (10/1)  
+Lecturers: James Fraser (9/22), Joe DeRisi (9/22), Danielle Swaney (9/23)
+
+Student Presentations: Student #1 (Transformation Lecture, 9/23)
 
 Recommended reading:
 
@@ -128,32 +130,23 @@ Files for Computation:
 Other Class Material:
 
 - [Information about the server](/pubs/server/)
-- [PDF of Lecture 1](https://drive.google.com/open?id=0Bx0d95RwVYufMFpUbTk1azcxUTQ&authuser=0)
+- PDF of Lecture 1
 - [Fred Sherman's "Getting started with Yeast"](https://instruct.uwo.ca/biology/3596a/startedyeast.pdf)
 - [Transformation Protocol](https://docs.google.com/document/d/1-6-rbLosBYkAZI4EOcmwP8C2wDNiLE4OWvXjNS0Yfko/edit?usp=sharing)
-- [Yeast Handout by Hiten Madhani](https://drive.google.com/file/d/0Bx0d95RwVYufUDhZdWxnU2pRTWs/view?usp=sharing)
-- [Drug Concentration Protocol](https://docs.google.com/document/d/12Az3DGJlL4jZ2Rx5Y-xOM5y-EFrUIxhF5lf0DuWwiFE/edit?usp=sharing)
 
-**Week 2 – Theme: Chemical Genetics**
+**Week 2 – Theme: Mass Spectrometry**
 
-_Lab work: Performing selection experiments under chemical stresses_
+_Lab work: Biochemical enrichment of phosphopeptides_
 
-Lecturers: Michael Keiser (10/6), Sourav Bandyopadhyay (10/7), Eric Chow (10/8)
+Lecturers: Hiten Madhani (9/29)
 
-Recommended reading:
-
-- [(Lemieux et al., 2013)](http://www.ncbi.nlm.nih.gov/pubmed/24260022)
-- [(Bandyopadhyay et al., 2010)](http://www.ncbi.nlm.nih.gov/pubmed/21127252)
-- [(Aghajan et al., 2010)](http://www.ncbi.nlm.nih.gov/pubmed/20581845)
+Student Presentations: Student #2 (Lab work outline, 9/28), Student #3 (Journal Club on [Swaney et al, 2013](http://www.ncbi.nlm.nih.gov/pubmed/23749301)), Student #4 (Lab work outline, 9/29), Student #5 (Lab work outline, 9/30), Student #6 (Journal Club on [Peng et al, 2003](http://www.ncbi.nlm.nih.gov/pubmed/12872131), 9/30)
 
 Other Class Material:
 
-- [Sign up for CAT access](https://docs.google.com/forms/d/1Yr9Sv5713ntGnR-yAWfG_yWP4jkJ0UInIjwWlXz0b7U/viewform?c=0&w=1)
-- [Protocol for library growth](https://docs.google.com/document/d/1OIC1oyDUla72RJlt5a6kquhzMdSC1IuGUyPyztDxddc/edit?usp=sharing)
-- [Illustrated Protocol](https://drive.google.com/file/d/0Bx0d95RwVYufNk5palhZYmg0WHM/view?usp=sharing)
-- [Promega Colony Counting App](http://www.promega.com/resources/mobile-apps/)
-- [Zappy Lab Bench Tools](https://itunes.apple.com/us/app/zappylab-bench-tools/id731295151?mt=8)
-- [Eric Chow Lecture Notes](https://drive.google.com/file/d/0Bx0d95RwVYufSDhReVRUckFJSFU/view?usp=sharing)
+- Lysis-Tryptic Digest protocol (9/28)
+- Stop digest-lyophylize protocol (9/29)
+- IMAC-lyophylize protocl (9/30)
 
 **Week 3 – Theme: Massive Functional Profiling**
 
@@ -190,6 +183,8 @@ Other Class Material:
 
 
 **Week 4 – Theme: Sequence Conservation and Statistical Mechanics**
+
+- [Drug Concentration Protocol](https://docs.google.com/document/d/12Az3DGJlL4jZ2Rx5Y-xOM5y-EFrUIxhF5lf0DuWwiFE/edit?usp=sharing)
 
 _Lab Work: Computational analysis of sequencing data_
 
@@ -330,4 +325,12 @@ Recommended reading:
 - [(David et al., 2013)](http://www.ncbi.nlm.nih.gov/pubmed/24336217)
 - [(Haiser et al., 2013)](http://www.ncbi.nlm.nih.gov/pubmed/?term=23869020)
 - [(Stelter and Ulrich, 2003)](http://www.ncbi.nlm.nih.gov/pubmed/12968183)
- -->
+
+Other Class Material:
+
+- [Sign up for CAT access](https://docs.google.com/forms/d/1Yr9Sv5713ntGnR-yAWfG_yWP4jkJ0UInIjwWlXz0b7U/viewform?c=0&w=1)
+- [Protocol for library growth](https://docs.google.com/document/d/1OIC1oyDUla72RJlt5a6kquhzMdSC1IuGUyPyztDxddc/edit?usp=sharing)
+- [Illustrated Protocol](https://drive.google.com/file/d/0Bx0d95RwVYufNk5palhZYmg0WHM/view?usp=sharing)
+- [Promega Colony Counting App](http://www.promega.com/resources/mobile-apps/)
+- [Zappy Lab Bench Tools](https://itunes.apple.com/us/app/zappylab-bench-tools/id731295151?mt=8)
+- [Eric Chow Lecture Notes](https://drive.google.com/file/d/0Bx0d95RwVYufSDhReVRUckFJSFU/view?usp=sharing)
