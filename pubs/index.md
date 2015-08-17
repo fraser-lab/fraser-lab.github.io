@@ -245,7 +245,7 @@ Other Class Material:
 
 - [Hamming Distance](http://en.wikipedia.org/wiki/Hamming_distance)
 
-**Week 8 – Theme: Biophysical Calcuations**
+**Week 9 – Theme: Biophysical Calcuations**
 
 _Lab work: Rosetta predictions of protein stability_
 
@@ -257,3 +257,5 @@ Other Class Material:
 
 - PDBs
 - Rosetta material
+
+#Monday November 23 - FINAL TEAM PRESENTATIONS
