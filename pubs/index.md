@@ -37,11 +37,11 @@ This will be covered in bootcamp, but it is also a good idea to get a jump start
 **TAs:**
 
 - [Ina Chen](mailto:Ina.Chen@ucsf.edu)
-- [Evan Green](green.evan@gmail.com)
-- [Lillian Kenner](lkenner@fraserlab.com)
-- [Bruk Mensa](brukmensa@gmail.com)
-- [Leanna Morinishi](Leanna.Morinishi@ucsf.edu)
-- [Erin Poss](Erin.Poss@ucsf.edu)
+- [Evan Green](mailto:green.evan@gmail.com)
+- [Lillian Kenner](mailto:lkenner@fraserlab.com)
+- [Bruk Mensa](mailto:brukmensa@gmail.com)
+- [Leanna Morinishi](mailto:Leanna.Morinishi@ucsf.edu)
+- [Erin Poss](mailto:Erin.Poss@ucsf.edu)
 
 **Lecturers/Facilitators:**
 
