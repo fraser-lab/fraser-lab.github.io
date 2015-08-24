@@ -6,7 +6,7 @@ group: news
 ---
 
 <div class="video-container">
-         <iframe src="//www.youtube.com/watch?v=NHbKUyq5m_w" frameborder="0" width="560" height="315"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NHbKUyq5m_w" frameborder="0" allowfullscreen></iframe>
 </div>
 
 almost... it's been a bit too long since we updated the website:
