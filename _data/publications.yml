@@ -49,6 +49,8 @@
   links:
     - name: 'Paper Submission Celebration Photo'
       url: 'https://twitter.com/fraser_lab/status/635972900013498368'
+    - name: 'Course Syllabus'
+      url: 'http://fraserlab.com/pubs_2014/'
 
 - citation: 'Fischer M, Shoichet BK, **Fraser JS**. One Crystal, two Temperatures – Cryocooling Penalties alter Ligand Binding to Transient Protein Sites. *ChemBioChem*. 2015.'
   date: 201512
