@@ -119,7 +119,7 @@ Recommended reading:
 
 - [(Fowler and Fields, 2014)](http://www.ncbi.nlm.nih.gov/pubmed/25075907)
 - [(Finley et al., 2012)](http://www.ncbi.nlm.nih.gov/pubmed/23028185)
-
+- [(Swaney et al, 2013)](http://www.ncbi.nlm.nih.gov/pubmed/23749301)
 
 Files for Computation:
 
@@ -140,7 +140,7 @@ _Lab work: Biochemical enrichment of phosphopeptides_
 
 Lecturers: Hiten Madhani (9/29)
 
-Student Presentations: Student #2 (Lab work outline, 9/28), Student #3 (Journal Club on [Swaney et al, 2013](http://www.ncbi.nlm.nih.gov/pubmed/23749301)), Student #4 (Lab work outline, 9/29), Student #5 (Lab work outline, 9/30), Student #6 (Journal Club on [Peng et al, 2003](http://www.ncbi.nlm.nih.gov/pubmed/12872131), 9/30)
+Student Presentations: Student #2 (Lab work outline, 9/28), Student #3 (Journal Club on [Wauer et al, 2015](http://www.ncbi.nlm.nih.gov/pubmed/25527291)), Student #4 (Lab work outline, 9/29), Student #5 (Lab work outline, 9/30), Student #6 (Journal Club on [Peng et al, 2003](http://www.ncbi.nlm.nih.gov/pubmed/12872131), 9/30)
 
 Other Class Material:
 
