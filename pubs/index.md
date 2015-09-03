@@ -119,7 +119,7 @@ Recommended reading:
 
 - [(Fowler and Fields, 2014)](http://www.ncbi.nlm.nih.gov/pubmed/25075907)
 - [(Finley et al., 2012)](http://www.ncbi.nlm.nih.gov/pubmed/23028185)
-- [(Swaney et al, 2013)](http://www.ncbi.nlm.nih.gov/pubmed/23749301)
+- [(Herhaus and Dikic, 2015)](http://www.ncbi.nlm.nih.gov/pubmed/26268526)
 
 Files for Computation:
 
