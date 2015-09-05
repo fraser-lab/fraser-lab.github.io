@@ -5,7 +5,7 @@ layout: post
 group: news
 ---
 
-A warm welcome to new UCSF [Faculty Fellow](fellows.ucsf.edu) Joe Bondy-Demony. Joe was a graduate student with Alan Davidson at University of Toronto, a lab I worked in as an undergraduate. [The Bondy-Demony Lab](bondydenomylab.ucsf.edu) builds on his groundbreaking discovery of naturally occuring anti-CRISPR proteins that antagonize the CRISPR systems that are all the rage in genomics. Welcome Joe!
+A warm welcome to new UCSF [Faculty Fellow](http://fellows.ucsf.edu) Joe Bondy-Demony. Joe was a graduate student with Alan Davidson at University of Toronto, which is also the lab that gave me a start in science as an undergraduate. [The Bondy-Demony Lab](bondydenomylab.ucsf.edu) builds on his groundbreaking discovery of naturally occurring anti-CRISPR proteins that antagonize the CRISPR systems that are all the rage in genomics. Welcome Joe!
 
 <img src="https://pbs.twimg.com/media/CE2HFl5VEAASYxs.jpg" alt="Welcome Joe Bondy-Demony" class="img-responsive">
 
