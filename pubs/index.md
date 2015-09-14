@@ -18,7 +18,7 @@ group: pubs
 
 **Prerequisites:** All incoming first year iPQB and CCB graduate students are required to enroll in this course.
 
-#Although TAs, instructors, and your fellow students will be happy to help out, it is important to be familiar with basic scripting and the principles of python PRIOR to starting the class.
+Although TAs, instructors, and your fellow students will be happy to help out, it is important to be familiar with basic scripting and the principles of python PRIOR to starting the class.
 
 This will be covered in bootcamp, but it is also a good idea to get a jump start during the summer (suggestions are listed below).
 
@@ -150,6 +150,10 @@ Other Class Material:
 
 **Week 3 – Theme: Mass Spec Bioinformatics**
 
+Recommended reading:
+
+- [MaxQuant software - Cox and Mann, 2008](http://www.ncbi.nlm.nih.gov/pubmed/19029910)
+- [Lundby et al, 2012](http://www.ncbi.nlm.nih.gov/pubmed/19029910)
 
 _Lab work: Analyze mass spec data_
 
