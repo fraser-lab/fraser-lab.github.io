@@ -144,9 +144,7 @@ Student Presentations: Student #2 (Lab work outline, 9/28), Student #3 (Journal 
 
 Other Class Material:
 
-- Lysis-Tryptic Digest protocol (9/28)
-- Stop digest-lyophylize protocol (9/29)
-- IMAC-lyophylize protocl (9/30)
+- [Lysis-Tryptic Digest protocol (9/28), Stop digest-lyophylize protocol (9/29), IMAC-lyophylize protocl (9/30)](https://docs.google.com/document/d/1nmJMwx4d_977X4B_ne_sYiEVDjww12Xr73znOkMZv1Y/edit?usp=sharing)
 
 **Week 3 – Theme: Mass Spec Bioinformatics**
 
