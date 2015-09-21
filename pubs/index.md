@@ -143,6 +143,29 @@ Other Class Material:
 - [Fred Sherman's "Getting started with Yeast"](https://instruct.uwo.ca/biology/3596a/startedyeast.pdf)
 - [Transformation Protocol](https://docs.google.com/document/d/1-6-rbLosBYkAZI4EOcmwP8C2wDNiLE4OWvXjNS0Yfko/edit?usp=sharing)
 
+Chemical menu:
+
+- Tunicamycin
+- Spermine
+- rapamycin
+- hygromycin
+- Nickle Chloride
+- 3-Amino-1,2,4-triazole
+- Calcium dichloride
+- Cerulenin
+- Cobalt acetate
+- miconazole
+- p-Fluoro-DL-phenylalanine
+- tamoxifen
+- ketoconazole
+- clotrinazole
+- menadione
+- Calcoflour white
+- CuCl2
+- 5-flourocytosine
+- acivicin
+- amphotericin B
+
 **Week 2 – Theme: Mass Spectrometry**
 
 _Lab work: Biochemical enrichment of phosphopeptides_
