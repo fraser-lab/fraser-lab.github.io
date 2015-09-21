@@ -145,26 +145,27 @@ Other Class Material:
 
 Chemical menu:
 
-- Tunicamycin
-- Spermine
-- rapamycin
-- hygromycin
-- Nickle Chloride
-- 3-Amino-1,2,4-triazole
-- Calcium dichloride
-- Cerulenin
-- Cobalt acetate
-- miconazole
-- p-Fluoro-DL-phenylalanine
-- tamoxifen
-- ketoconazole
-- clotrinazole
-- menadione
-- Calcoflour white
-- CuCl2
-- 5-flourocytosine
-- acivicin
-- amphotericin B
+- [Tunicamycin](http://www.sigmaaldrich.com/MSDS/MSDS/DisplayMSDSPage.do?country=US&language=en&productNumber=93755&brand=FLUKA&PageToGoToURL=http%3A%2F%2Fwww.sigmaaldrich.com%2Fcatalog%2Fproduct%2Ffluka%2F93755%3Flang%3Den)
+- [Spermine](http://www.sigmaaldrich.com/MSDS/MSDS/PleaseWaitMSDSPage.do?language=&country=US&brand=SIGMA&productNumber=S3256&PageToGoToURL=http://www.sigmaaldrich.com/catalog/product/sigma/s3256?lang=en&region=US)
+- [rapamycin](http://www.sigmaaldrich.com/MSDS/MSDS/DisplayMSDSPage.do?country=US&language=en&productNumber=R0395&brand=SIGMA&PageToGoToURL=http%3A%2F%2Fwww.sigmaaldrich.com%2Fcatalog%2Fproduct%2Fsigma%2Fr0395%3Flang%3Den)
+- [hygromycin B](http://www.sigmaaldrich.com/MSDS/MSDS/PleaseWaitMSDSPage.do?language=&country=US&brand=SIGMA&productNumber=H3274&PageToGoToURL=http://www.sigmaaldrich.com/catalog/product/sigma/h3274?lang=en&region=US)
+- [Nickle Chloride](http://www.sigmaaldrich.com/MSDS/MSDS/PleaseWaitMSDSPage.do?language=&country=US&brand=ALDRICH&productNumber=339350&PageToGoToURL=http://www.sigmaaldrich.com/catalog/product/aldrich/339350?lang=en&region=US)
+- [3-Amino-1,2,4-triazole](http://www.sigmaaldrich.com/MSDS/MSDS/PleaseWaitMSDSPage.do?language=&country=US&brand=SIGMA&productNumber=A8056&PageToGoToURL=http://www.sigmaaldrich.com/catalog/product/sigma/a8056?lang=en&region=US)
+- [Calcium dichloride](http://www.sigmaaldrich.com/MSDS/MSDS/DisplayMSDSPage.do?country=US&language=en&productNumber=C4901&brand=SIAL&PageToGoToURL=http%3A%2F%2Fwww.sigmaaldrich.com%2Fcatalog%2Fproduct%2Fsial%2Fc4901%3Flang%3Den)
+- [Cerulenin](http://www.sigmaaldrich.com/MSDS/MSDS/PleaseWaitMSDSPage.do?language=&country=US&brand=SIGMA&productNumber=C2389&PageToGoToURL=http://www.sigmaaldrich.com/catalog/product/sigma/c2389?lang=en&region=US)
+- [Cobalt acetate](http://www.sigmaaldrich.com/MSDS/MSDS/PleaseWaitMSDSPage.do?language=&country=US&brand=SIAL&productNumber=403024&PageToGoToURL=http://www.sigmaaldrich.com/catalog/product/sial/403024?lang=en&region=US)
+- [miconazole](http://www.sigmaaldrich.com/MSDS/MSDS/PleaseWaitMSDSPage.do?language=&country=US&brand=SIGMA&productNumber=M3512&PageToGoToURL=http://www.sigmaaldrich.com/catalog/product/sigma/m3512?lang=en&region=US)
+- [p-Fluoro-DL-phenylalanine](http://www.sigmaaldrich.com/MSDS/MSDS/PleaseWaitMSDSPage.do?language=&country=US&brand=SIGMA&productNumber=F5251&PageToGoToURL=http://www.sigmaaldrich.com/catalog/product/sigma/f5251?lang=en&region=US)
+- [tamoxifen](http://www.sigmaaldrich.com/MSDS/MSDS/PleaseWaitMSDSPage.do?language=&country=US&brand=SIGMA&productNumber=T5648&PageToGoToURL=http://www.sigmaaldrich.com/catalog/product/sigma/t5648?lang=en&region=US)
+- [ketoconazole](http://www.sigmaaldrich.com/MSDS/MSDS/PleaseWaitMSDSPage.do?language=&country=US&brand=SIGMA&productNumber=UC280&PageToGoToURL=http://www.sigmaaldrich.com/catalog/product/sigma/uc280?lang=en&region=US)
+- [clotrinazole](http://www.sigmaaldrich.com/MSDS/MSDS/PleaseWaitMSDSPage.do?language=&country=US&brand=SIGMA&productNumber=C6019&PageToGoToURL=http://www.sigmaaldrich.com/catalog/product/sigma/c6019?lang=en&region=US)
+- [menadione](http://www.sigmaaldrich.com/MSDS/MSDS/PleaseWaitMSDSPage.do?language=&country=US&brand=ALDRICH&productNumber=M57405&PageToGoToURL=http://www.sigmaaldrich.com/catalog/product/aldrich/m57405?lang=en&region=US)
+- [Calcofluor white](http://www.pro-lab.com/msds/stains_pl392_calcofluor_white_reagent%20_msds_eu.pdf)
+- [CuCl2](http://www.sigmaaldrich.com/MSDS/MSDS/PleaseWaitMSDSPage.do?language=&country=US&brand=ALDRICH&productNumber=451665&PageToGoToURL=http://www.sigmaaldrich.com/catalog/product/aldrich/451665?lang=en&region=US)
+- [5-fluorocytosine](http://www.sigmaaldrich.com/MSDS/MSDS/PleaseWaitMSDSPage.do?language=&country=US&brand=SIGMA&productNumber=F7129&PageToGoToURL=http://www.sigmaaldrich.com/catalog/product/sigma/f7129?lang=en&region=US)
+- [acivicin](http://www.sigmaaldrich.com/catalog/product/sigma/sml0312?lang=en&region=US)
+- [amphotericin B](http://www.sigmaaldrich.com/MSDS/MSDS/PleaseWaitMSDSPage.do?language=&country=US&brand=SIGMA&productNumber=A9528&PageToGoToURL=http://www.sigmaaldrich.com/catalog/product/sigma/a9528?lang=en&region=US)
+
 
 **Week 2 – Theme: Mass Spectrometry**
 
