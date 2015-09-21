@@ -51,7 +51,7 @@ James Fraser, David Mavor, Danielle Swaney, Joe DeRisi, Martin Kampmann, Hiten M
 
 - Mass Spectrometry Presentation: Monday, October 12th
 - NSF GRFP due Monday, October 26 (Life Sciences) and Friday, October 30 (Chemistry)
-- Final presentations: Monday, November 23rd
+- Final presentations: Tuesday, November 24th
 
 **Background:**
 
@@ -65,7 +65,7 @@ Ultimately, the goal is the synthesis of predictive models that can reveal funda
 
 The course is a hands-on, project-based course that integrates proteomics, deep mutational profiling [(Fowler and Fields, _Nature Methods_, 2014)](http://www.ncbi.nlm.nih.gov/pubmed/25075907), and computational biology. The model organism, _Saccharomyces cerevisiae_, will be used as the organismal basis. Our goals are to experimentally determine the kinases responsible for phosphorylating ubiquitin and to measure the fitness of all possible individual point mutants of ubiquitin. Ubiquitin is an essential protein that is a key cellular integrator of stress, under a variety of experimental perturbations. The library of these point mutants was assembled by [Dan Bolon](http://profiles.umassmed.edu/profiles/display/133553) and verified during a summer visit to the Fraser lab. The course is organized around modules, described below. Each hands-on module will be accompanied by lectures (either "chalk talk" or with slides). Students will present short talks to the class covering the assigned protocols or summarizing literature related to the class.   In addition students are expected to conduct their own literature reviews during the course of the project. Students will work in small teams, and each team will be assigned a different set of kinases for initial analysis. Based on the results, the teams will design a perturbation experiment for deep sequencing.  Students are expected to remain in their teams for the duration of the course, although team-team collaboration is highly encouraged. All team members are expected to participate in each activity.
 
-At the conclusion of the mass spec module and at the end of the class, each team will orally present their findings to the class and faculty, limited to 15 minutes and 15 slides maximum, with 10 minutes for discussion and questions. All members of the team are expected to speak and describe their contributions. These presentations are currently scheduled for Oct 12th and Nov 23rd, the final day of class.
+At the conclusion of the mass spec module and at the end of the class, each team will orally present their findings to the class and faculty, limited to 15 minutes and 15 slides maximum, with 10 minutes for discussion and questions. All members of the team are expected to speak and describe their contributions. These presentations are currently scheduled for Oct 12th and Nov 24th, the final day of class.
 
 Activities and speakers for each week will be announced at the beginning of each module.
 
@@ -271,4 +271,4 @@ Other Class Material:
 - PDBs
 - Rosetta material
 
-#Monday November 23 - FINAL TEAM PRESENTATIONS
+#Tuesday November 24 - FINAL TEAM PRESENTATIONS
