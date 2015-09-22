@@ -74,6 +74,8 @@
       url: 'http://onlinelibrary.wiley.com/doi/10.1002/cbic.201590029/abstract'
     - name: Shoichet Lab
       url: 'http://shoichetlab.compbio.ucsf.edu/'
+    - name: 'F1000 Evaluation'
+      url: 'http://f1000.com/prime/725527898'
 
 - citation: 'Dellus-Gur E, Elias M, Caselli E, Prati F, Salverda ML, de Visser JA, **Fraser JS**, Tawfik DS. Negative epistasis and evolvability in TEM-1 β-lactamase – The thin line between an enzyme’s conformational freedom and disorder. *Journal of Molecular Biology*. 2015.'
   date: 201505
