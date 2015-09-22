@@ -107,12 +107,12 @@ at http://sds.ucsf.edu. Accommodations are never retroactive; therefore students
 
 ##Teams
 
-- Sergei, Rachel, David (TA: Bruk, SWE1, K6)
-- Peter, Pooja, Nathan (TA: Ina, ATG1, K48)
-- Ruilin, Tamas, Fatima (TA: Lillian, KIN3, K63)
-- Douglas, Yuliya, Paul, Nicholas (TA: Erin, ALK1, K29)
-- Nadia, Ryan, Daniel, Derek (TA: Leanna, CMK1, K11)
-- Cole, Alex, Emily, Charlotte (TA: Evan, TPK1, N-term)
+- APUBSCRAWL: Sergei, Rachel, David (TA: Bruk, SWE1, K6)
+- ONION: Peter, Pooja, Nathan (TA: Ina, ATG1, K48)
+- ETOH: Ruilin, Tamas, Fatima (TA: Lillian, KIN3, K63)
+- PYND: Douglas, Yuliya, Paul, Nicholas (TA: Erin, ALK1, K29)
+- SHMOO: Nadia, Ryan, Daniel, Derek (TA: Leanna, CMK1, K11)
+- WHANGEE: Cole, Alex, Emily, Charlotte (TA: Evan, TPK1, N-term)
 
 ##Lab work, individual presentation schedule, and recommended reading
 
