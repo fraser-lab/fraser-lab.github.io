@@ -122,7 +122,7 @@ _Lab work: Pickle project and Yeast transformation_
 
 Lecturers: James Fraser (9/22), Joe DeRisi (9/22), Danielle Swaney (9/23)
 
-Student Presentations: Student #1 (Transformation Lecture, 9/23)
+Student Presentations: Yuliya (Transformation Lecture, 9/23)
 
 Recommended reading:
 
@@ -173,7 +173,7 @@ _Lab work: Biochemical enrichment of phosphopeptides_
 
 Lecturers: Hiten Madhani (9/29)
 
-Student Presentations: Student #2 (Lab work outline, 9/28), Student #3 (Journal Club on [Wauer et al, 2015](http://www.ncbi.nlm.nih.gov/pubmed/25527291)), Student #4 (Lab work outline, 9/29), Student #5 (Lab work outline, 9/30), Student #6 (Journal Club on [Peng et al, 2003](http://www.ncbi.nlm.nih.gov/pubmed/12872131), 9/30)
+Student Presentations: Nathan #2 (Lab work outline, 9/28), Ryan #3 (Journal Club on [Wauer et al, 2015](http://www.ncbi.nlm.nih.gov/pubmed/25527291), 9/28), Student #4 (Lab work outline, 9/29), Student #5 (Lab work outline, 9/30), Student #6 (Journal Club on [Peng et al, 2003](http://www.ncbi.nlm.nih.gov/pubmed/12872131), 9/30)
 
 Other Class Material:
 
