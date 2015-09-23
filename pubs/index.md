@@ -109,7 +109,7 @@ at http://sds.ucsf.edu. Accommodations are never retroactive; therefore students
 
 - APUBSCRAWL: Sergei, Rachel, David (TA: Bruk, SWE1, K6)
 - ONION: Peter, Pooja, Nathan (TA: Ina, ATG1, K48)
-- ETOH: Ruilin, Tamas, Fatima (TA: Lillian, KIN3, K63)
+- ET0H: Ruilin, Tamas, Fatima (TA: Lillian, KIN3, K63)
 - PYND: Douglas, Yuliya, Paul, Nicholas (TA: Erin, ALK1, K29)
 - SHMOO: Nadja, Ryan, Daniel, Derek (TA: Leanna, CMK1, K11)
 - WHANGEE: Cole, Alex, Emily, Charlotte (TA: Evan, TPK1, N-term)
