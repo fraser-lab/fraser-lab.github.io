@@ -143,11 +143,11 @@ Franks-Skiba KE, Li M, Brown WL, Gunnarsson HI, Adalbjornsdottir A, **Fraser JS*
     - name: Henry van den Bedem
       url: 'https://people.stanford.edu/vdbedem/'
 
-- citation: '**Keedy DA**\*, **Kenner LR**\*, Warkentin M\*, **Woldeyes RA**\*, **Thompson MC**, Brewster AS, **Van Benschoten AH**, Baxter EL, Hopkins JB, Uervirojnangkoorn M, McPhillips SE, Song J, Alonso-Mori R, Holton JM, Weis WI, Brunger AT, Soltis SM, Lemke H, Gonzalez A, Sauter NK, Cohen AE, van den Bedem H, Thorne RE, **Fraser JS**. Mapping the Conformational Landscape of a Dynamic Enzyme by XFEL and Multitemperature Crystallography. *Submitted - Preprint available on BioRxiv*. 2015.'
+- citation: '**Keedy DA**\*, **Kenner LR**\*, Warkentin M\*, **Woldeyes RA**\*, **Thompson MC**, Brewster AS, **Van Benschoten AH**, Baxter EL, Hopkins JB, Uervirojnangkoorn M, McPhillips SE, Song J, Alonso-Mori R, Holton JM, Weis WI, Brunger AT, Soltis SM, Lemke H, Gonzalez A, Sauter NK, Cohen AE, van den Bedem H, Thorne RE, **Fraser JS**. Mapping the Conformational Landscape of a Dynamic Enzyme by XFEL and Multitemperature Crystallography. *eLife*. 2015.'
   date: 201503
   image: '/static/img/pub/keedy_1_2015.png'
-  pmid: Submitted
-  pmcid: Submitted
+  pmid: In press
+  pmcid: In process
   biorxiv: "016733"
   pdf: 'http://biorxiv.org/content/biorxiv/early/2015/03/19/016733.full.pdf'
   pdbs:
