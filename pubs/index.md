@@ -188,7 +188,7 @@ _Lab work: Growth rate measurements_
 
 Lecturers:  David Mavor (10/5), David Morgan (10/6), Martin Kampmann (10/7)
 
-Student Presentations: Student #8 (Growth Rate protocol, 10/5), 1 representative per team (Growth Rate analysis, 10/7), Student #12 (Journal Club on [Hillenmeyer et al, 2009](http://www.ncbi.nlm.nih.gov/pubmed/18420932), 10/7) 
+Student Presentations: Emily (Drug Concentration protocol, 10/5), 1 representative per team: Rachel, Pooja, Tamas, Nick, Derek, Charlotte (Growth Rate analysis, 10/7), Daniel (Journal Club on [Hillenmeyer et al, 2009](http://www.ncbi.nlm.nih.gov/pubmed/18420932), 10/7)
 
 Other Class Material:
 
