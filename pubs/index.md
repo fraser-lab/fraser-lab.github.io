@@ -180,42 +180,41 @@ Other Class Material:
 
 - [Lysis-Tryptic Digest protocol (9/28), Stop digest-lyophylize protocol (9/29), IMAC-lyophylize protocl (9/30)](https://docs.google.com/document/d/1nmJMwx4d_977X4B_ne_sYiEVDjww12Xr73znOkMZv1Y/edit?usp=sharing)
 
-**Week 3 – Theme: Mass Spec Bioinformatics**
+**Week 3 – Theme:Chemical Petrubations**
+
+
+_Lab work: Growth rate measurements_
+
+
+Lecturers:  David Mavor (10/5), David Morgan (10/6), Martin Kampmann (10/7)
+
+Student Presentations: Student #8 (Growth Rate protocol, 10/5), 1 representative per team (Growth Rate analysis, 10/7), Student #12 (Journal Club on [Hillenmeyer et al, 2009](http://www.ncbi.nlm.nih.gov/pubmed/18420932), 10/7) 
+
+Other Class Material:
+
+- [Drug Concentration Protocol](https://docs.google.com/document/d/12Az3DGJlL4jZ2Rx5Y-xOM5y-EFrUIxhF5lf0DuWwiFE/edit?usp=sharing)
+
+**Week 4 – Theme:  Mass Spec Bioinformatics **
+
+_Lab work: Analyze mass spec data_
 
 Recommended reading:
 
 - [MaxQuant software - Cox and Mann, 2008](http://www.ncbi.nlm.nih.gov/pubmed/19029910)
 - [Lundby et al, 2012](http://www.ncbi.nlm.nih.gov/pubmed/19029910)
 
-_Lab work: Analyze mass spec data_
+Lecturers: Danielle Swaney (10/12), Jason Gestwicki (10/13), Eric Chow (10/14)
 
-Lecturers: Danielle Swaney (10/5), David Morgan (10/6), David Mavor (10/7)
+Student Presentations: Student #7 (Mass spec pipeline, 10/12 at end of class)
 
-Student Presentations: Student #7 (Mass spec pipeline, 10/5)
-
-Other Class Material:
-
-- List of available chemical perturbations
-
-**Week 4 – Theme: Chemical Petrubations**
-
-_Lab work: Growth rate measurements_
-
-Lecturers: Jason Gestwicki (10/13), Eric Chow (10/14)
-
-Student Presentations: All students (Mass spec presentation, 10/12), Student #8 (Growth Rate protocol, 10/13), 1 representative per team (Growth Rate analysis, 10/14)
-
-Other Class Material:
-
-- [Drug Concentration Protocol](https://docs.google.com/document/d/12Az3DGJlL4jZ2Rx5Y-xOM5y-EFrUIxhF5lf0DuWwiFE/edit?usp=sharing)
 
 **Week 5 – Theme: Growth Competitions**
 
 _Lab work: Harvest library of all Ubiquitin mutants_
 
-Lecturers: Martin Kampmann (10/20)
+Lecturers:
 
-Student Presentations: Student #9 (Library collection growth protocol, 10/19), Student #10 (Journal Club on [Roscoe et al., 2013](http://www.ncbi.nlm.nih.gov/pubmed/23376099), 10/19), Student #11 (Journal Club on [Roscoe et al, 2014](http://www.ncbi.nlm.nih.gov/pubmed/24862281), 10/20), Student #12 (Journal Club on [Hillenmeyer et al, 2009](http://www.ncbi.nlm.nih.gov/pubmed/18420932), 10/21)
+Student Presentations: All students (Mass spec presentation, 10/19), Student #9 (Library collection growth protocol, 10/19), Student #10 (Journal Club on [Roscoe et al., 2013](http://www.ncbi.nlm.nih.gov/pubmed/23376099), 10/20), Student #11 (Journal Club on [Roscoe et al, 2014](http://www.ncbi.nlm.nih.gov/pubmed/24862281), 10/21)
 
 Other Class Material:
 
