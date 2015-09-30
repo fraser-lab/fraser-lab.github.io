@@ -180,7 +180,7 @@ Other Class Material:
 
 - [Lysis-Tryptic Digest protocol (9/28), Stop digest-lyophylize protocol (9/29), IMAC-lyophylize protocl (9/30)](https://docs.google.com/document/d/1nmJMwx4d_977X4B_ne_sYiEVDjww12Xr73znOkMZv1Y/edit?usp=sharing)
 
-**Week 3 – Theme:Chemical Petrubations**
+**Week 3 – Theme: Chemical Petrubations**
 
 
 _Lab work: Growth rate measurements_
