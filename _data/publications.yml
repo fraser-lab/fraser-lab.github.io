@@ -176,7 +176,7 @@ Franks-Skiba KE, Li M, Brown WL, Gunnarsson HI, Adalbjornsdottir A, **Fraser JS*
   image: '/static/img/pub/bab_1_2015.jpg'
   pmid: 26280328
   biorxiv: 014738
-  pmcid: In process
+  pmcid: PMC4589481
   pdf: '/static/pdf/barad_2015.pdf'
   pdbs:
     - 3J9I
@@ -192,7 +192,7 @@ Franks-Skiba KE, Li M, Brown WL, Gunnarsson HI, Adalbjornsdottir A, **Fraser JS*
   date: 201503
   image: '/static/img/pub/avb_2_2015.jpg'
   pmid: 26249348
-  pmcid: In process
+  pmcid: PMC4528800
   biorxiv: 012930
   pdf: '/static/pdf/avb_2_2015.pdf'
   links:
@@ -203,7 +203,7 @@ Franks-Skiba KE, Li M, Brown WL, Gunnarsson HI, Adalbjornsdottir A, **Fraser JS*
   date: 201503
   image: '/static/img/pub/avb_1_2015.jpg'
   pmid: 26249347
-  pmcid: In process
+  pmcid: PMC4528799
   biorxiv: 012955
   pdf: '/static/pdf/avb_1_2015.pdf'
   links:
