@@ -207,6 +207,12 @@ Lecturers: Danielle Swaney (10/12), Jason Gestwicki (10/13), Eric Chow (10/14)
 
 Student Presentations: Student #7 (Mass spec pipeline, 10/12 at end of class)
 
+Other Class Material:
+
+- [Sample Evidence File](https://drive.google.com/file/d/0Bx0d95RwVYufb2VNM2E0Vk1pbHM/view?usp=sharing)
+- [Sample Table Guide](https://drive.google.com/file/d/0Bx0d95RwVYufcjFZTnZTQTN1X0U/view?usp=sharing)
+- [Sample Protein Groups](https://drive.google.com/file/d/0Bx0d95RwVYufbDhOM1RzSWkyTjQ/view?usp=sharing)
+- [Sample Phosphosites](https://drive.google.com/file/d/0Bx0d95RwVYufSjF4Z01uZnNIMWc/view?usp=sharing)
 
 **Week 5 – Theme: Growth Competitions**
 
