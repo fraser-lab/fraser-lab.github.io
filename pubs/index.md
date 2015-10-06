@@ -193,6 +193,7 @@ Student Presentations: Emily (Drug Concentration protocol, 10/5), 1 representati
 Other Class Material:
 
 - [Drug Concentration Protocol](https://docs.google.com/document/d/12Az3DGJlL4jZ2Rx5Y-xOM5y-EFrUIxhF5lf0DuWwiFE/edit?usp=sharing)
+- [David Morgan's Lecture](https://drive.google.com/file/d/0Bx0d95RwVYufcEkxSV9TcExPTmc/view?usp=sharing)
 
 **Week 4 – Theme:  Mass Spec Bioinformatics **
 
@@ -205,7 +206,7 @@ Recommended reading:
 
 Lecturers: Danielle Swaney (10/12), Jason Gestwicki (10/13), Eric Chow (10/14)
 
-Student Presentations: Student #7 (Mass spec pipeline, 10/12 at end of class)
+Student Presentations: Paul (Mass spec pipeline, 10/12 at end of class)
 
 Other Class Material:
 
