@@ -22,7 +22,7 @@ group: contact
   Assistant Professor  <br>
   Department of Bioengineering and Therapeutic Sciences  <br>
   California Institute of Quantitative Biosciences (QB3)  <br>
-  email: james.fraser (at) ucsf.edu <br>
+  email: jfraser (at) fraserlab.com <br>
   tel: 415 493 842 one
 
 </div>
