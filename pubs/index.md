@@ -202,7 +202,7 @@ _Lab work: Analyze mass spec data_
 Recommended reading:
 
 - [MaxQuant software - Cox and Mann, 2008](http://www.ncbi.nlm.nih.gov/pubmed/19029910)
-- [Lundby et al, 2012](http://www.ncbi.nlm.nih.gov/pubmed/19029910)
+- [Lundby et al, 2012](http://www.ncbi.nlm.nih.gov/pubmed/22673903)
 
 Lecturers: Danielle Swaney (10/12), Jason Gestwicki (10/13), Eric Chow (10/14)
 
