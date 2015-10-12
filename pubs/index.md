@@ -214,6 +214,7 @@ Other Class Material:
 - [Sample Table Guide](https://drive.google.com/file/d/0Bx0d95RwVYufcjFZTnZTQTN1X0U/view?usp=sharing)
 - [Sample Protein Groups](https://drive.google.com/file/d/0Bx0d95RwVYufbDhOM1RzSWkyTjQ/view?usp=sharing)
 - [Sample Phosphosites](https://drive.google.com/file/d/0Bx0d95RwVYufSjF4Z01uZnNIMWc/view?usp=sharing)
+- [Danielle's Lecture 10/12/15](https://drive.google.com/file/d/0B89bAF4_3DdILTR3WVNjZkd6NW8/view?usp=sharing)
 
 The real data:
 
