@@ -227,7 +227,7 @@ _Lab work: Harvest library of all Ubiquitin mutants_
 
 Lecturers:
 
-Student Presentations: All students (Mass spec presentation, 10/19), Student #9 (Library collection growth protocol, 10/19), Student #10 (Journal Club on [Roscoe et al., 2013](http://www.ncbi.nlm.nih.gov/pubmed/23376099), 10/20), Student #11 (Journal Club on [Roscoe et al, 2014](http://www.ncbi.nlm.nih.gov/pubmed/24862281), 10/21)
+Student Presentations: All students (Mass spec presentation, 10/19), Nadja (Library collection growth protocol, 10/19), Douglas (Journal Club on [Roscoe et al., 2013](http://www.ncbi.nlm.nih.gov/pubmed/23376099), 10/20), Cole (Journal Club on [Roscoe et al, 2014](http://www.ncbi.nlm.nih.gov/pubmed/24862281), 10/21)
 
 Other Class Material:
 
@@ -242,7 +242,7 @@ _Lab work: Molecular biology to isolate library_
 
 Lecturers: Nadav Ahituv (10/27)
 
-Student Presentations: Student #13 (Yeast Miniprep protocol, 10/26), Student #14 (Barcode explanation and assigment to teams, 10/26), Student #15 (PCR 1, gel extraction, and PCR 2, 10/27), Student #16 (PCR cleanup and QBIT, 10/28)
+Student Presentations: Rachel (Yeast Miniprep protocol, 10/26), Tamas (Barcode explanation and assigment to teams, 10/26), Pooja (PCR 1, gel extraction, and PCR 2, 10/27), David (PCR cleanup and QBIT, 10/28)
 
 Other Class Material:
 
