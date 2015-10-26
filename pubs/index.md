@@ -242,7 +242,7 @@ _Lab work: Molecular biology to isolate library_
 
 Lecturers: Nadav Ahituv (10/27)
 
-Student Presentations: Rachel (Yeast Miniprep protocol, 10/26), Tamas (Barcode explanation and assigment to teams, 10/26), Pooja (PCR 1, gel extraction, and PCR 2, 10/27), David (PCR cleanup and QBIT, 10/28)
+Student Presentations: Rachel (Yeast Miniprep protocol, 10/26), Tamas (Barcode explanation and assigment to teams, 10/27), Pooja (PCR 1, gel extraction, and PCR 2, 10/27), David (PCR cleanup and QBIT, 10/28)
 
 Other Class Material:
 
