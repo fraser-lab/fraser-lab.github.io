@@ -260,12 +260,13 @@ Other Class Material:
 
 _Lab work: Begin sequencing pipeline_
 
-Lecturers: Eric Chow (11/2), Joe DeRisi (11/2), TAs (11/2), Ryan Hernandez (11/3), Bo Huang (11/4)
+Lecturers: Eric Chow (11/2), Joe DeRisi (11/2), Ina Chen+TAs (11/2), Ryan Hernandez (11/3), Bo Huang (11/4)
 
 Student Presentations: Student #17 (Journal Club on [McLaughlin et al, 2012](http://www.ncbi.nlm.nih.gov/pubmed?cmd=search&term=23041932), 11/3), Student #18 (Journal Club on [Pollack et al, 2012](http://www.ncbi.nlm.nih.gov/pubmed/?term=22547823), 11/4)
 
 Other Class Material:
 
+-[Command line Refresher](https://external-production.codecademy.com/en/courses/learn-the-command-line/lessons/navigation/exercises/your-first-command?action=resume)
 - [Computation Refresher](https://docs.google.com/presentation/d/1GMJg5oZIrMgenp6726jASmwLrbFJkYwlJRf7B8nM9g8/edit?usp=sharing)
 - [A Plasmid Editor (APE)](http://biologylabs.utah.edu/jorgensen/wayned/ape/)
 - [APE file for Plasmid](https://drive.google.com/file/d/0Bx0d95RwVYufNzJTaGpDU2lOR0E/view?usp=sharing)
