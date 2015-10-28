@@ -28,7 +28,7 @@ This will be covered in bootcamp, but it is also a good idea to get a jump start
 
 **Course Days/Hours:** Monday, Tuesday, Wednesday 1pm-5pm
 
-**Instructors:** James Fraser; [jfraser+bp205a@fraserlab.com](mailto:jfraser+bp205a@fraserlab.com)
+**Instructors:** James Fraser; [jfraser+bp205a@fraserlab.com](mailto:jfraser+bp205a@fraserlab.com); Martin Kampmann
 
 **Course Coordinator:** David Mavor; [David.Mavor@ucsf.edu](mailto:David.Mavor@ucsf.edu)
 
