@@ -1,21 +1,5 @@
 # THE WEIRDEST BUG: using escapes requires single-quotes instead of double...
 #
-# - citation: 'Thomaston JL, Alfonso-Prieto M, **Woldeyes RA**, **Fraser JS**, Klein ML, Fiorin G, DeGrado WF. High resolution structures of the M2 proton channel from influenza A virus reveal  dynamic pathways for proton stabilization and transduction. *Submitted*, 2014.'
-#   date: 201412
-#   image: '/static/img/pub/thomaston_2014.jpg'
-#   pmid: TBD
-#   pmcid: In Process
-#   pdf: '/static/pdf/thomaston_2014.pdf'
-#   pdbs:
-#     - 4QK7
-#     - 4QKC
-#     - 4QKL
-#     - 4QKM
-#   links:
-#     - name: 'Paper Submission Celebration Photo'
-#       url: 'https://twitter.com/fraser_lab/status/510280611655725056/'
-#     - name: 'DeGrado Lab'
-#       url: 'http://www.degradolab.org/'
 #
 # - citation: 'Petek N, Kraemer J, Derman A, **Fraser JS**, DiMaio F, Baker D,  Pogliano J, Agard D, Mullins RD.Structure and function of actin-like protein Alp7A reveal conserved and unique features of actin-based plasmid segregation. *Submitted*, 2015.'
 #   date: 201507
@@ -39,6 +23,23 @@
 #     - name: 'Paper Submission Celebration Photo'
 #       url: 'https://twitter.com/fraser_lab/status/482313979524444161'
 #
+- citation: 'Thomaston JL, Alfonso-Prieto M, **Woldeyes RA**, **Fraser JS**, Klein ML, Fiorin G, DeGrado WF. High resolution structures of the M2 proton channel from influenza A virus reveal  dynamic pathways for proton stabilization and transduction. *Proceedings of the National Academy of Sciences*, 2015.'
+  date: 201511
+  image: '/static/img/pub/thomaston_2015.jpg'
+  pmid: TBD
+  pmcid: In Process
+  pdf: '/static/pdf/thomaston_2015.pdf'
+  pdbs:
+    - 4QK7
+    - 4QKC
+    - 4QKL
+    - 4QKM
+  links:
+    - name: 'Paper Submission Celebration Photo'
+      url: 'https://twitter.com/fraser_lab/status/510280611655725056/'
+    - name: 'DeGrado Lab'
+      url: 'http://www.degradolab.org/'
+
 - citation: '**Mavor D**, Barlow KA, Thompson S, **Barad BA**, Bonny AR, Cario CL, Gaskins G, Liu Z, Deming L, Axen SD, Caceres E, Chen W, Cuesta A, Gate R, Green EM, Hulce KR, Ji W, Kenner LR, Mensa B, Morinishi LS, Moss SM, Mravic M, Muir RK, Niekamp S, Nnadi CI, Palovcak E, **Poss EM**, Ross TD, Salcedo E, See S, Subramaniam M, Wong AW, Li J, Thorn KS, Conchúir SÓ, Roscoe BP, Chow ED, DeRisi JL, Kortemme T, Bolon DN, **Fraser JS**. Determination of Ubiquitin Fitness Landscapes Under Different Chemical Stresses in a Classroom Setting. *Submitted - Preprint available on BioRxiv*. 2015.'
   date: 201508
   image: '/static/img/pub/pubs_2015.jpg'
