@@ -252,7 +252,7 @@ Other Class Material:
 - [Library PCR protocol](https://docs.google.com/document/d/1KUXhrxh-QxumFcgfjUVXTdYNZq_956ZQ11zpUSxtGR0/edit?usp=sharing)
 - [Gel extraction protocol](https://drive.google.com/file/d/0Bx0d95RwVYufb2MtUml0SU5OWms/view?usp=sharing)
 - [Barcode Addition PCR protocol](https://docs.google.com/document/d/1US4qYUKqMY-s9H_ifFyWCCDQJfykd8Xmz4RwA8EBO7w/edit?usp=sharing)
-- [PCR cleanup protocol](http://omegabiotek.com/store/wp-content/uploads/2013/09/D6492_D6493-Cycle-Pure-Kit-Combo-Omega.pdfopen)
+- [PCR cleanup protocol](http://omegabiotek.com/store/wp-content/uploads/2013/09/D6492_D6493-Cycle-Pure-Kit-Combo-Omega.pdf)
 - [QBit Protocol](https://drive.google.com/file/d/0Bx0d95RwVYufM0xhZ01USllneHM/view?usp=sharing)
 - Final Library Hand-off Instructions
 
