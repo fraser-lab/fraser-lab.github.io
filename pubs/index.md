@@ -275,6 +275,7 @@ Other Class Material:
 - [PCR Product Annotation](https://docs.google.com/document/d/12CGyjBaVTB1ncw00-yRyQl6Acga-LS7bfywvrpxLbNg/edit?usp=sharing)
 - [Information about the format of your fastq files](http://support.illumina.com/help/SequencingAnalysisWorkflow/Content/Vault/Informatics/Sequencing_Analysis/CASAVA/swSEQ_mCA_FASTQFiles.htm)
 - [Using Matplotlib on the Server](/pubs/matplotlib_server/)
+- [Allele Dictionary With WT](https://drive.google.com/file/d/0B89bAF4_3DdIUE04UFhYdTR1MFE/view?usp=sharing)
 
 
 **Week 8 – Theme: Team Shuffles**
