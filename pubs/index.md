@@ -266,8 +266,8 @@ Student Presentations: Charlotte (Journal Club on [McLaughlin et al, 2012](http:
 
 Other Class Material:
 
--[Ina's Unix101](https://drive.google.com/file/d/0B89bAF4_3DdIUzlUMHhmU1pQRkk/view?usp=sharing)
--[Command line Refresher](https://external-production.codecademy.com/en/courses/learn-the-command-line/lessons/navigation/exercises/your-first-command?action=resume)
+- [Ina's Unix101](https://drive.google.com/file/d/0B89bAF4_3DdIUzlUMHhmU1pQRkk/view?usp=sharing)
+- [Command line Refresher](https://external-production.codecademy.com/en/courses/learn-the-command-line/lessons/navigation/exercises/your-first-command?action=resume)
 - [Computation Refresher](https://docs.google.com/presentation/d/1GMJg5oZIrMgenp6726jASmwLrbFJkYwlJRf7B8nM9g8/edit?usp=sharing)
 - [A Plasmid Editor (APE)](http://biologylabs.utah.edu/jorgensen/wayned/ape/)
 - [APE file for Plasmid](https://drive.google.com/file/d/0Bx0d95RwVYufNzJTaGpDU2lOR0E/view?usp=sharing)
