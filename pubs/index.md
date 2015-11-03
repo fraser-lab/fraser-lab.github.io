@@ -265,6 +265,7 @@ Lecturers: Eric Chow (11/2), Joe DeRisi (11/2), Ina Chen+TAs (11/2), Ryan Hernan
 Student Presentations: Charlotte (Journal Club on [McLaughlin et al, 2012](http://www.ncbi.nlm.nih.gov/pubmed?cmd=search&term=23041932), 11/3), Derek (Journal Club on [Pollack et al, 2012](http://www.ncbi.nlm.nih.gov/pubmed/?term=22547823), 11/4)
 
 Other Class Material:
+
 -[Ina's Unix101](https://drive.google.com/file/d/0B89bAF4_3DdIUzlUMHhmU1pQRkk/view?usp=sharing)
 -[Command line Refresher](https://external-production.codecademy.com/en/courses/learn-the-command-line/lessons/navigation/exercises/your-first-command?action=resume)
 - [Computation Refresher](https://docs.google.com/presentation/d/1GMJg5oZIrMgenp6726jASmwLrbFJkYwlJRf7B8nM9g8/edit?usp=sharing)
