@@ -285,7 +285,7 @@ _Lab work: Unify sequencing pipeline_
 
 Lecturers: Justin Biel (11/10)
 
-Student Presentations: 1 representative per team (11/9), Student #19 (Journal Club on [Lange et al, 2008](http://www.ncbi.nlm.nih.gov/pubmed/18556554), 11/10)
+Student Presentations: Team 1 minute update: What does the signal look like, what is failing, what do you think you guys have done that is different/innovative/working better than anything? (Sergei, Nat, Fatima, Yuliya, Ryan, Alex) (11/9), Nick (Journal Club on [Lange et al, 2008](http://www.ncbi.nlm.nih.gov/pubmed/18556554), 11/10)
 
 Sub-group suggestions:
 
