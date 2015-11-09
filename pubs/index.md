@@ -315,3 +315,5 @@ Other Class Material:
 - Rosetta material
 
 #Tuesday November 24 - FINAL TEAM PRESENTATIONS
+
+15 slide maximum, 15 minutes per team (plus questions)
