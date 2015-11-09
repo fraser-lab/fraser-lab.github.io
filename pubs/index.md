@@ -289,9 +289,9 @@ Student Presentations: Team 1 minute update: What does the signal look like, wha
 
 Sub-groups:
 
-- Data squeezing and scoring (Leanna)
-- Reproducibility and statistics of scores (Ina)
 - Biological inference (Bruk)
+- Data squeezing and scoring (Leanna)
+- Reproducibility and statistics (Ina)
 - Data visualization (Lillian)
 - Structure painting (Erin)
 - Comparing data sets (Evan)
