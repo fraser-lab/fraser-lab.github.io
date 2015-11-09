@@ -287,14 +287,14 @@ Lecturers: Justin Biel (11/10)
 
 Student Presentations: 1 representative per team (11/9), Student #19 (Journal Club on [Lange et al, 2008](http://www.ncbi.nlm.nih.gov/pubmed/18556554), 11/10)
 
-Sub-group suggestions:
+Sub-groups:
 
-- Hamming Distance error correction
-- Reproducibility of fitness scores at the barcodes and codon scale
-- Data visualization and structural mapping
-- Difference matrices,  global similarity between perturbations, and reproducibility between days
-- Standardization of Fitness scores and methods write up for paper
-- including as much standardized computation of other sub-groups as possible!
+- Data squeezing and scoring (Leanna)
+- Reproducibility and statistics of scores (Ina)
+- Biological inference (Bruk)
+- Data visualization (Lillian)
+- Structure painting (Erin)
+- Comparing data sets (Evan)
 
 Other Class Material:
 
