@@ -283,7 +283,7 @@ Other Class Material:
 
 _Lab work: Unify sequencing pipeline_
 
-Lecturers: Justin Biel (11/10)
+Lecturers: Kyle Barlow and Justin Biel (11/10)
 
 Student Presentations: Team 1 minute update: What does the signal look like, what is failing, what do you think you guys have done that is different/innovative/working better than anything? (Sergei, Nat, Fatima, Yuliya, Ryan, Alex) (11/9), Derek (Journal Club on [Pollack et al, 2012](http://www.ncbi.nlm.nih.gov/pubmed/?term=22547823), moved from 11/4 to 11/9) Nick (Journal Club on [Lange et al, 2008](http://www.ncbi.nlm.nih.gov/pubmed/18556554), 11/10)
 
@@ -305,7 +305,7 @@ Other Class Material:
 
 _Lab work: Rosetta predictions of protein stability_
 
-Lecturers: Tanja Kortemme (11/16), Kyle Barlow
+Lecturers: Tanja Kortemme (11/16)
 
 Student Presentations: Daniel, Emily, Paul and other representatives from Sub-groups (10/16), Ruilin (Journal Club on [Ye et al, 2012](http://www.ncbi.nlm.nih.gov/pubmed/?term=23201676), 10/17), Peter (Journal Club on [Humpris et al, 2007](http://www.ncbi.nlm.nih.gov/pubmed/?term=17722975), 10/18)
 
