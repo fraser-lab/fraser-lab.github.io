@@ -307,7 +307,7 @@ _Lab work: Rosetta predictions of protein stability_
 
 Lecturers: Tanja Kortemme (11/16)
 
-Student Presentations: Daniel, Emily, Paul and other representatives from Sub-groups (10/16), Ruilin (Journal Club on [Ye et al, 2012](http://www.ncbi.nlm.nih.gov/pubmed/?term=23201676), 10/17), Peter (Journal Club on [Humpris et al, 2007](http://www.ncbi.nlm.nih.gov/pubmed/?term=17722975), 10/18)
+Student Presentations: Daniel, Emily, Paul and other representatives from Sub-groups (10/16), Ruilin (Journal Club on [Ye et al, 2012](http://www.ncbi.nlm.nih.gov/pubmed/?term=23201676), 10/17), Peter (Journal Club on [Humphris et al, 2007](http://www.ncbi.nlm.nih.gov/pubmed/?term=17722975), 10/18)
 
 Other Class Material:
 
