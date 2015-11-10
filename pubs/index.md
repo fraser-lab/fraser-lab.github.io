@@ -236,7 +236,7 @@ Other Class Material:
 
 **Week 6 – Theme: Preparation for sequencing**
 
-#NSF GRFP due this week!
+###NSF GRFP due this week!
 
 _Lab work: Molecular biology to isolate library_
 
@@ -262,7 +262,7 @@ _Lab work: Begin sequencing pipeline_
 
 Lecturers: Eric Chow (11/2), Joe DeRisi (11/2), Ina Chen+TAs (11/2), Ryan Hernandez (11/3), Bo Huang (11/4)
 
-Student Presentations: Charlotte (Journal Club on [McLaughlin et al, 2012](http://www.ncbi.nlm.nih.gov/pubmed?cmd=search&term=23041932), 11/3), Derek (Journal Club on [Pollack et al, 2012](http://www.ncbi.nlm.nih.gov/pubmed/?term=22547823), 11/4)
+Student Presentations: Charlotte (Journal Club on [McLaughlin et al, 2012](http://www.ncbi.nlm.nih.gov/pubmed?cmd=search&term=23041932), 11/3)
 
 Other Class Material:
 
@@ -283,9 +283,9 @@ Other Class Material:
 
 _Lab work: Unify sequencing pipeline_
 
-Lecturers: Justin Biel (11/10)
+Lecturers: Kyle Barlow and Justin Biel (11/10)
 
-Student Presentations: Team 1 minute update: What does the signal look like, what is failing, what do you think you guys have done that is different/innovative/working better than anything? (Sergei, Nat, Fatima, Yuliya, Ryan, Alex) (11/9), Nick (Journal Club on [Lange et al, 2008](http://www.ncbi.nlm.nih.gov/pubmed/18556554), 11/10)
+Student Presentations: Team 1 minute update: What does the signal look like, what is failing, what do you think you guys have done that is different/innovative/working better than anything? (Sergei, Nat, Fatima, Yuliya, Ryan, Alex) (11/9), Derek (Journal Club on [Pollack et al, 2012](http://www.ncbi.nlm.nih.gov/pubmed/?term=22547823), moved from 11/4 to 11/9) Nick (Journal Club on [Lange et al, 2008](http://www.ncbi.nlm.nih.gov/pubmed/18556554), 11/10)
 
 Sub-groups:
 
@@ -302,13 +302,18 @@ Other Class Material:
 - [Kyle's Lecture (ddG)](https://drive.google.com/file/d/0B89bAF4_3DdIX0FibDVhazREeDBJeHNYeHBHVDI1U3NDdVdJ/view?usp=sharing)
 - [Justin's Pymol Demo](https://drive.google.com/folderview?id=0B89bAF4_3DdId0FjdG1yb1pRbWc&usp=sharing)
 
+=======
+<<<<<<< HEAD
+- Reminder: no class on Nov 11
+>>>>>>> d340d378119b9d925751f2bf303406aaa5c1d817
+
 **Week 9 – Theme: Biophysical Calcuations**
 
 _Lab work: Rosetta predictions of protein stability_
 
-Lecturers: Tanja Kortemme (11/16), Kyle Barlow
+Lecturers: Tanja Kortemme (11/16)
 
-Student Presentations: 1 representative per sub-group (10/16), Student #20 (Journal Club on [Ye et al, 2012](http://www.ncbi.nlm.nih.gov/pubmed/?term=23201676), 10/17), Student #21 (Journal Club on [Humpris et al, 2007](http://www.ncbi.nlm.nih.gov/pubmed/?term=17722975), 10/18)
+Student Presentations: Daniel, Emily, Paul and other representatives from Sub-groups (10/16), Ruilin (Journal Club on [Ye et al, 2012](http://www.ncbi.nlm.nih.gov/pubmed/?term=23201676), 10/17), Peter (Journal Club on [Humphris et al, 2007](http://www.ncbi.nlm.nih.gov/pubmed/?term=17722975), 10/18)
 
 Other Class Material:
 
@@ -316,3 +321,5 @@ Other Class Material:
 - Rosetta material
 
 #Tuesday November 24 - FINAL TEAM PRESENTATIONS
+
+#15 slide maximum, 15 minutes per team (plus questions)
