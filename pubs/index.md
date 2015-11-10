@@ -299,6 +299,8 @@ Sub-groups:
 Other Class Material:
 
 - [Hamming Distance](http://en.wikipedia.org/wiki/Hamming_distance)
+- [Kyle's Lecture (ddG)](https://drive.google.com/file/d/0B89bAF4_3DdIX0FibDVhazREeDBJeHNYeHBHVDI1U3NDdVdJ/view?usp=sharing)
+- [Justin's Pymol Demo](https://drive.google.com/folderview?id=0B89bAF4_3DdId0FjdG1yb1pRbWc&usp=sharing)
 
 **Week 9 – Theme: Biophysical Calcuations**
 
