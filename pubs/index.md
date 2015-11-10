@@ -236,7 +236,7 @@ Other Class Material:
 
 **Week 6 – Theme: Preparation for sequencing**
 
-#NSF GRFP due this week!
+###NSF GRFP due this week!
 
 _Lab work: Molecular biology to isolate library_
 
@@ -316,4 +316,4 @@ Other Class Material:
 
 #Tuesday November 24 - FINAL TEAM PRESENTATIONS
 
-15 slide maximum, 15 minutes per team (plus questions)
+#15 slide maximum, 15 minutes per team (plus questions)
