@@ -302,10 +302,8 @@ Other Class Material:
 - [Kyle's Lecture (ddG)](https://drive.google.com/file/d/0B89bAF4_3DdIX0FibDVhazREeDBJeHNYeHBHVDI1U3NDdVdJ/view?usp=sharing)
 - [Justin's Pymol Demo](https://drive.google.com/folderview?id=0B89bAF4_3DdId0FjdG1yb1pRbWc&usp=sharing)
 
-=======
-<<<<<<< HEAD
 - Reminder: no class on Nov 11
->>>>>>> d340d378119b9d925751f2bf303406aaa5c1d817
+
 
 **Week 9 – Theme: Biophysical Calcuations**
 
