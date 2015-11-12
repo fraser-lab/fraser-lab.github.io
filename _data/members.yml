@@ -101,13 +101,6 @@
   twitter: "ernpossible"
   description: "Erin graduated from Drake University with a degree in Biochemistry and Chemistry.  As an undergraduate, Erin worked in several labs ranging from exercise physiology to biophysics. In her free time, she enjoys running, hiking, and exploring San Francisco."
 
-- name: Andrew VanBenschoten
-  image: /static/img/members/avanbenschoten.jpg
-  position: Graduate Student
-  email: andrew.vanbenschoten (at) ucsf.edu
-  scholar: 6YlS0rQAAAAJ
-  twitter: "vanben11"
-  description: "Andrew completed his undergraduate studies in biology at MIT. While there, he worked with Cathy Drennan on determining the structure of metalloenzymes via X-ray crystallography. Andrew started at UCSF in the fall of 2011 and is investigating the features of diffuse X-ray scatter in several model protein systems and molecular machines."
 
 - name: Rahel Woldeyes
   image: /static/img/members/rwoldeyes.jpg
@@ -119,3 +112,10 @@
 # Rotation Students
 
 # Summer Students
+# - name: Andrew VanBenschoten
+#   image: /static/img/members/avanbenschoten.jpg
+#   position: Graduate Student
+#   email: andrew.vanbenschoten (at) ucsf.edu
+#   scholar: 6YlS0rQAAAAJ
+#   twitter: "vanben11"
+#   description: "Andrew completed his undergraduate studies in biology at MIT. While there, he worked with Cathy Drennan on determining the structure of metalloenzymes via X-ray crystallography. Andrew started at UCSF in the fall of 2011 and is investigating the features of diffuse X-ray scatter in several model protein systems and molecular machines."
