@@ -321,7 +321,6 @@ Other Class Material:
 - PYND: K29 linked poly-Ub - 4S22
 - SHMOO: K11 linked poly-Ub - 3NOB
 - WHANGEE: N-term linked poly-Ub - 2W9N
-
 - [ddG Data Website](https://guybrush.ucsf.edu/local/DDG/ubiquitin)
 
 #Tuesday November 24 - FINAL TEAM PRESENTATIONS
