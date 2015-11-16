@@ -315,8 +315,14 @@ Student Presentations: Daniel, Emily, Paul and other representatives from Sub-gr
 
 Other Class Material:
 
-- PDBs
-- Rosetta material
+- APUBSCRAWL: K6 linked poly-Ub - 2XK5
+- ONION: K48 linked poly-Ub - 1AAR
+- ET0H: K63 linked poly-Ub - 3H7P
+- PYND: K29 linked poly-Ub - 4S22
+- SHMOO: K11 linked poly-Ub - 3NOB
+- WHANGEE: N-term linked poly-Ub - 2W9N
+
+- [ddG Data Website](https://guybrush.ucsf.edu/local/DDG/ubiquitin)
 
 #Tuesday November 24 - FINAL TEAM PRESENTATIONS
 
