@@ -326,3 +326,13 @@ Other Class Material:
 #Tuesday November 24 - FINAL TEAM PRESENTATIONS
 
 #15 slide maximum, 15 minutes per team (plus questions)
+
+Schedule:
+
+- 1:10-1:30 - SHMOO: Nadja, Ryan, Daniel, Derek (TA: Leanna)
+- 1:30-1:50 - WHANGEE: Cole, Alex, Emily, Charlotte (TA: Evan)
+- 1:50-2:10 - APUBSCRAWL: Sergei, Rachel, David (TA: Bruk)
+- 2:10-2:30 - ONION: Peter, Pooja, Nathan (TA: Ina)
+- 2:30-2:50 - PYND: Douglas, Yuliya, Paul, Nicholas (TA: Erin)
+- 2:50-3:10 - ET0H: Ruilin, Tamas, Fatima (TA: Lillian)
+- 3:10-... PUBS party
