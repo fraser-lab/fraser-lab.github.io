@@ -23,6 +23,9 @@ group: publications
 			<li>Biorxiv Preprint: <a href="http://dx.doi.org/10.1101/{{publication.biorxiv}}" alt = "biorxiv prepring link: {{publication.pmcid}}"> {{publication.biorxiv}}</a></li>
 			{% endif %}
 			<li><a href="{{publication.pdf}}" alt = "PDF"> Full Text</a></li>
+			{% if publication.sbgrid %}
+			<li>Data (hosted by SBGrid): <a href="http://dx.doi.org/{{publication.sbgrid}}" alt = "sbgrid data repository">doi:{{publication.sbgrid}}</a></li>
+			{% endif %}
 			{% if publication.pdbs %}
 			<li>Deposited Structure{% if publication.pdbs.size > 1 %}s{% endif %}: 
 			{% for code in publication.pdbs %}
