@@ -23,6 +23,24 @@
 #     - name: 'Paper Submission Celebration Photo'
 #       url: 'https://twitter.com/fraser_lab/status/482313979524444161'
 #
+- citation: '**Van Benschoten AH**, Gonzalez A, Brewster AS, Sauter NK, **Fraser JS**, Wall ME. Measuring and modeling diffuse scattering in protein X-ray crystallography. *Submitted*, 2015.'
+  date: 201512
+  image: '/static/img/pub/avb_3_2015.jpg'
+  pmid: Submitted
+  pmcid: Submitted
+  biorxiv: "025452"
+  sbgrid: '10.15785/SBGRID/68'
+  sbgrid: '10.15785/SBGRID/201'
+  pdf: ''
+  pdbs:
+    - 5F6M
+    - 5F66
+  links:
+    - name: 'Michael Wall'
+      url: 'http://public.lanl.gov/mewall/'
+    - name: 'Paper Submission Celebration Photo'
+      url: ''
+
 - citation: 'Thomaston JL, Alfonso-Prieto M, **Woldeyes RA**, **Fraser JS**, Klein ML, Fiorin G, DeGrado WF. High resolution structures of the M2 proton channel from influenza A virus reveal  dynamic pathways for proton stabilization and transduction. *Proceedings of the National Academy of Sciences*, 2015.'
   date: 201511
   image: '/static/img/pub/thomaston_2015.jpg'
