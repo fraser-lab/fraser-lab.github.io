@@ -29,10 +29,10 @@
   pmid: Submitted
   pmcid: Submitted
   biorxiv: "033746"
-  data: 
+  data:
     - '10.15785/SBGRID/68'
     - '10.15785/SBGRID/201'
-  pdf: ''
+  pdf: 'http://biorxiv.org/content/biorxiv/early/2015/12/07/033746.full.pdf'
   pdbs:
     - 5F6M
     - 5F66
@@ -170,7 +170,7 @@ Franks-Skiba KE, Li M, Brown WL, Gunnarsson HI, Adalbjornsdottir A, **Fraser JS*
   pmcid: In process
   biorxiv: "016733"
   pdf: 'http://biorxiv.org/content/biorxiv/early/2015/03/19/016733.full.pdf'
-  data: 
+  data:
     - '10.15785/SBGRID/68'
   pdbs:
     - 4YUG
