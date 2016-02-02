@@ -7,4 +7,4 @@ paginate: 5
 paginate_path: "news/page:num"
 
 permalink: pretty
-highlighter: pygments
+markdown: rdiscount
