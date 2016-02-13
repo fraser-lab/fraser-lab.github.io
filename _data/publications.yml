@@ -16,12 +16,15 @@
 - citation: 'Cimermancic P, Weinkama P, Rettenmaier TJ, Bichmann L, **Keedy DA**, **Woldeyes RA**, Schneidmann D, Demerdash ONA, Mitchell JC, Wells JA, **Fraser JS**, Sali A. CryptoSite: Expanding the druggable proteome by characterization and prediction of cryptic binding sites. *Journal of Molecular Biology*. 2016'
   date: 201602
   image: '/static/img/pub/cimermancic_2016.jpg'
-  pmid: TBD
+  pmid: 26854760
   pmcid: In Process
   pdf: '/static/pdf/cimermancic_2016.pdf'
   links:
     - name: 'Paper Submission Celebration Photo'
       url: 'https://twitter.com/fraser_lab/status/482313979524444161'
+    - name: 'CryptoSite'
+      url: 'https://modbase.compbio.ucsf.edu/cryptosite/'
+
 - citation: 'Baxter EL, Aguila L, Alonso-Mori R, Barnes CO, BonaguraCA, Brehmer W, Brunger AT, Calero G, Caradoc-Davies TT, Chatterjee R, Degrado WF, **Fraser JS**, Ibrahim M, Kern J, Kobilka BK, Kruse AC, Larsson KM, Lemke HT, Lyubimov AY, Manglik A, McPhillips SE, Norgren E, Pang SS, Soltis SM, Song J, Thomaston J, Tsai Y, Weis WI, **Woldeyes RA**, Yachandra V, Yano J, Zouni A, Cohen AE. *Acta Crystallographica D*. 2016'
   date: 201601
   image: '/static/img/pub/baxter.gif'
@@ -33,7 +36,7 @@
         url: 'https://portal.slac.stanford.edu/sites/lcls_public/instruments/xpp/Pages/default.aspx'
 
 - citation: '**Van Benschoten AH**, Gonzalez A, Brewster AS, Sauter NK, **Fraser JS**, Wall ME. Measuring and modeling diffuse scattering in protein X-ray crystallography. *Submitted*, 2015.'
-  date: 201512
+  date: 201513
   image: '/static/img/pub/avb_3_2015.jpg'
   pmid: Submitted
   pmcid: Submitted
@@ -52,7 +55,7 @@
       url: 'https://twitter.com/fraser_lab/status/673393918524784640'
 
 - citation: 'Thomaston JL, Alfonso-Prieto M, **Woldeyes RA**, **Fraser JS**, Klein ML, Fiorin G, DeGrado WF. High resolution structures of the M2 proton channel from influenza A virus reveal  dynamic pathways for proton stabilization and transduction. *Proceedings of the National Academy of Sciences*, 2015.'
-  date: 201511
+  date: 201512
   image: '/static/img/pub/thomaston_2015.jpg'
   pmid: 26578770
   pmcid: PMC4655559
@@ -69,7 +72,7 @@
       url: 'http://www.degradolab.org/'
 
 - citation: '**Mavor D**, Barlow KA, Thompson S, **Barad BA**, Bonny AR, Cario CL, Gaskins G, Liu Z, Deming L, Axen SD, Caceres E, Chen W, Cuesta A, Gate R, Green EM, Hulce KR, Ji W, Kenner LR, Mensa B, Morinishi LS, Moss SM, Mravic M, Muir RK, Niekamp S, Nnadi CI, Palovcak E, **Poss EM**, Ross TD, Salcedo E, See S, Subramaniam M, Wong AW, Li J, Thorn KS, Conchúir SÓ, Roscoe BP, Chow ED, DeRisi JL, Kortemme T, Bolon DN, **Fraser JS**. Determination of Ubiquitin Fitness Landscapes Under Different Chemical Stresses in a Classroom Setting. *Submitted - Preprint available on BioRxiv*. 2015.'
-  date: 201508
+  date: 201511
   image: '/static/img/pub/pubs_2015.jpg'
   pmid: Submitted
   pmcid: Submitted
@@ -84,7 +87,7 @@
       url: 'http://fraserlab.com/pubs_2014/'
 
 - citation: 'Fischer M, Shoichet BK, **Fraser JS**. One Crystal, two Temperatures – Cryocooling Penalties alter Ligand Binding to Transient Protein Sites. *ChemBioChem*. 2015.'
-  date: 201512
+  date: 201510
   image: '/static/img/pub/fischer_2015.jpg'
   pmid: 26032594
   pmcid: PMC4539595
@@ -107,7 +110,7 @@
       url: 'http://f1000.com/prime/725527898'
 
 - citation: 'Dellus-Gur E, Elias M, Caselli E, Prati F, Salverda ML, de Visser JA, **Fraser JS**, Tawfik DS. Negative epistasis and evolvability in TEM-1 β-lactamase – The thin line between an enzyme’s conformational freedom and disorder. *Journal of Molecular Biology*. 2015.'
-  date: 201505
+  date: 201509
   image: '/static/img/pub/dellus_gur_2015.gif'
   pmid: 26004540
   pmcid: In process
@@ -130,7 +133,7 @@
 - citation: 'Kane JR, Stanley DJ, Hultquist JF, Johnson JR, Mietrach N,
 Binning JM, Jonsson SR, **Barelier S**, Newton BW, Johnson TL,
 Franks-Skiba KE, Li M, Brown WL, Gunnarsson HI, Adalbjornsdottir A, **Fraser JS**, Harris RS, Andresdottir V, Gross JD, Krogan NJ. Lineage-Specific Viral Hijacking of Non-canonical E3 Ubiquitin Ligase Cofactors in the Evolution of Vif Anti-APOBEC3 Activity. *Cell Reports*. 2015.'
-  date: 201505
+  date: 201508
   image: '/static/img/pub/kane_2015.jpg'
   pmid: 25981045
   pmcid: PMC4613747
@@ -144,7 +147,7 @@ Franks-Skiba KE, Li M, Brown WL, Gunnarsson HI, Adalbjornsdottir A, **Fraser JS*
       url: 'http://harc.ucsf.edu/'
 
 - citation: '**Keedy DA**, **Fraser JS**, van den Bedem H. Exposing hidden alternative backbone conformations in X-ray crystallography using qFit. *PLOS Computational Biology*. 2015.'
-  date: 201505
+  date: 201507
   image: '/static/img/pub/keedy_pcb_2015.jpg'
   pmid: 26506617
   pmcid: PMC4624436
@@ -163,7 +166,7 @@ Franks-Skiba KE, Li M, Brown WL, Gunnarsson HI, Adalbjornsdottir A, **Fraser JS*
       url: 'https://twitter.com/fraser_lab/status/594308094403837952'
 
 - citation: 'van den Bedem H, **Fraser JS**. Integrative, Dynamic Structural Biology at Atomic Resolution — It’s About Time. *Nature Methods*. 2015.'
-  date: 201504
+  date: 201506
   image: '/static/img/pub/vdb_2015.jpg'
   pmid: 25825836
   pmcid: PMC4457290
@@ -173,7 +176,7 @@ Franks-Skiba KE, Li M, Brown WL, Gunnarsson HI, Adalbjornsdottir A, **Fraser JS*
       url: 'https://people.stanford.edu/vdbedem/'
 
 - citation: '**Keedy DA**\*, **Kenner LR**\*, Warkentin M\*, **Woldeyes RA**\*, Hopkins JB, **Thompson MC**, Brewster AS, **Van Benschoten AH**, Baxter EL,  Uervirojnangkoorn M, McPhillips SE, Song J, Alonso-Mori R, Holton JM, Weis WI, Brunger AT, Soltis SM, Lemke H, Gonzalez A, Sauter NK, Cohen AE, van den Bedem H, Thorne RE, **Fraser JS**. Mapping the Conformational Landscape of a Dynamic Enzyme by Multitemperature and XFEL Crystallography. *eLife*. 2015.'
-  date: 201503
+  date: 201505
   image: '/static/img/pub/keedy_1_2015.png'
   pmid: 26422513
   pmcid: In process
@@ -203,7 +206,7 @@ Franks-Skiba KE, Li M, Brown WL, Gunnarsson HI, Adalbjornsdottir A, **Fraser JS*
       url: 'http://pages.physics.cornell.edu/~rthorne/'
 
 - citation: '**Barad BA**, Echols N, Wang RYR, Cheng Y, DiMaio F, Adams PD, **Fraser JS**. EMRinger: Side-chain-directed model and map validation for 3D Electron Cryomicroscopy. *Nature Methods*. 2015.'
-  date: 201503
+  date: 201504
   image: '/static/img/pub/bab_1_2015.jpg'
   pmid: 26280328
   biorxiv: 014738
@@ -231,7 +234,7 @@ Franks-Skiba KE, Li M, Brown WL, Gunnarsson HI, Adalbjornsdottir A, **Fraser JS*
       url: 'https://twitter.com/fraser_lab/status/545387123688214528'
 
 - citation: '**Van Benschoten AH**, Afonine PV, Terwilliger TC, Wall ME, Jackson CJ, Sauter NK, Adams PD, Urzhumtsev A, **Fraser JS**. Predicting X-ray Diffuse Scattering from Translation Libration Screw Structural Ensembles. *Acta Crystallographica D*. 2015.'
-  date: 201503
+  date: 201502
   image: '/static/img/pub/avb_1_2015.jpg'
   pmid: 26249347
   pmcid: PMC4528799
@@ -244,7 +247,7 @@ Franks-Skiba KE, Li M, Brown WL, Gunnarsson HI, Adalbjornsdottir A, **Fraser JS*
       url: 'http://www.iucr.org/news/research-news/predicting-x-ray-diffuse-scattering-from-translation-libration-screw-structural-ensembles'
 
 - citation: 'Bhabha G, **Biel JT**, **Fraser JS**. Keep on Moving: Discovering and Perturbing the Conformational Dynamics of Enzymes. *Accounts of Chemical Research*. 2015.'
-  date: 201502
+  date: 201501
   image: '/static/img/pub/bhabha_acr_2014.jpg'
   pmid: 25539415
   pmcid: PMC4334266
@@ -256,7 +259,7 @@ Franks-Skiba KE, Li M, Brown WL, Gunnarsson HI, Adalbjornsdottir A, **Fraser JS*
     #   url: 'http://www.fraserlab.com/justin_figures.html'
 
 - citation: 'Wall ME, **VanBenschoten AH**, Sauter NK, Adams PD, **Fraser JS**, Terwilliger TC.  Conformational Dynamics of a Crystalline Protein from Microsecond-Scale Molecular Dynamics Simulations and Diffuse X-Ray Scattering. *Proceedings of the National Academy of Sciences*. 2014'
-  date: 201412
+  date: 201407
   image: '/static/img/pub/wall_pnas_2014.jpg'
   pmid: 25453071
   pmcid: PMC4273327
@@ -271,7 +274,7 @@ Franks-Skiba KE, Li M, Brown WL, Gunnarsson HI, Adalbjornsdottir A, **Fraser JS*
 
 
 - citation: 'Williams BB, **VanBenschoten AH**, Cimermancic P, Donia MS, Zimmermann M, Taketani M,  Ishihara A, Kashyap PC, **Fraser JS**, Fischbach MA. Discovery and characterization of two tryptamine-producing decarboxylases from the gut microbiota. *Cell Host and Microbe*. 2014.'
-  date: 201410
+  date: 201406
   image: '/static/img/pub/williams_chm_2014.jpg'
   pmid: 25263219
   pmcid: PMC4260654
@@ -292,7 +295,7 @@ Franks-Skiba KE, Li M, Brown WL, Gunnarsson HI, Adalbjornsdottir A, **Fraser JS*
       url: 'http://www.nature.com/nrmicro/journal/v12/n11/full/nrmicro3373.html'
 
 - citation: '**Woldeyes RA**, Sivak DA, **Fraser JS**. E pluribus unum, no more: from one crystal, many conformations. *Current Opinion in Structural Biology*. 2014.'
-  date: 201410
+  date: 201405
   image: '/static/img/pub/woldeyes_cosb_2014.jpg'
   pmid: 25113271
   pmcid: PMC4253534
@@ -304,7 +307,7 @@ Franks-Skiba KE, Li M, Brown WL, Gunnarsson HI, Adalbjornsdottir A, **Fraser JS*
       url: 'https://twitter.com/fraser_lab/status/466374369317781504'
 
 - citation: '**Keedy DA**, van den Bedem H, Sivak DA, Petsko GA, Ringe D, Wilson MA, **Fraser JS**. Crystal Cryocooling Distorts Conformational Heterogeneity in a Model Michaelis Complex of DHFR. *Structure*. 2014.'
-  date: 201405
+  date: 201404
   image: '/static/img/pub/keedy_structure_2014.jpg'
   pmid: 24882744
   pmcid: PMC4082491
@@ -329,7 +332,7 @@ Franks-Skiba KE, Li M, Brown WL, Gunnarsson HI, Adalbjornsdottir A, **Fraser JS*
       url: 'http://f1000.com/prime/718430130'
 
 - citation: 'Fischer M\*, Coleman RG\*, **Fraser JS**, Shoichet BK. Incorporation of protein ﬂexibility and conformational energy penalties in docking screens to improve ligand discovery. *Nature Chemistry*. 2014.'
-  date: 201405
+  date: 201403
   image: '/static/img/pub/fischer_coleman_2014.jpg'
   pmid: 24950326
   pmcid: PMC4144196
@@ -404,7 +407,7 @@ Franks-Skiba KE, Li M, Brown WL, Gunnarsson HI, Adalbjornsdottir A, **Fraser JS*
       url: 'http://bl831.als.lbl.gov/END/RAPID/'
 
 - citation: 'van den Bedem H, Bhabha G, Yang K, Wright PE, **Fraser JS**. Automated identification of functional dynamic contact networks from X-ray crystallography. *Nature Methods*. 2013.'
-  date: 201309
+  date: 201304
   image: '/static/img/pub/vdb_nmethods_2013.gif'
   pmid: 23913260
   pmcid: PMC3760795
@@ -436,7 +439,7 @@ Franks-Skiba KE, Li M, Brown WL, Gunnarsson HI, Adalbjornsdottir A, **Fraser JS*
       url: 'http://f1000.com/prime/718058215'
 
 - citation: 'Braberg H, Jin H, Moehle E, Chan YA, Wang S, Shales M, Benschop JJ, Morris JH, **Fraser JS**,  Qiu C, Hu F, Tang LK, Holstege FCP, Hieter P, Guthrie C, Kaplan CD, Krogan NJ. From structure to systems: high-resolution, quantitative genetic analysis of RNA polymerase II. *Cell*. 2013.'
-  date: 201308
+  date: 201303
   image: '/static/img/pub/braberg_cell_2013.jpg'
   pmid: 23932120
   pmcid: PMC3932829
@@ -452,7 +455,7 @@ Franks-Skiba KE, Li M, Brown WL, Gunnarsson HI, Adalbjornsdottir A, **Fraser JS*
       url: 'http://f1000.com/prime/718071447'
 
 - citation: 'Ollikainen N, Smith CA, **Fraser JS**, Kortemme T. Flexible Backbone Sampling Methods to Model and Design Protein Alternative Conformations. *Methods in Enzymology*. 2013.'
-  date: 201301
+  date: 201302
   image: '/static/img/pub/ollikainen_mie_2013.jpg'
   pmid: 23422426
   pmcid: PMC3750959
@@ -480,7 +483,7 @@ Franks-Skiba KE, Li M, Brown WL, Gunnarsson HI, Adalbjornsdottir A, **Fraser JS*
       url: 'http://www.cell.com/molecular-cell/fulltext/S1097-2765(13)00045-2'
 
 - citation: 'Vila JA, Sue SC, **Fraser JS**, Scheraga HA, Dyson HJ. CheShift-2 resolves a local inconsistency between two X-ray crystal structures. *Journal of Biomolecular NMR*. 2012.'
-  date: 201210
+  date: 201203
   image: '/static/img/pub/vila_jbnmr_2012.jpg'
   pmid: 22945426
   pmcid: PMC3471536
@@ -494,7 +497,7 @@ Franks-Skiba KE, Li M, Brown WL, Gunnarsson HI, Adalbjornsdottir A, **Fraser JS*
       url: 'http://cheshift.com/'
 
 - citation: 'Beltrao P, Albanèse V, **Kenner LR**, Swaney DL, Burlingame A, Villén J, Lim WA, **Fraser JS**, Frydman J, Krogan NJ. Systematic functional prioritization of protein posttranslational modifications. *Cell*. 2012.'
-  date: 201207
+  date: 201202
   image: '/static/img/pub/beltrao_cell_2012.png'
   pmid: 22817900
   pmcid: PMC3404735
@@ -510,7 +513,7 @@ Franks-Skiba KE, Li M, Brown WL, Gunnarsson HI, Adalbjornsdottir A, **Fraser JS*
       url: 'http://www.evocellnet.com/2012/07/evolution-and-function-of-post.html'
 
 - citation: 'Kapp GT, Liu S, Stein A, Wong DT, Reményi A, Yeh BJ, **Fraser JS**, Taunton J, Lim WA, Kortemme T. Control of protein signaling using a computationally designed GTPase/GEF orthogonal pair. *Proceedings of the National Academy of Sciences*. 2012.'
-  date: 201204
+  date: 201201
   image: '/static/img/pub/kapp_pnas_2012.jpg'
   pmid: 22403064
   pmcid: PMC3325720
@@ -524,7 +527,7 @@ Franks-Skiba KE, Li M, Brown WL, Gunnarsson HI, Adalbjornsdottir A, **Fraser JS*
       url: 'http://www.ncbi.nlm.nih.gov/pubmed/22451928'
 
 - citation: '**Fraser JS**, van den Bedem H, Samelson AJ, Lang PT, Holton JM, Echols N, Alber T. Accessing protein conformational ensembles by room-temperature X-ray crystallography. *Proceedings of the National Academy of Sciences*. 2011.'
-  date: 201109
+  date: 201102
   image: '/static/img/pub/fraser_pnas_2011.jpg'
   pmid: 21918110
   pmcid: PMC3182744
@@ -546,7 +549,7 @@ Franks-Skiba KE, Li M, Brown WL, Gunnarsson HI, Adalbjornsdottir A, **Fraser JS*
       url: 'http://www.ploscompbiol.org/article/info:doi/10.1371/journal.pcbi.1002000#s3'
 
 - citation: '**Fraser JS**, Jackson CJ. Mining electron density for functionally relevant protein polysterism in crystal structures. *Cellular and Molecular Life Sciences*. 2011.'
-  date: 201106
+  date: 201101
   image: '/static/img/pub/fraser_cmls_2011.jpg'
   pmid: 21190057
   pmcid: PMC3092063
@@ -556,7 +559,7 @@ Franks-Skiba KE, Li M, Brown WL, Gunnarsson HI, Adalbjornsdottir A, **Fraser JS*
       url: 'http://jacksonlab.wordpress.com/'
 
 - citation: 'Lang PT\*, Ng HL\*, **Fraser JS**, Corn JE, Echols N, Sales M, Holton JM, Alber T. Automated electron-density sampling reveals widespread conformational polymorphism in proteins. *Protein Science*. 2010.'
-  date: 201007
+  date: 201002
   image: '/static/img/pub/lang_ps_2010.jpg'
   pmid: 20499387
   pmcid: PMC2974833
@@ -574,7 +577,7 @@ Franks-Skiba KE, Li M, Brown WL, Gunnarsson HI, Adalbjornsdottir A, **Fraser JS*
       url: 'http://phenix-online.org'
 
 - citation: 'Maghzal N\*, Vogt E\*, Reintsch W, **Fraser JS**, Fagotto F. The tumor-associated EpCAM regulates morphogenetic movements through intracellular signaling. *Journal of Cell Biology*. 2010.'
-  date: 201011
+  date: 201001
   image: '/static/img/pub/fagotto_jcb_2010.jpg'
   pmid: 20974811
   pmcid: PMC3003323
@@ -584,7 +587,7 @@ Franks-Skiba KE, Li M, Brown WL, Gunnarsson HI, Adalbjornsdottir A, **Fraser JS*
       url: 'http://biology.mcgill.ca/faculty/fagotto/'
 
 - citation: '**Fraser JS**, Clarkson MW, Degnan SC, Erion R, Kern D, Alber T. Hidden alternative structures of proline isomerase essential for catalysis. *Nature*. 2009.'
-  date: 200912
+  date: 200901
   image: '/static/img/pub/fraser_nature_2009.jpg'
   pmid: 19956261
   pmcid: PMC2805857
@@ -609,7 +612,7 @@ Franks-Skiba KE, Li M, Brown WL, Gunnarsson HI, Adalbjornsdottir A, **Fraser JS*
       url: 'http://f1000.com/1309961'
 
 - citation: '**Fraser JS**, Maxwell KL, Davidson, AR. Immunoglobulin-Like Domains on Bacteriophage: Weapons of Modest Damage? *Current Opinion in Microbiology.* 2007.'
-  date: 200708
+  date: 200702
   image: '/static/img/pub/fraser_comb_2007.jpg'
   pmid: 17765600
   pdf: '/static/pdf/fraser_comb_2007.pdf'
@@ -618,7 +621,7 @@ Franks-Skiba KE, Li M, Brown WL, Gunnarsson HI, Adalbjornsdottir A, **Fraser JS*
       url: 'http://individual.utoronto.ca/davidsonlab/Davidson_Lab/Home.html'
 
 - citation: '**Fraser JS\***, Merlie Jr. JP\*, Echols N\*, Weisfield SR, Mignot T, Wemmer DE, Zusman D, Alber T. An atypical receiver domain controls the dynamic polar localization of the Myxococcus xanthus social motility protein FrzS. *Molecular Microbiology*. 2007.'
-  date: 200707
+  date: 200701
   image: '/static/img/pub/fraser_molm_2007.jpg'
   pmid: 17573816
   pmcid: PMC1974792
@@ -633,7 +636,7 @@ Franks-Skiba KE, Li M, Brown WL, Gunnarsson HI, Adalbjornsdottir A, **Fraser JS*
       url: 'https://mcb.berkeley.edu/labs/zusman/'
 
 - citation: '**Fraser JS**, Yu Z, Maxwell KL, Davidson AR. Ig-like domains on bacteriophages: a tale of promiscuity and deceit. *Journal of Molecular Biology*. 2006.'
-  date: 200606
+  date: 200601
   image: '/static/img/pub/fraser_jmb_2006.jpg'
   pmid: 16631788
   pdf: '/static/pdf/fraser_jmb_2006.pdf'
