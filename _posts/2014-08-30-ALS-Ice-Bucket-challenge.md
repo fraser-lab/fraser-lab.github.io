@@ -6,21 +6,23 @@ group: news
 ---
 Yesterday [Peter Kim](http://web.stanford.edu/group/kimlab/) presented me (and [Bob Stroud](http://www.msg.ucsf.edu/stroud/index.htm) and [Charly Craik](http://www.craiklab.ucsf.edu/)) with the [Ice Bucket Challenge](http://www.alsa.org/fight-als/ice-bucket-challenge.html). Peter and Susan Marqusee were challenged by [Terry Oas](https://www.youtube.com/watch?v=-ils6pggkGg). This fundraiser holds special significance for all of us because Tom Alber, our friend and my PhD advisor, recently passed away from ALS. I think that Tom would have loved the Ice Bucket Challenge.
 
+{::nomarkdown}
 <div class="video-container">
          <iframe src="//www.youtube.com/embed/fQ7p9mHDJUw" frameborder="0" width="560" height="315"></iframe>
 </div>
-
-
+<br>
 <div class="video-container">
          <iframe src="//www.youtube.com/embed/9VrzhmSkqfQ" frameborder="0" width="560" height="315"></iframe>
 </div>
-
+{:/nomarkdown}
 
 Tom was incredibly courageous during the final years of his life. He never stopped learning about the underlying mechanisms of ALS and thinking of potential therapies. It was very painful to see him disappointed again and again by the ineffectiveness of the available treatments. Some of this disappointment is due to general difficulties in developing treatments for neurodegenerative diseases, but some of it was due to our lack of knowledge about the basic mechanisms of this disease.
 
+{::nomarkdown}
 <div class="video-container">
          <iframe src="//www.youtube.com/embed/UJ2mUbhzWic" frameborder="0" width="560" height="315"></iframe>
 </div>
+{:/nomarkdown}
 
 I challenged [Michael Eisen]( http://michaeleisen.org), [Ron Vale](http://valelab.ucsf.edu/), and [Barb Zunder](http://www.usfca.edu/sds/staff/). Barb will help spread the message to USF. I hope that Ron will take the challenge, donate, and work to invite a top ALS researcher to create an [iBioseminar](http://www.ibiology.org/ibioseminars.html) or [iBiomagazine](http://www.ibiology.org/ibiomagazine.html) video about ALS. There is a real opportunity for [iBiology](http://www.ibiology.org/) to use their production platform to capture the spirit of the moment. They can produce a fantastic video that describes the challenges and recent successes in understanding basic mechanisms of neurodegenerative disease.
 
