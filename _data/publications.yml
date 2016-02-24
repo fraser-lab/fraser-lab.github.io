@@ -13,7 +13,7 @@
 #     - name: 'Mullins Lab'
 #       url: 'http://mullinslab.ucsf.edu/'
 #
-- citation: 'Cimermancic P, Weinkama P, Rettenmaier TJ, Bichmann L, **Keedy DA**, **Woldeyes RA**, Schneidmann D, Demerdash ONA, Mitchell JC, Wells JA, **Fraser JS**, Sali A. CryptoSite: Expanding the druggable proteome by characterization and prediction of cryptic binding sites. *Journal of Molecular Biology*. 2016'
+- citation: 'Cimermancic P, Weinkam P, Rettenmaier TJ, Bichmann L, **Keedy DA**, **Woldeyes RA**, Schneidmann D, Demerdash ONA, Mitchell JC, Wells JA, **Fraser JS**, Sali A. CryptoSite: Expanding the druggable proteome by characterization and prediction of cryptic binding sites. *Journal of Molecular Biology*. 2016'
   date: 201602
   image: '/static/img/pub/cimermancic_2016.jpg'
   pmid: 26854760
@@ -24,6 +24,8 @@
       url: 'https://twitter.com/fraser_lab/status/482313979524444161'
     - name: 'CryptoSite'
       url: 'https://modbase.compbio.ucsf.edu/cryptosite/'
+    - name: 'In the pipeline'
+      url: 'http://blogs.sciencemag.org/pipeline/archives/2016/02/24/more-binding-sites-than-are-dreamt-of-in-your-philosophy'
 
 - citation: 'Baxter EL, Aguila L, Alonso-Mori R, Barnes CO, BonaguraCA, Brehmer W, Brunger AT, Calero G, Caradoc-Davies TT, Chatterjee R, Degrado WF, **Fraser JS**, Ibrahim M, Kern J, Kobilka BK, Kruse AC, Larsson KM, Lemke HT, Lyubimov AY, Manglik A, McPhillips SE, Norgren E, Pang SS, Soltis SM, Song J, Thomaston J, Tsai Y, Weis WI, **Woldeyes RA**, Yachandra V, Yano J, Zouni A, Cohen AE. *Acta Crystallographica D*. 2016'
   date: 201601
