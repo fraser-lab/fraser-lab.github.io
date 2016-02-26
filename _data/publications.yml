@@ -13,6 +13,25 @@
 #     - name: 'Mullins Lab'
 #       url: 'http://mullinslab.ucsf.edu/'
 #
+- citation: '**Van Benschoten AH**, **Liu L**, Gonzalez A, Brewster AS, Sauter NK, **Fraser JS**, Wall ME. Measuring and modeling diffuse scattering in protein X-ray crystallography. *Proceedings of the National Academy of Sciences*, 2016.'
+  date: 201513
+  image: '/static/img/pub/avb_3_2015.jpg'
+  pmid: Submitted
+  pmcid: Submitted
+  biorxiv: "033746"
+  data:
+    - '10.15785/SBGRID/68'
+    - '10.15785/SBGRID/201'
+  pdf: 'http://biorxiv.org/content/biorxiv/early/2015/12/07/033746.full.pdf'
+  pdbs:
+    - 5F6M
+    - 5F66
+  links:
+    - name: 'Michael Wall'
+      url: 'http://public.lanl.gov/mewall/'
+    - name: 'Paper Submission Celebration Photo'
+      url: 'https://twitter.com/fraser_lab/status/673393918524784640'
+
 - citation: 'Cimermancic P, Weinkam P, Rettenmaier TJ, Bichmann L, **Keedy DA**, **Woldeyes RA**, Schneidmann D, Demerdash ONA, Mitchell JC, Wells JA, **Fraser JS**, Sali A. CryptoSite: Expanding the druggable proteome by characterization and prediction of cryptic binding sites. *Journal of Molecular Biology*. 2016'
   date: 201602
   image: '/static/img/pub/cimermancic_2016.jpg'
@@ -36,25 +55,6 @@
   links:
       - name: LCLS XPP Beamline
         url: 'https://portal.slac.stanford.edu/sites/lcls_public/instruments/xpp/Pages/default.aspx'
-
-- citation: '**Van Benschoten AH**, Gonzalez A, Brewster AS, Sauter NK, **Fraser JS**, Wall ME. Measuring and modeling diffuse scattering in protein X-ray crystallography. *Submitted*, 2015.'
-  date: 201513
-  image: '/static/img/pub/avb_3_2015.jpg'
-  pmid: Submitted
-  pmcid: Submitted
-  biorxiv: "033746"
-  data:
-    - '10.15785/SBGRID/68'
-    - '10.15785/SBGRID/201'
-  pdf: 'http://biorxiv.org/content/biorxiv/early/2015/12/07/033746.full.pdf'
-  pdbs:
-    - 5F6M
-    - 5F66
-  links:
-    - name: 'Michael Wall'
-      url: 'http://public.lanl.gov/mewall/'
-    - name: 'Paper Submission Celebration Photo'
-      url: 'https://twitter.com/fraser_lab/status/673393918524784640'
 
 - citation: 'Thomaston JL, Alfonso-Prieto M, **Woldeyes RA**, **Fraser JS**, Klein ML, Fiorin G, DeGrado WF. High resolution structures of the M2 proton channel from influenza A virus reveal  dynamic pathways for proton stabilization and transduction. *Proceedings of the National Academy of Sciences*, 2015.'
   date: 201512
