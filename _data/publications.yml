@@ -14,7 +14,7 @@
 #       url: 'http://mullinslab.ucsf.edu/'
 #
 - citation: '**Van Benschoten AH**, **Liu L**, Gonzalez A, Brewster AS, Sauter NK, **Fraser JS**, Wall ME. Measuring and modeling diffuse scattering in protein X-ray crystallography. *Proceedings of the National Academy of Sciences*, 2016.'
-  date: 201603
+  date: 201604
   image: '/static/img/pub/avb_3_2015.jpg'
   pmid: Submitted
   pmcid: Submitted
@@ -31,6 +31,20 @@
       url: 'http://public.lanl.gov/mewall/'
     - name: 'Paper Submission Celebration Photo'
       url: 'https://twitter.com/fraser_lab/status/673393918524784640'
+
+- citation: 'PA Meyer, S Socias, J Key, E Ransey, EC Tjon, A Buschiazzo, M Lei, C Botka, J Withrow, D Neau, K Rajashankar, KS Anderson, RH Baxter, SC Blacklow, TJ Boggon, AMJJ Bonvin, D Borek, TJ Brett, A Caflisch, C Chang, WJ Chazin, KD Corbett, MS Cosgrove, S Crosson, S Dhe-Paganon, ED Cera, CL Drennan, MJ Eck, BF Eichman, QR Fan, AR Ferré-D'Amaré, JC Fromme, KC Garcia, R Gaudet, P Gong, SC Harrison, EE Heldwein, Z Jia, RJ Keenan, AC Kruse, M Kvansakul, JS McLellan, Y Modis, Y Nam, Z Otwinowski, EF Pai, PJB Pereira, C Petosa, CS Raman, TA Rapoport, A Roll-Mecak, MK Rosen, G Rudenko, J Schlessinger, TU Schwartz, Y Shamoo, H Sondermann, YJ Tao, NH Tolia, OV Tsodikov, KD Westover, H Wu, I Foster, **JS Fraser**, FRNC Maia, T Gonen, T Kirchhausen, K Diederichs, M Crosas, P Sliz. Data publication with the structural biology data grid supports live analysis *Nature Communications*, 2016.'
+  date: 201603
+  image: '/static/img/pub/sbgrid_2016.jpg'
+  pmid: Submitted
+  pmcid: Submitted
+  data:
+    - '10.15785/SBGRID/68'
+  pdf: '/static/pdf/sbgrid_2016.pdf'
+  pdbs:
+    - 5F6M
+  links:
+    - name: 'SBGrid'
+      url: 'http://data.sbgrid.org'
 
 - citation: 'Cimermancic P, Weinkam P, Rettenmaier TJ, Bichmann L, **Keedy DA**, **Woldeyes RA**, Schneidmann D, Demerdash ONA, Mitchell JC, Wells JA, **Fraser JS**, Sali A. CryptoSite: Expanding the druggable proteome by characterization and prediction of cryptic binding sites. *Journal of Molecular Biology*. 2016'
   date: 201602
