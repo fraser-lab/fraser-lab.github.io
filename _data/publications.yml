@@ -41,7 +41,7 @@
     - '10.15785/SBGRID/68'
   pdf: '/static/pdf/sbgrid_2016.pdf'
   pdbs:
-    - 5F6M
+    - 4YUO
   links:
     - name: 'SBGrid'
       url: 'http://data.sbgrid.org'
