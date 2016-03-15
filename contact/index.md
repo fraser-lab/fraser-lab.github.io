@@ -29,10 +29,10 @@ group: contact
 
 <div class="col-md-4">
 
-  <h4> Eleanor Rono</h4>
+  <h4> Cathleen Nicole Canlas</h4>
   Administrative Assistant to Drs. Michael Fischbach and James Fraser<br>
   Department of Bioengineering and Therapeutic Sciences  <br>
-  Email: Eleanor.Rono (at) ucsf.edu  <br>
+  Email:  CathleenNicole.Canlas (at) ucsf.edu  <br>
   Phone: 415 514 486 one   <br>
 
 </div>
