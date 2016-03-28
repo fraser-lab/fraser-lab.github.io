@@ -22,7 +22,7 @@
   data:
     - '10.15785/SBGRID/68'
     - '10.15785/SBGRID/201'
-  pdf: 'http://biorxiv.org/content/biorxiv/early/2015/12/07/033746.full.pdf'
+  pdf: '/static/pdf/vanbenschoten_2016.pdf'
   pdbs:
     - 5F6M
     - 5F66
