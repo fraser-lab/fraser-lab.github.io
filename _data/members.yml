@@ -54,6 +54,7 @@
   twitter: "danielkeedy"
   description: "Daniel was a graduate student at Duke University with Jane and David Richardson, where he studied protein flexibility in structure validation, prediction, and design. In the Fraser lab, he will develop techniques to build multi-conformer structural models, extract functional cooperative conformational changes, and engineer allosteric/drug-sensitive proteins.
 
+
   Daniel is supported by a fellowship from the A.P. Giannini Foundation."
 
 - name: Michael Thompson
@@ -63,6 +64,7 @@
   scholar: KDvVpWYAAAAJ
   twitter: "mctucsf"
   description: 'Michael was an undergraduate at UC Berkeley, where he was introduced to structural biology and X-ray crystallography as a research assistant in Tom Alber’s laboratory. He received his Ph.D. in 2014 from UCLA, where he worked under the direction of Todd Yeates, investigating structure-function relationships in a key family of proteins that define a widespread class of prokaryotic organelles collectively known as “bacterial microcompartments.” As a postdoc in the Fraser Lab, Michael will examine how amino acid substitutions alter the catalytic rates of enzymes by modifying their conformational ensembles. This work will emphasize the characterization of disease-associated mutations found in human proteases. Additionally, Michael will work on developing experimental methodology for studying conformational heterogeneity and structural dynamics of protein molecules using X-ray free electron lasers (XFELs).
+
 
   Mike has been supported by a BioXFEL postdoctoral fellowship and is currently supported by a F32 fellowship from NHLBI'
 
@@ -95,6 +97,7 @@
   twitter: "thebieldeal"
   description: "Justin graduated from Oregon State University with a degree in Biochemistry and Biophysics. He conducted research in both the laboratories of Elisar Barbar studying dynein protein interactions, and P. Andrew Karplus conducting structural bioinformatic research on protein structural components from ultra-high resolution protein crystal structures.
 
+
   Justin is supported by a graduate fellowship from NSF"
 
 - name: David Mavor
@@ -118,6 +121,8 @@
   scholar: kFoaho8AAAAJ
   twitter: "rahelwoldeyes"
   description: "Rahel graduated from University of Minnesota – Twin cities with B.S in Biochemistry and Chemistry. As an undergraduate student, she worked in several labs on projects ranging from cell to structural biology. In the Fraser lab, Rahel will be studying the structure-dynamics-function relationships of proteins and protein-ligand complexes using a combination of room temperature X-ray Crystallography and NMR approaches. Furthermore, she will be developing and implementing methods to dissect allostery in drug targets.
+
+
 
   Rahel is supported by a graduate fellowship from NSF"
 # Rotation Students
