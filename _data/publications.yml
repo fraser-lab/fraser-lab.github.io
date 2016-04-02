@@ -59,6 +59,8 @@
       url: 'https://modbase.compbio.ucsf.edu/cryptosite/'
     - name: 'In the pipeline'
       url: 'http://blogs.sciencemag.org/pipeline/archives/2016/02/24/more-binding-sites-than-are-dreamt-of-in-your-philosophy'
+    - name: 'F1000 Evaluation'
+      url: 'http://f1000.com/prime/726132503'
 
 - citation: 'Baxter EL, Aguila L, Alonso-Mori R, Barnes CO, BonaguraCA, Brehmer W, Brunger AT, Calero G, Caradoc-Davies TT, Chatterjee R, Degrado WF, **Fraser JS**, Ibrahim M, Kern J, Kobilka BK, Kruse AC, Larsson KM, Lemke HT, Lyubimov AY, Manglik A, McPhillips SE, Norgren E, Pang SS, Soltis SM, Song J, Thomaston J, Tsai Y, Weis WI, **Woldeyes RA**, Yachandra V, Yano J, Zouni A, Cohen AE. *Acta Crystallographica D*. 2016'
   date: 201601
