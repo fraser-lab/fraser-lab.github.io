@@ -17,7 +17,7 @@
   date: 201604
   image: '/static/img/pub/avb_3_2015.jpg'
   pmid: 27035972
-  pmcid: Submitted
+  pmcid: In Process
   biorxiv: "033746"
   data:
     - '10.15785/SBGRID/68'
@@ -36,7 +36,7 @@
   date: 201603
   image: '/static/img/pub/sbgrid_2016.jpg'
   pmid: 26947396
-  pmcid: Submitted
+  pmcid: PMC4786681
   data:
     - '10.15785/SBGRID/68'
   pdf: '/static/pdf/sbgrid_2016.pdf'
@@ -50,7 +50,7 @@
   date: 201602
   image: '/static/img/pub/cimermancic_2016.jpg'
   pmid: 26854760
-  pmcid: In Process
+  pmcid: PMC4794384
   pdf: '/static/pdf/cimermancic_2016.pdf'
   links:
     - name: 'Paper Submission Celebration Photo'
@@ -64,7 +64,7 @@
   date: 201601
   image: '/static/img/pub/baxter.gif'
   pmid: 26894529
-  pmcid: In Process
+  pmcid: PMC4756618
   pdf: '/static/pdf/baxter_2016.pdf'
   links:
       - name: LCLS XPP Beamline
