@@ -13,6 +13,17 @@
 #     - name: 'Mullins Lab'
 #       url: 'http://mullinslab.ucsf.edu/'
 #
+- citation: 'Wang RYR, Song Y, **Barad BA**, Cheng Y, **Fraser JS**, DiMaio F. Automated structure refinement of macromolecular assemblies from cryo-EM maps using Rosetta. *Submitted - Preprint on BioRxiv*. 2016.'
+  date: 201606
+  image: '/static/img/pub/wang_2016.jpg'
+  pmid: Submitted
+  pmcid: Submitted
+  biorxiv: "050286"
+  pdf: 'http://biorxiv.org/content/early/2016/04/26/050286.full.pdf'
+  links:
+    - name: 'DiMaio Lab'
+      url: 'https://faculty.washington.edu/dimaio/wordpress/'
+
 - citation: '**Mavor D**, Barlow KA, Thompson S, **Barad BA**, Bonny AR, Cario CL, Gaskins G, Liu Z, Deming L, Axen SD, Caceres E, Chen W, Cuesta A, Gate R, Green EM, Hulce KR, Ji W, Kenner LR, Mensa B, Morinishi LS, Moss SM, Mravic M, Muir RK, Niekamp S, Nnadi CI, Palovcak E, **Poss EM**, Ross TD, Salcedo E, See S, Subramaniam M, Wong AW, Li J, Thorn KS, Conchúir SÓ, Roscoe BP, Chow ED, DeRisi JL, Kortemme T, Bolon DN, **Fraser JS**. Determination of Ubiquitin Fitness Landscapes Under Different Chemical Stresses in a Classroom Setting. *eLife*. 2016.'
   date: 201605
   image: '/static/img/pub/pubs_2015.jpg'
