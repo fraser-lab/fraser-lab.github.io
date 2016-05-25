@@ -19,7 +19,7 @@ group: contact
 <div class="col-md-4">
 
   <h4>James Fraser</h4>
-  Assistant Professor  <br>
+  Associate Professor  <br>
   Department of Bioengineering and Therapeutic Sciences  <br>
   California Institute of Quantitative Biosciences (QB3)  <br>
   email: jfraser (at) fraserlab.com <br>
