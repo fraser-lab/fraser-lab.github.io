@@ -38,6 +38,8 @@
       url: 'https://github.com/fraser-lab/PUBS2014'
     - name: 'Course Syllabus'
       url: 'http://fraserlab.com/pubs_2014/'
+    - name: 'eLIFEdigest: Yeast in a class of their own'
+      url: 'https://medium.com/lifes-building-blocks/yeast-in-a-class-of-their-own-4dabb27653eb#.tcf71ly8z'
 
 - citation: '**Van Benschoten AH**, **Liu L**, Gonzalez A, Brewster AS, Sauter NK, **Fraser JS**, Wall ME. Measuring and modeling diffuse scattering in protein X-ray crystallography. *Proceedings of the National Academy of Sciences*, 2016.'
   date: 201604
