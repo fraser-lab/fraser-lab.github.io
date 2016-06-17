@@ -23,7 +23,7 @@ group: contact
   Department of Bioengineering and Therapeutic Sciences  <br>
   California Institute of Quantitative Biosciences (QB3)  <br>
   email: jfraser (at) fraserlab.com <br>
-  tel: 415 493 842 one
+  tel: 415 502 186 three
 
 </div>
 
