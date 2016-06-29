@@ -40,6 +40,7 @@
 
 - name: Lin Liu
   image: /static/img/members/lliu.jpg
+  altimage: /static/img/members/photobomb/LIU.jpg
   position: Associate Specialist
   email: lin.liu (at) ucsf.edu
   scholar: 5kUDcJ0AAAAJ
@@ -47,7 +48,7 @@
 
 - name: Daniel Keedy
   image: /static/img/members/dkeedy.jpg
-  altimage: /static/img/members/dkeedyaltsmall.jpg
+  altimage: /static/img/members/photobomb/KEEDY.jpg
   position: Postdoc
   email: daniel.keedy (at) gmail.com
   scholar: TVaqcVwAAAAJ
@@ -59,6 +60,7 @@
 
 - name: Michael Thompson
   image: /static/img/members/mike.jpg
+  altimage: /static/img/members/photobomb/THOMPSON.jpg
   position: Postdoc
   email: mct.ucsf (at) gmail.com
   scholar: KDvVpWYAAAAJ
@@ -70,7 +72,7 @@
 
 - name: Ben Barad
   image: /static/img/members/barad_new.jpg
-  altimage: /static/img/members/bbarad.jpg
+  altimage: /static/img/members/photobomb/BARAD.jpg
   position: Graduate Student
   email: benjamin.barad (at) gmail.com
   scholar: XDH9FrwAAAAJ
@@ -91,6 +93,7 @@
 
 - name: Justin Biel
   image: /static/img/members/jbiel.jpg
+  altimage: /static/img/members/photobomb/BIEL.jpg
   position: Graduate Student
   email: justin.biel (at) ucsf.edu
   scholar: FatB6VQAAAAJ
@@ -102,12 +105,14 @@
 
 - name: David Mavor
   image: /static/img/members/dmavor.jpg
+  altimage: /static/img/members/photobomb/MAVOR.jpg
   position: Graduate Student
   email: david.mavor (at) ucsf.edu
   description: "David graduated from Reed College in Biochemistry after working with Dr. Jay Mellies on E. coli virulence factors. He then worked with Dr. Alan Frankel at UCSF before joining iPQB in biophysics. Currently he is investigating the conformational dynamics of protein-protein interactions. When not in lab, David enjoys making music, swing dancing and playing with his 70 lbs beast, Lucy."
 
 - name: Erin Poss
   image: /static/img/members/eposs.jpg
+  altimage: /static/img/members/photobomb/POSS.jpg
   position: Graduate Student
   email: eposs (at) fraserlab.com
   twitter: "ernpossible"
@@ -116,6 +121,7 @@
 
 - name: Rahel Woldeyes
   image: /static/img/members/rwoldeyes.jpg
+  altimage: /static/img/members/photobomb/WOLDEYES.jpg
   position: Graduate Student
   email: rahel.woldeyes (at) ucsf.edu
   scholar: kFoaho8AAAAJ
@@ -141,6 +147,7 @@
 
 - name: Tomas Lazarou
   image: /static/img/members/tlazarou.jpg
+  altimage: /static/img/members/photobomb/LAZAROU.jpg
   position: Undergraduate Researcher
   email: lazarots@mcmaster.ca
   description: "Tomas is currently completing his undergraduate degree in Chemical Biology at McMaster University. He is joining the Fraser lab for 8 months to complete the co-op portion of his degree. He previously worked with Dr. Lori Burrows studying antibiotic resistance and peptidoglycan recycling  in P. aeruginosa. He then completed his fourth year thesis in Dr. Giuseppe Melacini's lab investigating dynamics of Protein Kinase A using NMR."
