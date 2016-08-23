@@ -71,6 +71,15 @@
 
   Mike has been supported by a BioXFEL postdoctoral fellowship and is currently supported by a F32 fellowship from NHLBI'
 
+- name: Brandi Hudson
+  image: /static/img/members/
+  altimage: /static/img/members/photobomb/
+  position: Postdoc
+  email: brandimhudson (at) gmail.com
+  scholar: 
+  website: "http://brandimhudson.com"
+  description: “Brandi received her Ph.D. from UC Davis with Dean Tantillo, where she applied computational chemistry to explain complex reaction mechanisms, conformation-activity relationships of potential pharmaceuticals, and non-covalent interactions in small organic molecules. In the Fraser lab,  she will use computational and experimental techniques to develop methods to account for conformational ligand heterogeneity and allosteric binding sites. 
+
 - name: Ben Barad
   image: /static/img/members/barad_new.jpg
   altimage: /static/img/members/photobomb/BARAD.jpg
