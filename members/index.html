@@ -18,6 +18,11 @@ group: members
         {% if person.website %}
           <a href= "{{person.website}}">{{person.website}}</a> <br>
         {% endif %}
+        {% if person.orcid %}
+          <a href="http://{{person.orcid}}"> 
+             <img class="inline-block" src="/static/img/orcid_logo.png"> {{person.orcid}} 
+          </a>
+        {% endif %}
         {% if person.scholar %}
           <a href= "http://scholar.google.com/citations?user={{person.scholar}}"> Scholar Citations </a> <br>
         {% endif %}
