@@ -4,9 +4,9 @@ layout: default
 group: pubs
 ---
 
-#Biophysics 205A: Physical Underpinnings of Biological Systems#
+#Biophysics 205A: Physical Underpinnings of Biological Systems
 
-##Fall 2015 Syllabus##
+##Fall 2015 Syllabus
 
 **Course Title:** Physical Underpinnings of Biological Systems (PUBS)
 
