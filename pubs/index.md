@@ -4,9 +4,9 @@ layout: default
 group: pubs
 ---
 
-#Biophysics 205A: Physical Underpinnings of Biological Systems
+# Biophysics 205A: Physical Underpinnings of Biological Systems
 
-##Fall 2015 Syllabus
+## Fall 2015 Syllabus
 
 **Course Title:** Physical Underpinnings of Biological Systems (PUBS)
 
@@ -105,7 +105,7 @@ _Absences_: The instructor must be notified by the second week of classes for an
 _Accommodations for students with disabilities:_ The Graduate Division embraces all students, including students with documented disabilities. UCSF is committed to providing all students equal access to all of its programs, services, and activities. Student Disability Services (SDS) is the campus office that works with students who have disabilities to determine and coordinate reasonable accommodations. Students who have, or think they may have, a disability are invited to contact SDS (StudentDisability@ucsf.edu); or 415-476-6595) for a confidential discussion and to review the process for requesting accommodations in classroom and clinical settings. More information is available online
 at http://sds.ucsf.edu. Accommodations are never retroactive; therefore students are encouraged to register with Student Disability Services (http://sds.ucsf.edu/) as soon as they begin their programs. UCSF encourages students to engage in support seeking behavior via all of the resources available through Student Life, for consistent support and access to their programs.
 
-##Teams
+## Teams
 
 - APUBSCRAWL: Sergei, Rachel, David (TA: Bruk, SWE1, K6, Cerulenin - 4.5 uM)
 - ONION: Peter, Pooja, Nathan (TA: Ina, ATG1, K48, rapamycin - 200 nM)
@@ -114,7 +114,7 @@ at http://sds.ucsf.edu. Accommodations are never retroactive; therefore students
 - SHMOO: Nadja, Ryan, Daniel, Derek (TA: Leanna, CMK1, K11, CaCl2, 500 mM)
 - WHANGEE: Cole, Alex, Emily, Charlotte (TA: Evan, TPK1, N-term, Tunicamycin 1ug/mL)
 
-##Lab work, individual presentation schedule, and recommended reading
+## Lab work, individual presentation schedule, and recommended reading
 
 **Week 1 – Theme: Ubiquitin and Programming**
 
@@ -236,7 +236,7 @@ Other Class Material:
 
 **Week 6 – Theme: Preparation for sequencing**
 
-###NSF GRFP due this week!
+### NSF GRFP due this week!
 
 _Lab work: Molecular biology to isolate library_
 
