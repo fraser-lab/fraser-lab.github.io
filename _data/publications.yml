@@ -13,11 +13,11 @@
 #     - name: 'Mullins Lab'
 #       url: 'http://mullinslab.ucsf.edu/'
 #
-- citation: 'Wang RYR, Song Y, **Barad BA**, Cheng Y, **Fraser JS**, DiMaio F. Automated structure refinement of macromolecular assemblies from cryo-EM maps using Rosetta. *Submitted - Preprint on BioRxiv*. 2016.'
+- citation: 'Wang RYR, Song Y, **Barad BA**, Cheng Y, **Fraser JS**, DiMaio F. Automated structure refinement of macromolecular assemblies from cryo-EM maps using Rosetta. *eLife*. 2016.'
   date: 201606
   image: '/static/img/pub/wang_2016.jpg'
-  pmid: Submitted
-  pmcid: Submitted
+  pmid: In Process
+  pmcid: In Process
   biorxiv: "050286"
   pdf: 'http://biorxiv.org/content/early/2016/04/26/050286.full.pdf'
   links:
@@ -30,7 +30,7 @@
   pmid: 27111525
   pmcid: PMC4862753
   biorxiv: "025452"
-  pdf: 'http://biorxiv.org/content/biorxiv/early/2015/08/25/025452.full.pdf'
+  pdf: '/static/pdf/mavor_elife_2016.pdf'
   links:
     - name: 'Paper Submission Celebration Photo'
       url: 'https://twitter.com/fraser_lab/status/635972900013498368'
