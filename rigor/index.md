@@ -106,4 +106,4 @@ Sex as a Biological Variable
 
 Experimental vs. Technical Replicates / Correlation and Causation
 
-[http://utw10426.utweb.utexas.edu/book/chap19.pdf](Jim Bull's Text UT Austin)
+[Jim Bull's Text UT Austin](http://utw10426.utweb.utexas.edu/book/chap19.pdf)
