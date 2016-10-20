@@ -21,13 +21,14 @@ when addressing reproducibility and rigor in research?
 designed studies?
 
 
-*Biological and Technical Replicates*
+#Biological and Technical Replicates#
 
 {::nomarkdown}
 <div class="video-container">
          <iframe src="//www.youtube.com/embed/wSWunBYzl8c" frameborder="0" width="280" height="107"></iframe>
 </div>
 <br>
+{:/nomarkdown}
 
 Starting Points:
 - Replication: requires a precise process where the exact same findings are reexamined in the same way with identical design, power, subject selection requirements, and level of significance as the original research study.1
