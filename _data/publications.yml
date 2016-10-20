@@ -20,6 +20,9 @@
   pmcid: Submitted
   biorxiv: "081646"
   pdf: 'http://biorxiv.org/content/biorxiv/early/2016/10/17/081646.full.pdf'
+  pdbs:
+    - 5tof
+    - 5tog
   links:
     - name: 'Paper Submission Celebration Photo'
       url: 'https://twitter.com/fraser_lab/status/788212265296158720'
