@@ -20,6 +20,9 @@ when addressing reproducibility and rigor in research?
 - Would people be willing to admit that their lab might not always conduct the most rigorously
 designed studies?
 
+Overall questions:
+
+- What is an example of a recent "control" experiment or analysis that you have performed? What does it control for and why do you think it is effective?
 
 **Biological and Technical Replicates**
 
