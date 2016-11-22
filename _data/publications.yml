@@ -35,7 +35,7 @@
   pmid: 27669148
   pmcid: In Process
   biorxiv: "050286"
-  pdf: 'http://biorxiv.org/content/early/2016/04/26/050286.full.pdf'
+  pdf: 'static/pdf/wang_2016.pdf'
   links:
     - name: 'DiMaio Lab'
       url: 'https://faculty.washington.edu/dimaio/wordpress/'
