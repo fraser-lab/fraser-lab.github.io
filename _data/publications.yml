@@ -13,6 +13,16 @@
 #     - name: 'Mullins Lab'
 #       url: 'http://mullinslab.ucsf.edu/'
 #
+- citation: 'Russi S, González A, **Kenner LR**, **Keedy DA**, **Fraser JS**, van den Bedem H. Conformational variation of proteins at room temperature is not dominated by radiation damage. *Journal of Synchrotron Radiation*. 2017.'
+  date: 201701
+  image: '/static/img/pub/russi_2017.jpg'
+  pmid: Submitted
+  pmcid: Submitted
+  pdf: 'static/pdf/russi_2017.pdf'
+  links:
+    - name: Henry van den Bedem
+      url: 'https://people.stanford.edu/vdbedem/'
+
 - citation: '**Biel JT**, **Thompson MC**, Cunningham CN, Corn JE, **Fraser JS**. Flexibility and design: conformational heterogeneity along the evolutionary trajectory of a redesigned ubiquitin. *Submitted*. 2016.'
   date: 201606
   image: '/static/img/pub/biel_2016.jpg'
