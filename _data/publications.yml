@@ -13,11 +13,23 @@
 #     - name: 'Mullins Lab'
 #       url: 'http://mullinslab.ucsf.edu/'
 #
+- citation: 'Adolph MB, Ara A, Feng Y, Wittkopp CJ, Emerman M, **Fraser JS**, Chelico L. Cytidine deaminase efficiency of the lentiviral viral restriction factor APOBEC3C correlates with dimerization. *Nucleic Acids Research*. 2017.'
+  date: 201702
+  image: '/static/img/pub/chelico_2017.jpg'
+  pmid: 28158858
+  pmcid: In Process
+  pdf: 'static/pdf/chelico_2017.pdf'
+  links:
+    - name: Linda Chelico
+      url: 'https://medicine.usask.ca/profiles/microbiology-and-immunology/linda-chelico.php'
+    - name: HARC Center
+      url: 'http://harc.ucsf.edu/'
+
 - citation: 'Russi S, González A, **Kenner LR**, **Keedy DA**, **Fraser JS**, van den Bedem H. Conformational variation of proteins at room temperature is not dominated by radiation damage. *Journal of Synchrotron Radiation*. 2017.'
   date: 201701
   image: '/static/img/pub/russi_2017.jpg'
   pmid: 28009548
-  pmcid: In Process
+  pmcid: PMC5182021
   pdf: 'static/pdf/russi_2017.pdf'
   links:
     - name: Henry van den Bedem
@@ -43,7 +55,7 @@
   date: 201606
   image: '/static/img/pub/wang_2016.jpg'
   pmid: 27669148
-  pmcid: In Process
+  pmcid: PMC5115868 
   biorxiv: "050286"
   pdf: 'static/pdf/wang_2016.pdf'
   links:
