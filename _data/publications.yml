@@ -18,7 +18,7 @@
   image: '/static/img/pub/chelico_2017.jpg'
   pmid: 28158858
   pmcid: In Process
-  pdf: 'static/pdf/chelico_2017.pdf'
+  pdf: '/static/pdf/chelico_2017.pdf'
   links:
     - name: Linda Chelico
       url: 'https://medicine.usask.ca/profiles/microbiology-and-immunology/linda-chelico.php'
@@ -30,7 +30,7 @@
   image: '/static/img/pub/russi_2017.jpg'
   pmid: 28009548
   pmcid: PMC5182021
-  pdf: 'static/pdf/russi_2017.pdf'
+  pdf: '/static/pdf/russi_2017.pdf'
   links:
     - name: Henry van den Bedem
       url: 'https://people.stanford.edu/vdbedem/'
@@ -55,9 +55,9 @@
   date: 201606
   image: '/static/img/pub/wang_2016.jpg'
   pmid: 27669148
-  pmcid: PMC5115868 
+  pmcid: PMC5115868
   biorxiv: "050286"
-  pdf: 'static/pdf/wang_2016.pdf'
+  pdf: '/static/pdf/wang_2016.pdf'
   links:
     - name: 'DiMaio Lab'
       url: 'https://faculty.washington.edu/dimaio/wordpress/'
