@@ -45,6 +45,9 @@
   pdbs:
     - 5tof
     - 5tog
+  data:
+      - '10.15785/SBGRID/428'
+      - '10.15785/SBGRID/429'
   links:
     - name: 'Paper Submission Celebration Photo'
       url: 'https://twitter.com/fraser_lab/status/788212265296158720'
