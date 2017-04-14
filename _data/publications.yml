@@ -13,6 +13,25 @@
 #     - name: 'Mullins Lab'
 #       url: 'http://mullinslab.ucsf.edu/'
 #
+- citation: '**Biel JT**, **Thompson MC**, Cunningham CN, Corn JE, **Fraser JS**. Flexibility and design: conformational heterogeneity along the evolutionary trajectory of a redesigned ubiquitin. *Structure*. 2017.'
+  date: 201704
+  image: '/static/img/pub/biel_2016.jpg'
+  pmid: Submitted
+  pmcid: Submitted
+  biorxiv: "081646"
+  pdf: '/static/pdf/biel_2017.pdf'
+  pdbs:
+    - 5tof
+    - 5tog
+  data:
+      - '10.15785/SBGRID/428'
+      - '10.15785/SBGRID/429'
+  links:
+    - name: 'Paper Submission Celebration Photo'
+      url: 'https://twitter.com/fraser_lab/status/788212265296158720'
+    - name: 'Genentech'
+      url: 'http://www.gene.com'
+
 - citation: 'Adolph MB, Ara A, Feng Y, Wittkopp CJ, Emerman M, **Fraser JS**, Chelico L. Cytidine deaminase efficiency of the lentiviral viral restriction factor APOBEC3C correlates with dimerization. *Nucleic Acids Research*. 2017.'
   date: 201702
   image: '/static/img/pub/chelico_2017.jpg'
@@ -34,25 +53,6 @@
   links:
     - name: Henry van den Bedem
       url: 'https://people.stanford.edu/vdbedem/'
-
-- citation: '**Biel JT**, **Thompson MC**, Cunningham CN, Corn JE, **Fraser JS**. Flexibility and design: conformational heterogeneity along the evolutionary trajectory of a redesigned ubiquitin. *Submitted*. 2016.'
-  date: 201606
-  image: '/static/img/pub/biel_2016.jpg'
-  pmid: Submitted
-  pmcid: Submitted
-  biorxiv: "081646"
-  pdf: 'http://biorxiv.org/content/biorxiv/early/2016/10/17/081646.full.pdf'
-  pdbs:
-    - 5tof
-    - 5tog
-  data:
-      - '10.15785/SBGRID/428'
-      - '10.15785/SBGRID/429'
-  links:
-    - name: 'Paper Submission Celebration Photo'
-      url: 'https://twitter.com/fraser_lab/status/788212265296158720'
-    - name: 'Genentech'
-      url: 'http://www.gene.com'
 
 - citation: 'Wang RYR, Song Y, **Barad BA**, Cheng Y, **Fraser JS**, DiMaio F. Automated structure refinement of macromolecular assemblies from cryo-EM maps using Rosetta. *eLife*. 2016.'
   date: 201606
