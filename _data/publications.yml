@@ -15,8 +15,19 @@
 #
 - citation: '**Biel JT**, **Thompson MC**, Cunningham CN, Corn JE, **Fraser JS**. Flexibility and design: conformational heterogeneity along the evolutionary trajectory of a redesigned ubiquitin. *Structure*. 2017.'
   date: 201704
-  image: '/static/img/pub/biel_2016.jpg'
+  image: '/static/img/pub/herzik_2017.jpg'
   pmid: Submitted
+  pmcid: Submitted
+  biorxiv: "128561"
+  pdf: 'http://biorxiv.org/content/early/2017/04/19/128561.full.pdf'
+  links:
+    - name: 'Convergence Server @ Lander Lab'
+      url: 'http://www.lander-lab.com/convergence/'
+
+- citation: '**Biel JT**, **Thompson MC**, Cunningham CN, Corn JE, **Fraser JS**. Flexibility and design: conformational heterogeneity along the evolutionary trajectory of a redesigned ubiquitin. *Structure*. 2017.'
+  date: 201703
+  image: '/static/img/pub/biel_2016.jpg'
+  pmid: 28416112
   pmcid: Submitted
   biorxiv: "081646"
   pdf: '/static/pdf/biel_2017.pdf'
