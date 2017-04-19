@@ -13,7 +13,7 @@
 #     - name: 'Mullins Lab'
 #       url: 'http://mullinslab.ucsf.edu/'
 #
-- citation: '**Biel JT**, **Thompson MC**, Cunningham CN, Corn JE, **Fraser JS**. Flexibility and design: conformational heterogeneity along the evolutionary trajectory of a redesigned ubiquitin. *Structure*. 2017.'
+- citation: 'Herzik Jr. MA, **Fraser JS**, Lander GC. A multi-model approach to assessing local and global cryo-EM map quality. *Submitted - Preprint on BioRxiv*. 2017.'
   date: 201704
   image: '/static/img/pub/herzik_2017.jpg'
   pmid: Submitted
