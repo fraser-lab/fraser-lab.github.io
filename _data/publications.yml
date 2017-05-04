@@ -42,6 +42,8 @@
       url: 'https://twitter.com/fraser_lab/status/788212265296158720'
     - name: 'Genentech'
       url: 'http://www.gene.com'
+    - name: 'Preview: Room Temperature X-Ray Crystallography Reveals Conformational Heterogeneity of Engineered Proteins'
+      url: 'http://www.cell.com/structure/fulltext/S0969-2126(17)30105-3'
 
 - citation: 'Adolph MB, Ara A, Feng Y, Wittkopp CJ, Emerman M, **Fraser JS**, Chelico L. Cytidine deaminase efficiency of the lentiviral viral restriction factor APOBEC3C correlates with dimerization. *Nucleic Acids Research*. 2017.'
   date: 201702
