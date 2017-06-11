@@ -13,7 +13,7 @@
 #     - name: 'Mullins Lab'
 #       url: 'http://mullinslab.ucsf.edu/'
 #
-- citation: 'Offenbacher AR , Hu S, **Poss EM**, Carr CAM , Scouras AD, Prigozhin DM, Iavarone AT, Palla A, Alber T, **Fraser JS**, Klinman JP.. Hydrogen–Deuterium Exchange of Lipoxygenase Uncovers a Relationship between Distal, Solvent Exposed Protein Motions and the Thermal Activation Barrier for Catalytic Proton-Coupled Electron Tunneling. *ACS Central Science*. 2017.'
+- citation: 'Offenbacher AR , Hu S, **Poss EM**, Carr CAM , Scouras AD, Prigozhin DM, Iavarone AT, Palla A, Alber T, **Fraser JS**, Klinman JP. Hydrogen–Deuterium Exchange of Lipoxygenase Uncovers a Relationship between Distal, Solvent Exposed Protein Motions and the Thermal Activation Barrier for Catalytic Proton-Coupled Electron Tunneling. *ACS Central Science*. 2017.'
   date: 201705
   image: '/static/img/pub/klinman_2017.jpg'
   pmid: Submitted
