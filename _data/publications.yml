@@ -13,6 +13,19 @@
 #     - name: 'Mullins Lab'
 #       url: 'http://mullinslab.ucsf.edu/'
 #
+- citation: 'Offenbacher AR , Hu S, **Poss EM**, Carr CAM , Scouras AD, Prigozhin DM, Iavarone AT, Palla A, Alber T, **Fraser JS**, Klinman JP.. Hydrogen–Deuterium Exchange of Lipoxygenase Uncovers a Relationship between Distal, Solvent Exposed Protein Motions and the Thermal Activation Barrier for Catalytic Proton-Coupled Electron Tunneling. *ACS Central Science*. 2017.'
+  date: 201705
+  image: '/static/img/pub/klinman_2017.jpg'
+  pmid: Submitted
+  pmcid: Submitted
+  pdf: '/static/pdf/klinman_2017.pdf'
+  pdbs:
+    - 5TQO
+    - 5TQP
+  links:
+    - name: 'Klinman Lab'
+      url: 'http://www.cchem.berkeley.edu/jukgrp/klinman_group/Home.html'
+
 - citation: '**Mavor D**, Barlow KA, Asarnow D, Birman Y, Britain D, Chen W, Green EM, Kenner LR, Mensa B, Morinishi LS, Nelson CA, **Poss EM**, Suresh P, Tian R, Arhar T, Ary BE, Bauer DP, Bergman ID, Brunetti RM, Chio CM, Dai SA, Dickinson MS, Elledge S, Helsell CV M, Hendel NL, Kang E, Kern N, Khoroshkin MS, Kirkemo LL, Lewis GR, Lou K, Marin WM, Maxwell AM, McTigue PF, Myers-Turnbull D, Nagy TL, Natale AM, Oltion K, Pourmal S, Reder GK, Rettko NJ, Rohweder PJ, Schwarz DMC, Tan SK, Thomas PV, Tibble RW, Town JP, Tsai MK, Ugur FS, Wassarman DR, **Wolff AM**, Wu TS, Bogdanoff D, **Li J**, Thorn KS, O’Conchúir S, Swaney DL, Chow ED, Madhani HD, Redding S, Bolon DN, Kortemme T, DeRisi JL, Kampmann M, **Fraser JS**. Extending Chemical Perturbations Of The Ubiquitin Fitness Landscape In A Classroom Setting. *Submitted - Preprint on BioRxiv*. 2017.'
   date: 201704
   image: '/static/img/pub/pubs_2017.jpg'
@@ -23,7 +36,6 @@
   links:
     - name: 'Course Syllabus: Physical Underpinnings of Biological Systems'
       url: 'http://fraserlab.com/pubs/'
-
 
 - citation: 'Herzik Jr. MA, **Fraser JS**, Lander GC. A multi-model approach to assessing local and global cryo-EM map quality. *Submitted - Preprint on BioRxiv*. 2017.'
   date: 201704
