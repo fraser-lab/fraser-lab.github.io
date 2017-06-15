@@ -1,38 +1,20 @@
+- name: David Mavor
+  position: Graduate Student
+  startdate: 2012
+  enddate: 2017
+  current: Woods Hole
+  
+- name: Tomas Lazarou
+  position: Visiting Canadian Technician
+  startdate: Spring 2016
+  enddate: Winter 2016
+  current: Graduate Student - NYU
+
 - name: Andrew VanBenschoten, PhD
   position: Graduate Student
   startdate: 2011
   enddate: 2015
   current: Senior Data Scientist @ Oracle
-
-- name: Pooja Suresh
-  position: Rotation Student
-  enddate: Summer 2015
-  current: Graduate Student - Dumont Lab @ UCSF
-
-- name: Saul Cortez
-  position: Summer Student
-  enddate: Summer 2015
-  current: High School Student at Lincoln
-
-- name: Eugene Palovcak
-  position: Rotation Student
-  enddate: Spring 2015
-  current: Graduate Student - Cheng Lab @ UCSF
-
-- name: Evan Green
-  position: Rotation Student
-  enddate: Winter 2015
-  current: Graduate Student - Cheng Lab @ UCSF
-
-- name: Sarah Barelier
-  position: Shoichet lab guest
-  enddate: 2014
-  current: Postdoctoral fellow - Shoichet Lab @ UCSF
-
-- name: Jennifer Li
-  position: Summer Student/Artist-in-Residence
-  enddate: Summer 2014 & 2015
-  current: Undergraduate @ UC Davis
 
 - name: Lillian Kenner
   position: Specialist
@@ -40,36 +22,11 @@
   enddate: 2014
   current: Graduate Student - Frost Lab @ UCSF
 
-- name: Jessica Friedman
-  position: Rotation Student
-  enddate: Fall 2013
-  current: Graduate Student - Kroetz Lab @ UCSF
-
 - name: Khanh Vuu
   position: Technician
   startdate: 2012
   enddate: 2013
   current: LBL
-
-- name: Ken Hallenbeck
-  position: Rotation Student
-  enddate: Spring 2013
-  current: Graduate Student - Arkin Lab @ UCSF
-
-- name: Brian O'Donovan
-  position: Rotation Student
-  enddate: Winter 2013
-  current: Graduate Student - DeRisi Lab @ UCSF
-
-- name: Catherine Shi
-  position: Rotation Student
-  enddate: Winter 2013
-  current: Genentech
-
-- name: Jessica Calderon
-  position: High School Student
-  enddate: Summer 2011
-  current: CCSF
 
 - name: Avi Samelson
   position: Technician
