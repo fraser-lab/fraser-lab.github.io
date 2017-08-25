@@ -13,6 +13,23 @@
 #     - name: 'Mullins Lab'
 #       url: 'http://mullinslab.ucsf.edu/'
 #
+- citation: 'Thomaston JL, **Woldeyes RA**, Nakane T, Yamashita A, Tanaka T, Koiwai K, Brewster AS, **Barad BA**, Chen Y, Lemmin T, Uervirojnangkoorn M, Arima T, Kobayashi J, Masuda T, Suzuki M, Sugahara M, Sauter NK, Tanaka R, Nureki O, Tono K, Joti Y, Nango E, Iwata S, Yumoto F, **Fraser JS**, DeGrado WF. XFEL structures of the influenza M2 proton channel: Room temperature water networks and insights
+into proton conduction. *Proceedings of the National Academy of Sciences*. 2017.'
+  date: 201707
+  image: '/static/img/pub/thomaston_2017.jpg'
+  pmid: Pending
+  pmcid: Pending
+  pdf: '/static/pdf/thomaston_2017.pdf'
+  pdbs:
+    - 5JOO
+    - 5UM1
+    - 5TTC
+  links:
+    - name: 'DeGrado Lab'
+      url: 'https://pharm.ucsf.edu/degrado'
+    - name: 'SACLA XFEL'
+      url: 'http://xfel.riken.jp/eng/'
+
 - citation: 'Acker TM, Gable JE, Bohn MF, Jaishankar P, **Thompson MC**, **Fraser JS**, Renslo AR, Craik CS. Allosteric Inhibitors, Crystallography and Comparative Analysis Reveal Network of Coordinated Movement Across Human Herpesvirus Proteases. *JACS*. 2017.'
   date: 201706
   image: '/static/img/pub/acker_2017.jpg'
