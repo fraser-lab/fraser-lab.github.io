@@ -4,9 +4,9 @@ layout: default
 group: methods
 ---
 
-#Biophysics 204A: Methods in Macromolecular Structure#
+# Biophysics 204A: Methods in Macromolecular Structure #
 
-##Fall 2017 Syllabus##
+## Fall 2017 Syllabus ##
 
 **Course Title:** Methods in Macromolecular Structure
 
