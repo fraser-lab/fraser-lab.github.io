@@ -85,7 +85,11 @@ at http://sds.ucsf.edu. Accommodations are never retroactive; therefore students
 _Tues Oct 31_
 
 - 1:00-1:30 - Intro to Macro Methods (JSF)
+
 - 1:30-2:30 - Why Hsp90 is cool (David Agard)
+
+Chalk Talks:
+
 - 2:30-2:45 - Why Protein Structural Biology? Proteins Thermo/Kinetics 101 (Gross)
 - 2:45-3:00 - X-ray 101 (JSF)
 - 3:00-3:15 - EM 101 (Dan Southworth)
@@ -105,3 +109,16 @@ Recommended reading:
 Other Class Material:
 
 - [](test link)
+
+**Week 2 – Working in Method Teams**
+
+_X-ray_
+
+_NMR_
+
+_EM_
+
+**Week 3 – Working in Compound Groups**
+
+_Mon Nov 13_
+1-2PM Presentations by Methods Teams
