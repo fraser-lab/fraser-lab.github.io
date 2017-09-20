@@ -122,3 +122,6 @@ _EM_
 
 _Mon Nov 13_
 1-2PM Presentations by Methods Teams
+
+_Weds Dec 6_
+1-2PM Presentation by Sali on Rigor, Reproducibility, and Integrative Modeling
