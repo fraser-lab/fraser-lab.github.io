@@ -32,6 +32,8 @@ group: methods
 
 **HSP90 Crystallizer:** Kazu Ito (Fraser lab)
 
+**X-ray guru:** Michael Thompson (Fraser lab)
+
 **EM Computational Experts:** Eugene Palovcak, Daniel Asarnow (Cheng lab)
 
 **TAs:**
@@ -141,17 +143,17 @@ _EM_
 
 _Mon Nov 13_
 - 1-2PM Presentations by Methods Teams
-- 2-3PM X-ray data processing: from spots to MTZ
+- 2-3PM X-ray data processing: from spots to MTZ (JSF, Kazu Ito, Michael Thompson)
 - 3-4PM EM data processing: from particles to 2D
 - 4-5PM NMR data processing: from FID to 2D?
 
 _Tues Nov 14_
-- 1-2PM X-ray data processing: from MTZ to density
+- 1-2PM X-ray data processing: from MTZ to density (JSF, Kazu Ito, Michael Thompson)
 - 2-3PM EM data processing: from 2D to 3D
 - 3-4PM NMR data processing: from 2D to perturbations
 
 _Weds Nov 15_
-- 1-2PM X-ray data processing: identifying ligands
+- 1-2PM X-ray data processing: identifying ligands (JSF, Kazu Ito, Michael Thompson)
 - 2-3PM EM data processing: manipulating density
 - 3-4PM NMR data processing: measuring chemical shift perturbations
 
@@ -172,15 +174,15 @@ _Weds Nov 29_
 
 _Mon Dec 4_
 - 1-2:30PM Lecture by Bob Stroud on fundamentals of X-ray diffraction
-- 2:30-5PM Work on X-ray data
+- 2:30-5PM Work on X-ray data (JSF, Kazu Ito, Michael Thompson)
 
 _Tues Dec 5_
 - 1-2:30PM Lecture by James Holton on the relationship between data quality and model interpretation
-- 2:30-5PM Work on X-ray data
+- 2:30-5PM Work on X-ray data (JSF, Kazu Ito, Michael Thompson)
 
 _Weds Dec 6_
 - 1-2PM Presentation by Sali on Rigor, Reproducibility, and Integrative Modeling
-- 2:30-4PM Final work on X-ray data
+- 2:30-4PM Final work on X-ray data (JSF, Kazu Ito, Michael Thompson)
 - 4-5PM Final Q/A with Stroud and Fraser: what we still don't understand about X-ray crystallography
 
 **Week 6 - EM**
