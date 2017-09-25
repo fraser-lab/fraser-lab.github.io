@@ -121,7 +121,7 @@ Other Class Material:
 _X-ray_
 - Monday Nov 6: Crystal harvesting (Genentech Hall crystal room)
 - Tuesday Nov 7: Beamtime at Advanced Light Source
-- - link to registration material
+ - link to registration material
 - Wednesday Nov 8: Beamtime at Advanced Light Source
 
 _NMR_
@@ -138,7 +138,27 @@ _EM_
 
 _Mon Nov 13_
 - 1-2PM Presentations by Methods Teams
-- 2-3PM X-ray data processing: from
+- 2-3PM X-ray data processing: from spots to MTZ
+- 3-4PM EM data processing: from particles to 2D
+- 4-5PM NMR data processing: from FID to 2D?
+
+_Tues Nov 14_
+- 1-2PM X-ray data processing: from MTZ to density
+- 2-3PM EM data processing: from 2D to 3D
+- 3-4PM NMR data processing: from 2D to perturbations
+
+_Weds Nov 15_
+- 1-2PM X-ray data processing: identifying ligands
+- 2-3PM EM data processing: manipulating density
+- 3-4PM NMR data processing: measuring chemical shift perturbations
+
+**Thanksgiving break**
+
+**Week 4 - NMR**
+
+**Week 5 - X-ray**
 
 _Weds Dec 6_
-1-2PM Presentation by Sali on Rigor, Reproducibility, and Integrative Modeling
+- 1-2PM Presentation by Sali on Rigor, Reproducibility, and Integrative Modeling
+
+**Week 6 - EM**
