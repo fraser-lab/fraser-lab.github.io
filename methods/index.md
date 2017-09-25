@@ -119,16 +119,26 @@ Other Class Material:
 **Week 2 – Working in Method Teams**
 
 _X-ray_
+- Monday Nov 6: Crystal harvesting (Genentech Hall crystal room)
+- Tuesday Nov 7: Beamtime at Advanced Light Source
+- - link to registration material
+- Wednesday Nov 8: Beamtime at Advanced Light Source
 
 _NMR_
+- Monday Nov 6: Data collection
+- Tuesday Nov 7: Data collection
+- Wednesday Nov 8: Data collection
 
 _EM_
+- Monday Nov 6: Grids
+- Tuesday Nov 7: Negative Stain Data Collection
+- Wednesday Nov 8: Cryo-EM
 
 **Week 3 – Working in Compound Groups**
 
-
 _Mon Nov 13_
-1-2PM Presentations by Methods Teams
+- 1-2PM Presentations by Methods Teams
+- 2-3PM X-ray data processing: from
 
 _Weds Dec 6_
 1-2PM Presentation by Sali on Rigor, Reproducibility, and Integrative Modeling
