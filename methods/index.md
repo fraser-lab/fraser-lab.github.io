@@ -121,7 +121,7 @@ Other Class Material:
 _X-ray_
 - Monday Nov 6: Crystal harvesting (Genentech Hall crystal room)
 - Tuesday Nov 7: Beamtime at Advanced Light Source
- - link to registration material
+  - link to registration material
 - Wednesday Nov 8: Beamtime at Advanced Light Source
 
 _NMR_
