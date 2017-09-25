@@ -28,6 +28,12 @@ group: methods
 
 **EM Coordinator:** [David Bulkley](mailto:david.bulkley@ucsf.edu)
 
+**HSP90 Preparer/NMR guru:** Ryan Tibble (Gross lab)
+
+**HSP90 Crystallizer:** Kazu Ito (Fraser lab)
+
+**EM Computational Experts:** Eugene Palovcak, Daniel Asarnow (Cheng lab)
+
 **TAs:**
 
 - [Cynthia Chio](mailto:Tak.Chio@ucsf.edu)
@@ -119,6 +125,7 @@ _NMR_
 _EM_
 
 **Week 3 – Working in Compound Groups**
+
 
 _Mon Nov 13_
 1-2PM Presentations by Methods Teams
