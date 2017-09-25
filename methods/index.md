@@ -41,7 +41,7 @@ group: methods
 
 **Lecturers/Facilitators:**
 
-James Fraser, John Gross, Dan Southworth, David Bulkley, James Holton, Yifan Cheng, David Agard, Aashish Manglik, Andrej Sali
+James Fraser, John Gross, Dan Southworth, David Bulkley, James Holton, Yifan Cheng, David Agard, Aashish Manglik, Andrej Sali, Robert Stroud
 
 **Important Dates:**
 
@@ -156,9 +156,40 @@ _Weds Nov 15_
 
 **Week 4 - NMR**
 
+_Mon Nov 27_
+- John Gross
+
+_Tues Nov 28_
+- John Gross
+
+_Weds Nov 29_
+- John Gross
+
 **Week 5 - X-ray**
+_Mon Dec 4_
+- 1-2:30PM Lecture by Bob Stroud on fundamentals of X-ray diffraction
+- 2:30-5PM Work on X-ray data
+
+_Tues Dec 5_
+- 1-2:30PM Lecture by James Holton on the relationship between data quality and model interpretation
+- 2:30-5PM Work on X-ray data
 
 _Weds Dec 6_
 - 1-2PM Presentation by Sali on Rigor, Reproducibility, and Integrative Modeling
+- 2:30-4PM Final work on X-ray data
+- 4-5PM Final Q/A with Stroud and Fraser: what we still don't understand about X-ray crystallography
 
 **Week 6 - EM**
+_Mon Dec 11_
+- 1-2:30PM Lecture by Cheng/Southworth
+- 2:30-5PM Work on EM data
+
+_Tues Dec 12_
+- 1-2:30PM Lecture by Cheng/Southworth
+- 2:30-5PM Work on titration data with Eugene/Daniel
+
+_Weds Dec 13_
+- 1-2PM Lecture by Cheng/Southworth
+- 2:30-5PM Finalize work on titration data with Eugene/Daniel
+
+**FINAL PRESENTATIONS - Mon Dec 18 **
