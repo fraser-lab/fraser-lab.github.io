@@ -91,7 +91,6 @@ at http://sds.ucsf.edu. Accommodations are never retroactive; therefore students
 _Tues Oct 31_
 
 - 1:00-1:30 - Intro to Macro Methods (JSF)
-
 - 1:30-2:30 - Why Hsp90 is cool (David Agard)
 
 Chalk Talks:
@@ -104,6 +103,10 @@ Chalk Talks:
 _Weds Nov 1_
 
 - 1:00-2:00PM - break into groups, ensure software works
+  - X-ray:
+    - Phenix
+    - XDS
+    - Coot
 - 2:00-3:00PM - Theory of Fragments and Role of Structural Biology (Aashish Manglik)
 
 Recommended reading:
@@ -166,6 +169,7 @@ _Weds Nov 29_
 - John Gross
 
 **Week 5 - X-ray**
+
 _Mon Dec 4_
 - 1-2:30PM Lecture by Bob Stroud on fundamentals of X-ray diffraction
 - 2:30-5PM Work on X-ray data
@@ -180,6 +184,7 @@ _Weds Dec 6_
 - 4-5PM Final Q/A with Stroud and Fraser: what we still don't understand about X-ray crystallography
 
 **Week 6 - EM**
+
 _Mon Dec 11_
 - 1-2:30PM Lecture by Cheng/Southworth
 - 2:30-5PM Work on EM data
@@ -192,4 +197,4 @@ _Weds Dec 13_
 - 1-2PM Lecture by Cheng/Southworth
 - 2:30-5PM Finalize work on titration data with Eugene/Daniel
 
-**FINAL PRESENTATIONS - Mon Dec 18 **
+**FINAL PRESENTATIONS: Mon Dec 18**
