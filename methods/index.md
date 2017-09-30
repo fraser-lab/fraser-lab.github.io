@@ -105,17 +105,23 @@ Chalk Talks:
 _Weds Nov 1_
 
 - 1:00-2:00PM - break into groups, ensure software works
+  - All:
+    - ChimeraX
+    - PyMOL
   - X-ray:
-    - Phenix
-    - XDS
-    - Coot
+    - [Phenix](https://www.phenix-online.org/download/), [request password](http://www.phenix-online.org/phenix_request/index.cgi)
+    - [XDS](http://xds.mpimf-heidelberg.mpg.de/html_doc/downloading.html)
+    - [ADXV](http://www.scripps.edu/tainer/arvai/adxv.html)
+    - Coot (already installed on laptops)
+  - NMR:
+  - EM:
 - 2:00-3:00PM - Theory of Fragments and Role of Structural Biology (Aashish Manglik)
 
 Recommended reading:
 
-- SAR by NMR
-- X-ray fragment review
-- EM for drug discovery
+- [SAR by NMR](https://www.ncbi.nlm.nih.gov/pubmed/8929414)
+- [Scaffold-based design by X-ray](http://www.pnas.org/content/105/8/3041.long), [PANDDA](https://www.ncbi.nlm.nih.gov/pubmed/28436492)
+- [EM for drug discovery](https://www.ncbi.nlm.nih.gov/pubmed/27238019), [Proteasome](http://journals.iucr.org/d/issues/2017/06/00/rr5143/rr5143.pdf)
 
 Other Class Material:
 
@@ -169,6 +175,7 @@ _Tues Nov 28_
 
 _Weds Nov 29_
 - John Gross
+- ChimeraX tutorial by Tom Goddard
 
 **Week 5 - X-ray**
 
@@ -190,6 +197,7 @@ _Weds Dec 6_
 _Mon Dec 11_
 - 1-2:30PM Lecture by Cheng/Southworth
 - 2:30-5PM Work on EM data
+- ChimeraX tutorial by Tom Goddard
 
 _Tues Dec 12_
 - 1-2:30PM Lecture by Cheng/Southworth
