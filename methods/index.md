@@ -106,15 +106,18 @@ _Weds Nov 1_
 
 - 1:00-2:00PM - break into groups, ensure software works
   - All:
-    - ChimeraX
-    - PyMOL
+    - [ChimeraX](https://www.cgl.ucsf.edu/chimerax/download.html)
+    - [PyMOL](https://pymol.org/2/), must be on UCSF network
   - X-ray:
     - [Phenix](https://www.phenix-online.org/download/), [request password](http://www.phenix-online.org/phenix_request/index.cgi)
     - [XDS](http://xds.mpimf-heidelberg.mpg.de/html_doc/downloading.html)
     - [ADXV](http://www.scripps.edu/tainer/arvai/adxv.html)
     - Coot (already installed on laptops)
   - NMR:
+    - [NMR Pipe](https://www.ibbr.umd.edu/nmrpipe/install.html)
+    - [NMRFAM SPARKY](http://www.nmrfam.wisc.edu/nmrfam-sparky-distribution.htm)
   - EM:
+    - [EMAN2](http://ncmi.bcm.tmc.edu/ncmi/software/software_details?selected_software=counter_222)
 - 2:00-3:00PM - Theory of Fragments and Role of Structural Biology (Aashish Manglik)
 
 Recommended reading:
@@ -150,17 +153,17 @@ _EM_
 _Mon Nov 13_
 - 1-2PM Presentations by Methods Teams
 - 2-3PM X-ray data processing: from spots to MTZ (JSF, Kazu Ito, Michael Thompson)
-- 3-4PM EM data processing: from particles to 2D
+- 3-4PM [EM data processing: from particles to 2D](http://ncmi.bcm.tmc.edu/ncmi/software/software_details?selected_software=counter_222)
 - 4-5PM NMR data processing: from FID to 2D?
 
 _Tues Nov 14_
 - 1-2PM X-ray data processing: from MTZ to density (JSF, Kazu Ito, Michael Thompson)
-- 2-3PM EM data processing: from 2D to 3D
+- 2-3PM [EM data processing: from 2D to 3D](http://ncmi.bcm.tmc.edu/ncmi/software/software_details?selected_software=counter_222)
 - 3-4PM NMR data processing: from 2D to perturbations
 
 _Weds Nov 15_
 - 1-2PM X-ray data processing: identifying ligands (JSF, Kazu Ito, Michael Thompson)
-- 2-3PM EM data processing: manipulating density
+- 2-3PM [EM data processing: manipulating density](http://ncmi.bcm.tmc.edu/ncmi/software/software_details?selected_software=counter_222)
 - 3-4PM NMR data processing: measuring chemical shift perturbations
 
 **Thanksgiving break**
