@@ -134,9 +134,10 @@ Other Class Material:
 
 _X-ray_
 - Monday Nov 6: Crystal harvesting (Genentech Hall crystal room)
-- Tuesday Nov 7: Beamtime at Advanced Light Source
+- Tuesday Nov 7: Beamtime at Advanced Light Source: noon-4PM
   - link to registration material
-- Wednesday Nov 8: Beamtime at Advanced Light Source
+  - directions to the ALS
+- Wednesday Nov 8: Beamtime at Advanced Light Source: 8AM-4PM
 
 _NMR_
 - Monday Nov 6: Data collection
@@ -157,12 +158,12 @@ _Mon Nov 13_
 - 4-5PM NMR data processing: from FID to 2D?
 
 _Tues Nov 14_
-- 1-2PM X-ray data processing: from MTZ to density (JSF, Kazu Ito, Michael Thompson)
+- 1-2PM X-ray data processing: from MTZ to density, molecular replacement and difference maps (JSF, Kazu Ito, Michael Thompson)
 - 2-3PM [EM data processing: from 2D to 3D](http://ncmi.bcm.tmc.edu/ncmi/software/software_details?selected_software=counter_222)
 - 3-4PM NMR data processing: from 2D to perturbations
 
 _Weds Nov 15_
-- 1-2PM X-ray data processing: identifying ligands (JSF, Kazu Ito, Michael Thompson)
+- 1-2PM X-ray data processing: identifying ligands, ligand restraints and refinement (JSF, Kazu Ito, Michael Thompson)
 - 2-3PM [EM data processing: manipulating density](http://ncmi.bcm.tmc.edu/ncmi/software/software_details?selected_software=counter_222)
 - 3-4PM NMR data processing: measuring chemical shift perturbations
 
