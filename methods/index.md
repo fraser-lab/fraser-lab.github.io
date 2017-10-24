@@ -133,6 +133,7 @@ Other Class Material:
 **Week 2 – Working in Method Teams**
 
 _X-ray_
+- Christopher John Pascal	Mathy, Yessica	Gomez, Colton	Bracken, Conner	Bardine, Adam	Cotton, Paul	Klauser, Lakshmi	Miller-Vedam
 - Monday Nov 6: Crystal harvesting (Genentech Hall crystal room)
 - Tuesday Nov 7: Beamtime at Advanced Light Source: noon-4PM
   - link to registration material
@@ -140,16 +141,25 @@ _X-ray_
 - Wednesday Nov 8: Beamtime at Advanced Light Source: 8AM-4PM
 
 _NMR_
+- Viktoriya	Berdan, Benjamin	Catching, Neha	Prasad, Jack	Stevenson, Nicole	Wenzell, Eric	Gonzalez, Cody Thomas	Krivacic
 - Monday Nov 6: Data collection
 - Tuesday Nov 7: Data collection
 - Wednesday Nov 8: Data collection
 
 _EM_
+- Kyle	Lopez, Erik	Navarro, Paige	Solomon, Kelly	Montgomery, Jenna	Pellegrino, Megan	Moore, Julian	Harris
 - Monday Nov 6: Grids
 - Tuesday Nov 7: Negative Stain Data Collection
 - Wednesday Nov 8: Cryo-EM
 
 **Week 3 – Working in Compound Groups**
+
+_Groups_
+- 1: Erik	Navarro, Paige	Solomon, Benjamin	Catching, Neha	Prasad, Christopher John Pascal	Mathy
+- 2: Kelly	Montgomery, Jack	Stevenson, Yessica	Gomez, Colton	Bracken
+- 3: Jenna	Pellegrino, Nicole	Wenzell, Conner	Bardine, Adam	Cotton
+- 4: Kyle	Lopez, Viktoriya	Berdan, Eric	Gonzalez, Paul	Klauser
+- 5: Megan	Moore, Julian	Harris, Cody Thomas	Krivacic, Lakshmi	Miller-Vedam
 
 _Mon Nov 13_
 - 1-2PM Presentations by Methods Teams
