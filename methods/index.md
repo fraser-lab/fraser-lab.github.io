@@ -187,18 +187,18 @@ _Weds Nov 15_
 
 _Mon Nov 27_
 - Journal Club:
-  - Jack	Stevenson
+  - Jack	Stevenson [Asymmetric activation of the hsp90 dimer by its cochaperone aha1.](https://www.ncbi.nlm.nih.gov/pubmed?cmd=search&term=20159554)
 - John Gross
 
 _Tues Nov 28_
 - Journal Club:
-  - Viktoriya	Berdan
-  - Cody Thomas Krivacic
+  - Viktoriya	Berdan  [Substrate binding drives large-scale conformational changes in the Hsp90 molecular chaperone.](https://www.ncbi.nlm.nih.gov/pubmed?cmd=search&term=21474071)
+  - Cody Thomas Krivacic [Cross-monomer substrate contacts reposition the Hsp90 N-terminal domain and prime the chaperone activity.](https://www.ncbi.nlm.nih.gov/pubmed?cmd=search&term=22063096)
 - John Gross
 
 _Weds Nov 29_
 - Journal Club:
-  - Eric	Gonzalez
+  - Eric	Gonzalez [Mechanistic basis for the recognition of a misfolded protein by the molecular chaperone Hsp90.](https://www.ncbi.nlm.nih.gov/pubmed?cmd=search&term=28218749)
 - John Gross
 - ChimeraX tutorial by Tom Goddard
 
