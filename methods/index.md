@@ -178,7 +178,7 @@ _Weds Nov 15_
 - 1-2PM X-ray data processing: identifying ligands, ligand restraints and refinement (JSF, Kazu Ito, Michael Thompson)
 - 2-3PM [EM data processing: manipulating density](https://docs.google.com/document/d/1cyh9XstW3Da8tU1g5gj8UCk1OMC8vGJsk7a5r6T9XHo/edit?usp=sharing)
 - 3PM - Journal Club:
-  - Nicole	Wenzell [Paper forthcoming from Evan/Dan/Daniel/Eugene - default to EMRinger otherwise](https://www.ncbi.nlm.nih.gov/pubmed/26280328)
+  - Nicole	Wenzell [Prevention of overfitting in cryo-EM structure determination.](https://www.ncbi.nlm.nih.gov/pubmed?cmd=search&term=22842542), background: [Optimal Determination of Particle Orientation, Absolute Hand, and Contrast Loss in Single-particle Electron Cryomicroscopy](http://www.sciencedirect.com/science/article/pii/S0022283603010222)
 - 3-4PM NMR data processing: measuring chemical shift perturbations
 
 **Thanksgiving break**
