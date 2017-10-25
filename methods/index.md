@@ -77,6 +77,8 @@ The "official" language of the class is [python](https://www.python.org) - begin
 - X-ray crystallography
 - NMR spectroscopy
 - Electron Miscroscopy
+- Statistical aspects of structural biology
+- Integrative modeling
 
 **Class Policies**
 
