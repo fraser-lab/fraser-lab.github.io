@@ -126,10 +126,6 @@ Recommended reading:
 - [Scaffold-based design by X-ray](http://www.pnas.org/content/105/8/3041.long), [PANDDA](https://www.ncbi.nlm.nih.gov/pubmed/28436492)
 - [EM for drug discovery](https://www.ncbi.nlm.nih.gov/pubmed/27238019), [Proteasome](http://journals.iucr.org/d/issues/2017/06/00/rr5143/rr5143.pdf)
 
-Other Class Material:
-
-- [](test link)
-
 **Week 2 – Working in Method Teams**
 
 _X-ray_
@@ -173,13 +169,16 @@ _Mon Nov 13_
 _Tues Nov 14_
 - 1-2PM X-ray data processing: from MTZ to density, molecular replacement and difference maps (JSF, Kazu Ito, Michael Thompson)
 - 2-3PM [EM data processing: from 2D to 3D](https://docs.google.com/document/d/1cyh9XstW3Da8tU1g5gj8UCk1OMC8vGJsk7a5r6T9XHo/edit?usp=sharing)
-- 3PM - Journal club: Lakshmi	Miller-Vedam [John - need NMR validation paper here? Or Molprobity](methods) and Kelly	Montgomery [Free R value: a novel statistical quantity for assessing the accuracy of crystal structures](https://www.nature.com/nature/journal/v355/n6359/pdf/355472a0.pdf)
+- 3PM - Journal club:
+  - Lakshmi	Miller-Vedam [John - need NMR validation paper here? Or Molprobity](methods)
+  - Kelly	Montgomery [Free R value: a novel statistical quantity for assessing the accuracy of crystal structures](https://www.nature.com/nature/journal/v355/n6359/pdf/355472a0.pdf)
 - 3-4PM NMR data processing: from 2D to perturbations
 
 _Weds Nov 15_
 - 1-2PM X-ray data processing: identifying ligands, ligand restraints and refinement (JSF, Kazu Ito, Michael Thompson)
 - 2-3PM [EM data processing: manipulating density](https://docs.google.com/document/d/1cyh9XstW3Da8tU1g5gj8UCk1OMC8vGJsk7a5r6T9XHo/edit?usp=sharing)
-- 3PM - Journal Club: Nicole	Wenzell [Paper forthcoming from Evan](methods)
+- 3PM - Journal Club:
+  - Nicole	Wenzell [Paper forthcoming from Evan](methods)
 - 3-4PM NMR data processing: measuring chemical shift perturbations
 
 **Thanksgiving break**
@@ -187,15 +186,19 @@ _Weds Nov 15_
 **Week 4 - NMR**
 
 _Mon Nov 27_
-- Journal Club: Jack	Stevenson
+- Journal Club:
+  - Jack	Stevenson
 - John Gross
 
 _Tues Nov 28_
-- Journal Club: Viktoriya	Berdan and Cody Thomas Krivacic
+- Journal Club:
+  - Viktoriya	Berdan
+  - Cody Thomas Krivacic
 - John Gross
 
 _Weds Nov 29_
-- Journal Club: Eric	Gonzalez
+- Journal Club:
+  - Eric	Gonzalez
 - John Gross
 - ChimeraX tutorial by Tom Goddard
 
@@ -204,17 +207,21 @@ _Weds Nov 29_
 _Mon Dec 4_
 - 1-2:30PM Lecture by Bob Stroud on fundamentals of X-ray diffraction
 - 2:30-5PM Work on X-ray data (JSF, Kazu Ito, Michael Thompson)
-- 4PM - Journal Club: Colton	Bracken [Direct observation of protein solvation and discrete disorder with experimental crystallographic phases.](https://www.ncbi.nlm.nih.gov/pubmed?cmd=search&term=8539602)
+- 4PM - Journal Club:
+  - Colton	Bracken [Direct observation of protein solvation and discrete disorder with experimental crystallographic phases.](https://www.ncbi.nlm.nih.gov/pubmed?cmd=search&term=8539602)
 
 _Tues Dec 5_
 - 1-2:30PM Lecture by James Holton on the relationship between data quality and model interpretation
 - 2:30-5PM Work on X-ray data (JSF, Kazu Ito, Michael Thompson)
-- 4PM - Journal Club: Conner	Bardine [Modelling dynamics in protein crystal structures by ensemble refinement](https://www.ncbi.nlm.nih.gov/pubmed?cmd=search&term=23251785) and Paul	Klauser [Symmetry broken and rebroken during the ATP hydrolysis cycle of the mitochondrial Hsp90 TRAP1.](https://www.ncbi.nlm.nih.gov/pubmed/28742020)
+- 4PM - Journal Club:
+  - Conner	Bardine [Modelling dynamics in protein crystal structures by ensemble refinement](https://www.ncbi.nlm.nih.gov/pubmed?cmd=search&term=23251785) and
+  - Paul	Klauser [Symmetry broken and rebroken during the ATP hydrolysis cycle of the mitochondrial Hsp90 TRAP1.](https://www.ncbi.nlm.nih.gov/pubmed/28742020)
 
 _Weds Dec 6_
 - 1-2PM Presentation by Sali on Rigor, Reproducibility, and Integrative Modeling
 - 2:30-4PM Final work on X-ray data (JSF, Kazu Ito, Michael Thompson)
-- 4PM - Journal Club: Adam	Cotton [Multiple conformations of E. coli Hsp90 in solution: insights into the conformational dynamics of Hsp90.](https://www.ncbi.nlm.nih.gov/pubmed/18462680)
+- 4PM - Journal Club:
+  - Adam	Cotton [Multiple conformations of E. coli Hsp90 in solution: insights into the conformational dynamics of Hsp90.](https://www.ncbi.nlm.nih.gov/pubmed/18462680)
 - 4-5PM Final Q/A with Stroud and Fraser: what we still don't understand about X-ray crystallography
 
 **Week 6 - EM**
@@ -222,17 +229,21 @@ _Weds Dec 6_
 _Mon Dec 11_
 - 1-2:30PM Lecture by Cheng/Southworth
 - 2:30-5PM Work on EM data
-- 4PM - Journal Club: Jenna	Pellegrino [Glucocorticoid receptor function regulated by coordinated action of the Hsp90 and Hsp70 chaperone cycles](https://www.ncbi.nlm.nih.gov/pubmed/24949977)
+- 4PM - Journal Club:
+  - Jenna	Pellegrino [Glucocorticoid receptor function regulated by coordinated action of the Hsp90 and Hsp70 chaperone cycles](https://www.ncbi.nlm.nih.gov/pubmed/24949977)
 - ChimeraX tutorial by Tom Goddard
 
 _Tues Dec 12_
 - 1-2:30PM Lecture by Cheng/Southworth
-- 4PM - Journal Club: Kyle	Lopez [Sampling the conformational space of the catalytic subunit of human γ-secretase](https://www.ncbi.nlm.nih.gov/pubmed/26623517) and Megan	Moore [Visualization of ligand-induced transmembrane signalling in the full-length human insulin receptor](https://www.biorxiv.org/content/early/2017/10/23/207928)
+- 4PM - Journal Club:
+  - Kyle	Lopez [Sampling the conformational space of the catalytic subunit of human γ-secretase](https://www.ncbi.nlm.nih.gov/pubmed/26623517)
+  - Megan	Moore [Visualization of ligand-induced transmembrane signalling in the full-length human insulin receptor](https://www.biorxiv.org/content/early/2017/10/23/207928)
 - 2:30-5PM Work on titration data with Eugene/Daniel
 
 _Weds Dec 13_
 - 1-2PM Lecture by Cheng/Southworth
-- 4PM - Journal Club: Julian	Harris [Ratchet-like polypeptide translocation mechanism of the AAA+ disaggregase Hsp104.](https://www.ncbi.nlm.nih.gov/pubmed/28619716)
+- 4PM - Journal Club:
+  - Julian	Harris [Ratchet-like polypeptide translocation mechanism of the AAA+ disaggregase Hsp104.](https://www.ncbi.nlm.nih.gov/pubmed/28619716)
 - 2:30-5PM Finalize work on titration data with Eugene/Daniel
 
 **FINAL PRESENTATIONS: Mon Dec 18**
