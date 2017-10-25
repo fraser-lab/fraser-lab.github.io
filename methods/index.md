@@ -164,17 +164,17 @@ _Groups_
 _Mon Nov 13_
 - 1-2PM Presentations by Methods Teams
 - 2-3PM X-ray data processing: from spots to MTZ (JSF, Kazu Ito, Michael Thompson)
-- 3-4PM [EM data processing: from particles to 2D](http://ncmi.bcm.tmc.edu/ncmi/software/software_details?selected_software=counter_222)
+- 3-4PM [EM data processing: from particles to 2D](https://docs.google.com/document/d/1cyh9XstW3Da8tU1g5gj8UCk1OMC8vGJsk7a5r6T9XHo/edit?usp=sharing)
 - 4-5PM NMR data processing: from FID to 2D?
 
 _Tues Nov 14_
 - 1-2PM X-ray data processing: from MTZ to density, molecular replacement and difference maps (JSF, Kazu Ito, Michael Thompson)
-- 2-3PM [EM data processing: from 2D to 3D](http://ncmi.bcm.tmc.edu/ncmi/software/software_details?selected_software=counter_222)
+- 2-3PM [EM data processing: from 2D to 3D](https://docs.google.com/document/d/1cyh9XstW3Da8tU1g5gj8UCk1OMC8vGJsk7a5r6T9XHo/edit?usp=sharing)
 - 3-4PM NMR data processing: from 2D to perturbations
 
 _Weds Nov 15_
 - 1-2PM X-ray data processing: identifying ligands, ligand restraints and refinement (JSF, Kazu Ito, Michael Thompson)
-- 2-3PM [EM data processing: manipulating density](http://ncmi.bcm.tmc.edu/ncmi/software/software_details?selected_software=counter_222)
+- 2-3PM [EM data processing: manipulating density](https://docs.google.com/document/d/1cyh9XstW3Da8tU1g5gj8UCk1OMC8vGJsk7a5r6T9XHo/edit?usp=sharing)
 - 3-4PM NMR data processing: measuring chemical shift perturbations
 
 **Thanksgiving break**
