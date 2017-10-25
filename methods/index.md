@@ -170,7 +170,7 @@ _Tues Nov 14_
 - 1-2PM X-ray data processing: from MTZ to density, molecular replacement and difference maps (JSF, Kazu Ito, Michael Thompson)
 - 2-3PM [EM data processing: from 2D to 3D](https://docs.google.com/document/d/1cyh9XstW3Da8tU1g5gj8UCk1OMC8vGJsk7a5r6T9XHo/edit?usp=sharing)
 - 3PM - Journal club:
-  - Lakshmi	Miller-Vedam [John - need NMR validation paper here? Or Molprobity](methods)
+  - Lakshmi	Miller-Vedam [John - need NMR validation paper here? Or Molprobity as default](https://www.ncbi.nlm.nih.gov/pubmed/20057044)
   - Kelly	Montgomery [Free R value: a novel statistical quantity for assessing the accuracy of crystal structures](https://www.nature.com/nature/journal/v355/n6359/pdf/355472a0.pdf)
 - 3-4PM NMR data processing: from 2D to perturbations
 
@@ -178,7 +178,7 @@ _Weds Nov 15_
 - 1-2PM X-ray data processing: identifying ligands, ligand restraints and refinement (JSF, Kazu Ito, Michael Thompson)
 - 2-3PM [EM data processing: manipulating density](https://docs.google.com/document/d/1cyh9XstW3Da8tU1g5gj8UCk1OMC8vGJsk7a5r6T9XHo/edit?usp=sharing)
 - 3PM - Journal Club:
-  - Nicole	Wenzell [Paper forthcoming from Evan](methods)
+  - Nicole	Wenzell [Paper forthcoming from Evan/Dan/Daniel/Eugene - default to EMRinger otherwise](https://www.ncbi.nlm.nih.gov/pubmed/26280328)
 - 3-4PM NMR data processing: measuring chemical shift perturbations
 
 **Thanksgiving break**
