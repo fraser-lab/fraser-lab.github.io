@@ -135,8 +135,8 @@ _X-ray_
 - Christopher John Pascal	Mathy, Yessica	Gomez, Colton	Bracken, Conner	Bardine, Adam	Cotton, Paul	Klauser, Lakshmi	Miller-Vedam
 - Monday Nov 6: Crystal harvesting (Genentech Hall crystal room)
 - Tuesday Nov 7: Beamtime at Advanced Light Source: noon-4PM
-  - link to registration material
-  - directions to the ALS
+  - [link to registration material](https://docs.google.com/document/d/1V2-PNSKaoAF7rlRj-rJNA9xA8E-7zrwWzigpKhcNNDI/edit?usp=sharing) - register at [ALSHub](alshub.als.lbl.gov)
+  - [directions to the ALS](https://als.lbl.gov/onsite-access/), we will travel together on BART Nov 7 and 8, but just in case!
 - Wednesday Nov 8: Beamtime at Advanced Light Source: 8AM-4PM
 
 _NMR_
