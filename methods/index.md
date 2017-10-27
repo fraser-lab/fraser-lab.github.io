@@ -115,6 +115,7 @@ _Weds Nov 1_
     - [XDS](http://xds.mpimf-heidelberg.mpg.de/html_doc/downloading.html)
     - [ADXV](http://www.scripps.edu/tainer/arvai/adxv.html)
     - Coot (already installed on laptops)
+    - [XRayView](http://www.phillipslab.org/software)
   - NMR:
     - [NMR Pipe](https://www.ibbr.umd.edu/nmrpipe/install.html)
     - [NMRFAM SPARKY](http://www.nmrfam.wisc.edu/nmrfam-sparky-distribution.htm)
@@ -139,10 +140,11 @@ _X-ray_
 - Wednesday Nov 8: Beamtime at Advanced Light Source: 8AM-4PM
 
 _NMR_
-- Viktoriya	Berdan, Adam	Catching, Neha	Prasad, Jack	Stevenson, Nicole	Wenzell, Eric	Gonzalez, Cody Thomas	Krivacic
-- Monday Nov 6: Data collection
-- Tuesday Nov 7: Data collection
-- Wednesday Nov 8: Data collection
+- NMR Group A:  Viktoriya	Berdan, Adam	Catching, Neha	Prasad, Jack	Stevenson
+- NMR Group B:  Nicole	Wenzell, Eric	Gonzalez, Cody Thomas	Krivacic
+- Monday Nov 6:	  1-2pm NMR sample loading (teaching lab, Group A and B), 2-5pm NMR data collection (Group A and Group B)
+- Tuesday Nov 7:	  1-5pm NMR data collection (titration, Group A )
+- Wednesday Nov 8:	   1-5pm NMR data collection (titration, Group B)
 
 _EM_
 - Kyle	Lopez, Erik	Navarro, Paige	Solomon, Kelly	Montgomery, Jenna	Pellegrino, Megan	Moore, Julian	Harris
@@ -166,7 +168,7 @@ _Mon Nov 13_
   - NMR: Adam	Catching and Neha	Prasad
 - 2-3PM X-ray data processing: from spots to MTZ (JSF, Kazu Ito, Michael Thompson)
 - 3-4PM [EM data processing: from particles to 2D](https://docs.google.com/document/d/1cyh9XstW3Da8tU1g5gj8UCk1OMC8vGJsk7a5r6T9XHo/edit?usp=sharing)
-- 4-5PM NMR data processing: from FID to 2D?
+- 4-5PM NMR data processing: : from FID to 2D (Ryan Tibble and John Gross)
 
 _Tues Nov 14_
 - 1-2PM X-ray data processing: from MTZ to density, molecular replacement and difference maps (JSF, Kazu Ito, Michael Thompson)
@@ -174,14 +176,14 @@ _Tues Nov 14_
 - 3PM - Journal club:
   - Lakshmi	Miller-Vedam [John - need NMR validation paper here? Or Molprobity as default](https://www.ncbi.nlm.nih.gov/pubmed/20057044)
   - Kelly	Montgomery [Free R value: a novel statistical quantity for assessing the accuracy of crystal structures](https://www.nature.com/nature/journal/v355/n6359/pdf/355472a0.pdf)
-- 3-4PM NMR data processing: from 2D to perturbations
+- 3-4PM NMR data processing: overlaying spectrum with assignments and perturbations from 2D data comparisons (Ryan Tibble and John Gross)
 
 _Weds Nov 15_
 - 1-2PM X-ray data processing: identifying ligands, ligand restraints and refinement (JSF, Kazu Ito, Michael Thompson)
 - 2-3PM [EM data processing: manipulating density](https://docs.google.com/document/d/1cyh9XstW3Da8tU1g5gj8UCk1OMC8vGJsk7a5r6T9XHo/edit?usp=sharing)
 - 3PM - Journal Club:
   - Nicole	Wenzell [Prevention of overfitting in cryo-EM structure determination.](https://www.ncbi.nlm.nih.gov/pubmed?cmd=search&term=22842542), background: [Optimal Determination of Particle Orientation, Absolute Hand, and Contrast Loss in Single-particle Electron Cryomicroscopy](http://www.sciencedirect.com/science/article/pii/S0022283603010222)
-- 3-4PM NMR data processing: measuring chemical shift perturbations
+- 3-4PM NMR data processing: measuring chemical shift perturbations  (Ryan Tibble and John Gross)
 
 **Thanksgiving break**
 
@@ -190,18 +192,21 @@ _Weds Nov 15_
 _Mon Nov 27_
 - Journal Club:
   - Jack	Stevenson [Asymmetric activation of the hsp90 dimer by its cochaperone aha1.](https://www.ncbi.nlm.nih.gov/pubmed?cmd=search&term=20159554)
-- John Gross
+- 1-2:30 Lecture by John Gross on fundamentals of NMR theory applications to  mapping protein interactions binding
+- 2:30-5pm work on analyzing NMR titration data to determine Kd (Ryan Tibble and John Gross)
 
 _Tues Nov 28_
 - Journal Club:
   - Viktoriya	Berdan  [Substrate binding drives large-scale conformational changes in the Hsp90 molecular chaperone.](https://www.ncbi.nlm.nih.gov/pubmed?cmd=search&term=21474071)
   - Cody Thomas Krivacic [Cross-monomer substrate contacts reposition the Hsp90 N-terminal domain and prime the chaperone activity.](https://www.ncbi.nlm.nih.gov/pubmed?cmd=search&term=22063096)
-- John Gross
+- 1-2:30 Lecture by John Gross on using NMR for structure determination.
+- 2:30-5pm work on generating chemical shift perturbation plot versus primary sequence; mapping onto structure
 
 _Weds Nov 29_
 - Journal Club:
   - Eric	Gonzalez [Mechanistic basis for the recognition of a misfolded protein by the molecular chaperone Hsp90.](https://www.ncbi.nlm.nih.gov/pubmed?cmd=search&term=28218749)
-- John Gross
+-  1-2:30 Lecture by John Gross on using NMR to measure ms-usec dynamics in proteins (Ryan Tibble and John Gross)
+- 2:30-5pm mapping NMR shift perturbations onto structure using Chimera  (John Gross, Ryan Tibble, Tom Goddard)
 - ChimeraX tutorial by Tom Goddard
 
 **Week 5 - X-ray**
