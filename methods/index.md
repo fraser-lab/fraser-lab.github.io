@@ -174,7 +174,7 @@ _Tues Nov 14_
 - 1-2PM X-ray data processing: from MTZ to density, molecular replacement and difference maps (JSF, Kazu Ito, Michael Thompson)
 - 2-3PM [EM data processing: from 2D to 3D](https://docs.google.com/document/d/1cyh9XstW3Da8tU1g5gj8UCk1OMC8vGJsk7a5r6T9XHo/edit?usp=sharing)
 - 3PM - Journal club:
-  - Lakshmi	Miller-Vedam [John - need NMR validation paper here? Or Molprobity as default](https://www.ncbi.nlm.nih.gov/pubmed/20057044)
+  - Lakshmi	Miller-Vedam [Weak alignment NMR: a hawk-eyed view of biomolecular structure](https://doi.org/10.1016/j.sbi.2005.08.006)
   - Kelly	Montgomery [Free R value: a novel statistical quantity for assessing the accuracy of crystal structures](https://www.nature.com/nature/journal/v355/n6359/pdf/355472a0.pdf)
 - 3-4PM NMR data processing: overlaying spectrum with assignments and perturbations from 2D data comparisons (Ryan Tibble and John Gross)
 
@@ -183,6 +183,7 @@ _Weds Nov 15_
 - 2-3PM [EM data processing: manipulating density](https://docs.google.com/document/d/1cyh9XstW3Da8tU1g5gj8UCk1OMC8vGJsk7a5r6T9XHo/edit?usp=sharing)
 - 3PM - Journal Club:
   - Nicole	Wenzell [Prevention of overfitting in cryo-EM structure determination.](https://www.ncbi.nlm.nih.gov/pubmed?cmd=search&term=22842542), background: [Optimal Determination of Particle Orientation, Absolute Hand, and Contrast Loss in Single-particle Electron Cryomicroscopy](http://www.sciencedirect.com/science/article/pii/S0022283603010222)
+  -  Kyle	Lopez [Molprobity](https://www.ncbi.nlm.nih.gov/pubmed/20057044)
 - 3-4PM NMR data processing: measuring chemical shift perturbations  (Ryan Tibble and John Gross)
 
 **Thanksgiving break**
@@ -243,7 +244,6 @@ _Mon Dec 11_
 _Tues Dec 12_
 - 1-2:30PM Lecture by Cheng/Southworth
 - 4PM - Journal Club:
-  - Kyle	Lopez [Sampling the conformational space of the catalytic subunit of human γ-secretase](https://www.ncbi.nlm.nih.gov/pubmed/26623517)
   - Megan	Moore [Visualization of ligand-induced transmembrane signalling in the full-length human insulin receptor](https://www.biorxiv.org/content/early/2017/10/23/207928)
 - 2:30-5PM Work on titration data with Eugene/Daniel
 
