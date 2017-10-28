@@ -104,7 +104,7 @@ _Accommodations for students with disabilities:_ The Graduate Division embraces 
 at http://sds.ucsf.edu. Accommodations are never retroactive; therefore students are encouraged to register with Student Disability Services (http://sds.ucsf.edu/) as soon as they begin their programs. UCSF encourages students to engage in support seeking behavior via all of the resources available through Student Life, for consistent support and access to their programs.
 
 
-##Schedule##
+## Schedule ##
 
 **Week 1 – Welcome**
 
