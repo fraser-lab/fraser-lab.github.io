@@ -66,6 +66,8 @@ This course will introduce students to approaches and methodologies for interrog
 
 The "official" language of the class is [python](https://www.python.org) - beginners should try [Learn Python The Hard Way](http://learnpythonthehardway.org/book/), people with a background in other languages should try [Google's python course](https://developers.google.com/edu/python/). The QB3 Berkeley [intensive python course](http://intro-prog-bioinfo-2014.wikispaces.com/) provides many biological examples. Students should be comfortable with basic syntax and scripting prior to the start of instruction.
 
+**Journal Clubs**
+Journal club presentations will be limited to 6 minutes. You should use 3 slides: two of which can contain a figure from the paper and the other should be a self-drawn (or created) schematic of the key concept behind the paper. Many of these papers are quite technical, so please engage the instructors and other course personnel as you prepare your presentation. 
 
 **Student Learning Objectives**
 
@@ -162,7 +164,7 @@ _Groups_
 - 5: Megan	Moore, Julian	Harris, Cody Thomas	Krivacic, Lakshmi	Miller-Vedam
 
 _Mon Nov 13_
-- 1-2PM Presentations on Methods Week
+- 1-2PM **Presentations on Methods Week**: Two students from each Method Team will present for 10 minutes and summarize what occured in Week 2. Take pictures and try to give the students a feel for not only the theory of what you learned but also the practical aspects!
   - EM: Erik	Navarro and Paige	Solomon
   - X-ray: Christopher John Pascal	Mathy and Yessica	Gomez
   - NMR: Adam	Catching and Neha	Prasad
