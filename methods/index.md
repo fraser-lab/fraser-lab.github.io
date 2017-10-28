@@ -52,13 +52,14 @@ James Fraser, John Gross, Dan Southworth, David Bulkley, James Holton, Yifan Che
 - Final Teams Presentation: Monday, Dec 18
 
 **Background:**
+
 Fluency in multiple biophysical methods is often critical for answering mechanistic questions. Traditionally, students are exposed to the fundamentals of multiple techniques through lectures that cover the theory prior to exposure, for some, in analysis or data collection during lab rotations. However, this structure means that only students that rotate in specific labs gain hands-on-exposure, which could limit adventurous experiments in future years.  To train the next generation of biophysicists at UCSF, we have decided to alter this traditional structure by creating a new 6 week “Macromolecular Methods” class that places data collection at the beginning of the course.  Based on our experiences designing the project-based class [Physical Underpinnings of Biological Systems, aka PUBS!](/pubs/), which used deep sequencing to assay the function of a comprehensive set of point mutants to introduce principles of [high-throughput interrogation of biological functions](https://www.ncbi.nlm.nih.gov/pubmed/27111525), we have designed Macromolecular Methods to be a team-based class where students develop their own analysis of real data that they have collected.
 
 **Course Description:**
 
 This is a team-based class where students work in small groups develop their own analysis of real data that they have collected. Statistical aspects of rigor and reproducibility in structural biology will be emphasized throughout lectures, journal club presentations, and hands-on activities. The course will function in three modules. In module 1 “data collection” students collect either NMR, negative stain EM, and X-ray crystallographic data. In module  2 “fundamentals of analysis”,  students will are mixed into new groups for lectures and hands-on computational tutorials. These lessons emphasize connections to both the molecular interpretations and the fundamental physical principles that generated the data. In module 3 “integrative structural biology”, the students will finalize their analysis and lectures will emphasize rigorous theory of individual techniques and computational frameworks for integrative structural modeling.  Finally, each group will present to their findings to the class and course faculty.
 
-Recommended reading:
+**Recommended reading:**
 
 - [Integrative Structural Biology](http://science.sciencemag.org/content/339/6122/913.long)
 - [SAR by NMR](https://www.ncbi.nlm.nih.gov/pubmed/8929414)
@@ -74,7 +75,8 @@ This course will introduce students to approaches and methodologies for interrog
 
 The "official" language of the class is [python](https://www.python.org) - beginners should try [Learn Python The Hard Way](http://learnpythonthehardway.org/book/), people with a background in other languages should try [Google's python course](https://developers.google.com/edu/python/). The QB3 Berkeley [intensive python course](http://intro-prog-bioinfo-2014.wikispaces.com/) provides many biological examples. Students should be comfortable with basic syntax and scripting prior to the start of instruction. Here is a [spreadsheet](https://docs.google.com/spreadsheets/d/1BjKsN0B1hqd4dJW5slZ5KPuToCjSMRyA7Bl8MwWrbS4/edit#gid=0) with a listing of multiple Python resources
 
-**Journal Clubs**
+**Journal Clubs:**
+
 Journal club presentations will be limited to 6 minutes. You should use 3 slides: two of which can contain a figure from the paper and the other should be a self-drawn (or created) schematic of the key concept behind the paper. Many of these papers are quite technical, so please engage the instructors and other course personnel as you prepare your presentation.
 
 **Student Learning Objectives**
@@ -91,6 +93,7 @@ Journal club presentations will be limited to 6 minutes. You should use 3 slides
 - Integrative modeling
 
 **Class Policies**
+
 _Ethics_: This course is more than a training experience; it is an active research project whose results will be published to the broader scientific community. The community must be able to understand our work, replicate it, and have confidence in its findings. We must therefore ensure the integrity of the information we disseminate. To do so, it is essential that students perform and document their experiments and analyses as faithfully as possible. Mistakes and oversights are normal and to be expected, but they must not be ignored, concealed, or disguised. In addition, to merit authorship, students must contribute to three aspects of the project: intellectual conception or interpretation of the methods or data, technical execution of the experiments and/or analyses, and documentation or dissemination of the results. We fully expect that by actively participating in the course and working toward the course objectives, all students will merit authorship.
 
 _Respect_: This course is built around an open research project performed in teams. Successful completion of the course objectives will require that students work together effectively, so please respect the time and effort of your classmates and instructors. Moreover, as part of the research process, we will consider and debate a variety of ideas and approaches; however, we must not allow our position on a particular idea or argument to compromise our respect for its author. We therefore expect course participants to give all instructors and students, regardless of academic or personal background, their complete professional respect; anything less will not be tolerated.
@@ -101,7 +104,7 @@ _Accommodations for students with disabilities:_ The Graduate Division embraces 
 at http://sds.ucsf.edu. Accommodations are never retroactive; therefore students are encouraged to register with Student Disability Services (http://sds.ucsf.edu/) as soon as they begin their programs. UCSF encourages students to engage in support seeking behavior via all of the resources available through Student Life, for consistent support and access to their programs.
 
 
-##Schedule
+##Schedule##
 
 **Week 1 – Welcome**
 
