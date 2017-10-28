@@ -204,7 +204,7 @@ _Weds Nov 15_
 
 _Mon Nov 27_
 - Journal Club:
-  - Jack	Stevenson [Asymmetric activation of the hsp90 dimer by its cochaperone aha1.](https://www.ncbi.nlm.nih.gov/pubmed?cmd=search&term=20159554), background: [Localization of the NADPH binding site on MerB by NMR] (/static/pdf/methods/Farmer_NSB_1996.pdf)
+  - Jack	Stevenson [Asymmetric activation of the hsp90 dimer by its cochaperone aha1.](https://www.ncbi.nlm.nih.gov/pubmed?cmd=search&term=20159554), background: [Localization of the NADPH binding site on MurB by NMR] (https://www.ncbi.nlm.nih.gov/pubmed/?term=localizing+the+NADP+binding+site+on+the+MurB+enzyme+by+NMR+%5Bti%5D)
 - 1-2:30 Lecture by John Gross on fundamentals of NMR theory applications to  mapping protein interactions binding
 - 2:30-5pm work on analyzing NMR titration data to determine Kd (Ryan Tibble and John Gross)
 
