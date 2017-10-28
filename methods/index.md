@@ -58,16 +58,24 @@ Fluency in multiple biophysical methods is often critical for answering mechanis
 
 This is a team-based class where students work in small groups develop their own analysis of real data that they have collected. Statistical aspects of rigor and reproducibility in structural biology will be emphasized throughout lectures, journal club presentations, and hands-on activities. The course will function in three modules. In module 1 “data collection” students collect either NMR, negative stain EM, and X-ray crystallographic data. In module  2 “fundamentals of analysis”,  students will are mixed into new groups for lectures and hands-on computational tutorials. These lessons emphasize connections to both the molecular interpretations and the fundamental physical principles that generated the data. In module 3 “integrative structural biology”, the students will finalize their analysis and lectures will emphasize rigorous theory of individual techniques and computational frameworks for integrative structural modeling.  Finally, each group will present to their findings to the class and course faculty.
 
+Recommended reading:
+
+- [Integrative Structural Biology](http://science.sciencemag.org/content/339/6122/913.long)
+- [SAR by NMR](https://www.ncbi.nlm.nih.gov/pubmed/8929414)
+- [Protein crystallography and drug discovery: recollections of knowledge exchange between academia and industry](http://journals.iucr.org/m/issues/2017/04/00/hi5649/index.html)
+- [Scaffold-based design by X-ray](http://www.pnas.org/content/105/8/3041.long), [PANDDA](https://www.ncbi.nlm.nih.gov/pubmed/28436492)
+- [EM for drug discovery](https://www.ncbi.nlm.nih.gov/pubmed/27238019), [Proteasome example](http://journals.iucr.org/d/issues/2017/06/00/rr5143/rr5143.pdf)
+
 **Course Goals:**
 
 The goal of the course is to provide an immersive, hands-on experience in the context of genuine research questions. As articulated by [Vale and colleagues](http://www.sciencemag.org/content/338/6114/1542.long), there are tremendous advantages when graduate students work "pursuing a research question with unknown answers and uncertain outcomes, students and faculty combine their wits and skills to design experiments, evaluate progress, and troubleshoot along the way". These advantages are likely to be common accross [all learning levels](http://blogs.kqed.org/mindshift/2014/09/can-project-based-learning-close-gaps-in-science-education/). In our course, teams may use whatever literature, software, and resources that are available publicly, and are encouraged to write their own scripts and software where necessary.
 
 This course will introduce students to approaches and methodologies for interrogating macromolecular structure and dynamics, which will require the integration of experiment and computation. In addition to fundamental techniques in X-ray crystallography, NMR and EM, students will learn to interpret datasets, draw original conclusions, and present findings in written and oral formats.
 
-The "official" language of the class is [python](https://www.python.org) - beginners should try [Learn Python The Hard Way](http://learnpythonthehardway.org/book/), people with a background in other languages should try [Google's python course](https://developers.google.com/edu/python/). The QB3 Berkeley [intensive python course](http://intro-prog-bioinfo-2014.wikispaces.com/) provides many biological examples. Students should be comfortable with basic syntax and scripting prior to the start of instruction.
+The "official" language of the class is [python](https://www.python.org) - beginners should try [Learn Python The Hard Way](http://learnpythonthehardway.org/book/), people with a background in other languages should try [Google's python course](https://developers.google.com/edu/python/). The QB3 Berkeley [intensive python course](http://intro-prog-bioinfo-2014.wikispaces.com/) provides many biological examples. Students should be comfortable with basic syntax and scripting prior to the start of instruction. Here is a [spreadsheet](https://docs.google.com/spreadsheets/d/1BjKsN0B1hqd4dJW5slZ5KPuToCjSMRyA7Bl8MwWrbS4/edit#gid=0) with a listing of multiple Python resources
 
 **Journal Clubs**
-Journal club presentations will be limited to 6 minutes. You should use 3 slides: two of which can contain a figure from the paper and the other should be a self-drawn (or created) schematic of the key concept behind the paper. Many of these papers are quite technical, so please engage the instructors and other course personnel as you prepare your presentation. 
+Journal club presentations will be limited to 6 minutes. You should use 3 slides: two of which can contain a figure from the paper and the other should be a self-drawn (or created) schematic of the key concept behind the paper. Many of these papers are quite technical, so please engage the instructors and other course personnel as you prepare your presentation.
 
 **Student Learning Objectives**
 
@@ -83,6 +91,9 @@ Journal club presentations will be limited to 6 minutes. You should use 3 slides
 - Integrative modeling
 
 **Class Policies**
+_Ethics_: This course is more than a training experience; it is an active research project whose results will be published to the broader scientific community. The community must be able to understand our work, replicate it, and have confidence in its findings. We must therefore ensure the integrity of the information we disseminate. To do so, it is essential that students perform and document their experiments and analyses as faithfully as possible. Mistakes and oversights are normal and to be expected, but they must not be ignored, concealed, or disguised. In addition, to merit authorship, students must contribute to three aspects of the project: intellectual conception or interpretation of the methods or data, technical execution of the experiments and/or analyses, and documentation or dissemination of the results. We fully expect that by actively participating in the course and working toward the course objectives, all students will merit authorship.
+
+_Respect_: This course is built around an open research project performed in teams. Successful completion of the course objectives will require that students work together effectively, so please respect the time and effort of your classmates and instructors. Moreover, as part of the research process, we will consider and debate a variety of ideas and approaches; however, we must not allow our position on a particular idea or argument to compromise our respect for its author. We therefore expect course participants to give all instructors and students, regardless of academic or personal background, their complete professional respect; anything less will not be tolerated.
 
 _Absences_: The instructor must be notified by the second week of classes for any planned absences, or in advance of class due to illness. Active participation in the laboratory is essential and students are required to attend normal class hours. Attendance during all of the three required presentations is absolutely mandatory, except in cases of doctor-excused medical illness. Any class material or lecture that is missed will be the responsibility of the student. Written evaluations of each team and its members will be provided to the Graduate Tracking System for inclusion into the graduate record, and provided to oral committee members and thesis committee members.
 
@@ -125,11 +136,7 @@ _Weds Nov 1_
     - [EMAN2](http://ncmi.bcm.tmc.edu/ncmi/software/software_details?selected_software=counter_222)
 - 2:00-3:00PM - Theory of Fragments and Role of Structural Biology (Aashish Manglik)
 
-Recommended reading:
 
-- [SAR by NMR](https://www.ncbi.nlm.nih.gov/pubmed/8929414)
-- [Scaffold-based design by X-ray](http://www.pnas.org/content/105/8/3041.long), [PANDDA](https://www.ncbi.nlm.nih.gov/pubmed/28436492)
-- [EM for drug discovery](https://www.ncbi.nlm.nih.gov/pubmed/27238019), [Proteasome](http://journals.iucr.org/d/issues/2017/06/00/rr5143/rr5143.pdf)
 
 **Week 2 – Working in Method Teams**
 
