@@ -12,6 +12,8 @@ The PUBS course is a hands-on, project-based course that integrates proteomics, 
   - [Paper in eLife](https://elifesciences.org/content/5/e15802)
   - [eLIFEdigest: Yeast in a class of their own](https://medium.com/lifes-building-blocks/yeast-in-a-class-of-their-own-4dabb27653eb#.tcf71ly8z)
 - [PUBS 2015](/pubs_2015/)
-- [PUBS 2016](http://kampmannlab.ucsf.edu/pubs)
+- [PUBS 2016](http://kampmannlab.ucsf.edu/pubs-2016)
 
+PUBS is now run by Martin Kampmann and examines alpha synuclein!
+- [PUBS 2017](kampmannlab.ucsf.edu/pubs-2017)
 ![alt text](/static/img/pub/pubs_2015.jpg "PUBS Students")
