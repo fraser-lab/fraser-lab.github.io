@@ -228,7 +228,7 @@ _Mon Dec 4_
 - 1-2:30PM Lecture by Bob Stroud on fundamentals of X-ray diffraction
 - 2:30-5PM Work on X-ray data (JSF, Kazu Ito, Michael Thompson)
 - 4PM - Journal Club:
-  - Colton	Bracken [Direct observation of protein solvation and discrete disorder with experimental crystallographic phases.](https://www.ncbi.nlm.nih.gov/pubmed?cmd=search&term=8539602)
+  - Colton	Bracken [High-Throughput Crystallography: Reliable and Efficient Identification of Fragment Hits](http://www.sciencedirect.com/science/article/pii/S0969212616301356?via%3Dihub)
 
 _Tues Dec 5_
 - 1-2:30PM Lecture by James Holton on the relationship between data quality and model interpretation
