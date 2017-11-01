@@ -133,7 +133,7 @@ _Weds Nov 1_
     - Coot (already installed on laptops)
     - [XRayView](http://www.phillipslab.org/software)
   - NMR:
-    - [NMR Pipe](https://www.ibbr.umd.edu/nmrpipe/install.html), [MacOSX Guide](/static/pdf/methods/NMRPipe_Install_MacOS.pdf]
+    - [NMR Pipe](https://www.ibbr.umd.edu/nmrpipe/install.html), [MacOSX Install Guide](/static/pdf/methods/NMRPipe_Install_MacOS.pdf)
     - [NMRFAM SPARKY](http://www.nmrfam.wisc.edu/nmrfam-sparky-distribution.htm)
   - EM:
     - [EMAN2](http://ncmi.bcm.tmc.edu/ncmi/software/software_details?selected_software=counter_222)
