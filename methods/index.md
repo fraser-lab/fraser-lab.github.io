@@ -129,8 +129,9 @@ _Weds Nov 1_
   - X-ray:
     - [Phenix](https://www.phenix-online.org/download/), [request password](http://www.phenix-online.org/phenix_request/index.cgi)
     - [XDS](http://xds.mpimf-heidelberg.mpg.de/html_doc/downloading.html)
+    - [XDS-GUI](https://strucbio.biologie.uni-konstanz.de/xdswiki/index.php/Installation#Mac_.28Intel.29)
     - [ADXV](http://www.scripps.edu/tainer/arvai/adxv.html)
-    - Coot (already installed on laptops)
+    - Coot (already installed on laptops), if not use [Standalone Coot](http://scottlab.ucsc.edu/xtal/wiki/index.php/Stand-alone_Coot_for_10.11)
     - [XRayView](http://www.phillipslab.org/software)
   - NMR:
     - [NMR Pipe](https://www.ibbr.umd.edu/nmrpipe/install.html), [MacOSX Install Guide](/static/pdf/methods/NMRPipe_Install_MacOS.pdf)
