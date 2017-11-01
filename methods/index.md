@@ -66,6 +66,8 @@ This is a team-based class where students work in small groups develop their own
 - [Protein crystallography and drug discovery: recollections of knowledge exchange between academia and industry](http://journals.iucr.org/m/issues/2017/04/00/hi5649/index.html)
 - [Scaffold-based design by X-ray](http://www.pnas.org/content/105/8/3041.long), [PANDDA](https://www.ncbi.nlm.nih.gov/pubmed/28436492)
 - [EM for drug discovery](https://www.ncbi.nlm.nih.gov/pubmed/27238019), [Proteasome example](http://journals.iucr.org/d/issues/2017/06/00/rr5143/rr5143.pdf)
+- [The maximal affinity of ligands](https://www.ncbi.nlm.nih.gov/pubmed/10468550)
+- [The role of ligand efficiency metrics in drug discovery](https://www.nature.com/articles/nrd4163)
 
 **Course Goals:**
 
