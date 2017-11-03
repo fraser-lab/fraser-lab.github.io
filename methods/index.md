@@ -154,7 +154,7 @@ _X-ray_
 _NMR_
 - NMR Group A:  Viktoriya	Berdan, Adam	Catching, Neha	Prasad, Jack	Stevenson
 - NMR Group B:  Nicole	Wenzell, Eric	Gonzalez, Cody Thomas	Krivacic
-- Monday Nov 6:	  1-2pm NMR sample loading (teaching lab, Group A and B), 2-5pm NMR data collection (Group A and Group B)
+- Monday Nov 6:	  1-2pm NMR sample loading (teaching lab, Group A and B); NMR data collection: 2-3:30pm, Group A and 3:30-5pm , Group B
 - Tuesday Nov 7:	  1-5pm NMR data collection (titration, Group A )
 - Wednesday Nov 8:	   1-5pm NMR data collection (titration, Group B)
 
