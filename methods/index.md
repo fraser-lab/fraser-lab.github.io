@@ -140,7 +140,7 @@ _Weds Nov 1_
     - [NMRFAM SPARKY](http://www.nmrfam.wisc.edu/nmrfam-sparky-distribution.htm)
   - EM:
     - [EMAN2](http://ncmi.bcm.tmc.edu/ncmi/software/software_details?selected_software=counter_222)
-- 2:00-3:00PM - Theory of Fragments and Role of Structural Biology (Aashish Manglik)
+- 2:00-3:00PM - [Theory of Fragments and Role of Structural Biology](/static/pdf/methods/20171029_Fragments_Lecture.pdf) (Aashish Manglik)
 
 
 
