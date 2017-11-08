@@ -238,13 +238,14 @@ _Tues Dec 5_
 - 2:30-5PM Work on X-ray data (JSF, Kazu Ito, Michael Thompson)
 - 4PM - Journal Club:
   - Conner	Bardine [Modelling dynamics in protein crystal structures by ensemble refinement](https://www.ncbi.nlm.nih.gov/pubmed?cmd=search&term=23251785) and
-  - Paul	Klauser [Symmetry broken and rebroken during the ATP hydrolysis cycle of the mitochondrial Hsp90 TRAP1.](https://www.ncbi.nlm.nih.gov/pubmed/28742020)
+  - Adam	Cotton [Why protein crystals favour some space-groups over others.](https://www.ncbi.nlm.nih.gov/pubmed/8846217)
+
 
 _Weds Dec 6_
 - 1-2PM Presentation by Sali on Rigor, Reproducibility, and Integrative Modeling
 - 2:30-4PM Final work on X-ray data (JSF, Kazu Ito, Michael Thompson)
 - 4PM - Journal Club:
-  - Adam	Cotton [Multiple conformations of E. coli Hsp90 in solution: insights into the conformational dynamics of Hsp90.](https://www.ncbi.nlm.nih.gov/pubmed/18462680)
+  - Paul	Klauser [Symmetry broken and rebroken during the ATP hydrolysis cycle of the mitochondrial Hsp90 TRAP1.](https://www.ncbi.nlm.nih.gov/pubmed/28742020)
 - 4-5PM Final Q/A with Stroud and Fraser: what we still don't understand about X-ray crystallography
 
 **Week 6 - EM**
