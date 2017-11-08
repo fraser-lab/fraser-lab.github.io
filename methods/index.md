@@ -177,13 +177,13 @@ _Groups_
 - 5: Megan	Moore, Julian	Harris, Cody Thomas	Krivacic, Lakshmi	Miller-Vedam
 
 _Mon Nov 13_
-- 1-2PM **Presentations on Methods Week**: Two students from each Method Team will present for 10 minutes and summarize what occured in Week 2. Take pictures and try to give the students a feel for not only the theory of what you learned but also the practical aspects!
+**Presentations on Methods Week**: Two students from each Method Team will present for 10 minutes and summarize what occured in Week 2. Take pictures and try to give the students a feel for not only the theory of what you learned but also the practical aspects!
   - EM: Erik	Navarro and Paige	Solomon
   - X-ray: Christopher John Pascal	Mathy and Yessica	Gomez
   - NMR: Adam	Catching and Neha	Prasad
-- 2-3PM X-ray data processing: from spots to MTZ (JSF, Kazu Ito, Michael Thompson)
-- 3-4PM [EM data processing: from particles to 2D](https://docs.google.com/document/d/1cyh9XstW3Da8tU1g5gj8UCk1OMC8vGJsk7a5r6T9XHo/edit?usp=sharing)
-- 4-5PM NMR data processing: : from FID to 2D (Ryan Tibble and John Gross)
+- 1-2:20PM: X-ray Methods Group Presentation and X-ray data processing: from spots to MTZ (JSF, Kazu Ito, Michael Thompson)
+- 2:20-3:40PM: EM Methods Group Presentation and [EM data processing: from particles to 2D](https://docs.google.com/document/d/1cyh9XstW3Da8tU1g5gj8UCk1OMC8vGJsk7a5r6T9XHo/edit?usp=sharing)
+- 3:40-5PM NMR Methods Group Presentation and NMR data processing: : from FID to 2D (Ryan Tibble and John Gross)
 
 _Tues Nov 14_
 - 1-2PM X-ray data processing: from MTZ to density, molecular replacement and difference maps (JSF, Kazu Ito, Michael Thompson)
