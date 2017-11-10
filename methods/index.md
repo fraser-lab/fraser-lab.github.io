@@ -157,6 +157,7 @@ _NMR_
 - Monday Nov 6:	  1-2pm NMR sample loading (teaching lab, Group A and B), 2-5pm NMR data collection (Group A and Group B)
 - Tuesday Nov 7:	  1-5pm NMR data collection (titration, Group A )
 - Wednesday Nov 8:	   1-5pm NMR data collection (titration, Group B)
+- [500 MHz NMR quick start guide](/static/pdf/methods/UCSF\ 500\ Cheat\ Sheet.pdf)
 
 _EM_
 - Kyle	Lopez, Erik	Navarro, Paige	Solomon, Kelly	Montgomery, Jenna	Pellegrino, Megan	Moore, Julian	Harris
