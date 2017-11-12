@@ -185,9 +185,9 @@ _Mon Nov 13_
 - 1-2:20PM: X-ray Methods Group Presentation and X-ray data processing: from spots to MTZ (JSF, Kazu Ito, Michael Thompson)
   - [Box link to ADP images](box.com)
   - [xia2 summary for APO](/static/apo/xia2.html)
-    - [APO mtz](/static/apo/DataFiles/AUTOMATIC_DEFAULT_free.mtz)
+    - [APO mtz](/static/apo/DataFiles/yHSP90_APO.mtz)
   - [xia2 summary for ADP](/static/adp/xia2.html)
-    - [ADP mtz](/static/adp/DataFiles/AUTOMATIC_DEFAULT_free.mtz)
+    - [ADP mtz](/static/adp/DataFiles/yHSP90_ADP.mtz)
 - 2:20-3:40PM: EM Methods Group Presentation and [EM data processing: from particles to 2D](https://docs.google.com/document/d/1cyh9XstW3Da8tU1g5gj8UCk1OMC8vGJsk7a5r6T9XHo/edit?usp=sharing)
 - 3:40-5PM NMR Methods Group Presentation and NMR data processing: : from FID to 2D (Ryan Tibble and John Gross)
 
