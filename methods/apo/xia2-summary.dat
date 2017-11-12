@@ -1,0 +1,22 @@
+Project: AUTOMATIC
+Crystal: DEFAULT
+Sequence length: 0
+Wavelength: NATIVE (1.11583)
+Sweep: SWEEP1
+Files /Users/jfraser/METHODS/yhsp90-02/collect_2_#####.cbf
+Images: 1 to 1685
+Beam 215.27 210.90 => 215.33 211.35
+Distance 275.01 => 275.02
+Date: Tue Oct 24 12:56:25 2017
+For AUTOMATIC/DEFAULT/NATIVE:
+High resolution limit                           1.65    4.48    1.65
+Low resolution limit                           33.06   33.06    1.68
+Completeness                                   99.2   100.0    93.8
+Multiplicity                                   11.6    10.8     9.1
+I/sigma                                        14.9    37.2     1.1
+Rmerge(I+/-)                                  0.076   0.049   1.492
+CC half                                       0.999   0.998   0.450
+Anomalous completeness                         99.3   100.0    91.9
+Anomalous multiplicity                          6.2     6.4     4.8
+Cell:  73.920  73.920 110.000  90.000  90.000  90.000
+Spacegroup: P 43 2 2
