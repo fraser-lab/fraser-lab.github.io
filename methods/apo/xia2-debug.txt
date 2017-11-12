@@ -1,0 +1,2861 @@
+Process ID: 4625
+Created CCP4_SCR: /var/folders/6_/99z9p_cd6vn6nvwkq7wkwm8w0000gn/T/tmp6ks8hI
+3DR pipeline selected
+Project: AUTOMATIC
+Crystal: DEFAULT
+
+Difference PHIL:
+xia2.settings {
+  pipeline = 2d 2di *3d 3dd 3di 3dii dials
+  input {
+    anomalous = false
+    xinfo = /Users/jfraser/METHODS_XIA2/apo/automatic.xinfo
+  }
+  space_group = p4322
+  resolution {
+    keep_all_reflections = false
+  }
+  multi_sweep_indexing = False
+  indexer = mosflm labelit labelitii *xds xdsii xdssum dials
+  refiner = mosflm *xds dials
+  integrater = mosflmr *xdsr mosflm xds dials
+  scaler = ccp4a *xdsa
+  multiprocessing {
+    nproc = 4
+    njob = 1
+  }
+}
+
+Working PHIL:
+general {
+  check_image_files_readable = True
+  backstop_mask = None
+}
+xds {
+  z_min = 0.0
+  delphi = 5
+  delphi_small = 30
+  untrusted_ellipse = None
+  untrusted_rectangle = None
+  trusted_region = None
+  profile_grid_size = None
+  keep_outliers = False
+  correct {
+    refine = *DISTANCE *BEAM *AXIS *ORIENTATION *CELL *POSITION
+    air = None
+  }
+  integrate {
+    refine = *ORIENTATION *CELL *BEAM *DISTANCE AXIS *POSITION
+    refine_final = *ORIENTATION *CELL BEAM DISTANCE AXIS POSITION
+    fix_scale = False
+    delphi = 0
+    reflecting_range = 0
+    reflecting_range_esd = 0
+    beam_divergence = 0
+    beam_divergence_esd = 0
+    reintegrate = true
+  }
+  init {
+    fix_scale = False
+  }
+  defpix {
+    value_range_for_trusted_detector_pixels = None
+  }
+  index {
+    refine = *ORIENTATION *CELL *BEAM *DISTANCE *AXIS *POSITION
+    debug = *OFF ON
+    xparm = None
+    xparm_ub = None
+  }
+  colspot {
+    minimum_pixels_per_spot = 1
+  }
+  xscale {
+    min_isigma = 3.0
+    zero_dose = False
+  }
+  merge2cbf {
+    merge_n_images = 2
+    data_range = None
+    moving_average = False
+  }
+}
+dials {
+  fix_geometry = False
+  outlier {
+    algorithm = null *auto mcd tukey sauter_poon
+  }
+  fast_mode = False
+  close_to_spindle_cutoff = 0.02
+  masking {
+    border = 0
+    use_trusted_range = True
+    d_min = None
+    d_max = None
+    resolution_range = None
+    untrusted {
+      panel = 0
+      circle = None
+      rectangle = None
+      polygon = None
+    }
+    ice_rings {
+      filter = False
+      unit_cell = 4.498,4.498,7.338,90,90,120
+      space_group = 194
+      width = 0.002
+      d_min = None
+    }
+  }
+  find_spots {
+    phil_file = None
+    min_spot_size = Auto
+    min_local = 0
+    sigma_strong = None
+    filter_ice_rings = False
+    kernel_size = 3
+    global_threshold = None
+  }
+  index {
+    phil_file = None
+    method = fft1d *fft3d real_space_grid_search
+    max_cell = 0.0
+    fft3d.n_points = None
+    reflections_per_degree = 100
+    histogram_binning = linear log
+  }
+  refine {
+    phil_file = None
+    scan_static = True
+    scan_varying = True
+    interval_width_degrees = 36.0
+    reflections_per_degree = 100
+  }
+  integrate {
+    phil_file = None
+    background_outlier_algorithm = *null nsigma truncated normal tukey mosflm
+    background_algorithm = simple null *glm
+    include_partials = True
+    mosaic = *old new
+  }
+}
+ccp4 {
+  reindex {
+    program = 'pointless'
+  }
+  aimless {
+    intensities = summation profile *combine
+    surface_tie = 0.001
+    surface_link = True
+    secondary = 6
+  }
+  pointless {
+    chirality = chiral nonchiral centrosymmetric
+  }
+  truncate {
+    program = 'ctruncate'
+  }
+}
+strategy {
+  name = None
+  description = None
+  i_over_sigi = 2.0
+  minimize_total_time = False
+  target_resolution = None
+  max_total_exposure = None
+  anomalous = False
+  dose_rate = 0.0
+  shape = 1.0
+  susceptibility = 1.0
+  completeness = 0.99
+  multiplicity = None
+  phi_range = None
+  min_oscillation_width = 0.05
+  xml_out = None
+  max_rotation_speed = None
+  min_exposure = None
+}
+xia2.settings {
+  pipeline = 2d 2di *3d 3dd 3di 3dii dials
+  small_molecule = False
+  failover = False
+  multi_crystal = False
+  interactive = False
+  project = 'AUTOMATIC'
+  crystal = 'DEFAULT'
+  input {
+    atom = None
+    anomalous = false
+    working_directory = None
+    image = None
+    json = None
+    reference_geometry = None
+    xinfo = /Users/jfraser/METHODS_XIA2/apo/automatic.xinfo
+    reverse_phi = False
+    gain = None
+    min_images = 10
+    min_oscillation_range = None
+    tolerance {
+      beam {
+        wavelength = 1e-6
+        direction = 1e-6
+        polarization_normal = 1e-6
+        polarization_fraction = 1e-6
+      }
+      detector {
+        fast_axis = 1e-6
+        slow_axis = 1e-6
+        origin = 5e-2
+      }
+      goniometer {
+        rotation_axis = 1e-6
+        fixed_rotation = 1e-6
+        setting_rotation = 1e-6
+      }
+      scan {
+        oscillation = 0.01
+      }
+    }
+    geometry {
+      beam {
+        wavelength = None
+        direction = None
+      }
+      detector {
+        panel {
+          id = 0
+          name = None
+          type = None
+          pixel_size = None
+          image_size = None
+          trusted_range = None
+          thickness = None
+          material = None
+          fast_axis = None
+          slow_axis = None
+          origin = None
+          parallax_correction = None
+        }
+        hierarchy {
+          name = None
+          fast_axis = None
+          slow_axis = None
+          origin = None
+          group {
+            id = None
+            name = None
+            fast_axis = None
+            slow_axis = None
+            origin = None
+            panel = None
+          }
+        }
+        mosflm_beam_centre = None
+        distance = None
+        slow_fast_beam_centre = None
+      }
+      goniometer {
+        axes = None
+        angles = None
+        names = None
+        scan_axis = None
+        fixed_rotation = None
+        setting_rotation = None
+      }
+      scan {
+        image_range = None
+        extrapolate_scan = False
+        oscillation = None
+      }
+      convert_stills_to_sweeps = False
+      convert_sweeps_to_stills = False
+    }
+    format {
+      dynamic_shadowing = False
+      multi_panel = False
+    }
+  }
+  sweep {
+    id = None
+    range = None
+    exclude = False
+  }
+  scale {
+    directory = Auto
+    free_fraction = 0.05
+    free_total = None
+    freer_file = None
+    reference_reflection_file = None
+    model = *decay *modulation *absorption partiality
+    scales = *rotation batch
+    two_theta_refine = True
+  }
+  space_group = p4322
+  unit_cell = None
+  resolution {
+    keep_all_reflections = false
+    d_max = None
+    d_min = None
+    rmerge = None
+    completeness = None
+    cc_half = 0.5
+    cc_half_method = *half_dataset sigma_tau
+    cc_half_significance_level = None
+    cc_half_fit = *polynomial tanh
+    isigma = 0.25
+    misigma = 1.0
+    nbins = 100
+    binning_method = *counting_sorted volume
+    anomalous = False
+  }
+  unify_setting = False
+  trust_beam_centre = False
+  wavelength_tolerance = 0.00005
+  read_all_image_headers = True
+  detector_distance = None
+  show_template = False
+  untrusted_rectangle_indexing = None
+  xds_cell_deviation = 0.05, 5.0
+  xds_check_cell_deviation = False
+  use_brehm_diederichs = False
+  integration {
+    profile_fitting = True
+    exclude_ice_regions = False
+  }
+  developmental {
+    use_dials_spotfinder = False
+    pointless_tolerance = 0.0
+    detector_id = None
+  }
+  multi_sweep_indexing = False
+  remove_blanks = False
+  integrate_p1 = False
+  reintegrate_correct_lattice = True
+  lattice_rejection = True
+  lattice_rejection_threshold = 1.5
+  xds {
+    geometry_x = None
+    geometry_y = None
+  }
+  indexer = mosflm labelit labelitii *xds xdsii xdssum dials
+  refiner = mosflm *xds dials
+  integrater = mosflmr *xdsr mosflm xds dials
+  scaler = ccp4a *xdsa
+  merging_statistics {
+    source = aimless *cctbx
+    n_bins = 20
+    use_internal_variance = False
+    eliminate_sys_absent = False
+  }
+  verbose = False
+  multiprocessing {
+    mode = *serial parallel
+    nproc = 4
+    njob = 1
+    type = *simple qsub
+    qsub_command = ''
+  }
+}
+
+Rejecting sweep test_0_#####.cbf:
+Not enough images (found 1, require at least 10)
+Rejecting sweep test_0_#####.cbf:
+Not enough images (found 1, require at least 10)
+
+/Users/jfraser/METHODS_XIA2/apo/automatic.xinfo
+BEGIN PROJECT AUTOMATIC
+BEGIN CRYSTAL DEFAULT
+
+USER_SPACEGROUP P 43 2 2
+
+BEGIN WAVELENGTH NATIVE
+WAVELENGTH 1.115830
+END WAVELENGTH NATIVE
+
+BEGIN SWEEP SWEEP1
+WAVELENGTH NATIVE
+DIRECTORY /Users/jfraser/METHODS/yhsp90-02
+IMAGE collect_2_00001.cbf
+START_END 1 1685
+END SWEEP SWEEP1
+
+END CRYSTAL DEFAULT
+END PROJECT AUTOMATIC
+
+Overriding value for wavelength NATIVE to 1.115830
+Exposure epoch for sweep collect_2_#####.cbf: 1508849785 1508849869
+Detector could not be identified
+Making directory: /Users/jfraser/METHODS_XIA2/apo/DEFAULT/NATIVE/SWEEP1/integrate
+Using XDS Integrater in new resolution mode
+Integrater factory: Setting wavelength: 1.115830
+Making directory: /Users/jfraser/METHODS_XIA2/apo/DEFAULT/NATIVE/SWEEP1/refine
+Using XDS Refiner
+Making directory: /Users/jfraser/METHODS_XIA2/apo/DEFAULT/NATIVE/SWEEP1/index
+Using XDS Indexer
+Refiner reset
+Refiner reset
+Integrater / refiner / indexer for sweep SWEEP1: XDSIntegrater/XDSRefiner/XDSIndexer
+Resetting refiner done as prepare not done
+Called refiner done from xia2.Schema.Interfaces.Refiner 187 (False)
+Resetting integrater done as prepare not done
+Resetting integrater finish done as integrate not done
+Resetting refiner done as prepare not done
+Called refiner done from xia2.Schema.Interfaces.Refiner 187 (False)
+Resetting integrater done as prepare not done
+Resetting refiner done as prepare not done
+Called refiner done from xia2.Schema.Interfaces.Refiner 187 (False)
+Preparing to do some integration...
+Sweep epoch: 1508849785
+XDS INTEGRATE PREPARE:
+Wavelength: 1.115830
+Distance: 275.01
+Resetting refiner done as prepare not done
+Called refiner done from xia2.Schema.Interfaces.Refiner 187 (False)
+Resetting refiner finish done as refinement not done
+Called refiner finish done from xia2.Schema.Interfaces.Refiner 194 (False)
+Resetting refiner done as prepare not done
+Called refiner done from xia2.Schema.Interfaces.Refiner 187 (False)
+Resetting indexer done as prepare not done
+Resetting indexer finish done as index not done, from /programs/i386-mac/ccp4/7.0/ccp4-7.0/lib/py2/site-packages/xia2/Schema/Interfaces/Indexer.py/417
+Index in XDSIndexer called from /programs/i386-mac/ccp4/7.0/ccp4-7.0/lib/py2/site-packages/xia2/Modules/Refiner/XDSRefiner.py 34
+Resetting indexer done as prepare not done
+Resetting indexer finish done as index not done, from /programs/i386-mac/ccp4/7.0/ccp4-7.0/lib/py2/site-packages/xia2/Schema/Interfaces/Indexer.py/425
+Resetting indexer done as prepare not done
+XDS INDEX PREPARE:
+Wavelength: 1.115830
+Distance: 275.01
+Adding images for indexer: 1 -> 5
+Adding images for indexer: 451 -> 455
+Adding images for indexer: 901 -> 905
+Logfile: xds -> /Users/jfraser/METHODS_XIA2/apo/DEFAULT/NATIVE/SWEEP1/index/1_xds_XYCORR.log
+Last 31 lines of /Users/jfraser/METHODS_XIA2/apo/DEFAULT/NATIVE/SWEEP1/index/1_xds_XYCORR.log:
+
+ ***** XDS ***** (VERSION Jun 1, 2017  BUILT=20170923)   8-Nov-2017
+ Author: Wolfgang Kabsch
+ Copy licensed until 31-Mar-2018 to
+  academic users for non-commercial applications   
+ No redistribution.
+
+
+ ***** XYCORR ***** (VERSION Jun 1, 2017  BUILT=20170923)   8-Nov-2017
+
+ DETECTOR=PILATUS
+
+ No geometrical corrections necessary
+
+
+ Corrections for parallax effects are added to the geometrical distortions.
+ The parallax effects depend on the following parameters.
+ NX=  2463  NY=  2527    QX=  0.172000  QY=  0.172000
+ ORGX=   1226.67  ORGY=   1252.05
+ DETECTOR_DISTANCE=   275.010
+ SILICON=  5.459590
+ SENSOR_THICKNESS=  0.450000
+ NUMBER OF DETECTOR SEGMENTS     1
+
+ cpu time used                  0.3 sec
+ elapsed wall-clock time        0.3 sec
+
+
+ Total elapsed wall-clock time for XDS        0.3 sec
+# command line:
+# xds 
+Logfile: xds -> /Users/jfraser/METHODS_XIA2/apo/DEFAULT/NATIVE/SWEEP1/index/2_xds_INIT.log
+Last 50 lines of /Users/jfraser/METHODS_XIA2/apo/DEFAULT/NATIVE/SWEEP1/index/2_xds_INIT.log:
+
+       1   0.982    109814
+       2   0.981    109768
+       3   0.982    109771
+       4   0.981    109762
+       5   0.981    109779
+
+ NUMBER OF GAIN VALUES IN TABLE               121088
+ MEAN GAIN VALUE                              0.9847
+ MINIMUM GAIN VALUE IN TABLE                  0.9067
+ MAXIMUM GAIN VALUE IN TABLE                  1.1596
+
+
+
+ DETERMINATION OF THE BACKGROUND LOOK-UP TABLE "BKGINIT.cbf"
+ -----------------------------------------------------------
+ BACKGROUND LOOK-UP TABLE IS DETERMINED FROM DATA IMAGES       1       5
+
+ *** DEFINITION OF SYMBOLS ***
+ SCALE     = SCALING FACTOR FOR THIS DATA IMAGE
+ COUNTS    = MEAN BACKGROUND IN AN IMAGE PIXEL.
+ MBKG      = NUMBER OF BACKGROUND PIXELS ON DATA IMAGE
+             WITHIN 3.0 S.D. OF ESTIMATED BACKGROUND
+ MSCALE    = NUMBER OF BACKGROUND PIXELS ON DATA IMAGE USED FOR
+             DETERMINATION OF THE SCALING FACTOR
+ MSPOT     = NUMBER OF PIXELS ON DATA IMAGE ABOVE BACKGROUND
+ I/O-FLAG  = ERROR CODE AFTER ACCESSING DATA IMAGE 
+              0: NO ERROR
+             -1: CANNOT OPEN OR READ IMAGE FILE
+             -3: WRONG DATA FORMAT
+
+ FRAME #    SCALE     COUNTS     MBKG    MSCALE      MSPOT
+       1     1.000    12.120   5564669   5564669     99367
+       2     1.005    12.060   5563279   5545779    100757
+       3     1.000    12.113   5562872   5536659    101164
+       4     1.000    12.122   5562813   5527247    101223
+       5     1.007    12.039   5561960   5518283    102076
+
+ NUMBER OF PIXELS USED FOR DATA COLLECTION              5664036
+ AVERAGE BACKGROUND COUNTS IN A DATA IMAGE PIXEL         12.350
+ MINIMUM BACKGROUND VALUE                                 1.812
+ MAXIMUM BACKGROUND VALUE                                67.528
+ BACKGROUND TABLE VALUES MULTIPLIED BY FACTOR           100.000
+
+ cpu time used                  2.2 sec
+ elapsed wall-clock time        2.3 sec
+
+ Total elapsed wall-clock time for XDS        2.3 sec
+# command line:
+# xds 
+Logfile: xds_par -> /Users/jfraser/METHODS_XIA2/apo/DEFAULT/NATIVE/SWEEP1/index/3_xds_par_COLSPOT.log
+Last 50 lines of /Users/jfraser/METHODS_XIA2/apo/DEFAULT/NATIVE/SWEEP1/index/3_xds_par_COLSPOT.log:
+ Task # 1 scans a subset of      15 images in the range      1 ...   905
+ ------------------------------------------------------------------------
+
+ RESULTS FOR FORKED COLSPOT TASK # 1
+ NUMBER OF PROCESSES (OpenMP threads) RUNNING IN PARALLEL    4
+ PROCESS #  1 scans     4  images in the range       1 ...      4
+ PROCESS #  2 scans     4  images in the range       5 ...    453
+ PROCESS #  3 scans     4  images in the range     454 ...    902
+ PROCESS #  4 scans     3  images in the range     903 ...    905
+
+ *** DEFINITION OF SYMBOLS ***
+ NBKG      = NUMBER OF BACKGROUND PIXELS ON DATA IMAGE
+ NSTRONG   = NUMBER OF STRONG PIXELS ON DATA IMAGE
+ I/O-FLAG  = ERROR CODE AFTER ACCESSING DATA IMAGE 
+              0: NO ERROR
+             -1: CANNOT OPEN OR READ IMAGE FILE
+             -3: WRONG DATA FORMAT
+
+ FRAME #      NBKG     NSTRONG   I/O-FLAG
+       1   5657005        7031       0
+       2   5656893        7143       0
+       3   5656760        7276       0
+       4   5656883        7153       0
+       5   5656819        7217       0
+     451   5657250        6786       0
+     452   5657877        6159       0
+     453   5657893        6143       0
+     454   5657710        6326       0
+     455   5657789        6247       0
+     901   5658683        5353       0
+     902   5658526        5510       0
+     903   5658289        5747       0
+     904   5658280        5756       0
+     905   5658148        5888       0
+
+ NUMBER OF STRONG PIXELS EXTRACTED FROM IMAGES       95735
+
+ NUMBER OF DIFFRACTION SPOTS LOCATED                  5880
+ IGNORED BECAUSE OF SPOT CLOSE TO UNTRUSTED REGION     854
+ WEAK SPOTS OMITTED                                   2339
+ NUMBER OF DIFFRACTION SPOTS ACCEPTED                 2687
+
+ total elapsed wall-clock time for COLSPOT       2.5 sec
+
+ TASK     cpu time (sec)    elapsed wall-clock time (sec)
+   1           5.8                     2.4
+
+ Total elapsed wall-clock time for XDS        2.5 sec
+# command line:
+# xds_par 
+Logfile: xds_par -> /Users/jfraser/METHODS_XIA2/apo/DEFAULT/NATIVE/SWEEP1/index/4_xds_par_IDXREF.log
+Last 50 lines of /Users/jfraser/METHODS_XIA2/apo/DEFAULT/NATIVE/SWEEP1/index/4_xds_par_IDXREF.log:
+ MAXIMUM RADIUS OF DIFFERENCE VECTOR CLUSTERS (pixels)   3
+ MINIMUM DISTANCE BETWEEN DIFFRACTION SPOTS (pixel)    6.0
+ MINIMUM ALLOWED DISTANCE BETWEEN REC. LATTICE POINTS   0.3363E-02
+ OBSERVED BASIS CELL VOLUME                             0.6018E+06
+ DIMENSION OF SPACE SPANNED BY DIFFERENCE VECTOR CLUSTERS   3
+
+   #  COORDINATES OF REC. BASIS VECTOR    LENGTH   1/LENGTH
+
+    1   0.0088844 0.0018316-0.0007027  0.0090984     109.91
+    2  -0.0023726 0.0129043 0.0032036  0.0135060      74.04
+    3   0.0016372-0.0028840 0.0131100  0.0135229      73.95
+
+ PARAMETERS OF THE REDUCED CELL (ANGSTROEM & DEGREES)
+     73.95     74.04    109.91     90.14     90.02     90.28
+
+   #  COORDINATES OF REC. BASIS VECTOR    REDUCED CELL INDICES
+
+    1   0.0088844 0.0018316-0.0007027     0.00   -0.00   -1.00
+    2  -0.0023726 0.0129043 0.0032036    -0.00   -1.00   -0.00
+    3   0.0016372-0.0028840 0.0131100    -1.00    0.00    0.00
+
+
+ ***** REFINED SOLUTION BASED ON INDEXED REFLECTIONS IN SUBTREE # 1 *****
+
+ REFINED VALUES OF DIFFRACTION PARAMETERS DERIVED FROM      2565 INDEXED SPOTS
+ REFINED PARAMETERS:   AXIS BEAM ORIENTATION CELL POSITION
+ STANDARD DEVIATION OF SPOT    POSITION (PIXELS)     1.82
+ STANDARD DEVIATION OF SPINDLE POSITION (DEGREES)    1.27
+ SPACE GROUP NUMBER      1
+ UNIT CELL PARAMETERS     73.959    73.988   109.954  90.108  90.048  90.283
+ REC. CELL PARAMETERS   0.013521  0.013516  0.009095  89.892  89.951  89.717
+ COORDINATES OF UNIT CELL A-AXIS    -8.895    16.101   -71.635
+ COORDINATES OF UNIT CELL B-AXIS    13.242   -70.741   -17.167
+ COORDINATES OF UNIT CELL C-AXIS  -107.405   -21.951     8.498
+ CRYSTAL MOSAICITY (DEGREES)     0.200
+ LAB COORDINATES OF ROTATION AXIS  0.999991 -0.003515  0.002300
+ DIRECT BEAM COORDINATES (REC. ANGSTROEM)  -0.002670 -0.000860  0.896190
+ DETECTOR COORDINATES (PIXELS) OF DIRECT BEAM    1229.39   1252.45
+ DETECTOR ORIGIN (PIXELS) AT                     1234.15   1253.98
+ CRYSTAL TO DETECTOR DISTANCE (mm)       275.27
+ LAB COORDINATES OF DETECTOR X-AXIS  1.000000  0.000000  0.000000
+ LAB COORDINATES OF DETECTOR Y-AXIS  0.000000  1.000000  0.000000
+
+
+ cpu time used                  1.4 sec
+ elapsed wall-clock time        1.1 sec
+
+ Total elapsed wall-clock time for XDS        1.1 sec
+# command line:
+# xds_par 
+Target unit cell: 74.00 74.00 110.00 90.00 90.00 90.00
+Chosen unit cell: 73.95 73.95 110.00 90.00 90.00 90.00
+Low resolution limit assigned as: 34.48
+Files available at the end of XDS integrate prepare:
+Y-CORRECTIONS.cbf
+SPOT.XDS
+BLANK.cbf
+X-CORRECTIONS.cbf
+XPARM.XDS
+BKGINIT.cbf
+GAIN.cbf
+Low resolution set to: 34.4797797964
+Doing some integration...
+Logfile: xds -> /Users/jfraser/METHODS_XIA2/apo/DEFAULT/NATIVE/SWEEP1/integrate/5_xds_DEFPIX.log
+Setting low resolution limit in DEFPIX to 34.48
+Last 43 lines of /Users/jfraser/METHODS_XIA2/apo/DEFAULT/NATIVE/SWEEP1/integrate/5_xds_DEFPIX.log:
+
+ ***** XDS ***** (VERSION Jun 1, 2017  BUILT=20170923)   8-Nov-2017
+ Author: Wolfgang Kabsch
+ Copy licensed until 31-Mar-2018 to
+  academic users for non-commercial applications   
+ No redistribution.
+
+
+ ***** DEFPIX ***** (VERSION Jun 1, 2017  BUILT=20170923)   8-Nov-2017
+
+ modifies the initial background image BKGINIT.cbf from the INIT step by
+ labelling detector pixels that should be ignored in the integration step
+ and saves the results as a control image BKGPIX.cbf. Excluded pixels are
+ marked by -3. The control images should be inspected with the XDS-Viewer.
+
+ The pixels are labelled based on parameters in the input file XDS.INP:
+ UNTRUSTED_ELLIPSE=, UNTRUSTED_RECTANGLE=, UNTRUSTED_QUADRILATERAL=,
+ EXCLUDE_RESOLUTION_RANGE=, INCLUDE_RESOLUTION_RANGE=.
+
+ In addition, DEFPIX attempts to recognize and exclude shaded regions
+ of the detector area that are caused by intruding hardware obscuring
+ x-ray diffraction. For this purpose each pixel value in the table is
+ compared with the mean of all pixels at the same resolution; the result
+ is saved in the control image ABS.cbf. Unshaded pixels should have
+ values around 10000 while shaded regions are recognized by their lower
+ values, typically below 7000. The acceptable value range for unshaded
+ pixels is defined in the input file XDS.INP by the parameter
+ VALUE_RANGE_FOR_TRUSTED_DETECTOR_PIXELS=.
+
+ INCLUDE_RESOLUTION_RANGE=     34.480     0.000
+ VALUE_RANGE_FOR_TRUSTED_DETECTOR_PIXELS=      7000.    30000.
+ RESOLUTION RANGE RECORDED BY DETECTOR (ANGSTROM)    34.478     1.373
+ NUMBER OF PIXELS REMOVED FROM   "BKGINIT.cbf"         6718
+ NUMBER OF TRUSTED PIXELS IN      "BKGPIX.cbf"      5657318
+ MEAN VALUE OF TRUSTED PIXELS IN  "BKGPIX.cbf"     1232.005
+
+
+ cpu time used                  0.5 sec
+ elapsed wall-clock time        0.5 sec
+
+ Total elapsed wall-clock time for XDS        0.5 sec
+# command line:
+# xds 
+Logfile: xds_par -> /Users/jfraser/METHODS_XIA2/apo/DEFAULT/NATIVE/SWEEP1/integrate/6_xds_par_INTEGRATE.log
+Last 50 lines of /Users/jfraser/METHODS_XIA2/apo/DEFAULT/NATIVE/SWEEP1/integrate/6_xds_par_INTEGRATE.log:
+  1682   0  1.016  5595925    0   9175     651    23  0.04942  0.24840
+  1683   0  1.017  5594583    0   9180     653    17  0.05105  0.28070
+  1684   0  1.023  5594636    0   9240     652    27  0.05080  0.24969
+  1685   0  1.015  5592035    0   9230     660     5  0.05202  0.32170
+
+  4281 OUT OF   4326 REFLECTIONS ACCEPTED FOR REFINEMENT
+ REFINED PARAMETERS:   POSITION BEAM ORIENTATION CELL                        
+ STANDARD DEVIATION OF SPOT    POSITION (PIXELS)     1.16
+ STANDARD DEVIATION OF SPINDLE POSITION (DEGREES)    0.18
+ SPACE GROUP NUMBER     75
+ UNIT CELL PARAMETERS     73.943    73.943   110.144  90.000  90.000  90.000
+ REC. CELL PARAMETERS   0.013524  0.013524  0.009079  90.000  90.000  90.000
+ COORDINATES OF UNIT CELL A-AXIS     8.777   -16.219    71.606
+ COORDINATES OF UNIT CELL B-AXIS   -12.838    70.666    17.579
+ COORDINATES OF UNIT CELL C-AXIS  -107.681   -21.627     8.301
+ CRYSTAL ROTATION OFF FROM INITIAL ORIENTATION     0.185     0.088     0.163
+ shown as x,y,z components of rotation axis X angle (degrees)
+ CRYSTAL MOSAICITY (DEGREES)     0.268
+ LAB COORDINATES OF ROTATION AXIS  0.999986 -0.004238  0.003207
+ DIRECT BEAM COORDINATES (REC. ANGSTROEM)  -0.003003 -0.001773  0.896187
+ DETECTOR COORDINATES (PIXELS) OF DIRECT BEAM    1229.27   1251.94
+ DETECTOR ORIGIN (PIXELS) AT                     1234.63   1255.10
+ CRYSTAL TO DETECTOR DISTANCE (mm)       275.02
+ LAB COORDINATES OF DETECTOR X-AXIS  1.000000  0.000000  0.000000
+ LAB COORDINATES OF DETECTOR Y-AXIS  0.000000  1.000000  0.000000
+
+
+ STANDARD DEVIATIONS OF BEAM DIVERGENCE AND REFLECTING RANGE OBTAINED
+ FROM    4281 REFLECTION PROFILES AT 9 POSITIONS ON THE DETECTOR SURFACE.
+ POSITION NUMBER        1      2      3      4      5      6      7      8      9
+ X-COORDINATE (pixel) 1231.0 2148.9 1880.1 1231.0  582.0  313.1  581.9 1231.0 1880.0
+ Y-COORDINATE (pixel) 1263.0 1263.0 1928.9 2204.8 1928.9 1263.0  597.1  321.2  597.0
+ NUMBER                 1002    234    465    657    456    276    390    456    300
+ SIGMAB (degree)       0.067  0.070  0.067  0.066  0.066  0.070  0.072  0.074  0.074
+ SIGMAR (degree)       0.186  0.170  0.174  0.178  0.175  0.171  0.182  0.181  0.174
+
+
+  25083 REFLECTION INTENSITIES INTEGRATED
+
+  521164 REFLECTIONS SAVED ON FILE "INTEGRATE.HKL"
+
+
+ total elapsed wall-clock time for INTEGRATE     530.4 sec
+
+ TASK     cpu time (sec)    elapsed wall-clock time (sec)
+   1        1379.9                   525.8
+
+ Total elapsed wall-clock time for XDS      530.4 sec
+# command line:
+# xds_par 
+Mosaic spread range: 0.149 0.243 0.310
+Resetting integrater, to ensure refined orientation is used
+Using low resolution limit: 34.48
+Logfile: xds_par -> /Users/jfraser/METHODS_XIA2/apo/DEFAULT/NATIVE/SWEEP1/integrate/7_xds_par_CORRECT.log
+Setting spacegroup to: 75
+Setting cell to: 73.98 73.98 109.94 90.00 90.00 90.00
+Last 50 lines of /Users/jfraser/METHODS_XIA2/apo/DEFAULT/NATIVE/SWEEP1/integrate/7_xds_par_CORRECT.log:
+ STRICT_ABSORPTION_CORRECTION=FALSE 
+ CORRECTIONS= DECAY MODULATION ABSORPTION                      
+ REFERENCE_DATA_SET=                                                  
+ FIT_B-FACTOR_TO_REFERENCE_DATA_SET=FALSE 
+
+  521164 REFLECTIONS ON FILE "INTEGRATE.HKL"
+       0 CORRUPTED REFLECTION RECORDS (IGNORED)
+       0 MATCHING REFLECTIONS SPECIFIED IN FILE "FILTER.HKL"
+       0 REFLECTIONS INCOMPLETE OR OUTSIDE IMAGE RANGE       1 ...    1685
+       0 OVERLOADED REFLECTIONS (IGNORED)
+     243 REFLECTIONS OUTSIDE ACCEPTED RESOLUTION RANGES
+                OR TOO CLOSE TO ROTATION AXIS (IGNORED)
+  520921 REFLECTIONS ACCEPTED
+
+
+ ******************************************************************************
+      MEAN DISCREPANCIES BETWEEN OBSERVED AND CALCULATED SPOT LOCATIONS
+ ******************************************************************************
+
+ The discrepancies in X- and Y-coordinates of the spots are depicted in the
+ two images DX-CORRECTIONS.cbf and DY-CORRECTIONS.cbf for inspection with
+ the XDS-Viewer.
+
+
+ THE DATA COLLECTION STATISTICS REPORTED BELOW ASSUMES:
+ SPACE_GROUP_NUMBER=   75
+ UNIT_CELL_CONSTANTS=    73.92    73.92   109.99  90.000  90.000  90.000
+
+
+ ******************************************************************************
+    CORRECTION PARAMETERS FOR THE STANDARD ERROR OF REFLECTION INTENSITIES
+ ******************************************************************************
+
+ The variance v0(I) of the intensity I obtained from counting statistics is
+ replaced by v(I)=a*(v0(I)+b*I^2). The model parameters a, b are chosen to
+ minimize the discrepancies between v(I) and the variance estimated from
+ sample statistics of symmetry related reflections. This model implicates
+ an asymptotic limit ISa=1/SQRT(a*b) for the highest I/Sigma(I) that the
+ experimental setup can produce (Diederichs (2010) Acta Cryst D66, 733-740).
+
+     a        b          ISa
+ 1.995E+00  2.790E-03   13.40
+
+
+ cpu time used                 51.8 sec
+ elapsed wall-clock time       33.8 sec
+
+ Total elapsed wall-clock time for XDS       33.8 sec
+# command line:
+# xds_par 
+XDS applied reindex: -1 0 0 0 0 1 0 0 0 0 -1 0
+Postrefinement in "correct" spacegroup results:
+73.919  73.919 109.994  90.000  90.000  90.000
+0.036   0.036   0.004   0.000   0.000   0.000
+Deviations: 1.39 pixels 0.11 degrees
+Error correction parameters: A=1.000 B=0.000
+Axis misalignment 0.06 degrees
+Wrote 0 old reflections to REMOVE.HKL
+Rejected 0 as z < 0.000000
+Wrote 500 new reflections to REMOVE.HKL
+Rejected 0 as z < 0.000000
+Logfile: pointless -> /Users/jfraser/METHODS_XIA2/apo/DEFAULT/NATIVE/SWEEP1/integrate/8_pointless.log
+Scaling intensities by factor 1.000000e+00
+Last 50 lines of /Users/jfraser/METHODS_XIA2/apo/DEFAULT/NATIVE/SWEEP1/integrate/8_pointless.log:
+             73.9800   73.9800  109.9370   90.0000   90.0000   90.0000
+             1.11583
+
+ * Number of Columns = 13
+
+ * Number of Reflections = 521164
+
+ * Missing value set to NaN in input mtz file
+
+ * Number of Batches = 1684
+
+ * Column Labels :
+
+ H K L M/ISYM BATCH I SIGI FRACTIONCALC XDET YDET ROT LP FLAG
+
+ * Column Types :
+
+ H H H Y B J Q R R R R R I
+
+ * Associated datasets :
+
+ 0 0 0 0 0 0 0 0 0 0 0 0 0
+
+ * Cell Dimensions : (obsolete - refer to dataset cell dimensions above)
+
+   73.9800   73.9800  109.9370   90.0000   90.0000   90.0000 
+
+ *  Resolution Range :
+
+    0.00091    0.52896     (     33.085 -      1.375 A )
+
+ * Sort Order :
+
+      1     2     3     4     5
+
+ * Space group = 'P 4' (number     75)
+
+  (spacegroup is known)
+
+
+$TEXT:Reference: $$ Please cite $$
+P.R.Evans, 'Scaling and assessment  of data quality' Acta Cryst. D62, 72-82  (2006).
+<a href="http://journals.iucr.org/d/issues/2006/01/00/ba5084/index.html">
+<b>PDF</b></a>
+P.R.Evans, 'An introduction to data reduction: space-group determination, scaling and intensity statistics' Acta Cryst. D67, 282-292 (2011)
+<a href="http://journals.iucr.org/d/issues/2011/04/00/ba5158/index.html">
+<b>PDF</b></a>
+$$
+# command line:
+# pointless  '-c' 'hklout' 'INTEGRATE.mtz'
+Reindexing things to MTZ
+Logfile: pointless -> /Users/jfraser/METHODS_XIA2/apo/DEFAULT/NATIVE/SWEEP1/integrate/9_pointless.log
+Reindex... None -h,k,-l
+Last 50 lines of /Users/jfraser/METHODS_XIA2/apo/DEFAULT/NATIVE/SWEEP1/integrate/9_pointless.log:
+             73.9800   73.9800  109.9370   90.0000   90.0000   90.0000
+             1.11583
+
+ * Number of Columns = 13
+
+ * Number of Reflections = 521164
+
+ * Missing value set to NaN in input mtz file
+
+ * Number of Batches = 1684
+
+ * Column Labels :
+
+ H K L M/ISYM BATCH I SIGI FRACTIONCALC XDET YDET ROT LP FLAG
+
+ * Column Types :
+
+ H H H Y B J Q R R R R R I
+
+ * Associated datasets :
+
+ 0 0 0 0 0 0 0 0 0 0 0 0 0
+
+ * Cell Dimensions : (obsolete - refer to dataset cell dimensions above)
+
+   73.9800   73.9800  109.9370   90.0000   90.0000   90.0000 
+
+ *  Resolution Range :
+
+    0.00091    0.52896     (     33.085 -      1.375 A )
+
+ * Sort Order :
+
+      1     2     3     4     5
+
+ * Space group = 'P 4' (number     75)
+
+  (spacegroup is known)
+
+
+$TEXT:Reference: $$ Please cite $$
+P.R.Evans, 'Scaling and assessment  of data quality' Acta Cryst. D62, 72-82  (2006).
+<a href="http://journals.iucr.org/d/issues/2006/01/00/ba5084/index.html">
+<b>PDF</b></a>
+P.R.Evans, 'An introduction to data reduction: space-group determination, scaling and intensity statistics' Acta Cryst. D67, 282-292 (2011)
+<a href="http://journals.iucr.org/d/issues/2011/04/00/ba5158/index.html">
+<b>PDF</b></a>
+$$
+# command line:
+# pointless  'hklin' 'INTEGRATE.mtz' 'hklout' 'INTEGRATE_reindex.mtz'
+Logfile: dials.import_xds -> /Users/jfraser/METHODS_XIA2/apo/DEFAULT/NATIVE/SWEEP1/integrate/10_dials.import_xds.log
+Last 20 lines of /Users/jfraser/METHODS_XIA2/apo/DEFAULT/NATIVE/SWEEP1/integrate/10_dials.import_xds.log:
+The following parameters have been modified:
+
+input {
+  xds_file = "GXPARM.XDS"
+}
+output {
+  filename = "/Users/jfraser/METHODS_XIA2/apo/DEFAULT/NATIVE/SWEEP1/integrate/10_xparm_xds_experiments.json"
+}
+
+--------------------------------------------------------------------------------
+Read 1 experiments from /Users/jfraser/METHODS_XIA2/apo/DEFAULT/NATIVE/SWEEP1/integrate/GXPARM.XDS
+--------------------------------------------------------------------------------
+Experiment 0
+  format: None
+  type: <class 'dxtbx.imageset.ImageSweep'>
+  num images: 1685
+--------------------------------------------------------------------------------
+Writing experiments to /Users/jfraser/METHODS_XIA2/apo/DEFAULT/NATIVE/SWEEP1/integrate/10_xparm_xds_experiments.json
+# command line:
+# dials.import_xds  '/Users/jfraser/METHODS_XIA2/apo/DEFAULT/NATIVE/SWEEP1/integrate' 'xds_file=GXPARM.XDS' 'output.filename=10_xparm_xds_experiments.json'
+Resetting integrater finish done as integrate not done
+Doing some integration...
+Logfile: xds -> /Users/jfraser/METHODS_XIA2/apo/DEFAULT/NATIVE/SWEEP1/integrate/11_xds_DEFPIX.log
+Setting low resolution limit in DEFPIX to 34.48
+Last 43 lines of /Users/jfraser/METHODS_XIA2/apo/DEFAULT/NATIVE/SWEEP1/integrate/11_xds_DEFPIX.log:
+
+ ***** XDS ***** (VERSION Jun 1, 2017  BUILT=20170923)   8-Nov-2017
+ Author: Wolfgang Kabsch
+ Copy licensed until 31-Mar-2018 to
+  academic users for non-commercial applications   
+ No redistribution.
+
+
+ ***** DEFPIX ***** (VERSION Jun 1, 2017  BUILT=20170923)   8-Nov-2017
+
+ modifies the initial background image BKGINIT.cbf from the INIT step by
+ labelling detector pixels that should be ignored in the integration step
+ and saves the results as a control image BKGPIX.cbf. Excluded pixels are
+ marked by -3. The control images should be inspected with the XDS-Viewer.
+
+ The pixels are labelled based on parameters in the input file XDS.INP:
+ UNTRUSTED_ELLIPSE=, UNTRUSTED_RECTANGLE=, UNTRUSTED_QUADRILATERAL=,
+ EXCLUDE_RESOLUTION_RANGE=, INCLUDE_RESOLUTION_RANGE=.
+
+ In addition, DEFPIX attempts to recognize and exclude shaded regions
+ of the detector area that are caused by intruding hardware obscuring
+ x-ray diffraction. For this purpose each pixel value in the table is
+ compared with the mean of all pixels at the same resolution; the result
+ is saved in the control image ABS.cbf. Unshaded pixels should have
+ values around 10000 while shaded regions are recognized by their lower
+ values, typically below 7000. The acceptable value range for unshaded
+ pixels is defined in the input file XDS.INP by the parameter
+ VALUE_RANGE_FOR_TRUSTED_DETECTOR_PIXELS=.
+
+ INCLUDE_RESOLUTION_RANGE=     34.480     0.000
+ VALUE_RANGE_FOR_TRUSTED_DETECTOR_PIXELS=      7000.    30000.
+ RESOLUTION RANGE RECORDED BY DETECTOR (ANGSTROM)    34.478     1.373
+ NUMBER OF PIXELS REMOVED FROM   "BKGINIT.cbf"         6718
+ NUMBER OF TRUSTED PIXELS IN      "BKGPIX.cbf"      5657318
+ MEAN VALUE OF TRUSTED PIXELS IN  "BKGPIX.cbf"     1232.005
+
+
+ cpu time used                  0.6 sec
+ elapsed wall-clock time        0.7 sec
+
+ Total elapsed wall-clock time for XDS        0.8 sec
+# command line:
+# xds 
+Logfile: xds_par -> /Users/jfraser/METHODS_XIA2/apo/DEFAULT/NATIVE/SWEEP1/integrate/12_xds_par_INTEGRATE.log
+Using globally refined parameters
+Last 50 lines of /Users/jfraser/METHODS_XIA2/apo/DEFAULT/NATIVE/SWEEP1/integrate/12_xds_par_INTEGRATE.log:
+  1682   0  1.016  5595925    0   5599     629    22  0.04959  0.25524
+  1683   0  1.017  5594583    0   5603     631    17  0.05104  0.28140
+  1684   0  1.023  5594636    0   5627     631    10  0.05103  0.29275
+  1685   0  1.015  5592035    0   5624     635     6  0.05217  0.32351
+
+  4152 OUT OF   4208 REFLECTIONS ACCEPTED FOR REFINEMENT
+ REFINED PARAMETERS:   ORIENTATION CELL                                      
+ STANDARD DEVIATION OF SPOT    POSITION (PIXELS)     1.32
+ STANDARD DEVIATION OF SPINDLE POSITION (DEGREES)    0.18
+ SPACE GROUP NUMBER     75
+ UNIT CELL PARAMETERS     73.940    73.940   110.113  90.000  90.000  90.000
+ REC. CELL PARAMETERS   0.013525  0.013525  0.009082  90.000  90.000  90.000
+ COORDINATES OF UNIT CELL A-AXIS    -8.648    16.092   -71.647
+ COORDINATES OF UNIT CELL B-AXIS   -13.067    70.654    17.446
+ COORDINATES OF UNIT CELL C-AXIS   107.612    21.895    -8.071
+ CRYSTAL ROTATION OFF FROM INITIAL ORIENTATION    -0.025     0.053    -0.093
+ shown as x,y,z components of rotation axis X angle (degrees)
+ CRYSTAL MOSAICITY (DEGREES)     0.159
+ LAB COORDINATES OF ROTATION AXIS  0.999987 -0.002728  0.004401
+ DIRECT BEAM COORDINATES (REC. ANGSTROEM)  -0.003043 -0.000551  0.896189
+ DETECTOR COORDINATES (PIXELS) OF DIRECT BEAM    1229.17   1252.50
+ DETECTOR ORIGIN (PIXELS) AT                     1234.59   1253.48
+ CRYSTAL TO DETECTOR DISTANCE (mm)       274.89
+ LAB COORDINATES OF DETECTOR X-AXIS  1.000000  0.000000  0.000000
+ LAB COORDINATES OF DETECTOR Y-AXIS  0.000000  1.000000  0.000000
+
+
+ STANDARD DEVIATIONS OF BEAM DIVERGENCE AND REFLECTING RANGE OBTAINED
+ FROM    4152 REFLECTION PROFILES AT 9 POSITIONS ON THE DETECTOR SURFACE.
+ POSITION NUMBER        1      2      3      4      5      6      7      8      9
+ X-COORDINATE (pixel) 1231.0 2148.9 1880.1 1231.0  582.0  313.1  581.9 1231.0 1880.0
+ Y-COORDINATE (pixel) 1263.0 1263.0 1928.9 2204.8 1928.9 1263.0  597.1  321.2  597.0
+ NUMBER                  977    213    443    645    455    275    382    428    263
+ SIGMAB (degree)       0.064  0.068  0.062  0.062  0.061  0.064  0.067  0.067  0.066
+ SIGMAR (degree)       0.148  0.142  0.140  0.141  0.142  0.145  0.146  0.143  0.140
+
+
+  21460 REFLECTION INTENSITIES INTEGRATED
+
+  520981 REFLECTIONS SAVED ON FILE "INTEGRATE.HKL"
+
+
+ total elapsed wall-clock time for INTEGRATE     679.7 sec
+
+ TASK     cpu time (sec)    elapsed wall-clock time (sec)
+   1        1170.1                   674.0
+
+ Total elapsed wall-clock time for XDS      679.7 sec
+# command line:
+# xds_par 
+Mosaic spread range: 0.159 0.159 0.159
+Using low resolution limit: 34.48
+Logfile: xds_par -> /Users/jfraser/METHODS_XIA2/apo/DEFAULT/NATIVE/SWEEP1/integrate/13_xds_par_CORRECT.log
+Setting spacegroup to: 75
+Setting cell to: 73.98 73.98 109.94 90.00 90.00 90.00
+Last 50 lines of /Users/jfraser/METHODS_XIA2/apo/DEFAULT/NATIVE/SWEEP1/integrate/13_xds_par_CORRECT.log:
+ FIT_B-FACTOR_TO_REFERENCE_DATA_SET=FALSE 
+
+  520981 REFLECTIONS ON FILE "INTEGRATE.HKL"
+       0 CORRUPTED REFLECTION RECORDS (IGNORED)
+       0 MATCHING REFLECTIONS SPECIFIED IN FILE "FILTER.HKL"
+       0 REFLECTIONS INCOMPLETE OR OUTSIDE IMAGE RANGE       1 ...    1685
+       0 OVERLOADED REFLECTIONS (IGNORED)
+     114 REFLECTIONS OUTSIDE ACCEPTED RESOLUTION RANGES
+                OR TOO CLOSE TO ROTATION AXIS (IGNORED)
+  520867 REFLECTIONS ACCEPTED
+
+
+ NUMBER OF UNIQUE REFLECTIONS IN FILE "REMOVE.HKL"     500
+
+
+ ******************************************************************************
+      MEAN DISCREPANCIES BETWEEN OBSERVED AND CALCULATED SPOT LOCATIONS
+ ******************************************************************************
+
+ The discrepancies in X- and Y-coordinates of the spots are depicted in the
+ two images DX-CORRECTIONS.cbf and DY-CORRECTIONS.cbf for inspection with
+ the XDS-Viewer.
+
+
+ THE DATA COLLECTION STATISTICS REPORTED BELOW ASSUMES:
+ SPACE_GROUP_NUMBER=   75
+ UNIT_CELL_CONSTANTS=    73.92    73.92   109.99  90.000  90.000  90.000
+
+
+ ******************************************************************************
+    CORRECTION PARAMETERS FOR THE STANDARD ERROR OF REFLECTION INTENSITIES
+ ******************************************************************************
+
+ The variance v0(I) of the intensity I obtained from counting statistics is
+ replaced by v(I)=a*(v0(I)+b*I^2). The model parameters a, b are chosen to
+ minimize the discrepancies between v(I) and the variance estimated from
+ sample statistics of symmetry related reflections. This model implicates
+ an asymptotic limit ISa=1/SQRT(a*b) for the highest I/Sigma(I) that the
+ experimental setup can produce (Diederichs (2010) Acta Cryst D66, 733-740).
+
+     a        b          ISa
+ 2.144E+00  2.730E-03   13.07
+
+
+ cpu time used                 48.0 sec
+ elapsed wall-clock time      328.6 sec
+
+ Total elapsed wall-clock time for XDS      328.6 sec
+# command line:
+# xds_par 
+XDS applied reindex: 1 0 0 0 0 1 0 0 0 0 1 0
+Postrefinement in "correct" spacegroup results:
+73.918  73.918 109.991  90.000  90.000  90.000
+0.042   0.042   0.008   0.000   0.000   0.000
+Deviations: 1.39 pixels 0.11 degrees
+Error correction parameters: A=1.000 B=0.000
+Axis misalignment 0.06 degrees
+0 alien reflections are already removed
+Wrote 500 old reflections to REMOVE.HKL
+Rejected 0 as z < 0.000000
+Wrote 500 new reflections to REMOVE.HKL
+Rejected 0 as z < 0.000000
+Logfile: pointless -> /Users/jfraser/METHODS_XIA2/apo/DEFAULT/NATIVE/SWEEP1/integrate/14_pointless.log
+Scaling intensities by factor 1.000000e+00
+Last 50 lines of /Users/jfraser/METHODS_XIA2/apo/DEFAULT/NATIVE/SWEEP1/integrate/14_pointless.log:
+             73.9200   73.9200  109.9940   90.0000   90.0000   90.0000
+             1.11583
+
+ * Number of Columns = 13
+
+ * Number of Reflections = 520981
+
+ * Missing value set to NaN in input mtz file
+
+ * Number of Batches = 1685
+
+ * Column Labels :
+
+ H K L M/ISYM BATCH I SIGI FRACTIONCALC XDET YDET ROT LP FLAG
+
+ * Column Types :
+
+ H H H Y B J Q R R R R R I
+
+ * Associated datasets :
+
+ 0 0 0 0 0 0 0 0 0 0 0 0 0
+
+ * Cell Dimensions : (obsolete - refer to dataset cell dimensions above)
+
+   73.9200   73.9200  109.9940   90.0000   90.0000   90.0000 
+
+ *  Resolution Range :
+
+    0.00092    0.52914     (     33.058 -      1.375 A )
+
+ * Sort Order :
+
+      1     2     3     4     5
+
+ * Space group = 'P 4' (number     75)
+
+  (spacegroup is known)
+
+
+$TEXT:Reference: $$ Please cite $$
+P.R.Evans, 'Scaling and assessment  of data quality' Acta Cryst. D62, 72-82  (2006).
+<a href="http://journals.iucr.org/d/issues/2006/01/00/ba5084/index.html">
+<b>PDF</b></a>
+P.R.Evans, 'An introduction to data reduction: space-group determination, scaling and intensity statistics' Acta Cryst. D67, 282-292 (2011)
+<a href="http://journals.iucr.org/d/issues/2011/04/00/ba5158/index.html">
+<b>PDF</b></a>
+$$
+# command line:
+# pointless  '-c' 'hklout' 'INTEGRATE.mtz'
+Reindexing things to MTZ
+Logfile: pointless -> /Users/jfraser/METHODS_XIA2/apo/DEFAULT/NATIVE/SWEEP1/integrate/15_pointless.log
+Reindex... None h,k,l
+Last 50 lines of /Users/jfraser/METHODS_XIA2/apo/DEFAULT/NATIVE/SWEEP1/integrate/15_pointless.log:
+             73.9200   73.9200  109.9940   90.0000   90.0000   90.0000
+             1.11583
+
+ * Number of Columns = 13
+
+ * Number of Reflections = 520981
+
+ * Missing value set to NaN in input mtz file
+
+ * Number of Batches = 1685
+
+ * Column Labels :
+
+ H K L M/ISYM BATCH I SIGI FRACTIONCALC XDET YDET ROT LP FLAG
+
+ * Column Types :
+
+ H H H Y B J Q R R R R R I
+
+ * Associated datasets :
+
+ 0 0 0 0 0 0 0 0 0 0 0 0 0
+
+ * Cell Dimensions : (obsolete - refer to dataset cell dimensions above)
+
+   73.9200   73.9200  109.9940   90.0000   90.0000   90.0000 
+
+ *  Resolution Range :
+
+    0.00092    0.52914     (     33.058 -      1.375 A )
+
+ * Sort Order :
+
+      1     2     3     4     5
+
+ * Space group = 'P 4' (number     75)
+
+  (spacegroup is known)
+
+
+$TEXT:Reference: $$ Please cite $$
+P.R.Evans, 'Scaling and assessment  of data quality' Acta Cryst. D62, 72-82  (2006).
+<a href="http://journals.iucr.org/d/issues/2006/01/00/ba5084/index.html">
+<b>PDF</b></a>
+P.R.Evans, 'An introduction to data reduction: space-group determination, scaling and intensity statistics' Acta Cryst. D67, 282-292 (2011)
+<a href="http://journals.iucr.org/d/issues/2011/04/00/ba5158/index.html">
+<b>PDF</b></a>
+$$
+# command line:
+# pointless  'hklin' 'INTEGRATE.mtz' 'hklout' 'INTEGRATE_reindex.mtz'
+Logfile: dials.import_xds -> /Users/jfraser/METHODS_XIA2/apo/DEFAULT/NATIVE/SWEEP1/integrate/16_dials.import_xds.log
+Last 20 lines of /Users/jfraser/METHODS_XIA2/apo/DEFAULT/NATIVE/SWEEP1/integrate/16_dials.import_xds.log:
+The following parameters have been modified:
+
+input {
+  xds_file = "GXPARM.XDS"
+}
+output {
+  filename = "/Users/jfraser/METHODS_XIA2/apo/DEFAULT/NATIVE/SWEEP1/integrate/16_xparm_xds_experiments.json"
+}
+
+--------------------------------------------------------------------------------
+Read 1 experiments from /Users/jfraser/METHODS_XIA2/apo/DEFAULT/NATIVE/SWEEP1/integrate/GXPARM.XDS
+--------------------------------------------------------------------------------
+Experiment 0
+  format: None
+  type: <class 'dxtbx.imageset.ImageSweep'>
+  num images: 1685
+--------------------------------------------------------------------------------
+Writing experiments to /Users/jfraser/METHODS_XIA2/apo/DEFAULT/NATIVE/SWEEP1/integrate/16_xparm_xds_experiments.json
+# command line:
+# dials.import_xds  '/Users/jfraser/METHODS_XIA2/apo/DEFAULT/NATIVE/SWEEP1/integrate' 'xds_file=GXPARM.XDS' 'output.filename=16_xparm_xds_experiments.json'
+Making directory: /Users/jfraser/METHODS_XIA2/apo/DEFAULT/scale
+Scaler reset
+Using XDSA Scaler
+Scaler reset
+Resetting Scaler done as prepare not done
+Called scaler done from xia2.Schema.Interfaces.Scaler 470 (False)
+Resetting scaler finish done as scaling not done
+Called scaler finish done from xia2.Schema.Interfaces.Scaler 477 (False)
+Resetting Scaler done as prepare not done
+Called scaler done from xia2.Schema.Interfaces.Scaler 470 (False)
+Resetting scaler finish done as scaling not done
+Called scaler finish done from xia2.Schema.Interfaces.Scaler 477 (False)
+Resetting Scaler done as prepare not done
+Called scaler done from xia2.Schema.Interfaces.Scaler 470 (False)
+For EPOCH 1508849785.64 have:
+ID = AUTOMATIC/DEFAULT/NATIVE
+SWEEP = SWEEP1
+Logfile: pointless -> /Users/jfraser/METHODS_XIA2/apo/DEFAULT/scale/17_pointless.log
+Scaling intensities by factor 1.000000e+00
+Last 50 lines of /Users/jfraser/METHODS_XIA2/apo/DEFAULT/scale/17_pointless.log:
+             73.9180   73.9180  109.9910   90.0000   90.0000   90.0000
+             1.11583
+
+ * Number of Columns = 13
+
+ * Number of Reflections = 519952
+
+ * Missing value set to NaN in input mtz file
+
+ * Number of Batches = 1684
+
+ * Column Labels :
+
+ H K L M/ISYM BATCH I SIGI FRACTIONCALC XDET YDET ROT LP FLAG
+
+ * Column Types :
+
+ H H H Y B J Q R R R R R I
+
+ * Associated datasets :
+
+ 0 0 0 0 0 0 0 0 0 0 0 0 0
+
+ * Cell Dimensions : (obsolete - refer to dataset cell dimensions above)
+
+   73.9180   73.9180  109.9910   90.0000   90.0000   90.0000 
+
+ *  Resolution Range :
+
+    0.00092    0.52917     (     33.057 -      1.375 A )
+
+ * Sort Order :
+
+      1     2     3     4     5
+
+ * Space group = 'P 4' (number     75)
+
+  (spacegroup is known)
+
+
+$TEXT:Reference: $$ Please cite $$
+P.R.Evans, 'Scaling and assessment  of data quality' Acta Cryst. D62, 72-82  (2006).
+<a href="http://journals.iucr.org/d/issues/2006/01/00/ba5084/index.html">
+<b>PDF</b></a>
+P.R.Evans, 'An introduction to data reduction: space-group determination, scaling and intensity statistics' Acta Cryst. D67, 282-292 (2011)
+<a href="http://journals.iucr.org/d/issues/2011/04/00/ba5158/index.html">
+<b>PDF</b></a>
+$$
+# command line:
+# pointless  '-c' 'hklout' 'SWEEP1-pointless.mtz'
+Using input pointgroup: P422
+Set spacegroup as 89
+Using low resolution limit: 34.48
+Logfile: xds_par -> /Users/jfraser/METHODS_XIA2/apo/DEFAULT/NATIVE/SWEEP1/integrate/18_xds_par_CORRECT.log
+Last 50 lines of /Users/jfraser/METHODS_XIA2/apo/DEFAULT/NATIVE/SWEEP1/integrate/18_xds_par_CORRECT.log:
+ FIT_B-FACTOR_TO_REFERENCE_DATA_SET=FALSE 
+
+  520981 REFLECTIONS ON FILE "INTEGRATE.HKL"
+       0 CORRUPTED REFLECTION RECORDS (IGNORED)
+       0 MATCHING REFLECTIONS SPECIFIED IN FILE "FILTER.HKL"
+       0 REFLECTIONS INCOMPLETE OR OUTSIDE IMAGE RANGE       1 ...    1685
+       0 OVERLOADED REFLECTIONS (IGNORED)
+     114 REFLECTIONS OUTSIDE ACCEPTED RESOLUTION RANGES
+                OR TOO CLOSE TO ROTATION AXIS (IGNORED)
+  520867 REFLECTIONS ACCEPTED
+
+
+ NUMBER OF UNIQUE REFLECTIONS IN FILE "REMOVE.HKL"     927
+
+
+ ******************************************************************************
+      MEAN DISCREPANCIES BETWEEN OBSERVED AND CALCULATED SPOT LOCATIONS
+ ******************************************************************************
+
+ The discrepancies in X- and Y-coordinates of the spots are depicted in the
+ two images DX-CORRECTIONS.cbf and DY-CORRECTIONS.cbf for inspection with
+ the XDS-Viewer.
+
+
+ THE DATA COLLECTION STATISTICS REPORTED BELOW ASSUMES:
+ SPACE_GROUP_NUMBER=   89
+ UNIT_CELL_CONSTANTS=    73.92    73.92   110.00  90.000  90.000  90.000
+
+
+ ******************************************************************************
+    CORRECTION PARAMETERS FOR THE STANDARD ERROR OF REFLECTION INTENSITIES
+ ******************************************************************************
+
+ The variance v0(I) of the intensity I obtained from counting statistics is
+ replaced by v(I)=a*(v0(I)+b*I^2). The model parameters a, b are chosen to
+ minimize the discrepancies between v(I) and the variance estimated from
+ sample statistics of symmetry related reflections. This model implicates
+ an asymptotic limit ISa=1/SQRT(a*b) for the highest I/Sigma(I) that the
+ experimental setup can produce (Diederichs (2010) Acta Cryst D66, 733-740).
+
+     a        b          ISa
+ 2.024E+00  2.733E-03   13.45
+
+
+ cpu time used                 71.4 sec
+ elapsed wall-clock time     1010.2 sec
+
+ Total elapsed wall-clock time for XDS     1010.2 sec
+# command line:
+# xds_par 
+XDS applied reindex: -1 0 0 0 0 1 0 0 0 0 -1 0
+Postrefinement in "correct" spacegroup results:
+73.923  73.923 109.998  90.000  90.000  90.000
+0.042   0.042   0.007   0.000   0.000   0.000
+Deviations: 1.38 pixels 0.11 degrees
+Error correction parameters: A=1.000 B=0.000
+Axis misalignment 0.06 degrees
+0 alien reflections are already removed
+Wrote 1000 old reflections to REMOVE.HKL
+Rejected 0 as z < 0.000000
+Wrote 338 new reflections to REMOVE.HKL
+Rejected 0 as z < 0.000000
+Logfile: pointless -> /Users/jfraser/METHODS_XIA2/apo/DEFAULT/NATIVE/SWEEP1/integrate/19_pointless.log
+Scaling intensities by factor 1.000000e+00
+Last 50 lines of /Users/jfraser/METHODS_XIA2/apo/DEFAULT/NATIVE/SWEEP1/integrate/19_pointless.log:
+             73.9200   73.9200  109.9940   90.0000   90.0000   90.0000
+             1.11583
+
+ * Number of Columns = 13
+
+ * Number of Reflections = 520981
+
+ * Missing value set to NaN in input mtz file
+
+ * Number of Batches = 1685
+
+ * Column Labels :
+
+ H K L M/ISYM BATCH I SIGI FRACTIONCALC XDET YDET ROT LP FLAG
+
+ * Column Types :
+
+ H H H Y B J Q R R R R R I
+
+ * Associated datasets :
+
+ 0 0 0 0 0 0 0 0 0 0 0 0 0
+
+ * Cell Dimensions : (obsolete - refer to dataset cell dimensions above)
+
+   73.9200   73.9200  109.9940   90.0000   90.0000   90.0000 
+
+ *  Resolution Range :
+
+    0.00092    0.52914     (     33.058 -      1.375 A )
+
+ * Sort Order :
+
+      1     2     3     4     5
+
+ * Space group = 'P 4' (number     75)
+
+  (spacegroup is known)
+
+
+$TEXT:Reference: $$ Please cite $$
+P.R.Evans, 'Scaling and assessment  of data quality' Acta Cryst. D62, 72-82  (2006).
+<a href="http://journals.iucr.org/d/issues/2006/01/00/ba5084/index.html">
+<b>PDF</b></a>
+P.R.Evans, 'An introduction to data reduction: space-group determination, scaling and intensity statistics' Acta Cryst. D67, 282-292 (2011)
+<a href="http://journals.iucr.org/d/issues/2011/04/00/ba5158/index.html">
+<b>PDF</b></a>
+$$
+# command line:
+# pointless  '-c' 'hklout' 'INTEGRATE.mtz'
+Reindexing things to MTZ
+Logfile: pointless -> /Users/jfraser/METHODS_XIA2/apo/DEFAULT/NATIVE/SWEEP1/integrate/20_pointless.log
+Reindex... 89 -h,k,-l
+Last 50 lines of /Users/jfraser/METHODS_XIA2/apo/DEFAULT/NATIVE/SWEEP1/integrate/20_pointless.log:
+             73.9200   73.9200  109.9940   90.0000   90.0000   90.0000
+             1.11583
+
+ * Number of Columns = 13
+
+ * Number of Reflections = 520981
+
+ * Missing value set to NaN in input mtz file
+
+ * Number of Batches = 1685
+
+ * Column Labels :
+
+ H K L M/ISYM BATCH I SIGI FRACTIONCALC XDET YDET ROT LP FLAG
+
+ * Column Types :
+
+ H H H Y B J Q R R R R R I
+
+ * Associated datasets :
+
+ 0 0 0 0 0 0 0 0 0 0 0 0 0
+
+ * Cell Dimensions : (obsolete - refer to dataset cell dimensions above)
+
+   73.9200   73.9200  109.9940   90.0000   90.0000   90.0000 
+
+ *  Resolution Range :
+
+    0.00092    0.52914     (     33.058 -      1.375 A )
+
+ * Sort Order :
+
+      1     2     3     4     5
+
+ * Space group = 'P 4 2 2' (number     89)
+
+  (spacegroup is known)
+
+
+$TEXT:Reference: $$ Please cite $$
+P.R.Evans, 'Scaling and assessment  of data quality' Acta Cryst. D62, 72-82  (2006).
+<a href="http://journals.iucr.org/d/issues/2006/01/00/ba5084/index.html">
+<b>PDF</b></a>
+P.R.Evans, 'An introduction to data reduction: space-group determination, scaling and intensity statistics' Acta Cryst. D67, 282-292 (2011)
+<a href="http://journals.iucr.org/d/issues/2011/04/00/ba5158/index.html">
+<b>PDF</b></a>
+$$
+# command line:
+# pointless  'hklin' 'INTEGRATE.mtz' 'hklout' 'INTEGRATE_reindex.mtz'
+Logfile: dials.import_xds -> /Users/jfraser/METHODS_XIA2/apo/DEFAULT/NATIVE/SWEEP1/integrate/21_dials.import_xds.log
+Last 20 lines of /Users/jfraser/METHODS_XIA2/apo/DEFAULT/NATIVE/SWEEP1/integrate/21_dials.import_xds.log:
+The following parameters have been modified:
+
+input {
+  xds_file = "GXPARM.XDS"
+}
+output {
+  filename = "/Users/jfraser/METHODS_XIA2/apo/DEFAULT/NATIVE/SWEEP1/integrate/21_xparm_xds_experiments.json"
+}
+
+--------------------------------------------------------------------------------
+Read 1 experiments from /Users/jfraser/METHODS_XIA2/apo/DEFAULT/NATIVE/SWEEP1/integrate/GXPARM.XDS
+--------------------------------------------------------------------------------
+Experiment 0
+  format: None
+  type: <class 'dxtbx.imageset.ImageSweep'>
+  num images: 1685
+--------------------------------------------------------------------------------
+Writing experiments to /Users/jfraser/METHODS_XIA2/apo/DEFAULT/NATIVE/SWEEP1/integrate/21_xparm_xds_experiments.json
+# command line:
+# dials.import_xds  '/Users/jfraser/METHODS_XIA2/apo/DEFAULT/NATIVE/SWEEP1/integrate' 'xds_file=GXPARM.XDS' 'output.filename=21_xparm_xds_experiments.json'
+Copying /Users/jfraser/METHODS_XIA2/apo/DEFAULT/NATIVE/SWEEP1/integrate/XDS_ASCII.HKL to /Users/jfraser/METHODS_XIA2/apo/DEFAULT/scale/NATIVE_SWEEP1.HKL
+Cell for SWEEP1: 73.92 73.92 110.00 90.00 90.00 90.00
+=> 520867 reflections
+Determined unit cell: 73.92 73.92 110.00 90.00 90.00 90.00
+RAM usage at XDSScalerA.py 885: 179302400
+Logfile: xscale_par -> /Users/jfraser/METHODS_XIA2/apo/DEFAULT/scale/22_xscale_par.log
+Set CELL: 73.92 73.92 110.00 90.00 90.00 90.00
+Set SPACEGROUP_NUMBER: 89
+Gathering measurements for scaling
+Epoch: 1508849785
+HKL: NATIVE_SWEEP1.HKL (NATIVE/SWEEP1)
+RAM usage at XDSScalerA.py 932: 179302400
+Last 50 lines of /Users/jfraser/METHODS_XIA2/apo/DEFAULT/scale/22_xscale_par.log:
+ 1.125E+00  6.795E-03   11.44   13.45 NATIVE_SWEEP1.HKL
+ 
+
+ FACTOR TO PLACE ALL DATA SETS TO AN APPROXIMATE ABSOLUTE SCALE 0.675180E+02
+ (ASSUMING A PROTEIN WITH 50% SOLVENT)
+
+
+
+ ******************************************************************************
+  STATISTICS OF SCALED OUTPUT DATA SET : NATIVE.HKL
+  FILE TYPE:         XDS_ASCII      MERGE=FALSE          FRIEDEL'S_LAW=TRUE 
+
+         5 OUT OF    506256 REFLECTIONS REJECTED
+    506251 REFLECTIONS ON OUTPUT FILE 
+
+ ******************************************************************************
+ DEFINITIONS:
+ R-FACTOR
+ observed = (SUM(ABS(I(h,i)-I(h))))/(SUM(I(h,i)))
+ expected = expected R-FACTOR derived from Sigma(I)
+
+ COMPARED = number of reflections used for calculating R-FACTOR
+ I/SIGMA  = mean of intensity/Sigma(I) of unique reflections
+            (after merging symmetry-related observations)
+ Sigma(I) = standard deviation of reflection intensity I
+            estimated from sample statistics
+
+ R-meas   = redundancy independent R-factor (intensities)
+            Diederichs & Karplus (1997), Nature Struct. Biol. 4, 269-275.
+
+ CC(1/2)  = percentage of correlation between intensities from
+            random half-datasets. Correlation significant at
+            the 0.1% level is marked by an asterisk.
+            Karplus & Diederichs (2012), Science 336, 1030-33
+ Anomal   = percentage of correlation between random half-sets
+  Corr      of anomalous intensity differences. Correlation
+            significant at the 0.1% level is marked.
+ SigAno   = mean anomalous difference in units of its estimated
+            standard deviation (|F(+)-F(-)|/Sigma). F(+), F(-)
+            are structure factor estimates obtained from the
+            merged intensity observations in each parity class.
+  Nano    = Number of unique reflections used to calculate
+            Anomal_Corr & SigAno. At least two observations
+            for each (+ and -) parity are required.
+
+
+ cpu time used by XSCALE       24.4 sec
+ elapsed wall-clock time       22.5 sec
+# command line:
+# xscale_par 
+XSCALE scale factor found to be: 6.751800e+01
+Wrote 0 old reflections to REMOVE.HKL
+Rejected 0 as z < 0.000000
+Wrote 268 new reflections to REMOVE.HKL
+Rejected 0 as z < 0.000000
+Called scaler done from xia2.Modules.Scaler.XDSScalerA 1023 (False)
+RAM usage at XDSScalerA.py 885: 179302400
+Logfile: xscale_par -> /Users/jfraser/METHODS_XIA2/apo/DEFAULT/scale/23_xscale_par.log
+Set CELL: 73.92 73.92 110.00 90.00 90.00 90.00
+Set SPACEGROUP_NUMBER: 89
+Gathering measurements for scaling
+Epoch: 1508849785
+HKL: NATIVE_SWEEP1.HKL (NATIVE/SWEEP1)
+RAM usage at XDSScalerA.py 932: 179302400
+Last 50 lines of /Users/jfraser/METHODS_XIA2/apo/DEFAULT/scale/23_xscale_par.log:
+ 1.125E+00  6.794E-03   11.44   13.45 NATIVE_SWEEP1.HKL
+ 
+
+ FACTOR TO PLACE ALL DATA SETS TO AN APPROXIMATE ABSOLUTE SCALE 0.571550E+02
+ (ASSUMING A PROTEIN WITH 50% SOLVENT)
+
+
+
+ ******************************************************************************
+  STATISTICS OF SCALED OUTPUT DATA SET : NATIVE.HKL
+  FILE TYPE:         XDS_ASCII      MERGE=FALSE          FRIEDEL'S_LAW=TRUE 
+
+         5 OUT OF    505394 REFLECTIONS REJECTED
+    505389 REFLECTIONS ON OUTPUT FILE 
+
+ ******************************************************************************
+ DEFINITIONS:
+ R-FACTOR
+ observed = (SUM(ABS(I(h,i)-I(h))))/(SUM(I(h,i)))
+ expected = expected R-FACTOR derived from Sigma(I)
+
+ COMPARED = number of reflections used for calculating R-FACTOR
+ I/SIGMA  = mean of intensity/Sigma(I) of unique reflections
+            (after merging symmetry-related observations)
+ Sigma(I) = standard deviation of reflection intensity I
+            estimated from sample statistics
+
+ R-meas   = redundancy independent R-factor (intensities)
+            Diederichs & Karplus (1997), Nature Struct. Biol. 4, 269-275.
+
+ CC(1/2)  = percentage of correlation between intensities from
+            random half-datasets. Correlation significant at
+            the 0.1% level is marked by an asterisk.
+            Karplus & Diederichs (2012), Science 336, 1030-33
+ Anomal   = percentage of correlation between random half-sets
+  Corr      of anomalous intensity differences. Correlation
+            significant at the 0.1% level is marked.
+ SigAno   = mean anomalous difference in units of its estimated
+            standard deviation (|F(+)-F(-)|/Sigma). F(+), F(-)
+            are structure factor estimates obtained from the
+            merged intensity observations in each parity class.
+  Nano    = Number of unique reflections used to calculate
+            Anomal_Corr & SigAno. At least two observations
+            for each (+ and -) parity are required.
+
+
+ cpu time used by XSCALE       17.4 sec
+ elapsed wall-clock time       19.8 sec
+# command line:
+# xscale_par 
+XSCALE scale factor found to be: 5.715500e+01
+0 alien reflections are already removed
+Wrote 268 old reflections to REMOVE.HKL
+Rejected 0 as z < 0.000000
+Wrote 500 new reflections to REMOVE.HKL
+Rejected 0 as z < 0.000000
+Called scaler done from xia2.Modules.Scaler.XDSScalerA 1023 (False)
+RAM usage at XDSScalerA.py 885: 179302400
+Logfile: xscale_par -> /Users/jfraser/METHODS_XIA2/apo/DEFAULT/scale/24_xscale_par.log
+Set CELL: 73.92 73.92 110.00 90.00 90.00 90.00
+Set SPACEGROUP_NUMBER: 89
+Gathering measurements for scaling
+Epoch: 1508849785
+HKL: NATIVE_SWEEP1.HKL (NATIVE/SWEEP1)
+RAM usage at XDSScalerA.py 932: 179302400
+Last 50 lines of /Users/jfraser/METHODS_XIA2/apo/DEFAULT/scale/24_xscale_par.log:
+ 1.128E+00  6.777E-03   11.44   13.45 NATIVE_SWEEP1.HKL
+ 
+
+ FACTOR TO PLACE ALL DATA SETS TO AN APPROXIMATE ABSOLUTE SCALE 0.663927E+02
+ (ASSUMING A PROTEIN WITH 50% SOLVENT)
+
+
+
+ ******************************************************************************
+  STATISTICS OF SCALED OUTPUT DATA SET : NATIVE.HKL
+  FILE TYPE:         XDS_ASCII      MERGE=FALSE          FRIEDEL'S_LAW=TRUE 
+
+         0 OUT OF    502966 REFLECTIONS REJECTED
+    502966 REFLECTIONS ON OUTPUT FILE 
+
+ ******************************************************************************
+ DEFINITIONS:
+ R-FACTOR
+ observed = (SUM(ABS(I(h,i)-I(h))))/(SUM(I(h,i)))
+ expected = expected R-FACTOR derived from Sigma(I)
+
+ COMPARED = number of reflections used for calculating R-FACTOR
+ I/SIGMA  = mean of intensity/Sigma(I) of unique reflections
+            (after merging symmetry-related observations)
+ Sigma(I) = standard deviation of reflection intensity I
+            estimated from sample statistics
+
+ R-meas   = redundancy independent R-factor (intensities)
+            Diederichs & Karplus (1997), Nature Struct. Biol. 4, 269-275.
+
+ CC(1/2)  = percentage of correlation between intensities from
+            random half-datasets. Correlation significant at
+            the 0.1% level is marked by an asterisk.
+            Karplus & Diederichs (2012), Science 336, 1030-33
+ Anomal   = percentage of correlation between random half-sets
+  Corr      of anomalous intensity differences. Correlation
+            significant at the 0.1% level is marked.
+ SigAno   = mean anomalous difference in units of its estimated
+            standard deviation (|F(+)-F(-)|/Sigma). F(+), F(-)
+            are structure factor estimates obtained from the
+            merged intensity observations in each parity class.
+  Nano    = Number of unique reflections used to calculate
+            Anomal_Corr & SigAno. At least two observations
+            for each (+ and -) parity are required.
+
+
+ cpu time used by XSCALE       17.4 sec
+ elapsed wall-clock time       16.3 sec
+# command line:
+# xscale_par 
+XSCALE scale factor found to be: 6.639270e+01
+0 alien reflections are already removed
+Wrote 768 old reflections to REMOVE.HKL
+Rejected 0 as z < 0.000000
+Wrote 15 new reflections to REMOVE.HKL
+Rejected 0 as z < 0.000000
+Called scaler done from xia2.Modules.Scaler.XDSScalerA 1023 (False)
+RAM usage at XDSScalerA.py 885: 179302400
+Logfile: xscale_par -> /Users/jfraser/METHODS_XIA2/apo/DEFAULT/scale/25_xscale_par.log
+Set CELL: 73.92 73.92 110.00 90.00 90.00 90.00
+Set SPACEGROUP_NUMBER: 89
+Gathering measurements for scaling
+Epoch: 1508849785
+HKL: NATIVE_SWEEP1.HKL (NATIVE/SWEEP1)
+RAM usage at XDSScalerA.py 932: 179302400
+Last 50 lines of /Users/jfraser/METHODS_XIA2/apo/DEFAULT/scale/25_xscale_par.log:
+ 1.128E+00  6.777E-03   11.44   13.45 NATIVE_SWEEP1.HKL
+ 
+
+ FACTOR TO PLACE ALL DATA SETS TO AN APPROXIMATE ABSOLUTE SCALE 0.662285E+02
+ (ASSUMING A PROTEIN WITH 50% SOLVENT)
+
+
+
+ ******************************************************************************
+  STATISTICS OF SCALED OUTPUT DATA SET : NATIVE.HKL
+  FILE TYPE:         XDS_ASCII      MERGE=FALSE          FRIEDEL'S_LAW=TRUE 
+
+         0 OUT OF    502923 REFLECTIONS REJECTED
+    502923 REFLECTIONS ON OUTPUT FILE 
+
+ ******************************************************************************
+ DEFINITIONS:
+ R-FACTOR
+ observed = (SUM(ABS(I(h,i)-I(h))))/(SUM(I(h,i)))
+ expected = expected R-FACTOR derived from Sigma(I)
+
+ COMPARED = number of reflections used for calculating R-FACTOR
+ I/SIGMA  = mean of intensity/Sigma(I) of unique reflections
+            (after merging symmetry-related observations)
+ Sigma(I) = standard deviation of reflection intensity I
+            estimated from sample statistics
+
+ R-meas   = redundancy independent R-factor (intensities)
+            Diederichs & Karplus (1997), Nature Struct. Biol. 4, 269-275.
+
+ CC(1/2)  = percentage of correlation between intensities from
+            random half-datasets. Correlation significant at
+            the 0.1% level is marked by an asterisk.
+            Karplus & Diederichs (2012), Science 336, 1030-33
+ Anomal   = percentage of correlation between random half-sets
+  Corr      of anomalous intensity differences. Correlation
+            significant at the 0.1% level is marked.
+ SigAno   = mean anomalous difference in units of its estimated
+            standard deviation (|F(+)-F(-)|/Sigma). F(+), F(-)
+            are structure factor estimates obtained from the
+            merged intensity observations in each parity class.
+  Nano    = Number of unique reflections used to calculate
+            Anomal_Corr & SigAno. At least two observations
+            for each (+ and -) parity are required.
+
+
+ cpu time used by XSCALE       16.5 sec
+ elapsed wall-clock time       16.4 sec
+# command line:
+# xscale_par 
+XSCALE scale factor found to be: 6.622850e+01
+0 alien reflections are already removed
+Wrote 783 old reflections to REMOVE.HKL
+Rejected 0 as z < 0.000000
+Wrote 6 new reflections to REMOVE.HKL
+Rejected 0 as z < 0.000000
+Called scaler done from xia2.Modules.Scaler.XDSScalerA 1023 (False)
+RAM usage at XDSScalerA.py 885: 179302400
+Logfile: xscale_par -> /Users/jfraser/METHODS_XIA2/apo/DEFAULT/scale/26_xscale_par.log
+Set CELL: 73.92 73.92 110.00 90.00 90.00 90.00
+Set SPACEGROUP_NUMBER: 89
+Gathering measurements for scaling
+Epoch: 1508849785
+HKL: NATIVE_SWEEP1.HKL (NATIVE/SWEEP1)
+RAM usage at XDSScalerA.py 932: 179302400
+Last 50 lines of /Users/jfraser/METHODS_XIA2/apo/DEFAULT/scale/26_xscale_par.log:
+ 1.128E+00  6.777E-03   11.44   13.45 NATIVE_SWEEP1.HKL
+ 
+
+ FACTOR TO PLACE ALL DATA SETS TO AN APPROXIMATE ABSOLUTE SCALE 0.661284E+02
+ (ASSUMING A PROTEIN WITH 50% SOLVENT)
+
+
+
+ ******************************************************************************
+  STATISTICS OF SCALED OUTPUT DATA SET : NATIVE.HKL
+  FILE TYPE:         XDS_ASCII      MERGE=FALSE          FRIEDEL'S_LAW=TRUE 
+
+         0 OUT OF    502904 REFLECTIONS REJECTED
+    502904 REFLECTIONS ON OUTPUT FILE 
+
+ ******************************************************************************
+ DEFINITIONS:
+ R-FACTOR
+ observed = (SUM(ABS(I(h,i)-I(h))))/(SUM(I(h,i)))
+ expected = expected R-FACTOR derived from Sigma(I)
+
+ COMPARED = number of reflections used for calculating R-FACTOR
+ I/SIGMA  = mean of intensity/Sigma(I) of unique reflections
+            (after merging symmetry-related observations)
+ Sigma(I) = standard deviation of reflection intensity I
+            estimated from sample statistics
+
+ R-meas   = redundancy independent R-factor (intensities)
+            Diederichs & Karplus (1997), Nature Struct. Biol. 4, 269-275.
+
+ CC(1/2)  = percentage of correlation between intensities from
+            random half-datasets. Correlation significant at
+            the 0.1% level is marked by an asterisk.
+            Karplus & Diederichs (2012), Science 336, 1030-33
+ Anomal   = percentage of correlation between random half-sets
+  Corr      of anomalous intensity differences. Correlation
+            significant at the 0.1% level is marked.
+ SigAno   = mean anomalous difference in units of its estimated
+            standard deviation (|F(+)-F(-)|/Sigma). F(+), F(-)
+            are structure factor estimates obtained from the
+            merged intensity observations in each parity class.
+  Nano    = Number of unique reflections used to calculate
+            Anomal_Corr & SigAno. At least two observations
+            for each (+ and -) parity are required.
+
+
+ cpu time used by XSCALE       16.6 sec
+ elapsed wall-clock time       13.0 sec
+# command line:
+# xscale_par 
+XSCALE scale factor found to be: 6.612840e+01
+0 alien reflections are already removed
+Wrote 789 old reflections to REMOVE.HKL
+Rejected 0 as z < 0.000000
+Wrote 5 new reflections to REMOVE.HKL
+Rejected 0 as z < 0.000000
+Called scaler done from xia2.Modules.Scaler.XDSScalerA 1023 (False)
+RAM usage at XDSScalerA.py 885: 179302400
+Logfile: xscale_par -> /Users/jfraser/METHODS_XIA2/apo/DEFAULT/scale/27_xscale_par.log
+Set CELL: 73.92 73.92 110.00 90.00 90.00 90.00
+Set SPACEGROUP_NUMBER: 89
+Gathering measurements for scaling
+Epoch: 1508849785
+HKL: NATIVE_SWEEP1.HKL (NATIVE/SWEEP1)
+RAM usage at XDSScalerA.py 932: 179302400
+Last 50 lines of /Users/jfraser/METHODS_XIA2/apo/DEFAULT/scale/27_xscale_par.log:
+ 1.128E+00  6.777E-03   11.44   13.45 NATIVE_SWEEP1.HKL
+ 
+
+ FACTOR TO PLACE ALL DATA SETS TO AN APPROXIMATE ABSOLUTE SCALE 0.660687E+02
+ (ASSUMING A PROTEIN WITH 50% SOLVENT)
+
+
+
+ ******************************************************************************
+  STATISTICS OF SCALED OUTPUT DATA SET : NATIVE.HKL
+  FILE TYPE:         XDS_ASCII      MERGE=FALSE          FRIEDEL'S_LAW=TRUE 
+
+         0 OUT OF    502883 REFLECTIONS REJECTED
+    502883 REFLECTIONS ON OUTPUT FILE 
+
+ ******************************************************************************
+ DEFINITIONS:
+ R-FACTOR
+ observed = (SUM(ABS(I(h,i)-I(h))))/(SUM(I(h,i)))
+ expected = expected R-FACTOR derived from Sigma(I)
+
+ COMPARED = number of reflections used for calculating R-FACTOR
+ I/SIGMA  = mean of intensity/Sigma(I) of unique reflections
+            (after merging symmetry-related observations)
+ Sigma(I) = standard deviation of reflection intensity I
+            estimated from sample statistics
+
+ R-meas   = redundancy independent R-factor (intensities)
+            Diederichs & Karplus (1997), Nature Struct. Biol. 4, 269-275.
+
+ CC(1/2)  = percentage of correlation between intensities from
+            random half-datasets. Correlation significant at
+            the 0.1% level is marked by an asterisk.
+            Karplus & Diederichs (2012), Science 336, 1030-33
+ Anomal   = percentage of correlation between random half-sets
+  Corr      of anomalous intensity differences. Correlation
+            significant at the 0.1% level is marked.
+ SigAno   = mean anomalous difference in units of its estimated
+            standard deviation (|F(+)-F(-)|/Sigma). F(+), F(-)
+            are structure factor estimates obtained from the
+            merged intensity observations in each parity class.
+  Nano    = Number of unique reflections used to calculate
+            Anomal_Corr & SigAno. At least two observations
+            for each (+ and -) parity are required.
+
+
+ cpu time used by XSCALE       17.2 sec
+ elapsed wall-clock time       13.7 sec
+# command line:
+# xscale_par 
+XSCALE scale factor found to be: 6.606870e+01
+0 alien reflections are already removed
+Wrote 794 old reflections to REMOVE.HKL
+Rejected 0 as z < 0.000000
+Wrote 3 new reflections to REMOVE.HKL
+Rejected 0 as z < 0.000000
+Called scaler done from xia2.Modules.Scaler.XDSScalerA 1023 (False)
+RAM usage at XDSScalerA.py 885: 179302400
+Logfile: xscale_par -> /Users/jfraser/METHODS_XIA2/apo/DEFAULT/scale/28_xscale_par.log
+Set CELL: 73.92 73.92 110.00 90.00 90.00 90.00
+Set SPACEGROUP_NUMBER: 89
+Gathering measurements for scaling
+Epoch: 1508849785
+HKL: NATIVE_SWEEP1.HKL (NATIVE/SWEEP1)
+RAM usage at XDSScalerA.py 932: 179302400
+Last 50 lines of /Users/jfraser/METHODS_XIA2/apo/DEFAULT/scale/28_xscale_par.log:
+ 1.128E+00  6.777E-03   11.44   13.45 NATIVE_SWEEP1.HKL
+ 
+
+ FACTOR TO PLACE ALL DATA SETS TO AN APPROXIMATE ABSOLUTE SCALE 0.660687E+02
+ (ASSUMING A PROTEIN WITH 50% SOLVENT)
+
+
+
+ ******************************************************************************
+  STATISTICS OF SCALED OUTPUT DATA SET : NATIVE.HKL
+  FILE TYPE:         XDS_ASCII      MERGE=FALSE          FRIEDEL'S_LAW=TRUE 
+
+         0 OUT OF    502878 REFLECTIONS REJECTED
+    502878 REFLECTIONS ON OUTPUT FILE 
+
+ ******************************************************************************
+ DEFINITIONS:
+ R-FACTOR
+ observed = (SUM(ABS(I(h,i)-I(h))))/(SUM(I(h,i)))
+ expected = expected R-FACTOR derived from Sigma(I)
+
+ COMPARED = number of reflections used for calculating R-FACTOR
+ I/SIGMA  = mean of intensity/Sigma(I) of unique reflections
+            (after merging symmetry-related observations)
+ Sigma(I) = standard deviation of reflection intensity I
+            estimated from sample statistics
+
+ R-meas   = redundancy independent R-factor (intensities)
+            Diederichs & Karplus (1997), Nature Struct. Biol. 4, 269-275.
+
+ CC(1/2)  = percentage of correlation between intensities from
+            random half-datasets. Correlation significant at
+            the 0.1% level is marked by an asterisk.
+            Karplus & Diederichs (2012), Science 336, 1030-33
+ Anomal   = percentage of correlation between random half-sets
+  Corr      of anomalous intensity differences. Correlation
+            significant at the 0.1% level is marked.
+ SigAno   = mean anomalous difference in units of its estimated
+            standard deviation (|F(+)-F(-)|/Sigma). F(+), F(-)
+            are structure factor estimates obtained from the
+            merged intensity observations in each parity class.
+  Nano    = Number of unique reflections used to calculate
+            Anomal_Corr & SigAno. At least two observations
+            for each (+ and -) parity are required.
+
+
+ cpu time used by XSCALE       16.4 sec
+ elapsed wall-clock time       15.1 sec
+# command line:
+# xscale_par 
+XSCALE scale factor found to be: 6.606870e+01
+0 alien reflections are already removed
+Wrote 797 old reflections to REMOVE.HKL
+Rejected 0 as z < 0.000000
+Wrote 10 new reflections to REMOVE.HKL
+Rejected 0 as z < 0.000000
+Called scaler done from xia2.Modules.Scaler.XDSScalerA 1023 (False)
+RAM usage at XDSScalerA.py 885: 179302400
+Logfile: xscale_par -> /Users/jfraser/METHODS_XIA2/apo/DEFAULT/scale/29_xscale_par.log
+Set CELL: 73.92 73.92 110.00 90.00 90.00 90.00
+Set SPACEGROUP_NUMBER: 89
+Gathering measurements for scaling
+Epoch: 1508849785
+HKL: NATIVE_SWEEP1.HKL (NATIVE/SWEEP1)
+RAM usage at XDSScalerA.py 932: 179302400
+Last 50 lines of /Users/jfraser/METHODS_XIA2/apo/DEFAULT/scale/29_xscale_par.log:
+ 1.128E+00  6.776E-03   11.44   13.45 NATIVE_SWEEP1.HKL
+ 
+
+ FACTOR TO PLACE ALL DATA SETS TO AN APPROXIMATE ABSOLUTE SCALE 0.660687E+02
+ (ASSUMING A PROTEIN WITH 50% SOLVENT)
+
+
+
+ ******************************************************************************
+  STATISTICS OF SCALED OUTPUT DATA SET : NATIVE.HKL
+  FILE TYPE:         XDS_ASCII      MERGE=FALSE          FRIEDEL'S_LAW=TRUE 
+
+         0 OUT OF    502862 REFLECTIONS REJECTED
+    502862 REFLECTIONS ON OUTPUT FILE 
+
+ ******************************************************************************
+ DEFINITIONS:
+ R-FACTOR
+ observed = (SUM(ABS(I(h,i)-I(h))))/(SUM(I(h,i)))
+ expected = expected R-FACTOR derived from Sigma(I)
+
+ COMPARED = number of reflections used for calculating R-FACTOR
+ I/SIGMA  = mean of intensity/Sigma(I) of unique reflections
+            (after merging symmetry-related observations)
+ Sigma(I) = standard deviation of reflection intensity I
+            estimated from sample statistics
+
+ R-meas   = redundancy independent R-factor (intensities)
+            Diederichs & Karplus (1997), Nature Struct. Biol. 4, 269-275.
+
+ CC(1/2)  = percentage of correlation between intensities from
+            random half-datasets. Correlation significant at
+            the 0.1% level is marked by an asterisk.
+            Karplus & Diederichs (2012), Science 336, 1030-33
+ Anomal   = percentage of correlation between random half-sets
+  Corr      of anomalous intensity differences. Correlation
+            significant at the 0.1% level is marked.
+ SigAno   = mean anomalous difference in units of its estimated
+            standard deviation (|F(+)-F(-)|/Sigma). F(+), F(-)
+            are structure factor estimates obtained from the
+            merged intensity observations in each parity class.
+  Nano    = Number of unique reflections used to calculate
+            Anomal_Corr & SigAno. At least two observations
+            for each (+ and -) parity are required.
+
+
+ cpu time used by XSCALE       16.4 sec
+ elapsed wall-clock time       12.1 sec
+# command line:
+# xscale_par 
+XSCALE scale factor found to be: 6.606870e+01
+0 alien reflections are already removed
+Wrote 807 old reflections to REMOVE.HKL
+Rejected 0 as z < 0.000000
+Wrote 25 new reflections to REMOVE.HKL
+Rejected 0 as z < 0.000000
+Called scaler done from xia2.Modules.Scaler.XDSScalerA 1023 (False)
+RAM usage at XDSScalerA.py 885: 179302400
+Logfile: xscale_par -> /Users/jfraser/METHODS_XIA2/apo/DEFAULT/scale/30_xscale_par.log
+Set CELL: 73.92 73.92 110.00 90.00 90.00 90.00
+Set SPACEGROUP_NUMBER: 89
+Gathering measurements for scaling
+Epoch: 1508849785
+HKL: NATIVE_SWEEP1.HKL (NATIVE/SWEEP1)
+RAM usage at XDSScalerA.py 932: 179302400
+Last 50 lines of /Users/jfraser/METHODS_XIA2/apo/DEFAULT/scale/30_xscale_par.log:
+ 1.128E+00  6.776E-03   11.44   13.45 NATIVE_SWEEP1.HKL
+ 
+
+ FACTOR TO PLACE ALL DATA SETS TO AN APPROXIMATE ABSOLUTE SCALE 0.660687E+02
+ (ASSUMING A PROTEIN WITH 50% SOLVENT)
+
+
+
+ ******************************************************************************
+  STATISTICS OF SCALED OUTPUT DATA SET : NATIVE.HKL
+  FILE TYPE:         XDS_ASCII      MERGE=FALSE          FRIEDEL'S_LAW=TRUE 
+
+         0 OUT OF    502826 REFLECTIONS REJECTED
+    502826 REFLECTIONS ON OUTPUT FILE 
+
+ ******************************************************************************
+ DEFINITIONS:
+ R-FACTOR
+ observed = (SUM(ABS(I(h,i)-I(h))))/(SUM(I(h,i)))
+ expected = expected R-FACTOR derived from Sigma(I)
+
+ COMPARED = number of reflections used for calculating R-FACTOR
+ I/SIGMA  = mean of intensity/Sigma(I) of unique reflections
+            (after merging symmetry-related observations)
+ Sigma(I) = standard deviation of reflection intensity I
+            estimated from sample statistics
+
+ R-meas   = redundancy independent R-factor (intensities)
+            Diederichs & Karplus (1997), Nature Struct. Biol. 4, 269-275.
+
+ CC(1/2)  = percentage of correlation between intensities from
+            random half-datasets. Correlation significant at
+            the 0.1% level is marked by an asterisk.
+            Karplus & Diederichs (2012), Science 336, 1030-33
+ Anomal   = percentage of correlation between random half-sets
+  Corr      of anomalous intensity differences. Correlation
+            significant at the 0.1% level is marked.
+ SigAno   = mean anomalous difference in units of its estimated
+            standard deviation (|F(+)-F(-)|/Sigma). F(+), F(-)
+            are structure factor estimates obtained from the
+            merged intensity observations in each parity class.
+  Nano    = Number of unique reflections used to calculate
+            Anomal_Corr & SigAno. At least two observations
+            for each (+ and -) parity are required.
+
+
+ cpu time used by XSCALE       17.1 sec
+ elapsed wall-clock time       12.4 sec
+# command line:
+# xscale_par 
+XSCALE scale factor found to be: 6.606870e+01
+0 alien reflections are already removed
+Wrote 832 old reflections to REMOVE.HKL
+Rejected 0 as z < 0.000000
+Wrote 102 new reflections to REMOVE.HKL
+Rejected 0 as z < 0.000000
+Called scaler done from xia2.Modules.Scaler.XDSScalerA 1023 (False)
+RAM usage at XDSScalerA.py 885: 179302400
+Logfile: xscale_par -> /Users/jfraser/METHODS_XIA2/apo/DEFAULT/scale/31_xscale_par.log
+Set CELL: 73.92 73.92 110.00 90.00 90.00 90.00
+Set SPACEGROUP_NUMBER: 89
+Gathering measurements for scaling
+Epoch: 1508849785
+HKL: NATIVE_SWEEP1.HKL (NATIVE/SWEEP1)
+RAM usage at XDSScalerA.py 932: 179302400
+Last 50 lines of /Users/jfraser/METHODS_XIA2/apo/DEFAULT/scale/31_xscale_par.log:
+ 1.128E+00  6.776E-03   11.44   13.45 NATIVE_SWEEP1.HKL
+ 
+
+ FACTOR TO PLACE ALL DATA SETS TO AN APPROXIMATE ABSOLUTE SCALE 0.713269E+02
+ (ASSUMING A PROTEIN WITH 50% SOLVENT)
+
+
+
+ ******************************************************************************
+  STATISTICS OF SCALED OUTPUT DATA SET : NATIVE.HKL
+  FILE TYPE:         XDS_ASCII      MERGE=FALSE          FRIEDEL'S_LAW=TRUE 
+
+         0 OUT OF    502637 REFLECTIONS REJECTED
+    502637 REFLECTIONS ON OUTPUT FILE 
+
+ ******************************************************************************
+ DEFINITIONS:
+ R-FACTOR
+ observed = (SUM(ABS(I(h,i)-I(h))))/(SUM(I(h,i)))
+ expected = expected R-FACTOR derived from Sigma(I)
+
+ COMPARED = number of reflections used for calculating R-FACTOR
+ I/SIGMA  = mean of intensity/Sigma(I) of unique reflections
+            (after merging symmetry-related observations)
+ Sigma(I) = standard deviation of reflection intensity I
+            estimated from sample statistics
+
+ R-meas   = redundancy independent R-factor (intensities)
+            Diederichs & Karplus (1997), Nature Struct. Biol. 4, 269-275.
+
+ CC(1/2)  = percentage of correlation between intensities from
+            random half-datasets. Correlation significant at
+            the 0.1% level is marked by an asterisk.
+            Karplus & Diederichs (2012), Science 336, 1030-33
+ Anomal   = percentage of correlation between random half-sets
+  Corr      of anomalous intensity differences. Correlation
+            significant at the 0.1% level is marked.
+ SigAno   = mean anomalous difference in units of its estimated
+            standard deviation (|F(+)-F(-)|/Sigma). F(+), F(-)
+            are structure factor estimates obtained from the
+            merged intensity observations in each parity class.
+  Nano    = Number of unique reflections used to calculate
+            Anomal_Corr & SigAno. At least two observations
+            for each (+ and -) parity are required.
+
+
+ cpu time used by XSCALE       15.9 sec
+ elapsed wall-clock time       13.7 sec
+# command line:
+# xscale_par 
+XSCALE scale factor found to be: 7.132690e+01
+RAM usage at XDSScalerA.py 1030: 179302400
+RAM usage at XDSScalerA.py 1077: 179302400
+Set 1 is from data NATIVE_SWEEP1.HKL
+Set 1 wavelength 1.115830
+Logfile: pointless -> /Users/jfraser/METHODS_XIA2/apo/DEFAULT/scale/32_pointless.log
+Scaling intensities by factor 1.401996e-02
+Last 50 lines of /Users/jfraser/METHODS_XIA2/apo/DEFAULT/scale/32_pointless.log:
+             73.9200   73.9200  110.0000   90.0000   90.0000   90.0000
+             1.11583
+
+ * Number of Columns = 11
+
+ * Number of Reflections = 502637
+
+ * Missing value set to NaN in input mtz file
+
+ * Number of Batches = 1685
+
+ * Column Labels :
+
+ H K L M/ISYM BATCH I SIGI XDET YDET ROT FLAG
+
+ * Column Types :
+
+ H H H Y B J Q R R R I
+
+ * Associated datasets :
+
+ 0 0 0 0 0 0 0 0 0 0 0
+
+ * Cell Dimensions : (obsolete - refer to dataset cell dimensions above)
+
+   73.9200   73.9200  110.0000   90.0000   90.0000   90.0000 
+
+ *  Resolution Range :
+
+    0.00092    0.52830     (     33.058 -      1.376 A )
+
+ * Sort Order :
+
+      1     2     3     4     5
+
+ * Space group = 'P 4 2 2' (number     89)
+
+  (spacegroup is known)
+
+
+$TEXT:Reference: $$ Please cite $$
+P.R.Evans, 'Scaling and assessment  of data quality' Acta Cryst. D62, 72-82  (2006).
+<a href="http://journals.iucr.org/d/issues/2006/01/00/ba5084/index.html">
+<b>PDF</b></a>
+P.R.Evans, 'An introduction to data reduction: space-group determination, scaling and intensity statistics' Acta Cryst. D67, 282-292 (2011)
+<a href="http://journals.iucr.org/d/issues/2011/04/00/ba5158/index.html">
+<b>PDF</b></a>
+$$
+# command line:
+# pointless  '-c' 'hklout' 'SCALED_NATIVE_SWEEP1.mtz'
+RAM usage at XDSScalerA.py 1101: 187314176
+Logfile: xia2.resolutionizer -> /Users/jfraser/METHODS_XIA2/apo/DEFAULT/scale/33_xia2.resolutionizer.log
+Resolution analysis: /Users/jfraser/METHODS_XIA2/apo/DEFAULT/scale/SCALED_NATIVE_SWEEP1.mtz nbins=100 rmerge=None completeness=None cc_half=0.5 cc_half_significance_level=None isigma=0.25 misigma=1.0
+Last 5 lines of /Users/jfraser/METHODS_XIA2/apo/DEFAULT/scale/33_xia2.resolutionizer.log:
+Resolution cc_half     : 1.65
+Resolution I/sig:        1.60
+Resolution Mn(I/sig):    1.64
+# command line:
+# xia2.resolutionizer  'SCALED_NATIVE_SWEEP1.mtz' 'nbins=100' 'rmerge=None' 'completeness=None' 'cc_half=0.5' 'cc_half_significance_level=None' 'isigma=0.25' 'misigma=1.0'
+Called scaler done from xia2.Modules.Scaler.XDSScalerA 1141 (False)
+RAM usage at XDSScalerA.py 1147: 187314176
+Returning as scaling not finished...
+RAM usage at XDSScalerA.py 885: 187314176
+Logfile: xscale_par -> /Users/jfraser/METHODS_XIA2/apo/DEFAULT/scale/34_xscale_par.log
+Set CELL: 73.92 73.92 110.00 90.00 90.00 90.00
+Set SPACEGROUP_NUMBER: 89
+Gathering measurements for scaling
+Epoch: 1508849785
+HKL: NATIVE_SWEEP1.HKL (NATIVE/SWEEP1)
+RAM usage at XDSScalerA.py 932: 187314176
+Last 50 lines of /Users/jfraser/METHODS_XIA2/apo/DEFAULT/scale/34_xscale_par.log:
+ 1.220E+00  6.184E-03   11.51   13.45 NATIVE_SWEEP1.HKL
+ 
+
+ FACTOR TO PLACE ALL DATA SETS TO AN APPROXIMATE ABSOLUTE SCALE 0.569931E+02
+ (ASSUMING A PROTEIN WITH 50% SOLVENT)
+
+
+
+ ******************************************************************************
+  STATISTICS OF SCALED OUTPUT DATA SET : NATIVE.HKL
+  FILE TYPE:         XDS_ASCII      MERGE=FALSE          FRIEDEL'S_LAW=TRUE 
+
+         0 OUT OF    429969 REFLECTIONS REJECTED
+    429969 REFLECTIONS ON OUTPUT FILE 
+
+ ******************************************************************************
+ DEFINITIONS:
+ R-FACTOR
+ observed = (SUM(ABS(I(h,i)-I(h))))/(SUM(I(h,i)))
+ expected = expected R-FACTOR derived from Sigma(I)
+
+ COMPARED = number of reflections used for calculating R-FACTOR
+ I/SIGMA  = mean of intensity/Sigma(I) of unique reflections
+            (after merging symmetry-related observations)
+ Sigma(I) = standard deviation of reflection intensity I
+            estimated from sample statistics
+
+ R-meas   = redundancy independent R-factor (intensities)
+            Diederichs & Karplus (1997), Nature Struct. Biol. 4, 269-275.
+
+ CC(1/2)  = percentage of correlation between intensities from
+            random half-datasets. Correlation significant at
+            the 0.1% level is marked by an asterisk.
+            Karplus & Diederichs (2012), Science 336, 1030-33
+ Anomal   = percentage of correlation between random half-sets
+  Corr      of anomalous intensity differences. Correlation
+            significant at the 0.1% level is marked.
+ SigAno   = mean anomalous difference in units of its estimated
+            standard deviation (|F(+)-F(-)|/Sigma). F(+), F(-)
+            are structure factor estimates obtained from the
+            merged intensity observations in each parity class.
+  Nano    = Number of unique reflections used to calculate
+            Anomal_Corr & SigAno. At least two observations
+            for each (+ and -) parity are required.
+
+
+ cpu time used by XSCALE       14.8 sec
+ elapsed wall-clock time       13.0 sec
+# command line:
+# xscale_par 
+XSCALE scale factor found to be: 5.699310e+01
+0 alien reflections are already removed
+Wrote 934 old reflections to REMOVE.HKL
+Rejected 0 as z < 0.000000
+Wrote 2 new reflections to REMOVE.HKL
+Rejected 0 as z < 0.000000
+Called scaler done from xia2.Modules.Scaler.XDSScalerA 1023 (False)
+RAM usage at XDSScalerA.py 885: 187314176
+Logfile: xscale_par -> /Users/jfraser/METHODS_XIA2/apo/DEFAULT/scale/35_xscale_par.log
+Set CELL: 73.92 73.92 110.00 90.00 90.00 90.00
+Set SPACEGROUP_NUMBER: 89
+Gathering measurements for scaling
+Epoch: 1508849785
+HKL: NATIVE_SWEEP1.HKL (NATIVE/SWEEP1)
+RAM usage at XDSScalerA.py 932: 187314176
+Last 50 lines of /Users/jfraser/METHODS_XIA2/apo/DEFAULT/scale/35_xscale_par.log:
+ 1.220E+00  6.185E-03   11.51   13.45 NATIVE_SWEEP1.HKL
+ 
+
+ FACTOR TO PLACE ALL DATA SETS TO AN APPROXIMATE ABSOLUTE SCALE 0.570243E+02
+ (ASSUMING A PROTEIN WITH 50% SOLVENT)
+
+
+
+ ******************************************************************************
+  STATISTICS OF SCALED OUTPUT DATA SET : NATIVE.HKL
+  FILE TYPE:         XDS_ASCII      MERGE=FALSE          FRIEDEL'S_LAW=TRUE 
+
+         0 OUT OF    429943 REFLECTIONS REJECTED
+    429943 REFLECTIONS ON OUTPUT FILE 
+
+ ******************************************************************************
+ DEFINITIONS:
+ R-FACTOR
+ observed = (SUM(ABS(I(h,i)-I(h))))/(SUM(I(h,i)))
+ expected = expected R-FACTOR derived from Sigma(I)
+
+ COMPARED = number of reflections used for calculating R-FACTOR
+ I/SIGMA  = mean of intensity/Sigma(I) of unique reflections
+            (after merging symmetry-related observations)
+ Sigma(I) = standard deviation of reflection intensity I
+            estimated from sample statistics
+
+ R-meas   = redundancy independent R-factor (intensities)
+            Diederichs & Karplus (1997), Nature Struct. Biol. 4, 269-275.
+
+ CC(1/2)  = percentage of correlation between intensities from
+            random half-datasets. Correlation significant at
+            the 0.1% level is marked by an asterisk.
+            Karplus & Diederichs (2012), Science 336, 1030-33
+ Anomal   = percentage of correlation between random half-sets
+  Corr      of anomalous intensity differences. Correlation
+            significant at the 0.1% level is marked.
+ SigAno   = mean anomalous difference in units of its estimated
+            standard deviation (|F(+)-F(-)|/Sigma). F(+), F(-)
+            are structure factor estimates obtained from the
+            merged intensity observations in each parity class.
+  Nano    = Number of unique reflections used to calculate
+            Anomal_Corr & SigAno. At least two observations
+            for each (+ and -) parity are required.
+
+
+ cpu time used by XSCALE       14.4 sec
+ elapsed wall-clock time       10.6 sec
+# command line:
+# xscale_par 
+XSCALE scale factor found to be: 5.702430e+01
+RAM usage at XDSScalerA.py 1030: 187314176
+RAM usage at XDSScalerA.py 1077: 187314176
+Set 1 is from data NATIVE_SWEEP1.HKL
+Set 1 wavelength 1.115830
+Logfile: pointless -> /Users/jfraser/METHODS_XIA2/apo/DEFAULT/scale/36_pointless.log
+Scaling intensities by factor 1.753638e-02
+Last 50 lines of /Users/jfraser/METHODS_XIA2/apo/DEFAULT/scale/36_pointless.log:
+             73.9200   73.9200  110.0000   90.0000   90.0000   90.0000
+             1.11583
+
+ * Number of Columns = 11
+
+ * Number of Reflections = 429943
+
+ * Missing value set to NaN in input mtz file
+
+ * Number of Batches = 1685
+
+ * Column Labels :
+
+ H K L M/ISYM BATCH I SIGI XDET YDET ROT FLAG
+
+ * Column Types :
+
+ H H H Y B J Q R R R I
+
+ * Associated datasets :
+
+ 0 0 0 0 0 0 0 0 0 0 0
+
+ * Cell Dimensions : (obsolete - refer to dataset cell dimensions above)
+
+   73.9200   73.9200  110.0000   90.0000   90.0000   90.0000 
+
+ *  Resolution Range :
+
+    0.00092    0.36731     (     33.058 -      1.650 A )
+
+ * Sort Order :
+
+      1     2     3     4     5
+
+ * Space group = 'P 4 2 2' (number     89)
+
+  (spacegroup is known)
+
+
+$TEXT:Reference: $$ Please cite $$
+P.R.Evans, 'Scaling and assessment  of data quality' Acta Cryst. D62, 72-82  (2006).
+<a href="http://journals.iucr.org/d/issues/2006/01/00/ba5084/index.html">
+<b>PDF</b></a>
+P.R.Evans, 'An introduction to data reduction: space-group determination, scaling and intensity statistics' Acta Cryst. D67, 282-292 (2011)
+<a href="http://journals.iucr.org/d/issues/2011/04/00/ba5158/index.html">
+<b>PDF</b></a>
+$$
+# command line:
+# pointless  '-c' 'hklout' 'SCALED_NATIVE_SWEEP1.mtz'
+RAM usage at XDSScalerA.py 1101: 187314176
+RAM usage at XDSScalerA.py 1147: 187314176
+Assigning user input spacegroup: P 43 2 2
+Logfile: pointless -> /Users/jfraser/METHODS_XIA2/apo/DEFAULT/scale/37_pointless.log
+Reindex... P 43 2 2 h,k,l
+Last 50 lines of /Users/jfraser/METHODS_XIA2/apo/DEFAULT/scale/37_pointless.log:
+             73.9200   73.9200  110.0000   90.0000   90.0000   90.0000
+             1.11583
+
+ * Number of Columns = 11
+
+ * Number of Reflections = 429943
+
+ * Missing value set to NaN in input mtz file
+
+ * Number of Batches = 1685
+
+ * Column Labels :
+
+ H K L M/ISYM BATCH I SIGI XDET YDET ROT FLAG
+
+ * Column Types :
+
+ H H H Y B J Q R R R I
+
+ * Associated datasets :
+
+ 0 0 0 0 0 0 0 0 0 0 0
+
+ * Cell Dimensions : (obsolete - refer to dataset cell dimensions above)
+
+   73.9200   73.9200  110.0000   90.0000   90.0000   90.0000 
+
+ *  Resolution Range :
+
+    0.00092    0.36731     (     33.058 -      1.650 A )
+
+ * Sort Order :
+
+      1     2     3     4     5
+
+ * Space group = 'P 43 2 2' (number     95)
+
+  (spacegroup is known)
+
+
+$TEXT:Reference: $$ Please cite $$
+P.R.Evans, 'Scaling and assessment  of data quality' Acta Cryst. D62, 72-82  (2006).
+<a href="http://journals.iucr.org/d/issues/2006/01/00/ba5084/index.html">
+<b>PDF</b></a>
+P.R.Evans, 'An introduction to data reduction: space-group determination, scaling and intensity statistics' Acta Cryst. D67, 282-292 (2011)
+<a href="http://journals.iucr.org/d/issues/2011/04/00/ba5158/index.html">
+<b>PDF</b></a>
+$$
+# command line:
+# pointless  'hklin' 'SCALED_NATIVE_SWEEP1.mtz' 'hklout' 'AUTOMATIC_DEFAULT_reindex.mtz'
+Updating unit cell to 73.92 73.92 110.00 90.00 90.00 90.00
+Logfile: sortmtz -> /Users/jfraser/METHODS_XIA2/apo/DEFAULT/scale/38_sortmtz.log
+Last 50 lines of /Users/jfraser/METHODS_XIA2/apo/DEFAULT/scale/38_sortmtz.log:
+          DEFAULT
+          NATIVE
+             73.9200   73.9200  110.0000   90.0000   90.0000   90.0000
+             1.11583
+
+ * Number of Columns = 11
+
+ * Number of Reflections = 429943
+
+ * Missing value set to NaN in input mtz file
+
+ * Number of Batches = 1685
+
+ * Column Labels :
+
+ H K L M/ISYM BATCH I SIGI XDET YDET ROT FLAG
+
+ * Column Types :
+
+ H H H Y B J Q R R R I
+
+ * Associated datasets :
+
+ 0 0 0 0 0 0 0 0 0 0 0
+
+ * Cell Dimensions : (obsolete - refer to dataset cell dimensions above)
+
+   73.9200   73.9200  110.0000   90.0000   90.0000   90.0000 
+
+ *  Resolution Range :
+
+    0.00092    0.36731     (     33.058 -      1.650 A )
+
+ * Sort Order :
+
+      1     2     3     4     5
+
+ * Space group = 'P 43 2 2' (number     95)
+
+  (spacegroup is known)
+
+     429943 records output
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ SORTMTZ:  Normal termination
+Times: User:       0.8s System:    0.0s Elapsed:     0:01  
+</pre>
+</html>
+<!--SUMMARY_END--></FONT></B>
+# command line:
+# sortmtz  'hklin' 'AUTOMATIC_DEFAULT_reindex.mtz' 'hklout' 'AUTOMATIC_DEFAULT_sorted.mtz'
+Scaler highest resolution set to  1.65
+Using version: 0.5.32
+Logfile: aimless -> /Users/jfraser/METHODS_XIA2/apo/DEFAULT/scale/39_aimless.log
+Run 1 corresponds to sweep SWEEP1
+Last 50 lines of /Users/jfraser/METHODS_XIA2/apo/DEFAULT/scale/39_aimless.log:
+
+ * Number of Reflections = 429943
+
+ * Missing value set to NaN in input mtz file
+
+ * Number of Batches = 1685
+
+ * Column Labels :
+
+ H K L M/ISYM BATCH I SIGI SCALEUSED SIGSCALEUSED NPART XDET YDET ROT
+
+ * Column Types :
+
+ H H H Y B J Q R R I R R R
+
+ * Associated datasets :
+
+ 0 0 0 0 0 0 0 0 0 0 0 0 0
+
+ * Cell Dimensions : (obsolete - refer to dataset cell dimensions above)
+
+   73.9200   73.9200  110.0000   90.0000   90.0000   90.0000 
+
+ *  Resolution Range :
+
+    0.00092    0.36731     (     33.058 -      1.650 A )
+
+ * Sort Order :
+
+      1     2     3     4     5
+
+ * Space group = 'P 43 2 2' (number     95)
+
+  (spacegroup is known)
+
+
+Number of observations written =   429943
+
+Number of multiple (overlapped) observations written =        0
+
+$TEXT:Reference: $$ Please cite $$
+P.R.Evans and G.N.Murshudov, 'How good are my data and what is the resolution?' Acta Cryst. D69, 1204-1214  (2013).
+<a href="http://journals.iucr.org/d/issues/2013/07/00/ba5190/index.html">
+<b>PDF</b></a>
+$$
+
+End of aimless job, total time: cpu time: 16.37 secs, elapsed time: 18.0 secs
+
+# command line:
+# aimless  'hklin' 'AUTOMATIC_DEFAULT_sorted.mtz' 'hklout' 'AUTOMATIC_DEFAULT_scaled.mtz'
+Aimless status: OK
+Using version: 0.5.32
+Logfile: aimless -> /Users/jfraser/METHODS_XIA2/apo/DEFAULT/scale/40_aimless.log
+Run 1 corresponds to sweep SWEEP1
+Last 50 lines of /Users/jfraser/METHODS_XIA2/apo/DEFAULT/scale/40_aimless.log:
+
+ H K L M/ISYM BATCH I SIGI SCALEUSED SIGSCALEUSED NPART XDET YDET ROT
+
+ * Column Types :
+
+ H H H Y B J Q R R I R R R
+
+ * Associated datasets :
+
+ 0 0 0 0 0 0 0 0 0 0 0 0 0
+
+ * Cell Dimensions : (obsolete - refer to dataset cell dimensions above)
+
+   73.9200   73.9200  110.0000   90.0000   90.0000   90.0000 
+
+ *  Resolution Range :
+
+    0.00092    0.36731     (     33.058 -      1.650 A )
+
+ * Sort Order :
+
+      1     2     3     4     5
+
+ * Space group = 'P 43 2 2' (number     95)
+
+  (spacegroup is known)
+
+
+Number of observations written =   429943
+
+Number of multiple (overlapped) observations written =        0
+
+==== Writing unmerged data for dataset AUTOMATIC/DEFAULT/NATIVE to file /Users/jfraser/METHODS_XIA2/apo/DEFAULT/scale/AUTOMATIC_DEFAULT_scaled_unmerged.sca
+
+Maximum scaled intensity =   9947.8
+
+Number of observations written =   429943
+
+Number of multiple (overlapped) observations omitted =        0
+
+$TEXT:Reference: $$ Please cite $$
+P.R.Evans and G.N.Murshudov, 'How good are my data and what is the resolution?' Acta Cryst. D69, 1204-1214  (2013).
+<a href="http://journals.iucr.org/d/issues/2013/07/00/ba5190/index.html">
+<b>PDF</b></a>
+$$
+
+End of aimless job, total time: cpu time: 17.62 secs, elapsed time: 21.0 secs
+
+# command line:
+# aimless  'hklin' 'AUTOMATIC_DEFAULT_sorted.mtz' 'hklout' 'AUTOMATIC_DEFAULT_scaled.mtz'
+Aimless status: OK
+Making directory: /Users/jfraser/METHODS_XIA2/apo/LogFiles
+Anomalous difference normal probability plot:
+Slope: 0.79
+Intercept: 0.06
+Number of pairs: 32443
+Anomalous difference normal probability plot (within expected delta 0.9):
+Slope: 0.78
+Intercept: 0.06
+Number of pairs: 20501
+Logfile: mtz2various -> /Users/jfraser/METHODS_XIA2/apo/DEFAULT/scale/41_mtz2various.log
+Last 50 lines of /Users/jfraser/METHODS_XIA2/apo/DEFAULT/scale/41_mtz2various.log:
+   0.05954 -   0.06686       495       495       495
+   0.06686 -   0.07419       516       516       516
+   0.07419 -   0.08152       545       545       545
+   0.08152 -   0.08885       555       555       555
+   0.08885 -   0.09617       582       582       582
+   0.09617 -   0.10350       601       601       601
+   0.10350 -   0.11083       613       613       613
+   0.11083 -   0.11816       647       647       647
+   0.11816 -   0.12549       660       660       660
+   0.12549 -   0.13281       672       672       672
+   0.13281 -   0.14014       692       692       692
+   0.14014 -   0.14747       711       711       711
+   0.14747 -   0.15480       735       735       735
+   0.15480 -   0.16212       728       728       728
+   0.16212 -   0.16945       757       757       757
+   0.16945 -   0.17678       776       776       776
+   0.17678 -   0.18411       784       784       784
+   0.18411 -   0.19143       802       802       802
+   0.19143 -   0.19876       809       809       809
+   0.19876 -   0.20609       834       834       834
+   0.20609 -   0.21342       841       841       841
+   0.21342 -   0.22074       853       853       853
+   0.22074 -   0.22807       882       882       882
+   0.22807 -   0.23540       859       859       859
+   0.23540 -   0.24273       905       905       905
+   0.24273 -   0.25006       915       915       915
+   0.25006 -   0.25738       926       926       926
+   0.25738 -   0.26471       922       922       922
+   0.26471 -   0.27204       950       950       950
+   0.27204 -   0.27937       954       954       954
+   0.27937 -   0.28669       952       952       952
+   0.28669 -   0.29402       971       971       971
+   0.29402 -   0.30135       998       998       998
+   0.30135 -   0.30868      1001      1001      1001
+   0.30868 -   0.31600      1003      1003      1003
+   0.31600 -   0.32333      1029      1029      1029
+   0.32333 -   0.33066      1031      1031      1031
+   0.33066 -   0.33799      1043      1043      1043
+   0.33799 -   0.34532      1045      1045      1045
+   0.34532 -   0.35264      1020      1020      1020
+   0.35264 -   0.35997      1040      1040      1040
+   0.35997 -   0.36730       624       624       624
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ MTZ2VARIOUS:  Normal termination
+Times: User:       0.2s System:    0.2s Elapsed:     0:00  
+</pre>
+</html>
+<!--SUMMARY_END--></FONT></B>
+# command line:
+# mtz2various  'hklin' 'AUTOMATIC_DEFAULT_scaled.mtz' 'hklout' 'AUTOMATIC_DEFAULT_scaled.sca'
+Logfile: ctruncate -> /Users/jfraser/METHODS_XIA2/apo/DEFAULT/scale/42_ctruncate.log
+Last 50 lines of /Users/jfraser/METHODS_XIA2/apo/DEFAULT/scale/42_ctruncate.log:
+   7.07500    4.99999    2.50001    0.00000   75.50000   92.49994   51.99996
+   7.15000    4.50000    2.00000    0.00000   86.00003   91.99997   63.50001
+   7.22500    2.00000    2.50000    0.00000   89.50002   85.99998   69.50000
+   7.30000    2.00001    2.50000    0.00000   84.50001   85.49996   67.99998
+   7.37500    2.00000    2.00000    0.00000   89.00000   83.00000   61.00000
+   7.45000    1.00000    1.00000    0.00000   89.50001   79.00005   58.49999
+   7.52500    1.50000    2.00000    0.00000   89.50001   76.50002   59.00000
+   7.60000    2.50000    2.50000    0.00000   90.00001   81.50000   59.00000
+   7.67500    2.50000    2.50000    0.00000   78.49995   83.50002   63.50002
+   7.75000    2.50000    2.50000    0.00000   71.50000   83.00000   59.00000
+   7.82500    2.00001    1.50000    0.00000   79.99997   74.00003   54.99998
+   7.90000    1.00000    1.00000    0.00000   75.99997   73.50001   54.49999
+   7.97500    2.00000    2.50000    0.00000   67.99999   78.00000   51.50000
+   8.05000    2.50000    2.49999    0.00000   80.00005   80.00001   49.99998
+   8.12500    1.00000    1.00000    0.00000   86.50000   78.50000   55.00000
+   8.20000    0.99999    0.50000    0.00000   70.00007   68.50003   55.50004
+   8.27500    2.00000    0.49999    0.00000   72.99984   71.49990   49.49998
+   8.35000    0.99999    1.00000    0.00000   85.49996   74.99994   50.49999
+   8.42500    0.50000    2.00001    0.00000   71.99995   64.49998   54.00002
+   8.50000    2.00000    2.50000    0.00000   67.50000   60.00000   56.50000
+   8.57500    2.00001    1.50000    0.00000   64.50004   66.49997   53.00001
+   8.65000    1.00000    1.00000    0.00000   70.99985   74.99998   56.49994
+   8.72500    0.49999    0.49999    0.00000   75.99990   78.50002   59.49997
+   8.80000    0.00000    0.00000    0.00000   76.00005   80.50000   57.00000
+   8.87500    0.00000    0.00000    0.00000   86.00000   83.00000   56.50000
+   8.95000    0.50000    0.50000    0.00000   78.50004   77.00004   51.00003
+   9.02500    0.50001    0.50001    0.00000   73.99997   61.00008   56.99989
+   9.10000    0.50001    0.50001    0.00000   70.99994   59.00006   65.49997
+   9.17500    1.00000    0.50000    0.00000   66.50001   67.50001   54.99996
+   9.25000    0.50000    0.00000    0.00000   65.00000   70.50000   45.00000
+   9.32500    0.00000    0.00000    0.00000   66.99997   71.99999   51.49996
+   9.40000    0.00000    0.00000    0.00000   75.99996   70.00003   59.50001
+   9.47500    0.50001    0.00000    0.00000   77.99998   68.00001   60.50002
+   9.55000    1.00000    0.50000    0.00000   65.99995   60.49996   60.49999
+   9.62500    0.50000    0.50000    0.00000   56.50000   53.00000   60.50000
+   9.70000    0.00000    0.00000    0.00000   54.50001   58.99997   52.50005
+   9.77500    0.00000    0.00000    0.00000   56.99995   66.99997   49.99993
+   9.85000    1.50002    1.00001    0.00000   70.50009   68.49998   57.50001
+   9.92500    1.49999    0.99999    0.00000   71.99996   62.99998   53.99998
+$$
+
+
+<B><FONT COLOR='#FF0000'><!--SUMMARY_BEGIN-->
+ctruncate: Normal termination
+Times: User:       4.5s System:    0.1s Elapsed:     0:05  
+</pre>
+</html>
+<!--SUMMARY_END--></FONT></B>
+# command line:
+# ctruncate  '-hklin' 'AUTOMATIC_DEFAULT_scaled.mtz' '-hklout' 'NATIVE_truncated.mtz' '-colin' '/*/*/[IMEAN,SIGIMEAN]' '-xmlout' '42_truncate.xml'
+Acentric moments of E/I not found
+0 absent reflections in NATIVE removed
+Logfile: freerflag -> /Users/jfraser/METHODS_XIA2/apo/DEFAULT/scale/43_freerflag.log
+Last 50 lines of /Users/jfraser/METHODS_XIA2/apo/DEFAULT/scale/43_freerflag.log:
+
+    0.00092    0.36730     (     33.058 -      1.650 A )
+
+ * Sort Order :
+
+      0     0     0     0     0
+
+ * Space group = 'P 43 2 2' (number     95)
+
+  (spacegroup is known)
+
+ Number of reflections:   37129
+ Number for flagged reflections for each bin: 
+ Reflection flag =:      Number:
+                     0              1753       0
+                     1              1887       0
+                     2              1813       0
+                     3              1874       0
+                     4              1868       0
+                     5              1799       0
+                     6              1856       0
+                     7              1896       0
+                     8              1812       0
+                     9              1924       0
+                    10              1791       0
+                    11              1945       0
+                    12              1815       0
+                    13              1894       0
+                    14              1896       0
+                    15              1774       0
+                    16              1877       0
+                    17              1830       0
+                    18              1869       0
+                    19              1956       0
+Averages:     9.551    1856       0
+
+
+ The no. of systematic absences is      28
+
+ Systematically absent reflections have been assigned
+ FreeR_flags and written to the output file
+
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ FREERFLAG:  Normal termination
+Times: User:       0.2s System:    0.0s Elapsed:     0:00  
+</pre>
+</html>
+<!--SUMMARY_END--></FONT></B>
+# command line:
+# freerflag  'hklin' 'NATIVE_truncated.mtz' 'hklout' 'AUTOMATIC_DEFAULT_free_temp.mtz'
+Logfile: freerflag -> /Users/jfraser/METHODS_XIA2/apo/DEFAULT/scale/44_freerflag.log
+Last 50 lines of /Users/jfraser/METHODS_XIA2/apo/DEFAULT/scale/44_freerflag.log:
+
+    0.00092    0.36730     (     33.058 -      1.650 A )
+
+ * Sort Order :
+
+      0     0     0     0     0
+
+ * Space group = 'P 43 2 2' (number     95)
+
+  (spacegroup is known)
+
+ Number of reflections:   37129
+ Number for flagged reflections for each bin: 
+ Reflection flag =:      Number:
+                     0              1753    1753
+                     1              1887    1887
+                     2              1813    1813
+                     3              1874    1874
+                     4              1868    1868
+                     5              1799    1799
+                     6              1856    1856
+                     7              1896    1896
+                     8              1812    1812
+                     9              1924    1924
+                    10              1791    1791
+                    11              1945    1945
+                    12              1815    1815
+                    13              1894    1894
+                    14              1896    1896
+                    15              1774    1774
+                    16              1877    1877
+                    17              1830    1830
+                    18              1869    1869
+                    19              1956    1956
+Averages:     9.551    1856    1856
+
+
+ The no. of systematic absences is      28
+
+ Systematically absent reflections have been assigned
+ FreeR_flags and written to the output file
+
+<B><FONT COLOR="#FF0000"><!--SUMMARY_BEGIN-->
+ FREERFLAG:  Normal termination
+Times: User:       0.2s System:    0.0s Elapsed:     0:01  
+</pre>
+</html>
+<!--SUMMARY_END--></FONT></B>
+# command line:
+# freerflag  'hklin' 'AUTOMATIC_DEFAULT_free_temp.mtz' 'hklout' 'AUTOMATIC_DEFAULT_free.mtz'
+Making directory: /Users/jfraser/METHODS_XIA2/apo/DataFiles
+Directory exists: /Users/jfraser/METHODS_XIA2/apo/DataFiles
+Directory exists: /Users/jfraser/METHODS_XIA2/apo/DataFiles
+Directory exists: /Users/jfraser/METHODS_XIA2/apo/DataFiles
+Directory exists: /Users/jfraser/METHODS_XIA2/apo/DataFiles
+Directory exists: /Users/jfraser/METHODS_XIA2/apo/DataFiles
+Directory exists: /Users/jfraser/METHODS_XIA2/apo/LogFiles
+Directory exists: /Users/jfraser/METHODS_XIA2/apo/DataFiles
+Logfile: xia2.plot_multiplicity -> /Users/jfraser/METHODS_XIA2/apo/DEFAULT/scale/45_xia2.plot_multiplicity.log
+Running xia2.plot_multiplicity
+Last 2 lines of /Users/jfraser/METHODS_XIA2/apo/DEFAULT/scale/45_xia2.plot_multiplicity.log:
+# command line:
+# xia2.plot_multiplicity  'AUTOMATIC_DEFAULT_scaled_unmerged.mtz' 'slice_axis=h' 'slice_index=0' 'show_missing=True' 'uniform_size=True' 'plot.filename=multiplicities_h_0.png' 'size_inches=5,5' 'json.filename=multiplicities_h_0.json'
+Logfile: xia2.plot_multiplicity -> /Users/jfraser/METHODS_XIA2/apo/DEFAULT/scale/46_xia2.plot_multiplicity.log
+Running xia2.plot_multiplicity
+Last 2 lines of /Users/jfraser/METHODS_XIA2/apo/DEFAULT/scale/46_xia2.plot_multiplicity.log:
+# command line:
+# xia2.plot_multiplicity  'AUTOMATIC_DEFAULT_scaled_unmerged.mtz' 'slice_axis=k' 'slice_index=0' 'show_missing=True' 'uniform_size=True' 'plot.filename=multiplicities_k_0.png' 'size_inches=5,5' 'json.filename=multiplicities_k_0.json'
+Logfile: xia2.plot_multiplicity -> /Users/jfraser/METHODS_XIA2/apo/DEFAULT/scale/47_xia2.plot_multiplicity.log
+Running xia2.plot_multiplicity
+Last 2 lines of /Users/jfraser/METHODS_XIA2/apo/DEFAULT/scale/47_xia2.plot_multiplicity.log:
+# command line:
+# xia2.plot_multiplicity  'AUTOMATIC_DEFAULT_scaled_unmerged.mtz' 'slice_axis=l' 'slice_index=0' 'show_missing=True' 'uniform_size=True' 'plot.filename=multiplicities_l_0.png' 'size_inches=5,5' 'json.filename=multiplicities_l_0.json'

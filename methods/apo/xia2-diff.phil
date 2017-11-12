@@ -1,0 +1,21 @@
+xia2.settings {
+  pipeline = 2d 2di *3d 3dd 3di 3dii dials
+  input {
+    anomalous = false
+    xinfo = /Users/jfraser/METHODS_XIA2/apo/automatic.xinfo
+  }
+  space_group = p4322
+  resolution {
+    keep_all_reflections = false
+  }
+  multi_sweep_indexing = False
+  indexer = mosflm labelit labelitii *xds xdsii xdssum dials
+  refiner = mosflm *xds dials
+  integrater = mosflmr *xdsr mosflm xds dials
+  scaler = ccp4a *xdsa
+  multiprocessing {
+    nproc = 4
+    njob = 1
+  }
+}
+

@@ -1,0 +1,1405 @@
+<CTRUNCATE version="1.17.27" RunTime="$Date: 2017/08/14" >
+<Truncation>
+  <prior>WILSON</prior>
+  <mode>AUTO</mode>
+  <AnisoCorrection>yes</AnisoCorrection>
+  <ResolutionRange id="Truncation" unit="Angstrom" >
+    <min>37.15</min>
+    <max>1.51</max>
+  </ResolutionRange>
+</Truncation>
+<ReflectionData>
+<ReflectionDataType>I_sigI</ReflectionDataType>
+<NumberObservations>49124</NumberObservations>
+<NumberReflections>49124</NumberReflections>
+<NumberAcentric>43419</NumberAcentric>
+<NumberCentric>5705</NumberCentric>
+<ResolutionLow>37.145</ResolutionLow>
+<ResolutionHigh>1.510</ResolutionHigh>
+<FileReflectionIndexMax id="h">
+<Index>49</Index>
+<Resolution unit="Angstrom">1.516</Resolution>
+</FileReflectionIndexMax>
+<FileReflectionIndexMax id="k">
+<Index>34</Index>
+<Resolution unit="Angstrom">2.185</Resolution>
+</FileReflectionIndexMax>
+<FileReflectionIndexMax id="l">
+<Index>73</Index>
+<Resolution unit="Angstrom">1.512</Resolution>
+</FileReflectionIndexMax>
+<ReflectionIndexMax id="h">
+<Index>49</Index>
+<Resolution unit="Angstrom">1.516</Resolution>
+</ReflectionIndexMax>
+<ReflectionIndexMax id="k">
+<Index>49</Index>
+<Resolution unit="Angstrom">1.516</Resolution>
+</ReflectionIndexMax>
+<ReflectionIndexMax id="l">
+<Index>73</Index>
+<Resolution unit="Angstrom">1.512</Resolution>
+</ReflectionIndexMax>
+</ReflectionData>
+<ReflectionFile name="/Users/jfraser/METHODS_XIA2/adp/DEFAULT/scale/AUTOMATIC_DEFAULT_scaled.mtz ">
+<CrystalDatasetId>/DEFAULT/NATIVE</CrystalDatasetId>
+<cell>
+<a>74.29</a>
+<b>74.29</b>
+<c>110.37</c>
+<alpha>90.00</alpha>
+<beta>90.00</beta>
+<gamma>90.00</gamma>
+</cell>
+<SpacegroupName>P 43 2 2</SpacegroupName>
+</ReflectionFile>
+<DataStatistics type="intensity">
+  <ResolutionRange id="Completeness" unit="Angstrom" >
+    <min>37.15</min>
+    <max>1.51</max>
+    <percentage>100</percentage>
+  </ResolutionRange>
+  <ResolutionRange id="Completeness15" unit="Angstrom" title="Completeness I/sigmaI &gt; 15.00">
+    <min>37.15</min>
+    <max>2.44</max>
+         <percentage>25</percentage>
+  </ResolutionRange>
+  <ResolutionRange id="Completeness10" unit="Angstrom" title="Completeness I/sigmaI &gt; 10.00">
+    <min>37.15</min>
+    <max>2.31</max>
+         <percentage>29</percentage>
+  </ResolutionRange>
+  <ResolutionRange id="Completeness5" unit="Angstrom" title="Completeness I/sigmaI &gt; 5.00">
+    <min>37.15</min>
+    <max>2.09</max>
+         <percentage>38</percentage>
+  </ResolutionRange>
+  <ResolutionRange id="Completeness3" unit="Angstrom" title="Completeness I/sigmaI &gt; 3.00">
+    <min>37.15</min>
+    <max>1.95</max>
+         <percentage>47</percentage>
+  </ResolutionRange>
+  <ResolutionRange id="Completeness2" unit="Angstrom" title="Completeness I/sigmaI &gt; 2.00">
+    <min>37.15</min>
+    <max>1.87</max>
+         <percentage>53</percentage>
+  </ResolutionRange>
+  <ResolutionRange id="Completeness1" unit="Angstrom" title="Completeness I/sigmaI &gt; 1.50">
+    <min>37.15</min>
+    <max>1.87</max>
+         <percentage>54</percentage>
+  </ResolutionRange>
+  <ResolutionRange id="Completeness1" unit="Angstrom" title="Completeness I/sigmaI &gt; 1.00">
+    <min>37.15</min>
+    <max>1.83</max>
+         <percentage>57</percentage>
+  </ResolutionRange>
+ <Comment id="CompletenessReso">
+The Completeness max and min resolution indicte the resolution extremes where obs/sig(obs) &gt; N accounts for more than 85 % of observations.
+  </Comment>
+  <Comment id="Completeness3" >
+The Completeness with I/sigma above 3 indicates a strong signal, 
+here it is from 37.15 to 1.95A.
+(The CC1/2 on unmerged intensities gives, perhaps, the best estimate of the useable data.)
+  </Comment>
+<Comment id="ActiveRange">
+&lt;li&gt; This will be used in the analysis of the data. &lt;/li&gt;
+&lt;li&gt; Processed data contains a lot of weak data at high resolution.  Moments plots and Wilson plot should be consulted. &lt;/li&gt;
+</Comment>
+<Comment id="CompletenessQuality">
+Completeness test shows some issues.
+</Comment>
+</DataStatistics>
+<CCP4Table groupID="graph" id="completeness" title="intensity completeness vs resolution">
+<plot>
+<title>Resolution plots for completeness at various I/sigmaI levels</title>
+<xscale>oneoversqrt</xscale>
+<yrange min="0" max="None"/>
+<plotline xcol="1" ycol="8" >
+<symbolsize>  0</symbolsize>
+<linestyle>-</linestyle>
+<colour>yellow</colour>
+</plotline>
+<yrange min="0" max="None"/>
+<plotline xcol="1" ycol="7" >
+<symbolsize>  0</symbolsize>
+<linestyle>-</linestyle>
+<colour>blue</colour>
+</plotline>
+<yrange min="0" max="None"/>
+<plotline xcol="1" ycol="6" >
+<symbolsize>  0</symbolsize>
+<linestyle>-</linestyle>
+<colour>pink</colour>
+</plotline>
+<yrange min="0" max="None"/>
+<plotline xcol="1" ycol="5" >
+<symbolsize>  0</symbolsize>
+<linestyle>-</linestyle>
+<colour>brown</colour>
+</plotline>
+<plotline xcol="1" ycol="4" >
+<symbolsize>  0</symbolsize>
+<linestyle>-</linestyle>
+<colour>red</colour>
+</plotline>
+<plotline xcol="1" ycol="3" >
+<symbolsize>  0</symbolsize>
+<linestyle>-</linestyle>
+<colour>green</colour>
+</plotline>
+<plotline xcol="  1" ycol="  2" >
+<linestyle>-</linestyle>
+<colour>black</colour>
+</plotline>
+</plot>
+<plot>
+<title>Resolution plots for completeness and Rstandard</title>
+<xscale>oneoversqrt</xscale>
+<yrange min="0" max="None"/>
+<plotline xcol="1" ycol="9" >
+<symbolsize>  0</symbolsize>
+<linestyle>-</linestyle>
+<colour>red</colour>
+</plotline>
+<plotline xcol="  1" ycol="  2" >
+<linestyle>-</linestyle>
+<colour>black</colour>
+</plotline>
+</plot>
+<headers separator=" ">
+ 1/resol^2 completeness I/sigI&gt;15 I/sigI&gt;10 I/sigI&gt;5 I/sigI&gt;3 I/sigI&gt;2 I/sigI&gt;1 I/sigI&gt;1 Rstandard
+ </headers>
+<data>
+    0.0108 0.992  0.981 0.988 0.992 0.992 0.992 0.992 0.992 0.000
+    0.0240 1.000  0.976 0.990 0.999 1.000 1.000 1.000 1.000 0.000
+    0.0346 1.000  0.982 0.989 0.998 0.998 0.998 0.998 0.998 0.000
+    0.0439 1.000  0.973 0.989 0.995 0.998 0.998 1.000 1.000 0.000
+    0.0524 1.000  0.991 0.996 0.998 0.999 1.000 1.000 1.000 0.000
+    0.0604 1.000  0.982 0.992 0.997 0.999 1.000 1.000 1.000 0.000
+    0.0679 1.000  0.975 0.990 0.996 0.996 0.999 0.999 0.999 0.000
+    0.0750 0.998  0.966 0.974 0.995 0.996 0.997 0.997 0.997 0.000
+    0.0818 1.000  0.970 0.982 0.991 0.993 0.998 0.999 0.999 0.000
+    0.0884 1.000  0.976 0.982 0.995 0.999 0.999 1.000 1.000 0.000
+    0.0947 1.000  0.963 0.978 0.987 0.997 0.997 0.997 0.999 0.000
+    0.1009 1.000  0.941 0.970 0.985 0.995 0.996 0.997 0.998 0.000
+    0.1069 1.000  0.943 0.972 0.987 0.993 0.997 0.997 0.997 0.000
+    0.1128 1.000  0.938 0.970 0.983 0.991 0.996 0.998 0.999 0.000
+    0.1185 1.000  0.958 0.969 0.991 0.998 0.998 0.998 0.999 0.000
+    0.1241 1.000  0.924 0.949 0.975 0.988 0.996 0.997 0.997 0.000
+    0.1295 1.000  0.911 0.951 0.985 0.994 0.994 0.996 0.996 0.000
+    0.1349 1.000  0.908 0.938 0.969 0.983 0.990 0.992 0.996 0.000
+    0.1401 1.000  0.880 0.923 0.967 0.984 0.989 0.995 0.995 0.000
+    0.1453 1.000  0.874 0.935 0.963 0.980 0.987 0.987 0.989 0.000
+    0.1504 1.000  0.873 0.910 0.972 0.979 0.984 0.987 0.992 0.000
+    0.1554 1.000  0.854 0.896 0.944 0.962 0.971 0.983 0.985 0.000
+    0.1604 1.000  0.874 0.921 0.968 0.981 0.987 0.993 0.993 0.000
+    0.1653 1.000  0.867 0.920 0.959 0.981 0.988 0.991 0.997 0.000
+    0.1700 1.000  0.837 0.882 0.932 0.961 0.967 0.970 0.975 0.000
+    0.1748 1.000  0.803 0.880 0.933 0.961 0.975 0.981 0.984 0.000
+    0.1794 1.000  0.789 0.859 0.933 0.953 0.974 0.976 0.982 0.000
+    0.1841 1.000  0.778 0.871 0.923 0.955 0.968 0.978 0.979 0.000
+    0.1886 0.998  0.766 0.836 0.896 0.928 0.941 0.949 0.961 0.000
+    0.1932 1.000  0.719 0.805 0.890 0.939 0.962 0.970 0.970 0.000
+    0.1977 0.999  0.720 0.799 0.923 0.954 0.970 0.979 0.985 0.000
+    0.2021 0.998  0.699 0.796 0.887 0.928 0.944 0.950 0.954 0.000
+    0.2065 1.000  0.663 0.752 0.851 0.899 0.931 0.948 0.962 0.001
+    0.2108 1.000  0.718 0.814 0.902 0.940 0.956 0.966 0.977 0.001
+    0.2150 1.000  0.626 0.773 0.878 0.922 0.944 0.963 0.971 0.001
+    0.2193 1.000  0.672 0.765 0.858 0.928 0.959 0.967 0.974 0.001
+    0.2236 1.000  0.682 0.789 0.884 0.928 0.941 0.950 0.958 0.001
+    0.2276 0.998  0.576 0.710 0.857 0.910 0.923 0.940 0.947 0.001
+    0.2318 0.996  0.567 0.696 0.825 0.880 0.915 0.926 0.941 0.001
+    0.2360 1.000  0.548 0.686 0.822 0.917 0.943 0.955 0.966 0.001
+    0.2400 1.000  0.547 0.662 0.808 0.876 0.903 0.918 0.934 0.001
+    0.2441 1.000  0.507 0.662 0.804 0.889 0.916 0.923 0.949 0.001
+    0.2481 1.000  0.510 0.633 0.798 0.866 0.914 0.933 0.950 0.001
+    0.2520 1.000  0.453 0.587 0.775 0.848 0.884 0.898 0.923 0.002
+    0.2560 1.000  0.442 0.598 0.778 0.848 0.888 0.912 0.933 0.002
+    0.2600 0.996  0.394 0.538 0.697 0.791 0.850 0.877 0.899 0.002
+    0.2638 1.000  0.379 0.546 0.753 0.853 0.897 0.922 0.945 0.002
+    0.2677 0.992  0.321 0.477 0.664 0.762 0.815 0.850 0.890 0.002
+    0.2715 0.990  0.329 0.516 0.755 0.834 0.903 0.921 0.933 0.002
+    0.2754 0.997  0.319 0.478 0.700 0.807 0.862 0.881 0.906 0.003
+    0.2791 0.992  0.286 0.413 0.629 0.733 0.778 0.794 0.824 0.003
+    0.2829 1.000  0.283 0.437 0.713 0.827 0.894 0.919 0.940 0.003
+    0.2867 1.000  0.236 0.359 0.599 0.721 0.788 0.820 0.843 0.004
+    0.2903 1.000  0.195 0.347 0.578 0.721 0.793 0.829 0.874 0.004
+    0.2941 1.000  0.209 0.336 0.550 0.670 0.750 0.802 0.851 0.005
+    0.2977 1.000  0.163 0.311 0.557 0.678 0.765 0.813 0.852 0.006
+    0.3013 1.000  0.166 0.289 0.550 0.685 0.761 0.803 0.845 0.006
+    0.3050 1.000  0.129 0.258 0.489 0.639 0.734 0.783 0.848 0.008
+    0.3086 0.998  0.127 0.275 0.495 0.662 0.766 0.804 0.843 0.007
+    0.3121 1.000  0.111 0.227 0.446 0.584 0.690 0.733 0.782 0.009
+    0.3158 1.000  0.072 0.178 0.424 0.580 0.673 0.731 0.784 0.011
+    0.3193 1.000  0.081 0.163 0.422 0.598 0.670 0.727 0.792 0.011
+    0.3228 1.000  0.061 0.151 0.401 0.565 0.691 0.738 0.805 0.011
+    0.3264 0.999  0.064 0.158 0.360 0.518 0.634 0.703 0.769 0.013
+    0.3298 1.000  0.049 0.116 0.340 0.514 0.646 0.723 0.777 0.014
+    0.3334 0.998  0.033 0.123 0.331 0.513 0.622 0.686 0.761 0.014
+    0.3368 1.000  0.040 0.092 0.326 0.507 0.626 0.705 0.785 0.015
+    0.3402 1.000  0.027 0.100 0.309 0.496 0.653 0.705 0.771 0.016
+    0.3436 1.000  0.032 0.087 0.283 0.446 0.526 0.602 0.686 0.018
+    0.3471 1.000  0.017 0.066 0.254 0.432 0.538 0.608 0.700 0.020
+    0.3505 1.000  0.022 0.080 0.234 0.394 0.548 0.625 0.729 0.021
+    0.3538 0.998  0.018 0.061 0.244 0.389 0.532 0.628 0.716 0.023
+    0.3572 1.000  0.011 0.041 0.199 0.366 0.508 0.611 0.705 0.025
+    0.3606 1.000  0.014 0.052 0.192 0.347 0.456 0.542 0.639 0.028
+    0.3639 0.996  0.017 0.048 0.211 0.373 0.497 0.555 0.654 0.024
+    0.3673 0.996  0.018 0.056 0.210 0.371 0.520 0.603 0.680 0.023
+    0.3705 1.000  0.002 0.036 0.174 0.351 0.451 0.549 0.657 0.028
+    0.3738 1.000  0.008 0.038 0.164 0.308 0.439 0.528 0.635 0.035
+    0.3770 1.000  0.010 0.043 0.169 0.317 0.425 0.518 0.611 0.034
+    0.3804 1.000  0.002 0.028 0.164 0.288 0.417 0.501 0.638 0.035
+    0.3836 0.998  0.001 0.028 0.128 0.247 0.415 0.486 0.607 0.035
+    0.3868 1.000  0.004 0.027 0.111 0.254 0.369 0.463 0.555 0.038
+    0.3901 1.000  0.002 0.023 0.167 0.360 0.568 0.684 0.801 0.028
+    0.3933 1.000  0.000 0.008 0.077 0.217 0.317 0.397 0.514 0.054
+    0.3965 1.000  0.000 0.019 0.118 0.236 0.336 0.423 0.534 0.048
+    0.3997 1.000  0.000 0.028 0.113 0.237 0.378 0.474 0.592 0.049
+    0.4028 1.000  0.002 0.006 0.081 0.229 0.358 0.441 0.574 0.052
+    0.4060 1.000  0.002 0.006 0.074 0.169 0.293 0.388 0.520 0.056
+    0.4091 1.000  0.000 0.006 0.086 0.223 0.329 0.405 0.519 0.055
+    0.4123 1.000  0.000 0.006 0.076 0.164 0.278 0.371 0.503 0.061
+    0.4154 1.000  0.000 0.004 0.081 0.182 0.347 0.492 0.624 0.048
+    0.4186 0.998  0.000 0.004 0.058 0.171 0.275 0.351 0.442 0.058
+    0.4216 1.000  0.000 0.002 0.059 0.156 0.255 0.334 0.445 0.070
+    0.4247 0.998  0.000 0.002 0.032 0.125 0.239 0.311 0.436 0.074
+    0.4278 0.994  0.000 0.000 0.040 0.095 0.158 0.209 0.273 0.132
+    0.4309 0.993  0.000 0.000 0.037 0.207 0.396 0.513 0.654 0.047
+    0.4340 0.998  0.000 0.000 0.035 0.159 0.324 0.437 0.572 0.059
+    0.4371 0.970  0.000 0.000 0.023 0.068 0.131 0.204 0.298 0.136
+</data>
+</CCP4Table>
+<DataStatistics>
+<Comment id="Completeness">
+The completeness at various resolution limit plots gives the completeness after applying a I/sigI cutoff.  The profiles give an indication of the quality of the data.  The Rstandard plot (&lt;sigF&gt;/ &lt;F&gt;) gives an alternative indicator.  Strongly recorded resolution bins would typically have values below 0.1
+</Comment>
+<LowResoCompleteness>
+<bin id="LowResoCompleteness">1</bin>
+  <ResolutionRange id="LowResoCompleteness" unit="Angstrom" >
+    <min>inf</min>
+    <max>13.56</max>
+  </ResolutionRange>
+  <Completeness id="LowResoCompleteness">0.95</Completeness>
+  <nTot>63.8</nTot>
+  <nObs>60.6</nObs>
+<bin id="LowResoCompleteness">2</bin>
+  <ResolutionRange id="LowResoCompleteness" unit="Angstrom" >
+    <min>13.55</min>
+    <max>10.42</max>
+  </ResolutionRange>
+  <Completeness id="LowResoCompleteness">1.00</Completeness>
+  <nTot>76.0</nTot>
+  <nObs>76.0</nObs>
+<bin id="LowResoCompleteness">3</bin>
+  <ResolutionRange id="LowResoCompleteness" unit="Angstrom" >
+    <min>10.38</min>
+    <max>8.99</max>
+  </ResolutionRange>
+  <Completeness id="LowResoCompleteness">1.00</Completeness>
+  <nTot>78.9</nTot>
+  <nObs>78.9</nObs>
+<bin id="LowResoCompleteness">4</bin>
+  <ResolutionRange id="LowResoCompleteness" unit="Angstrom" >
+    <min>8.98</min>
+    <max>8.09</max>
+  </ResolutionRange>
+  <Completeness id="LowResoCompleteness">1.00</Completeness>
+  <nTot>81.5</nTot>
+  <nObs>81.5</nObs>
+<bin id="LowResoCompleteness">5</bin>
+  <ResolutionRange id="LowResoCompleteness" unit="Angstrom" >
+    <min>8.08</min>
+    <max>7.44</max>
+  </ResolutionRange>
+  <Completeness id="LowResoCompleteness">1.00</Completeness>
+  <nTot>83.2</nTot>
+  <nObs>83.2</nObs>
+<bin id="LowResoCompleteness">6</bin>
+  <ResolutionRange id="LowResoCompleteness" unit="Angstrom" >
+    <min>7.43</min>
+    <max>6.98</max>
+  </ResolutionRange>
+  <Completeness id="LowResoCompleteness">1.00</Completeness>
+  <nTot>82.8</nTot>
+  <nObs>82.8</nObs>
+<bin id="LowResoCompleteness">7</bin>
+  <ResolutionRange id="LowResoCompleteness" unit="Angstrom" >
+    <min>6.98</min>
+    <max>6.61</max>
+  </ResolutionRange>
+  <Completeness id="LowResoCompleteness">1.00</Completeness>
+  <nTot>83.9</nTot>
+  <nObs>83.9</nObs>
+<bin id="LowResoCompleteness">8</bin>
+  <ResolutionRange id="LowResoCompleteness" unit="Angstrom" >
+    <min>6.60</min>
+    <max>6.31</max>
+  </ResolutionRange>
+  <Completeness id="LowResoCompleteness">1.00</Completeness>
+  <nTot>86.2</nTot>
+  <nObs>86.2</nObs>
+<bin id="LowResoCompleteness">9</bin>
+  <ResolutionRange id="LowResoCompleteness" unit="Angstrom" >
+    <min>6.30</min>
+    <max>6.05</max>
+  </ResolutionRange>
+  <Completeness id="LowResoCompleteness">1.00</Completeness>
+  <nTot>82.8</nTot>
+  <nObs>82.8</nObs>
+<bin id="LowResoCompleteness">10</bin>
+  <ResolutionRange id="LowResoCompleteness" unit="Angstrom" >
+    <min>6.05</min>
+    <max>5.81</max>
+  </ResolutionRange>
+  <Completeness id="LowResoCompleteness">1.00</Completeness>
+  <nTot>89.8</nTot>
+  <nObs>89.6</nObs>
+</LowResoCompleteness>
+ <Comment id="CompletenessLow">
+Low completeness at low resolution can lead to map distortions and other difficulties.  This often arises through experimental effects such as incorrectly alligned crystal, poorly positioned backstop, or over exposure.
+</Comment>
+</DataStatistics>
+<IceRingsAnalysis>
+  <Ring>
+    <Number>1</Number>
+    <Resolution> 3.90</Resolution>
+    <Reject>  yes  </Reject>
+    <Imean>  22170.59</Imean>
+    <SigImean>357.60</SigImean>
+    <Ratio>0.92</Ratio>
+    <Z-score>-5.55</Z-score>
+    <Completeness>1.00</Completeness>
+    <ExpectCompleteness>1.00</ExpectCompleteness>
+  </Ring>
+  <Ring>
+    <Number>2</Number>
+    <Resolution> 3.67</Resolution>
+    <Reject>  no   </Reject>
+    <Imean>  21706.66</Imean>
+    <SigImean>349.26</SigImean>
+    <Ratio>1.05</Ratio>
+    <Z-score>2.77</Z-score>
+    <Completeness>1.00</Completeness>
+    <ExpectCompleteness>1.00</ExpectCompleteness>
+  </Ring>
+  <Ring>
+    <Number>3</Number>
+    <Resolution> 3.44</Resolution>
+    <Reject>  no   </Reject>
+    <Imean>  16993.96</Imean>
+    <SigImean>281.52</SigImean>
+    <Ratio>1.06</Ratio>
+    <Z-score>3.39</Z-score>
+    <Completeness>1.00</Completeness>
+    <ExpectCompleteness>1.00</ExpectCompleteness>
+  </Ring>
+  <Ring>
+    <Number>4</Number>
+    <Resolution> 2.67</Resolution>
+    <Reject>  no   </Reject>
+    <Imean>   3655.23</Imean>
+    <SigImean>76.62</SigImean>
+    <Ratio>1.00</Ratio>
+    <Z-score>0.22</Z-score>
+    <Completeness>1.00</Completeness>
+    <ExpectCompleteness>1.00</ExpectCompleteness>
+  </Ring>
+  <Ring>
+    <Number>5</Number>
+    <Resolution> 2.25</Resolution>
+    <Reject>  no   </Reject>
+    <Imean>   1823.54</Imean>
+    <SigImean>54.93</SigImean>
+    <Ratio>1.08</Ratio>
+    <Z-score>2.37</Z-score>
+    <Completeness>1.00</Completeness>
+    <ExpectCompleteness>1.00</ExpectCompleteness>
+  </Ring>
+  <Ring>
+    <Number>6</Number>
+    <Resolution> 2.08</Resolution>
+    <Reject>  no   </Reject>
+    <Imean>    985.50</Imean>
+    <SigImean>39.29</SigImean>
+    <Ratio>0.99</Ratio>
+    <Z-score>-0.14</Z-score>
+    <Completeness>1.00</Completeness>
+    <ExpectCompleteness>1.00</ExpectCompleteness>
+  </Ring>
+  <Ring>
+    <Number>7</Number>
+    <Resolution> 1.95</Resolution>
+    <Reject>  no   </Reject>
+    <Imean>    493.20</Imean>
+    <SigImean>31.34</SigImean>
+    <Ratio>1.01</Ratio>
+    <Z-score>0.21</Z-score>
+    <Completeness>1.00</Completeness>
+    <ExpectCompleteness>1.00</ExpectCompleteness>
+  </Ring>
+  <Ring>
+    <Number>8</Number>
+    <Resolution> 1.92</Resolution>
+    <Reject>  no   </Reject>
+    <Imean>    447.10</Imean>
+    <SigImean>32.90</SigImean>
+    <Ratio>1.03</Ratio>
+    <Z-score>0.42</Z-score>
+    <Completeness>0.99</Completeness>
+    <ExpectCompleteness>1.00</ExpectCompleteness>
+  </Ring>
+  <Ring>
+    <Number>9</Number>
+    <Resolution> 1.89</Resolution>
+    <Reject>  no   </Reject>
+    <Imean>    344.57</Imean>
+    <SigImean>28.52</SigImean>
+    <Ratio>0.99</Ratio>
+    <Z-score>-0.17</Z-score>
+    <Completeness>0.99</Completeness>
+    <ExpectCompleteness>1.00</ExpectCompleteness>
+  </Ring>
+  <Ring>
+    <Number>10</Number>
+    <Resolution> 1.73</Resolution>
+    <Reject>  no   </Reject>
+    <Imean>    107.15</Imean>
+    <SigImean>23.35</SigImean>
+    <Ratio>0.98</Ratio>
+    <Z-score>-0.09</Z-score>
+    <Completeness>1.00</Completeness>
+    <ExpectCompleteness>1.00</ExpectCompleteness>
+  </Ring>
+<Comment id='IceRingsAnalysis'>
+ The ice rings table shows data Z-scores and completeness for ice ring sensitive resolutions in comparison with neighbouring ice-ring insensitive resolutions. Large z-scores and low completeness at give a strong hint to the presence of ice rings. It may be required to exclude these resolution ranges.
+</Comment>
+</IceRingsAnalysis>
+<DataStatistics type="intensity">
+  <WilsonB>26.61</WilsonB>
+  <WilsonScale>12.93</WilsonScale>
+  <Comment id="WilsonB">
+The isotropic Wilson temperature estimate (B-value) is an approximation to the fall-off of scattering with resolution.  This should be correlated with the refined atomic B-values.  This averages out any anisotropy in the experimental observations.  This approximation will be misleading for strongly anisotropic data.
+  </Comment>
+</DataStatistics>
+<CCP4Table groupID="graph" id="WilsonB" title="Wilson plot">
+<plot>
+<title>Wilson B estimate, 26.61</title>
+<xscale>oneoversqrt</xscale>
+<plotline xcol="1" ycol="3" >
+<symbolsize>  0</symbolsize>
+<linestyle>-</linestyle>
+<colour>green</colour>
+</plotline>
+<plotline xcol="  1" ycol="  2" >
+<linestyle>-</linestyle>
+<colour>black</colour>
+</plotline>
+</plot>
+<headers separator=" ">
+ 1/resol^2 ln(I/I_th) Reference_prot
+</headers>
+<data>
+ 0.0246   -3.2182   -3.4049
+ 0.0555   -2.8386   -2.7693
+ 0.0795   -3.1719   -3.1432
+ 0.1004   -3.6641   -3.6560
+ 0.1195   -4.0876   -4.0954
+ 0.1373   -4.4996   -4.4241
+ 0.1540   -4.5853   -4.6545
+ 0.1699   -4.8034   -4.8363
+ 0.1852   -4.9779   -4.9771
+ 0.1999   -5.0833   -5.1137
+ 0.2141   -5.2793   -5.2868
+ 0.2279   -5.4256   -5.4511
+ 0.2413   -5.6669   -5.6730
+ 0.2543   -5.9311   -5.9026
+ 0.2671   -6.1445   -6.1532
+ 0.2796   -6.3580   -6.3973
+ 0.2918   -6.6624   -6.6293
+ 0.3037   -6.8507   -6.8519
+ 0.3155   -7.1130   -7.0430
+ 0.3270   -7.2912   -7.2198
+ 0.3383   -7.4315   -7.3756
+ 0.3495   -7.6477   -7.5452
+ 0.3605   -7.7947   -7.6909
+ 0.3713   -7.8342   -7.8217
+ 0.3820   -8.0451   -7.9635
+ 0.3925   -8.0345   -8.0980
+ 0.4029   -8.1442   -8.2404
+ 0.4132   -8.2084   -8.3614
+ 0.4234   -8.5907   -8.5081
+ 0.4335   -8.3980   -8.6361
+</data>
+</CCP4Table>
+<DataStatistics>
+  <Comment id="WilsonPlot">
+The wilson plot shows the fall off of the mean intensity with resolution.   This is then used calculate an absolute scale and temperature factor for a set of observed intensities, using the theory of A C Wilson.  The reference_plot is based upon an analysis of high resolution datasets in the PDB (BEST or RNA equivalent), which takes into account the none random distribution of atoms within the crystal.  Some deviation from the reference plot is to be expected, however, significant deviation may indicate problems, such as ice rings, detector issues, or missprocessed.
+ </Comment>
+ <Reference id="Best">
+Popov and Bourenkov, Acta D (2003) D59, 1145
+ </Reference>
+</DataStatistics>
+<OutlierRingsAnalysis>
+  <present>  yes  </present>
+  <percentage> 11.0</percentage>
+  <Ring>
+    <Number>3</Number>
+    <Resolution> 7.52</Resolution>
+    <Reject>  yes  </Reject>
+    <Imean>  23524.06</Imean>
+    <SigImean>362.24</SigImean>
+    <Z-score>-11.76</Z-score>
+    <Completeness>1.00</Completeness>
+    <ExpectCompleteness>1.00</ExpectCompleteness>
+  </Ring>
+  <Ring>
+    <Number>4</Number>
+    <Resolution> 6.63</Resolution>
+    <Reject>  yes  </Reject>
+    <Imean>  16716.66</Imean>
+    <SigImean>278.23</SigImean>
+    <Z-score>-14.57</Z-score>
+    <Completeness>1.00</Completeness>
+    <ExpectCompleteness>0.99</ExpectCompleteness>
+  </Ring>
+  <Ring>
+    <Number>7</Number>
+    <Resolution> 5.30</Resolution>
+    <Reject>  yes  </Reject>
+    <Imean>  18353.10</Imean>
+    <SigImean>306.89</SigImean>
+    <Z-score>-16.09</Z-score>
+    <Completeness>1.00</Completeness>
+    <ExpectCompleteness>1.00</ExpectCompleteness>
+  </Ring>
+  <Ring>
+    <Number>8</Number>
+    <Resolution> 5.04</Resolution>
+    <Reject>  yes  </Reject>
+    <Imean>  24149.62</Imean>
+    <SigImean>402.78</SigImean>
+    <Z-score>-7.91</Z-score>
+    <Completeness>1.00</Completeness>
+    <ExpectCompleteness>1.00</ExpectCompleteness>
+  </Ring>
+  <Ring>
+    <Number>12</Number>
+    <Resolution> 4.33</Resolution>
+    <Reject>  yes  </Reject>
+    <Imean>  36143.82</Imean>
+    <SigImean>593.61</SigImean>
+    <Z-score>7.13</Z-score>
+    <Completeness>1.00</Completeness>
+    <ExpectCompleteness>1.00</ExpectCompleteness>
+  </Ring>
+  <Ring>
+    <Number>13</Number>
+    <Resolution> 4.21</Resolution>
+    <Reject>  yes  </Reject>
+    <Imean>  27751.54</Imean>
+    <SigImean>442.50</SigImean>
+    <Z-score>-6.79</Z-score>
+    <Completeness>1.00</Completeness>
+    <ExpectCompleteness>1.00</ExpectCompleteness>
+  </Ring>
+  <Ring>
+    <Number>16</Number>
+    <Resolution> 3.90</Resolution>
+    <Reject>  yes  </Reject>
+    <Imean>  22830.57</Imean>
+    <SigImean>376.52</SigImean>
+    <Z-score>-7.13</Z-score>
+    <Completeness>1.00</Completeness>
+    <ExpectCompleteness>1.00</ExpectCompleteness>
+  </Ring>
+  <Ring>
+    <Number>17</Number>
+    <Resolution> 3.82</Resolution>
+    <Reject>  yes  </Reject>
+    <Imean>  19960.61</Imean>
+    <SigImean>319.85</SigImean>
+    <Z-score>-15.57</Z-score>
+    <Completeness>1.00</Completeness>
+    <ExpectCompleteness>1.00</ExpectCompleteness>
+  </Ring>
+  <Ring>
+    <Number>27</Number>
+    <Resolution> 3.24</Resolution>
+    <Reject>  yes  </Reject>
+    <Imean>  10081.33</Imean>
+    <SigImean>187.25</SigImean>
+    <Z-score>-10.29</Z-score>
+    <Completeness>1.00</Completeness>
+    <ExpectCompleteness>1.00</ExpectCompleteness>
+  </Ring>
+  <Ring>
+    <Number>29</Number>
+    <Resolution> 3.16</Resolution>
+    <Reject>  yes  </Reject>
+    <Imean>   8322.82</Imean>
+    <SigImean>155.40</SigImean>
+    <Z-score>-15.68</Z-score>
+    <Completeness>1.00</Completeness>
+    <ExpectCompleteness>1.00</ExpectCompleteness>
+  </Ring>
+  <Ring>
+    <Number>33</Number>
+    <Resolution> 3.02</Resolution>
+    <Reject>  yes  </Reject>
+    <Imean>   5656.07</Imean>
+    <SigImean>113.36</SigImean>
+    <Z-score>-21.15</Z-score>
+    <Completeness>1.00</Completeness>
+    <ExpectCompleteness>1.00</ExpectCompleteness>
+  </Ring>
+  <Ring>
+    <Number>34</Number>
+    <Resolution> 2.99</Resolution>
+    <Reject>  yes  </Reject>
+    <Imean>   5901.51</Imean>
+    <SigImean>114.92</SigImean>
+    <Z-score>-15.15</Z-score>
+    <Completeness>1.00</Completeness>
+    <ExpectCompleteness>1.00</ExpectCompleteness>
+  </Ring>
+  <Ring>
+    <Number>36</Number>
+    <Resolution> 2.93</Resolution>
+    <Reject>  yes  </Reject>
+    <Imean>   8410.82</Imean>
+    <SigImean>154.02</SigImean>
+    <Z-score>10.55</Z-score>
+    <Completeness>1.00</Completeness>
+    <ExpectCompleteness>1.00</ExpectCompleteness>
+  </Ring>
+  <Ring>
+    <Number>40</Number>
+    <Resolution> 2.82</Resolution>
+    <Reject>  yes  </Reject>
+    <Imean>   4089.20</Imean>
+    <SigImean>82.90</SigImean>
+    <Z-score>-14.65</Z-score>
+    <Completeness>1.00</Completeness>
+    <ExpectCompleteness>1.00</ExpectCompleteness>
+  </Ring>
+  <Ring>
+    <Number>41</Number>
+    <Resolution> 2.80</Resolution>
+    <Reject>  yes  </Reject>
+    <Imean>   4063.78</Imean>
+    <SigImean>81.40</SigImean>
+    <Z-score>-12.20</Z-score>
+    <Completeness>1.00</Completeness>
+    <ExpectCompleteness>1.00</ExpectCompleteness>
+  </Ring>
+  <Ring>
+    <Number>42</Number>
+    <Resolution> 2.77</Resolution>
+    <Reject>  yes  </Reject>
+    <Imean>   4131.50</Imean>
+    <SigImean>79.40</SigImean>
+    <Z-score>-8.29</Z-score>
+    <Completeness>1.00</Completeness>
+    <ExpectCompleteness>1.00</ExpectCompleteness>
+  </Ring>
+  <Ring>
+    <Number>43</Number>
+    <Resolution> 2.75</Resolution>
+    <Reject>  yes  </Reject>
+    <Imean>   3626.64</Imean>
+    <SigImean>76.18</SigImean>
+    <Z-score>-12.34</Z-score>
+    <Completeness>1.00</Completeness>
+    <ExpectCompleteness>1.00</ExpectCompleteness>
+  </Ring>
+  <Ring>
+    <Number>45</Number>
+    <Resolution> 2.71</Resolution>
+    <Reject>  yes  </Reject>
+    <Imean>   3672.41</Imean>
+    <SigImean>73.28</SigImean>
+    <Z-score>-6.79</Z-score>
+    <Completeness>1.00</Completeness>
+    <ExpectCompleteness>1.00</ExpectCompleteness>
+  </Ring>
+  <Ring>
+    <Number>46</Number>
+    <Resolution> 2.69</Resolution>
+    <Reject>  yes  </Reject>
+    <Imean>   3132.51</Imean>
+    <SigImean>66.76</SigImean>
+    <Z-score>-14.04</Z-score>
+    <Completeness>1.00</Completeness>
+    <ExpectCompleteness>1.00</ExpectCompleteness>
+  </Ring>
+  <Ring>
+    <Number>48</Number>
+    <Resolution> 2.65</Resolution>
+    <Reject>  yes  </Reject>
+    <Imean>   3286.98</Imean>
+    <SigImean>69.16</SigImean>
+    <Z-score>-6.52</Z-score>
+    <Completeness>1.00</Completeness>
+    <ExpectCompleteness>1.00</ExpectCompleteness>
+  </Ring>
+  <Ring>
+    <Number>56</Number>
+    <Resolution> 2.51</Resolution>
+    <Reject>  yes  </Reject>
+    <Imean>   3298.21</Imean>
+    <SigImean>68.17</SigImean>
+    <Z-score>7.20</Z-score>
+    <Completeness>1.00</Completeness>
+    <ExpectCompleteness>1.00</ExpectCompleteness>
+  </Ring>
+  <Ring>
+    <Number>57</Number>
+    <Resolution> 2.49</Resolution>
+    <Reject>  yes  </Reject>
+    <Imean>   3190.93</Imean>
+    <SigImean>65.81</SigImean>
+    <Z-score>7.25</Z-score>
+    <Completeness>1.00</Completeness>
+    <ExpectCompleteness>1.00</ExpectCompleteness>
+  </Ring>
+  <Ring>
+    <Number>65</Number>
+    <Resolution> 2.38</Resolution>
+    <Reject>  yes  </Reject>
+    <Imean>   2779.27</Imean>
+    <SigImean>60.17</SigImean>
+    <Z-score>9.40</Z-score>
+    <Completeness>1.00</Completeness>
+    <ExpectCompleteness>1.00</ExpectCompleteness>
+  </Ring>
+  <Ring>
+    <Number>69</Number>
+    <Resolution> 2.33</Resolution>
+    <Reject>  yes  </Reject>
+    <Imean>   1656.01</Imean>
+    <SigImean>44.18</SigImean>
+    <Z-score>-7.47</Z-score>
+    <Completeness>1.00</Completeness>
+    <ExpectCompleteness>1.00</ExpectCompleteness>
+  </Ring>
+  <Ring>
+    <Number>71</Number>
+    <Resolution> 2.31</Resolution>
+    <Reject>  yes  </Reject>
+    <Imean>   2313.75</Imean>
+    <SigImean>55.04</SigImean>
+    <Z-score>7.11</Z-score>
+    <Completeness>1.00</Completeness>
+    <ExpectCompleteness>1.00</ExpectCompleteness>
+  </Ring>
+  <Ring>
+    <Number>77</Number>
+    <Resolution> 2.25</Resolution>
+    <Reject>  yes  </Reject>
+    <Imean>   2088.99</Imean>
+    <SigImean>62.90</SigImean>
+    <Z-score>6.81</Z-score>
+    <Completeness>1.00</Completeness>
+    <ExpectCompleteness>1.00</ExpectCompleteness>
+  </Ring>
+  <Ring>
+    <Number>84</Number>
+    <Resolution> 2.18</Resolution>
+    <Reject>  yes  </Reject>
+    <Imean>   1648.56</Imean>
+    <SigImean>48.51</SigImean>
+    <Z-score>6.42</Z-score>
+    <Completeness>1.00</Completeness>
+    <ExpectCompleteness>1.00</ExpectCompleteness>
+  </Ring>
+<Comment id='OutlierRingsAnalysis'>
+ The outlier rings table shows data Z-scores and completeness for problem resolution bins in comparison with the Wilson B-factor fit. Large z-scores and low completeness at give a strong hint to the presence of problems. It may be required to exclude these resolution ranges.
+</Comment>
+</OutlierRingsAnalysis>
+<translationalNCS>
+  <detected>No</detected>
+  <Comment id="tncs">
+No translational NCS detected.
+  </Comment>
+  <Comment id="tncsExplain">
+ The analysis uses the peak heights in the patterson map that are further than 14 A (approx. 4 Ca-Ca) from the origin.  The presence of a large off origin peak (above 20%) and/or a very low Q-score, below 1.0, is a string indicator of the presence of tNCS.  An intermidiate Q-score, between 5.0 and 1.0, may indicate weak tNCS or be the result of cross vector of a large scatterer such as a cluster or heavy metal.
+  </Comment>
+<Reference id="tncsExplain">Reference: P. Zwarts CCP4 Newsletter 42</Reference>
+</translationalNCS>
+<AnisotropyAnalysis>
+  <UAniso id="obs" type="intensity">
+    <Orthogonal>
+  0.606489   0.000000   0.000000
+  0.000000   0.606489   0.000000
+  0.000000   0.000000   0.756267
+    </Orthogonal>
+    <Fractional>
+  0.000110 0.000000 0.000000
+  0.000000 0.000110 0.000000
+  0.000000 0.000000 0.000062
+    </Fractional>
+  </UAniso>
+   <Eigenvalue id="0">  0.6065</Eigenvalue>
+  <EigenVector id="0">  1.000000 0.000000 0.000000</EigenVector>
+   <Eigenvalue id="1">  0.6065</Eigenvalue>
+  <EigenVector id="1">  0.000000 1.000000 0.000000</EigenVector>
+   <Eigenvalue id="2">  0.7563</Eigenvalue>
+  <EigenVector id="2">  0.000000 0.000000 1.000000</EigenVector>
+  <BAniso id="obs" type="amplitude">
+    <Orthogonal>
+ 23.943228 0.000000 0.000000
+  0.000000 23.943228 0.000000
+  0.000000 0.000000 29.856216
+    </Orthogonal>
+    <Fractional>
+  0.004338 0.000000 0.000000
+  0.000000 0.004338 0.000000
+  0.000000 0.000000 0.002451
+    </Fractional>
+  </BAniso>
+  <UAniso id="correction" type="amplitude">
+    <Orthogonal>
+ -0.024907 0.000000 0.000000
+  0.000000 -0.024907 0.000000
+  0.000000 0.000000 0.049813
+    </Orthogonal>
+    <Fractional>
+ -0.000005 0.000000 0.000000
+  0.000000 -0.000005 0.000000
+  0.000000 0.000000 0.000004
+    </Fractional>
+  </UAniso>
+  <Comment id="AnisotropyResult">
+Some anisotropy detetect.  This may have an effect on statistics.
+The presence of anisotropy may indicate that the crystal is poorly ordered along one of the axes.
+  </Comment>
+</AnisotropyAnalysis>
+<CCP4Table groupID="graph" id="AnisotropyAnalysis" title="Intensities Anisotropy Analysis">
+<plot>
+<title>Directional plots for mean(I)</title>
+<xscale>oneoversqrt</xscale>
+<yrange min="0" max="None"/>
+<plotline xcol="1" ycol="5" >
+<symbolsize>  0</symbolsize>
+<linestyle>-</linestyle>
+<colour>yellow</colour>
+</plotline>
+<plotline xcol="1" ycol="4" >
+<symbolsize>  0</symbolsize>
+<linestyle>-</linestyle>
+<colour>red</colour>
+</plotline>
+<plotline xcol="1" ycol="3" >
+<symbolsize>  0</symbolsize>
+<linestyle>-</linestyle>
+<colour>green</colour>
+</plotline>
+<plotline xcol="  1" ycol="  2" >
+<linestyle>-</linestyle>
+<colour>black</colour>
+</plotline>
+</plot>
+<plot>
+<title>Directorional plots for mean(I)/mean(Sigma)</title>
+<xscale>oneoversqrt</xscale>
+<yrange min="0" max="None"/>
+<plotline xcol="1" ycol="9" >
+<symbolsize>  0</symbolsize>
+<linestyle>-</linestyle>
+<colour>yellow</colour>
+</plotline>
+<plotline xcol="1" ycol="8" >
+<symbolsize>  0</symbolsize>
+<linestyle>-</linestyle>
+<colour>red</colour>
+</plotline>
+<plotline xcol="1" ycol="7" >
+<symbolsize>  0</symbolsize>
+<linestyle>-</linestyle>
+<colour>green</colour>
+</plotline>
+<plotline xcol="  1" ycol="6" >
+<linestyle>-</linestyle>
+<colour>black</colour>
+</plotline>
+</plot>
+<plot>
+<title>Directorional plots for number of reflections</title>
+<xscale>oneoversqrt</xscale>
+<yrange min="0" max="None"/>
+<plotline xcol="1" ycol="13" >
+<symbolsize>  0</symbolsize>
+<linestyle>-</linestyle>
+<colour>yellow</colour>
+</plotline>
+<plotline xcol="1" ycol="12" >
+<symbolsize>  0</symbolsize>
+<linestyle>-</linestyle>
+<colour>red</colour>
+</plotline>
+<plotline xcol="1" ycol="11" >
+<symbolsize>  0</symbolsize>
+<linestyle>-</linestyle>
+<colour>green</colour>
+</plotline>
+<plotline xcol="  1" ycol="10" >
+<linestyle>-</linestyle>
+<colour>black</colour>
+</plotline>
+</plot>
+<headers separator=" ">
+ 1/resol^2 Mn(I(d1)) Mn(I(d2)) Mn(I(d3)) Mn(I(ov) Mn(I/sd(d1)) Mn(I/sd(d2)) Mn(I/sd(d3)) Mn(I/sd(ov)) N(d1) N(d2) N(d3) N 
+ </headers>
+<data>
+ 0.0179 26840.39 26840.39 17683.88 24501.47    54.88    54.88    47.74    53.50   2240.0   2240.0   2464.0  16032.0
+ 0.0394 27325.69 27325.69 20801.35 24167.59    52.77    52.77    48.54    52.67   2184.0   2184.0   2432.0  16032.0
+ 0.0565 36446.34 36446.34 22713.31 30999.21    56.18    56.18    52.26    56.68   2128.0   2128.0   2272.0  16016.0
+ 0.0715 21747.52 21747.52 16300.16 21670.02    55.19    55.19    49.51    54.34   2200.0   2200.0   2432.0  16128.0
+ 0.0852 15784.97 15784.97 10608.50 16070.28    52.52    52.52    48.78    52.34   2120.0   2120.0   2336.0  16016.0
+ 0.0979 12087.94 12087.94  7278.30 11188.79    49.20    49.20    42.44    46.87   2128.0   2128.0   2352.0  16064.0
+ 0.1099  8876.18  8876.18  6197.12  7829.18    45.99    45.99    41.20    44.33   2232.0   2232.0   2320.0  16096.0
+ 0.1213  6366.05  6366.05  4877.96  6083.89    44.64    44.64    39.55    43.93   2160.0   2160.0   2304.0  16016.0
+ 0.1322  4522.34  4522.34  3171.63  4045.14    42.88    42.88    35.49    40.64   2168.0   2168.0   2304.0  16048.0
+ 0.1428  4280.29  4280.29  2305.57  3588.13    41.61    41.61    31.74    38.08   2096.0   2096.0   2288.0  16048.0
+ 0.1529  4117.15  4117.15  2094.98  3292.34    42.25    42.25    31.77    38.10   2112.0   2112.0   2320.0  16016.0
+ 0.1629  3690.51  3690.51  1705.87  2872.44    40.15    40.15    30.52    36.75   2200.0   2200.0   2304.0  16272.0
+ 0.1725  3385.52  3385.52  1301.28  2318.27    38.81    38.81    25.28    33.46   2184.0   2184.0   2288.0  15872.0
+ 0.1818  2524.22  2524.22   967.75  1958.88    35.60    35.60    22.04    31.39   2096.0   2096.0   2256.0  16032.0
+ 0.1909  2274.55  2274.55   896.26  1875.92    32.20    32.20    19.39    28.45   2136.0   2136.0   2272.0  16080.0
+ 0.1999  2318.79  2318.79   866.46  1748.95    30.84    30.84    17.16    25.59   2264.0   2264.0   2256.0  16096.0
+ 0.2086  2040.98  2040.98   819.39  1423.65    31.64    31.64    17.92    24.60   2040.0   2040.0   2320.0  16032.0
+ 0.2172  1522.06  1522.06   704.12  1233.45    27.33    27.33    16.33    23.52   2152.0   2152.0   2256.0  16016.0
+ 0.2256  1404.01  1404.01   568.03  1091.94    25.92    25.92    14.97    21.85   2184.0   2184.0   2272.0  15952.0
+ 0.2339  1146.56  1146.56   518.38   962.88    21.93    21.93    11.97    19.09   2128.0   2128.0   2240.0  16096.0
+ 0.2420   861.42   861.42   471.28   774.86    19.66    19.66    12.59    17.94   2224.0   2224.0   2336.0  16064.0
+ 0.2501   894.26   894.26   400.33   659.23    20.14    20.14    11.04    16.29   2128.0   2128.0   2224.0  16112.0
+ 0.2580   734.53   734.53   294.05   531.57    18.57    18.57     8.82    14.11   2136.0   2136.0   2320.0  15968.0
+ 0.2657   635.60   635.60   255.02   466.93    16.69    16.69     7.75    12.75   2144.0   2144.0   2160.0  16016.0
+ 0.2734   526.34   526.34   279.68   429.25    14.74    14.74     7.88    11.74   2192.0   2192.0   2288.0  16000.0
+ 0.2810   424.35   424.35   190.37   343.04    13.13    13.13     6.21    10.51   2128.0   2128.0   2272.0  15904.0
+ 0.2884   332.99   332.99   133.45   271.94    11.46    11.46     4.76     9.05   2112.0   2112.0   2160.0  15936.0
+ 0.2958   340.59   340.59   116.66   234.29    11.81    11.81     4.40     8.20   2168.0   2168.0   2320.0  16096.0
+ 0.3031   285.03   285.03    98.10   203.71    10.24    10.24     3.60     7.25   2128.0   2128.0   2160.0  16064.0
+ 0.3103   233.50   233.50    85.97   176.64     8.87     8.87     3.20     6.47   2272.0   2272.0   2336.0  16160.0
+ 0.3175   179.67   179.67    77.31   142.37     7.25     7.25     2.82     5.40   2008.0   2008.0   2256.0  16016.0
+ 0.3246   157.19   157.19    60.12   126.63     6.38     6.38     2.29     4.92   2296.0   2296.0   2144.0  16144.0
+ 0.3316   146.98   146.98    47.55   113.34     6.07     6.07     1.84     4.47   2040.0   2040.0   2368.0  16048.0
+ 0.3385   129.06   129.06    61.34   105.57     5.45     5.45     2.31     4.22   2200.0   2200.0   2192.0  15888.0
+ 0.3453   126.90   126.90    31.69    87.00     5.23     5.23     1.26     3.54   2200.0   2200.0   2336.0  16096.0
+ 0.3521   101.52   101.52    40.72    77.43     4.46     4.46     1.62     3.29   2104.0   2104.0   2144.0  16080.0
+ 0.3588    91.96    91.96    32.65    67.17     3.99     3.99     1.37     2.87   2128.0   2128.0   2256.0  16032.0
+ 0.3655   106.45   106.45    34.71    70.95     4.59     4.59     1.41     3.03   2184.0   2184.0   2336.0  15952.0
+ 0.3721    90.83    90.83    24.41    59.88     3.97     3.97     1.03     2.59   2104.0   2104.0   2112.0  16144.0
+ 0.3787    84.28    84.28    19.92    56.66     3.70     3.70     0.83     2.45   2176.0   2176.0   2336.0  15984.0
+ 0.3852    72.62    72.62    15.91    46.38     3.21     3.21     0.66     2.00   2272.0   2272.0   2176.0  16144.0
+ 0.3916    79.12    79.12    20.11    51.48     3.40     3.40     0.84     2.19   2032.0   2032.0   2288.0  15936.0
+ 0.3980    79.52    79.52    16.56    46.57     3.36     3.36     0.72     1.98   2136.0   2136.0   2128.0  16048.0
+ 0.4043    59.07    59.07    14.55    39.20     2.47     2.47     0.60     1.64   2288.0   2288.0   2416.0  16112.0
+ 0.4106    73.03    73.03    14.72    39.01     2.85     2.85     0.60     1.56   2008.0   2008.0   2128.0  16016.0
+ 0.4170    61.07    61.07    10.89    39.25     2.43     2.43     0.48     1.56   2208.0   2208.0   2288.0  16096.0
+ 0.4231    57.36    57.36     3.53    30.80     2.21     2.21     0.15     1.21   2328.0   2328.0   2176.0  16000.0
+ 0.4293    52.98    52.98    14.53    29.43     2.06     2.06     0.49     1.09   1976.0   1976.0   2368.0  15984.0
+ 0.4354    44.71    44.71     5.20    25.75     1.76     1.76     0.14     0.98   2136.0   2136.0   2160.0  15984.0
+</data>
+</CCP4Table>
+<AnisotropyAnalysis id='YorgoModis'>
+<Comment id='YorgoModisPlot'>
+The directional plots are along the directions of the moments of the anisotropy temperature matrix.  These are ordered such that d1 has maximum alignment with a*, d2 with b*, etc.
+</Comment>
+</AnisotropyAnalysis>
+<Twinning>
+<TwinOps>
+<Comment id='TwinOps'>No potential twinning operators found.</Comment>
+</TwinOps>
+<Comment id="IfTwinOpsPresent">
+The appearance of twinning operators only indicates that the crystal symmetry and lattice symmetry permit twinning.  It does not mean that there is twinning present.  Only the presence of statistics consistent with twinning gives a strong indicator.
+</Comment>
+  <L-test>
+     <Twinned>No</Twinned>
+     <Result>0.49631</Result>
+     <TwinFraction>0.0281634</TwinFraction>
+     <Comment id="L-test">Relation between L statistics and twinning fraction:
+  Twinning fraction = 0.000  L statistics = 0.500:
+  Twinning fraction = 0.100  L statistics = 0.440:
+  Twinning fraction = 0.500  L statistics = 0.375:</Comment>
+  </L-test>
+  <Moments id="acentric" type="intensity">
+    <Moment id="&lt;I^2&gt;/&lt;I&gt;^2">
+       <value id="&lt;I^2&gt;/&lt;I&gt;^2"> 2.049</value>
+       <untwinned id="&lt;I^2&gt;/&lt;I&gt;^2"> 2.000 </untwinned>
+       <twinned id="&lt;I^2&gt;/&lt;I&gt;^2"> 1.500 </twinned>
+    </Moment>
+    <Moment id="&lt;I^3&gt;/&lt;I&gt;^3">
+       <value id="&lt;I^3&gt;/&lt;I&gt;^3"> 6.367</value>
+       <untwinned id="&lt;I^3&gt;/&lt;I&gt;^3"> 6.000 </untwinned>
+       <twinned id="&lt;I^3&gt;/&lt;I&gt;^3"> 3.000 </twinned>
+    </Moment>
+    <Moment id="&lt;I^4&gt;/&lt;I&gt;^4">
+       <value id="&lt;I^4&gt;/&lt;I&gt;^4">26.154</value>
+       <untwinned id="&lt;I^4&gt;/&lt;I&gt;^4">24.000 </untwinned>
+       <twinned id="&lt;I^4&gt;/&lt;I&gt;^4"> 7.500 </twinned>
+    </Moment>
+  </Moments>
+  <Moments id="centric" type="intensity">
+    <Moment id="&lt;I^2&gt;/&lt;I&gt;^2">
+       <value id="&lt;I^2&gt;/&lt;I&gt;^2"> 3.270</value>
+       <untwinned id="&lt;I^2&gt;/&lt;I&gt;^2"> 3.000 </untwinned>
+       <twinned id="&lt;I^2&gt;/&lt;I&gt;^2"> 2.000 </twinned>
+    </Moment>
+    <Moment id="&lt;I^3&gt;/&lt;I&gt;^3">
+       <value id="&lt;I^3&gt;/&lt;I&gt;^3">18.399</value>
+       <untwinned id="&lt;I^3&gt;/&lt;I&gt;^3">15.000 </untwinned>
+       <twinned id="&lt;I^3&gt;/&lt;I&gt;^3"> 6.000 </twinned>
+    </Moment>
+    <Moment id="&lt;I^4&gt;/&lt;I&gt;^4">
+       <value id="&lt;I^4&gt;/&lt;I&gt;^4">146.405</value>
+       <untwinned id="&lt;I^4&gt;/&lt;I&gt;^4">105.000 </untwinned>
+       <twinned id="&lt;I^4&gt;/&lt;I&gt;^4">24.000 </twinned>
+    </Moment>
+  </Moments>
+<CCP4Table groupID="graphMoments" id="acentricMoments" title="intensity moments vs resolution">
+<plot>
+<title>Intensity second moment &lt;|I^2|&gt;: 2.05</title>
+<xscale>oneoversqrt</xscale>
+<yrange min="0" max="None"/>
+<plotline xcol="1" ycol="2" >
+<symbolsize>  0</symbolsize>
+<linestyle>-</linestyle>
+<colour>red</colour>
+</plotline>
+<line x1="   0.0000" x2="   1.0000" y1="   2.0000" y2="   2.0000" linestyle="-" linecolour="black"/>
+<line x1="   0.0000" x2="   1.0000" y1="   1.5000" y2="   1.5000" linestyle="-" linecolour="black"/>
+<line x1="   0.0000" x2="   1.0000" y1="   2.0493" y2="   2.0493" linestyle="-" linecolour="red"/>
+</plot>
+<plot>
+<title>Intensity third moment &lt;|I^3|&gt;: 6.37</title>
+<xscale>oneoversqrt</xscale>
+<yrange min="0" max="None"/>
+<plotline xcol="1" ycol="3" >
+<symbolsize>  0</symbolsize>
+<linestyle>-</linestyle>
+<colour>red</colour>
+</plotline>
+<line x1="   0.0000" x2="   1.0000" y1="   6.0000" y2="   6.0000" linestyle="-" linecolour="black"/>
+<line x1="   0.0000" x2="   1.0000" y1="   3.0000" y2="   3.0000" linestyle="-" linecolour="black"/>
+<line x1="   0.0000" x2="   1.0000" y1="   6.3666" y2="   6.3666" linestyle="-" linecolour="red"/>
+</plot>
+<plot>
+<title>Intensity fourth moment &lt;|I^4|&gt;: 26.15</title>
+<xscale>oneoversqrt</xscale>
+<yrange min="0" max="None"/>
+<plotline xcol="1" ycol="4" >
+<symbolsize>  0</symbolsize>
+<linestyle>-</linestyle>
+<colour>red</colour>
+</plotline>
+<line x1="   0.0000" x2="   1.0000" y1="  24.0000" y2="  24.0000" linestyle="-" linecolour="black"/>
+<line x1="   0.0000" x2="   1.0000" y1="   7.5000" y2="   7.5000" linestyle="-" linecolour="black"/>
+<line x1="   0.0000" x2="   1.0000" y1="  26.1544" y2="  26.1544" linestyle="-" linecolour="red"/>
+</plot>
+<headers separator=" ">
+ 1/resol^2 &lt;I^2&gt; &lt;I^3&gt; &lt;I^4&gt;
+ </headers>
+<data>
+  0.0163 2.1916  7.5979 34.5566
+  0.0330 1.9662  5.4837 18.8964
+  0.0454 1.9033  5.1045 17.0886
+  0.0561 2.0144  6.3227 27.0680
+  0.0657 1.9718  5.7675 21.5504
+  0.0745 1.8113  4.6767 15.7499
+  0.0829 1.9785  5.9510 24.2862
+  0.0908 2.1120  7.5681 37.7788
+  0.0983 1.8565  5.0374 17.7634
+  0.1055 1.8489  4.9114 16.5081
+  0.1125 2.0192  6.4166 29.5196
+  0.1192 1.9642  5.8357 22.7894
+  0.1258 1.9934  6.0766 25.0802
+  0.1322 1.9644  5.3848 17.9827
+  0.1383 2.0202  6.1939 24.8056
+  0.1444 2.1237  7.0342 31.3634
+  0.1503 2.0085  5.9769 23.0379
+  0.1561 2.1350  6.9000 28.5515
+  0.1618 2.0846  6.5600 26.2133
+  0.1674 1.8933  5.1569 17.7266
+  0.1728 2.0971  6.6222 26.6343
+  0.1782 2.1419  6.8780 28.2477
+  0.1836 2.0426  6.3515 26.2544
+  0.1887 2.0074  5.7529 20.8604
+  0.1939 2.0785  6.2075 23.1630
+  0.1990 2.1972  7.5583 34.2243
+  0.2039 2.0801  6.5254 27.7117
+  0.2090 2.0547  6.4860 27.5342
+  0.2138 2.2020  7.9610 42.1872
+  0.2187 2.0684  6.4179 25.6908
+  0.2234 2.2167  8.1960 41.6856
+  0.2281 2.1140  6.4200 24.1758
+  0.2328 1.9982  5.8280 21.2780
+  0.2374 2.1123  6.6676 26.9755
+  0.2419 2.0963  6.3060 23.0807
+  0.2465 2.1514  7.0132 29.6230
+  0.2509 2.1426  6.9956 29.5827
+  0.2554 2.1887  7.9439 40.0594
+  0.2598 2.1905  7.0074 28.0461
+  0.2641 1.9835  5.8694 22.4663
+  0.2685 2.2721  8.2939 43.6237
+  0.2728 1.9151  5.4296 19.3594
+  0.2771 2.0682  6.3326 26.6015
+  0.2813 1.9527  5.3431 17.8414
+  0.2855 2.2034  7.4179 33.1536
+  0.2897 2.1700  6.6679 24.7658
+  0.2938 2.1881  6.9409 27.6671
+  0.2978 2.1408  7.0220 30.6894
+  0.3019 2.0969  6.9607 32.3913
+  0.3060 2.1607  6.9191 28.1832
+  0.3099 2.0704  6.0846 22.2114
+  0.3139 2.1693  6.6836 26.3034
+  0.3179 2.2394  7.8094 37.4038
+  0.3218 2.1443  6.8879 29.2837
+  0.3257 2.2445  8.1642 43.5124
+  0.3295 2.1913  7.2720 31.7816
+  0.3334 2.1960  6.9690 28.4738
+  0.3373 2.1463  7.3266 34.0415
+  0.3410 2.2546  7.3425 31.1676
+  0.3448 2.4947  9.4616 46.8678
+  0.3486 2.0560  5.7909 20.6737
+  0.3524 2.2899  7.3864 29.3427
+  0.3561 2.2310  6.8679 25.9082
+  0.3597 2.3876  8.5589 42.6592
+  0.3634 2.3938  8.5887 42.5949
+  0.3671 2.4148  8.7262 41.6440
+  0.3708 2.3991  8.0879 34.5314
+  0.3743 2.4005  8.6670 43.7115
+  0.3779 2.3606  8.1481 37.2161
+  0.3816 2.4690  8.2518 34.7510
+  0.3851 2.6697  9.7246 46.8900
+  0.3887 2.0083  5.7014 21.5545
+  0.3922 2.4085  7.3592 26.8880
+  0.3957 2.8293  10.1431 44.4150
+  0.3993 2.4332  7.9242 32.5709
+  0.4027 2.2857  7.1531 30.1501
+  0.4062 2.7201  9.8184 45.8059
+  0.4096 2.7229  9.3821 40.7849
+  0.4130 2.4515  8.3126 37.6338
+  0.4165 2.4257  7.4290 28.0910
+  0.4199 3.3582  13.8224 71.5496
+  0.4233 3.0452  11.0155 48.6138
+  0.4266 12.4555  119.7307 1463.1466
+  0.4301 2.9132  9.7276 39.4077
+  0.4334 2.2539  8.8781 66.7853
+  0.4368 27.3249  380.3164 6636.0686
+</data>
+</CCP4Table>
+<CCP4Table groupID="graphMoments" id="centricMoments" title="intensity moments vs resolution">
+<plot>
+<title>Intensity second moment &lt;|I^2|&gt;: 3.27</title>
+<xscale>oneoversqrt</xscale>
+<yrange min="0" max="None"/>
+<plotline xcol="1" ycol="2" >
+<symbolsize>  0</symbolsize>
+<linestyle>-</linestyle>
+<colour>red</colour>
+</plotline>
+<line x1="   0.0000" x2="   1.0000" y1="   3.0000" y2="   3.0000" linestyle="-" linecolour="black"/>
+<line x1="   0.0000" x2="   1.0000" y1="   2.0000" y2="   2.0000" linestyle="-" linecolour="black"/>
+<line x1="   0.0000" x2="   1.0000" y1="   3.2701" y2="   3.2701" linestyle="-" linecolour="red"/>
+</plot>
+<plot>
+<title>Intensity third moment &lt;|I^3|&gt;: 18.40</title>
+<xscale>oneoversqrt</xscale>
+<yrange min="0" max="None"/>
+<plotline xcol="1" ycol="3" >
+<symbolsize>  0</symbolsize>
+<linestyle>-</linestyle>
+<colour>red</colour>
+</plotline>
+<line x1="   0.0000" x2="   1.0000" y1="  15.0000" y2="  15.0000" linestyle="-" linecolour="black"/>
+<line x1="   0.0000" x2="   1.0000" y1="   6.0000" y2="   6.0000" linestyle="-" linecolour="black"/>
+<line x1="   0.0000" x2="   1.0000" y1="  18.3990" y2="  18.3990" linestyle="-" linecolour="red"/>
+</plot>
+<plot>
+<title>Intensity fourth moment &lt;|I^4|&gt;: 146.41</title>
+<xscale>oneoversqrt</xscale>
+<yrange min="0" max="None"/>
+<plotline xcol="1" ycol="4" >
+<symbolsize>  0</symbolsize>
+<linestyle>-</linestyle>
+<colour>red</colour>
+</plotline>
+<line x1="   0.0000" x2="   1.0000" y1=" 105.0000" y2=" 105.0000" linestyle="-" linecolour="black"/>
+<line x1="   0.0000" x2="   1.0000" y1="  24.0000" y2="  24.0000" linestyle="-" linecolour="black"/>
+<line x1="   0.0000" x2="   1.0000" y1=" 146.4050" y2=" 146.4050" linestyle="-" linecolour="red"/>
+</plot>
+<headers separator=" ">
+ 1/resol^2 &lt;I^2&gt; &lt;I^3&gt; &lt;I^4&gt;
+ </headers>
+<data>
+  0.0212 2.8330  13.2206 82.3607
+  0.0613 3.1715  17.4574 131.5466
+  0.1011 3.5299  23.5397 220.2832
+  0.1410 2.9285  13.4043 75.9198
+  0.1807 3.2642  21.3775 227.2837
+  0.2202 3.0882  15.1073 96.8253
+  0.2600 3.6127  21.0936 154.2203
+  0.2998 3.0180  13.4292 75.1210
+  0.3395 4.2651  39.6090 612.8939
+  0.3792 3.8210  22.7630 184.5077
+  0.4188 5.6056  35.9198 308.3361
+</data>
+</CCP4Table>
+<Moments>
+  <Comment id='MomentsReso'>
+The acentric moments plot can also give an indication of the quality of the high resolution data.  Large deviations often indicate bias in the data.
+  </Comment>
+</Moments>
+  <Comment id="TwinningSummary">
+NO Twinning detected
+  </Comment>
+  <Comment id="TwinningGlobal">
+ These tests rely on the fact that it is highly improbably that very weak or very strong reflections will coincide, therefore, the tails for the distribution of twinned datasets will be less pronounced
+ </Comment>
+<CCP4Table groupID="graph" id="Cumulative intensity distribution" title="Cumulative intensity distribution">
+<plot>
+<title>Cumulative intensity distribution (Acentric and centric)</title>
+<yrange min="0" max="None"/>
+<plotline xcol="1" ycol="6" >
+<symbolsize>  2</symbolsize>
+<linestyle>-</linestyle>
+<colour>red</colour>
+</plotline>
+<plotline xcol="1" ycol="5" >
+<symbolsize>  0</symbolsize>
+<linestyle>-</linestyle>
+<colour>red</colour>
+</plotline>
+<plotline xcol="1" ycol="4" >
+<symbolsize>  2</symbolsize>
+<linestyle>-</linestyle>
+<colour>black</colour>
+</plotline>
+<plotline xcol="1" ycol="3" >
+<symbolsize>  0</symbolsize>
+<linestyle>-</linestyle>
+<colour>blue</colour>
+</plotline>
+<plotline xcol="  1" ycol="2" >
+<symbolsize>  0</symbolsize>
+<linestyle>-</linestyle>
+<colour>black</colour>
+</plotline>
+</plot>
+<headers separator=" ">
+ Z Acent_theor Acent_twin Acent_obser Cent_theor Cent_obser 
+ </headers>
+<data>
+      0.0000 0.0000 0.0000 0.0775 0.00000.1219
+      0.0400 0.0392 0.0030 0.1016 0.15850.1927
+      0.0800 0.0769 0.0115 0.1304 0.22270.2440
+      0.1200 0.1131 0.0246 0.1588 0.27100.2829
+      0.1600 0.1479 0.0415 0.1869 0.31080.3151
+      0.2000 0.1813 0.0616 0.2140 0.34530.3439
+      0.2400 0.2134 0.0842 0.2415 0.37580.3706
+      0.2800 0.2442 0.1089 0.2677 0.40330.3962
+      0.3200 0.2739 0.1352 0.2941 0.42840.4178
+      0.3600 0.3023 0.1628 0.3188 0.45150.4366
+      0.4000 0.3297 0.1912 0.3437 0.47290.4577
+      0.4400 0.3560 0.2202 0.3670 0.49290.4780
+      0.4800 0.3812 0.2495 0.3902 0.51160.4954
+      0.5200 0.4055 0.2790 0.4117 0.52920.5123
+      0.5600 0.4288 0.3083 0.4328 0.54570.5275
+      0.6000 0.4512 0.3374 0.4535 0.56140.5424
+      0.6400 0.4727 0.3661 0.4742 0.57630.5581
+      0.6800 0.4934 0.3943 0.4927 0.59040.5727
+      0.7200 0.5132 0.4219 0.5112 0.60390.5864
+      0.7600 0.5323 0.4488 0.5302 0.61670.5978
+      0.8000 0.5507 0.4751 0.5478 0.62890.6089
+      0.8400 0.5683 0.5005 0.5647 0.64060.6185
+      0.8800 0.5852 0.5252 0.5801 0.65180.6295
+      0.9200 0.6015 0.5490 0.5951 0.66250.6427
+      0.9600 0.6171 0.5719 0.6101 0.67280.6529
+      1.0000 0.6321 0.5940 0.6238 0.68270.6625
+      1.0400 0.6465 0.6152 0.6373 0.69220.6728
+      1.0800 0.6604 0.6356 0.6504 0.70130.6828
+      1.1200 0.6737 0.6551 0.6629 0.71010.6921
+      1.1600 0.6865 0.6737 0.6746 0.71850.7008
+      1.2000 0.6988 0.6916 0.6856 0.72670.7099
+      1.2400 0.7106 0.7086 0.6971 0.73450.7202
+      1.2800 0.7220 0.7248 0.7076 0.74210.7280
+      1.3200 0.7329 0.7402 0.7179 0.74940.7356
+      1.3600 0.7433 0.7549 0.7283 0.75650.7444
+      1.4000 0.7534 0.7689 0.7382 0.76330.7497
+      1.4400 0.7631 0.7822 0.7478 0.76990.7568
+      1.4800 0.7724 0.7948 0.7558 0.77620.7634
+      1.5200 0.7813 0.8067 0.7649 0.78240.7703
+      1.5600 0.7899 0.8181 0.7732 0.78830.7780
+      1.6000 0.7981 0.8288 0.7816 0.79410.7855
+      1.6400 0.8060 0.8390 0.7893 0.79970.7920
+      1.6800 0.8136 0.8486 0.7972 0.80510.7965
+      1.7200 0.8209 0.8576 0.8044 0.81030.8018
+      1.7600 0.8280 0.8662 0.8113 0.81540.8075
+      1.8000 0.8347 0.8743 0.8178 0.82030.8138
+      1.8400 0.8412 0.8820 0.8242 0.82500.8203
+      1.8800 0.8474 0.8892 0.8309 0.82970.8250
+      1.9200 0.8534 0.8960 0.8367 0.83410.8286
+      1.9600 0.8591 0.9024 0.8426 0.83850.8342
+      2.0000 0.8647 0.9084 0.8484 0.84270.8384
+</data>
+</CCP4Table>
+<Comment id="NZ">
+The culmulative intensity, N(Z), plot is diagnostic for both twinning and tNCS.  For twinned data there are fewer weak reflections, therefore, N(Z) is sigmoidal for twinned data.  However, if both twinning and tNCS are present, the effects may cancel each out. Therefore the results of the L-test and patterson test should be consulted
+</Comment>
+<CCP4Table groupID="graph" id="L-test" title="L-test for twinning">
+<plot>
+<title>cumulative distribution function for |L|, twin fraction of 0.03</title>
+<yrange min="0" max="None"/>
+<plotline xcol="1" ycol="4" >
+<symbolsize>  0</symbolsize>
+<linestyle>-</linestyle>
+<colour>red</colour>
+</plotline>
+<plotline xcol="1" ycol="3" >
+<symbolsize>  0</symbolsize>
+<linestyle>-</linestyle>
+<colour>green</colour>
+</plotline>
+<plotline xcol="  1" ycol="  2" >
+<linestyle>-</linestyle>
+<colour>black</colour>
+</plotline>
+</plot>
+<headers separator=" ">
+ |L| N(L) Untwinned Twinned 
+ </headers>
+<data>
+ 0.0000 0.0000 0.0000 0.0000
+ 0.0500 0.0531 0.0500 0.0749
+ 0.1000 0.1036 0.1000 0.1495
+ 0.1500 0.1537 0.1500 0.2233
+ 0.2000 0.2035 0.2000 0.2960
+ 0.2500 0.2534 0.2500 0.3672
+ 0.3000 0.3033 0.3000 0.4365
+ 0.3500 0.3529 0.3500 0.5036
+ 0.4000 0.4026 0.4000 0.5680
+ 0.4500 0.4528 0.4500 0.6294
+ 0.5000 0.5024 0.5000 0.6875
+ 0.5500 0.5530 0.5500 0.7418
+ 0.6000 0.6033 0.6000 0.7920
+ 0.6500 0.6528 0.6500 0.8377
+ 0.7000 0.7032 0.7000 0.8785
+ 0.7500 0.7534 0.7500 0.9141
+ 0.8000 0.8046 0.8000 0.9440
+ 0.8500 0.8552 0.8500 0.9679
+ 0.9000 0.9064 0.9000 0.9855
+ 0.9500 0.9568 0.9500 0.9963
+ 1.0000 1.0000 1.0000 1.0000
+</data>
+</CCP4Table>
+<Comment id="LTestDesc">
+The Cumulative |L| plot for acentric data, where L = (I1-I2)/(I1+I2). This depends on the local difference in intensities.  The difference operators used link to the neighbouring reflections taking into account possible tNCS operators.  Note that this estimate is not as reliable as obtained via the H-test or ML Britton test if twin laws are available.  However, it is less prone to the effects of anisotropy than the H-test.
+</Comment>
+<Reference id="LTest">
+Reference: Padilla, Yeates. A statistic for local intensity differences: robustness to anisotropy and pseudo-centering and utility for detecting twinning. Acta Cryst. D59, 1124-30, 2003
+</Reference>
+</Twinning>
+</CTRUNCATE>

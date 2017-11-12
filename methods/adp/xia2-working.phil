@@ -1,0 +1,330 @@
+general {
+  check_image_files_readable = True
+  backstop_mask = None
+}
+xds {
+  z_min = 0.0
+  delphi = 5
+  delphi_small = 30
+  untrusted_ellipse = None
+  untrusted_rectangle = None
+  trusted_region = None
+  profile_grid_size = None
+  keep_outliers = False
+  correct {
+    refine = *DISTANCE *BEAM *AXIS *ORIENTATION *CELL *POSITION
+    air = None
+  }
+  integrate {
+    refine = *ORIENTATION *CELL *BEAM *DISTANCE AXIS *POSITION
+    refine_final = *ORIENTATION *CELL BEAM DISTANCE AXIS POSITION
+    fix_scale = False
+    delphi = 0
+    reflecting_range = 0
+    reflecting_range_esd = 0
+    beam_divergence = 0
+    beam_divergence_esd = 0
+    reintegrate = true
+  }
+  init {
+    fix_scale = False
+  }
+  defpix {
+    value_range_for_trusted_detector_pixels = None
+  }
+  index {
+    refine = *ORIENTATION *CELL *BEAM *DISTANCE *AXIS *POSITION
+    debug = *OFF ON
+    xparm = None
+    xparm_ub = None
+  }
+  colspot {
+    minimum_pixels_per_spot = 1
+  }
+  xscale {
+    min_isigma = 3.0
+    zero_dose = False
+  }
+  merge2cbf {
+    merge_n_images = 2
+    data_range = None
+    moving_average = False
+  }
+}
+dials {
+  fix_geometry = False
+  outlier {
+    algorithm = null *auto mcd tukey sauter_poon
+  }
+  fast_mode = False
+  close_to_spindle_cutoff = 0.02
+  masking {
+    border = 0
+    use_trusted_range = True
+    d_min = None
+    d_max = None
+    resolution_range = None
+    untrusted {
+      panel = 0
+      circle = None
+      rectangle = None
+      polygon = None
+    }
+    ice_rings {
+      filter = False
+      unit_cell = 4.498,4.498,7.338,90,90,120
+      space_group = 194
+      width = 0.002
+      d_min = None
+    }
+  }
+  find_spots {
+    phil_file = None
+    min_spot_size = Auto
+    min_local = 0
+    sigma_strong = None
+    filter_ice_rings = False
+    kernel_size = 3
+    global_threshold = None
+  }
+  index {
+    phil_file = None
+    method = fft1d *fft3d real_space_grid_search
+    max_cell = 0.0
+    fft3d.n_points = None
+    reflections_per_degree = 100
+    histogram_binning = linear log
+  }
+  refine {
+    phil_file = None
+    scan_static = True
+    scan_varying = True
+    interval_width_degrees = 36.0
+    reflections_per_degree = 100
+  }
+  integrate {
+    phil_file = None
+    background_outlier_algorithm = *null nsigma truncated normal tukey mosflm
+    background_algorithm = simple null *glm
+    include_partials = True
+    mosaic = *old new
+  }
+}
+ccp4 {
+  reindex {
+    program = 'pointless'
+  }
+  aimless {
+    intensities = summation profile *combine
+    surface_tie = 0.001
+    surface_link = True
+    secondary = 6
+  }
+  pointless {
+    chirality = chiral nonchiral centrosymmetric
+  }
+  truncate {
+    program = 'ctruncate'
+  }
+}
+strategy {
+  name = None
+  description = None
+  i_over_sigi = 2.0
+  minimize_total_time = False
+  target_resolution = None
+  max_total_exposure = None
+  anomalous = False
+  dose_rate = 0.0
+  shape = 1.0
+  susceptibility = 1.0
+  completeness = 0.99
+  multiplicity = None
+  phi_range = None
+  min_oscillation_width = 0.05
+  xml_out = None
+  max_rotation_speed = None
+  min_exposure = None
+}
+xia2.settings {
+  pipeline = 2d 2di *3d 3dd 3di 3dii dials
+  small_molecule = False
+  failover = False
+  multi_crystal = False
+  interactive = False
+  project = 'AUTOMATIC'
+  crystal = 'DEFAULT'
+  input {
+    atom = None
+    anomalous = false
+    working_directory = None
+    image = None
+    json = None
+    reference_geometry = None
+    xinfo = /Users/jfraser/METHODS_XIA2/adp/automatic.xinfo
+    reverse_phi = False
+    gain = None
+    min_images = 10
+    min_oscillation_range = None
+    tolerance {
+      beam {
+        wavelength = 1e-6
+        direction = 1e-6
+        polarization_normal = 1e-6
+        polarization_fraction = 1e-6
+      }
+      detector {
+        fast_axis = 1e-6
+        slow_axis = 1e-6
+        origin = 5e-2
+      }
+      goniometer {
+        rotation_axis = 1e-6
+        fixed_rotation = 1e-6
+        setting_rotation = 1e-6
+      }
+      scan {
+        oscillation = 0.01
+      }
+    }
+    geometry {
+      beam {
+        wavelength = None
+        direction = None
+      }
+      detector {
+        panel {
+          id = 0
+          name = None
+          type = None
+          pixel_size = None
+          image_size = None
+          trusted_range = None
+          thickness = None
+          material = None
+          fast_axis = None
+          slow_axis = None
+          origin = None
+          parallax_correction = None
+        }
+        hierarchy {
+          name = None
+          fast_axis = None
+          slow_axis = None
+          origin = None
+          group {
+            id = None
+            name = None
+            fast_axis = None
+            slow_axis = None
+            origin = None
+            panel = None
+          }
+        }
+        mosflm_beam_centre = None
+        distance = None
+        slow_fast_beam_centre = None
+      }
+      goniometer {
+        axes = None
+        angles = None
+        names = None
+        scan_axis = None
+        fixed_rotation = None
+        setting_rotation = None
+      }
+      scan {
+        image_range = None
+        extrapolate_scan = False
+        oscillation = None
+      }
+      convert_stills_to_sweeps = False
+      convert_sweeps_to_stills = False
+    }
+    format {
+      dynamic_shadowing = False
+      multi_panel = False
+    }
+  }
+  sweep {
+    id = None
+    range = None
+    exclude = False
+  }
+  scale {
+    directory = Auto
+    free_fraction = 0.05
+    free_total = None
+    freer_file = None
+    reference_reflection_file = None
+    model = *decay *modulation *absorption partiality
+    scales = *rotation batch
+    two_theta_refine = True
+  }
+  space_group = P4322
+  unit_cell = None
+  resolution {
+    keep_all_reflections = false
+    d_max = None
+    d_min = None
+    rmerge = None
+    completeness = None
+    cc_half = 0.5
+    cc_half_method = *half_dataset sigma_tau
+    cc_half_significance_level = None
+    cc_half_fit = *polynomial tanh
+    isigma = 0.25
+    misigma = 1.0
+    nbins = 100
+    binning_method = *counting_sorted volume
+    anomalous = False
+  }
+  unify_setting = False
+  trust_beam_centre = False
+  wavelength_tolerance = 0.00005
+  read_all_image_headers = True
+  detector_distance = None
+  show_template = False
+  untrusted_rectangle_indexing = None
+  xds_cell_deviation = 0.05, 5.0
+  xds_check_cell_deviation = False
+  use_brehm_diederichs = False
+  integration {
+    profile_fitting = True
+    exclude_ice_regions = False
+  }
+  developmental {
+    use_dials_spotfinder = False
+    pointless_tolerance = 0.0
+    detector_id = None
+  }
+  multi_sweep_indexing = False
+  remove_blanks = False
+  integrate_p1 = False
+  reintegrate_correct_lattice = True
+  lattice_rejection = True
+  lattice_rejection_threshold = 1.5
+  xds {
+    geometry_x = None
+    geometry_y = None
+  }
+  indexer = mosflm labelit labelitii *xds xdsii xdssum dials
+  refiner = mosflm *xds dials
+  integrater = mosflmr *xdsr mosflm xds dials
+  scaler = ccp4a *xdsa
+  merging_statistics {
+    source = aimless *cctbx
+    n_bins = 20
+    use_internal_variance = False
+    eliminate_sys_absent = False
+  }
+  verbose = False
+  multiprocessing {
+    mode = *serial parallel
+    nproc = 4
+    njob = 1
+    type = *simple qsub
+    qsub_command = ''
+  }
+}
+

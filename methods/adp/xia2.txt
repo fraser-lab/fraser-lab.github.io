@@ -1,0 +1,133 @@
+Environment configuration...
+Python => /opt/sbgrid/i386-mac/ccp4/7.0/ccp4-7.0/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python
+CCTBX => /programs/i386-mac/ccp4/7.0/ccp4-7.0/lib/py2/site-packages
+CCP4 => /programs/i386-mac/ccp4/7.0/ccp4-7.0
+CLIBD => /programs/i386-mac/ccp4/7.0/ccp4-7.0/lib/data
+CCP4_SCR => /var/folders/6_/99z9p_cd6vn6nvwkq7wkwm8w0000gn/T/tmpmslV1j
+Starting directory: /Users/jfraser/METHODS_XIA2/adp
+Working directory: /Users/jfraser/METHODS_XIA2/adp
+Free space:        604.87 GB
+Contact: xia2.support@gmail.com
+XIA2 0.5.337-g4c821dce-dials-1.6
+DIALS 1.6.3-g2108d754-release
+CCP4 7.0.045
+Command line: xia2 pipeline=3d space_group=P4322 ../../METHODS/c23_high/
+------------------- Autoindexing SWEEP1 --------------------
+All possible indexing solutions:
+tP  74.30  74.30 110.30  90.00  90.00  90.00
+oC 104.90 105.10 110.30  90.00  90.00  90.00
+oP  74.30  74.30 110.30  90.00  90.00  90.00
+mC 104.90 105.10 110.30  90.00  90.20  90.00
+mP  74.30  74.30 110.30  90.00  90.20  90.00
+aP  74.30  74.30 110.30  90.20  90.20  90.10
+Indexing solution:
+tP  74.27  74.27 110.32  90.00  90.00  90.00
+-------------------- Integrating SWEEP1 --------------------
+Processed batches 1 to 180
+Standard Deviation in pixel range: 0.66 1.57
+Integration status per image (60/record):
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%oooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooo%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+"o" => good        "%" => ok        "!" => bad rmsd
+"O" => overloaded  "#" => many bad  "." => weak
+"@" => abandoned
+Maximum relative deviation in cell: 0.003
+Mosaic spread: 0.272 < 0.348 < 0.397
+-------------------- Integrating SWEEP1 --------------------
+Processed batches 1 to 180
+Standard Deviation in pixel range: 0.68 1.62
+Integration status per image (60/record):
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%ooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+ooooooooooooooo%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+"o" => good        "%" => ok        "!" => bad rmsd
+"O" => overloaded  "#" => many bad  "." => weak
+"@" => abandoned
+Maximum relative deviation in cell: 0.003
+Mosaic spread: 0.256 < 0.256 < 0.256
+-------------------- Preparing DEFAULT ---------------------
+--------------------- Scaling DEFAULT ----------------------
+Excluding outlier reflections Z > 0.00
+--------------------- Scaling DEFAULT ----------------------
+Excluding outlier reflections Z > 0.00
+--------------------- Scaling DEFAULT ----------------------
+Excluding outlier reflections Z > 0.00
+--------------------- Scaling DEFAULT ----------------------
+Excluding outlier reflections Z > 0.00
+--------------------- Scaling DEFAULT ----------------------
+Excluding outlier reflections Z > 0.00
+--------------------- Scaling DEFAULT ----------------------
+Excluding outlier reflections Z > 0.00
+--------------------- Scaling DEFAULT ----------------------
+Excluding outlier reflections Z > 0.00
+--------------------- Scaling DEFAULT ----------------------
+Excluding outlier reflections Z > 0.00
+--------------------- Scaling DEFAULT ----------------------
+Excluding outlier reflections Z > 0.00
+--------------------- Scaling DEFAULT ----------------------
+Excluding outlier reflections Z > 0.00
+--------------------- Scaling DEFAULT ----------------------
+Excluding outlier reflections Z > 0.00
+--------------------- Scaling DEFAULT ----------------------
+Resolution for sweep NATIVE/SWEEP1: 1.51 (merged <I/sigI> > 1.0)
+--------------------- Scaling DEFAULT ----------------------
+Excluding outlier reflections Z > 0.00
+--------------------- Scaling DEFAULT ----------------------
+Likely spacegroups:
+P 43 2 2
+Reindexing to first spacegroup setting: P 43 2 2 (h,k,l)
+Overall twinning score: 2.12
+Your data do not appear twinned
+Project: AUTOMATIC
+Crystal: DEFAULT
+Sequence: 
+Wavelength name: NATIVE
+Wavelength 1.11583
+Sweeps:
+SWEEP SWEEP1 [WAVELENGTH NATIVE]
+TEMPLATE test_1_#####.cbf
+DIRECTORY /Users/jfraser/METHODS/c23_high
+IMAGES (USER) 1 to 180
+MTZ file: /Users/jfraser/METHODS_XIA2/adp/DEFAULT/NATIVE/SWEEP1/integrate/INTEGRATE_reindex.mtz
+For AUTOMATIC/DEFAULT/NATIVE                 Overall    Low     High
+High resolution limit                           1.51    4.10    1.51
+Low resolution limit                           37.15   37.16    1.54
+Completeness                                  100.0   100.0    99.7
+Multiplicity                                   12.3    11.3    11.4
+I/sigma                                        19.0    53.7     1.0
+Rmerge(I)                                     0.053   0.035   2.466
+Rmerge(I+/-)                                  0.051   0.035   2.378
+Rmeas(I)                                      0.055   0.037   2.584
+Rmeas(I+/-)                                   0.056   0.038   2.610
+Rpim(I)                                       0.016   0.011   0.764
+Rpim(I+/-)                                    0.021   0.014   1.066
+CC half                                       0.999   0.999   0.559
+Wilson B factor                              26.606
+Anomalous completeness                         99.9   100.0    99.7
+Anomalous multiplicity                          6.5     6.6     5.9
+Anomalous correlation                        -0.314  -0.342   0.018
+Anomalous slope                               0.827
+Total observations                           604593   30765   27050
+Total unique                                  49176    2720    2377
+Assuming spacegroup: P 43 2 2
+Unit cell:
+ 74.290  74.290 110.370
+ 90.000  90.000  90.000
+mtz format:
+Scaled reflections: /Users/jfraser/METHODS_XIA2/adp/DataFiles/AUTOMATIC_DEFAULT_free.mtz
+mtz_unmerged format:
+Scaled reflections (NATIVE): /Users/jfraser/METHODS_XIA2/adp/DataFiles/AUTOMATIC_DEFAULT_scaled_unmerged.mtz
+sca format:
+Scaled reflections (NATIVE): /Users/jfraser/METHODS_XIA2/adp/DataFiles/AUTOMATIC_DEFAULT_scaled.sca
+sca_unmerged format:
+Scaled reflections (NATIVE): /Users/jfraser/METHODS_XIA2/adp/DataFiles/AUTOMATIC_DEFAULT_scaled_unmerged.sca
+hkl format:
+Processing took 01h 22m 46s
+XIA2 used... ccp4, pointless, xds, xia2
+Here are the appropriate citations (BIBTeX in xia2-citations.bib.)
+Evans, P. (2006) Acta Cryst. D62, 72-82.
+Kabsch, W. (2010) Acta Cryst. D66, 125-132.
+Winn, M. D. et al. (2011) Acta Cryst. D67, 235-242.
+Winter, G. (2010) J. Appl. Cryst. 43, 186-190.
+Status: normal termination

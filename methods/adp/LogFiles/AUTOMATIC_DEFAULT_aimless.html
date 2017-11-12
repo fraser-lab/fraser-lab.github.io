@@ -1,0 +1,1009 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="generator" content="Docutils 0.12: http://docutils.sourceforge.net/" />
+<title></title>
+<style type="text/css">
+
+/*
+:Authors: Ian Bicking, Michael Foord
+:Contact: fuzzyman@voidspace.org.uk
+:Date: 2005/08/26
+:Version: 0.1.0
+:Copyright: This stylesheet has been placed in the public domain.
+
+Stylesheet for Docutils.
+Based on ``blue_box.css`` by Ian Bicking
+and ``html4css1.css`` revision 1.46.
+*/
+
+@import url(html4css1.css);
+
+body {
+  font-family: Arial, sans-serif;
+}
+
+em, i {
+  /* Typically serif fonts have much nicer italics */
+  font-family: Times New Roman, Times, serif;
+}
+
+a.target {
+  color: blue;
+}
+
+a.target {
+  color: blue;
+}
+
+a.toc-backref {
+  text-decoration: none;
+  color: black;
+}
+
+a.toc-backref:hover {
+  background-color: inherit;
+}
+
+a:hover {
+  background-color: #cccccc;
+}
+
+div.attention, div.caution, div.danger, div.error, div.hint,
+div.important, div.note, div.tip, div.warning {
+  background-color: #cccccc;
+  padding: 3px;
+  width: 80%;
+}
+
+div.admonition p.admonition-title, div.hint p.admonition-title,
+div.important p.admonition-title, div.note p.admonition-title,
+div.tip p.admonition-title  {
+  text-align: center;
+  background-color: #999999;
+  display: block;
+  margin: 0;
+}
+
+div.attention p.admonition-title, div.caution p.admonition-title,
+div.danger p.admonition-title, div.error p.admonition-title,
+div.warning p.admonition-title {
+  color: #cc0000;
+  font-family: sans-serif;
+  text-align: center;
+  background-color: #999999;
+  display: block;
+  margin: 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: Helvetica, Arial, sans-serif;
+  border: thin solid black;
+  /* This makes the borders rounded on Mozilla, which pleases me */
+  -moz-border-radius: 8px;
+  padding: 4px;
+}
+
+h1 {
+  background-color: #444499;
+  color: #ffffff;
+  border: medium solid black;
+}
+
+h1 a.toc-backref, h2 a.toc-backref {
+  color: #ffffff;
+}
+
+h2 {
+  background-color: #666666;
+  color: #ffffff;
+  border: medium solid black;
+}
+
+h3, h4, h5, h6 {
+  background-color: #cccccc;
+  color: #000000;
+}
+
+h3 a.toc-backref, h4 a.toc-backref, h5 a.toc-backref,
+h6 a.toc-backref {
+  color: #000000;
+}
+
+h1.title {
+  text-align: center;
+  background-color: #444499;
+  color: #eeeeee;
+  border: thick solid black;
+  -moz-border-radius: 20px;
+}
+
+table.footnote {
+  padding-left: 0.5ex;
+}
+
+table.citation {
+  padding-left: 0.5ex
+}
+
+pre.literal-block, pre.doctest-block {
+  border: thin black solid;
+  padding: 5px;
+}
+
+.image img { border-style : solid;
+            border-width : 2px;
+}
+
+h1 tt, h2 tt, h3 tt, h4 tt, h5 tt, h6 tt {
+  font-size: 100%;
+}
+
+code, tt {
+  color: #000066;
+}
+
+div.graph {
+  display: inline;
+  width: 500px;
+  height: 250px;
+}
+
+/* Styling the "table_one" summary table */
+table.table-one { border-style: none;
+                  empty-cells: show;
+                  border-top-style: solid;
+                  border-bottom-style: solid;
+      border-collapse: collapse;
+                  background-color: #fffddc; }
+table.table-one th { border-style: none;
+                     border-top-style: solid;
+                     border-bottom-style: solid;
+                     background-color: #ffffcd;
+                     padding: 10px;
+                     text-align: left;
+                     color: black; }
+table.table-one td { border-style: none; }
+table.table-one td:first-child { font-weight: bold; }
+table.table-one tr.unit_cell > td:first-child { text-align: right;
+                                                font-weight: bold; }
+
+table.status-table td {
+  padding-left: 1px;
+  padding-right: 1px;
+}
+
+table.status-table {
+  border-spacing: 1px;
+}
+
+table td {
+  padding-right: 5px;
+  padding-left: 5px;
+}
+
+.c3 svg {
+  width: 500px;
+  /*height: 250px;*/
+}
+
+.status {
+  display: block;
+  height: 10px;
+  width: 10px;
+  border: 1px solid black;
+}
+
+.abandoned {
+  background-color: #FE9A2E;
+}
+
+.bad_rmsd {
+  background-color: #FFFF00;
+}
+
+.good {
+  background-color: #088A08;
+}
+
+.many_bad {
+  background-color: #000000;
+}
+
+.ok {
+  background-color: #A9E2F3;
+}
+
+.overloaded {
+  background-color: #DF0101;
+}
+
+.weak {
+  background-color: #FAFAFA;
+}
+
+</style>
+</head>
+<body>
+<div class="document">
+
+
+<!-- Load c3.css -->
+<link href="https://cdnjs.cloudflare.com/ajax/libs/c3/0.4.10/c3.css" rel="stylesheet" type="text/css">
+<!-- Load d3.js and c3.js -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.5/d3.min.js" charset="utf-8"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/c3/0.4.10/c3.min.js"></script><!--Div that will hold the chart-->
+<div>
+  <p>Relative Bfactor &amp; Decay v. batch</p>
+  <div class="graph" id="chart_RelativeBfactorDecayvbatch"></div>
+</div>
+
+<script type="text/javascript">
+
+var chart_RelativeBfactorDecayvbatch = c3.generate({
+    bindto: '#chart_RelativeBfactorDecayvbatch',
+    data: {"keys": {"x": "N", "value": ["Bfactor", "Bdecay"]}, "json": [{"Bdecay": 0, "Bfactor": 0, "name": "", "N": 1}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 2}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 3}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 4}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 5}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 6}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 7}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 8}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 9}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 10}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 11}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 12}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 13}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 14}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 15}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 16}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 17}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 18}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 19}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 20}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 21}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 22}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 23}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 24}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 25}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 26}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 27}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 28}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 29}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 30}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 31}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 32}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 33}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 34}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 35}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 36}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 37}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 38}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 39}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 40}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 41}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 42}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 43}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 44}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 45}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 46}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 47}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 48}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 49}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 50}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 51}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 52}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 53}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 54}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 55}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 56}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 57}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 58}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 59}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 60}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 61}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 62}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 63}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 64}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 65}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 66}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 67}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 68}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 69}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 70}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 71}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 72}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 73}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 74}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 75}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 76}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 77}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 78}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 79}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 80}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 81}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 82}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 83}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 84}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 85}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 86}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 87}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 88}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 89}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 90}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 91}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 92}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 93}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 94}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 95}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 96}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 97}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 98}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 99}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 100}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 101}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 102}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 103}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 104}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 105}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 106}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 107}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 108}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 109}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 110}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 111}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 112}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 113}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 114}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 115}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 116}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 117}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 118}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 119}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 120}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 121}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 122}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 123}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 124}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 125}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 126}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 127}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 128}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 129}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 130}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 131}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 132}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 133}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 134}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 135}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 136}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 137}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 138}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 139}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 140}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 141}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 142}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 143}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 144}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 145}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 146}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 147}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 148}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 149}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 150}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 151}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 152}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 153}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 154}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 155}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 156}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 157}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 158}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 159}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 160}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 161}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 162}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 163}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 164}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 165}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 166}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 167}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 168}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 169}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 170}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 171}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 172}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 173}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 174}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 175}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 176}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 177}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 178}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 179}, {"Bdecay": 0, "Bfactor": 0, "name": "", "N": 180}]},
+    axis:
+    {
+      x: {
+        label: {
+          text: 'N',
+          position: 'outer-center'
+        },
+
+      }
+    }
+,
+    legend: {
+      position: 'right'
+    },
+});
+
+</script><!--Div that will hold the chart-->
+<div>
+  <p>Mn(k) &amp; 0k (theta=0) v. batch</p>
+  <div class="graph" id="chart_Mnkkthetavbatch"></div>
+</div>
+
+<script type="text/javascript">
+
+var chart_Mnkkthetavbatch = c3.generate({
+    bindto: '#chart_Mnkkthetavbatch',
+    data: {"keys": {"x": "N", "value": ["Mn(k)", "0k"]}, "json": [{"0k": 1, "Mn(k)": 1, "name": "", "N": 1}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 2}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 3}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 4}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 5}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 6}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 7}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 8}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 9}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 10}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 11}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 12}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 13}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 14}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 15}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 16}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 17}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 18}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 19}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 20}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 21}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 22}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 23}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 24}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 25}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 26}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 27}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 28}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 29}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 30}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 31}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 32}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 33}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 34}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 35}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 36}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 37}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 38}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 39}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 40}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 41}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 42}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 43}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 44}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 45}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 46}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 47}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 48}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 49}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 50}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 51}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 52}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 53}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 54}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 55}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 56}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 57}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 58}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 59}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 60}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 61}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 62}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 63}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 64}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 65}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 66}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 67}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 68}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 69}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 70}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 71}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 72}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 73}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 74}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 75}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 76}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 77}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 78}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 79}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 80}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 81}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 82}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 83}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 84}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 85}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 86}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 87}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 88}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 89}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 90}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 91}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 92}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 93}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 94}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 95}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 96}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 97}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 98}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 99}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 100}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 101}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 102}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 103}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 104}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 105}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 106}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 107}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 108}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 109}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 110}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 111}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 112}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 113}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 114}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 115}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 116}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 117}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 118}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 119}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 120}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 121}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 122}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 123}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 124}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 125}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 126}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 127}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 128}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 129}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 130}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 131}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 132}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 133}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 134}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 135}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 136}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 137}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 138}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 139}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 140}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 141}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 142}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 143}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 144}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 145}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 146}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 147}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 148}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 149}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 150}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 151}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 152}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 153}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 154}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 155}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 156}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 157}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 158}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 159}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 160}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 161}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 162}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 163}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 164}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 165}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 166}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 167}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 168}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 169}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 170}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 171}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 172}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 173}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 174}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 175}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 176}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 177}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 178}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 179}, {"0k": 1, "Mn(k)": 1, "name": "", "N": 180}]},
+    axis:
+    {
+      x: {
+        label: {
+          text: 'N',
+          position: 'outer-center'
+        },
+
+      }
+    }
+,
+    legend: {
+      position: 'right'
+    },
+});
+
+</script><!--Div that will hold the chart-->
+<div>
+  <p>Cumulative %completeness &amp; Anom%cmpl v Batch</p>
+  <div class="graph" id="chart_CumulativecompletenessAnomcmplvBatch"></div>
+</div>
+
+<script type="text/javascript">
+
+var chart_CumulativecompletenessAnomcmplvBatch = c3.generate({
+    bindto: '#chart_CumulativecompletenessAnomcmplvBatch',
+    data: {"keys": {"x": "N", "value": ["AnoCmp", "Cm%poss"]}, "json": [{"AnoCmp": 0.1, "Cm%poss": 5.1, "name": "", "N": 1}, {"AnoCmp": 0.5, "Cm%poss": 11.4, "name": "", "N": 2}, {"AnoCmp": 1.3, "Cm%poss": 17.4, "name": "", "N": 3}, {"AnoCmp": 2.2, "Cm%poss": 22.9, "name": "", "N": 4}, {"AnoCmp": 3.5, "Cm%poss": 28.2, "name": "", "N": 5}, {"AnoCmp": 5.0, "Cm%poss": 33.3, "name": "", "N": 6}, {"AnoCmp": 6.5, "Cm%poss": 38.0, "name": "", "N": 7}, {"AnoCmp": 8.3, "Cm%poss": 42.3, "name": "", "N": 8}, {"AnoCmp": 10.2, "Cm%poss": 46.1, "name": "", "N": 9}, {"AnoCmp": 12.1, "Cm%poss": 49.7, "name": "", "N": 10}, {"AnoCmp": 14.1, "Cm%poss": 52.9, "name": "", "N": 11}, {"AnoCmp": 16.2, "Cm%poss": 55.9, "name": "", "N": 12}, {"AnoCmp": 18.3, "Cm%poss": 58.7, "name": "", "N": 13}, {"AnoCmp": 20.4, "Cm%poss": 61.3, "name": "", "N": 14}, {"AnoCmp": 22.5, "Cm%poss": 63.8, "name": "", "N": 15}, {"AnoCmp": 24.7, "Cm%poss": 66.0, "name": "", "N": 16}, {"AnoCmp": 27.1, "Cm%poss": 68.1, "name": "", "N": 17}, {"AnoCmp": 29.6, "Cm%poss": 70.1, "name": "", "N": 18}, {"AnoCmp": 32.1, "Cm%poss": 71.9, "name": "", "N": 19}, {"AnoCmp": 34.8, "Cm%poss": 73.6, "name": "", "N": 20}, {"AnoCmp": 37.4, "Cm%poss": 75.2, "name": "", "N": 21}, {"AnoCmp": 40.0, "Cm%poss": 76.7, "name": "", "N": 22}, {"AnoCmp": 42.7, "Cm%poss": 78.1, "name": "", "N": 23}, {"AnoCmp": 45.3, "Cm%poss": 79.3, "name": "", "N": 24}, {"AnoCmp": 47.9, "Cm%poss": 80.5, "name": "", "N": 25}, {"AnoCmp": 50.3, "Cm%poss": 81.6, "name": "", "N": 26}, {"AnoCmp": 52.8, "Cm%poss": 82.6, "name": "", "N": 27}, {"AnoCmp": 55.2, "Cm%poss": 83.4, "name": "", "N": 28}, {"AnoCmp": 57.5, "Cm%poss": 84.1, "name": "", "N": 29}, {"AnoCmp": 59.7, "Cm%poss": 84.7, "name": "", "N": 30}, {"AnoCmp": 62.1, "Cm%poss": 84.9, "name": "", "N": 31}, {"AnoCmp": 64.4, "Cm%poss": 85.1, "name": "", "N": 32}, {"AnoCmp": 66.6, "Cm%poss": 85.2, "name": "", "N": 33}, {"AnoCmp": 68.5, "Cm%poss": 85.4, "name": "", "N": 34}, {"AnoCmp": 70.2, "Cm%poss": 85.5, "name": "", "N": 35}, {"AnoCmp": 71.7, "Cm%poss": 85.6, "name": "", "N": 36}, {"AnoCmp": 73.0, "Cm%poss": 85.8, "name": "", "N": 37}, {"AnoCmp": 74.1, "Cm%poss": 85.9, "name": "", "N": 38}, {"AnoCmp": 75.1, "Cm%poss": 86.0, "name": "", "N": 39}, {"AnoCmp": 75.9, "Cm%poss": 86.0, "name": "", "N": 40}, {"AnoCmp": 76.6, "Cm%poss": 86.1, "name": "", "N": 41}, {"AnoCmp": 77.3, "Cm%poss": 86.2, "name": "", "N": 42}, {"AnoCmp": 77.8, "Cm%poss": 86.2, "name": "", "N": 43}, {"AnoCmp": 78.4, "Cm%poss": 86.4, "name": "", "N": 44}, {"AnoCmp": 78.8, "Cm%poss": 86.5, "name": "", "N": 45}, {"AnoCmp": 79.2, "Cm%poss": 86.5, "name": "", "N": 46}, {"AnoCmp": 79.6, "Cm%poss": 86.6, "name": "", "N": 47}, {"AnoCmp": 79.9, "Cm%poss": 86.7, "name": "", "N": 48}, {"AnoCmp": 80.2, "Cm%poss": 86.7, "name": "", "N": 49}, {"AnoCmp": 80.5, "Cm%poss": 86.8, "name": "", "N": 50}, {"AnoCmp": 80.8, "Cm%poss": 86.8, "name": "", "N": 51}, {"AnoCmp": 81.0, "Cm%poss": 86.9, "name": "", "N": 52}, {"AnoCmp": 81.3, "Cm%poss": 86.9, "name": "", "N": 53}, {"AnoCmp": 81.5, "Cm%poss": 86.9, "name": "", "N": 54}, {"AnoCmp": 81.8, "Cm%poss": 86.9, "name": "", "N": 55}, {"AnoCmp": 82.1, "Cm%poss": 86.9, "name": "", "N": 56}, {"AnoCmp": 82.3, "Cm%poss": 87.0, "name": "", "N": 57}, {"AnoCmp": 82.6, "Cm%poss": 87.0, "name": "", "N": 58}, {"AnoCmp": 82.8, "Cm%poss": 87.0, "name": "", "N": 59}, {"AnoCmp": 83.1, "Cm%poss": 87.0, "name": "", "N": 60}, {"AnoCmp": 83.3, "Cm%poss": 87.0, "name": "", "N": 61}, {"AnoCmp": 83.6, "Cm%poss": 87.0, "name": "", "N": 62}, {"AnoCmp": 83.8, "Cm%poss": 87.1, "name": "", "N": 63}, {"AnoCmp": 84.1, "Cm%poss": 87.1, "name": "", "N": 64}, {"AnoCmp": 84.3, "Cm%poss": 87.1, "name": "", "N": 65}, {"AnoCmp": 84.4, "Cm%poss": 87.1, "name": "", "N": 66}, {"AnoCmp": 84.6, "Cm%poss": 87.1, "name": "", "N": 67}, {"AnoCmp": 84.7, "Cm%poss": 87.2, "name": "", "N": 68}, {"AnoCmp": 84.9, "Cm%poss": 87.2, "name": "", "N": 69}, {"AnoCmp": 85.1, "Cm%poss": 87.2, "name": "", "N": 70}, {"AnoCmp": 85.3, "Cm%poss": 87.3, "name": "", "N": 71}, {"AnoCmp": 85.5, "Cm%poss": 87.3, "name": "", "N": 72}, {"AnoCmp": 85.7, "Cm%poss": 87.4, "name": "", "N": 73}, {"AnoCmp": 86.0, "Cm%poss": 87.5, "name": "", "N": 74}, {"AnoCmp": 86.3, "Cm%poss": 87.7, "name": "", "N": 75}, {"AnoCmp": 86.6, "Cm%poss": 87.9, "name": "", "N": 76}, {"AnoCmp": 86.9, "Cm%poss": 88.1, "name": "", "N": 77}, {"AnoCmp": 87.2, "Cm%poss": 88.4, "name": "", "N": 78}, {"AnoCmp": 87.6, "Cm%poss": 88.8, "name": "", "N": 79}, {"AnoCmp": 87.9, "Cm%poss": 89.2, "name": "", "N": 80}, {"AnoCmp": 88.3, "Cm%poss": 89.6, "name": "", "N": 81}, {"AnoCmp": 88.7, "Cm%poss": 90.0, "name": "", "N": 82}, {"AnoCmp": 89.2, "Cm%poss": 90.5, "name": "", "N": 83}, {"AnoCmp": 89.6, "Cm%poss": 91.0, "name": "", "N": 84}, {"AnoCmp": 90.0, "Cm%poss": 91.4, "name": "", "N": 85}, {"AnoCmp": 90.6, "Cm%poss": 91.9, "name": "", "N": 86}, {"AnoCmp": 91.1, "Cm%poss": 92.4, "name": "", "N": 87}, {"AnoCmp": 91.6, "Cm%poss": 92.9, "name": "", "N": 88}, {"AnoCmp": 92.2, "Cm%poss": 93.4, "name": "", "N": 89}, {"AnoCmp": 92.6, "Cm%poss": 93.8, "name": "", "N": 90}, {"AnoCmp": 93.1, "Cm%poss": 94.3, "name": "", "N": 91}, {"AnoCmp": 93.6, "Cm%poss": 94.7, "name": "", "N": 92}, {"AnoCmp": 94.1, "Cm%poss": 95.2, "name": "", "N": 93}, {"AnoCmp": 94.5, "Cm%poss": 95.6, "name": "", "N": 94}, {"AnoCmp": 94.9, "Cm%poss": 95.9, "name": "", "N": 95}, {"AnoCmp": 95.3, "Cm%poss": 96.4, "name": "", "N": 96}, {"AnoCmp": 95.6, "Cm%poss": 96.8, "name": "", "N": 97}, {"AnoCmp": 95.9, "Cm%poss": 97.1, "name": "", "N": 98}, {"AnoCmp": 96.3, "Cm%poss": 97.5, "name": "", "N": 99}, {"AnoCmp": 96.6, "Cm%poss": 97.8, "name": "", "N": 100}, {"AnoCmp": 97.0, "Cm%poss": 98.1, "name": "", "N": 101}, {"AnoCmp": 97.3, "Cm%poss": 98.3, "name": "", "N": 102}, {"AnoCmp": 97.6, "Cm%poss": 98.6, "name": "", "N": 103}, {"AnoCmp": 97.9, "Cm%poss": 98.8, "name": "", "N": 104}, {"AnoCmp": 98.1, "Cm%poss": 99.0, "name": "", "N": 105}, {"AnoCmp": 98.4, "Cm%poss": 99.1, "name": "", "N": 106}, {"AnoCmp": 98.6, "Cm%poss": 99.2, "name": "", "N": 107}, {"AnoCmp": 98.7, "Cm%poss": 99.4, "name": "", "N": 108}, {"AnoCmp": 98.9, "Cm%poss": 99.5, "name": "", "N": 109}, {"AnoCmp": 99.0, "Cm%poss": 99.5, "name": "", "N": 110}, {"AnoCmp": 99.2, "Cm%poss": 99.6, "name": "", "N": 111}, {"AnoCmp": 99.3, "Cm%poss": 99.7, "name": "", "N": 112}, {"AnoCmp": 99.4, "Cm%poss": 99.7, "name": "", "N": 113}, {"AnoCmp": 99.5, "Cm%poss": 99.7, "name": "", "N": 114}, {"AnoCmp": 99.5, "Cm%poss": 99.8, "name": "", "N": 115}, {"AnoCmp": 99.6, "Cm%poss": 99.8, "name": "", "N": 116}, {"AnoCmp": 99.6, "Cm%poss": 99.8, "name": "", "N": 117}, {"AnoCmp": 99.6, "Cm%poss": 99.8, "name": "", "N": 118}, {"AnoCmp": 99.7, "Cm%poss": 99.9, "name": "", "N": 119}, {"AnoCmp": 99.7, "Cm%poss": 99.9, "name": "", "N": 120}, {"AnoCmp": 99.7, "Cm%poss": 99.9, "name": "", "N": 121}, {"AnoCmp": 99.8, "Cm%poss": 99.9, "name": "", "N": 122}, {"AnoCmp": 99.8, "Cm%poss": 99.9, "name": "", "N": 123}, {"AnoCmp": 99.8, "Cm%poss": 99.9, "name": "", "N": 124}, {"AnoCmp": 99.8, "Cm%poss": 99.9, "name": "", "N": 125}, {"AnoCmp": 99.8, "Cm%poss": 99.9, "name": "", "N": 126}, {"AnoCmp": 99.8, "Cm%poss": 99.9, "name": "", "N": 127}, {"AnoCmp": 99.8, "Cm%poss": 99.9, "name": "", "N": 128}, {"AnoCmp": 99.8, "Cm%poss": 99.9, "name": "", "N": 129}, {"AnoCmp": 99.8, "Cm%poss": 99.9, "name": "", "N": 130}, {"AnoCmp": 99.8, "Cm%poss": 99.9, "name": "", "N": 131}, {"AnoCmp": 99.8, "Cm%poss": 99.9, "name": "", "N": 132}, {"AnoCmp": 99.8, "Cm%poss": 99.9, "name": "", "N": 133}, {"AnoCmp": 99.9, "Cm%poss": 99.9, "name": "", "N": 134}, {"AnoCmp": 99.9, "Cm%poss": 99.9, "name": "", "N": 135}, {"AnoCmp": 99.9, "Cm%poss": 99.9, "name": "", "N": 136}, {"AnoCmp": 99.9, "Cm%poss": 99.9, "name": "", "N": 137}, {"AnoCmp": 99.9, "Cm%poss": 99.9, "name": "", "N": 138}, {"AnoCmp": 99.9, "Cm%poss": 99.9, "name": "", "N": 139}, {"AnoCmp": 99.9, "Cm%poss": 99.9, "name": "", "N": 140}, {"AnoCmp": 99.9, "Cm%poss": 99.9, "name": "", "N": 141}, {"AnoCmp": 99.9, "Cm%poss": 99.9, "name": "", "N": 142}, {"AnoCmp": 99.9, "Cm%poss": 99.9, "name": "", "N": 143}, {"AnoCmp": 99.9, "Cm%poss": 99.9, "name": "", "N": 144}, {"AnoCmp": 99.9, "Cm%poss": 99.9, "name": "", "N": 145}, {"AnoCmp": 99.9, "Cm%poss": 99.9, "name": "", "N": 146}, {"AnoCmp": 99.9, "Cm%poss": 99.9, "name": "", "N": 147}, {"AnoCmp": 99.9, "Cm%poss": 99.9, "name": "", "N": 148}, {"AnoCmp": 99.9, "Cm%poss": 99.9, "name": "", "N": 149}, {"AnoCmp": 99.9, "Cm%poss": 99.9, "name": "", "N": 150}, {"AnoCmp": 99.9, "Cm%poss": 99.9, "name": "", "N": 151}, {"AnoCmp": 99.9, "Cm%poss": 99.9, "name": "", "N": 152}, {"AnoCmp": 99.9, "Cm%poss": 99.9, "name": "", "N": 153}, {"AnoCmp": 99.9, "Cm%poss": 99.9, "name": "", "N": 154}, {"AnoCmp": 99.9, "Cm%poss": 99.9, "name": "", "N": 155}, {"AnoCmp": 99.9, "Cm%poss": 99.9, "name": "", "N": 156}, {"AnoCmp": 99.9, "Cm%poss": 99.9, "name": "", "N": 157}, {"AnoCmp": 99.9, "Cm%poss": 99.9, "name": "", "N": 158}, {"AnoCmp": 99.9, "Cm%poss": 99.9, "name": "", "N": 159}, {"AnoCmp": 99.9, "Cm%poss": 99.9, "name": "", "N": 160}, {"AnoCmp": 99.9, "Cm%poss": 99.9, "name": "", "N": 161}, {"AnoCmp": 99.9, "Cm%poss": 99.9, "name": "", "N": 162}, {"AnoCmp": 99.9, "Cm%poss": 99.9, "name": "", "N": 163}, {"AnoCmp": 99.9, "Cm%poss": 99.9, "name": "", "N": 164}, {"AnoCmp": 99.9, "Cm%poss": 99.9, "name": "", "N": 165}, {"AnoCmp": 99.9, "Cm%poss": 99.9, "name": "", "N": 166}, {"AnoCmp": 99.9, "Cm%poss": 99.9, "name": "", "N": 167}, {"AnoCmp": 99.9, "Cm%poss": 99.9, "name": "", "N": 168}, {"AnoCmp": 99.9, "Cm%poss": 99.9, "name": "", "N": 169}, {"AnoCmp": 99.9, "Cm%poss": 99.9, "name": "", "N": 170}, {"AnoCmp": 99.9, "Cm%poss": 99.9, "name": "", "N": 171}, {"AnoCmp": 99.9, "Cm%poss": 99.9, "name": "", "N": 172}, {"AnoCmp": 99.9, "Cm%poss": 99.9, "name": "", "N": 173}, {"AnoCmp": 99.9, "Cm%poss": 99.9, "name": "", "N": 174}, {"AnoCmp": 99.9, "Cm%poss": 99.9, "name": "", "N": 175}, {"AnoCmp": 99.9, "Cm%poss": 99.9, "name": "", "N": 176}, {"AnoCmp": 99.9, "Cm%poss": 99.9, "name": "", "N": 177}, {"AnoCmp": 99.9, "Cm%poss": 99.9, "name": "", "N": 178}, {"AnoCmp": 99.9, "Cm%poss": 99.9, "name": "", "N": 179}, {"AnoCmp": 99.9, "Cm%poss": 99.9, "name": "", "N": 180}]},
+    axis:
+    {
+      x: {
+        label: {
+          text: 'N',
+          position: 'outer-center'
+        },
+
+      }
+    }
+,
+    legend: {
+      position: 'right'
+    },
+});
+
+</script><!--Div that will hold the chart-->
+<div>
+  <p>Rmerge v Batch for all runs</p>
+  <div class="graph" id="chart_RmergevBatchforallruns"></div>
+</div>
+
+<script type="text/javascript">
+
+var chart_RmergevBatchforallruns = c3.generate({
+    bindto: '#chart_RmergevBatchforallruns',
+    data: {"keys": {"x": "N", "value": ["SmRmerge", "Rmerge"]}, "json": [{"Rmerge": 0.082, "name": "", "SmRmerge": 0.066, "N": 1}, {"Rmerge": 0.064, "name": "", "SmRmerge": 0.066, "N": 2}, {"Rmerge": 0.064, "name": "", "SmRmerge": 0.066, "N": 3}, {"Rmerge": 0.06, "name": "", "SmRmerge": 0.066, "N": 4}, {"Rmerge": 0.061, "name": "", "SmRmerge": 0.062, "N": 5}, {"Rmerge": 0.061, "name": "", "SmRmerge": 0.061, "N": 6}, {"Rmerge": 0.061, "name": "", "SmRmerge": 0.061, "N": 7}, {"Rmerge": 0.06, "name": "", "SmRmerge": 0.061, "N": 8}, {"Rmerge": 0.062, "name": "", "SmRmerge": 0.061, "N": 9}, {"Rmerge": 0.059, "name": "", "SmRmerge": 0.061, "N": 10}, {"Rmerge": 0.061, "name": "", "SmRmerge": 0.061, "N": 11}, {"Rmerge": 0.064, "name": "", "SmRmerge": 0.061, "N": 12}, {"Rmerge": 0.06, "name": "", "SmRmerge": 0.06, "N": 13}, {"Rmerge": 0.058, "name": "", "SmRmerge": 0.061, "N": 14}, {"Rmerge": 0.06, "name": "", "SmRmerge": 0.059, "N": 15}, {"Rmerge": 0.056, "name": "", "SmRmerge": 0.059, "N": 16}, {"Rmerge": 0.059, "name": "", "SmRmerge": 0.058, "N": 17}, {"Rmerge": 0.055, "name": "", "SmRmerge": 0.058, "N": 18}, {"Rmerge": 0.061, "name": "", "SmRmerge": 0.057, "N": 19}, {"Rmerge": 0.057, "name": "", "SmRmerge": 0.058, "N": 20}, {"Rmerge": 0.057, "name": "", "SmRmerge": 0.057, "N": 21}, {"Rmerge": 0.055, "name": "", "SmRmerge": 0.057, "N": 22}, {"Rmerge": 0.055, "name": "", "SmRmerge": 0.056, "N": 23}, {"Rmerge": 0.057, "name": "", "SmRmerge": 0.056, "N": 24}, {"Rmerge": 0.056, "name": "", "SmRmerge": 0.055, "N": 25}, {"Rmerge": 0.052, "name": "", "SmRmerge": 0.054, "N": 26}, {"Rmerge": 0.05, "name": "", "SmRmerge": 0.054, "N": 27}, {"Rmerge": 0.053, "name": "", "SmRmerge": 0.052, "N": 28}, {"Rmerge": 0.051, "name": "", "SmRmerge": 0.052, "N": 29}, {"Rmerge": 0.053, "name": "", "SmRmerge": 0.052, "N": 30}, {"Rmerge": 0.051, "name": "", "SmRmerge": 0.052, "N": 31}, {"Rmerge": 0.05, "name": "", "SmRmerge": 0.052, "N": 32}, {"Rmerge": 0.053, "name": "", "SmRmerge": 0.051, "N": 33}, {"Rmerge": 0.05, "name": "", "SmRmerge": 0.05, "N": 34}, {"Rmerge": 0.049, "name": "", "SmRmerge": 0.049, "N": 35}, {"Rmerge": 0.046, "name": "", "SmRmerge": 0.049, "N": 36}, {"Rmerge": 0.047, "name": "", "SmRmerge": 0.048, "N": 37}, {"Rmerge": 0.048, "name": "", "SmRmerge": 0.047, "N": 38}, {"Rmerge": 0.046, "name": "", "SmRmerge": 0.047, "N": 39}, {"Rmerge": 0.048, "name": "", "SmRmerge": 0.047, "N": 40}, {"Rmerge": 0.045, "name": "", "SmRmerge": 0.046, "N": 41}, {"Rmerge": 0.044, "name": "", "SmRmerge": 0.045, "N": 42}, {"Rmerge": 0.043, "name": "", "SmRmerge": 0.045, "N": 43}, {"Rmerge": 0.045, "name": "", "SmRmerge": 0.044, "N": 44}, {"Rmerge": 0.042, "name": "", "SmRmerge": 0.044, "N": 45}, {"Rmerge": 0.044, "name": "", "SmRmerge": 0.043, "N": 46}, {"Rmerge": 0.043, "name": "", "SmRmerge": 0.043, "N": 47}, {"Rmerge": 0.043, "name": "", "SmRmerge": 0.043, "N": 48}, {"Rmerge": 0.044, "name": "", "SmRmerge": 0.043, "N": 49}, {"Rmerge": 0.041, "name": "", "SmRmerge": 0.042, "N": 50}, {"Rmerge": 0.041, "name": "", "SmRmerge": 0.042, "N": 51}, {"Rmerge": 0.042, "name": "", "SmRmerge": 0.042, "N": 52}, {"Rmerge": 0.041, "name": "", "SmRmerge": 0.041, "N": 53}, {"Rmerge": 0.042, "name": "", "SmRmerge": 0.041, "N": 54}, {"Rmerge": 0.04, "name": "", "SmRmerge": 0.042, "N": 55}, {"Rmerge": 0.044, "name": "", "SmRmerge": 0.042, "N": 56}, {"Rmerge": 0.041, "name": "", "SmRmerge": 0.041, "N": 57}, {"Rmerge": 0.04, "name": "", "SmRmerge": 0.041, "N": 58}, {"Rmerge": 0.04, "name": "", "SmRmerge": 0.041, "N": 59}, {"Rmerge": 0.043, "name": "", "SmRmerge": 0.041, "N": 60}, {"Rmerge": 0.041, "name": "", "SmRmerge": 0.041, "N": 61}, {"Rmerge": 0.042, "name": "", "SmRmerge": 0.041, "N": 62}, {"Rmerge": 0.038, "name": "", "SmRmerge": 0.041, "N": 63}, {"Rmerge": 0.039, "name": "", "SmRmerge": 0.04, "N": 64}, {"Rmerge": 0.041, "name": "", "SmRmerge": 0.04, "N": 65}, {"Rmerge": 0.042, "name": "", "SmRmerge": 0.04, "N": 66}, {"Rmerge": 0.039, "name": "", "SmRmerge": 0.04, "N": 67}, {"Rmerge": 0.041, "name": "", "SmRmerge": 0.041, "N": 68}, {"Rmerge": 0.041, "name": "", "SmRmerge": 0.041, "N": 69}, {"Rmerge": 0.043, "name": "", "SmRmerge": 0.042, "N": 70}, {"Rmerge": 0.044, "name": "", "SmRmerge": 0.042, "N": 71}, {"Rmerge": 0.041, "name": "", "SmRmerge": 0.042, "N": 72}, {"Rmerge": 0.041, "name": "", "SmRmerge": 0.044, "N": 73}, {"Rmerge": 0.048, "name": "", "SmRmerge": 0.044, "N": 74}, {"Rmerge": 0.043, "name": "", "SmRmerge": 0.044, "N": 75}, {"Rmerge": 0.044, "name": "", "SmRmerge": 0.045, "N": 76}, {"Rmerge": 0.047, "name": "", "SmRmerge": 0.045, "N": 77}, {"Rmerge": 0.042, "name": "", "SmRmerge": 0.044, "N": 78}, {"Rmerge": 0.044, "name": "", "SmRmerge": 0.045, "N": 79}, {"Rmerge": 0.046, "name": "", "SmRmerge": 0.045, "N": 80}, {"Rmerge": 0.046, "name": "", "SmRmerge": 0.045, "N": 81}, {"Rmerge": 0.045, "name": "", "SmRmerge": 0.045, "N": 82}, {"Rmerge": 0.044, "name": "", "SmRmerge": 0.046, "N": 83}, {"Rmerge": 0.047, "name": "", "SmRmerge": 0.045, "N": 84}, {"Rmerge": 0.045, "name": "", "SmRmerge": 0.045, "N": 85}, {"Rmerge": 0.046, "name": "", "SmRmerge": 0.046, "N": 86}, {"Rmerge": 0.048, "name": "", "SmRmerge": 0.047, "N": 87}, {"Rmerge": 0.05, "name": "", "SmRmerge": 0.047, "N": 88}, {"Rmerge": 0.046, "name": "", "SmRmerge": 0.048, "N": 89}, {"Rmerge": 0.049, "name": "", "SmRmerge": 0.049, "N": 90}, {"Rmerge": 0.051, "name": "", "SmRmerge": 0.049, "N": 91}, {"Rmerge": 0.049, "name": "", "SmRmerge": 0.049, "N": 92}, {"Rmerge": 0.05, "name": "", "SmRmerge": 0.05, "N": 93}, {"Rmerge": 0.052, "name": "", "SmRmerge": 0.05, "N": 94}, {"Rmerge": 0.049, "name": "", "SmRmerge": 0.05, "N": 95}, {"Rmerge": 0.051, "name": "", "SmRmerge": 0.051, "N": 96}, {"Rmerge": 0.051, "name": "", "SmRmerge": 0.051, "N": 97}, {"Rmerge": 0.05, "name": "", "SmRmerge": 0.049, "N": 98}, {"Rmerge": 0.047, "name": "", "SmRmerge": 0.05, "N": 99}, {"Rmerge": 0.053, "name": "", "SmRmerge": 0.05, "N": 100}, {"Rmerge": 0.05, "name": "", "SmRmerge": 0.05, "N": 101}, {"Rmerge": 0.05, "name": "", "SmRmerge": 0.05, "N": 102}, {"Rmerge": 0.051, "name": "", "SmRmerge": 0.05, "N": 103}, {"Rmerge": 0.048, "name": "", "SmRmerge": 0.049, "N": 104}, {"Rmerge": 0.048, "name": "", "SmRmerge": 0.049, "N": 105}, {"Rmerge": 0.05, "name": "", "SmRmerge": 0.05, "N": 106}, {"Rmerge": 0.052, "name": "", "SmRmerge": 0.05, "N": 107}, {"Rmerge": 0.05, "name": "", "SmRmerge": 0.051, "N": 108}, {"Rmerge": 0.052, "name": "", "SmRmerge": 0.051, "N": 109}, {"Rmerge": 0.048, "name": "", "SmRmerge": 0.051, "N": 110}, {"Rmerge": 0.05, "name": "", "SmRmerge": 0.05, "N": 111}, {"Rmerge": 0.048, "name": "", "SmRmerge": 0.05, "N": 112}, {"Rmerge": 0.049, "name": "", "SmRmerge": 0.05, "N": 113}, {"Rmerge": 0.053, "name": "", "SmRmerge": 0.05, "N": 114}, {"Rmerge": 0.05, "name": "", "SmRmerge": 0.051, "N": 115}, {"Rmerge": 0.055, "name": "", "SmRmerge": 0.051, "N": 116}, {"Rmerge": 0.048, "name": "", "SmRmerge": 0.05, "N": 117}, {"Rmerge": 0.047, "name": "", "SmRmerge": 0.05, "N": 118}, {"Rmerge": 0.051, "name": "", "SmRmerge": 0.05, "N": 119}, {"Rmerge": 0.05, "name": "", "SmRmerge": 0.05, "N": 120}, {"Rmerge": 0.055, "name": "", "SmRmerge": 0.05, "N": 121}, {"Rmerge": 0.048, "name": "", "SmRmerge": 0.051, "N": 122}, {"Rmerge": 0.051, "name": "", "SmRmerge": 0.051, "N": 123}, {"Rmerge": 0.051, "name": "", "SmRmerge": 0.052, "N": 124}, {"Rmerge": 0.056, "name": "", "SmRmerge": 0.051, "N": 125}, {"Rmerge": 0.051, "name": "", "SmRmerge": 0.052, "N": 126}, {"Rmerge": 0.051, "name": "", "SmRmerge": 0.052, "N": 127}, {"Rmerge": 0.05, "name": "", "SmRmerge": 0.052, "N": 128}, {"Rmerge": 0.051, "name": "", "SmRmerge": 0.051, "N": 129}, {"Rmerge": 0.051, "name": "", "SmRmerge": 0.051, "N": 130}, {"Rmerge": 0.052, "name": "", "SmRmerge": 0.051, "N": 131}, {"Rmerge": 0.051, "name": "", "SmRmerge": 0.053, "N": 132}, {"Rmerge": 0.058, "name": "", "SmRmerge": 0.053, "N": 133}, {"Rmerge": 0.053, "name": "", "SmRmerge": 0.054, "N": 134}, {"Rmerge": 0.053, "name": "", "SmRmerge": 0.055, "N": 135}, {"Rmerge": 0.058, "name": "", "SmRmerge": 0.055, "N": 136}, {"Rmerge": 0.054, "name": "", "SmRmerge": 0.054, "N": 137}, {"Rmerge": 0.052, "name": "", "SmRmerge": 0.055, "N": 138}, {"Rmerge": 0.057, "name": "", "SmRmerge": 0.055, "N": 139}, {"Rmerge": 0.053, "name": "", "SmRmerge": 0.055, "N": 140}, {"Rmerge": 0.057, "name": "", "SmRmerge": 0.055, "N": 141}, {"Rmerge": 0.055, "name": "", "SmRmerge": 0.055, "N": 142}, {"Rmerge": 0.054, "name": "", "SmRmerge": 0.055, "N": 143}, {"Rmerge": 0.056, "name": "", "SmRmerge": 0.055, "N": 144}, {"Rmerge": 0.055, "name": "", "SmRmerge": 0.056, "N": 145}, {"Rmerge": 0.058, "name": "", "SmRmerge": 0.056, "N": 146}, {"Rmerge": 0.055, "name": "", "SmRmerge": 0.056, "N": 147}, {"Rmerge": 0.058, "name": "", "SmRmerge": 0.056, "N": 148}, {"Rmerge": 0.055, "name": "", "SmRmerge": 0.057, "N": 149}, {"Rmerge": 0.057, "name": "", "SmRmerge": 0.056, "N": 150}, {"Rmerge": 0.057, "name": "", "SmRmerge": 0.058, "N": 151}, {"Rmerge": 0.061, "name": "", "SmRmerge": 0.059, "N": 152}, {"Rmerge": 0.064, "name": "", "SmRmerge": 0.06, "N": 153}, {"Rmerge": 0.063, "name": "", "SmRmerge": 0.06, "N": 154}, {"Rmerge": 0.057, "name": "", "SmRmerge": 0.061, "N": 155}, {"Rmerge": 0.062, "name": "", "SmRmerge": 0.062, "N": 156}, {"Rmerge": 0.064, "name": "", "SmRmerge": 0.061, "N": 157}, {"Rmerge": 0.058, "name": "", "SmRmerge": 0.061, "N": 158}, {"Rmerge": 0.064, "name": "", "SmRmerge": 0.061, "N": 159}, {"Rmerge": 0.059, "name": "", "SmRmerge": 0.061, "N": 160}, {"Rmerge": 0.062, "name": "", "SmRmerge": 0.062, "N": 161}, {"Rmerge": 0.068, "name": "", "SmRmerge": 0.063, "N": 162}, {"Rmerge": 0.064, "name": "", "SmRmerge": 0.063, "N": 163}, {"Rmerge": 0.064, "name": "", "SmRmerge": 0.065, "N": 164}, {"Rmerge": 0.066, "name": "", "SmRmerge": 0.066, "N": 165}, {"Rmerge": 0.067, "name": "", "SmRmerge": 0.066, "N": 166}, {"Rmerge": 0.067, "name": "", "SmRmerge": 0.065, "N": 167}, {"Rmerge": 0.063, "name": "", "SmRmerge": 0.066, "N": 168}, {"Rmerge": 0.064, "name": "", "SmRmerge": 0.066, "N": 169}, {"Rmerge": 0.07, "name": "", "SmRmerge": 0.067, "N": 170}, {"Rmerge": 0.069, "name": "", "SmRmerge": 0.068, "N": 171}, {"Rmerge": 0.073, "name": "", "SmRmerge": 0.069, "N": 172}, {"Rmerge": 0.068, "name": "", "SmRmerge": 0.069, "N": 173}, {"Rmerge": 0.067, "name": "", "SmRmerge": 0.069, "N": 174}, {"Rmerge": 0.07, "name": "", "SmRmerge": 0.07, "N": 175}, {"Rmerge": 0.073, "name": "", "SmRmerge": 0.07, "N": 176}, {"Rmerge": 0.072, "name": "", "SmRmerge": 0.07, "N": 177}, {"Rmerge": 0.068, "name": "", "SmRmerge": 0.071, "N": 178}, {"Rmerge": 0.072, "name": "", "SmRmerge": 0.073, "N": 179}, {"Rmerge": 0.081, "name": "", "SmRmerge": 0.073, "N": 180}]},
+    axis:
+    {
+      x: {
+        label: {
+          text: 'N',
+          position: 'outer-center'
+        },
+
+      }
+    }
+,
+    legend: {
+      position: 'right'
+    },
+});
+
+</script><!--Div that will hold the chart-->
+<div>
+  <p>Imean/RMS scatter</p>
+  <div class="graph" id="chart_ImeanRMSscatter"></div>
+</div>
+
+<script type="text/javascript">
+
+var chart_ImeanRMSscatter = c3.generate({
+    bindto: '#chart_ImeanRMSscatter',
+    data: {"keys": {"x": "N", "value": ["I/rms"]}, "json": [{"I/rms": 3.49, "name": "", "N": 1}, {"I/rms": 5.22, "name": "", "N": 2}, {"I/rms": 5.74, "name": "", "N": 3}, {"I/rms": 5.64, "name": "", "N": 4}, {"I/rms": 5.68, "name": "", "N": 5}, {"I/rms": 6.07, "name": "", "N": 6}, {"I/rms": 5.56, "name": "", "N": 7}, {"I/rms": 5.91, "name": "", "N": 8}, {"I/rms": 6.56, "name": "", "N": 9}, {"I/rms": 5.89, "name": "", "N": 10}, {"I/rms": 5.55, "name": "", "N": 11}, {"I/rms": 5.34, "name": "", "N": 12}, {"I/rms": 5.63, "name": "", "N": 13}, {"I/rms": 6.75, "name": "", "N": 14}, {"I/rms": 6.14, "name": "", "N": 15}, {"I/rms": 6.5, "name": "", "N": 16}, {"I/rms": 5.52, "name": "", "N": 17}, {"I/rms": 7.09, "name": "", "N": 18}, {"I/rms": 6.77, "name": "", "N": 19}, {"I/rms": 6.65, "name": "", "N": 20}, {"I/rms": 6.11, "name": "", "N": 21}, {"I/rms": 6.31, "name": "", "N": 22}, {"I/rms": 6.16, "name": "", "N": 23}, {"I/rms": 5.96, "name": "", "N": 24}, {"I/rms": 5.48, "name": "", "N": 25}, {"I/rms": 6.26, "name": "", "N": 26}, {"I/rms": 6.72, "name": "", "N": 27}, {"I/rms": 6.06, "name": "", "N": 28}, {"I/rms": 7.67, "name": "", "N": 29}, {"I/rms": 6.04, "name": "", "N": 30}, {"I/rms": 5.96, "name": "", "N": 31}, {"I/rms": 7.93, "name": "", "N": 32}, {"I/rms": 6.51, "name": "", "N": 33}, {"I/rms": 7.14, "name": "", "N": 34}, {"I/rms": 6.88, "name": "", "N": 35}, {"I/rms": 7.24, "name": "", "N": 36}, {"I/rms": 7.32, "name": "", "N": 37}, {"I/rms": 5.45, "name": "", "N": 38}, {"I/rms": 8.24, "name": "", "N": 39}, {"I/rms": 6.51, "name": "", "N": 40}, {"I/rms": 7.43, "name": "", "N": 41}, {"I/rms": 8.0, "name": "", "N": 42}, {"I/rms": 6.99, "name": "", "N": 43}, {"I/rms": 6.08, "name": "", "N": 44}, {"I/rms": 8.15, "name": "", "N": 45}, {"I/rms": 7.35, "name": "", "N": 46}, {"I/rms": 6.84, "name": "", "N": 47}, {"I/rms": 8.54, "name": "", "N": 48}, {"I/rms": 7.0, "name": "", "N": 49}, {"I/rms": 7.65, "name": "", "N": 50}, {"I/rms": 9.49, "name": "", "N": 51}, {"I/rms": 6.23, "name": "", "N": 52}, {"I/rms": 8.01, "name": "", "N": 53}, {"I/rms": 8.8, "name": "", "N": 54}, {"I/rms": 8.5, "name": "", "N": 55}, {"I/rms": 6.16, "name": "", "N": 56}, {"I/rms": 9.07, "name": "", "N": 57}, {"I/rms": 9.58, "name": "", "N": 58}, {"I/rms": 5.93, "name": "", "N": 59}, {"I/rms": 8.14, "name": "", "N": 60}, {"I/rms": 8.24, "name": "", "N": 61}, {"I/rms": 7.25, "name": "", "N": 62}, {"I/rms": 7.45, "name": "", "N": 63}, {"I/rms": 9.61, "name": "", "N": 64}, {"I/rms": 8.72, "name": "", "N": 65}, {"I/rms": 8.79, "name": "", "N": 66}, {"I/rms": 9.51, "name": "", "N": 67}, {"I/rms": 7.58, "name": "", "N": 68}, {"I/rms": 7.74, "name": "", "N": 69}, {"I/rms": 8.26, "name": "", "N": 70}, {"I/rms": 7.13, "name": "", "N": 71}, {"I/rms": 8.76, "name": "", "N": 72}, {"I/rms": 7.89, "name": "", "N": 73}, {"I/rms": 4.93, "name": "", "N": 74}, {"I/rms": 7.86, "name": "", "N": 75}, {"I/rms": 6.16, "name": "", "N": 76}, {"I/rms": 6.18, "name": "", "N": 77}, {"I/rms": 7.62, "name": "", "N": 78}, {"I/rms": 8.27, "name": "", "N": 79}, {"I/rms": 7.0, "name": "", "N": 80}, {"I/rms": 7.57, "name": "", "N": 81}, {"I/rms": 7.43, "name": "", "N": 82}, {"I/rms": 7.1, "name": "", "N": 83}, {"I/rms": 7.46, "name": "", "N": 84}, {"I/rms": 8.33, "name": "", "N": 85}, {"I/rms": 7.14, "name": "", "N": 86}, {"I/rms": 6.37, "name": "", "N": 87}, {"I/rms": 6.75, "name": "", "N": 88}, {"I/rms": 7.87, "name": "", "N": 89}, {"I/rms": 7.21, "name": "", "N": 90}, {"I/rms": 7.03, "name": "", "N": 91}, {"I/rms": 6.39, "name": "", "N": 92}, {"I/rms": 7.59, "name": "", "N": 93}, {"I/rms": 4.61, "name": "", "N": 94}, {"I/rms": 6.57, "name": "", "N": 95}, {"I/rms": 6.52, "name": "", "N": 96}, {"I/rms": 4.77, "name": "", "N": 97}, {"I/rms": 5.85, "name": "", "N": 98}, {"I/rms": 7.58, "name": "", "N": 99}, {"I/rms": 6.01, "name": "", "N": 100}, {"I/rms": 6.63, "name": "", "N": 101}, {"I/rms": 6.22, "name": "", "N": 102}, {"I/rms": 6.49, "name": "", "N": 103}, {"I/rms": 5.54, "name": "", "N": 104}, {"I/rms": 7.18, "name": "", "N": 105}, {"I/rms": 6.18, "name": "", "N": 106}, {"I/rms": 6.25, "name": "", "N": 107}, {"I/rms": 6.14, "name": "", "N": 108}, {"I/rms": 4.14, "name": "", "N": 109}, {"I/rms": 7.49, "name": "", "N": 110}, {"I/rms": 7.49, "name": "", "N": 111}, {"I/rms": 7.5, "name": "", "N": 112}, {"I/rms": 6.81, "name": "", "N": 113}, {"I/rms": 6.22, "name": "", "N": 114}, {"I/rms": 7.21, "name": "", "N": 115}, {"I/rms": 5.77, "name": "", "N": 116}, {"I/rms": 6.75, "name": "", "N": 117}, {"I/rms": 7.3, "name": "", "N": 118}, {"I/rms": 6.71, "name": "", "N": 119}, {"I/rms": 7.3, "name": "", "N": 120}, {"I/rms": 6.46, "name": "", "N": 121}, {"I/rms": 8.49, "name": "", "N": 122}, {"I/rms": 7.73, "name": "", "N": 123}, {"I/rms": 7.19, "name": "", "N": 124}, {"I/rms": 4.38, "name": "", "N": 125}, {"I/rms": 6.92, "name": "", "N": 126}, {"I/rms": 7.44, "name": "", "N": 127}, {"I/rms": 7.22, "name": "", "N": 128}, {"I/rms": 7.72, "name": "", "N": 129}, {"I/rms": 7.61, "name": "", "N": 130}, {"I/rms": 6.77, "name": "", "N": 131}, {"I/rms": 7.54, "name": "", "N": 132}, {"I/rms": 4.45, "name": "", "N": 133}, {"I/rms": 6.79, "name": "", "N": 134}, {"I/rms": 6.1, "name": "", "N": 135}, {"I/rms": 6.25, "name": "", "N": 136}, {"I/rms": 6.53, "name": "", "N": 137}, {"I/rms": 7.05, "name": "", "N": 138}, {"I/rms": 6.1, "name": "", "N": 139}, {"I/rms": 6.73, "name": "", "N": 140}, {"I/rms": 7.07, "name": "", "N": 141}, {"I/rms": 6.25, "name": "", "N": 142}, {"I/rms": 6.91, "name": "", "N": 143}, {"I/rms": 6.38, "name": "", "N": 144}, {"I/rms": 7.08, "name": "", "N": 145}, {"I/rms": 6.65, "name": "", "N": 146}, {"I/rms": 7.25, "name": "", "N": 147}, {"I/rms": 6.47, "name": "", "N": 148}, {"I/rms": 7.11, "name": "", "N": 149}, {"I/rms": 6.67, "name": "", "N": 150}, {"I/rms": 7.08, "name": "", "N": 151}, {"I/rms": 6.47, "name": "", "N": 152}, {"I/rms": 5.75, "name": "", "N": 153}, {"I/rms": 6.05, "name": "", "N": 154}, {"I/rms": 7.5, "name": "", "N": 155}, {"I/rms": 5.55, "name": "", "N": 156}, {"I/rms": 6.13, "name": "", "N": 157}, {"I/rms": 6.26, "name": "", "N": 158}, {"I/rms": 6.16, "name": "", "N": 159}, {"I/rms": 6.47, "name": "", "N": 160}, {"I/rms": 5.58, "name": "", "N": 161}, {"I/rms": 5.47, "name": "", "N": 162}, {"I/rms": 5.64, "name": "", "N": 163}, {"I/rms": 5.08, "name": "", "N": 164}, {"I/rms": 4.58, "name": "", "N": 165}, {"I/rms": 5.41, "name": "", "N": 166}, {"I/rms": 5.18, "name": "", "N": 167}, {"I/rms": 5.87, "name": "", "N": 168}, {"I/rms": 5.87, "name": "", "N": 169}, {"I/rms": 4.82, "name": "", "N": 170}, {"I/rms": 4.68, "name": "", "N": 171}, {"I/rms": 4.39, "name": "", "N": 172}, {"I/rms": 4.88, "name": "", "N": 173}, {"I/rms": 5.18, "name": "", "N": 174}, {"I/rms": 4.77, "name": "", "N": 175}, {"I/rms": 5.3, "name": "", "N": 176}, {"I/rms": 5.14, "name": "", "N": 177}, {"I/rms": 5.26, "name": "", "N": 178}, {"I/rms": 4.92, "name": "", "N": 179}, {"I/rms": 2.93, "name": "", "N": 180}]},
+    axis:
+    {
+      x: {
+        label: {
+          text: 'N',
+          position: 'outer-center'
+        },
+
+      }
+    }
+,
+    legend: {
+      position: 'right'
+    },
+});
+
+</script><!--Div that will hold the chart-->
+<div>
+  <p>Number of rejects</p>
+  <div class="graph" id="chart_Numberofrejects"></div>
+</div>
+
+<script type="text/javascript">
+
+var chart_Numberofrejects = c3.generate({
+    bindto: '#chart_Numberofrejects',
+    data: {"keys": {"x": "N", "value": ["Nrej"]}, "json": [{"Nrej": 0, "name": "", "N": 1}, {"Nrej": 0, "name": "", "N": 2}, {"Nrej": 0, "name": "", "N": 3}, {"Nrej": 0, "name": "", "N": 4}, {"Nrej": 0, "name": "", "N": 5}, {"Nrej": 0, "name": "", "N": 6}, {"Nrej": 0, "name": "", "N": 7}, {"Nrej": 0, "name": "", "N": 8}, {"Nrej": 0, "name": "", "N": 9}, {"Nrej": 0, "name": "", "N": 10}, {"Nrej": 0, "name": "", "N": 11}, {"Nrej": 0, "name": "", "N": 12}, {"Nrej": 0, "name": "", "N": 13}, {"Nrej": 0, "name": "", "N": 14}, {"Nrej": 0, "name": "", "N": 15}, {"Nrej": 0, "name": "", "N": 16}, {"Nrej": 0, "name": "", "N": 17}, {"Nrej": 0, "name": "", "N": 18}, {"Nrej": 0, "name": "", "N": 19}, {"Nrej": 0, "name": "", "N": 20}, {"Nrej": 0, "name": "", "N": 21}, {"Nrej": 0, "name": "", "N": 22}, {"Nrej": 0, "name": "", "N": 23}, {"Nrej": 0, "name": "", "N": 24}, {"Nrej": 0, "name": "", "N": 25}, {"Nrej": 0, "name": "", "N": 26}, {"Nrej": 0, "name": "", "N": 27}, {"Nrej": 0, "name": "", "N": 28}, {"Nrej": 0, "name": "", "N": 29}, {"Nrej": 0, "name": "", "N": 30}, {"Nrej": 0, "name": "", "N": 31}, {"Nrej": 0, "name": "", "N": 32}, {"Nrej": 0, "name": "", "N": 33}, {"Nrej": 0, "name": "", "N": 34}, {"Nrej": 0, "name": "", "N": 35}, {"Nrej": 0, "name": "", "N": 36}, {"Nrej": 0, "name": "", "N": 37}, {"Nrej": 0, "name": "", "N": 38}, {"Nrej": 0, "name": "", "N": 39}, {"Nrej": 0, "name": "", "N": 40}, {"Nrej": 0, "name": "", "N": 41}, {"Nrej": 0, "name": "", "N": 42}, {"Nrej": 0, "name": "", "N": 43}, {"Nrej": 0, "name": "", "N": 44}, {"Nrej": 0, "name": "", "N": 45}, {"Nrej": 0, "name": "", "N": 46}, {"Nrej": 0, "name": "", "N": 47}, {"Nrej": 0, "name": "", "N": 48}, {"Nrej": 0, "name": "", "N": 49}, {"Nrej": 0, "name": "", "N": 50}, {"Nrej": 0, "name": "", "N": 51}, {"Nrej": 0, "name": "", "N": 52}, {"Nrej": 0, "name": "", "N": 53}, {"Nrej": 0, "name": "", "N": 54}, {"Nrej": 0, "name": "", "N": 55}, {"Nrej": 0, "name": "", "N": 56}, {"Nrej": 0, "name": "", "N": 57}, {"Nrej": 0, "name": "", "N": 58}, {"Nrej": 0, "name": "", "N": 59}, {"Nrej": 0, "name": "", "N": 60}, {"Nrej": 0, "name": "", "N": 61}, {"Nrej": 0, "name": "", "N": 62}, {"Nrej": 0, "name": "", "N": 63}, {"Nrej": 0, "name": "", "N": 64}, {"Nrej": 0, "name": "", "N": 65}, {"Nrej": 0, "name": "", "N": 66}, {"Nrej": 0, "name": "", "N": 67}, {"Nrej": 0, "name": "", "N": 68}, {"Nrej": 0, "name": "", "N": 69}, {"Nrej": 0, "name": "", "N": 70}, {"Nrej": 0, "name": "", "N": 71}, {"Nrej": 0, "name": "", "N": 72}, {"Nrej": 0, "name": "", "N": 73}, {"Nrej": 0, "name": "", "N": 74}, {"Nrej": 0, "name": "", "N": 75}, {"Nrej": 0, "name": "", "N": 76}, {"Nrej": 0, "name": "", "N": 77}, {"Nrej": 0, "name": "", "N": 78}, {"Nrej": 0, "name": "", "N": 79}, {"Nrej": 0, "name": "", "N": 80}, {"Nrej": 0, "name": "", "N": 81}, {"Nrej": 0, "name": "", "N": 82}, {"Nrej": 0, "name": "", "N": 83}, {"Nrej": 0, "name": "", "N": 84}, {"Nrej": 0, "name": "", "N": 85}, {"Nrej": 0, "name": "", "N": 86}, {"Nrej": 0, "name": "", "N": 87}, {"Nrej": 0, "name": "", "N": 88}, {"Nrej": 0, "name": "", "N": 89}, {"Nrej": 0, "name": "", "N": 90}, {"Nrej": 0, "name": "", "N": 91}, {"Nrej": 0, "name": "", "N": 92}, {"Nrej": 0, "name": "", "N": 93}, {"Nrej": 0, "name": "", "N": 94}, {"Nrej": 0, "name": "", "N": 95}, {"Nrej": 0, "name": "", "N": 96}, {"Nrej": 0, "name": "", "N": 97}, {"Nrej": 0, "name": "", "N": 98}, {"Nrej": 0, "name": "", "N": 99}, {"Nrej": 0, "name": "", "N": 100}, {"Nrej": 0, "name": "", "N": 101}, {"Nrej": 0, "name": "", "N": 102}, {"Nrej": 0, "name": "", "N": 103}, {"Nrej": 0, "name": "", "N": 104}, {"Nrej": 0, "name": "", "N": 105}, {"Nrej": 0, "name": "", "N": 106}, {"Nrej": 0, "name": "", "N": 107}, {"Nrej": 0, "name": "", "N": 108}, {"Nrej": 0, "name": "", "N": 109}, {"Nrej": 0, "name": "", "N": 110}, {"Nrej": 0, "name": "", "N": 111}, {"Nrej": 0, "name": "", "N": 112}, {"Nrej": 0, "name": "", "N": 113}, {"Nrej": 0, "name": "", "N": 114}, {"Nrej": 0, "name": "", "N": 115}, {"Nrej": 0, "name": "", "N": 116}, {"Nrej": 0, "name": "", "N": 117}, {"Nrej": 0, "name": "", "N": 118}, {"Nrej": 0, "name": "", "N": 119}, {"Nrej": 0, "name": "", "N": 120}, {"Nrej": 0, "name": "", "N": 121}, {"Nrej": 0, "name": "", "N": 122}, {"Nrej": 0, "name": "", "N": 123}, {"Nrej": 0, "name": "", "N": 124}, {"Nrej": 0, "name": "", "N": 125}, {"Nrej": 0, "name": "", "N": 126}, {"Nrej": 0, "name": "", "N": 127}, {"Nrej": 0, "name": "", "N": 128}, {"Nrej": 0, "name": "", "N": 129}, {"Nrej": 0, "name": "", "N": 130}, {"Nrej": 0, "name": "", "N": 131}, {"Nrej": 0, "name": "", "N": 132}, {"Nrej": 0, "name": "", "N": 133}, {"Nrej": 0, "name": "", "N": 134}, {"Nrej": 0, "name": "", "N": 135}, {"Nrej": 0, "name": "", "N": 136}, {"Nrej": 0, "name": "", "N": 137}, {"Nrej": 0, "name": "", "N": 138}, {"Nrej": 0, "name": "", "N": 139}, {"Nrej": 0, "name": "", "N": 140}, {"Nrej": 0, "name": "", "N": 141}, {"Nrej": 0, "name": "", "N": 142}, {"Nrej": 0, "name": "", "N": 143}, {"Nrej": 0, "name": "", "N": 144}, {"Nrej": 0, "name": "", "N": 145}, {"Nrej": 0, "name": "", "N": 146}, {"Nrej": 0, "name": "", "N": 147}, {"Nrej": 0, "name": "", "N": 148}, {"Nrej": 0, "name": "", "N": 149}, {"Nrej": 0, "name": "", "N": 150}, {"Nrej": 0, "name": "", "N": 151}, {"Nrej": 0, "name": "", "N": 152}, {"Nrej": 0, "name": "", "N": 153}, {"Nrej": 0, "name": "", "N": 154}, {"Nrej": 0, "name": "", "N": 155}, {"Nrej": 0, "name": "", "N": 156}, {"Nrej": 0, "name": "", "N": 157}, {"Nrej": 0, "name": "", "N": 158}, {"Nrej": 0, "name": "", "N": 159}, {"Nrej": 0, "name": "", "N": 160}, {"Nrej": 0, "name": "", "N": 161}, {"Nrej": 0, "name": "", "N": 162}, {"Nrej": 0, "name": "", "N": 163}, {"Nrej": 0, "name": "", "N": 164}, {"Nrej": 0, "name": "", "N": 165}, {"Nrej": 0, "name": "", "N": 166}, {"Nrej": 0, "name": "", "N": 167}, {"Nrej": 0, "name": "", "N": 168}, {"Nrej": 0, "name": "", "N": 169}, {"Nrej": 0, "name": "", "N": 170}, {"Nrej": 0, "name": "", "N": 171}, {"Nrej": 0, "name": "", "N": 172}, {"Nrej": 0, "name": "", "N": 173}, {"Nrej": 0, "name": "", "N": 174}, {"Nrej": 0, "name": "", "N": 175}, {"Nrej": 0, "name": "", "N": 176}, {"Nrej": 0, "name": "", "N": 177}, {"Nrej": 0, "name": "", "N": 178}, {"Nrej": 0, "name": "", "N": 179}, {"Nrej": 0, "name": "", "N": 180}]},
+    axis:
+    {
+      x: {
+        label: {
+          text: 'N',
+          position: 'outer-center'
+        },
+
+      }
+    }
+,
+    legend: {
+      position: 'right'
+    },
+});
+
+</script><!--Div that will hold the chart-->
+<div>
+  <p>Cumulative multiplicity</p>
+  <div class="graph" id="chart_Cumulativemultiplicity"></div>
+</div>
+
+<script type="text/javascript">
+
+var chart_Cumulativemultiplicity = c3.generate({
+    bindto: '#chart_Cumulativemultiplicity',
+    data: {"keys": {"x": "N", "value": ["CMlplc"]}, "json": [{"CMlplc": 0.05, "name": "", "N": 1}, {"CMlplc": 0.12, "name": "", "N": 2}, {"CMlplc": 0.19, "name": "", "N": 3}, {"CMlplc": 0.26, "name": "", "N": 4}, {"CMlplc": 0.33, "name": "", "N": 5}, {"CMlplc": 0.4, "name": "", "N": 6}, {"CMlplc": 0.47, "name": "", "N": 7}, {"CMlplc": 0.54, "name": "", "N": 8}, {"CMlplc": 0.61, "name": "", "N": 9}, {"CMlplc": 0.68, "name": "", "N": 10}, {"CMlplc": 0.75, "name": "", "N": 11}, {"CMlplc": 0.82, "name": "", "N": 12}, {"CMlplc": 0.89, "name": "", "N": 13}, {"CMlplc": 0.96, "name": "", "N": 14}, {"CMlplc": 1.03, "name": "", "N": 15}, {"CMlplc": 1.1, "name": "", "N": 16}, {"CMlplc": 1.17, "name": "", "N": 17}, {"CMlplc": 1.24, "name": "", "N": 18}, {"CMlplc": 1.31, "name": "", "N": 19}, {"CMlplc": 1.38, "name": "", "N": 20}, {"CMlplc": 1.45, "name": "", "N": 21}, {"CMlplc": 1.52, "name": "", "N": 22}, {"CMlplc": 1.59, "name": "", "N": 23}, {"CMlplc": 1.66, "name": "", "N": 24}, {"CMlplc": 1.73, "name": "", "N": 25}, {"CMlplc": 1.8, "name": "", "N": 26}, {"CMlplc": 1.87, "name": "", "N": 27}, {"CMlplc": 1.94, "name": "", "N": 28}, {"CMlplc": 2.01, "name": "", "N": 29}, {"CMlplc": 2.08, "name": "", "N": 30}, {"CMlplc": 2.16, "name": "", "N": 31}, {"CMlplc": 2.23, "name": "", "N": 32}, {"CMlplc": 2.3, "name": "", "N": 33}, {"CMlplc": 2.37, "name": "", "N": 34}, {"CMlplc": 2.44, "name": "", "N": 35}, {"CMlplc": 2.51, "name": "", "N": 36}, {"CMlplc": 2.58, "name": "", "N": 37}, {"CMlplc": 2.65, "name": "", "N": 38}, {"CMlplc": 2.72, "name": "", "N": 39}, {"CMlplc": 2.79, "name": "", "N": 40}, {"CMlplc": 2.86, "name": "", "N": 41}, {"CMlplc": 2.93, "name": "", "N": 42}, {"CMlplc": 3.0, "name": "", "N": 43}, {"CMlplc": 3.08, "name": "", "N": 44}, {"CMlplc": 3.15, "name": "", "N": 45}, {"CMlplc": 3.22, "name": "", "N": 46}, {"CMlplc": 3.29, "name": "", "N": 47}, {"CMlplc": 3.36, "name": "", "N": 48}, {"CMlplc": 3.43, "name": "", "N": 49}, {"CMlplc": 3.5, "name": "", "N": 50}, {"CMlplc": 3.57, "name": "", "N": 51}, {"CMlplc": 3.64, "name": "", "N": 52}, {"CMlplc": 3.72, "name": "", "N": 53}, {"CMlplc": 3.79, "name": "", "N": 54}, {"CMlplc": 3.86, "name": "", "N": 55}, {"CMlplc": 3.93, "name": "", "N": 56}, {"CMlplc": 4.0, "name": "", "N": 57}, {"CMlplc": 4.08, "name": "", "N": 58}, {"CMlplc": 4.15, "name": "", "N": 59}, {"CMlplc": 4.22, "name": "", "N": 60}, {"CMlplc": 4.29, "name": "", "N": 61}, {"CMlplc": 4.37, "name": "", "N": 62}, {"CMlplc": 4.44, "name": "", "N": 63}, {"CMlplc": 4.51, "name": "", "N": 64}, {"CMlplc": 4.58, "name": "", "N": 65}, {"CMlplc": 4.65, "name": "", "N": 66}, {"CMlplc": 4.73, "name": "", "N": 67}, {"CMlplc": 4.8, "name": "", "N": 68}, {"CMlplc": 4.87, "name": "", "N": 69}, {"CMlplc": 4.94, "name": "", "N": 70}, {"CMlplc": 5.02, "name": "", "N": 71}, {"CMlplc": 5.09, "name": "", "N": 72}, {"CMlplc": 5.16, "name": "", "N": 73}, {"CMlplc": 5.24, "name": "", "N": 74}, {"CMlplc": 5.31, "name": "", "N": 75}, {"CMlplc": 5.38, "name": "", "N": 76}, {"CMlplc": 5.45, "name": "", "N": 77}, {"CMlplc": 5.53, "name": "", "N": 78}, {"CMlplc": 5.6, "name": "", "N": 79}, {"CMlplc": 5.67, "name": "", "N": 80}, {"CMlplc": 5.74, "name": "", "N": 81}, {"CMlplc": 5.82, "name": "", "N": 82}, {"CMlplc": 5.89, "name": "", "N": 83}, {"CMlplc": 5.96, "name": "", "N": 84}, {"CMlplc": 6.03, "name": "", "N": 85}, {"CMlplc": 6.11, "name": "", "N": 86}, {"CMlplc": 6.18, "name": "", "N": 87}, {"CMlplc": 6.25, "name": "", "N": 88}, {"CMlplc": 6.32, "name": "", "N": 89}, {"CMlplc": 6.4, "name": "", "N": 90}, {"CMlplc": 6.47, "name": "", "N": 91}, {"CMlplc": 6.54, "name": "", "N": 92}, {"CMlplc": 6.61, "name": "", "N": 93}, {"CMlplc": 6.68, "name": "", "N": 94}, {"CMlplc": 6.75, "name": "", "N": 95}, {"CMlplc": 6.83, "name": "", "N": 96}, {"CMlplc": 6.9, "name": "", "N": 97}, {"CMlplc": 6.97, "name": "", "N": 98}, {"CMlplc": 7.04, "name": "", "N": 99}, {"CMlplc": 7.11, "name": "", "N": 100}, {"CMlplc": 7.18, "name": "", "N": 101}, {"CMlplc": 7.25, "name": "", "N": 102}, {"CMlplc": 7.33, "name": "", "N": 103}, {"CMlplc": 7.4, "name": "", "N": 104}, {"CMlplc": 7.47, "name": "", "N": 105}, {"CMlplc": 7.54, "name": "", "N": 106}, {"CMlplc": 7.61, "name": "", "N": 107}, {"CMlplc": 7.68, "name": "", "N": 108}, {"CMlplc": 7.75, "name": "", "N": 109}, {"CMlplc": 7.82, "name": "", "N": 110}, {"CMlplc": 7.89, "name": "", "N": 111}, {"CMlplc": 7.96, "name": "", "N": 112}, {"CMlplc": 8.03, "name": "", "N": 113}, {"CMlplc": 8.1, "name": "", "N": 114}, {"CMlplc": 8.17, "name": "", "N": 115}, {"CMlplc": 8.24, "name": "", "N": 116}, {"CMlplc": 8.31, "name": "", "N": 117}, {"CMlplc": 8.38, "name": "", "N": 118}, {"CMlplc": 8.45, "name": "", "N": 119}, {"CMlplc": 8.52, "name": "", "N": 120}, {"CMlplc": 8.59, "name": "", "N": 121}, {"CMlplc": 8.66, "name": "", "N": 122}, {"CMlplc": 8.74, "name": "", "N": 123}, {"CMlplc": 8.8, "name": "", "N": 124}, {"CMlplc": 8.87, "name": "", "N": 125}, {"CMlplc": 8.94, "name": "", "N": 126}, {"CMlplc": 9.01, "name": "", "N": 127}, {"CMlplc": 9.08, "name": "", "N": 128}, {"CMlplc": 9.15, "name": "", "N": 129}, {"CMlplc": 9.22, "name": "", "N": 130}, {"CMlplc": 9.29, "name": "", "N": 131}, {"CMlplc": 9.36, "name": "", "N": 132}, {"CMlplc": 9.43, "name": "", "N": 133}, {"CMlplc": 9.5, "name": "", "N": 134}, {"CMlplc": 9.57, "name": "", "N": 135}, {"CMlplc": 9.64, "name": "", "N": 136}, {"CMlplc": 9.71, "name": "", "N": 137}, {"CMlplc": 9.78, "name": "", "N": 138}, {"CMlplc": 9.85, "name": "", "N": 139}, {"CMlplc": 9.91, "name": "", "N": 140}, {"CMlplc": 9.98, "name": "", "N": 141}, {"CMlplc": 10.05, "name": "", "N": 142}, {"CMlplc": 10.12, "name": "", "N": 143}, {"CMlplc": 10.19, "name": "", "N": 144}, {"CMlplc": 10.26, "name": "", "N": 145}, {"CMlplc": 10.33, "name": "", "N": 146}, {"CMlplc": 10.4, "name": "", "N": 147}, {"CMlplc": 10.47, "name": "", "N": 148}, {"CMlplc": 10.54, "name": "", "N": 149}, {"CMlplc": 10.61, "name": "", "N": 150}, {"CMlplc": 10.67, "name": "", "N": 151}, {"CMlplc": 10.74, "name": "", "N": 152}, {"CMlplc": 10.81, "name": "", "N": 153}, {"CMlplc": 10.88, "name": "", "N": 154}, {"CMlplc": 10.95, "name": "", "N": 155}, {"CMlplc": 11.02, "name": "", "N": 156}, {"CMlplc": 11.09, "name": "", "N": 157}, {"CMlplc": 11.16, "name": "", "N": 158}, {"CMlplc": 11.23, "name": "", "N": 159}, {"CMlplc": 11.3, "name": "", "N": 160}, {"CMlplc": 11.36, "name": "", "N": 161}, {"CMlplc": 11.43, "name": "", "N": 162}, {"CMlplc": 11.5, "name": "", "N": 163}, {"CMlplc": 11.57, "name": "", "N": 164}, {"CMlplc": 11.64, "name": "", "N": 165}, {"CMlplc": 11.71, "name": "", "N": 166}, {"CMlplc": 11.78, "name": "", "N": 167}, {"CMlplc": 11.85, "name": "", "N": 168}, {"CMlplc": 11.92, "name": "", "N": 169}, {"CMlplc": 11.98, "name": "", "N": 170}, {"CMlplc": 12.05, "name": "", "N": 171}, {"CMlplc": 12.12, "name": "", "N": 172}, {"CMlplc": 12.19, "name": "", "N": 173}, {"CMlplc": 12.26, "name": "", "N": 174}, {"CMlplc": 12.33, "name": "", "N": 175}, {"CMlplc": 12.39, "name": "", "N": 176}, {"CMlplc": 12.46, "name": "", "N": 177}, {"CMlplc": 12.53, "name": "", "N": 178}, {"CMlplc": 12.6, "name": "", "N": 179}, {"CMlplc": 12.65, "name": "", "N": 180}]},
+    axis:
+    {
+      x: {
+        label: {
+          text: 'N',
+          position: 'outer-center'
+        },
+
+      }
+    }
+,
+    legend: {
+      position: 'right'
+    },
+});
+
+</script><!--Div that will hold the chart-->
+<div>
+  <p>Imean &amp; RMS Scatter</p>
+  <div class="graph" id="chart_ImeanRMSScatter"></div>
+</div>
+
+<script type="text/javascript">
+
+var chart_ImeanRMSScatter = c3.generate({
+    bindto: '#chart_ImeanRMSScatter',
+    data: {"keys": {"x": "N", "value": ["Mn(I)", "RMSdev"]}, "json": [{"RMSdev": 1216.0, "Mn(I)": 4239.7, "name": "", "N": 1}, {"RMSdev": 807.3, "Mn(I)": 4213.6, "name": "", "N": 2}, {"RMSdev": 702.1, "Mn(I)": 4031.6, "name": "", "N": 3}, {"RMSdev": 714.7, "Mn(I)": 4030.6, "name": "", "N": 4}, {"RMSdev": 755.7, "Mn(I)": 4294.8, "name": "", "N": 5}, {"RMSdev": 694.1, "Mn(I)": 4212.8, "name": "", "N": 6}, {"RMSdev": 786.4, "Mn(I)": 4369.5, "name": "", "N": 7}, {"RMSdev": 733.2, "Mn(I)": 4330.7, "name": "", "N": 8}, {"RMSdev": 584.6, "Mn(I)": 3833.4, "name": "", "N": 9}, {"RMSdev": 738.3, "Mn(I)": 4348.3, "name": "", "N": 10}, {"RMSdev": 799.2, "Mn(I)": 4434.2, "name": "", "N": 11}, {"RMSdev": 773.8, "Mn(I)": 4129.5, "name": "", "N": 12}, {"RMSdev": 834.7, "Mn(I)": 4699.4, "name": "", "N": 13}, {"RMSdev": 598.3, "Mn(I)": 4037.4, "name": "", "N": 14}, {"RMSdev": 688.1, "Mn(I)": 4223.4, "name": "", "N": 15}, {"RMSdev": 636.5, "Mn(I)": 4139.8, "name": "", "N": 16}, {"RMSdev": 782.9, "Mn(I)": 4319.2, "name": "", "N": 17}, {"RMSdev": 641.9, "Mn(I)": 4552.5, "name": "", "N": 18}, {"RMSdev": 567.1, "Mn(I)": 3837.4, "name": "", "N": 19}, {"RMSdev": 648.3, "Mn(I)": 4312.5, "name": "", "N": 20}, {"RMSdev": 751.2, "Mn(I)": 4587.0, "name": "", "N": 21}, {"RMSdev": 667.4, "Mn(I)": 4214.5, "name": "", "N": 22}, {"RMSdev": 774.3, "Mn(I)": 4770.9, "name": "", "N": 23}, {"RMSdev": 745.5, "Mn(I)": 4443.8, "name": "", "N": 24}, {"RMSdev": 783.9, "Mn(I)": 4294.3, "name": "", "N": 25}, {"RMSdev": 720.6, "Mn(I)": 4514.5, "name": "", "N": 26}, {"RMSdev": 673.8, "Mn(I)": 4524.9, "name": "", "N": 27}, {"RMSdev": 720.3, "Mn(I)": 4364.5, "name": "", "N": 28}, {"RMSdev": 556.4, "Mn(I)": 4266.8, "name": "", "N": 29}, {"RMSdev": 744.3, "Mn(I)": 4496.4, "name": "", "N": 30}, {"RMSdev": 761.1, "Mn(I)": 4534.7, "name": "", "N": 31}, {"RMSdev": 523.8, "Mn(I)": 4155.3, "name": "", "N": 32}, {"RMSdev": 685.6, "Mn(I)": 4466.1, "name": "", "N": 33}, {"RMSdev": 604.7, "Mn(I)": 4314.7, "name": "", "N": 34}, {"RMSdev": 600.5, "Mn(I)": 4132.7, "name": "", "N": 35}, {"RMSdev": 666.7, "Mn(I)": 4829.2, "name": "", "N": 36}, {"RMSdev": 583.1, "Mn(I)": 4267.0, "name": "", "N": 37}, {"RMSdev": 879.2, "Mn(I)": 4793.4, "name": "", "N": 38}, {"RMSdev": 553.7, "Mn(I)": 4564.1, "name": "", "N": 39}, {"RMSdev": 720.7, "Mn(I)": 4688.2, "name": "", "N": 40}, {"RMSdev": 604.5, "Mn(I)": 4490.2, "name": "", "N": 41}, {"RMSdev": 562.1, "Mn(I)": 4499.0, "name": "", "N": 42}, {"RMSdev": 640.8, "Mn(I)": 4477.2, "name": "", "N": 43}, {"RMSdev": 771.8, "Mn(I)": 4692.4, "name": "", "N": 44}, {"RMSdev": 553.9, "Mn(I)": 4514.9, "name": "", "N": 45}, {"RMSdev": 623.9, "Mn(I)": 4588.8, "name": "", "N": 46}, {"RMSdev": 665.0, "Mn(I)": 4550.6, "name": "", "N": 47}, {"RMSdev": 497.8, "Mn(I)": 4253.5, "name": "", "N": 48}, {"RMSdev": 615.4, "Mn(I)": 4306.1, "name": "", "N": 49}, {"RMSdev": 595.0, "Mn(I)": 4553.5, "name": "", "N": 50}, {"RMSdev": 460.8, "Mn(I)": 4372.0, "name": "", "N": 51}, {"RMSdev": 743.3, "Mn(I)": 4629.3, "name": "", "N": 52}, {"RMSdev": 530.5, "Mn(I)": 4249.3, "name": "", "N": 53}, {"RMSdev": 467.0, "Mn(I)": 4108.1, "name": "", "N": 54}, {"RMSdev": 516.5, "Mn(I)": 4392.9, "name": "", "N": 55}, {"RMSdev": 683.3, "Mn(I)": 4208.8, "name": "", "N": 56}, {"RMSdev": 472.3, "Mn(I)": 4285.7, "name": "", "N": 57}, {"RMSdev": 460.3, "Mn(I)": 4412.0, "name": "", "N": 58}, {"RMSdev": 739.0, "Mn(I)": 4384.3, "name": "", "N": 59}, {"RMSdev": 519.1, "Mn(I)": 4227.4, "name": "", "N": 60}, {"RMSdev": 510.1, "Mn(I)": 4204.0, "name": "", "N": 61}, {"RMSdev": 643.0, "Mn(I)": 4663.6, "name": "", "N": 62}, {"RMSdev": 595.7, "Mn(I)": 4439.9, "name": "", "N": 63}, {"RMSdev": 452.1, "Mn(I)": 4345.2, "name": "", "N": 64}, {"RMSdev": 496.4, "Mn(I)": 4329.7, "name": "", "N": 65}, {"RMSdev": 436.4, "Mn(I)": 3834.9, "name": "", "N": 66}, {"RMSdev": 444.1, "Mn(I)": 4223.1, "name": "", "N": 67}, {"RMSdev": 533.5, "Mn(I)": 4046.3, "name": "", "N": 68}, {"RMSdev": 563.0, "Mn(I)": 4356.4, "name": "", "N": 69}, {"RMSdev": 517.0, "Mn(I)": 4269.6, "name": "", "N": 70}, {"RMSdev": 561.7, "Mn(I)": 4005.6, "name": "", "N": 71}, {"RMSdev": 443.3, "Mn(I)": 3881.5, "name": "", "N": 72}, {"RMSdev": 548.1, "Mn(I)": 4326.2, "name": "", "N": 73}, {"RMSdev": 749.1, "Mn(I)": 3695.0, "name": "", "N": 74}, {"RMSdev": 523.5, "Mn(I)": 4112.1, "name": "", "N": 75}, {"RMSdev": 644.4, "Mn(I)": 3970.6, "name": "", "N": 76}, {"RMSdev": 633.6, "Mn(I)": 3914.7, "name": "", "N": 77}, {"RMSdev": 570.9, "Mn(I)": 4347.4, "name": "", "N": 78}, {"RMSdev": 449.2, "Mn(I)": 3715.8, "name": "", "N": 79}, {"RMSdev": 575.5, "Mn(I)": 4025.9, "name": "", "N": 80}, {"RMSdev": 526.3, "Mn(I)": 3983.7, "name": "", "N": 81}, {"RMSdev": 548.2, "Mn(I)": 4073.4, "name": "", "N": 82}, {"RMSdev": 540.0, "Mn(I)": 3836.5, "name": "", "N": 83}, {"RMSdev": 509.2, "Mn(I)": 3800.6, "name": "", "N": 84}, {"RMSdev": 470.3, "Mn(I)": 3918.2, "name": "", "N": 85}, {"RMSdev": 575.3, "Mn(I)": 4106.4, "name": "", "N": 86}, {"RMSdev": 634.0, "Mn(I)": 4040.1, "name": "", "N": 87}, {"RMSdev": 567.2, "Mn(I)": 3830.7, "name": "", "N": 88}, {"RMSdev": 474.7, "Mn(I)": 3736.1, "name": "", "N": 89}, {"RMSdev": 536.8, "Mn(I)": 3869.3, "name": "", "N": 90}, {"RMSdev": 527.3, "Mn(I)": 3708.9, "name": "", "N": 91}, {"RMSdev": 589.6, "Mn(I)": 3767.5, "name": "", "N": 92}, {"RMSdev": 491.6, "Mn(I)": 3730.5, "name": "", "N": 93}, {"RMSdev": 830.9, "Mn(I)": 3832.7, "name": "", "N": 94}, {"RMSdev": 629.8, "Mn(I)": 4139.8, "name": "", "N": 95}, {"RMSdev": 577.1, "Mn(I)": 3763.6, "name": "", "N": 96}, {"RMSdev": 814.1, "Mn(I)": 3879.0, "name": "", "N": 97}, {"RMSdev": 610.3, "Mn(I)": 3570.1, "name": "", "N": 98}, {"RMSdev": 504.7, "Mn(I)": 3824.7, "name": "", "N": 99}, {"RMSdev": 636.5, "Mn(I)": 3825.5, "name": "", "N": 100}, {"RMSdev": 571.9, "Mn(I)": 3789.4, "name": "", "N": 101}, {"RMSdev": 596.9, "Mn(I)": 3714.7, "name": "", "N": 102}, {"RMSdev": 574.1, "Mn(I)": 3727.3, "name": "", "N": 103}, {"RMSdev": 672.4, "Mn(I)": 3722.4, "name": "", "N": 104}, {"RMSdev": 559.4, "Mn(I)": 4018.1, "name": "", "N": 105}, {"RMSdev": 630.9, "Mn(I)": 3898.5, "name": "", "N": 106}, {"RMSdev": 565.2, "Mn(I)": 3534.7, "name": "", "N": 107}, {"RMSdev": 616.3, "Mn(I)": 3781.9, "name": "", "N": 108}, {"RMSdev": 892.2, "Mn(I)": 3697.6, "name": "", "N": 109}, {"RMSdev": 528.2, "Mn(I)": 3954.9, "name": "", "N": 110}, {"RMSdev": 472.6, "Mn(I)": 3538.9, "name": "", "N": 111}, {"RMSdev": 487.3, "Mn(I)": 3657.2, "name": "", "N": 112}, {"RMSdev": 557.3, "Mn(I)": 3793.8, "name": "", "N": 113}, {"RMSdev": 542.5, "Mn(I)": 3375.9, "name": "", "N": 114}, {"RMSdev": 513.6, "Mn(I)": 3703.1, "name": "", "N": 115}, {"RMSdev": 598.6, "Mn(I)": 3451.7, "name": "", "N": 116}, {"RMSdev": 594.8, "Mn(I)": 4016.0, "name": "", "N": 117}, {"RMSdev": 501.7, "Mn(I)": 3664.4, "name": "", "N": 118}, {"RMSdev": 508.6, "Mn(I)": 3411.0, "name": "", "N": 119}, {"RMSdev": 496.6, "Mn(I)": 3625.1, "name": "", "N": 120}, {"RMSdev": 508.9, "Mn(I)": 3286.1, "name": "", "N": 121}, {"RMSdev": 440.7, "Mn(I)": 3742.8, "name": "", "N": 122}, {"RMSdev": 447.1, "Mn(I)": 3454.9, "name": "", "N": 123}, {"RMSdev": 460.5, "Mn(I)": 3312.2, "name": "", "N": 124}, {"RMSdev": 820.7, "Mn(I)": 3598.1, "name": "", "N": 125}, {"RMSdev": 583.8, "Mn(I)": 4037.8, "name": "", "N": 126}, {"RMSdev": 498.7, "Mn(I)": 3708.4, "name": "", "N": 127}, {"RMSdev": 487.8, "Mn(I)": 3520.3, "name": "", "N": 128}, {"RMSdev": 451.4, "Mn(I)": 3483.4, "name": "", "N": 129}, {"RMSdev": 485.2, "Mn(I)": 3692.4, "name": "", "N": 130}, {"RMSdev": 569.5, "Mn(I)": 3855.2, "name": "", "N": 131}, {"RMSdev": 494.3, "Mn(I)": 3727.1, "name": "", "N": 132}, {"RMSdev": 771.8, "Mn(I)": 3432.1, "name": "", "N": 133}, {"RMSdev": 540.4, "Mn(I)": 3669.5, "name": "", "N": 134}, {"RMSdev": 591.2, "Mn(I)": 3606.1, "name": "", "N": 135}, {"RMSdev": 514.5, "Mn(I)": 3215.0, "name": "", "N": 136}, {"RMSdev": 546.6, "Mn(I)": 3569.6, "name": "", "N": 137}, {"RMSdev": 501.2, "Mn(I)": 3534.5, "name": "", "N": 138}, {"RMSdev": 553.7, "Mn(I)": 3379.3, "name": "", "N": 139}, {"RMSdev": 539.2, "Mn(I)": 3628.4, "name": "", "N": 140}, {"RMSdev": 486.1, "Mn(I)": 3435.5, "name": "", "N": 141}, {"RMSdev": 591.4, "Mn(I)": 3698.5, "name": "", "N": 142}, {"RMSdev": 514.1, "Mn(I)": 3551.4, "name": "", "N": 143}, {"RMSdev": 554.6, "Mn(I)": 3540.9, "name": "", "N": 144}, {"RMSdev": 538.8, "Mn(I)": 3812.8, "name": "", "N": 145}, {"RMSdev": 560.2, "Mn(I)": 3727.2, "name": "", "N": 146}, {"RMSdev": 531.2, "Mn(I)": 3849.9, "name": "", "N": 147}, {"RMSdev": 562.3, "Mn(I)": 3639.5, "name": "", "N": 148}, {"RMSdev": 528.5, "Mn(I)": 3759.9, "name": "", "N": 149}, {"RMSdev": 553.4, "Mn(I)": 3693.0, "name": "", "N": 150}, {"RMSdev": 537.3, "Mn(I)": 3806.0, "name": "", "N": 151}, {"RMSdev": 564.8, "Mn(I)": 3654.3, "name": "", "N": 152}, {"RMSdev": 580.6, "Mn(I)": 3339.8, "name": "", "N": 153}, {"RMSdev": 590.2, "Mn(I)": 3568.1, "name": "", "N": 154}, {"RMSdev": 493.4, "Mn(I)": 3699.6, "name": "", "N": 155}, {"RMSdev": 710.3, "Mn(I)": 3944.4, "name": "", "N": 156}, {"RMSdev": 570.6, "Mn(I)": 3497.4, "name": "", "N": 157}, {"RMSdev": 656.9, "Mn(I)": 4109.4, "name": "", "N": 158}, {"RMSdev": 553.1, "Mn(I)": 3408.4, "name": "", "N": 159}, {"RMSdev": 613.7, "Mn(I)": 3969.3, "name": "", "N": 160}, {"RMSdev": 695.9, "Mn(I)": 3885.4, "name": "", "N": 161}, {"RMSdev": 662.3, "Mn(I)": 3622.6, "name": "", "N": 162}, {"RMSdev": 669.9, "Mn(I)": 3777.2, "name": "", "N": 163}, {"RMSdev": 763.6, "Mn(I)": 3880.8, "name": "", "N": 164}, {"RMSdev": 862.4, "Mn(I)": 3952.4, "name": "", "N": 165}, {"RMSdev": 716.5, "Mn(I)": 3873.5, "name": "", "N": 166}, {"RMSdev": 789.9, "Mn(I)": 4092.7, "name": "", "N": 167}, {"RMSdev": 657.5, "Mn(I)": 3861.2, "name": "", "N": 168}, {"RMSdev": 683.2, "Mn(I)": 4013.5, "name": "", "N": 169}, {"RMSdev": 845.1, "Mn(I)": 4075.9, "name": "", "N": 170}, {"RMSdev": 892.4, "Mn(I)": 4173.4, "name": "", "N": 171}, {"RMSdev": 927.9, "Mn(I)": 4073.8, "name": "", "N": 172}, {"RMSdev": 801.4, "Mn(I)": 3911.0, "name": "", "N": 173}, {"RMSdev": 835.7, "Mn(I)": 4326.1, "name": "", "N": 174}, {"RMSdev": 784.5, "Mn(I)": 3744.8, "name": "", "N": 175}, {"RMSdev": 704.1, "Mn(I)": 3731.0, "name": "", "N": 176}, {"RMSdev": 718.1, "Mn(I)": 3689.0, "name": "", "N": 177}, {"RMSdev": 777.8, "Mn(I)": 4090.8, "name": "", "N": 178}, {"RMSdev": 845.3, "Mn(I)": 4158.0, "name": "", "N": 179}, {"RMSdev": 1542.3, "Mn(I)": 4520.4, "name": "", "N": 180}]},
+    axis:
+    {
+      x: {
+        label: {
+          text: 'N',
+          position: 'outer-center'
+        },
+
+      }
+    }
+,
+    legend: {
+      position: 'right'
+    },
+});
+
+</script><!--Div that will hold the chart-->
+<div>
+  <p>Maximum resolution limit, I/sigma &gt; 1.0</p>
+  <div class="graph" id="chart_MaximumresolutionlimitIsigma"></div>
+</div>
+
+<script type="text/javascript">
+
+var chart_MaximumresolutionlimitIsigma = c3.generate({
+    bindto: '#chart_MaximumresolutionlimitIsigma',
+    data: {"keys": {"x": "N", "value": ["SmMaxRes", "MaxRes"]}, "json": [{"SmMaxRes": 1.72, "name": "", "MaxRes": 1.7, "N": 1}, {"SmMaxRes": 1.72, "name": "", "MaxRes": 1.72, "N": 2}, {"SmMaxRes": 1.72, "name": "", "MaxRes": 1.72, "N": 3}, {"SmMaxRes": 1.72, "name": "", "MaxRes": 1.72, "N": 4}, {"SmMaxRes": 1.71, "name": "", "MaxRes": 1.72, "N": 5}, {"SmMaxRes": 1.71, "name": "", "MaxRes": 1.7, "N": 6}, {"SmMaxRes": 1.71, "name": "", "MaxRes": 1.71, "N": 7}, {"SmMaxRes": 1.72, "name": "", "MaxRes": 1.72, "N": 8}, {"SmMaxRes": 1.72, "name": "", "MaxRes": 1.73, "N": 9}, {"SmMaxRes": 1.73, "name": "", "MaxRes": 1.73, "N": 10}, {"SmMaxRes": 1.73, "name": "", "MaxRes": 1.73, "N": 11}, {"SmMaxRes": 1.73, "name": "", "MaxRes": 1.75, "N": 12}, {"SmMaxRes": 1.73, "name": "", "MaxRes": 1.73, "N": 13}, {"SmMaxRes": 1.72, "name": "", "MaxRes": 1.72, "N": 14}, {"SmMaxRes": 1.72, "name": "", "MaxRes": 1.7, "N": 15}, {"SmMaxRes": 1.71, "name": "", "MaxRes": 1.71, "N": 16}, {"SmMaxRes": 1.71, "name": "", "MaxRes": 1.7, "N": 17}, {"SmMaxRes": 1.71, "name": "", "MaxRes": 1.7, "N": 18}, {"SmMaxRes": 1.71, "name": "", "MaxRes": 1.72, "N": 19}, {"SmMaxRes": 1.71, "name": "", "MaxRes": 1.71, "N": 20}, {"SmMaxRes": 1.71, "name": "", "MaxRes": 1.71, "N": 21}, {"SmMaxRes": 1.71, "name": "", "MaxRes": 1.69, "N": 22}, {"SmMaxRes": 1.7, "name": "", "MaxRes": 1.72, "N": 23}, {"SmMaxRes": 1.7, "name": "", "MaxRes": 1.7, "N": 24}, {"SmMaxRes": 1.69, "name": "", "MaxRes": 1.69, "N": 25}, {"SmMaxRes": 1.69, "name": "", "MaxRes": 1.67, "N": 26}, {"SmMaxRes": 1.69, "name": "", "MaxRes": 1.69, "N": 27}, {"SmMaxRes": 1.68, "name": "", "MaxRes": 1.66, "N": 28}, {"SmMaxRes": 1.67, "name": "", "MaxRes": 1.65, "N": 29}, {"SmMaxRes": 1.67, "name": "", "MaxRes": 1.68, "N": 30}, {"SmMaxRes": 1.66, "name": "", "MaxRes": 1.66, "N": 31}, {"SmMaxRes": 1.66, "name": "", "MaxRes": 1.67, "N": 32}, {"SmMaxRes": 1.66, "name": "", "MaxRes": 1.65, "N": 33}, {"SmMaxRes": 1.65, "name": "", "MaxRes": 1.63, "N": 34}, {"SmMaxRes": 1.65, "name": "", "MaxRes": 1.67, "N": 35}, {"SmMaxRes": 1.65, "name": "", "MaxRes": 1.66, "N": 36}, {"SmMaxRes": 1.66, "name": "", "MaxRes": 1.67, "N": 37}, {"SmMaxRes": 1.67, "name": "", "MaxRes": 1.67, "N": 38}, {"SmMaxRes": 1.67, "name": "", "MaxRes": 1.67, "N": 39}, {"SmMaxRes": 1.68, "name": "", "MaxRes": 1.68, "N": 40}, {"SmMaxRes": 1.68, "name": "", "MaxRes": 1.69, "N": 41}, {"SmMaxRes": 1.67, "name": "", "MaxRes": 1.68, "N": 42}, {"SmMaxRes": 1.67, "name": "", "MaxRes": 1.64, "N": 43}, {"SmMaxRes": 1.66, "name": "", "MaxRes": 1.65, "N": 44}, {"SmMaxRes": 1.65, "name": "", "MaxRes": 1.64, "N": 45}, {"SmMaxRes": 1.65, "name": "", "MaxRes": 1.65, "N": 46}, {"SmMaxRes": 1.65, "name": "", "MaxRes": 1.68, "N": 47}, {"SmMaxRes": 1.65, "name": "", "MaxRes": 1.65, "N": 48}, {"SmMaxRes": 1.65, "name": "", "MaxRes": 1.62, "N": 49}, {"SmMaxRes": 1.65, "name": "", "MaxRes": 1.64, "N": 50}, {"SmMaxRes": 1.64, "name": "", "MaxRes": 1.64, "N": 51}, {"SmMaxRes": 1.63, "name": "", "MaxRes": 1.62, "N": 52}, {"SmMaxRes": 1.64, "name": "", "MaxRes": 1.63, "N": 53}, {"SmMaxRes": 1.64, "name": "", "MaxRes": 1.64, "N": 54}, {"SmMaxRes": 1.64, "name": "", "MaxRes": 1.64, "N": 55}, {"SmMaxRes": 1.64, "name": "", "MaxRes": 1.63, "N": 56}, {"SmMaxRes": 1.65, "name": "", "MaxRes": 1.64, "N": 57}, {"SmMaxRes": 1.64, "name": "", "MaxRes": 1.67, "N": 58}, {"SmMaxRes": 1.64, "name": "", "MaxRes": 1.63, "N": 59}, {"SmMaxRes": 1.64, "name": "", "MaxRes": 1.63, "N": 60}, {"SmMaxRes": 1.65, "name": "", "MaxRes": 1.64, "N": 61}, {"SmMaxRes": 1.64, "name": "", "MaxRes": 1.66, "N": 62}, {"SmMaxRes": 1.65, "name": "", "MaxRes": 1.61, "N": 63}, {"SmMaxRes": 1.65, "name": "", "MaxRes": 1.67, "N": 64}, {"SmMaxRes": 1.65, "name": "", "MaxRes": 1.64, "N": 65}, {"SmMaxRes": 1.65, "name": "", "MaxRes": 1.66, "N": 66}, {"SmMaxRes": 1.65, "name": "", "MaxRes": 1.64, "N": 67}, {"SmMaxRes": 1.65, "name": "", "MaxRes": 1.65, "N": 68}, {"SmMaxRes": 1.65, "name": "", "MaxRes": 1.66, "N": 69}, {"SmMaxRes": 1.65, "name": "", "MaxRes": 1.64, "N": 70}, {"SmMaxRes": 1.64, "name": "", "MaxRes": 1.64, "N": 71}, {"SmMaxRes": 1.64, "name": "", "MaxRes": 1.64, "N": 72}, {"SmMaxRes": 1.64, "name": "", "MaxRes": 1.64, "N": 73}, {"SmMaxRes": 1.64, "name": "", "MaxRes": 1.64, "N": 74}, {"SmMaxRes": 1.64, "name": "", "MaxRes": 1.64, "N": 75}, {"SmMaxRes": 1.64, "name": "", "MaxRes": 1.65, "N": 76}, {"SmMaxRes": 1.65, "name": "", "MaxRes": 1.67, "N": 77}, {"SmMaxRes": 1.65, "name": "", "MaxRes": 1.65, "N": 78}, {"SmMaxRes": 1.66, "name": "", "MaxRes": 1.66, "N": 79}, {"SmMaxRes": 1.66, "name": "", "MaxRes": 1.65, "N": 80}, {"SmMaxRes": 1.66, "name": "", "MaxRes": 1.66, "N": 81}, {"SmMaxRes": 1.66, "name": "", "MaxRes": 1.67, "N": 82}, {"SmMaxRes": 1.66, "name": "", "MaxRes": 1.67, "N": 83}, {"SmMaxRes": 1.67, "name": "", "MaxRes": 1.67, "N": 84}, {"SmMaxRes": 1.67, "name": "", "MaxRes": 1.66, "N": 85}, {"SmMaxRes": 1.66, "name": "", "MaxRes": 1.66, "N": 86}, {"SmMaxRes": 1.66, "name": "", "MaxRes": 1.65, "N": 87}, {"SmMaxRes": 1.66, "name": "", "MaxRes": 1.65, "N": 88}, {"SmMaxRes": 1.66, "name": "", "MaxRes": 1.68, "N": 89}, {"SmMaxRes": 1.67, "name": "", "MaxRes": 1.67, "N": 90}, {"SmMaxRes": 1.67, "name": "", "MaxRes": 1.68, "N": 91}, {"SmMaxRes": 1.67, "name": "", "MaxRes": 1.67, "N": 92}, {"SmMaxRes": 1.67, "name": "", "MaxRes": 1.67, "N": 93}, {"SmMaxRes": 1.68, "name": "", "MaxRes": 1.67, "N": 94}, {"SmMaxRes": 1.67, "name": "", "MaxRes": 1.69, "N": 95}, {"SmMaxRes": 1.67, "name": "", "MaxRes": 1.66, "N": 96}, {"SmMaxRes": 1.67, "name": "", "MaxRes": 1.67, "N": 97}, {"SmMaxRes": 1.67, "name": "", "MaxRes": 1.67, "N": 98}, {"SmMaxRes": 1.67, "name": "", "MaxRes": 1.68, "N": 99}, {"SmMaxRes": 1.68, "name": "", "MaxRes": 1.71, "N": 100}, {"SmMaxRes": 1.68, "name": "", "MaxRes": 1.69, "N": 101}, {"SmMaxRes": 1.69, "name": "", "MaxRes": 1.68, "N": 102}, {"SmMaxRes": 1.69, "name": "", "MaxRes": 1.69, "N": 103}, {"SmMaxRes": 1.69, "name": "", "MaxRes": 1.68, "N": 104}, {"SmMaxRes": 1.69, "name": "", "MaxRes": 1.7, "N": 105}, {"SmMaxRes": 1.69, "name": "", "MaxRes": 1.69, "N": 106}, {"SmMaxRes": 1.7, "name": "", "MaxRes": 1.7, "N": 107}, {"SmMaxRes": 1.7, "name": "", "MaxRes": 1.71, "N": 108}, {"SmMaxRes": 1.7, "name": "", "MaxRes": 1.69, "N": 109}, {"SmMaxRes": 1.71, "name": "", "MaxRes": 1.7, "N": 110}, {"SmMaxRes": 1.71, "name": "", "MaxRes": 1.73, "N": 111}, {"SmMaxRes": 1.71, "name": "", "MaxRes": 1.7, "N": 112}, {"SmMaxRes": 1.71, "name": "", "MaxRes": 1.72, "N": 113}, {"SmMaxRes": 1.71, "name": "", "MaxRes": 1.69, "N": 114}, {"SmMaxRes": 1.7, "name": "", "MaxRes": 1.7, "N": 115}, {"SmMaxRes": 1.7, "name": "", "MaxRes": 1.71, "N": 116}, {"SmMaxRes": 1.7, "name": "", "MaxRes": 1.7, "N": 117}, {"SmMaxRes": 1.71, "name": "", "MaxRes": 1.7, "N": 118}, {"SmMaxRes": 1.71, "name": "", "MaxRes": 1.72, "N": 119}, {"SmMaxRes": 1.72, "name": "", "MaxRes": 1.72, "N": 120}, {"SmMaxRes": 1.72, "name": "", "MaxRes": 1.74, "N": 121}, {"SmMaxRes": 1.72, "name": "", "MaxRes": 1.72, "N": 122}, {"SmMaxRes": 1.72, "name": "", "MaxRes": 1.72, "N": 123}, {"SmMaxRes": 1.72, "name": "", "MaxRes": 1.72, "N": 124}, {"SmMaxRes": 1.72, "name": "", "MaxRes": 1.72, "N": 125}, {"SmMaxRes": 1.73, "name": "", "MaxRes": 1.73, "N": 126}, {"SmMaxRes": 1.73, "name": "", "MaxRes": 1.74, "N": 127}, {"SmMaxRes": 1.73, "name": "", "MaxRes": 1.75, "N": 128}, {"SmMaxRes": 1.73, "name": "", "MaxRes": 1.71, "N": 129}, {"SmMaxRes": 1.73, "name": "", "MaxRes": 1.73, "N": 130}, {"SmMaxRes": 1.73, "name": "", "MaxRes": 1.73, "N": 131}, {"SmMaxRes": 1.73, "name": "", "MaxRes": 1.73, "N": 132}, {"SmMaxRes": 1.73, "name": "", "MaxRes": 1.77, "N": 133}, {"SmMaxRes": 1.74, "name": "", "MaxRes": 1.72, "N": 134}, {"SmMaxRes": 1.74, "name": "", "MaxRes": 1.74, "N": 135}, {"SmMaxRes": 1.74, "name": "", "MaxRes": 1.75, "N": 136}, {"SmMaxRes": 1.74, "name": "", "MaxRes": 1.73, "N": 137}, {"SmMaxRes": 1.74, "name": "", "MaxRes": 1.75, "N": 138}, {"SmMaxRes": 1.74, "name": "", "MaxRes": 1.73, "N": 139}, {"SmMaxRes": 1.74, "name": "", "MaxRes": 1.74, "N": 140}, {"SmMaxRes": 1.74, "name": "", "MaxRes": 1.74, "N": 141}, {"SmMaxRes": 1.74, "name": "", "MaxRes": 1.74, "N": 142}, {"SmMaxRes": 1.74, "name": "", "MaxRes": 1.74, "N": 143}, {"SmMaxRes": 1.74, "name": "", "MaxRes": 1.73, "N": 144}, {"SmMaxRes": 1.74, "name": "", "MaxRes": 1.74, "N": 145}, {"SmMaxRes": 1.74, "name": "", "MaxRes": 1.75, "N": 146}, {"SmMaxRes": 1.74, "name": "", "MaxRes": 1.74, "N": 147}, {"SmMaxRes": 1.74, "name": "", "MaxRes": 1.74, "N": 148}, {"SmMaxRes": 1.74, "name": "", "MaxRes": 1.74, "N": 149}, {"SmMaxRes": 1.75, "name": "", "MaxRes": 1.73, "N": 150}, {"SmMaxRes": 1.75, "name": "", "MaxRes": 1.75, "N": 151}, {"SmMaxRes": 1.75, "name": "", "MaxRes": 1.76, "N": 152}, {"SmMaxRes": 1.74, "name": "", "MaxRes": 1.74, "N": 153}, {"SmMaxRes": 1.75, "name": "", "MaxRes": 1.73, "N": 154}, {"SmMaxRes": 1.75, "name": "", "MaxRes": 1.76, "N": 155}, {"SmMaxRes": 1.74, "name": "", "MaxRes": 1.76, "N": 156}, {"SmMaxRes": 1.74, "name": "", "MaxRes": 1.73, "N": 157}, {"SmMaxRes": 1.74, "name": "", "MaxRes": 1.72, "N": 158}, {"SmMaxRes": 1.75, "name": "", "MaxRes": 1.75, "N": 159}, {"SmMaxRes": 1.75, "name": "", "MaxRes": 1.77, "N": 160}, {"SmMaxRes": 1.75, "name": "", "MaxRes": 1.76, "N": 161}, {"SmMaxRes": 1.76, "name": "", "MaxRes": 1.75, "N": 162}, {"SmMaxRes": 1.76, "name": "", "MaxRes": 1.77, "N": 163}, {"SmMaxRes": 1.77, "name": "", "MaxRes": 1.77, "N": 164}, {"SmMaxRes": 1.77, "name": "", "MaxRes": 1.78, "N": 165}, {"SmMaxRes": 1.78, "name": "", "MaxRes": 1.76, "N": 166}, {"SmMaxRes": 1.77, "name": "", "MaxRes": 1.78, "N": 167}, {"SmMaxRes": 1.77, "name": "", "MaxRes": 1.76, "N": 168}, {"SmMaxRes": 1.77, "name": "", "MaxRes": 1.77, "N": 169}, {"SmMaxRes": 1.78, "name": "", "MaxRes": 1.79, "N": 170}, {"SmMaxRes": 1.77, "name": "", "MaxRes": 1.77, "N": 171}, {"SmMaxRes": 1.77, "name": "", "MaxRes": 1.76, "N": 172}, {"SmMaxRes": 1.77, "name": "", "MaxRes": 1.78, "N": 173}, {"SmMaxRes": 1.77, "name": "", "MaxRes": 1.77, "N": 174}, {"SmMaxRes": 1.78, "name": "", "MaxRes": 1.78, "N": 175}, {"SmMaxRes": 1.79, "name": "", "MaxRes": 1.79, "N": 176}, {"SmMaxRes": 1.79, "name": "", "MaxRes": 1.81, "N": 177}, {"SmMaxRes": 1.79, "name": "", "MaxRes": 1.8, "N": 178}, {"SmMaxRes": 1.79, "name": "", "MaxRes": 1.79, "N": 179}, {"SmMaxRes": 1.79, "name": "", "MaxRes": 1.78, "N": 180}]},
+    axis:
+    {
+      x: {
+        label: {
+          text: 'N',
+          position: 'outer-center'
+        },
+
+      }
+    }
+,
+    legend: {
+      position: 'right'
+    },
+});
+
+</script><!--Div that will hold the chart-->
+<div>
+  <p>RMS correlation ratio</p>
+  <div class="graph" id="chart_RMScorrelationratio"></div>
+</div>
+
+<script type="text/javascript">
+
+var chart_RMScorrelationratio = c3.generate({
+    bindto: '#chart_RMScorrelationratio',
+    data: {"keys": {"x": "1/d^2", "value": ["RCRanom"]}, "json": [{"RCRanom": 0.683, "name": "", "1/d^2": 0.011}, {"RCRanom": 0.735, "name": "", "1/d^2": 0.0329}, {"RCRanom": 0.804, "name": "", "1/d^2": 0.0548}, {"RCRanom": 0.705, "name": "", "1/d^2": 0.0767}, {"RCRanom": 0.793, "name": "", "1/d^2": 0.0987}, {"RCRanom": 0.858, "name": "", "1/d^2": 0.1206}, {"RCRanom": 0.865, "name": "", "1/d^2": 0.1425}, {"RCRanom": 0.876, "name": "", "1/d^2": 0.1645}, {"RCRanom": 0.9, "name": "", "1/d^2": 0.1864}, {"RCRanom": 0.906, "name": "", "1/d^2": 0.2083}, {"RCRanom": 0.912, "name": "", "1/d^2": 0.2302}, {"RCRanom": 0.956, "name": "", "1/d^2": 0.2522}, {"RCRanom": 0.94, "name": "", "1/d^2": 0.2741}, {"RCRanom": 0.954, "name": "", "1/d^2": 0.296}, {"RCRanom": 0.941, "name": "", "1/d^2": 0.318}, {"RCRanom": 0.965, "name": "", "1/d^2": 0.3399}, {"RCRanom": 0.959, "name": "", "1/d^2": 0.3618}, {"RCRanom": 0.953, "name": "", "1/d^2": 0.3837}, {"RCRanom": 0.989, "name": "", "1/d^2": 0.4057}, {"RCRanom": 0.985, "name": "", "1/d^2": 0.4276}]},
+    axis:
+    {
+      x: {
+        label: {
+          text: 'Resolution (Å)',
+          position: 'outer-center'
+        },
+        tick: {
+          format: function (x) { return (1/Math.sqrt(x)).toFixed(2); }
+        }
+
+      }
+    }
+,
+    legend: {
+      position: 'right'
+    },
+});
+
+</script><!--Div that will hold the chart-->
+<div>
+  <p>CC(1/2) v resolution, max resolution 1.51, anom 0.00</p>
+  <div class="graph" id="chart_CCvresolutionmaxresolutionanom"></div>
+</div>
+
+<script type="text/javascript">
+
+var chart_CCvresolutionmaxresolutionanom = c3.generate({
+    bindto: '#chart_CCvresolutionmaxresolutionanom',
+    data: {"keys": {"x": "1/d^2", "value": ["CCanom", "CC1/2", "CCfit", "CCanomfit"]}, "json": [{"CCanomfit": -0.285, "CCanom": -0.367, "CC1/2": 0.999, "CCfit": 1.0, "1/d^2": 0.011, "name": ""}, {"CCanomfit": -0.268, "CCanom": -0.299, "CC1/2": 0.999, "CCfit": 1.0, "1/d^2": 0.0329, "name": ""}, {"CCanomfit": -0.252, "CCanom": -0.215, "CC1/2": 0.999, "CCfit": 1.0, "1/d^2": 0.0548, "name": ""}, {"CCanomfit": -0.235, "CCanom": -0.337, "CC1/2": 0.999, "CCfit": 1.0, "1/d^2": 0.0767, "name": ""}, {"CCanomfit": -0.218, "CCanom": -0.23, "CC1/2": 0.999, "CCfit": 1.0, "1/d^2": 0.0987, "name": ""}, {"CCanomfit": -0.202, "CCanom": -0.152, "CC1/2": 0.999, "CCfit": 1.0, "1/d^2": 0.1206, "name": ""}, {"CCanomfit": -0.185, "CCanom": -0.144, "CC1/2": 0.999, "CCfit": 1.0, "1/d^2": 0.1425, "name": ""}, {"CCanomfit": -0.169, "CCanom": -0.132, "CC1/2": 0.998, "CCfit": 0.999, "1/d^2": 0.1645, "name": ""}, {"CCanomfit": -0.152, "CCanom": -0.105, "CC1/2": 0.998, "CCfit": 0.999, "1/d^2": 0.1864, "name": ""}, {"CCanomfit": -0.135, "CCanom": -0.099, "CC1/2": 0.998, "CCfit": 0.998, "1/d^2": 0.2083, "name": ""}, {"CCanomfit": -0.119, "CCanom": -0.093, "CC1/2": 0.997, "CCfit": 0.996, "1/d^2": 0.2302, "name": ""}, {"CCanomfit": -0.102, "CCanom": -0.046, "CC1/2": 0.996, "CCfit": 0.994, "1/d^2": 0.2522, "name": ""}, {"CCanomfit": -0.086, "CCanom": -0.062, "CC1/2": 0.991, "CCfit": 0.989, "1/d^2": 0.2741, "name": ""}, {"CCanomfit": -0.069, "CCanom": -0.047, "CC1/2": 0.988, "CCfit": 0.982, "1/d^2": 0.296, "name": ""}, {"CCanomfit": -0.052, "CCanom": -0.061, "CC1/2": 0.973, "CCfit": 0.97, "1/d^2": 0.318, "name": ""}, {"CCanomfit": -0.036, "CCanom": -0.035, "CC1/2": 0.952, "CCfit": 0.95, "1/d^2": 0.3399, "name": ""}, {"CCanomfit": -0.019, "CCanom": -0.042, "CC1/2": 0.925, "CCfit": 0.919, "1/d^2": 0.3618, "name": ""}, {"CCanomfit": -0.003, "CCanom": -0.049, "CC1/2": 0.85, "CCfit": 0.87, "1/d^2": 0.3837, "name": ""}, {"CCanomfit": 0.014, "CCanom": -0.011, "CC1/2": 0.808, "CCfit": 0.798, "1/d^2": 0.4057, "name": ""}, {"CCanomfit": 0.031, "CCanom": -0.015, "CC1/2": 0.63, "CCfit": 0.701, "1/d^2": 0.4276, "name": ""}]},
+    axis:
+    {
+      x: {
+        label: {
+          text: 'Resolution (Å)',
+          position: 'outer-center'
+        },
+        tick: {
+          format: function (x) { return (1/Math.sqrt(x)).toFixed(2); }
+        }
+
+      }
+    }
+,
+    legend: {
+      position: 'right'
+    },
+});
+
+</script><!--Div that will hold the chart-->
+<div>
+  <p>Rsplit</p>
+  <div class="graph" id="chart_Rsplit"></div>
+</div>
+
+<script type="text/javascript">
+
+var chart_Rsplit = c3.generate({
+    bindto: '#chart_Rsplit',
+    data: {"keys": {"x": "1/d^2", "value": ["Rsplit"]}, "json": [{"Rsplit": 0.018, "name": "", "1/d^2": 0.011}, {"Rsplit": 0.016, "name": "", "1/d^2": 0.0329}, {"Rsplit": 0.016, "name": "", "1/d^2": 0.0548}, {"Rsplit": 0.018, "name": "", "1/d^2": 0.0767}, {"Rsplit": 0.021, "name": "", "1/d^2": 0.0987}, {"Rsplit": 0.023, "name": "", "1/d^2": 0.1206}, {"Rsplit": 0.025, "name": "", "1/d^2": 0.1425}, {"Rsplit": 0.026, "name": "", "1/d^2": 0.1645}, {"Rsplit": 0.03, "name": "", "1/d^2": 0.1864}, {"Rsplit": 0.038, "name": "", "1/d^2": 0.2083}, {"Rsplit": 0.046, "name": "", "1/d^2": 0.2302}, {"Rsplit": 0.056, "name": "", "1/d^2": 0.2522}, {"Rsplit": 0.088, "name": "", "1/d^2": 0.2741}, {"Rsplit": 0.104, "name": "", "1/d^2": 0.296}, {"Rsplit": 0.155, "name": "", "1/d^2": 0.318}, {"Rsplit": 0.23, "name": "", "1/d^2": 0.3399}, {"Rsplit": 0.289, "name": "", "1/d^2": 0.3618}, {"Rsplit": 0.412, "name": "", "1/d^2": 0.3837}, {"Rsplit": 0.501, "name": "", "1/d^2": 0.4057}, {"Rsplit": 0.894, "name": "", "1/d^2": 0.4276}]},
+    axis:
+    {
+      x: {
+        label: {
+          text: 'Resolution (Å)',
+          position: 'outer-center'
+        },
+        tick: {
+          format: function (x) { return (1/Math.sqrt(x)).toFixed(2); }
+        }
+
+      }
+    }
+,
+    legend: {
+      position: 'right'
+    },
+});
+
+</script><!--Div that will hold the chart-->
+<div>
+  <p>Anisotropic CC(1/2) v resolution</p>
+  <div class="graph" id="chart_AnisotropicCCvresolution"></div>
+</div>
+
+<script type="text/javascript">
+
+var chart_AnisotropicCCvresolution = c3.generate({
+    bindto: '#chart_AnisotropicCCvresolution',
+    data: {"keys": {"x": "1/d^2", "value": ["CC:d12", "CC:d3", "CCft:d12", "CCft:d3"]}, "json": [{"name": "", "CCft:d12": 1.0, "CC:d3": 0.998, "CC:d12": 0.998, "1/d^2": 0.011, "CCft:d3": 1.0}, {"name": "", "CCft:d12": 1.0, "CC:d3": 0.999, "CC:d12": 0.999, "1/d^2": 0.0329, "CCft:d3": 1.0}, {"name": "", "CCft:d12": 1.0, "CC:d3": 0.999, "CC:d12": 0.999, "1/d^2": 0.0548, "CCft:d3": 1.0}, {"name": "", "CCft:d12": 1.0, "CC:d3": 0.998, "CC:d12": 0.999, "1/d^2": 0.0767, "CCft:d3": 1.0}, {"name": "", "CCft:d12": 1.0, "CC:d3": 0.999, "CC:d12": 0.998, "1/d^2": 0.0987, "CCft:d3": 1.0}, {"name": "", "CCft:d12": 1.0, "CC:d3": 0.998, "CC:d12": 0.999, "1/d^2": 0.1206, "CCft:d3": 0.999}, {"name": "", "CCft:d12": 1.0, "CC:d3": 0.998, "CC:d12": 0.998, "1/d^2": 0.1425, "CCft:d3": 0.999}, {"name": "", "CCft:d12": 0.999, "CC:d3": 0.999, "CC:d12": 0.997, "1/d^2": 0.1645, "CCft:d3": 0.997}, {"name": "", "CCft:d12": 0.999, "CC:d3": 0.997, "CC:d12": 0.998, "1/d^2": 0.1864, "CCft:d3": 0.995}, {"name": "", "CCft:d12": 0.998, "CC:d3": 0.996, "CC:d12": 0.998, "1/d^2": 0.2083, "CCft:d3": 0.991}, {"name": "", "CCft:d12": 0.997, "CC:d3": 0.991, "CC:d12": 0.997, "1/d^2": 0.2302, "CCft:d3": 0.983}, {"name": "", "CCft:d12": 0.995, "CC:d3": 0.992, "CC:d12": 0.997, "1/d^2": 0.2522, "CCft:d3": 0.969}, {"name": "", "CCft:d12": 0.993, "CC:d3": 0.977, "CC:d12": 0.995, "1/d^2": 0.2741, "CCft:d3": 0.945}, {"name": "", "CCft:d12": 0.988, "CC:d3": 0.974, "CC:d12": 0.993, "1/d^2": 0.296, "CCft:d3": 0.904}, {"name": "", "CCft:d12": 0.981, "CC:d3": 0.818, "CC:d12": 0.982, "1/d^2": 0.318, "CCft:d3": 0.836}, {"name": "", "CCft:d12": 0.969, "CC:d3": 0.663, "CC:d12": 0.979, "1/d^2": 0.3399, "CCft:d3": 0.734}, {"name": "", "CCft:d12": 0.951, "CC:d3": 0.75, "CC:d12": 0.956, "1/d^2": 0.3618, "CCft:d3": 0.601}, {"name": "", "CCft:d12": 0.923, "CC:d3": 0.301, "CC:d12": 0.908, "1/d^2": 0.3837, "CCft:d3": 0.45}, {"name": "", "CCft:d12": 0.88, "CC:d3": 0.211, "CC:d12": 0.883, "1/d^2": 0.4057, "CCft:d3": 0.307}, {"name": "", "CCft:d12": 0.819, "CC:d3": 0.383, "CC:d12": 0.744, "1/d^2": 0.4276, "CCft:d3": 0.194}]},
+    axis:
+    {
+      x: {
+        label: {
+          text: 'Resolution (Å)',
+          position: 'outer-center'
+        },
+        tick: {
+          format: function (x) { return (1/Math.sqrt(x)).toFixed(2); }
+        }
+
+      }
+    }
+,
+    legend: {
+      position: 'right'
+    },
+});
+
+</script><!--Div that will hold the chart-->
+<div>
+  <p>Projected CC(1/2) v resolution</p>
+  <div class="graph" id="chart_ProjectedCCvresolution"></div>
+</div>
+
+<script type="text/javascript">
+
+var chart_ProjectedCCvresolution = c3.generate({
+    bindto: '#chart_ProjectedCCvresolution',
+    data: {"keys": {"x": "1/d^2", "value": ["CCp1", "CCp3"]}, "json": [{"CCp1": 0.999, "CCp3": 0.999, "name": "", "1/d^2": 0.011}, {"CCp1": 1.0, "CCp3": 1.0, "name": "", "1/d^2": 0.0329}, {"CCp1": 0.999, "CCp3": 0.999, "name": "", "1/d^2": 0.0548}, {"CCp1": 0.999, "CCp3": 0.999, "name": "", "1/d^2": 0.0767}, {"CCp1": 0.999, "CCp3": 0.999, "name": "", "1/d^2": 0.0987}, {"CCp1": 0.999, "CCp3": 0.999, "name": "", "1/d^2": 0.1206}, {"CCp1": 0.999, "CCp3": 0.998, "name": "", "1/d^2": 0.1425}, {"CCp1": 0.998, "CCp3": 0.997, "name": "", "1/d^2": 0.1645}, {"CCp1": 0.998, "CCp3": 0.996, "name": "", "1/d^2": 0.1864}, {"CCp1": 0.998, "CCp3": 0.99, "name": "", "1/d^2": 0.2083}, {"CCp1": 0.997, "CCp3": 0.986, "name": "", "1/d^2": 0.2302}, {"CCp1": 0.996, "CCp3": 0.958, "name": "", "1/d^2": 0.2522}, {"CCp1": 0.992, "CCp3": 0.96, "name": "", "1/d^2": 0.2741}, {"CCp1": 0.988, "CCp3": 0.894, "name": "", "1/d^2": 0.296}, {"CCp1": 0.963, "CCp3": 0.663, "name": "", "1/d^2": 0.318}, {"CCp1": 0.962, "CCp3": 0.594, "name": "", "1/d^2": 0.3399}, {"CCp1": 0.921, "CCp3": 0.472, "name": "", "1/d^2": 0.3618}, {"CCp1": 0.872, "CCp3": 0.228, "name": "", "1/d^2": 0.3837}, {"CCp1": 0.843, "CCp3": 0.189, "name": "", "1/d^2": 0.4057}, {"CCp1": 0.717, "CCp3": 0.549, "name": "", "1/d^2": 0.4276}]},
+    axis:
+    {
+      x: {
+        label: {
+          text: 'Resolution (Å)',
+          position: 'outer-center'
+        },
+        tick: {
+          format: function (x) { return (1/Math.sqrt(x)).toFixed(2); }
+        }
+
+      }
+    }
+,
+    legend: {
+      position: 'right'
+    },
+});
+
+</script><!--Div that will hold the chart-->
+<div>
+  <p>Anisotropic Mn(I/sd) v resolution</p>
+  <div class="graph" id="chart_AnisotropicMnIsdvresolution"></div>
+</div>
+
+<script type="text/javascript">
+
+var chart_AnisotropicMnIsdvresolution = c3.generate({
+    bindto: '#chart_AnisotropicMnIsdvresolution',
+    data: {"keys": {"x": "1/d^2", "value": ["I/sd:d12", "I/sd:d3"]}, "json": [{"I/sd:d3": 53.88, "name": "", "I/sd:d12": 53.88, "1/d^2": 0.011}, {"I/sd:d3": 41.47, "name": "", "I/sd:d12": 51.67, "1/d^2": 0.0329}, {"I/sd:d3": 46.59, "name": "", "I/sd:d12": 56.09, "1/d^2": 0.0548}, {"I/sd:d3": 44.61, "name": "", "I/sd:d12": 54.39, "1/d^2": 0.0767}, {"I/sd:d3": 39.95, "name": "", "I/sd:d12": 49.59, "1/d^2": 0.0987}, {"I/sd:d3": 36.59, "name": "", "I/sd:d12": 44.65, "1/d^2": 0.1206}, {"I/sd:d3": 28.51, "name": "", "I/sd:d12": 41.7, "1/d^2": 0.1425}, {"I/sd:d3": 27.05, "name": "", "I/sd:d12": 39.8, "1/d^2": 0.1645}, {"I/sd:d3": 20.85, "name": "", "I/sd:d12": 35.13, "1/d^2": 0.1864}, {"I/sd:d3": 17.07, "name": "", "I/sd:d12": 30.25, "1/d^2": 0.2083}, {"I/sd:d3": 12.66, "name": "", "I/sd:d12": 24.91, "1/d^2": 0.2302}, {"I/sd:d3": 8.95, "name": "", "I/sd:d12": 19.7, "1/d^2": 0.2522}, {"I/sd:d3": 6.77, "name": "", "I/sd:d12": 15.16, "1/d^2": 0.2741}, {"I/sd:d3": 3.81, "name": "", "I/sd:d12": 11.53, "1/d^2": 0.296}, {"I/sd:d3": 2.12, "name": "", "I/sd:d12": 8.0, "1/d^2": 0.318}, {"I/sd:d3": 1.57, "name": "", "I/sd:d12": 5.85, "1/d^2": 0.3399}, {"I/sd:d3": 1.14, "name": "", "I/sd:d12": 4.63, "1/d^2": 0.3618}, {"I/sd:d3": 0.69, "name": "", "I/sd:d12": 3.64, "1/d^2": 0.3837}, {"I/sd:d3": 0.7, "name": "", "I/sd:d12": 2.92, "1/d^2": 0.4057}, {"I/sd:d3": 0.16, "name": "", "I/sd:d12": 2.06, "1/d^2": 0.4276}]},
+    axis:
+    {
+      x: {
+        label: {
+          text: 'Resolution (Å)',
+          position: 'outer-center'
+        },
+        tick: {
+          format: function (x) { return (1/Math.sqrt(x)).toFixed(2); }
+        }
+
+      }
+    }
+,
+    legend: {
+      position: 'right'
+    },
+});
+
+</script><!--Div that will hold the chart-->
+<div>
+  <p>Fractional bias</p>
+  <div class="graph" id="chart_Fractionalbias"></div>
+</div>
+
+<script type="text/javascript">
+
+var chart_Fractionalbias = c3.generate({
+    bindto: '#chart_Fractionalbias',
+    data: {"keys": {"x": "1/d^2", "value": ["FrcBias"]}, "json": [{"FrcBias": null, "name": "", "1/d^2": 0.011}, {"FrcBias": null, "name": "", "1/d^2": 0.0329}, {"FrcBias": null, "name": "", "1/d^2": 0.0548}, {"FrcBias": null, "name": "", "1/d^2": 0.0767}, {"FrcBias": null, "name": "", "1/d^2": 0.0987}, {"FrcBias": null, "name": "", "1/d^2": 0.1206}, {"FrcBias": null, "name": "", "1/d^2": 0.1425}, {"FrcBias": null, "name": "", "1/d^2": 0.1645}, {"FrcBias": null, "name": "", "1/d^2": 0.1864}, {"FrcBias": null, "name": "", "1/d^2": 0.2083}, {"FrcBias": null, "name": "", "1/d^2": 0.2302}, {"FrcBias": null, "name": "", "1/d^2": 0.2522}, {"FrcBias": null, "name": "", "1/d^2": 0.2741}, {"FrcBias": null, "name": "", "1/d^2": 0.296}, {"FrcBias": null, "name": "", "1/d^2": 0.318}, {"FrcBias": null, "name": "", "1/d^2": 0.3399}, {"FrcBias": null, "name": "", "1/d^2": 0.3618}, {"FrcBias": null, "name": "", "1/d^2": 0.3837}, {"FrcBias": null, "name": "", "1/d^2": 0.4057}, {"FrcBias": null, "name": "", "1/d^2": 0.4276}]},
+    axis:
+    {
+      x: {
+        label: {
+          text: 'Resolution (Å)',
+          position: 'outer-center'
+        },
+        tick: {
+          format: function (x) { return (1/Math.sqrt(x)).toFixed(2); }
+        }
+
+      }
+    }
+,
+    legend: {
+      position: 'right'
+    },
+});
+
+</script><!--Div that will hold the chart-->
+<div>
+  <p>Rmerge, Rfull, Rmeas, Rpim v Resolution</p>
+  <div class="graph" id="chart_RmergeRfullRmeasRpimvResolution"></div>
+</div>
+
+<script type="text/javascript">
+
+var chart_RmergeRfullRmeasRpimvResolution = c3.generate({
+    bindto: '#chart_RmergeRfullRmeasRpimvResolution',
+    data: {"keys": {"x": "1/d^2", "value": ["Rmrg", "Rfull", "Rcum", "Rmeas"]}, "json": [{"Rfull": 0.034, "Rmeas": 0.036, "name": "", "Rmrg": 0.034, "Rcum": 0.034, "1/d^2": 0.011}, {"Rfull": 0.034, "Rmeas": 0.036, "name": "", "Rmrg": 0.034, "Rcum": 0.034, "1/d^2": 0.0329}, {"Rfull": 0.038, "Rmeas": 0.039, "name": "", "Rmrg": 0.038, "Rcum": 0.036, "1/d^2": 0.0548}, {"Rfull": 0.042, "Rmeas": 0.044, "name": "", "Rmrg": 0.042, "Rcum": 0.038, "1/d^2": 0.0767}, {"Rfull": 0.047, "Rmeas": 0.049, "name": "", "Rmrg": 0.047, "Rcum": 0.039, "1/d^2": 0.0987}, {"Rfull": 0.053, "Rmeas": 0.056, "name": "", "Rmrg": 0.053, "Rcum": 0.04, "1/d^2": 0.1206}, {"Rfull": 0.057, "Rmeas": 0.059, "name": "", "Rmrg": 0.057, "Rcum": 0.041, "1/d^2": 0.1425}, {"Rfull": 0.061, "Rmeas": 0.063, "name": "", "Rmrg": 0.061, "Rcum": 0.042, "1/d^2": 0.1645}, {"Rfull": 0.071, "Rmeas": 0.074, "name": "", "Rmrg": 0.071, "Rcum": 0.042, "1/d^2": 0.1864}, {"Rfull": 0.085, "Rmeas": 0.089, "name": "", "Rmrg": 0.085, "Rcum": 0.043, "1/d^2": 0.2083}, {"Rfull": 0.108, "Rmeas": 0.113, "name": "", "Rmrg": 0.108, "Rcum": 0.044, "1/d^2": 0.2302}, {"Rfull": 0.142, "Rmeas": 0.148, "name": "", "Rmrg": 0.142, "Rcum": 0.045, "1/d^2": 0.2522}, {"Rfull": 0.22, "Rmeas": 0.23, "name": "", "Rmrg": 0.22, "Rcum": 0.046, "1/d^2": 0.2741}, {"Rfull": 0.27, "Rmeas": 0.282, "name": "", "Rmrg": 0.27, "Rcum": 0.047, "1/d^2": 0.296}, {"Rfull": 0.386, "Rmeas": 0.403, "name": "", "Rmrg": 0.386, "Rcum": 0.048, "1/d^2": 0.318}, {"Rfull": 0.592, "Rmeas": 0.617, "name": "", "Rmrg": 0.592, "Rcum": 0.049, "1/d^2": 0.3399}, {"Rfull": 0.742, "Rmeas": 0.773, "name": "", "Rmrg": 0.742, "Rcum": 0.05, "1/d^2": 0.3618}, {"Rfull": 1.051, "Rmeas": 1.094, "name": "", "Rmrg": 1.051, "Rcum": 0.051, "1/d^2": 0.3837}, {"Rfull": 1.324, "Rmeas": 1.379, "name": "", "Rmrg": 1.324, "Rcum": 0.052, "1/d^2": 0.4057}, {"Rfull": 2.289, "Rmeas": 2.396, "name": "", "Rmrg": 2.289, "Rcum": 0.053, "1/d^2": 0.4276}]},
+    axis:
+    {
+      x: {
+        label: {
+          text: 'Resolution (Å)',
+          position: 'outer-center'
+        },
+        tick: {
+          format: function (x) { return (1/Math.sqrt(x)).toFixed(2); }
+        }
+
+      }
+    }
+,
+    legend: {
+      position: 'right'
+    },
+});
+
+</script><!--Div that will hold the chart-->
+<div>
+  <p>I/sigma, Mean Mn(I)/sd(Mn(I))</p>
+  <div class="graph" id="chart_IsigmaMeanMnIsdMnI"></div>
+</div>
+
+<script type="text/javascript">
+
+var chart_IsigmaMeanMnIsdMnI = c3.generate({
+    bindto: '#chart_IsigmaMeanMnIsdMnI',
+    data: {"keys": {"x": "1/d^2", "value": ["I/RMS", "Mn(I/sd)"]}, "json": [{"Mn(I/sd)": 53.9, "I/RMS": 14.1, "name": "", "1/d^2": 0.011}, {"Mn(I/sd)": 51.7, "I/RMS": 18.1, "name": "", "1/d^2": 0.0329}, {"Mn(I/sd)": 55.7, "I/RMS": 16.1, "name": "", "1/d^2": 0.0548}, {"Mn(I/sd)": 53.6, "I/RMS": 14.8, "name": "", "1/d^2": 0.0767}, {"Mn(I/sd)": 47.1, "I/RMS": 12.8, "name": "", "1/d^2": 0.0987}, {"Mn(I/sd)": 43.3, "I/RMS": 11.9, "name": "", "1/d^2": 0.1206}, {"Mn(I/sd)": 38.7, "I/RMS": 11.3, "name": "", "1/d^2": 0.1425}, {"Mn(I/sd)": 35.7, "I/RMS": 10.7, "name": "", "1/d^2": 0.1645}, {"Mn(I/sd)": 29.8, "I/RMS": 9.4, "name": "", "1/d^2": 0.1864}, {"Mn(I/sd)": 24.5, "I/RMS": 8.2, "name": "", "1/d^2": 0.2083}, {"Mn(I/sd)": 20.4, "I/RMS": 6.7, "name": "", "1/d^2": 0.2302}, {"Mn(I/sd)": 15.6, "I/RMS": 5.2, "name": "", "1/d^2": 0.2522}, {"Mn(I/sd)": 11.6, "I/RMS": 3.3, "name": "", "1/d^2": 0.2741}, {"Mn(I/sd)": 8.1, "I/RMS": 2.7, "name": "", "1/d^2": 0.296}, {"Mn(I/sd)": 5.5, "I/RMS": 1.9, "name": "", "1/d^2": 0.318}, {"Mn(I/sd)": 4.0, "I/RMS": 1.2, "name": "", "1/d^2": 0.3399}, {"Mn(I/sd)": 3.0, "I/RMS": 1.0, "name": "", "1/d^2": 0.3618}, {"Mn(I/sd)": 2.3, "I/RMS": 0.7, "name": "", "1/d^2": 0.3837}, {"Mn(I/sd)": 1.7, "I/RMS": 0.6, "name": "", "1/d^2": 0.4057}, {"Mn(I/sd)": 1.1, "I/RMS": 0.3, "name": "", "1/d^2": 0.4276}]},
+    axis:
+    {
+      x: {
+        label: {
+          text: 'Resolution (Å)',
+          position: 'outer-center'
+        },
+        tick: {
+          format: function (x) { return (1/Math.sqrt(x)).toFixed(2); }
+        }
+
+      }
+    }
+,
+    legend: {
+      position: 'right'
+    },
+});
+
+</script><!--Div that will hold the chart-->
+<div>
+  <p>Average I, RMSdeviation and Sd</p>
+  <div class="graph" id="chart_AverageIRMSdeviationandSd"></div>
+</div>
+
+<script type="text/javascript">
+
+var chart_AverageIRMSdeviationandSd = c3.generate({
+    bindto: '#chart_AverageIRMSdeviationandSd',
+    data: {"keys": {"x": "1/d^2", "value": ["AvI", "RMSdev", "sd"]}, "json": [{"RMSdev": 2632, "sd": 2119, "name": "", "AvI": 37182, "1/d^2": 0.011}, {"RMSdev": 1347, "sd": 1409, "name": "", "AvI": 24415, "1/d^2": 0.0329}, {"RMSdev": 2245, "sd": 2068, "name": "", "AvI": 36166, "1/d^2": 0.0548}, {"RMSdev": 1590, "sd": 1365, "name": "", "AvI": 23482, "1/d^2": 0.0767}, {"RMSdev": 1016, "sd": 783, "name": "", "AvI": 12987, "1/d^2": 0.0987}, {"RMSdev": 571, "sd": 440, "name": "", "AvI": 6776, "1/d^2": 0.1206}, {"RMSdev": 358, "sd": 290, "name": "", "AvI": 4046, "1/d^2": 0.1425}, {"RMSdev": 277, "sd": 233, "name": "", "AvI": 2969, "1/d^2": 0.1645}, {"RMSdev": 223, "sd": 192, "name": "", "AvI": 2103, "1/d^2": 0.1864}, {"RMSdev": 191, "sd": 168, "name": "", "AvI": 1557, "1/d^2": 0.2083}, {"RMSdev": 160, "sd": 148, "name": "", "AvI": 1073, "1/d^2": 0.2302}, {"RMSdev": 124, "sd": 128, "name": "", "AvI": 644, "1/d^2": 0.2522}, {"RMSdev": 127, "sd": 116, "name": "", "AvI": 421, "1/d^2": 0.2741}, {"RMSdev": 88, "sd": 102, "name": "", "AvI": 242, "1/d^2": 0.296}, {"RMSdev": 78, "sd": 95, "name": "", "AvI": 149, "1/d^2": 0.318}, {"RMSdev": 87, "sd": 95, "name": "", "AvI": 102, "1/d^2": 0.3399}, {"RMSdev": 70, "sd": 91, "name": "", "AvI": 71, "1/d^2": 0.3618}, {"RMSdev": 74, "sd": 91, "name": "", "AvI": 53, "1/d^2": 0.3837}, {"RMSdev": 76, "sd": 97, "name": "", "AvI": 44, "1/d^2": 0.4057}, {"RMSdev": 99, "sd": 105, "name": "", "AvI": 32, "1/d^2": 0.4276}]},
+    axis:
+    {
+      x: {
+        label: {
+          text: 'Resolution (Å)',
+          position: 'outer-center'
+        },
+        tick: {
+          format: function (x) { return (1/Math.sqrt(x)).toFixed(2); }
+        }
+
+      }
+    }
+,
+    legend: {
+      position: 'right'
+    },
+});
+
+</script><!--Div that will hold the chart-->
+<div>
+  <p>Rmerge, Rmeas, Rpim v Resolution</p>
+  <div class="graph" id="chart_RmergeRmeasRpimvResolution"></div>
+</div>
+
+<script type="text/javascript">
+
+var chart_RmergeRmeasRpimvResolution = c3.generate({
+    bindto: '#chart_RmergeRmeasRpimvResolution',
+    data: {"keys": {"x": "1/d^2", "value": ["Rmrg", "RmrgOv", "Rmeas", "RmeasOv", "Rpim", "RpimOv"]}, "json": [{"Rmeas": 0.037, "name": "", "RpimOv": 0.011, "Rmrg": 0.034, "Rpim": 0.014, "RmeasOv": 0.036, "1/d^2": 0.011, "RmrgOv": 0.034}, {"Rmeas": 0.037, "name": "", "RpimOv": 0.011, "Rmrg": 0.034, "Rpim": 0.014, "RmeasOv": 0.036, "1/d^2": 0.0329, "RmrgOv": 0.034}, {"Rmeas": 0.04, "name": "", "RpimOv": 0.011, "Rmrg": 0.037, "Rpim": 0.015, "RmeasOv": 0.039, "1/d^2": 0.0548, "RmrgOv": 0.038}, {"Rmeas": 0.045, "name": "", "RpimOv": 0.012, "Rmrg": 0.041, "Rpim": 0.017, "RmeasOv": 0.044, "1/d^2": 0.0767, "RmrgOv": 0.042}, {"Rmeas": 0.05, "name": "", "RpimOv": 0.014, "Rmrg": 0.045, "Rpim": 0.02, "RmeasOv": 0.049, "1/d^2": 0.0987, "RmrgOv": 0.047}, {"Rmeas": 0.056, "name": "", "RpimOv": 0.016, "Rmrg": 0.052, "Rpim": 0.022, "RmeasOv": 0.056, "1/d^2": 0.1206, "RmrgOv": 0.053}, {"Rmeas": 0.06, "name": "", "RpimOv": 0.017, "Rmrg": 0.055, "Rpim": 0.023, "RmeasOv": 0.059, "1/d^2": 0.1425, "RmrgOv": 0.057}, {"Rmeas": 0.064, "name": "", "RpimOv": 0.017, "Rmrg": 0.059, "Rpim": 0.024, "RmeasOv": 0.063, "1/d^2": 0.1645, "RmrgOv": 0.061}, {"Rmeas": 0.075, "name": "", "RpimOv": 0.021, "Rmrg": 0.069, "Rpim": 0.029, "RmeasOv": 0.074, "1/d^2": 0.1864, "RmrgOv": 0.071}, {"Rmeas": 0.09, "name": "", "RpimOv": 0.026, "Rmrg": 0.083, "Rpim": 0.036, "RmeasOv": 0.089, "1/d^2": 0.2083, "RmrgOv": 0.085}, {"Rmeas": 0.113, "name": "", "RpimOv": 0.032, "Rmrg": 0.104, "Rpim": 0.045, "RmeasOv": 0.113, "1/d^2": 0.2302, "RmrgOv": 0.108}, {"Rmeas": 0.149, "name": "", "RpimOv": 0.041, "Rmrg": 0.138, "Rpim": 0.057, "RmeasOv": 0.148, "1/d^2": 0.2522, "RmrgOv": 0.142}, {"Rmeas": 0.232, "name": "", "RpimOv": 0.065, "Rmrg": 0.213, "Rpim": 0.091, "RmeasOv": 0.23, "1/d^2": 0.2741, "RmrgOv": 0.22}, {"Rmeas": 0.284, "name": "", "RpimOv": 0.078, "Rmrg": 0.262, "Rpim": 0.109, "RmeasOv": 0.282, "1/d^2": 0.296, "RmrgOv": 0.27}, {"Rmeas": 0.407, "name": "", "RpimOv": 0.116, "Rmrg": 0.373, "Rpim": 0.161, "RmeasOv": 0.403, "1/d^2": 0.318, "RmrgOv": 0.386}, {"Rmeas": 0.62, "name": "", "RpimOv": 0.173, "Rmrg": 0.571, "Rpim": 0.241, "RmeasOv": 0.617, "1/d^2": 0.3399, "RmrgOv": 0.592}, {"Rmeas": 0.775, "name": "", "RpimOv": 0.214, "Rmrg": 0.715, "Rpim": 0.296, "RmeasOv": 0.773, "1/d^2": 0.3618, "RmrgOv": 0.742}, {"Rmeas": 1.098, "name": "", "RpimOv": 0.301, "Rmrg": 1.014, "Rpim": 0.419, "RmeasOv": 1.094, "1/d^2": 0.3837, "RmrgOv": 1.051}, {"Rmeas": 1.378, "name": "", "RpimOv": 0.384, "Rmrg": 1.27, "Rpim": 0.532, "RmeasOv": 1.379, "1/d^2": 0.4057, "RmrgOv": 1.324}, {"Rmeas": 2.394, "name": "", "RpimOv": 0.702, "Rmrg": 2.185, "Rpim": 0.969, "RmeasOv": 2.396, "1/d^2": 0.4276, "RmrgOv": 2.289}]},
+    axis:
+    {
+      x: {
+        label: {
+          text: 'Resolution (Å)',
+          position: 'outer-center'
+        },
+        tick: {
+          format: function (x) { return (1/Math.sqrt(x)).toFixed(2); }
+        }
+
+      }
+    }
+,
+    legend: {
+      position: 'right'
+    },
+});
+
+</script><!--Div that will hold the chart-->
+<div>
+  <p>Rmerge v Intensity</p>
+  <div class="graph" id="chart_RmergevIntensity"></div>
+</div>
+
+<script type="text/javascript">
+
+var chart_RmergevIntensity = c3.generate({
+    bindto: '#chart_RmergevIntensity',
+    data: {"keys": {"x": "Imax", "value": ["Rmrg", "Rmeas", "Rpim"]}, "json": [{"Rpim": 0.12, "Rmeas": 0.426, "Rmrg": 0.408, "name": "", "Imax": 896}, {"Rpim": 0.028, "Rmeas": 0.097, "Rmrg": 0.092, "name": "", "Imax": 1897}, {"Rpim": 0.021, "Rmeas": 0.071, "Rmrg": 0.068, "name": "", "Imax": 3032}, {"Rpim": 0.018, "Rmeas": 0.063, "Rmrg": 0.06, "name": "", "Imax": 4343}, {"Rpim": 0.017, "Rmeas": 0.058, "Rmrg": 0.056, "name": "", "Imax": 5891}, {"Rpim": 0.016, "Rmeas": 0.056, "Rmrg": 0.054, "name": "", "Imax": 7791}, {"Rpim": 0.015, "Rmeas": 0.054, "Rmrg": 0.051, "name": "", "Imax": 10237}, {"Rpim": 0.015, "Rmeas": 0.051, "Rmrg": 0.049, "name": "", "Imax": 13679}, {"Rpim": 0.014, "Rmeas": 0.049, "Rmrg": 0.047, "name": "", "Imax": 19577}, {"Rpim": 0.011, "Rmeas": 0.037, "Rmrg": 0.036, "name": "", "Imax": 409082}]},
+    axis:
+    {
+      x: {
+        label: {
+          text: 'Imax',
+          position: 'outer-center'
+        },
+
+      }
+    }
+,
+    legend: {
+      position: 'right'
+    },
+});
+
+</script><!--Div that will hold the chart-->
+<div>
+  <p>Multiplicity v Resolution</p>
+  <div class="graph" id="chart_MultiplicityvResolution"></div>
+</div>
+
+<script type="text/javascript">
+
+var chart_MultiplicityvResolution = c3.generate({
+    bindto: '#chart_MultiplicityvResolution',
+    data: {"keys": {"x": "1/d^2", "value": ["Mlplct", "AnoMlt"]}, "json": [{"Mlplct": 11.4, "AnoMlt": 7.3, "name": "", "1/d^2": 0.011}, {"Mlplct": 10.8, "AnoMlt": 6.0, "name": "", "1/d^2": 0.0329}, {"Mlplct": 11.9, "AnoMlt": 6.5, "name": "", "1/d^2": 0.0548}, {"Mlplct": 12.0, "AnoMlt": 6.4, "name": "", "1/d^2": 0.0767}, {"Mlplct": 10.8, "AnoMlt": 5.6, "name": "", "1/d^2": 0.0987}, {"Mlplct": 11.6, "AnoMlt": 6.0, "name": "", "1/d^2": 0.1206}, {"Mlplct": 12.3, "AnoMlt": 6.4, "name": "", "1/d^2": 0.1425}, {"Mlplct": 12.9, "AnoMlt": 6.6, "name": "", "1/d^2": 0.1645}, {"Mlplct": 12.4, "AnoMlt": 6.4, "name": "", "1/d^2": 0.1864}, {"Mlplct": 11.5, "AnoMlt": 5.7, "name": "", "1/d^2": 0.2083}, {"Mlplct": 12.1, "AnoMlt": 6.1, "name": "", "1/d^2": 0.2302}, {"Mlplct": 13.0, "AnoMlt": 6.6, "name": "", "1/d^2": 0.2522}, {"Mlplct": 12.3, "AnoMlt": 6.2, "name": "", "1/d^2": 0.2741}, {"Mlplct": 12.8, "AnoMlt": 6.5, "name": "", "1/d^2": 0.296}, {"Mlplct": 12.0, "AnoMlt": 6.0, "name": "", "1/d^2": 0.318}, {"Mlplct": 12.6, "AnoMlt": 6.3, "name": "", "1/d^2": 0.3399}, {"Mlplct": 12.9, "AnoMlt": 6.6, "name": "", "1/d^2": 0.3618}, {"Mlplct": 13.1, "AnoMlt": 6.6, "name": "", "1/d^2": 0.3837}, {"Mlplct": 12.8, "AnoMlt": 6.5, "name": "", "1/d^2": 0.4057}, {"Mlplct": 11.6, "AnoMlt": 5.8, "name": "", "1/d^2": 0.4276}]},
+    axis:
+    {
+      x: {
+        label: {
+          text: 'Resolution (Å)',
+          position: 'outer-center'
+        },
+        tick: {
+          format: function (x) { return (1/Math.sqrt(x)).toFixed(2); }
+        }
+
+      }
+    }
+,
+    legend: {
+      position: 'right'
+    },
+});
+
+</script><!--Div that will hold the chart-->
+<div>
+  <p>Completeness v Resolution</p>
+  <div class="graph" id="chart_CompletenessvResolution"></div>
+</div>
+
+<script type="text/javascript">
+
+var chart_CompletenessvResolution = c3.generate({
+    bindto: '#chart_CompletenessvResolution',
+    data: {"keys": {"x": "1/d^2", "value": ["%poss", "C%poss", "AnoCmp", "AnoFrc"]}, "json": [{"AnoCmp": 100.0, "name": "", "C%poss": 99.4, "1/d^2": 0.011, "%poss": 99.4, "AnoFrc": 100.0}, {"AnoCmp": 100.0, "name": "", "C%poss": 99.8, "1/d^2": 0.0329, "%poss": 100.0, "AnoFrc": 100.0}, {"AnoCmp": 100.0, "name": "", "C%poss": 99.9, "1/d^2": 0.0548, "%poss": 100.0, "AnoFrc": 100.0}, {"AnoCmp": 99.9, "name": "", "C%poss": 99.9, "1/d^2": 0.0767, "%poss": 99.9, "AnoFrc": 100.0}, {"AnoCmp": 99.9, "name": "", "C%poss": 99.9, "1/d^2": 0.0987, "%poss": 100.0, "AnoFrc": 99.9}, {"AnoCmp": 100.0, "name": "", "C%poss": 99.9, "1/d^2": 0.1206, "%poss": 100.0, "AnoFrc": 100.0}, {"AnoCmp": 100.0, "name": "", "C%poss": 100.0, "1/d^2": 0.1425, "%poss": 100.0, "AnoFrc": 100.0}, {"AnoCmp": 100.0, "name": "", "C%poss": 100.0, "1/d^2": 0.1645, "%poss": 100.0, "AnoFrc": 100.0}, {"AnoCmp": 100.0, "name": "", "C%poss": 100.0, "1/d^2": 0.1864, "%poss": 99.9, "AnoFrc": 100.0}, {"AnoCmp": 100.0, "name": "", "C%poss": 100.0, "1/d^2": 0.2083, "%poss": 100.0, "AnoFrc": 100.0}, {"AnoCmp": 99.9, "name": "", "C%poss": 99.9, "1/d^2": 0.2302, "%poss": 99.9, "AnoFrc": 100.0}, {"AnoCmp": 99.9, "name": "", "C%poss": 99.9, "1/d^2": 0.2522, "%poss": 99.9, "AnoFrc": 100.0}, {"AnoCmp": 99.5, "name": "", "C%poss": 99.9, "1/d^2": 0.2741, "%poss": 99.5, "AnoFrc": 100.0}, {"AnoCmp": 100.0, "name": "", "C%poss": 99.9, "1/d^2": 0.296, "%poss": 100.0, "AnoFrc": 100.0}, {"AnoCmp": 100.0, "name": "", "C%poss": 99.9, "1/d^2": 0.318, "%poss": 100.0, "AnoFrc": 100.0}, {"AnoCmp": 100.0, "name": "", "C%poss": 99.9, "1/d^2": 0.3399, "%poss": 100.0, "AnoFrc": 100.0}, {"AnoCmp": 99.8, "name": "", "C%poss": 99.9, "1/d^2": 0.3618, "%poss": 99.8, "AnoFrc": 100.0}, {"AnoCmp": 100.0, "name": "", "C%poss": 99.9, "1/d^2": 0.3837, "%poss": 100.0, "AnoFrc": 100.0}, {"AnoCmp": 100.0, "name": "", "C%poss": 99.9, "1/d^2": 0.4057, "%poss": 100.0, "AnoFrc": 100.0}, {"AnoCmp": 99.7, "name": "", "C%poss": 99.9, "1/d^2": 0.4276, "%poss": 99.7, "AnoFrc": 100.0}]},
+    axis:
+    {
+      x: {
+        label: {
+          text: 'Resolution (Å)',
+          position: 'outer-center'
+        },
+        tick: {
+          format: function (x) { return (1/Math.sqrt(x)).toFixed(2); }
+        }
+
+      }
+    }
+,
+    legend: {
+      position: 'right'
+    },
+});
+
+</script><!--Div that will hold the chart-->
+<div>
+  <p>Sigma(scatter/SD), within   5 sd</p>
+  <div class="graph" id="chart_SigmascatterSDwithinsd"></div>
+</div>
+
+<script type="text/javascript">
+
+var chart_SigmascatterSDwithinsd = c3.generate({
+    bindto: '#chart_SigmascatterSDwithinsd',
+    data: {"keys": {"x": "Mn(I)", "value": ["SdFc"]}, "json": [{"SdFc": 0.88, "Mn(I)": 167, "name": ""}, {"SdFc": 1.05, "Mn(I)": 1327, "name": ""}, {"SdFc": 1.03, "Mn(I)": 2428, "name": ""}, {"SdFc": 1.05, "Mn(I)": 3646, "name": ""}, {"SdFc": 1.06, "Mn(I)": 5070, "name": ""}, {"SdFc": 1.07, "Mn(I)": 6774, "name": ""}, {"SdFc": 1.07, "Mn(I)": 8929, "name": ""}, {"SdFc": 1.05, "Mn(I)": 11804, "name": ""}, {"SdFc": 1.03, "Mn(I)": 16451, "name": ""}, {"SdFc": 0.87, "Mn(I)": 47475, "name": ""}]},
+    axis:
+    {
+      x: {
+        label: {
+          text: 'Mn(I)',
+          position: 'outer-center'
+        },
+
+      }
+    }
+,
+    legend: {
+      position: 'right'
+    },
+});
+
+</script><!--Div that will hold the chart-->
+<div>
+  <p>Sigma(scatter/SD), within   5 sd, all and within   5 sd</p>
+  <div class="graph" id="chart_SigmascatterSDwithinsdallandwithinsd"></div>
+</div>
+
+<script type="text/javascript">
+
+var chart_SigmascatterSDwithinsdallandwithinsd = c3.generate({
+    bindto: '#chart_SigmascatterSDwithinsdallandwithinsd',
+    data: {"keys": {"x": "Mn(I)", "value": ["SdF", "SdFc"]}, "json": [{"SdFc": 0.88, "SdF": 0.88, "Mn(I)": 167, "name": ""}, {"SdFc": 1.05, "SdF": 1.05, "Mn(I)": 1327, "name": ""}, {"SdFc": 1.03, "SdF": 1.03, "Mn(I)": 2428, "name": ""}, {"SdFc": 1.05, "SdF": 1.05, "Mn(I)": 3646, "name": ""}, {"SdFc": 1.06, "SdF": 1.06, "Mn(I)": 5070, "name": ""}, {"SdFc": 1.07, "SdF": 1.07, "Mn(I)": 6774, "name": ""}, {"SdFc": 1.07, "SdF": 1.07, "Mn(I)": 8929, "name": ""}, {"SdFc": 1.05, "SdF": 1.05, "Mn(I)": 11804, "name": ""}, {"SdFc": 1.03, "SdF": 1.03, "Mn(I)": 16451, "name": ""}, {"SdFc": 0.87, "SdF": 0.87, "Mn(I)": 47475, "name": ""}]},
+    axis:
+    {
+      x: {
+        label: {
+          text: 'Mn(I)',
+          position: 'outer-center'
+        },
+
+      }
+    }
+,
+    legend: {
+      position: 'right'
+    },
+});
+
+</script><!--Div that will hold the chart-->
+<div>
+  <p>Rcp v. batch, in shells</p>
+  <div class="graph" id="chart_Rcpvbatchinshells"></div>
+</div>
+
+<script type="text/javascript">
+
+var chart_Rcpvbatchinshells = c3.generate({
+    bindto: '#chart_Rcpvbatchinshells',
+    data: {"keys": {"x": "Batch", "value": ["R1", "R2", "R3", "R4", "R5", "R6", "R7", "R8"]}, "json": [{"R4": 0.154, "R5": 0.436, "R6": 0.175, "R7": 0.36, "name": "", "R2": null, "R3": null, "R8": 0.445, "Batch": 1, "R1": null}, {"R4": 0.154, "R5": 0.212, "R6": 0.393, "R7": 0.496, "name": "", "R2": 0.039, "R3": 0.1, "R8": 0.668, "Batch": 2, "R1": 0.098}, {"R4": 0.126, "R5": 0.201, "R6": 0.43, "R7": 0.622, "name": "", "R2": 0.076, "R3": 0.098, "R8": 0.76, "Batch": 3, "R1": 0.084}, {"R4": 0.12, "R5": 0.216, "R6": 0.438, "R7": 0.586, "name": "", "R2": 0.064, "R3": 0.091, "R8": 0.755, "Batch": 4, "R1": 0.085}, {"R4": 0.116, "R5": 0.191, "R6": 0.432, "R7": 0.645, "name": "", "R2": 0.063, "R3": 0.095, "R8": 0.794, "Batch": 5, "R1": 0.072}, {"R4": 0.113, "R5": 0.208, "R6": 0.41, "R7": 0.63, "name": "", "R2": 0.065, "R3": 0.087, "R8": 0.808, "Batch": 6, "R1": 0.066}, {"R4": 0.114, "R5": 0.202, "R6": 0.404, "R7": 0.613, "name": "", "R2": 0.064, "R3": 0.086, "R8": 0.812, "Batch": 7, "R1": 0.066}, {"R4": 0.113, "R5": 0.209, "R6": 0.411, "R7": 0.606, "name": "", "R2": 0.066, "R3": 0.081, "R8": 0.801, "Batch": 8, "R1": 0.061}, {"R4": 0.114, "R5": 0.204, "R6": 0.398, "R7": 0.62, "name": "", "R2": 0.062, "R3": 0.08, "R8": 0.807, "Batch": 9, "R1": 0.057}, {"R4": 0.113, "R5": 0.205, "R6": 0.385, "R7": 0.625, "name": "", "R2": 0.061, "R3": 0.079, "R8": 0.804, "Batch": 10, "R1": 0.056}, {"R4": 0.114, "R5": 0.204, "R6": 0.379, "R7": 0.629, "name": "", "R2": 0.062, "R3": 0.081, "R8": 0.813, "Batch": 11, "R1": 0.055}, {"R4": 0.114, "R5": 0.204, "R6": 0.379, "R7": 0.631, "name": "", "R2": 0.064, "R3": 0.082, "R8": 0.806, "Batch": 12, "R1": 0.054}, {"R4": 0.115, "R5": 0.205, "R6": 0.376, "R7": 0.632, "name": "", "R2": 0.065, "R3": 0.082, "R8": 0.791, "Batch": 13, "R1": 0.053}, {"R4": 0.115, "R5": 0.204, "R6": 0.369, "R7": 0.625, "name": "", "R2": 0.065, "R3": 0.082, "R8": 0.788, "Batch": 14, "R1": 0.052}, {"R4": 0.113, "R5": 0.208, "R6": 0.364, "R7": 0.612, "name": "", "R2": 0.064, "R3": 0.082, "R8": 0.784, "Batch": 15, "R1": 0.051}, {"R4": 0.115, "R5": 0.207, "R6": 0.366, "R7": 0.606, "name": "", "R2": 0.063, "R3": 0.082, "R8": 0.773, "Batch": 16, "R1": 0.051}, {"R4": 0.114, "R5": 0.204, "R6": 0.363, "R7": 0.605, "name": "", "R2": 0.064, "R3": 0.083, "R8": 0.773, "Batch": 17, "R1": 0.051}, {"R4": 0.114, "R5": 0.198, "R6": 0.356, "R7": 0.601, "name": "", "R2": 0.064, "R3": 0.083, "R8": 0.772, "Batch": 18, "R1": 0.051}, {"R4": 0.112, "R5": 0.197, "R6": 0.355, "R7": 0.597, "name": "", "R2": 0.064, "R3": 0.083, "R8": 0.769, "Batch": 19, "R1": 0.05}, {"R4": 0.112, "R5": 0.194, "R6": 0.35, "R7": 0.59, "name": "", "R2": 0.065, "R3": 0.084, "R8": 0.767, "Batch": 20, "R1": 0.049}, {"R4": 0.112, "R5": 0.193, "R6": 0.346, "R7": 0.588, "name": "", "R2": 0.064, "R3": 0.084, "R8": 0.766, "Batch": 21, "R1": 0.049}, {"R4": 0.112, "R5": 0.192, "R6": 0.342, "R7": 0.587, "name": "", "R2": 0.063, "R3": 0.083, "R8": 0.77, "Batch": 22, "R1": 0.048}, {"R4": 0.111, "R5": 0.19, "R6": 0.34, "R7": 0.586, "name": "", "R2": 0.064, "R3": 0.083, "R8": 0.768, "Batch": 23, "R1": 0.048}, {"R4": 0.11, "R5": 0.19, "R6": 0.336, "R7": 0.584, "name": "", "R2": 0.064, "R3": 0.083, "R8": 0.767, "Batch": 24, "R1": 0.049}, {"R4": 0.11, "R5": 0.188, "R6": 0.331, "R7": 0.583, "name": "", "R2": 0.063, "R3": 0.083, "R8": 0.765, "Batch": 25, "R1": 0.049}, {"R4": 0.11, "R5": 0.187, "R6": 0.327, "R7": 0.579, "name": "", "R2": 0.063, "R3": 0.083, "R8": 0.76, "Batch": 26, "R1": 0.049}, {"R4": 0.109, "R5": 0.186, "R6": 0.324, "R7": 0.578, "name": "", "R2": 0.062, "R3": 0.083, "R8": 0.759, "Batch": 27, "R1": 0.049}, {"R4": 0.108, "R5": 0.185, "R6": 0.324, "R7": 0.574, "name": "", "R2": 0.062, "R3": 0.082, "R8": 0.76, "Batch": 28, "R1": 0.049}, {"R4": 0.108, "R5": 0.185, "R6": 0.324, "R7": 0.57, "name": "", "R2": 0.062, "R3": 0.082, "R8": 0.757, "Batch": 29, "R1": 0.049}, {"R4": 0.107, "R5": 0.183, "R6": 0.323, "R7": 0.565, "name": "", "R2": 0.062, "R3": 0.082, "R8": 0.755, "Batch": 30, "R1": 0.049}, {"R4": 0.106, "R5": 0.181, "R6": 0.321, "R7": 0.56, "name": "", "R2": 0.062, "R3": 0.081, "R8": 0.751, "Batch": 31, "R1": 0.049}, {"R4": 0.106, "R5": 0.18, "R6": 0.319, "R7": 0.557, "name": "", "R2": 0.062, "R3": 0.082, "R8": 0.746, "Batch": 32, "R1": 0.049}, {"R4": 0.105, "R5": 0.179, "R6": 0.318, "R7": 0.555, "name": "", "R2": 0.062, "R3": 0.082, "R8": 0.745, "Batch": 33, "R1": 0.049}, {"R4": 0.105, "R5": 0.178, "R6": 0.318, "R7": 0.549, "name": "", "R2": 0.062, "R3": 0.082, "R8": 0.743, "Batch": 34, "R1": 0.049}, {"R4": 0.105, "R5": 0.177, "R6": 0.317, "R7": 0.546, "name": "", "R2": 0.062, "R3": 0.082, "R8": 0.743, "Batch": 35, "R1": 0.049}, {"R4": 0.105, "R5": 0.176, "R6": 0.314, "R7": 0.545, "name": "", "R2": 0.061, "R3": 0.082, "R8": 0.742, "Batch": 36, "R1": 0.049}, {"R4": 0.105, "R5": 0.176, "R6": 0.314, "R7": 0.542, "name": "", "R2": 0.062, "R3": 0.082, "R8": 0.743, "Batch": 37, "R1": 0.049}, {"R4": 0.104, "R5": 0.175, "R6": 0.314, "R7": 0.543, "name": "", "R2": 0.061, "R3": 0.081, "R8": 0.744, "Batch": 38, "R1": 0.048}, {"R4": 0.104, "R5": 0.174, "R6": 0.313, "R7": 0.54, "name": "", "R2": 0.061, "R3": 0.081, "R8": 0.746, "Batch": 39, "R1": 0.048}, {"R4": 0.103, "R5": 0.173, "R6": 0.312, "R7": 0.54, "name": "", "R2": 0.061, "R3": 0.081, "R8": 0.746, "Batch": 40, "R1": 0.048}, {"R4": 0.103, "R5": 0.172, "R6": 0.313, "R7": 0.54, "name": "", "R2": 0.061, "R3": 0.081, "R8": 0.745, "Batch": 41, "R1": 0.048}, {"R4": 0.103, "R5": 0.171, "R6": 0.312, "R7": 0.543, "name": "", "R2": 0.061, "R3": 0.081, "R8": 0.746, "Batch": 42, "R1": 0.048}, {"R4": 0.103, "R5": 0.171, "R6": 0.311, "R7": 0.543, "name": "", "R2": 0.06, "R3": 0.08, "R8": 0.745, "Batch": 43, "R1": 0.047}, {"R4": 0.102, "R5": 0.171, "R6": 0.311, "R7": 0.542, "name": "", "R2": 0.06, "R3": 0.08, "R8": 0.746, "Batch": 44, "R1": 0.048}, {"R4": 0.102, "R5": 0.171, "R6": 0.31, "R7": 0.539, "name": "", "R2": 0.06, "R3": 0.08, "R8": 0.746, "Batch": 45, "R1": 0.047}, {"R4": 0.102, "R5": 0.171, "R6": 0.309, "R7": 0.539, "name": "", "R2": 0.059, "R3": 0.08, "R8": 0.746, "Batch": 46, "R1": 0.047}, {"R4": 0.101, "R5": 0.171, "R6": 0.309, "R7": 0.539, "name": "", "R2": 0.059, "R3": 0.08, "R8": 0.746, "Batch": 47, "R1": 0.047}, {"R4": 0.101, "R5": 0.17, "R6": 0.308, "R7": 0.538, "name": "", "R2": 0.059, "R3": 0.08, "R8": 0.747, "Batch": 48, "R1": 0.047}, {"R4": 0.101, "R5": 0.169, "R6": 0.307, "R7": 0.537, "name": "", "R2": 0.059, "R3": 0.08, "R8": 0.748, "Batch": 49, "R1": 0.047}, {"R4": 0.1, "R5": 0.168, "R6": 0.306, "R7": 0.536, "name": "", "R2": 0.058, "R3": 0.079, "R8": 0.749, "Batch": 50, "R1": 0.046}, {"R4": 0.1, "R5": 0.168, "R6": 0.307, "R7": 0.537, "name": "", "R2": 0.058, "R3": 0.079, "R8": 0.749, "Batch": 51, "R1": 0.046}, {"R4": 0.1, "R5": 0.167, "R6": 0.306, "R7": 0.537, "name": "", "R2": 0.058, "R3": 0.079, "R8": 0.749, "Batch": 52, "R1": 0.046}, {"R4": 0.1, "R5": 0.167, "R6": 0.305, "R7": 0.536, "name": "", "R2": 0.058, "R3": 0.079, "R8": 0.75, "Batch": 53, "R1": 0.046}, {"R4": 0.099, "R5": 0.166, "R6": 0.304, "R7": 0.535, "name": "", "R2": 0.058, "R3": 0.078, "R8": 0.749, "Batch": 54, "R1": 0.046}, {"R4": 0.099, "R5": 0.165, "R6": 0.303, "R7": 0.535, "name": "", "R2": 0.057, "R3": 0.078, "R8": 0.748, "Batch": 55, "R1": 0.045}, {"R4": 0.099, "R5": 0.165, "R6": 0.303, "R7": 0.535, "name": "", "R2": 0.057, "R3": 0.078, "R8": 0.746, "Batch": 56, "R1": 0.045}, {"R4": 0.099, "R5": 0.164, "R6": 0.303, "R7": 0.534, "name": "", "R2": 0.057, "R3": 0.077, "R8": 0.745, "Batch": 57, "R1": 0.045}, {"R4": 0.098, "R5": 0.164, "R6": 0.302, "R7": 0.532, "name": "", "R2": 0.057, "R3": 0.077, "R8": 0.744, "Batch": 58, "R1": 0.045}, {"R4": 0.097, "R5": 0.164, "R6": 0.301, "R7": 0.532, "name": "", "R2": 0.057, "R3": 0.077, "R8": 0.744, "Batch": 59, "R1": 0.045}, {"R4": 0.097, "R5": 0.163, "R6": 0.3, "R7": 0.531, "name": "", "R2": 0.057, "R3": 0.077, "R8": 0.744, "Batch": 60, "R1": 0.045}, {"R4": 0.097, "R5": 0.162, "R6": 0.3, "R7": 0.531, "name": "", "R2": 0.057, "R3": 0.076, "R8": 0.743, "Batch": 61, "R1": 0.045}, {"R4": 0.097, "R5": 0.162, "R6": 0.299, "R7": 0.531, "name": "", "R2": 0.057, "R3": 0.076, "R8": 0.744, "Batch": 62, "R1": 0.045}, {"R4": 0.096, "R5": 0.162, "R6": 0.299, "R7": 0.532, "name": "", "R2": 0.056, "R3": 0.076, "R8": 0.744, "Batch": 63, "R1": 0.044}, {"R4": 0.096, "R5": 0.162, "R6": 0.299, "R7": 0.531, "name": "", "R2": 0.056, "R3": 0.076, "R8": 0.744, "Batch": 64, "R1": 0.044}, {"R4": 0.096, "R5": 0.162, "R6": 0.299, "R7": 0.531, "name": "", "R2": 0.056, "R3": 0.076, "R8": 0.743, "Batch": 65, "R1": 0.044}, {"R4": 0.096, "R5": 0.161, "R6": 0.298, "R7": 0.53, "name": "", "R2": 0.056, "R3": 0.076, "R8": 0.743, "Batch": 66, "R1": 0.044}, {"R4": 0.095, "R5": 0.161, "R6": 0.297, "R7": 0.528, "name": "", "R2": 0.056, "R3": 0.076, "R8": 0.742, "Batch": 67, "R1": 0.044}, {"R4": 0.095, "R5": 0.16, "R6": 0.297, "R7": 0.528, "name": "", "R2": 0.056, "R3": 0.076, "R8": 0.742, "Batch": 68, "R1": 0.044}, {"R4": 0.095, "R5": 0.16, "R6": 0.297, "R7": 0.529, "name": "", "R2": 0.056, "R3": 0.075, "R8": 0.742, "Batch": 69, "R1": 0.044}, {"R4": 0.095, "R5": 0.16, "R6": 0.296, "R7": 0.529, "name": "", "R2": 0.056, "R3": 0.075, "R8": 0.742, "Batch": 70, "R1": 0.044}, {"R4": 0.094, "R5": 0.16, "R6": 0.296, "R7": 0.528, "name": "", "R2": 0.056, "R3": 0.075, "R8": 0.742, "Batch": 71, "R1": 0.044}, {"R4": 0.094, "R5": 0.159, "R6": 0.295, "R7": 0.527, "name": "", "R2": 0.056, "R3": 0.075, "R8": 0.742, "Batch": 72, "R1": 0.044}, {"R4": 0.094, "R5": 0.159, "R6": 0.295, "R7": 0.527, "name": "", "R2": 0.056, "R3": 0.075, "R8": 0.741, "Batch": 73, "R1": 0.043}, {"R4": 0.094, "R5": 0.158, "R6": 0.295, "R7": 0.526, "name": "", "R2": 0.056, "R3": 0.075, "R8": 0.74, "Batch": 74, "R1": 0.044}, {"R4": 0.094, "R5": 0.158, "R6": 0.295, "R7": 0.525, "name": "", "R2": 0.056, "R3": 0.075, "R8": 0.74, "Batch": 75, "R1": 0.043}, {"R4": 0.094, "R5": 0.158, "R6": 0.295, "R7": 0.525, "name": "", "R2": 0.056, "R3": 0.075, "R8": 0.739, "Batch": 76, "R1": 0.043}, {"R4": 0.094, "R5": 0.158, "R6": 0.294, "R7": 0.524, "name": "", "R2": 0.055, "R3": 0.075, "R8": 0.738, "Batch": 77, "R1": 0.044}, {"R4": 0.093, "R5": 0.157, "R6": 0.295, "R7": 0.524, "name": "", "R2": 0.055, "R3": 0.074, "R8": 0.738, "Batch": 78, "R1": 0.044}, {"R4": 0.093, "R5": 0.157, "R6": 0.294, "R7": 0.524, "name": "", "R2": 0.055, "R3": 0.074, "R8": 0.737, "Batch": 79, "R1": 0.044}, {"R4": 0.093, "R5": 0.157, "R6": 0.294, "R7": 0.523, "name": "", "R2": 0.055, "R3": 0.074, "R8": 0.736, "Batch": 80, "R1": 0.044}, {"R4": 0.093, "R5": 0.157, "R6": 0.294, "R7": 0.523, "name": "", "R2": 0.055, "R3": 0.074, "R8": 0.736, "Batch": 81, "R1": 0.044}, {"R4": 0.093, "R5": 0.157, "R6": 0.295, "R7": 0.524, "name": "", "R2": 0.055, "R3": 0.074, "R8": 0.737, "Batch": 82, "R1": 0.044}, {"R4": 0.093, "R5": 0.157, "R6": 0.295, "R7": 0.524, "name": "", "R2": 0.055, "R3": 0.074, "R8": 0.738, "Batch": 83, "R1": 0.044}, {"R4": 0.093, "R5": 0.157, "R6": 0.295, "R7": 0.525, "name": "", "R2": 0.055, "R3": 0.074, "R8": 0.738, "Batch": 84, "R1": 0.044}, {"R4": 0.093, "R5": 0.157, "R6": 0.295, "R7": 0.524, "name": "", "R2": 0.055, "R3": 0.074, "R8": 0.738, "Batch": 85, "R1": 0.044}, {"R4": 0.093, "R5": 0.157, "R6": 0.295, "R7": 0.524, "name": "", "R2": 0.055, "R3": 0.074, "R8": 0.738, "Batch": 86, "R1": 0.044}, {"R4": 0.093, "R5": 0.157, "R6": 0.295, "R7": 0.525, "name": "", "R2": 0.055, "R3": 0.074, "R8": 0.738, "Batch": 87, "R1": 0.044}, {"R4": 0.093, "R5": 0.157, "R6": 0.295, "R7": 0.525, "name": "", "R2": 0.055, "R3": 0.074, "R8": 0.737, "Batch": 88, "R1": 0.044}, {"R4": 0.093, "R5": 0.157, "R6": 0.295, "R7": 0.525, "name": "", "R2": 0.055, "R3": 0.074, "R8": 0.738, "Batch": 89, "R1": 0.044}, {"R4": 0.093, "R5": 0.156, "R6": 0.295, "R7": 0.526, "name": "", "R2": 0.055, "R3": 0.073, "R8": 0.738, "Batch": 90, "R1": 0.044}, {"R4": 0.093, "R5": 0.157, "R6": 0.295, "R7": 0.526, "name": "", "R2": 0.055, "R3": 0.073, "R8": 0.739, "Batch": 91, "R1": 0.044}, {"R4": 0.093, "R5": 0.157, "R6": 0.295, "R7": 0.526, "name": "", "R2": 0.055, "R3": 0.073, "R8": 0.739, "Batch": 92, "R1": 0.044}, {"R4": 0.093, "R5": 0.157, "R6": 0.295, "R7": 0.527, "name": "", "R2": 0.055, "R3": 0.073, "R8": 0.739, "Batch": 93, "R1": 0.044}, {"R4": 0.093, "R5": 0.157, "R6": 0.296, "R7": 0.527, "name": "", "R2": 0.055, "R3": 0.073, "R8": 0.739, "Batch": 94, "R1": 0.044}, {"R4": 0.093, "R5": 0.157, "R6": 0.296, "R7": 0.528, "name": "", "R2": 0.055, "R3": 0.073, "R8": 0.739, "Batch": 95, "R1": 0.044}, {"R4": 0.092, "R5": 0.157, "R6": 0.297, "R7": 0.528, "name": "", "R2": 0.055, "R3": 0.073, "R8": 0.739, "Batch": 96, "R1": 0.045}, {"R4": 0.093, "R5": 0.157, "R6": 0.297, "R7": 0.528, "name": "", "R2": 0.055, "R3": 0.073, "R8": 0.739, "Batch": 97, "R1": 0.045}, {"R4": 0.093, "R5": 0.157, "R6": 0.297, "R7": 0.528, "name": "", "R2": 0.055, "R3": 0.073, "R8": 0.739, "Batch": 98, "R1": 0.045}, {"R4": 0.093, "R5": 0.157, "R6": 0.297, "R7": 0.528, "name": "", "R2": 0.055, "R3": 0.073, "R8": 0.739, "Batch": 99, "R1": 0.045}, {"R4": 0.093, "R5": 0.157, "R6": 0.297, "R7": 0.529, "name": "", "R2": 0.056, "R3": 0.073, "R8": 0.74, "Batch": 100, "R1": 0.045}, {"R4": 0.093, "R5": 0.157, "R6": 0.298, "R7": 0.529, "name": "", "R2": 0.056, "R3": 0.073, "R8": 0.741, "Batch": 101, "R1": 0.045}, {"R4": 0.093, "R5": 0.157, "R6": 0.298, "R7": 0.53, "name": "", "R2": 0.056, "R3": 0.073, "R8": 0.741, "Batch": 102, "R1": 0.045}, {"R4": 0.093, "R5": 0.157, "R6": 0.298, "R7": 0.53, "name": "", "R2": 0.056, "R3": 0.073, "R8": 0.742, "Batch": 103, "R1": 0.045}, {"R4": 0.093, "R5": 0.157, "R6": 0.299, "R7": 0.531, "name": "", "R2": 0.056, "R3": 0.073, "R8": 0.743, "Batch": 104, "R1": 0.045}, {"R4": 0.093, "R5": 0.157, "R6": 0.299, "R7": 0.533, "name": "", "R2": 0.056, "R3": 0.073, "R8": 0.744, "Batch": 105, "R1": 0.045}, {"R4": 0.093, "R5": 0.157, "R6": 0.299, "R7": 0.534, "name": "", "R2": 0.056, "R3": 0.073, "R8": 0.744, "Batch": 106, "R1": 0.045}, {"R4": 0.093, "R5": 0.157, "R6": 0.299, "R7": 0.535, "name": "", "R2": 0.056, "R3": 0.073, "R8": 0.745, "Batch": 107, "R1": 0.045}, {"R4": 0.093, "R5": 0.157, "R6": 0.299, "R7": 0.536, "name": "", "R2": 0.056, "R3": 0.073, "R8": 0.746, "Batch": 108, "R1": 0.045}, {"R4": 0.093, "R5": 0.158, "R6": 0.3, "R7": 0.537, "name": "", "R2": 0.056, "R3": 0.073, "R8": 0.747, "Batch": 109, "R1": 0.045}, {"R4": 0.093, "R5": 0.158, "R6": 0.3, "R7": 0.537, "name": "", "R2": 0.056, "R3": 0.073, "R8": 0.747, "Batch": 110, "R1": 0.045}, {"R4": 0.093, "R5": 0.158, "R6": 0.3, "R7": 0.538, "name": "", "R2": 0.056, "R3": 0.073, "R8": 0.748, "Batch": 111, "R1": 0.045}, {"R4": 0.093, "R5": 0.158, "R6": 0.301, "R7": 0.539, "name": "", "R2": 0.056, "R3": 0.073, "R8": 0.748, "Batch": 112, "R1": 0.045}, {"R4": 0.093, "R5": 0.158, "R6": 0.301, "R7": 0.54, "name": "", "R2": 0.056, "R3": 0.073, "R8": 0.749, "Batch": 113, "R1": 0.045}, {"R4": 0.093, "R5": 0.159, "R6": 0.302, "R7": 0.54, "name": "", "R2": 0.056, "R3": 0.073, "R8": 0.75, "Batch": 114, "R1": 0.045}, {"R4": 0.093, "R5": 0.159, "R6": 0.303, "R7": 0.54, "name": "", "R2": 0.056, "R3": 0.073, "R8": 0.75, "Batch": 115, "R1": 0.045}, {"R4": 0.093, "R5": 0.159, "R6": 0.303, "R7": 0.541, "name": "", "R2": 0.056, "R3": 0.073, "R8": 0.751, "Batch": 116, "R1": 0.045}, {"R4": 0.093, "R5": 0.159, "R6": 0.304, "R7": 0.542, "name": "", "R2": 0.056, "R3": 0.073, "R8": 0.752, "Batch": 117, "R1": 0.045}, {"R4": 0.093, "R5": 0.16, "R6": 0.304, "R7": 0.543, "name": "", "R2": 0.056, "R3": 0.073, "R8": 0.753, "Batch": 118, "R1": 0.045}, {"R4": 0.093, "R5": 0.16, "R6": 0.305, "R7": 0.544, "name": "", "R2": 0.056, "R3": 0.073, "R8": 0.753, "Batch": 119, "R1": 0.045}, {"R4": 0.094, "R5": 0.16, "R6": 0.305, "R7": 0.544, "name": "", "R2": 0.056, "R3": 0.073, "R8": 0.754, "Batch": 120, "R1": 0.045}, {"R4": 0.094, "R5": 0.16, "R6": 0.306, "R7": 0.545, "name": "", "R2": 0.056, "R3": 0.073, "R8": 0.755, "Batch": 121, "R1": 0.045}, {"R4": 0.094, "R5": 0.16, "R6": 0.307, "R7": 0.547, "name": "", "R2": 0.056, "R3": 0.073, "R8": 0.756, "Batch": 122, "R1": 0.045}, {"R4": 0.094, "R5": 0.161, "R6": 0.307, "R7": 0.548, "name": "", "R2": 0.056, "R3": 0.073, "R8": 0.756, "Batch": 123, "R1": 0.045}, {"R4": 0.094, "R5": 0.161, "R6": 0.308, "R7": 0.549, "name": "", "R2": 0.056, "R3": 0.073, "R8": 0.757, "Batch": 124, "R1": 0.045}, {"R4": 0.094, "R5": 0.161, "R6": 0.308, "R7": 0.549, "name": "", "R2": 0.056, "R3": 0.073, "R8": 0.758, "Batch": 125, "R1": 0.045}, {"R4": 0.094, "R5": 0.161, "R6": 0.309, "R7": 0.551, "name": "", "R2": 0.056, "R3": 0.073, "R8": 0.758, "Batch": 126, "R1": 0.046}, {"R4": 0.094, "R5": 0.162, "R6": 0.31, "R7": 0.552, "name": "", "R2": 0.056, "R3": 0.073, "R8": 0.759, "Batch": 127, "R1": 0.046}, {"R4": 0.094, "R5": 0.162, "R6": 0.31, "R7": 0.553, "name": "", "R2": 0.056, "R3": 0.073, "R8": 0.759, "Batch": 128, "R1": 0.046}, {"R4": 0.094, "R5": 0.162, "R6": 0.311, "R7": 0.554, "name": "", "R2": 0.056, "R3": 0.073, "R8": 0.761, "Batch": 129, "R1": 0.046}, {"R4": 0.095, "R5": 0.163, "R6": 0.311, "R7": 0.555, "name": "", "R2": 0.056, "R3": 0.073, "R8": 0.761, "Batch": 130, "R1": 0.046}, {"R4": 0.095, "R5": 0.163, "R6": 0.312, "R7": 0.556, "name": "", "R2": 0.056, "R3": 0.073, "R8": 0.762, "Batch": 131, "R1": 0.046}, {"R4": 0.095, "R5": 0.163, "R6": 0.313, "R7": 0.557, "name": "", "R2": 0.056, "R3": 0.073, "R8": 0.763, "Batch": 132, "R1": 0.046}, {"R4": 0.095, "R5": 0.164, "R6": 0.314, "R7": 0.559, "name": "", "R2": 0.056, "R3": 0.073, "R8": 0.763, "Batch": 133, "R1": 0.046}, {"R4": 0.095, "R5": 0.164, "R6": 0.315, "R7": 0.56, "name": "", "R2": 0.056, "R3": 0.073, "R8": 0.764, "Batch": 134, "R1": 0.046}, {"R4": 0.095, "R5": 0.165, "R6": 0.315, "R7": 0.561, "name": "", "R2": 0.056, "R3": 0.073, "R8": 0.765, "Batch": 135, "R1": 0.046}, {"R4": 0.095, "R5": 0.165, "R6": 0.316, "R7": 0.562, "name": "", "R2": 0.056, "R3": 0.073, "R8": 0.766, "Batch": 136, "R1": 0.046}, {"R4": 0.096, "R5": 0.165, "R6": 0.317, "R7": 0.563, "name": "", "R2": 0.057, "R3": 0.073, "R8": 0.767, "Batch": 137, "R1": 0.046}, {"R4": 0.096, "R5": 0.166, "R6": 0.318, "R7": 0.565, "name": "", "R2": 0.057, "R3": 0.073, "R8": 0.767, "Batch": 138, "R1": 0.046}, {"R4": 0.096, "R5": 0.166, "R6": 0.318, "R7": 0.566, "name": "", "R2": 0.057, "R3": 0.074, "R8": 0.768, "Batch": 139, "R1": 0.046}, {"R4": 0.096, "R5": 0.166, "R6": 0.319, "R7": 0.568, "name": "", "R2": 0.057, "R3": 0.074, "R8": 0.769, "Batch": 140, "R1": 0.046}, {"R4": 0.096, "R5": 0.166, "R6": 0.32, "R7": 0.569, "name": "", "R2": 0.057, "R3": 0.074, "R8": 0.769, "Batch": 141, "R1": 0.046}, {"R4": 0.096, "R5": 0.167, "R6": 0.321, "R7": 0.57, "name": "", "R2": 0.057, "R3": 0.074, "R8": 0.77, "Batch": 142, "R1": 0.046}, {"R4": 0.096, "R5": 0.167, "R6": 0.322, "R7": 0.572, "name": "", "R2": 0.057, "R3": 0.074, "R8": 0.771, "Batch": 143, "R1": 0.046}, {"R4": 0.097, "R5": 0.167, "R6": 0.322, "R7": 0.573, "name": "", "R2": 0.057, "R3": 0.074, "R8": 0.772, "Batch": 144, "R1": 0.046}, {"R4": 0.097, "R5": 0.167, "R6": 0.323, "R7": 0.574, "name": "", "R2": 0.057, "R3": 0.074, "R8": 0.773, "Batch": 145, "R1": 0.046}, {"R4": 0.097, "R5": 0.168, "R6": 0.323, "R7": 0.576, "name": "", "R2": 0.057, "R3": 0.074, "R8": 0.774, "Batch": 146, "R1": 0.046}, {"R4": 0.097, "R5": 0.168, "R6": 0.324, "R7": 0.577, "name": "", "R2": 0.057, "R3": 0.074, "R8": 0.774, "Batch": 147, "R1": 0.046}, {"R4": 0.097, "R5": 0.169, "R6": 0.325, "R7": 0.578, "name": "", "R2": 0.057, "R3": 0.074, "R8": 0.775, "Batch": 148, "R1": 0.047}, {"R4": 0.097, "R5": 0.169, "R6": 0.326, "R7": 0.579, "name": "", "R2": 0.058, "R3": 0.074, "R8": 0.776, "Batch": 149, "R1": 0.047}, {"R4": 0.098, "R5": 0.169, "R6": 0.327, "R7": 0.58, "name": "", "R2": 0.058, "R3": 0.075, "R8": 0.777, "Batch": 150, "R1": 0.047}, {"R4": 0.098, "R5": 0.17, "R6": 0.327, "R7": 0.581, "name": "", "R2": 0.058, "R3": 0.075, "R8": 0.778, "Batch": 151, "R1": 0.047}, {"R4": 0.098, "R5": 0.17, "R6": 0.328, "R7": 0.582, "name": "", "R2": 0.058, "R3": 0.075, "R8": 0.778, "Batch": 152, "R1": 0.047}, {"R4": 0.098, "R5": 0.171, "R6": 0.329, "R7": 0.583, "name": "", "R2": 0.058, "R3": 0.075, "R8": 0.779, "Batch": 153, "R1": 0.047}, {"R4": 0.098, "R5": 0.171, "R6": 0.33, "R7": 0.584, "name": "", "R2": 0.058, "R3": 0.075, "R8": 0.78, "Batch": 154, "R1": 0.047}, {"R4": 0.099, "R5": 0.172, "R6": 0.331, "R7": 0.585, "name": "", "R2": 0.058, "R3": 0.075, "R8": 0.78, "Batch": 155, "R1": 0.047}, {"R4": 0.099, "R5": 0.172, "R6": 0.332, "R7": 0.586, "name": "", "R2": 0.058, "R3": 0.075, "R8": 0.781, "Batch": 156, "R1": 0.047}, {"R4": 0.099, "R5": 0.173, "R6": 0.333, "R7": 0.587, "name": "", "R2": 0.058, "R3": 0.076, "R8": 0.781, "Batch": 157, "R1": 0.047}, {"R4": 0.099, "R5": 0.173, "R6": 0.334, "R7": 0.588, "name": "", "R2": 0.058, "R3": 0.076, "R8": 0.782, "Batch": 158, "R1": 0.047}, {"R4": 0.099, "R5": 0.174, "R6": 0.335, "R7": 0.589, "name": "", "R2": 0.059, "R3": 0.076, "R8": 0.782, "Batch": 159, "R1": 0.048}, {"R4": 0.1, "R5": 0.174, "R6": 0.335, "R7": 0.59, "name": "", "R2": 0.059, "R3": 0.076, "R8": 0.783, "Batch": 160, "R1": 0.048}, {"R4": 0.1, "R5": 0.175, "R6": 0.336, "R7": 0.591, "name": "", "R2": 0.059, "R3": 0.076, "R8": 0.784, "Batch": 161, "R1": 0.048}, {"R4": 0.1, "R5": 0.175, "R6": 0.337, "R7": 0.592, "name": "", "R2": 0.059, "R3": 0.076, "R8": 0.784, "Batch": 162, "R1": 0.048}, {"R4": 0.1, "R5": 0.175, "R6": 0.338, "R7": 0.593, "name": "", "R2": 0.059, "R3": 0.076, "R8": 0.785, "Batch": 163, "R1": 0.048}, {"R4": 0.101, "R5": 0.176, "R6": 0.339, "R7": 0.594, "name": "", "R2": 0.059, "R3": 0.077, "R8": 0.786, "Batch": 164, "R1": 0.048}, {"R4": 0.101, "R5": 0.177, "R6": 0.34, "R7": 0.595, "name": "", "R2": 0.059, "R3": 0.077, "R8": 0.787, "Batch": 165, "R1": 0.048}, {"R4": 0.101, "R5": 0.177, "R6": 0.341, "R7": 0.596, "name": "", "R2": 0.059, "R3": 0.077, "R8": 0.788, "Batch": 166, "R1": 0.048}, {"R4": 0.101, "R5": 0.178, "R6": 0.342, "R7": 0.597, "name": "", "R2": 0.059, "R3": 0.077, "R8": 0.789, "Batch": 167, "R1": 0.048}, {"R4": 0.101, "R5": 0.178, "R6": 0.343, "R7": 0.598, "name": "", "R2": 0.059, "R3": 0.077, "R8": 0.79, "Batch": 168, "R1": 0.048}, {"R4": 0.102, "R5": 0.179, "R6": 0.344, "R7": 0.599, "name": "", "R2": 0.06, "R3": 0.077, "R8": 0.791, "Batch": 169, "R1": 0.049}, {"R4": 0.102, "R5": 0.179, "R6": 0.345, "R7": 0.6, "name": "", "R2": 0.06, "R3": 0.077, "R8": 0.792, "Batch": 170, "R1": 0.049}, {"R4": 0.102, "R5": 0.18, "R6": 0.346, "R7": 0.602, "name": "", "R2": 0.06, "R3": 0.078, "R8": 0.792, "Batch": 171, "R1": 0.049}, {"R4": 0.103, "R5": 0.18, "R6": 0.347, "R7": 0.603, "name": "", "R2": 0.06, "R3": 0.078, "R8": 0.793, "Batch": 172, "R1": 0.049}, {"R4": 0.103, "R5": 0.181, "R6": 0.348, "R7": 0.605, "name": "", "R2": 0.06, "R3": 0.078, "R8": 0.794, "Batch": 173, "R1": 0.049}, {"R4": 0.103, "R5": 0.182, "R6": 0.35, "R7": 0.606, "name": "", "R2": 0.06, "R3": 0.078, "R8": 0.794, "Batch": 174, "R1": 0.049}, {"R4": 0.103, "R5": 0.182, "R6": 0.351, "R7": 0.607, "name": "", "R2": 0.06, "R3": 0.078, "R8": 0.795, "Batch": 175, "R1": 0.049}, {"R4": 0.104, "R5": 0.183, "R6": 0.352, "R7": 0.608, "name": "", "R2": 0.06, "R3": 0.078, "R8": 0.795, "Batch": 176, "R1": 0.049}, {"R4": 0.104, "R5": 0.184, "R6": 0.353, "R7": 0.609, "name": "", "R2": 0.061, "R3": 0.078, "R8": 0.796, "Batch": 177, "R1": 0.049}, {"R4": 0.104, "R5": 0.184, "R6": 0.354, "R7": 0.61, "name": "", "R2": 0.061, "R3": 0.079, "R8": 0.797, "Batch": 178, "R1": 0.05}, {"R4": 0.105, "R5": 0.186, "R6": 0.357, "R7": 0.612, "name": "", "R2": 0.061, "R3": 0.079, "R8": 0.798, "Batch": 179, "R1": 0.05}]},
+    axis:
+    {
+      x: {
+        label: {
+          text: 'Batch',
+          position: 'outer-center'
+        },
+
+      }
+    }
+,
+    legend: {
+      position: 'right'
+    },
+});
+
+</script><!--Div that will hold the chart-->
+<div>
+  <p>Rcp v. batch</p>
+  <div class="graph" id="chart_Rcpvbatch"></div>
+</div>
+
+<script type="text/javascript">
+
+var chart_Rcpvbatch = c3.generate({
+    bindto: '#chart_Rcpvbatch',
+    data: {"keys": {"x": "Batch", "value": ["Rcp", "CmPoss"]}, "json": [{"CmPoss": 0.051, "Rcp": 0.071, "name": "", "Batch": 1}, {"CmPoss": 0.114, "Rcp": 0.098, "name": "", "Batch": 2}, {"CmPoss": 0.174, "Rcp": 0.102, "name": "", "Batch": 3}, {"CmPoss": 0.229, "Rcp": 0.095, "name": "", "Batch": 4}, {"CmPoss": 0.282, "Rcp": 0.09, "name": "", "Batch": 5}, {"CmPoss": 0.333, "Rcp": 0.087, "name": "", "Batch": 6}, {"CmPoss": 0.38, "Rcp": 0.087, "name": "", "Batch": 7}, {"CmPoss": 0.423, "Rcp": 0.084, "name": "", "Batch": 8}, {"CmPoss": 0.461, "Rcp": 0.082, "name": "", "Batch": 9}, {"CmPoss": 0.497, "Rcp": 0.08, "name": "", "Batch": 10}, {"CmPoss": 0.529, "Rcp": 0.08, "name": "", "Batch": 11}, {"CmPoss": 0.559, "Rcp": 0.08, "name": "", "Batch": 12}, {"CmPoss": 0.587, "Rcp": 0.08, "name": "", "Batch": 13}, {"CmPoss": 0.613, "Rcp": 0.08, "name": "", "Batch": 14}, {"CmPoss": 0.638, "Rcp": 0.079, "name": "", "Batch": 15}, {"CmPoss": 0.66, "Rcp": 0.078, "name": "", "Batch": 16}, {"CmPoss": 0.681, "Rcp": 0.078, "name": "", "Batch": 17}, {"CmPoss": 0.701, "Rcp": 0.078, "name": "", "Batch": 18}, {"CmPoss": 0.719, "Rcp": 0.077, "name": "", "Batch": 19}, {"CmPoss": 0.736, "Rcp": 0.077, "name": "", "Batch": 20}, {"CmPoss": 0.752, "Rcp": 0.076, "name": "", "Batch": 21}, {"CmPoss": 0.767, "Rcp": 0.075, "name": "", "Batch": 22}, {"CmPoss": 0.781, "Rcp": 0.075, "name": "", "Batch": 23}, {"CmPoss": 0.793, "Rcp": 0.075, "name": "", "Batch": 24}, {"CmPoss": 0.805, "Rcp": 0.074, "name": "", "Batch": 25}, {"CmPoss": 0.816, "Rcp": 0.074, "name": "", "Batch": 26}, {"CmPoss": 0.826, "Rcp": 0.073, "name": "", "Batch": 27}, {"CmPoss": 0.834, "Rcp": 0.073, "name": "", "Batch": 28}, {"CmPoss": 0.841, "Rcp": 0.073, "name": "", "Batch": 29}, {"CmPoss": 0.847, "Rcp": 0.072, "name": "", "Batch": 30}, {"CmPoss": 0.849, "Rcp": 0.072, "name": "", "Batch": 31}, {"CmPoss": 0.851, "Rcp": 0.072, "name": "", "Batch": 32}, {"CmPoss": 0.852, "Rcp": 0.072, "name": "", "Batch": 33}, {"CmPoss": 0.854, "Rcp": 0.072, "name": "", "Batch": 34}, {"CmPoss": 0.855, "Rcp": 0.072, "name": "", "Batch": 35}, {"CmPoss": 0.856, "Rcp": 0.071, "name": "", "Batch": 36}, {"CmPoss": 0.858, "Rcp": 0.071, "name": "", "Batch": 37}, {"CmPoss": 0.859, "Rcp": 0.071, "name": "", "Batch": 38}, {"CmPoss": 0.86, "Rcp": 0.071, "name": "", "Batch": 39}, {"CmPoss": 0.86, "Rcp": 0.07, "name": "", "Batch": 40}, {"CmPoss": 0.861, "Rcp": 0.07, "name": "", "Batch": 41}, {"CmPoss": 0.862, "Rcp": 0.07, "name": "", "Batch": 42}, {"CmPoss": 0.862, "Rcp": 0.07, "name": "", "Batch": 43}, {"CmPoss": 0.864, "Rcp": 0.07, "name": "", "Batch": 44}, {"CmPoss": 0.865, "Rcp": 0.069, "name": "", "Batch": 45}, {"CmPoss": 0.865, "Rcp": 0.069, "name": "", "Batch": 46}, {"CmPoss": 0.866, "Rcp": 0.069, "name": "", "Batch": 47}, {"CmPoss": 0.867, "Rcp": 0.069, "name": "", "Batch": 48}, {"CmPoss": 0.867, "Rcp": 0.068, "name": "", "Batch": 49}, {"CmPoss": 0.868, "Rcp": 0.068, "name": "", "Batch": 50}, {"CmPoss": 0.868, "Rcp": 0.068, "name": "", "Batch": 51}, {"CmPoss": 0.869, "Rcp": 0.068, "name": "", "Batch": 52}, {"CmPoss": 0.869, "Rcp": 0.067, "name": "", "Batch": 53}, {"CmPoss": 0.869, "Rcp": 0.067, "name": "", "Batch": 54}, {"CmPoss": 0.869, "Rcp": 0.067, "name": "", "Batch": 55}, {"CmPoss": 0.869, "Rcp": 0.067, "name": "", "Batch": 56}, {"CmPoss": 0.87, "Rcp": 0.067, "name": "", "Batch": 57}, {"CmPoss": 0.87, "Rcp": 0.067, "name": "", "Batch": 58}, {"CmPoss": 0.87, "Rcp": 0.066, "name": "", "Batch": 59}, {"CmPoss": 0.87, "Rcp": 0.066, "name": "", "Batch": 60}, {"CmPoss": 0.87, "Rcp": 0.066, "name": "", "Batch": 61}, {"CmPoss": 0.87, "Rcp": 0.066, "name": "", "Batch": 62}, {"CmPoss": 0.871, "Rcp": 0.066, "name": "", "Batch": 63}, {"CmPoss": 0.871, "Rcp": 0.066, "name": "", "Batch": 64}, {"CmPoss": 0.871, "Rcp": 0.066, "name": "", "Batch": 65}, {"CmPoss": 0.871, "Rcp": 0.065, "name": "", "Batch": 66}, {"CmPoss": 0.871, "Rcp": 0.065, "name": "", "Batch": 67}, {"CmPoss": 0.872, "Rcp": 0.065, "name": "", "Batch": 68}, {"CmPoss": 0.872, "Rcp": 0.065, "name": "", "Batch": 69}, {"CmPoss": 0.872, "Rcp": 0.065, "name": "", "Batch": 70}, {"CmPoss": 0.873, "Rcp": 0.065, "name": "", "Batch": 71}, {"CmPoss": 0.873, "Rcp": 0.065, "name": "", "Batch": 72}, {"CmPoss": 0.874, "Rcp": 0.065, "name": "", "Batch": 73}, {"CmPoss": 0.875, "Rcp": 0.065, "name": "", "Batch": 74}, {"CmPoss": 0.877, "Rcp": 0.065, "name": "", "Batch": 75}, {"CmPoss": 0.879, "Rcp": 0.065, "name": "", "Batch": 76}, {"CmPoss": 0.881, "Rcp": 0.065, "name": "", "Batch": 77}, {"CmPoss": 0.884, "Rcp": 0.065, "name": "", "Batch": 78}, {"CmPoss": 0.888, "Rcp": 0.065, "name": "", "Batch": 79}, {"CmPoss": 0.892, "Rcp": 0.065, "name": "", "Batch": 80}, {"CmPoss": 0.896, "Rcp": 0.065, "name": "", "Batch": 81}, {"CmPoss": 0.9, "Rcp": 0.065, "name": "", "Batch": 82}, {"CmPoss": 0.905, "Rcp": 0.065, "name": "", "Batch": 83}, {"CmPoss": 0.91, "Rcp": 0.065, "name": "", "Batch": 84}, {"CmPoss": 0.914, "Rcp": 0.065, "name": "", "Batch": 85}, {"CmPoss": 0.919, "Rcp": 0.065, "name": "", "Batch": 86}, {"CmPoss": 0.924, "Rcp": 0.065, "name": "", "Batch": 87}, {"CmPoss": 0.929, "Rcp": 0.065, "name": "", "Batch": 88}, {"CmPoss": 0.934, "Rcp": 0.065, "name": "", "Batch": 89}, {"CmPoss": 0.938, "Rcp": 0.065, "name": "", "Batch": 90}, {"CmPoss": 0.943, "Rcp": 0.065, "name": "", "Batch": 91}, {"CmPoss": 0.947, "Rcp": 0.065, "name": "", "Batch": 92}, {"CmPoss": 0.952, "Rcp": 0.065, "name": "", "Batch": 93}, {"CmPoss": 0.956, "Rcp": 0.065, "name": "", "Batch": 94}, {"CmPoss": 0.959, "Rcp": 0.065, "name": "", "Batch": 95}, {"CmPoss": 0.964, "Rcp": 0.065, "name": "", "Batch": 96}, {"CmPoss": 0.968, "Rcp": 0.065, "name": "", "Batch": 97}, {"CmPoss": 0.971, "Rcp": 0.065, "name": "", "Batch": 98}, {"CmPoss": 0.975, "Rcp": 0.065, "name": "", "Batch": 99}, {"CmPoss": 0.978, "Rcp": 0.065, "name": "", "Batch": 100}, {"CmPoss": 0.981, "Rcp": 0.065, "name": "", "Batch": 101}, {"CmPoss": 0.983, "Rcp": 0.065, "name": "", "Batch": 102}, {"CmPoss": 0.986, "Rcp": 0.066, "name": "", "Batch": 103}, {"CmPoss": 0.988, "Rcp": 0.066, "name": "", "Batch": 104}, {"CmPoss": 0.99, "Rcp": 0.066, "name": "", "Batch": 105}, {"CmPoss": 0.991, "Rcp": 0.066, "name": "", "Batch": 106}, {"CmPoss": 0.992, "Rcp": 0.066, "name": "", "Batch": 107}, {"CmPoss": 0.994, "Rcp": 0.066, "name": "", "Batch": 108}, {"CmPoss": 0.995, "Rcp": 0.066, "name": "", "Batch": 109}, {"CmPoss": 0.995, "Rcp": 0.066, "name": "", "Batch": 110}, {"CmPoss": 0.996, "Rcp": 0.066, "name": "", "Batch": 111}, {"CmPoss": 0.997, "Rcp": 0.066, "name": "", "Batch": 112}, {"CmPoss": 0.997, "Rcp": 0.066, "name": "", "Batch": 113}, {"CmPoss": 0.997, "Rcp": 0.066, "name": "", "Batch": 114}, {"CmPoss": 0.998, "Rcp": 0.066, "name": "", "Batch": 115}, {"CmPoss": 0.998, "Rcp": 0.066, "name": "", "Batch": 116}, {"CmPoss": 0.998, "Rcp": 0.066, "name": "", "Batch": 117}, {"CmPoss": 0.998, "Rcp": 0.066, "name": "", "Batch": 118}, {"CmPoss": 0.999, "Rcp": 0.066, "name": "", "Batch": 119}, {"CmPoss": 0.999, "Rcp": 0.066, "name": "", "Batch": 120}, {"CmPoss": 0.999, "Rcp": 0.066, "name": "", "Batch": 121}, {"CmPoss": 0.999, "Rcp": 0.066, "name": "", "Batch": 122}, {"CmPoss": 0.999, "Rcp": 0.066, "name": "", "Batch": 123}, {"CmPoss": 0.999, "Rcp": 0.066, "name": "", "Batch": 124}, {"CmPoss": 0.999, "Rcp": 0.066, "name": "", "Batch": 125}, {"CmPoss": 0.999, "Rcp": 0.067, "name": "", "Batch": 126}, {"CmPoss": 0.999, "Rcp": 0.067, "name": "", "Batch": 127}, {"CmPoss": 0.999, "Rcp": 0.067, "name": "", "Batch": 128}, {"CmPoss": 0.999, "Rcp": 0.067, "name": "", "Batch": 129}, {"CmPoss": 0.999, "Rcp": 0.067, "name": "", "Batch": 130}, {"CmPoss": 0.999, "Rcp": 0.067, "name": "", "Batch": 131}, {"CmPoss": 0.999, "Rcp": 0.067, "name": "", "Batch": 132}, {"CmPoss": 0.999, "Rcp": 0.067, "name": "", "Batch": 133}, {"CmPoss": 0.999, "Rcp": 0.067, "name": "", "Batch": 134}, {"CmPoss": 0.999, "Rcp": 0.067, "name": "", "Batch": 135}, {"CmPoss": 0.999, "Rcp": 0.067, "name": "", "Batch": 136}, {"CmPoss": 0.999, "Rcp": 0.067, "name": "", "Batch": 137}, {"CmPoss": 0.999, "Rcp": 0.067, "name": "", "Batch": 138}, {"CmPoss": 0.999, "Rcp": 0.068, "name": "", "Batch": 139}, {"CmPoss": 0.999, "Rcp": 0.068, "name": "", "Batch": 140}, {"CmPoss": 0.999, "Rcp": 0.068, "name": "", "Batch": 141}, {"CmPoss": 0.999, "Rcp": 0.068, "name": "", "Batch": 142}, {"CmPoss": 0.999, "Rcp": 0.068, "name": "", "Batch": 143}, {"CmPoss": 0.999, "Rcp": 0.068, "name": "", "Batch": 144}, {"CmPoss": 0.999, "Rcp": 0.068, "name": "", "Batch": 145}, {"CmPoss": 0.999, "Rcp": 0.068, "name": "", "Batch": 146}, {"CmPoss": 0.999, "Rcp": 0.068, "name": "", "Batch": 147}, {"CmPoss": 0.999, "Rcp": 0.068, "name": "", "Batch": 148}, {"CmPoss": 0.999, "Rcp": 0.069, "name": "", "Batch": 149}, {"CmPoss": 0.999, "Rcp": 0.069, "name": "", "Batch": 150}, {"CmPoss": 0.999, "Rcp": 0.069, "name": "", "Batch": 151}, {"CmPoss": 0.999, "Rcp": 0.069, "name": "", "Batch": 152}, {"CmPoss": 0.999, "Rcp": 0.069, "name": "", "Batch": 153}, {"CmPoss": 0.999, "Rcp": 0.069, "name": "", "Batch": 154}, {"CmPoss": 0.999, "Rcp": 0.069, "name": "", "Batch": 155}, {"CmPoss": 0.999, "Rcp": 0.069, "name": "", "Batch": 156}, {"CmPoss": 0.999, "Rcp": 0.07, "name": "", "Batch": 157}, {"CmPoss": 0.999, "Rcp": 0.07, "name": "", "Batch": 158}, {"CmPoss": 0.999, "Rcp": 0.07, "name": "", "Batch": 159}, {"CmPoss": 0.999, "Rcp": 0.07, "name": "", "Batch": 160}, {"CmPoss": 0.999, "Rcp": 0.07, "name": "", "Batch": 161}, {"CmPoss": 0.999, "Rcp": 0.07, "name": "", "Batch": 162}, {"CmPoss": 0.999, "Rcp": 0.07, "name": "", "Batch": 163}, {"CmPoss": 0.999, "Rcp": 0.071, "name": "", "Batch": 164}, {"CmPoss": 0.999, "Rcp": 0.071, "name": "", "Batch": 165}, {"CmPoss": 0.999, "Rcp": 0.071, "name": "", "Batch": 166}, {"CmPoss": 0.999, "Rcp": 0.071, "name": "", "Batch": 167}, {"CmPoss": 0.999, "Rcp": 0.071, "name": "", "Batch": 168}, {"CmPoss": 0.999, "Rcp": 0.071, "name": "", "Batch": 169}, {"CmPoss": 0.999, "Rcp": 0.071, "name": "", "Batch": 170}, {"CmPoss": 0.999, "Rcp": 0.072, "name": "", "Batch": 171}, {"CmPoss": 0.999, "Rcp": 0.072, "name": "", "Batch": 172}, {"CmPoss": 0.999, "Rcp": 0.072, "name": "", "Batch": 173}, {"CmPoss": 0.999, "Rcp": 0.072, "name": "", "Batch": 174}, {"CmPoss": 0.999, "Rcp": 0.072, "name": "", "Batch": 175}, {"CmPoss": 0.999, "Rcp": 0.072, "name": "", "Batch": 176}, {"CmPoss": 0.999, "Rcp": 0.072, "name": "", "Batch": 177}, {"CmPoss": 0.999, "Rcp": 0.073, "name": "", "Batch": 178}, {"CmPoss": 0.999, "Rcp": 0.073, "name": "", "Batch": 179}]},
+    axis:
+    {
+      x: {
+        label: {
+          text: 'Batch',
+          position: 'outer-center'
+        },
+
+      }
+    }
+,
+    legend: {
+      position: 'right'
+    },
+});
+
+</script>
+</div>
+</body>
+</html>
+

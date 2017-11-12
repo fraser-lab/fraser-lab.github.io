@@ -1,0 +1,26 @@
+Deleted: /Users/jfraser/METHODS_XIA2/adp/DEFAULT/scale/SWEEP1-pointless.mtz
+Deleted: /Users/jfraser/METHODS_XIA2/adp/DEFAULT/scale/AUTOMATIC_DEFAULT_reindex.mtz
+Deleted: /Users/jfraser/METHODS_XIA2/adp/DEFAULT/scale/AUTOMATIC_DEFAULT_free_temp.mtz
+Copied log file /Users/jfraser/METHODS_XIA2/adp/DEFAULT/NATIVE/SWEEP1/index/IDXREF.LP to /Users/jfraser/METHODS_XIA2/adp/LogFiles/AUTOMATIC_DEFAULT_NATIVE_SWEEP1_INDEX.log
+Copied log file /Users/jfraser/METHODS_XIA2/adp/DEFAULT/NATIVE/SWEEP1/integrate/INTEGRATE.LP to /Users/jfraser/METHODS_XIA2/adp/LogFiles/AUTOMATIC_DEFAULT_NATIVE_SWEEP1_INTEGRATE.log
+Copied log file /Users/jfraser/METHODS_XIA2/adp/DEFAULT/NATIVE/SWEEP1/integrate/CORRECT.LP to /Users/jfraser/METHODS_XIA2/adp/LogFiles/AUTOMATIC_DEFAULT_NATIVE_SWEEP1_CORRECT.log
+Copied log file /Users/jfraser/METHODS_XIA2/adp/DEFAULT/scale/XSCALE.LP to /Users/jfraser/METHODS_XIA2/adp/LogFiles/AUTOMATIC_DEFAULT_XSCALE.log
+Copied log file /Users/jfraser/METHODS_XIA2/adp/DEFAULT/scale/41_aimless.log to /Users/jfraser/METHODS_XIA2/adp/LogFiles/AUTOMATIC_DEFAULT_aimless.log
+Copied log file /Users/jfraser/METHODS_XIA2/adp/DEFAULT/scale/44_ctruncate.log to /Users/jfraser/METHODS_XIA2/adp/LogFiles/AUTOMATIC_DEFAULT_NATIVE_truncate.log
+Copied xml file /Users/jfraser/METHODS_XIA2/adp/DEFAULT/scale/41_aimless.xml to /Users/jfraser/METHODS_XIA2/adp/LogFiles/AUTOMATIC_DEFAULT_aimless_xml.xml
+Copied xml file /Users/jfraser/METHODS_XIA2/adp/DEFAULT/scale/44_truncate.xml to /Users/jfraser/METHODS_XIA2/adp/LogFiles/AUTOMATIC_DEFAULT_NATIVE_truncate.xml
+Copied data file /Users/jfraser/METHODS_XIA2/adp/DEFAULT/scale/AUTOMATIC_DEFAULT_scaled_unmerged.sca to /Users/jfraser/METHODS_XIA2/adp/DataFiles/AUTOMATIC_DEFAULT_scaled_unmerged.sca
+Copied data file /Users/jfraser/METHODS_XIA2/adp/DEFAULT/scale/AUTOMATIC_DEFAULT_scaled_unmerged.mtz to /Users/jfraser/METHODS_XIA2/adp/DataFiles/AUTOMATIC_DEFAULT_scaled_unmerged.mtz
+Copied data file /Users/jfraser/METHODS_XIA2/adp/DEFAULT/scale/AUTOMATIC_DEFAULT_scaled.sca to /Users/jfraser/METHODS_XIA2/adp/DataFiles/AUTOMATIC_DEFAULT_scaled.sca
+Copied data file /Users/jfraser/METHODS_XIA2/adp/DEFAULT/scale/AUTOMATIC_DEFAULT_free.mtz to /Users/jfraser/METHODS_XIA2/adp/DataFiles/AUTOMATIC_DEFAULT_free.mtz
+Copied extra data file /Users/jfraser/METHODS_XIA2/adp/DEFAULT/NATIVE/SWEEP1/integrate/INTEGRATE.HKL to /Users/jfraser/METHODS_XIA2/adp/DataFiles/AUTOMATIC_DEFAULT_NATIVE_SWEEP1_INTEGRATE.HKL
+Copied extra data file /Users/jfraser/METHODS_XIA2/adp/DEFAULT/NATIVE/SWEEP1/integrate/XDS_ASCII.HKL to /Users/jfraser/METHODS_XIA2/adp/DataFiles/AUTOMATIC_DEFAULT_NATIVE_SWEEP1_CORRECT.HKL
+Copied extra data file /Users/jfraser/METHODS_XIA2/adp/DEFAULT/NATIVE/SWEEP1/integrate/21_xparm_xds_experiments.json to /Users/jfraser/METHODS_XIA2/adp/DataFiles/AUTOMATIC_DEFAULT_NATIVE_SWEEP1_experiments.json
+Copied extra data file /Users/jfraser/METHODS_XIA2/adp/DEFAULT/NATIVE/SWEEP1/integrate/INTEGRATE_reindex.mtz to /Users/jfraser/METHODS_XIA2/adp/DataFiles/AUTOMATIC_DEFAULT_NATIVE_SWEEP1_INTEGRATE.mtz
+Copied extra data file /Users/jfraser/METHODS_XIA2/adp/DEFAULT/NATIVE/SWEEP1/integrate/INTEGRATE.HKL to /Users/jfraser/METHODS_XIA2/adp/DataFiles/AUTOMATIC_DEFAULT_NATIVE_SWEEP1_INTEGRATE.HKL
+Copied extra data file /Users/jfraser/METHODS_XIA2/adp/DEFAULT/NATIVE/SWEEP1/integrate/XDS_ASCII.HKL to /Users/jfraser/METHODS_XIA2/adp/DataFiles/AUTOMATIC_DEFAULT_NATIVE_SWEEP1_CORRECT.HKL
+Copied extra data file /Users/jfraser/METHODS_XIA2/adp/DEFAULT/NATIVE/SWEEP1/integrate/21_xparm_xds_experiments.json to /Users/jfraser/METHODS_XIA2/adp/DataFiles/AUTOMATIC_DEFAULT_NATIVE_SWEEP1_experiments.json
+Copied extra data file /Users/jfraser/METHODS_XIA2/adp/DEFAULT/NATIVE/SWEEP1/integrate/INTEGRATE_reindex.mtz to /Users/jfraser/METHODS_XIA2/adp/DataFiles/AUTOMATIC_DEFAULT_NATIVE_SWEEP1_INTEGRATE.mtz
+Copied extra data file /Users/jfraser/METHODS_XIA2/adp/DEFAULT/NATIVE/SWEEP1/integrate/XDS_ASCII.HKL to /Users/jfraser/METHODS_XIA2/adp/DataFiles/AUTOMATIC_DEFAULT_NATIVE_SWEEP1_CORRECT.HKL
+Copied extra data file /Users/jfraser/METHODS_XIA2/adp/DEFAULT/NATIVE/SWEEP1/integrate/21_xparm_xds_experiments.json to /Users/jfraser/METHODS_XIA2/adp/DataFiles/AUTOMATIC_DEFAULT_NATIVE_SWEEP1_experiments.json
+Copied extra data file /Users/jfraser/METHODS_XIA2/adp/DEFAULT/NATIVE/SWEEP1/integrate/INTEGRATE_reindex.mtz to /Users/jfraser/METHODS_XIA2/adp/DataFiles/AUTOMATIC_DEFAULT_NATIVE_SWEEP1_INTEGRATE.mtz
