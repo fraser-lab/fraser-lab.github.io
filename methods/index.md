@@ -183,7 +183,7 @@ _Mon Nov 13_
   - X-ray: Christopher John Pascal	Mathy and Yessica	Gomez
   - NMR: Adam	Catching and Neha	Prasad
 - 1-2:20PM: X-ray Methods Group Presentation and X-ray data processing: from spots to MTZ (JSF, Kazu Ito, Michael Thompson)
-  - [Box link to ADP images](box.com)
+  - [Box link to ADP images](https://ucsf.box.com/s/i85gxe5prx9z3ov5hdftqgy1skdevca7) - Download 
   - [xia2 summary for APO](/static/apo/xia2.html)
     - [APO mtz](/static/apo/DataFiles/yHSP90_APO.mtz)
   - [xia2 summary for ADP](/static/adp/xia2.html)
