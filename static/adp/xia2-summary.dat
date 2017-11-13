@@ -1,0 +1,22 @@
+Project: AUTOMATIC
+Crystal: DEFAULT
+Sequence length: 0
+Wavelength: NATIVE (1.11583)
+Sweep: SWEEP1
+Files /Users/jfraser/METHODS/c23_high/test_1_#####.cbf
+Images: 1 to 180
+Beam 215.27 211.10 => 215.30 211.44
+Distance 199.99 => 199.94
+Date: Sun Nov  5 14:15:06 2017
+For AUTOMATIC/DEFAULT/NATIVE:
+High resolution limit                           1.51    4.10    1.51
+Low resolution limit                           37.15   37.16    1.54
+Completeness                                  100.0   100.0    99.7
+Multiplicity                                   12.3    11.3    11.4
+I/sigma                                        19.0    53.7     1.0
+Rmerge(I+/-)                                  0.051   0.035   2.378
+CC half                                       0.999   0.999   0.559
+Anomalous completeness                         99.9   100.0    99.7
+Anomalous multiplicity                          6.5     6.6     5.9
+Cell:  74.290  74.290 110.370  90.000  90.000  90.000
+Spacegroup: P 43 2 2

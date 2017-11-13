@@ -66,6 +66,8 @@ This is a team-based class where students work in small groups develop their own
 - [Protein crystallography and drug discovery: recollections of knowledge exchange between academia and industry](http://journals.iucr.org/m/issues/2017/04/00/hi5649/index.html)
 - [Scaffold-based design by X-ray](http://www.pnas.org/content/105/8/3041.long), [PANDDA](https://www.ncbi.nlm.nih.gov/pubmed/28436492)
 - [EM for drug discovery](https://www.ncbi.nlm.nih.gov/pubmed/27238019), [Proteasome example](http://journals.iucr.org/d/issues/2017/06/00/rr5143/rr5143.pdf)
+- [The maximal affinity of ligands](https://www.ncbi.nlm.nih.gov/pubmed/10468550)
+- [The role of ligand efficiency metrics in drug discovery](https://www.nature.com/articles/nrd4163)
 
 **Course Goals:**
 
@@ -129,15 +131,16 @@ _Weds Nov 1_
   - X-ray:
     - [Phenix](https://www.phenix-online.org/download/), [request password](http://www.phenix-online.org/phenix_request/index.cgi)
     - [XDS](http://xds.mpimf-heidelberg.mpg.de/html_doc/downloading.html)
+    - [XDS-GUI](https://strucbio.biologie.uni-konstanz.de/xdswiki/index.php/Installation#Mac_.28Intel.29)
     - [ADXV](http://www.scripps.edu/tainer/arvai/adxv.html)
-    - Coot (already installed on laptops)
+    - Coot (already installed on laptops), if not use [Standalone Coot](http://scottlab.ucsc.edu/xtal/wiki/index.php/Stand-alone_Coot_for_10.11)
     - [XRayView](http://www.phillipslab.org/software)
   - NMR:
     - [NMR Pipe](https://www.ibbr.umd.edu/nmrpipe/install.html), [MacOSX Install Guide](/static/pdf/methods/NMRPipe_Install_MacOS.pdf)
     - [NMRFAM SPARKY](http://www.nmrfam.wisc.edu/nmrfam-sparky-distribution.htm)
   - EM:
     - [EMAN2](http://ncmi.bcm.tmc.edu/ncmi/software/software_details?selected_software=counter_222)
-- 2:00-3:00PM - Theory of Fragments and Role of Structural Biology (Aashish Manglik)
+- 2:00-3:00PM - [Theory of Fragments and Role of Structural Biology](/static/pdf/methods/20171029_Fragments_Lecture.pdf) (Aashish Manglik)
 
 
 
@@ -154,7 +157,7 @@ _X-ray_
 _NMR_
 - NMR Group A:  Viktoriya	Berdan, Adam	Catching, Neha	Prasad, Jack	Stevenson
 - NMR Group B:  Nicole	Wenzell, Eric	Gonzalez, Cody Thomas	Krivacic
-- Monday Nov 6:	  1-2pm NMR sample loading (teaching lab, Group A and B), 2-5pm NMR data collection (Group A and Group B)
+- Monday Nov 6:	  1-2pm NMR sample loading (teaching lab, Group A and B); NMR data collection: 2-3:30pm, Group A and 3:30-5pm , Group B
 - Tuesday Nov 7:	  1-5pm NMR data collection (titration, Group A )
 - Wednesday Nov 8:	   1-5pm NMR data collection (titration, Group B)
 - [500 MHz NMR quick start guide](/static/pdf/methods/UCSF_500_Cheat_Sheet.pdf)
@@ -175,27 +178,33 @@ _Groups_
 - 5: Megan	Moore, Julian	Harris, Cody Thomas	Krivacic, Lakshmi	Miller-Vedam
 
 _Mon Nov 13_
-- 1-2PM **Presentations on Methods Week**: Two students from each Method Team will present for 10 minutes and summarize what occured in Week 2. Take pictures and try to give the students a feel for not only the theory of what you learned but also the practical aspects!
+**Presentations on Methods Week**: Two students from each Method Team will present for 10 minutes and summarize what occured in Week 2. Take pictures and try to give the students a feel for not only the theory of what you learned but also the practical aspects!
   - EM: Erik	Navarro and Paige	Solomon
   - X-ray: Christopher John Pascal	Mathy and Yessica	Gomez
   - NMR: Adam	Catching and Neha	Prasad
-- 2-3PM X-ray data processing: from spots to MTZ (JSF, Kazu Ito, Michael Thompson)
-- 3-4PM [EM data processing: from particles to 2D](https://docs.google.com/document/d/1cyh9XstW3Da8tU1g5gj8UCk1OMC8vGJsk7a5r6T9XHo/edit?usp=sharing)
-- 4-5PM NMR data processing: : [from FID to 2D](/static/pdf/methods/2DNMR_Processing_Tutorial.pdf) (Ryan Tibble and John Gross)
+
+- 1-2:20PM: X-ray Methods Group Presentation and X-ray data processing: from spots to MTZ (JSF, Kazu Ito, Michael Thompson)
+  - [Box link to ADP images](https://ucsf.box.com/s/i85gxe5prx9z3ov5hdftqgy1skdevca7) - Download 
+  - [xia2 summary for APO](/static/apo/xia2.html)
+    - [APO mtz](/static/apo/DataFiles/yHSP90_APO.mtz)
+  - [xia2 summary for ADP](/static/adp/xia2.html)
+    - [ADP mtz](/static/adp/DataFiles/yHSP90_ADP.mtz)
+- 2:20-3:40PM: EM Methods Group Presentation and [EM data processing: from particles to 2D](https://docs.google.com/document/d/1cyh9XstW3Da8tU1g5gj8UCk1OMC8vGJsk7a5r6T9XHo/edit?usp=sharing)
+- 3:40-5PM NMR Methods Group Presentation and NMR data processing: : [from FID to 2D](/static/pdf/methods/2DNMR_Processing_Tutorial.pdf) (Ryan Tibble and John Gross)
 
 _Tues Nov 14_
 - 1-2PM X-ray data processing: from MTZ to density, molecular replacement and difference maps (JSF, Kazu Ito, Michael Thompson)
 - 2-3PM [EM data processing: from 2D to 3D](https://docs.google.com/document/d/1cyh9XstW3Da8tU1g5gj8UCk1OMC8vGJsk7a5r6T9XHo/edit?usp=sharing)
 - 3PM - Journal club:
-  - Lakshmi	Miller-Vedam [Weak alignment NMR: a hawk-eyed view of biomolecular structure](https://doi.org/10.1016/j.sbi.2005.08.006)
-  - Kelly	Montgomery [Free R value: a novel statistical quantity for assessing the accuracy of crystal structures](https://www.nature.com/nature/journal/v355/n6359/pdf/355472a0.pdf)
+  - Nicole	Wenzell [Weak alignment NMR: a hawk-eyed view of biomolecular structure](https://doi.org/10.1016/j.sbi.2005.08.006), background: [Direct measurement of distances and angles in biomolecules by NMR dilute liquid crystalline medium](https://www.ncbi.nlm.nih.gov/pubmed/9353189)
+  - Lakshmi	Miller-Vedam [Free R value: a novel statistical quantity for assessing the accuracy of crystal structures](https://www.nature.com/nature/journal/v355/n6359/pdf/355472a0.pdf)
 - 3-4PM NMR data processing: overlaying spectrum with assignments and perturbations from 2D data comparisons (Ryan Tibble and John Gross)
 
 _Weds Nov 15_
 - 1-2PM X-ray data processing: identifying ligands, ligand restraints and refinement (JSF, Kazu Ito, Michael Thompson)
 - 2-3PM [EM data processing: manipulating density](https://docs.google.com/document/d/1cyh9XstW3Da8tU1g5gj8UCk1OMC8vGJsk7a5r6T9XHo/edit?usp=sharing)
 - 3PM - Journal Club:
-  - Nicole	Wenzell [Prevention of overfitting in cryo-EM structure determination.](https://www.ncbi.nlm.nih.gov/pubmed?cmd=search&term=22842542), background: [Optimal Determination of Particle Orientation, Absolute Hand, and Contrast Loss in Single-particle Electron Cryomicroscopy](http://www.sciencedirect.com/science/article/pii/S0022283603010222)
+  - Kelly	Montgomery [Prevention of overfitting in cryo-EM structure determination.](https://www.ncbi.nlm.nih.gov/pubmed?cmd=search&term=22842542), background: [Optimal Determination of Particle Orientation, Absolute Hand, and Contrast Loss in Single-particle Electron Cryomicroscopy](http://www.sciencedirect.com/science/article/pii/S0022283603010222)
   -  Kyle	Lopez [Molprobity](https://www.ncbi.nlm.nih.gov/pubmed/20057044)
 - 3-4PM NMR data processing: measuring chemical shift perturbations  (Ryan Tibble and John Gross)
 
@@ -236,13 +245,14 @@ _Tues Dec 5_
 - 2:30-5PM Work on X-ray data (JSF, Kazu Ito, Michael Thompson)
 - 4PM - Journal Club:
   - Conner	Bardine [Modelling dynamics in protein crystal structures by ensemble refinement](https://www.ncbi.nlm.nih.gov/pubmed?cmd=search&term=23251785) and
-  - Paul	Klauser [Symmetry broken and rebroken during the ATP hydrolysis cycle of the mitochondrial Hsp90 TRAP1.](https://www.ncbi.nlm.nih.gov/pubmed/28742020)
+  - Adam	Cotton [Why protein crystals favour some space-groups over others.](https://www.ncbi.nlm.nih.gov/pubmed/8846217)
+
 
 _Weds Dec 6_
 - 1-2PM Presentation by Sali on Rigor, Reproducibility, and Integrative Modeling
 - 2:30-4PM Final work on X-ray data (JSF, Kazu Ito, Michael Thompson)
 - 4PM - Journal Club:
-  - Adam	Cotton [Multiple conformations of E. coli Hsp90 in solution: insights into the conformational dynamics of Hsp90.](https://www.ncbi.nlm.nih.gov/pubmed/18462680)
+  - Paul	Klauser [Symmetry broken and rebroken during the ATP hydrolysis cycle of the mitochondrial Hsp90 TRAP1.](https://www.ncbi.nlm.nih.gov/pubmed/28742020)
 - 4-5PM Final Q/A with Stroud and Fraser: what we still don't understand about X-ray crystallography
 
 **Week 6 - EM**
