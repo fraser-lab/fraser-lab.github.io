@@ -181,7 +181,7 @@ _Mon Nov 13_
   - NMR: Adam	Catching and Neha	Prasad
 - 2-3PM X-ray data processing: from spots to MTZ (JSF, Kazu Ito, Michael Thompson)
 - 3-4PM [EM data processing: from particles to 2D](https://docs.google.com/document/d/1cyh9XstW3Da8tU1g5gj8UCk1OMC8vGJsk7a5r6T9XHo/edit?usp=sharing)
-- 4-5PM NMR data processing: : from FID to 2D (Ryan Tibble and John Gross)
+- 4-5PM NMR data processing: : [from FID to 2D](/static/pdf/methods/2DNMR_Processing_Tutorial.pdf) (Ryan Tibble and John Gross)
 
 _Tues Nov 14_
 - 1-2PM X-ray data processing: from MTZ to density, molecular replacement and difference maps (JSF, Kazu Ito, Michael Thompson)
