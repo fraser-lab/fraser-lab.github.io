@@ -1,0 +1,414 @@
+
+ ***** IDXREF ***** (VERSION Jun 1, 2017  BUILT=20170923)   8-Nov-2017
+
+ INPUT PARAMETER VALUES
+ ----------------------
+ NAME_TEMPLATE_OF_DATA_FRAMES=/Users/jfraser/METHODS/yhsp90-02/collect_2_0????.cbf
+ STARTING_ANGLE=        0.0000     STARTING_FRAME=       1
+ NX=  2463  NY=  2527    QX=  0.172000  QY=  0.172000
+ DIRECTION_OF_DETECTOR_X-AXIS=   1.00000   0.00000   0.00000
+ DIRECTION_OF_DETECTOR_Y-AXIS=   0.00000   1.00000   0.00000
+ DETECTOR_DISTANCE=   275.010
+ ORGX=   1226.67  ORGY=   1252.05
+ NUMBER OF DETECTOR SEGMENTS   1
+ SEGMENT=    1 2463    1 2527  ! x1,x2,y1,y2 (pixel units)
+    SEGMENT_ORGX=      0.00   SEGMENT_ORGY=      0.00
+    SEGMENT_DISTANCE=     0.00
+    DIRECTION_OF_SEGMENT_X-AXIS=  1.000000  0.000000  0.000000
+    DIRECTION_OF_SEGMENT_Y-AXIS=  0.000000  1.000000  0.000000
+ X-RAY_WAVELENGTH=       1.115830
+ INCIDENT_BEAM_DIRECTION=  0.000000  0.000000  1.000000
+ ROTATION_AXIS=  1.000000  0.000000  0.000000
+ OSCILLATION_RANGE=    0.1000
+ INDEX_MAGNITUDE=   8    INDEX_ERROR=   0.050    INDEX_QUALITY=  0.80
+ SEPMIN=  6.00    CLUSTER_RADIUS=     3
+ MAXIMUM_ERROR_OF_SPOT_POSITION=   3.0
+ MAXIMUM_ERROR_OF_SPINDLE_POSITION=   2.0
+ MINIMUM_FRACTION_OF_INDEXED_SPOTS=  0.50
+ TRUSTED_REGION=  0.00  1.41
+ INCLUDE_RESOLUTION_RANGE=     20.000     0.000
+ SPACE_GROUP_NUMBER=   75
+ UNIT_CELL_CONSTANTS=    74.00    74.00   110.00  90.000  90.000  90.000
+
+ AUTOINDEXING IS BASED ON   2668 OUT OF    2687 SPOTS
+ WITHIN THE ALLOWED RESOLUTION RANGES OF THE FOLLOWING DATA IMAGES:
+ SPOT_RANGE=       1       5
+ SPOT_RANGE=     451     455
+ SPOT_RANGE=     901     905
+
+ ***** DETERMINATION OF THE RECIPROCAL LATTICE BASIS ******
+ NUMBER OF DIFFERENCE VECTOR CLUSTERS USED                     209
+ MAXIMUM RADIUS OF DIFFERENCE VECTOR CLUSTERS (pixels)   3
+ MINIMUM DISTANCE BETWEEN DIFFRACTION SPOTS (pixel)    6.0
+ MINIMUM ALLOWED DISTANCE BETWEEN REC. LATTICE POINTS   0.3363E-02
+ OBSERVED BASIS CELL VOLUME                             0.6024E+06
+ DIMENSION OF SPACE SPANNED BY DIFFERENCE VECTOR CLUSTERS   3
+
+   #  COORDINATES OF REC. BASIS VECTOR    LENGTH   1/LENGTH
+
+    1  -0.0023921 0.0129164 0.0031717  0.0135135      74.00
+    2   0.0016316-0.0029132 0.0130945  0.0135135      74.00
+    3   0.0088798 0.0018169-0.0007022  0.0090909     110.00
+
+ CLUSTER COORDINATES AND INDICES WITH RESPECT TO REC. LATTICE BASIS VECTORS 
+
+   #  COORDINATES OF VECTOR CLUSTER   FREQUENCY       CLUSTER INDICES   
+    1  0.0088029 0.0016484-0.0006283     1060.     -0.01      0.01      0.99
+    2  0.0178026 0.0034765-0.0014297      603.     -0.01      0.00      2.00
+    3  0.0267259 0.0053808-0.0021695      452.     -0.01     -0.00      3.01
+    4  0.0355927 0.0072712-0.0028123      366.     -0.00      0.00      4.01
+    5  0.0444943 0.0091240-0.0034597      308.      0.00      0.00      5.01
+    6 -0.0289681 0.0072071 0.0051199      274.      0.98     -0.01     -3.00
+    7 -0.0378687 0.0056013 0.0060728      274.      1.00      0.01     -4.00
+    8  0.0533628 0.0110392-0.0041295      256.      0.01      0.00      6.01
+    9 -0.0467427 0.0037183 0.0066537      256.      0.99      0.00     -5.00
+   10 -0.0557358 0.0017976 0.0073267      234.      0.98     -0.00     -6.01
+   11  0.0307290-0.0103552 0.0074913      230.     -1.00      0.98      3.01
+   12  0.0371683 0.0044155 0.0103623      228.      0.01      1.00      4.00
+   13 -0.0022567 0.0128533 0.0030409      223.      0.99     -0.01      0.01
+   14  0.0064217 0.0147700 0.0027006      223.      1.01      0.02      0.99
+   15 -0.0395136 0.0084218-0.0071398      223.      0.99     -1.00     -4.00
+   16 -0.0016332 0.0031763-0.0130313      215.      0.02     -1.00      0.01
+   17  0.0460043 0.0061836 0.0096125      211.      0.00      1.00      5.00
+   18  0.0622196 0.0128230-0.0049933      203.      0.01     -0.01      7.01
+   19 -0.0160532-0.0065667 0.0144462      200.     -0.00      1.00     -1.99
+   20 -0.0646019 0.0000819 0.0080292      198.      0.99     -0.00     -7.01
+   21 -0.0574243 0.0047053-0.0056826      193.      0.99     -1.00     -6.02
+   22 -0.0201089 0.0092345 0.0045841      191.      1.00      0.00     -2.00
+   23  0.0549689 0.0079920 0.0087249      189.     -0.00      0.99      6.01
+   24 -0.0484528 0.0066866-0.0063208      189.      1.00     -0.99     -5.01
+   25  0.0283794 0.0024836 0.0108297      187.     -0.01      0.99      3.01
+   26 -0.0219125 0.0121801-0.0082597      185.      1.01     -0.98     -2.02
+   27 -0.0110992 0.0110759 0.0038366      181.      1.00     -0.00     -0.98
+   28  0.0711328 0.0146855-0.0056456      177.      0.01     -0.00      8.01
+   29  0.0663461-0.0029980 0.0050061      171.     -0.99      1.00      7.02
+   30  0.0153399 0.0165935 0.0018964      164.      1.01      0.01      2.00
+   31 -0.0734623-0.0016486 0.0089676      164.      1.00      0.01     -8.01
+   32 -0.0249021-0.0084109 0.0151426      163.     -0.01      1.00     -2.99
+   33  0.0041102 0.0276672 0.0055877      163.      2.00     -0.00      1.00
+   34 -0.0047217 0.0258721 0.0064827      159.      2.00      0.01      0.01
+   35  0.0106421-0.0014701 0.0122219      156.     -0.03      0.99      1.01
+   36 -0.0038743 0.0157608-0.0099194      154.      0.99     -1.00      0.01
+   37  0.0638125 0.0099482 0.0081475      151.      0.01      1.00      7.01
+   38 -0.0421537-0.0220695 0.0006402      150.     -1.00      0.02     -5.02
+   39 -0.0128873 0.0141385-0.0087801      148.      1.02     -0.97     -1.00
+   40  0.0752711-0.0012210 0.0043733      146.     -1.00      1.01      8.02
+   41 -0.0667543 0.0129117 0.0112563      144.      1.98      0.00     -6.98
+   42 -0.0579268 0.0147246 0.0106730      144.      1.99      0.01     -5.99
+   43  0.0195334 0.0007271 0.0115658      143.     -0.00      0.99      2.02
+   44  0.0589644-0.0076505 0.0188783      142.     -0.99      2.00      6.01
+   45 -0.0845121 0.0092956 0.0127960      141.      1.99      0.01     -8.98
+   46  0.0800380 0.0164773-0.0063623      140.      0.01     -0.00      9.02
+   47  0.0332282 0.0202455 0.0001609      140.      1.00     -0.01      4.01
+   48  0.0050241 0.0175853-0.0105034      139.      1.00     -0.99      1.02
+   49 -0.0934692 0.0074289 0.0135183      139.      1.98      0.02     -9.99
+   50 -0.0596664 0.0176735-0.0025261      138.      1.99     -1.00     -6.00
+   51 -0.0510543-0.0239076 0.0011305      138.     -1.00      0.01     -6.02
+   52 -0.0823179-0.0034458 0.0098879      137.      1.01      0.03     -9.00
+   53 -0.0135912 0.0240564 0.0071391      137.      2.00      0.01     -0.99
+   54 -0.0755796 0.0110900 0.0121905      137.      1.99      0.02     -7.98
+   55 -0.0242857-0.0184401-0.0009543      136.     -1.00      0.01     -3.01
+   56 -0.0678286 0.0057835-0.0182391      135.      0.98     -2.01     -7.01
+   57  0.0767772-0.0039564 0.0174742      134.     -0.98      2.00      8.01
+   58  0.0130515 0.0294558 0.0047031      134.      1.99     -0.02      2.01
+   59 -0.0500077 0.0094901-0.0195188      134.      0.99     -2.00     -5.00
+   60 -0.0420058 0.0212984-0.0039888      131.      1.99     -1.00     -4.01
+
+ PARAMETERS OF THE REDUCED CELL (ANGSTROEM & DEGREES)
+     74.00     74.00    110.00     90.00     90.00     90.00
+
+   #  COORDINATES OF REC. BASIS VECTOR    REDUCED CELL INDICES
+
+    1  -0.0023921 0.0129164 0.0031717     1.00    0.00    0.00
+    2   0.0016316-0.0029132 0.0130945     0.00    1.00   -0.00
+    3   0.0088798 0.0018169-0.0007022    -0.00    0.00    1.00
+
+ ***** RESULTS FROM LOCAL INDEXING OF   2668 OBSERVED SPOTS *****
+
+ MAXIMUM MAGNITUDE OF INDEX DIFFERENCES ALLOWED    8
+ MAXIMUM ALLOWED DEVIATION FROM INTEGERAL INDICES     0.050
+ MIMINUM QUALITY OF INDICES FOR EACH SPOT IN A SUBTREE    0.80
+ QUALITY OF INDICES REQUIRED TO INCLUDE SECOND SUBTREE    0.36
+ NUMBER OF SUBTREES     25
+
+ SUBTREE    POPULATION
+
+     1         2571
+     2           60
+     3            8
+     4            3
+     5            2
+     6            2
+     7            2
+     8            2
+     9            2
+    10            1
+
+ NUMBER OF ACCEPTED SPOTS FROM LARGEST SUBTREE  2571
+
+ ***** SELECTION OF THE INDEX ORIGIN OF THE REFLECTIONS *****
+ The origin of the reflection indices determined so far is   
+ 0,0,0 by default which is usually correct. In certain critical
+ cases it may happen that this automatic choice is wrong which 
+ leads to misindexing of the reflections by a constant offset. 
+ You may replace the default by specifying INDEX_ORIGIN= h k l 
+ in the input file "XDS.INP" and rerun the IDXREF step.        
+ Below you find a list of possible alternatives together with a
+ measure of their likelihood.
+ QUALITY  small values mean a high likelihood for this offset 
+ DELTA    is the angle between given and refined beam direction
+ XD,YD    computed direct beam position (pixels) on detector 
+          given beam position (pixel):  1226.67  1252.05
+ X,Y,Z    computed coordinates of the direct beam wave vector
+ DH,DK,DL mean absolute difference between observed and 
+          fitted indices
+
+  INDEX_   QUALITY  DELTA    XD       YD       X       Y       Z       DH      DK      DL
+  ORIGIN
+
+  0  0  0      1.1    0.1   1228.9   1252.2  0.0013  0.0001  0.8962    0.05    0.05    0.06
+  0  0  1      4.7    0.5   1213.1   1249.5 -0.0076 -0.0014  0.8962    0.08    0.06    0.06
+  0  0 -1      7.0    0.7   1244.8   1254.9  0.0101  0.0016  0.8961    0.08    0.06    0.06
+
+ SELECTED:     INDEX_ORIGIN=  0  0  0
+
+
+ ***** REFINED SOLUTION BASED ON INDEXED REFLECTIONS IN SUBTREE # 1 *****
+
+ REFINED VALUES OF DIFFRACTION PARAMETERS DERIVED FROM      2564 INDEXED SPOTS
+ REFINED PARAMETERS:   AXIS BEAM ORIENTATION CELL POSITION
+ STANDARD DEVIATION OF SPOT    POSITION (PIXELS)     1.81
+ STANDARD DEVIATION OF SPINDLE POSITION (DEGREES)    1.27
+ SPACE GROUP NUMBER      1
+ UNIT CELL PARAMETERS     73.977    73.948   109.941  90.048  90.108  90.284
+ REC. CELL PARAMETERS   0.013518  0.013523  0.009096  89.952  89.892  89.716
+ COORDINATES OF UNIT CELL A-AXIS   -13.246    70.726    17.173
+ COORDINATES OF UNIT CELL B-AXIS     8.868   -16.114    71.624
+ COORDINATES OF UNIT CELL C-AXIS   107.395    21.950    -8.454
+ CRYSTAL MOSAICITY (DEGREES)     0.200
+ LAB COORDINATES OF ROTATION AXIS  0.999990 -0.003519  0.002654
+ DIRECT BEAM COORDINATES (REC. ANGSTROEM)  -0.002995 -0.001016  0.896188
+ DETECTOR COORDINATES (PIXELS) OF DIRECT BEAM    1229.42   1252.47
+ DETECTOR ORIGIN (PIXELS) AT                     1234.77   1254.28
+ CRYSTAL TO DETECTOR DISTANCE (mm)       275.22
+ LAB COORDINATES OF DETECTOR X-AXIS  1.000000  0.000000  0.000000
+ LAB COORDINATES OF DETECTOR Y-AXIS  0.000000  1.000000  0.000000
+
+
+ ***** INDEXING OF OBSERVED SPOTS IN SPACE GROUP #   1 *****
+      2459 OUT OF      2668 SPOTS INDEXED.
+       24 REJECTED REFLECTIONS (REASON: OVERLAP)
+      185 REJECTED REFLECTIONS (REASON: TOO FAR FROM IDEAL POSITION)
+ EXPECTED ERROR IN SPINDLE  POSITION     0.471 DEGREES
+ EXPECTED ERROR IN DETECTOR POSITION      1.12 PIXELS
+
+
+
+ ***** REFINED SOLUTION IN SPACE GROUP P1 (#1) BASED ON THE REDUCED CELL *****
+
+ REFINED VALUES OF DIFFRACTION PARAMETERS DERIVED FROM      2459 INDEXED SPOTS
+ REFINED PARAMETERS:   AXIS BEAM ORIENTATION CELL POSITION
+ STANDARD DEVIATION OF SPOT    POSITION (PIXELS)     1.10
+ STANDARD DEVIATION OF SPINDLE POSITION (DEGREES)    0.47
+ SPACE GROUP NUMBER      1
+ UNIT CELL PARAMETERS     73.963    73.941   109.976  90.041  90.112  90.297
+ REC. CELL PARAMETERS   0.013521  0.013524  0.009093  89.958  89.888  89.703
+ COORDINATES OF UNIT CELL A-AXIS   -13.244    70.704    17.205
+ COORDINATES OF UNIT CELL B-AXIS     8.897   -16.159    71.604
+ COORDINATES OF UNIT CELL C-AXIS   107.428    21.960    -8.474
+ CRYSTAL MOSAICITY (DEGREES)     0.200
+ LAB COORDINATES OF ROTATION AXIS  0.999990 -0.003672  0.002414
+ DIRECT BEAM COORDINATES (REC. ANGSTROEM)  -0.002879 -0.000556  0.896189
+ DETECTOR COORDINATES (PIXELS) OF DIRECT BEAM    1229.40   1252.36
+ DETECTOR ORIGIN (PIXELS) AT                     1234.54   1253.35
+ CRYSTAL TO DETECTOR DISTANCE (mm)       275.21
+ LAB COORDINATES OF DETECTOR X-AXIS  1.000000  0.000000  0.000000
+ LAB COORDINATES OF DETECTOR Y-AXIS  0.000000  1.000000  0.000000
+
+
+ *********** DETERMINATION OF LATTICE CHARACTER AND BRAVAIS LATTICE ***********
+
+ The CHARACTER OF A LATTICE is defined by the metrical parameters of its
+ reduced cell as described in the INTERNATIONAL TABLES FOR CRYSTALLOGRAPHY
+ Volume A, p. 746 (KLUWER ACADEMIC PUBLISHERS, DORDRECHT/BOSTON/LONDON, 1989).
+ Note that more than one lattice character may have the same BRAVAIS LATTICE.
+
+ A lattice character is marked "*" to indicate a lattice consistent with the
+ observed locations of the diffraction spots. These marked lattices must have
+ low values for the QUALITY OF FIT and their implicated UNIT CELL CONSTANTS
+ should not violate the ideal values by more than
+ MAXIMUM_ALLOWED_CELL_AXIS_RELATIVE_ERROR=  0.03
+ MAXIMUM_ALLOWED_CELL_ANGLE_ERROR=           3.0 (Degrees)
+
+  LATTICE-  BRAVAIS-   QUALITY  UNIT CELL CONSTANTS (ANGSTROEM & DEGREES)
+ CHARACTER  LATTICE     OF FIT      a      b      c   alpha  beta gamma
+
+ *  44        aP          0.0      73.9   74.0  110.0  90.1  90.0  90.3
+ *  31        aP          0.5      73.9   74.0  110.0  89.9  90.0  89.7
+ *  14        mC          1.2     104.3  104.9  110.0  90.1  90.1  90.0
+ *  34        mP          2.0      73.9  110.0   74.0  90.1  90.3  90.0
+ *  13        oC          2.3     104.3  104.9  110.0  90.1  90.1  90.0
+ *  10        mC          2.8     104.9  104.3  110.0  89.9  90.1  90.0
+ *  35        mP          3.1      74.0   73.9  110.0  90.0  90.1  90.3
+ *  33        mP          3.4      74.0   73.9  110.0  90.0  90.1  90.3
+ *  32        oP          4.6      73.9   74.0  110.0  90.1  90.0  90.3
+ *  11        tP          4.9      73.9   74.0  110.0  90.1  90.0  90.3
+    39        mC        247.9     165.0   73.9  110.0  90.0  90.1  63.7
+    38        oC        249.4      73.9  165.0  110.0  89.9  90.0 116.3
+    29        mC        249.6      74.0  165.0  110.0  90.1  90.1  63.7
+    12        hP        249.7      73.9   74.0  110.0  90.1  90.0  90.3
+    30        mC        251.1      74.0  231.9   73.9  90.1  90.3  71.5
+    28        mC        251.2      73.9  232.1   74.0  90.0  90.3  71.4
+    41        mC        251.3     231.9   74.0   73.9  90.3  90.1  71.5
+    37        mC        251.6     231.9   74.0   73.9  90.3  90.1  71.5
+    40        oC        251.8      74.0  231.9   73.9  89.9  90.3 108.5
+    36        oC        252.1      74.0  231.9   73.9  89.9  90.3 108.5
+    27        mC        498.5     165.0   73.9  132.4  89.8 119.8  63.7
+    42        oI        500.8      73.9   74.0  243.3 107.5 107.6  90.3
+    15        tI        500.9      73.9   74.0  243.3  72.5  72.4  90.3
+    25        mC        607.5     132.5  132.6   74.0  89.9  90.3  67.8
+    20        mC        608.1     132.5  132.6   74.0  90.1  90.3 112.2
+     4        hR        608.7     104.9  132.7  151.4 109.3  90.0 113.3
+    23        oC        608.9     132.4  132.7   73.9  89.9  90.2  67.8
+     3        cP        609.3      74.0   73.9  110.0  90.0  90.1  90.3
+     2        hR        610.3     104.3  132.4  152.0 109.1  90.1 113.1
+    21        tP        610.4      74.0  110.0   73.9  90.0  90.3  90.1
+    26        oF        622.0      73.9  165.0  232.1  81.8 108.6 116.3
+     9        hR        747.3      73.9  104.3  346.1  89.9 102.4 134.8
+     5        cI        774.3     132.5  104.3  132.4  66.9  46.6  66.9
+    22        hP        857.6      74.0  110.0   73.9  90.0  90.3  90.1
+     1        cF        860.3     151.4  151.9  151.7 121.7  87.0 121.6
+     6        tI        999.0     132.5  132.4  104.3  66.9  66.9  46.6
+     7        tI        999.0     132.4  104.3  132.5  66.9  46.6  66.9
+     8        oI        999.0     104.3  132.4  132.5  46.6  66.9  66.9
+    16        oF        999.0     104.3  104.9  243.3  90.0 115.3  90.0
+    17        mC        999.0     104.9  104.3  132.4  66.9 113.3  90.0
+    18        tI        999.0     132.4  151.7   73.9  61.0  90.2 109.4
+    19        oI        999.0      73.9  132.4  151.7  70.6  61.0  89.8
+    24        hR        999.0     198.2  132.6   74.0  89.9  68.4  87.5
+    43        mI        999.0     104.3  243.3   74.0 107.5 134.9  64.7
+
+ For protein crystals the possible space group numbers corresponding  to
+ each Bravais-type are given below for your convenience. Note, that
+ reflection integration is based only on orientation and metric of the
+ lattice. It does not require knowledge of the correct space group!
+ Thus, if no such information is provided by the user in XDS.INP,
+ reflections are integrated assuming a triclinic reduced cell lattice;
+ the space group is assigned automatically or by the user in the last
+ step (CORRECT) when integrated intensities are available.
+
+
+ ****** LATTICE SYMMETRY IMPLICATED BY SPACE GROUP SYMMETRY ******
+
+BRAVAIS-            POSSIBLE SPACE-GROUPS FOR PROTEIN CRYSTALS
+  TYPE                     [SPACE GROUP NUMBER,SYMBOL]
+  aP      [1,P1]
+  mP      [3,P2] [4,P2(1)]
+ mC,mI    [5,C2]
+  oP      [16,P222] [17,P222(1)] [18,P2(1)2(1)2] [19,P2(1)2(1)2(1)]
+  oC      [21,C222] [20,C222(1)]
+  oF      [22,F222]
+  oI      [23,I222] [24,I2(1)2(1)2(1)]
+  tP      [75,P4] [76,P4(1)] [77,P4(2)] [78,P4(3)] [89,P422] [90,P42(1)2]
+          [91,P4(1)22] [92,P4(1)2(1)2] [93,P4(2)22] [94,P4(2)2(1)2]
+          [95,P4(3)22] [96,P4(3)2(1)2]
+  tI      [79,I4] [80,I4(1)] [97,I422] [98,I4(1)22]
+  hP      [143,P3] [144,P3(1)] [145,P3(2)] [149,P312] [150,P321] [151,P3(1)12]
+          [152,P3(1)21] [153,P3(2)12] [154,P3(2)21] [168,P6] [169,P6(1)]
+          [170,P6(5)] [171,P6(2)] [172,P6(4)] [173,P6(3)] [177,P622]
+          [178,P6(1)22] [179,P6(5)22] [180,P6(2)22] [181,P6(4)22] [182,P6(3)22]
+  hR      [146,R3] [155,R32]
+  cP      [195,P23] [198,P2(1)3] [207,P432] [208,P4(2)32] [212,P4(3)32]
+          [213,P4(1)32]
+  cF      [196,F23] [209,F432] [210,F4(1)32]
+  cI      [197,I23] [199,I2(1)3] [211,I432] [214,I4(1)32]
+
+
+
+ ***** REFINED SOLUTION BASED ON GIVEN CELL CONSTANTS AND SPACE GROUP *****
+
+ REFINED VALUES OF DIFFRACTION PARAMETERS DERIVED FROM      2459 INDEXED SPOTS
+ REFINED PARAMETERS:   AXIS BEAM ORIENTATION CELL POSITION
+ STANDARD DEVIATION OF SPOT    POSITION (PIXELS)     1.40
+ STANDARD DEVIATION OF SPINDLE POSITION (DEGREES)    0.46
+ SPACE GROUP NUMBER     75
+ UNIT CELL PARAMETERS     73.973    73.973   109.944  90.000  90.000  90.000
+ REC. CELL PARAMETERS   0.013518  0.013518  0.009096  90.000  90.000  90.000
+ COORDINATES OF UNIT CELL A-AXIS     8.846   -15.989    71.681
+ COORDINATES OF UNIT CELL B-AXIS   -13.121    70.693    17.388
+ COORDINATES OF UNIT CELL C-AXIS  -107.398   -21.988     8.349
+ CRYSTAL MOSAICITY (DEGREES)     0.200
+ LAB COORDINATES OF ROTATION AXIS  0.999985 -0.004194  0.003440
+ DIRECT BEAM COORDINATES (REC. ANGSTROEM)  -0.003046 -0.000851  0.896188
+ DETECTOR COORDINATES (PIXELS) OF DIRECT BEAM    1229.30   1252.41
+ DETECTOR ORIGIN (PIXELS) AT                     1234.73   1253.93
+ CRYSTAL TO DETECTOR DISTANCE (mm)       275.02
+ LAB COORDINATES OF DETECTOR X-AXIS  1.000000  0.000000  0.000000
+ LAB COORDINATES OF DETECTOR Y-AXIS  0.000000  1.000000  0.000000
+
+
+ ***** INDEXING OF OBSERVED SPOTS IN SPACE GROUP #  75 *****
+      2418 OUT OF      2668 SPOTS INDEXED.
+       29 REJECTED REFLECTIONS (REASON: OVERLAP)
+      221 REJECTED REFLECTIONS (REASON: TOO FAR FROM IDEAL POSITION)
+ EXPECTED ERROR IN SPINDLE  POSITION     0.454 DEGREES
+ EXPECTED ERROR IN DETECTOR POSITION      1.34 PIXELS
+
+
+ ***** DIFFRACTION PARAMETERS USED AT START OF INTEGRATION *****
+
+ REFINED VALUES OF DIFFRACTION PARAMETERS DERIVED FROM      2418 INDEXED SPOTS
+ REFINED PARAMETERS:   AXIS BEAM ORIENTATION CELL POSITION
+ STANDARD DEVIATION OF SPOT    POSITION (PIXELS)     1.34
+ STANDARD DEVIATION OF SPINDLE POSITION (DEGREES)    0.45
+ SPACE GROUP NUMBER     75
+ UNIT CELL PARAMETERS     73.980    73.980   109.937  90.000  90.000  90.000
+ REC. CELL PARAMETERS   0.013517  0.013517  0.009096  90.000  90.000  90.000
+ COORDINATES OF UNIT CELL A-AXIS     8.867   -15.998    71.683
+ COORDINATES OF UNIT CELL B-AXIS   -13.121    70.697    17.401
+ COORDINATES OF UNIT CELL C-AXIS  -107.389   -21.992     8.376
+ CRYSTAL MOSAICITY (DEGREES)     0.200
+ LAB COORDINATES OF ROTATION AXIS  0.999986 -0.004238  0.003207
+ DIRECT BEAM COORDINATES (REC. ANGSTROEM)  -0.002908 -0.000912  0.896189
+ DETECTOR COORDINATES (PIXELS) OF DIRECT BEAM    1229.30   1252.40
+ DETECTOR ORIGIN (PIXELS) AT                     1234.49   1254.03
+ CRYSTAL TO DETECTOR DISTANCE (mm)       275.02
+ LAB COORDINATES OF DETECTOR X-AXIS  1.000000  0.000000  0.000000
+ LAB COORDINATES OF DETECTOR Y-AXIS  0.000000  1.000000  0.000000
+
+
+ !!! WARNING !!! SOLUTION MAY NOT BE UNIQUE.
+ OTHER POSSIBLE SOLUTIONS CAN BE TRIED IN THE "CORRECT" STEP
+ BY SPECIFYING ALTERNATIVE SETS OF UNIT CELL BASIS VECTORS:
+
+ UNIT_CELL_A-AXIS=    -8.867    15.998   -71.683
+ UNIT_CELL_B-AXIS=   -13.121    70.697    17.401
+ UNIT_CELL_C-AXIS=   107.389    21.992    -8.376
+
+
+ UNIT_CELL_A-AXIS=    13.121   -70.697   -17.401
+ UNIT_CELL_B-AXIS=    -8.867    15.998   -71.683
+ UNIT_CELL_C-AXIS=   107.389    21.992    -8.376
+
+
+ UNIT_CELL_A-AXIS=     8.867   -15.998    71.683
+ UNIT_CELL_B-AXIS=    13.121   -70.697   -17.401
+ UNIT_CELL_C-AXIS=   107.389    21.992    -8.376
+
+
+ UNIT_CELL_A-AXIS=   -13.121    70.697    17.401
+ UNIT_CELL_B-AXIS=     8.867   -15.998    71.683
+ UNIT_CELL_C-AXIS=   107.389    21.992    -8.376
+
+
+ Maximum oscillation range to prevent angular overlap at high resolution limit
+ assuming zero (!) mosaicity.
+ Maximum oscillation range  High resolution limit
+         (degrees)               (Angstrom)
+              3.12                    4.00
+              2.34                    3.00
+              1.56                    2.00
+              0.78                    1.00
+
+ cpu time used                  2.6 sec
+ elapsed wall-clock time        1.9 sec

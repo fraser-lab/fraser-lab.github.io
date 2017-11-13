@@ -1,0 +1,50 @@
+------------------------- autoindexing SWEEP1 with XDS -------------------------
+directory:                     /Users/jfraser/METHODS/c23_high
+images:                        1 to 5, 46 to 50, 91 to 95
+target lattice:                tP
+template:                      /Users/jfraser/METHODS/c23_high/test_1_#####.cbf
+------------------------- integrating SWEEP1 with XDS --------------------------
+cell:                          74.27 74.27 110.32 90.00 90.00 90.00
+directory:                     /Users/jfraser/METHODS/c23_high
+images:                        1 to 180
+lattice:                       tP
+resolution:                    0.00
+template:                      test_1_00###.cbf
+------------------------- integrating SWEEP1 with XDS --------------------------
+cell:                          74.27 74.27 110.32 90.00 90.00 90.00
+directory:                     /Users/jfraser/METHODS/c23_high
+images:                        1 to 180
+lattice:                       tP
+resolution:                    0.00
+template:                      test_1_00###.cbf
+-------------------------- gathering DEFAULT with XDS --------------------------
+working directory:             /Users/jfraser/METHODS_XIA2/adp/DEFAULT/scale
+adding data from:              DEFAULT/NATIVE/SWEEP1
+------------------------- scaling DEFAULT with XSCALE --------------------------
+scaling model:                 default (all)
+------------------------- scaling DEFAULT with XSCALE --------------------------
+scaling model:                 default (all)
+------------------------- scaling DEFAULT with XSCALE --------------------------
+scaling model:                 default (all)
+------------------------- scaling DEFAULT with XSCALE --------------------------
+scaling model:                 default (all)
+------------------------- scaling DEFAULT with XSCALE --------------------------
+scaling model:                 default (all)
+------------------------- scaling DEFAULT with XSCALE --------------------------
+scaling model:                 default (all)
+------------------------- scaling DEFAULT with XSCALE --------------------------
+scaling model:                 default (all)
+------------------------- scaling DEFAULT with XSCALE --------------------------
+scaling model:                 default (all)
+------------------------- scaling DEFAULT with XSCALE --------------------------
+scaling model:                 default (all)
+------------------------- scaling DEFAULT with XSCALE --------------------------
+scaling model:                 default (all)
+------------------------- scaling DEFAULT with XSCALE --------------------------
+scaling model:                 default (all)
+------------------------- scaling DEFAULT with XSCALE --------------------------
+scaling model:                 default (all)
+------------------------- scaling DEFAULT with XSCALE --------------------------
+scaling model:                 default (all)
+------------------------- scaling DEFAULT with XSCALE --------------------------
+scaling model:                 default (all)

@@ -1,0 +1,649 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="generator" content="Docutils 0.12: http://docutils.sourceforge.net/" />
+<title></title>
+<style type="text/css">
+
+/*
+:Authors: Ian Bicking, Michael Foord
+:Contact: fuzzyman@voidspace.org.uk
+:Date: 2005/08/26
+:Version: 0.1.0
+:Copyright: This stylesheet has been placed in the public domain.
+
+Stylesheet for Docutils.
+Based on ``blue_box.css`` by Ian Bicking
+and ``html4css1.css`` revision 1.46.
+*/
+
+@import url(html4css1.css);
+
+body {
+  font-family: Arial, sans-serif;
+}
+
+em, i {
+  /* Typically serif fonts have much nicer italics */
+  font-family: Times New Roman, Times, serif;
+}
+
+a.target {
+  color: blue;
+}
+
+a.target {
+  color: blue;
+}
+
+a.toc-backref {
+  text-decoration: none;
+  color: black;
+}
+
+a.toc-backref:hover {
+  background-color: inherit;
+}
+
+a:hover {
+  background-color: #cccccc;
+}
+
+div.attention, div.caution, div.danger, div.error, div.hint,
+div.important, div.note, div.tip, div.warning {
+  background-color: #cccccc;
+  padding: 3px;
+  width: 80%;
+}
+
+div.admonition p.admonition-title, div.hint p.admonition-title,
+div.important p.admonition-title, div.note p.admonition-title,
+div.tip p.admonition-title  {
+  text-align: center;
+  background-color: #999999;
+  display: block;
+  margin: 0;
+}
+
+div.attention p.admonition-title, div.caution p.admonition-title,
+div.danger p.admonition-title, div.error p.admonition-title,
+div.warning p.admonition-title {
+  color: #cc0000;
+  font-family: sans-serif;
+  text-align: center;
+  background-color: #999999;
+  display: block;
+  margin: 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: Helvetica, Arial, sans-serif;
+  border: thin solid black;
+  /* This makes the borders rounded on Mozilla, which pleases me */
+  -moz-border-radius: 8px;
+  padding: 4px;
+}
+
+h1 {
+  background-color: #444499;
+  color: #ffffff;
+  border: medium solid black;
+}
+
+h1 a.toc-backref, h2 a.toc-backref {
+  color: #ffffff;
+}
+
+h2 {
+  background-color: #666666;
+  color: #ffffff;
+  border: medium solid black;
+}
+
+h3, h4, h5, h6 {
+  background-color: #cccccc;
+  color: #000000;
+}
+
+h3 a.toc-backref, h4 a.toc-backref, h5 a.toc-backref,
+h6 a.toc-backref {
+  color: #000000;
+}
+
+h1.title {
+  text-align: center;
+  background-color: #444499;
+  color: #eeeeee;
+  border: thick solid black;
+  -moz-border-radius: 20px;
+}
+
+table.footnote {
+  padding-left: 0.5ex;
+}
+
+table.citation {
+  padding-left: 0.5ex
+}
+
+pre.literal-block, pre.doctest-block {
+  border: thin black solid;
+  padding: 5px;
+}
+
+.image img { border-style : solid;
+            border-width : 2px;
+}
+
+h1 tt, h2 tt, h3 tt, h4 tt, h5 tt, h6 tt {
+  font-size: 100%;
+}
+
+code, tt {
+  color: #000066;
+}
+
+div.graph {
+  display: inline;
+  width: 500px;
+  height: 250px;
+}
+
+/* Styling the "table_one" summary table */
+table.table-one { border-style: none;
+                  empty-cells: show;
+                  border-top-style: solid;
+                  border-bottom-style: solid;
+      border-collapse: collapse;
+                  background-color: #fffddc; }
+table.table-one th { border-style: none;
+                     border-top-style: solid;
+                     border-bottom-style: solid;
+                     background-color: #ffffcd;
+                     padding: 10px;
+                     text-align: left;
+                     color: black; }
+table.table-one td { border-style: none; }
+table.table-one td:first-child { font-weight: bold; }
+table.table-one tr.unit_cell > td:first-child { text-align: right;
+                                                font-weight: bold; }
+
+table.status-table td {
+  padding-left: 1px;
+  padding-right: 1px;
+}
+
+table.status-table {
+  border-spacing: 1px;
+}
+
+table td {
+  padding-right: 5px;
+  padding-left: 5px;
+}
+
+.c3 svg {
+  width: 500px;
+  /*height: 250px;*/
+}
+
+.status {
+  display: block;
+  height: 10px;
+  width: 10px;
+  border: 1px solid black;
+}
+
+.abandoned {
+  background-color: #FE9A2E;
+}
+
+.bad_rmsd {
+  background-color: #FFFF00;
+}
+
+.good {
+  background-color: #088A08;
+}
+
+.many_bad {
+  background-color: #000000;
+}
+
+.ok {
+  background-color: #A9E2F3;
+}
+
+.overloaded {
+  background-color: #DF0101;
+}
+
+.weak {
+  background-color: #FAFAFA;
+}
+
+</style>
+</head>
+<body>
+<div class="document">
+
+
+<!-- Load c3.css -->
+<link href="https://cdnjs.cloudflare.com/ajax/libs/c3/0.4.10/c3.css" rel="stylesheet" type="text/css">
+<!-- Load d3.js and c3.js -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.5/d3.min.js" charset="utf-8"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/c3/0.4.10/c3.min.js"></script><!--Div that will hold the chart-->
+<div>
+  <p>Completeness &amp; Rstandard v resolution</p>
+  <div class="graph" id="chart_CompletenessRstandardvresolution"></div>
+</div>
+
+<script type="text/javascript">
+
+var chart_CompletenessRstandardvresolution = c3.generate({
+    bindto: '#chart_CompletenessRstandardvresolution',
+    data: {"keys": {"x": "1/resol^2", "value": ["Completeness", "Rstandard"]}, "json": [{"Rstandard": 0.0, "Completeness": 0.989, "name": "", "1/resol^2": 0.011}, {"Rstandard": 0.0, "Completeness": 1.0, "name": "", "1/resol^2": 0.0243}, {"Rstandard": 0.0, "Completeness": 1.0, "name": "", "1/resol^2": 0.0351}, {"Rstandard": 0.0, "Completeness": 0.998, "name": "", "1/resol^2": 0.0446}, {"Rstandard": 0.0, "Completeness": 1.0, "name": "", "1/resol^2": 0.0532}, {"Rstandard": 0.0, "Completeness": 0.998, "name": "", "1/resol^2": 0.0612}, {"Rstandard": 0.0, "Completeness": 1.0, "name": "", "1/resol^2": 0.0688}, {"Rstandard": 0.0, "Completeness": 1.0, "name": "", "1/resol^2": 0.076}, {"Rstandard": 0.0, "Completeness": 1.0, "name": "", "1/resol^2": 0.0829}, {"Rstandard": 0.0, "Completeness": 0.997, "name": "", "1/resol^2": 0.0896}, {"Rstandard": 0.0, "Completeness": 0.995, "name": "", "1/resol^2": 0.0961}, {"Rstandard": 0.0, "Completeness": 1.0, "name": "", "1/resol^2": 0.1024}, {"Rstandard": 0.0, "Completeness": 1.0, "name": "", "1/resol^2": 0.1085}, {"Rstandard": 0.0, "Completeness": 0.996, "name": "", "1/resol^2": 0.1144}, {"Rstandard": 0.0, "Completeness": 0.999, "name": "", "1/resol^2": 0.1201}, {"Rstandard": 0.001, "Completeness": 0.999, "name": "", "1/resol^2": 0.1259}, {"Rstandard": 0.001, "Completeness": 1.0, "name": "", "1/resol^2": 0.1314}, {"Rstandard": 0.001, "Completeness": 0.998, "name": "", "1/resol^2": 0.1368}, {"Rstandard": 0.001, "Completeness": 1.0, "name": "", "1/resol^2": 0.1422}, {"Rstandard": 0.001, "Completeness": 1.0, "name": "", "1/resol^2": 0.1474}, {"Rstandard": 0.001, "Completeness": 1.0, "name": "", "1/resol^2": 0.1526}, {"Rstandard": 0.001, "Completeness": 0.997, "name": "", "1/resol^2": 0.1577}, {"Rstandard": 0.001, "Completeness": 0.999, "name": "", "1/resol^2": 0.1627}, {"Rstandard": 0.001, "Completeness": 1.0, "name": "", "1/resol^2": 0.1676}, {"Rstandard": 0.001, "Completeness": 1.0, "name": "", "1/resol^2": 0.1725}, {"Rstandard": 0.001, "Completeness": 0.999, "name": "", "1/resol^2": 0.1773}, {"Rstandard": 0.001, "Completeness": 0.998, "name": "", "1/resol^2": 0.182}, {"Rstandard": 0.002, "Completeness": 1.0, "name": "", "1/resol^2": 0.1868}, {"Rstandard": 0.002, "Completeness": 0.998, "name": "", "1/resol^2": 0.1914}, {"Rstandard": 0.002, "Completeness": 1.0, "name": "", "1/resol^2": 0.1959}, {"Rstandard": 0.002, "Completeness": 0.999, "name": "", "1/resol^2": 0.2005}, {"Rstandard": 0.002, "Completeness": 0.998, "name": "", "1/resol^2": 0.2049}, {"Rstandard": 0.003, "Completeness": 0.998, "name": "", "1/resol^2": 0.2094}, {"Rstandard": 0.003, "Completeness": 0.996, "name": "", "1/resol^2": 0.2138}, {"Rstandard": 0.003, "Completeness": 1.0, "name": "", "1/resol^2": 0.2182}, {"Rstandard": 0.003, "Completeness": 0.997, "name": "", "1/resol^2": 0.2225}, {"Rstandard": 0.004, "Completeness": 0.998, "name": "", "1/resol^2": 0.2267}, {"Rstandard": 0.003, "Completeness": 0.997, "name": "", "1/resol^2": 0.2309}, {"Rstandard": 0.004, "Completeness": 1.0, "name": "", "1/resol^2": 0.2352}, {"Rstandard": 0.004, "Completeness": 0.998, "name": "", "1/resol^2": 0.2394}, {"Rstandard": 0.004, "Completeness": 0.997, "name": "", "1/resol^2": 0.2434}, {"Rstandard": 0.005, "Completeness": 1.0, "name": "", "1/resol^2": 0.2476}, {"Rstandard": 0.006, "Completeness": 0.995, "name": "", "1/resol^2": 0.2517}, {"Rstandard": 0.007, "Completeness": 1.0, "name": "", "1/resol^2": 0.2557}, {"Rstandard": 0.007, "Completeness": 0.992, "name": "", "1/resol^2": 0.2597}, {"Rstandard": 0.008, "Completeness": 1.0, "name": "", "1/resol^2": 0.2637}, {"Rstandard": 0.009, "Completeness": 0.994, "name": "", "1/resol^2": 0.2676}, {"Rstandard": 0.011, "Completeness": 0.996, "name": "", "1/resol^2": 0.2715}, {"Rstandard": 0.011, "Completeness": 1.0, "name": "", "1/resol^2": 0.2754}, {"Rstandard": 0.012, "Completeness": 0.988, "name": "", "1/resol^2": 0.2793}, {"Rstandard": 0.014, "Completeness": 1.0, "name": "", "1/resol^2": 0.2831}, {"Rstandard": 0.017, "Completeness": 0.994, "name": "", "1/resol^2": 0.2869}, {"Rstandard": 0.019, "Completeness": 0.993, "name": "", "1/resol^2": 0.2907}, {"Rstandard": 0.02, "Completeness": 0.999, "name": "", "1/resol^2": 0.2945}, {"Rstandard": 0.026, "Completeness": 0.988, "name": "", "1/resol^2": 0.2983}, {"Rstandard": 0.025, "Completeness": 0.999, "name": "", "1/resol^2": 0.302}, {"Rstandard": 0.027, "Completeness": 0.998, "name": "", "1/resol^2": 0.3057}, {"Rstandard": 0.029, "Completeness": 0.985, "name": "", "1/resol^2": 0.3094}, {"Rstandard": 0.028, "Completeness": 0.998, "name": "", "1/resol^2": 0.313}, {"Rstandard": 0.041, "Completeness": 0.997, "name": "", "1/resol^2": 0.3166}, {"Rstandard": 0.04, "Completeness": 0.986, "name": "", "1/resol^2": 0.3203}, {"Rstandard": 0.061, "Completeness": 0.999, "name": "", "1/resol^2": 0.3239}, {"Rstandard": 0.053, "Completeness": 0.995, "name": "", "1/resol^2": 0.3275}, {"Rstandard": 0.055, "Completeness": 0.984, "name": "", "1/resol^2": 0.331}, {"Rstandard": 0.063, "Completeness": 0.995, "name": "", "1/resol^2": 0.3345}, {"Rstandard": 0.063, "Completeness": 0.992, "name": "", "1/resol^2": 0.3382}, {"Rstandard": 0.076, "Completeness": 0.982, "name": "", "1/resol^2": 0.3416}, {"Rstandard": 0.072, "Completeness": 0.985, "name": "", "1/resol^2": 0.3451}, {"Rstandard": 0.098, "Completeness": 0.979, "name": "", "1/resol^2": 0.3486}, {"Rstandard": 0.096, "Completeness": 0.971, "name": "", "1/resol^2": 0.3521}, {"Rstandard": 0.101, "Completeness": 0.965, "name": "", "1/resol^2": 0.3555}, {"Rstandard": 0.112, "Completeness": 0.966, "name": "", "1/resol^2": 0.3589}, {"Rstandard": 0.119, "Completeness": 0.94, "name": "", "1/resol^2": 0.3623}, {"Rstandard": 0.141, "Completeness": 0.893, "name": "", "1/resol^2": 0.3657}]},
+    axis:
+    {
+      x: {
+        label: {
+          text: 'Resolution (Å)',
+          position: 'outer-center'
+        },
+        tick: {
+          format: function (x) { return (1/Math.sqrt(x)).toFixed(2); }
+        }
+
+      }
+    }
+,
+    legend: {
+      position: 'right'
+    },
+});
+
+</script><!--Div that will hold the chart-->
+<div>
+  <p>Completeness &amp; (I/sigI)&gt;N v resolution</p>
+  <div class="graph" id="chart_CompletenessIsigINvresolution"></div>
+</div>
+
+<script type="text/javascript">
+
+var chart_CompletenessIsigINvresolution = c3.generate({
+    bindto: '#chart_CompletenessIsigINvresolution',
+    data: {"keys": {"x": "1/resol^2", "value": ["Completeness", "(I/s>15)", "(I/s>10)", "(I/s>5)", "(I/s>3)", "(I/s>2)", "(I/s>1)"]}, "json": [{"(I/s>10)": 0.979, "Completeness": 0.989, "name": "", "1/resol^2": 0.011, "(I/s>15)": 0.96, "(I/s>5)": 0.988, "(I/s>2)": 0.989, "(I/s>3)": 0.989, "(I/s>1)": 0.989}, {"(I/s>10)": 0.989, "Completeness": 1.0, "name": "", "1/resol^2": 0.0243, "(I/s>15)": 0.962, "(I/s>5)": 0.995, "(I/s>2)": 0.999, "(I/s>3)": 0.999, "(I/s>1)": 0.999}, {"(I/s>10)": 0.992, "Completeness": 1.0, "name": "", "1/resol^2": 0.0351, "(I/s>15)": 0.977, "(I/s>5)": 0.995, "(I/s>2)": 0.998, "(I/s>3)": 0.998, "(I/s>1)": 1.0}, {"(I/s>10)": 0.993, "Completeness": 0.998, "name": "", "1/resol^2": 0.0446, "(I/s>15)": 0.973, "(I/s>5)": 0.995, "(I/s>2)": 0.996, "(I/s>3)": 0.996, "(I/s>1)": 0.996}, {"(I/s>10)": 0.997, "Completeness": 1.0, "name": "", "1/resol^2": 0.0532, "(I/s>15)": 0.982, "(I/s>5)": 0.999, "(I/s>2)": 1.0, "(I/s>3)": 1.0, "(I/s>1)": 1.0}, {"(I/s>10)": 0.993, "Completeness": 0.998, "name": "", "1/resol^2": 0.0612, "(I/s>15)": 0.98, "(I/s>5)": 0.997, "(I/s>2)": 0.997, "(I/s>3)": 0.997, "(I/s>1)": 0.997}, {"(I/s>10)": 0.995, "Completeness": 1.0, "name": "", "1/resol^2": 0.0688, "(I/s>15)": 0.982, "(I/s>5)": 0.998, "(I/s>2)": 1.0, "(I/s>3)": 0.998, "(I/s>1)": 1.0}, {"(I/s>10)": 0.99, "Completeness": 1.0, "name": "", "1/resol^2": 0.076, "(I/s>15)": 0.969, "(I/s>5)": 0.993, "(I/s>2)": 0.998, "(I/s>3)": 0.998, "(I/s>1)": 1.0}, {"(I/s>10)": 0.989, "Completeness": 1.0, "name": "", "1/resol^2": 0.0829, "(I/s>15)": 0.965, "(I/s>5)": 0.994, "(I/s>2)": 0.998, "(I/s>3)": 0.996, "(I/s>1)": 1.0}, {"(I/s>10)": 0.991, "Completeness": 0.997, "name": "", "1/resol^2": 0.0896, "(I/s>15)": 0.97, "(I/s>5)": 0.993, "(I/s>2)": 0.993, "(I/s>3)": 0.993, "(I/s>1)": 0.995}, {"(I/s>10)": 0.983, "Completeness": 0.995, "name": "", "1/resol^2": 0.0961, "(I/s>15)": 0.939, "(I/s>5)": 0.988, "(I/s>2)": 0.993, "(I/s>3)": 0.989, "(I/s>1)": 0.993}, {"(I/s>10)": 0.983, "Completeness": 1.0, "name": "", "1/resol^2": 0.1024, "(I/s>15)": 0.946, "(I/s>5)": 0.994, "(I/s>2)": 0.997, "(I/s>3)": 0.997, "(I/s>1)": 0.999}, {"(I/s>10)": 0.965, "Completeness": 1.0, "name": "", "1/resol^2": 0.1085, "(I/s>15)": 0.895, "(I/s>5)": 0.979, "(I/s>2)": 0.993, "(I/s>3)": 0.989, "(I/s>1)": 0.995}, {"(I/s>10)": 0.958, "Completeness": 0.996, "name": "", "1/resol^2": 0.1144, "(I/s>15)": 0.912, "(I/s>5)": 0.984, "(I/s>2)": 0.987, "(I/s>3)": 0.986, "(I/s>1)": 0.99}, {"(I/s>10)": 0.96, "Completeness": 0.999, "name": "", "1/resol^2": 0.1201, "(I/s>15)": 0.915, "(I/s>5)": 0.98, "(I/s>2)": 0.988, "(I/s>3)": 0.985, "(I/s>1)": 0.994}, {"(I/s>10)": 0.952, "Completeness": 0.999, "name": "", "1/resol^2": 0.1259, "(I/s>15)": 0.876, "(I/s>5)": 0.977, "(I/s>2)": 0.988, "(I/s>3)": 0.987, "(I/s>1)": 0.994}, {"(I/s>10)": 0.948, "Completeness": 1.0, "name": "", "1/resol^2": 0.1314, "(I/s>15)": 0.871, "(I/s>5)": 0.975, "(I/s>2)": 0.987, "(I/s>3)": 0.982, "(I/s>1)": 0.992}, {"(I/s>10)": 0.954, "Completeness": 0.998, "name": "", "1/resol^2": 0.1368, "(I/s>15)": 0.864, "(I/s>5)": 0.975, "(I/s>2)": 0.983, "(I/s>3)": 0.982, "(I/s>1)": 0.988}, {"(I/s>10)": 0.932, "Completeness": 1.0, "name": "", "1/resol^2": 0.1422, "(I/s>15)": 0.854, "(I/s>5)": 0.969, "(I/s>2)": 0.988, "(I/s>3)": 0.98, "(I/s>1)": 0.988}, {"(I/s>10)": 0.932, "Completeness": 1.0, "name": "", "1/resol^2": 0.1474, "(I/s>15)": 0.841, "(I/s>5)": 0.963, "(I/s>2)": 0.982, "(I/s>3)": 0.974, "(I/s>1)": 0.985}, {"(I/s>10)": 0.924, "Completeness": 1.0, "name": "", "1/resol^2": 0.1526, "(I/s>15)": 0.815, "(I/s>5)": 0.953, "(I/s>2)": 0.984, "(I/s>3)": 0.979, "(I/s>1)": 0.986}, {"(I/s>10)": 0.907, "Completeness": 0.997, "name": "", "1/resol^2": 0.1577, "(I/s>15)": 0.799, "(I/s>5)": 0.949, "(I/s>2)": 0.971, "(I/s>3)": 0.964, "(I/s>1)": 0.984}, {"(I/s>10)": 0.928, "Completeness": 0.999, "name": "", "1/resol^2": 0.1627, "(I/s>15)": 0.819, "(I/s>5)": 0.959, "(I/s>2)": 0.978, "(I/s>3)": 0.968, "(I/s>1)": 0.991}, {"(I/s>10)": 0.901, "Completeness": 1.0, "name": "", "1/resol^2": 0.1676, "(I/s>15)": 0.788, "(I/s>5)": 0.948, "(I/s>2)": 0.973, "(I/s>3)": 0.967, "(I/s>1)": 0.989}, {"(I/s>10)": 0.894, "Completeness": 1.0, "name": "", "1/resol^2": 0.1725, "(I/s>15)": 0.787, "(I/s>5)": 0.925, "(I/s>2)": 0.972, "(I/s>3)": 0.954, "(I/s>1)": 0.983}, {"(I/s>10)": 0.887, "Completeness": 0.999, "name": "", "1/resol^2": 0.1773, "(I/s>15)": 0.724, "(I/s>5)": 0.939, "(I/s>2)": 0.968, "(I/s>3)": 0.965, "(I/s>1)": 0.981}, {"(I/s>10)": 0.886, "Completeness": 0.998, "name": "", "1/resol^2": 0.182, "(I/s>15)": 0.733, "(I/s>5)": 0.945, "(I/s>2)": 0.973, "(I/s>3)": 0.967, "(I/s>1)": 0.98}, {"(I/s>10)": 0.874, "Completeness": 1.0, "name": "", "1/resol^2": 0.1868, "(I/s>15)": 0.701, "(I/s>5)": 0.935, "(I/s>2)": 0.972, "(I/s>3)": 0.967, "(I/s>1)": 0.978}, {"(I/s>10)": 0.866, "Completeness": 0.998, "name": "", "1/resol^2": 0.1914, "(I/s>15)": 0.721, "(I/s>5)": 0.929, "(I/s>2)": 0.964, "(I/s>3)": 0.951, "(I/s>1)": 0.976}, {"(I/s>10)": 0.847, "Completeness": 1.0, "name": "", "1/resol^2": 0.1959, "(I/s>15)": 0.677, "(I/s>5)": 0.911, "(I/s>2)": 0.96, "(I/s>3)": 0.951, "(I/s>1)": 0.975}, {"(I/s>10)": 0.825, "Completeness": 0.999, "name": "", "1/resol^2": 0.2005, "(I/s>15)": 0.675, "(I/s>5)": 0.878, "(I/s>2)": 0.949, "(I/s>3)": 0.929, "(I/s>1)": 0.972}, {"(I/s>10)": 0.826, "Completeness": 0.998, "name": "", "1/resol^2": 0.2049, "(I/s>15)": 0.645, "(I/s>5)": 0.919, "(I/s>2)": 0.964, "(I/s>3)": 0.951, "(I/s>1)": 0.974}, {"(I/s>10)": 0.796, "Completeness": 0.998, "name": "", "1/resol^2": 0.2094, "(I/s>15)": 0.615, "(I/s>5)": 0.881, "(I/s>2)": 0.948, "(I/s>3)": 0.939, "(I/s>1)": 0.96}, {"(I/s>10)": 0.835, "Completeness": 0.996, "name": "", "1/resol^2": 0.2138, "(I/s>15)": 0.647, "(I/s>5)": 0.89, "(I/s>2)": 0.952, "(I/s>3)": 0.93, "(I/s>1)": 0.961}, {"(I/s>10)": 0.827, "Completeness": 1.0, "name": "", "1/resol^2": 0.2182, "(I/s>15)": 0.609, "(I/s>5)": 0.898, "(I/s>2)": 0.974, "(I/s>3)": 0.953, "(I/s>1)": 0.98}, {"(I/s>10)": 0.803, "Completeness": 0.997, "name": "", "1/resol^2": 0.2225, "(I/s>15)": 0.591, "(I/s>5)": 0.895, "(I/s>2)": 0.952, "(I/s>3)": 0.93, "(I/s>1)": 0.96}, {"(I/s>10)": 0.777, "Completeness": 0.998, "name": "", "1/resol^2": 0.2267, "(I/s>15)": 0.523, "(I/s>5)": 0.878, "(I/s>2)": 0.932, "(I/s>3)": 0.912, "(I/s>1)": 0.945}, {"(I/s>10)": 0.756, "Completeness": 0.997, "name": "", "1/resol^2": 0.2309, "(I/s>15)": 0.513, "(I/s>5)": 0.869, "(I/s>2)": 0.932, "(I/s>3)": 0.902, "(I/s>1)": 0.952}, {"(I/s>10)": 0.743, "Completeness": 1.0, "name": "", "1/resol^2": 0.2352, "(I/s>15)": 0.472, "(I/s>5)": 0.848, "(I/s>2)": 0.931, "(I/s>3)": 0.898, "(I/s>1)": 0.954}, {"(I/s>10)": 0.767, "Completeness": 0.998, "name": "", "1/resol^2": 0.2394, "(I/s>15)": 0.511, "(I/s>5)": 0.848, "(I/s>2)": 0.932, "(I/s>3)": 0.88, "(I/s>1)": 0.952}, {"(I/s>10)": 0.711, "Completeness": 0.997, "name": "", "1/resol^2": 0.2434, "(I/s>15)": 0.446, "(I/s>5)": 0.844, "(I/s>2)": 0.934, "(I/s>3)": 0.904, "(I/s>1)": 0.963}, {"(I/s>10)": 0.683, "Completeness": 1.0, "name": "", "1/resol^2": 0.2476, "(I/s>15)": 0.385, "(I/s>5)": 0.807, "(I/s>2)": 0.909, "(I/s>3)": 0.883, "(I/s>1)": 0.937}, {"(I/s>10)": 0.667, "Completeness": 0.995, "name": "", "1/resol^2": 0.2517, "(I/s>15)": 0.395, "(I/s>5)": 0.768, "(I/s>2)": 0.888, "(I/s>3)": 0.851, "(I/s>1)": 0.933}, {"(I/s>10)": 0.653, "Completeness": 1.0, "name": "", "1/resol^2": 0.2557, "(I/s>15)": 0.332, "(I/s>5)": 0.802, "(I/s>2)": 0.905, "(I/s>3)": 0.861, "(I/s>1)": 0.939}, {"(I/s>10)": 0.618, "Completeness": 0.992, "name": "", "1/resol^2": 0.2597, "(I/s>15)": 0.307, "(I/s>5)": 0.77, "(I/s>2)": 0.877, "(I/s>3)": 0.844, "(I/s>1)": 0.923}, {"(I/s>10)": 0.576, "Completeness": 1.0, "name": "", "1/resol^2": 0.2637, "(I/s>15)": 0.262, "(I/s>5)": 0.751, "(I/s>2)": 0.874, "(I/s>3)": 0.841, "(I/s>1)": 0.919}, {"(I/s>10)": 0.567, "Completeness": 0.994, "name": "", "1/resol^2": 0.2676, "(I/s>15)": 0.271, "(I/s>5)": 0.735, "(I/s>2)": 0.88, "(I/s>3)": 0.837, "(I/s>1)": 0.919}, {"(I/s>10)": 0.538, "Completeness": 0.996, "name": "", "1/resol^2": 0.2715, "(I/s>15)": 0.19, "(I/s>5)": 0.708, "(I/s>2)": 0.852, "(I/s>3)": 0.807, "(I/s>1)": 0.9}, {"(I/s>10)": 0.496, "Completeness": 1.0, "name": "", "1/resol^2": 0.2754, "(I/s>15)": 0.206, "(I/s>5)": 0.688, "(I/s>2)": 0.847, "(I/s>3)": 0.798, "(I/s>1)": 0.903}, {"(I/s>10)": 0.502, "Completeness": 0.988, "name": "", "1/resol^2": 0.2793, "(I/s>15)": 0.186, "(I/s>5)": 0.675, "(I/s>2)": 0.815, "(I/s>3)": 0.766, "(I/s>1)": 0.87}, {"(I/s>10)": 0.461, "Completeness": 1.0, "name": "", "1/resol^2": 0.2831, "(I/s>15)": 0.177, "(I/s>5)": 0.66, "(I/s>2)": 0.8, "(I/s>3)": 0.753, "(I/s>1)": 0.869}, {"(I/s>10)": 0.421, "Completeness": 0.994, "name": "", "1/resol^2": 0.2869, "(I/s>15)": 0.133, "(I/s>5)": 0.598, "(I/s>2)": 0.765, "(I/s>3)": 0.723, "(I/s>1)": 0.823}, {"(I/s>10)": 0.392, "Completeness": 0.993, "name": "", "1/resol^2": 0.2907, "(I/s>15)": 0.106, "(I/s>5)": 0.579, "(I/s>2)": 0.751, "(I/s>3)": 0.696, "(I/s>1)": 0.822}, {"(I/s>10)": 0.355, "Completeness": 0.999, "name": "", "1/resol^2": 0.2945, "(I/s>15)": 0.093, "(I/s>5)": 0.546, "(I/s>2)": 0.775, "(I/s>3)": 0.694, "(I/s>1)": 0.839}, {"(I/s>10)": 0.318, "Completeness": 0.988, "name": "", "1/resol^2": 0.2983, "(I/s>15)": 0.065, "(I/s>5)": 0.523, "(I/s>2)": 0.701, "(I/s>3)": 0.618, "(I/s>1)": 0.779}, {"(I/s>10)": 0.301, "Completeness": 0.999, "name": "", "1/resol^2": 0.302, "(I/s>15)": 0.042, "(I/s>5)": 0.548, "(I/s>2)": 0.736, "(I/s>3)": 0.677, "(I/s>1)": 0.821}, {"(I/s>10)": 0.286, "Completeness": 0.998, "name": "", "1/resol^2": 0.3057, "(I/s>15)": 0.047, "(I/s>5)": 0.485, "(I/s>2)": 0.714, "(I/s>3)": 0.636, "(I/s>1)": 0.806}, {"(I/s>10)": 0.266, "Completeness": 0.985, "name": "", "1/resol^2": 0.3094, "(I/s>15)": 0.026, "(I/s>5)": 0.462, "(I/s>2)": 0.684, "(I/s>3)": 0.614, "(I/s>1)": 0.759}, {"(I/s>10)": 0.267, "Completeness": 0.998, "name": "", "1/resol^2": 0.313, "(I/s>15)": 0.03, "(I/s>5)": 0.487, "(I/s>2)": 0.693, "(I/s>3)": 0.633, "(I/s>1)": 0.772}, {"(I/s>10)": 0.215, "Completeness": 0.997, "name": "", "1/resol^2": 0.3166, "(I/s>15)": 0.006, "(I/s>5)": 0.414, "(I/s>2)": 0.648, "(I/s>3)": 0.563, "(I/s>1)": 0.738}, {"(I/s>10)": 0.204, "Completeness": 0.986, "name": "", "1/resol^2": 0.3203, "(I/s>15)": 0.012, "(I/s>5)": 0.38, "(I/s>2)": 0.611, "(I/s>3)": 0.514, "(I/s>1)": 0.718}, {"(I/s>10)": 0.156, "Completeness": 0.999, "name": "", "1/resol^2": 0.3239, "(I/s>15)": 0.01, "(I/s>5)": 0.333, "(I/s>2)": 0.603, "(I/s>3)": 0.519, "(I/s>1)": 0.71}, {"(I/s>10)": 0.123, "Completeness": 0.995, "name": "", "1/resol^2": 0.3275, "(I/s>15)": 0.002, "(I/s>5)": 0.329, "(I/s>2)": 0.567, "(I/s>3)": 0.455, "(I/s>1)": 0.695}, {"(I/s>10)": 0.149, "Completeness": 0.984, "name": "", "1/resol^2": 0.331, "(I/s>15)": 0.004, "(I/s>5)": 0.329, "(I/s>2)": 0.553, "(I/s>3)": 0.466, "(I/s>1)": 0.682}, {"(I/s>10)": 0.094, "Completeness": 0.995, "name": "", "1/resol^2": 0.3345, "(I/s>15)": 0.004, "(I/s>5)": 0.31, "(I/s>2)": 0.551, "(I/s>3)": 0.453, "(I/s>1)": 0.675}, {"(I/s>10)": 0.092, "Completeness": 0.992, "name": "", "1/resol^2": 0.3382, "(I/s>15)": 0.0, "(I/s>5)": 0.28, "(I/s>2)": 0.538, "(I/s>3)": 0.448, "(I/s>1)": 0.663}, {"(I/s>10)": 0.058, "Completeness": 0.982, "name": "", "1/resol^2": 0.3416, "(I/s>15)": 0.0, "(I/s>5)": 0.2, "(I/s>2)": 0.47, "(I/s>3)": 0.349, "(I/s>1)": 0.59}, {"(I/s>10)": 0.07, "Completeness": 0.985, "name": "", "1/resol^2": 0.3451, "(I/s>15)": 0.0, "(I/s>5)": 0.223, "(I/s>2)": 0.479, "(I/s>3)": 0.369, "(I/s>1)": 0.636}, {"(I/s>10)": 0.039, "Completeness": 0.979, "name": "", "1/resol^2": 0.3486, "(I/s>15)": 0.0, "(I/s>5)": 0.158, "(I/s>2)": 0.415, "(I/s>3)": 0.315, "(I/s>1)": 0.533}, {"(I/s>10)": 0.031, "Completeness": 0.971, "name": "", "1/resol^2": 0.3521, "(I/s>15)": 0.0, "(I/s>5)": 0.12, "(I/s>2)": 0.383, "(I/s>3)": 0.278, "(I/s>1)": 0.533}, {"(I/s>10)": 0.026, "Completeness": 0.965, "name": "", "1/resol^2": 0.3555, "(I/s>15)": 0.0, "(I/s>5)": 0.137, "(I/s>2)": 0.373, "(I/s>3)": 0.275, "(I/s>1)": 0.522}, {"(I/s>10)": 0.026, "Completeness": 0.966, "name": "", "1/resol^2": 0.3589, "(I/s>15)": 0.0, "(I/s>5)": 0.1, "(I/s>2)": 0.335, "(I/s>3)": 0.228, "(I/s>1)": 0.48}, {"(I/s>10)": 0.012, "Completeness": 0.94, "name": "", "1/resol^2": 0.3623, "(I/s>15)": 0.0, "(I/s>5)": 0.08, "(I/s>2)": 0.297, "(I/s>3)": 0.206, "(I/s>1)": 0.457}, {"(I/s>10)": 0.001, "Completeness": 0.893, "name": "", "1/resol^2": 0.3657, "(I/s>15)": 0.0, "(I/s>5)": 0.056, "(I/s>2)": 0.284, "(I/s>3)": 0.176, "(I/s>1)": 0.416}]},
+    axis:
+    {
+      x: {
+        label: {
+          text: 'Resolution (Å)',
+          position: 'outer-center'
+        },
+        tick: {
+          format: function (x) { return (1/Math.sqrt(x)).toFixed(2); }
+        }
+
+      }
+    }
+,
+    legend: {
+      position: 'right'
+    },
+});
+
+</script><!--Div that will hold the chart-->
+<div>
+  <p>Wilson plot - estimated B factor =  25.7</p>
+  <div class="graph" id="chart_WilsonplotestimatedBfactor"></div>
+</div>
+
+<script type="text/javascript">
+
+var chart_WilsonplotestimatedBfactor = c3.generate({
+    bindto: '#chart_WilsonplotestimatedBfactor',
+    data: {"keys": {"x": "1/resol^2", "value": ["ln(I/I th)", "Reference prot"]}, "json": [{"Reference prot": -4.55093, "ln(I/I th)": -4.58879, "name": "", "1/resol^2": 0.01253}, {"Reference prot": -5.19194, "ln(I/I th)": -5.29931, "name": "", "1/resol^2": 0.0283}, {"Reference prot": -4.72608, "ln(I/I th)": -4.69191, "name": "", "1/resol^2": 0.04068}, {"Reference prot": -4.52189, "ln(I/I th)": -4.38983, "name": "", "1/resol^2": 0.05155}, {"Reference prot": -4.62147, "ln(I/I th)": -4.65135, "name": "", "1/resol^2": 0.06144}, {"Reference prot": -4.7545, "ln(I/I th)": -4.73088, "name": "", "1/resol^2": 0.07065}, {"Reference prot": -4.9068, "ln(I/I th)": -4.83711, "name": "", "1/resol^2": 0.07936}, {"Reference prot": -5.0779, "ln(I/I th)": -5.0425, "name": "", "1/resol^2": 0.08764}, {"Reference prot": -5.28919, "ln(I/I th)": -5.19368, "name": "", "1/resol^2": 0.09563}, {"Reference prot": -5.47806, "ln(I/I th)": -5.49286, "name": "", "1/resol^2": 0.10328}, {"Reference prot": -5.64118, "ln(I/I th)": -5.6465, "name": "", "1/resol^2": 0.11059}, {"Reference prot": -5.80358, "ln(I/I th)": -5.7188, "name": "", "1/resol^2": 0.11783}, {"Reference prot": -5.9506, "ln(I/I th)": -5.95854, "name": "", "1/resol^2": 0.12485}, {"Reference prot": -6.07851, "ln(I/I th)": -6.23819, "name": "", "1/resol^2": 0.13163}, {"Reference prot": -6.17496, "ln(I/I th)": -6.28763, "name": "", "1/resol^2": 0.13826}, {"Reference prot": -6.25927, "ln(I/I th)": -6.34535, "name": "", "1/resol^2": 0.1448}, {"Reference prot": -6.34416, "ln(I/I th)": -6.31534, "name": "", "1/resol^2": 0.15114}, {"Reference prot": -6.42917, "ln(I/I th)": -6.3661, "name": "", "1/resol^2": 0.15738}, {"Reference prot": -6.49024, "ln(I/I th)": -6.42038, "name": "", "1/resol^2": 0.16354}, {"Reference prot": -6.55629, "ln(I/I th)": -6.54743, "name": "", "1/resol^2": 0.1695}, {"Reference prot": -6.60798, "ln(I/I th)": -6.63915, "name": "", "1/resol^2": 0.17548}, {"Reference prot": -6.65606, "ln(I/I th)": -6.68683, "name": "", "1/resol^2": 0.18126}, {"Reference prot": -6.7087, "ln(I/I th)": -6.72754, "name": "", "1/resol^2": 0.18708}, {"Reference prot": -6.75513, "ln(I/I th)": -6.7872, "name": "", "1/resol^2": 0.19271}, {"Reference prot": -6.80451, "ln(I/I th)": -6.73922, "name": "", "1/resol^2": 0.19832}, {"Reference prot": -6.86479, "ln(I/I th)": -6.88014, "name": "", "1/resol^2": 0.20377}, {"Reference prot": -6.92932, "ln(I/I th)": -6.9987, "name": "", "1/resol^2": 0.20926}, {"Reference prot": -6.99683, "ln(I/I th)": -6.90662, "name": "", "1/resol^2": 0.21461}, {"Reference prot": -7.06256, "ln(I/I th)": -7.03015, "name": "", "1/resol^2": 0.21995}, {"Reference prot": -7.11458, "ln(I/I th)": -7.10989, "name": "", "1/resol^2": 0.22529}, {"Reference prot": -7.18467, "ln(I/I th)": -7.15893, "name": "", "1/resol^2": 0.23042}, {"Reference prot": -7.27669, "ln(I/I th)": -7.31143, "name": "", "1/resol^2": 0.23562}, {"Reference prot": -7.3547, "ln(I/I th)": -7.25189, "name": "", "1/resol^2": 0.24068}, {"Reference prot": -7.43447, "ln(I/I th)": -7.37436, "name": "", "1/resol^2": 0.24572}, {"Reference prot": -7.52289, "ln(I/I th)": -7.45275, "name": "", "1/resol^2": 0.25078}, {"Reference prot": -7.61261, "ln(I/I th)": -7.62178, "name": "", "1/resol^2": 0.25567}, {"Reference prot": -7.70457, "ln(I/I th)": -7.6331, "name": "", "1/resol^2": 0.2606}, {"Reference prot": -7.80075, "ln(I/I th)": -7.73987, "name": "", "1/resol^2": 0.26556}, {"Reference prot": -7.89842, "ln(I/I th)": -7.81373, "name": "", "1/resol^2": 0.27033}, {"Reference prot": -7.98945, "ln(I/I th)": -7.90164, "name": "", "1/resol^2": 0.27513}, {"Reference prot": -8.07502, "ln(I/I th)": -7.97572, "name": "", "1/resol^2": 0.27994}, {"Reference prot": -8.15667, "ln(I/I th)": -8.12101, "name": "", "1/resol^2": 0.28462}, {"Reference prot": -8.24858, "ln(I/I th)": -8.20047, "name": "", "1/resol^2": 0.28932}, {"Reference prot": -8.33714, "ln(I/I th)": -8.36709, "name": "", "1/resol^2": 0.29395}, {"Reference prot": -8.41583, "ln(I/I th)": -8.49576, "name": "", "1/resol^2": 0.29852}, {"Reference prot": -8.50189, "ln(I/I th)": -8.5554, "name": "", "1/resol^2": 0.30313}, {"Reference prot": -8.58059, "ln(I/I th)": -8.61897, "name": "", "1/resol^2": 0.30772}, {"Reference prot": -8.64887, "ln(I/I th)": -8.61729, "name": "", "1/resol^2": 0.31217}, {"Reference prot": -8.71716, "ln(I/I th)": -8.85077, "name": "", "1/resol^2": 0.31666}, {"Reference prot": -8.78872, "ln(I/I th)": -8.89742, "name": "", "1/resol^2": 0.32123}, {"Reference prot": -8.85162, "ln(I/I th)": -9.03015, "name": "", "1/resol^2": 0.32559}, {"Reference prot": -8.90747, "ln(I/I th)": -9.04982, "name": "", "1/resol^2": 0.33004}, {"Reference prot": -8.96337, "ln(I/I th)": -9.10314, "name": "", "1/resol^2": 0.33441}, {"Reference prot": -9.02853, "ln(I/I th)": -9.19164, "name": "", "1/resol^2": 0.33886}, {"Reference prot": -9.09013, "ln(I/I th)": -9.27722, "name": "", "1/resol^2": 0.34311}, {"Reference prot": -9.1536, "ln(I/I th)": -9.32309, "name": "", "1/resol^2": 0.34745}, {"Reference prot": -9.22282, "ln(I/I th)": -9.37478, "name": "", "1/resol^2": 0.35189}, {"Reference prot": -9.27965, "ln(I/I th)": -9.41595, "name": "", "1/resol^2": 0.35622}, {"Reference prot": -9.32596, "ln(I/I th)": -9.45876, "name": "", "1/resol^2": 0.36053}, {"Reference prot": -9.37232, "ln(I/I th)": -9.5755, "name": "", "1/resol^2": 0.36503}]},
+    axis:
+    {
+      x: {
+        label: {
+          text: 'Resolution (Å)',
+          position: 'outer-center'
+        },
+        tick: {
+          format: function (x) { return (1/Math.sqrt(x)).toFixed(2); }
+        }
+
+      }
+    }
+,
+    legend: {
+      position: 'right'
+    },
+});
+
+</script><!--Div that will hold the chart-->
+<div>
+  <p>Mn(I/sd) v resolution</p>
+  <div class="graph" id="chart_MnIsdvresolution"></div>
+</div>
+
+<script type="text/javascript">
+
+var chart_MnIsdvresolution = c3.generate({
+    bindto: '#chart_MnIsdvresolution',
+    data: {"keys": {"x": "1/resol^2", "value": ["Mn(I/s(1))", "Mn(I/s(2))", "Mn(I/s(3))", "Mn(I/s)"]}, "json": [{"Mn(I/s(3))": 31.11, "Mn(I/s)": 36.52, "name": "", "1/resol^2": 0.0182, "Mn(I/s(1))": 36.9, "Mn(I/s(2))": 36.9}, {"Mn(I/s(3))": 34.88, "Mn(I/s)": 38.18, "name": "", "1/resol^2": 0.04, "Mn(I/s(1))": 38.37, "Mn(I/s(2))": 38.37}, {"Mn(I/s(3))": 35.24, "Mn(I/s)": 37.42, "name": "", "1/resol^2": 0.0573, "Mn(I/s(1))": 35.11, "Mn(I/s(2))": 35.11}, {"Mn(I/s(3))": 32.96, "Mn(I/s)": 37.17, "name": "", "1/resol^2": 0.0726, "Mn(I/s(1))": 37.62, "Mn(I/s(2))": 37.62}, {"Mn(I/s(3))": 31.38, "Mn(I/s)": 35.44, "name": "", "1/resol^2": 0.0864, "Mn(I/s(1))": 35.42, "Mn(I/s(2))": 35.42}, {"Mn(I/s(3))": 27.32, "Mn(I/s)": 32.73, "name": "", "1/resol^2": 0.0994, "Mn(I/s(1))": 34.41, "Mn(I/s(2))": 34.41}, {"Mn(I/s(3))": 26.25, "Mn(I/s)": 28.94, "name": "", "1/resol^2": 0.1115, "Mn(I/s(1))": 28.28, "Mn(I/s(2))": 28.28}, {"Mn(I/s(3))": 22.82, "Mn(I/s)": 26.07, "name": "", "1/resol^2": 0.1231, "Mn(I/s(1))": 25.26, "Mn(I/s(2))": 25.26}, {"Mn(I/s(3))": 19.96, "Mn(I/s)": 23.86, "name": "", "1/resol^2": 0.1342, "Mn(I/s(1))": 26.2, "Mn(I/s(2))": 26.2}, {"Mn(I/s(3))": 18.17, "Mn(I/s)": 22.96, "name": "", "1/resol^2": 0.1448, "Mn(I/s(1))": 25.37, "Mn(I/s(2))": 25.37}, {"Mn(I/s(3))": 16.43, "Mn(I/s)": 21.77, "name": "", "1/resol^2": 0.1552, "Mn(I/s(1))": 24.79, "Mn(I/s(2))": 24.79}, {"Mn(I/s(3))": 15.47, "Mn(I/s)": 20.37, "name": "", "1/resol^2": 0.1652, "Mn(I/s(1))": 23.14, "Mn(I/s(2))": 23.14}, {"Mn(I/s(3))": 13.08, "Mn(I/s)": 18.5, "name": "", "1/resol^2": 0.175, "Mn(I/s(1))": 22.97, "Mn(I/s(2))": 22.97}, {"Mn(I/s(3))": 11.54, "Mn(I/s)": 16.64, "name": "", "1/resol^2": 0.1844, "Mn(I/s(1))": 17.93, "Mn(I/s(2))": 17.93}, {"Mn(I/s(3))": 12.62, "Mn(I/s)": 15.67, "name": "", "1/resol^2": 0.1937, "Mn(I/s(1))": 15.82, "Mn(I/s(2))": 15.82}, {"Mn(I/s(3))": 10.88, "Mn(I/s)": 14.72, "name": "", "1/resol^2": 0.2027, "Mn(I/s(1))": 17.79, "Mn(I/s(2))": 17.79}, {"Mn(I/s(3))": 10.92, "Mn(I/s)": 13.81, "name": "", "1/resol^2": 0.2116, "Mn(I/s(1))": 16.1, "Mn(I/s(2))": 16.1}, {"Mn(I/s(3))": 10.18, "Mn(I/s)": 13.16, "name": "", "1/resol^2": 0.2203, "Mn(I/s(1))": 14.84, "Mn(I/s(2))": 14.84}, {"Mn(I/s(3))": 9.39, "Mn(I/s)": 11.7, "name": "", "1/resol^2": 0.2289, "Mn(I/s(1))": 13.33, "Mn(I/s(2))": 13.33}, {"Mn(I/s(3))": 8.29, "Mn(I/s)": 10.64, "name": "", "1/resol^2": 0.2373, "Mn(I/s(1))": 10.72, "Mn(I/s(2))": 10.72}, {"Mn(I/s(3))": 7.58, "Mn(I/s)": 9.61, "name": "", "1/resol^2": 0.2455, "Mn(I/s(1))": 10.54, "Mn(I/s(2))": 10.54}, {"Mn(I/s(3))": 7.07, "Mn(I/s)": 8.52, "name": "", "1/resol^2": 0.2537, "Mn(I/s(1))": 9.8, "Mn(I/s(2))": 9.8}, {"Mn(I/s(3))": 6.13, "Mn(I/s)": 7.44, "name": "", "1/resol^2": 0.2617, "Mn(I/s(1))": 8.65, "Mn(I/s(2))": 8.65}, {"Mn(I/s(3))": 5.52, "Mn(I/s)": 6.52, "name": "", "1/resol^2": 0.2695, "Mn(I/s(1))": 6.78, "Mn(I/s(2))": 6.78}, {"Mn(I/s(3))": 4.59, "Mn(I/s)": 5.85, "name": "", "1/resol^2": 0.2773, "Mn(I/s(1))": 5.97, "Mn(I/s(2))": 5.97}, {"Mn(I/s(3))": 4.36, "Mn(I/s)": 5.21, "name": "", "1/resol^2": 0.2849, "Mn(I/s(1))": 5.47, "Mn(I/s(2))": 5.47}, {"Mn(I/s(3))": 3.14, "Mn(I/s)": 4.48, "name": "", "1/resol^2": 0.2926, "Mn(I/s(1))": 4.75, "Mn(I/s(2))": 4.75}, {"Mn(I/s(3))": 3.11, "Mn(I/s)": 3.88, "name": "", "1/resol^2": 0.3, "Mn(I/s(1))": 4.49, "Mn(I/s(2))": 4.49}, {"Mn(I/s(3))": 2.64, "Mn(I/s)": 3.5, "name": "", "1/resol^2": 0.3075, "Mn(I/s(1))": 3.97, "Mn(I/s(2))": 3.97}, {"Mn(I/s(3))": 2.52, "Mn(I/s)": 3.21, "name": "", "1/resol^2": 0.3148, "Mn(I/s(1))": 3.79, "Mn(I/s(2))": 3.79}, {"Mn(I/s(3))": 1.83, "Mn(I/s)": 2.65, "name": "", "1/resol^2": 0.3221, "Mn(I/s(1))": 2.8, "Mn(I/s(2))": 2.8}, {"Mn(I/s(3))": 1.76, "Mn(I/s)": 2.36, "name": "", "1/resol^2": 0.3292, "Mn(I/s(1))": 2.56, "Mn(I/s(2))": 2.56}, {"Mn(I/s(3))": 1.27, "Mn(I/s)": 2.14, "name": "", "1/resol^2": 0.3363, "Mn(I/s(1))": 2.4, "Mn(I/s(2))": 2.4}, {"Mn(I/s(3))": 1.22, "Mn(I/s)": 1.75, "name": "", "1/resol^2": 0.3433, "Mn(I/s(1))": 1.82, "Mn(I/s(2))": 1.82}, {"Mn(I/s(3))": 1.03, "Mn(I/s)": 1.46, "name": "", "1/resol^2": 0.3503, "Mn(I/s(1))": 1.47, "Mn(I/s(2))": 1.47}, {"Mn(I/s(3))": 0.95, "Mn(I/s)": 1.24, "name": "", "1/resol^2": 0.3572, "Mn(I/s(1))": 1.05, "Mn(I/s(2))": 1.05}, {"Mn(I/s(3))": 0.82, "Mn(I/s)": 1.05, "name": "", "1/resol^2": 0.3639, "Mn(I/s(1))": 1.07, "Mn(I/s(2))": 1.07}]},
+    axis:
+    {
+      x: {
+        label: {
+          text: 'Resolution (Å)',
+          position: 'outer-center'
+        },
+        tick: {
+          format: function (x) { return (1/Math.sqrt(x)).toFixed(2); }
+        }
+
+      }
+    }
+,
+    legend: {
+      position: 'right'
+    },
+});
+
+</script><!--Div that will hold the chart-->
+<div>
+  <p>No. reflections v resolution</p>
+  <div class="graph" id="chart_Noreflectionsvresolution"></div>
+</div>
+
+<script type="text/javascript">
+
+var chart_Noreflectionsvresolution = c3.generate({
+    bindto: '#chart_Noreflectionsvresolution',
+    data: {"keys": {"x": "1/resol^2", "value": ["N(1)", "N(2)", "N(3)", "N"]}, "json": [{"name": "", "1/resol^2": 0.0182, "N(1)": 2224, "N": 16144, "N(2)": 2224, "N(3)": 2544}, {"name": "", "1/resol^2": 0.04, "N(1)": 2200, "N": 16096, "N(2)": 2200, "N(3)": 2384}, {"name": "", "1/resol^2": 0.0573, "N(1)": 2152, "N": 16208, "N(2)": 2152, "N(3)": 2416}, {"name": "", "1/resol^2": 0.0726, "N(1)": 2184, "N": 16192, "N(2)": 2184, "N(3)": 2368}, {"name": "", "1/resol^2": 0.0864, "N(1)": 2176, "N": 16160, "N(2)": 2176, "N(3)": 2368}, {"name": "", "1/resol^2": 0.0994, "N(1)": 2168, "N": 16176, "N(2)": 2168, "N(3)": 2320}, {"name": "", "1/resol^2": 0.1115, "N(1)": 2208, "N": 16048, "N(2)": 2208, "N(3)": 2320}, {"name": "", "1/resol^2": 0.1231, "N(1)": 2184, "N": 16224, "N(2)": 2184, "N(3)": 2304}, {"name": "", "1/resol^2": 0.1342, "N(1)": 2168, "N": 16096, "N(2)": 2168, "N(3)": 2256}, {"name": "", "1/resol^2": 0.1448, "N(1)": 2064, "N": 16176, "N(2)": 2064, "N(3)": 2320}, {"name": "", "1/resol^2": 0.1552, "N(1)": 2240, "N": 16208, "N(2)": 2240, "N(3)": 2272}, {"name": "", "1/resol^2": 0.1652, "N(1)": 2152, "N": 16160, "N(2)": 2152, "N(3)": 2384}, {"name": "", "1/resol^2": 0.175, "N(1)": 2200, "N": 16160, "N(2)": 2200, "N(3)": 2272}, {"name": "", "1/resol^2": 0.1844, "N(1)": 2128, "N": 16144, "N(2)": 2128, "N(3)": 2192}, {"name": "", "1/resol^2": 0.1937, "N(1)": 2096, "N": 16032, "N(2)": 2096, "N(3)": 2304}, {"name": "", "1/resol^2": 0.2027, "N(1)": 2248, "N": 16144, "N(2)": 2248, "N(3)": 2208}, {"name": "", "1/resol^2": 0.2116, "N(1)": 2128, "N": 16144, "N(2)": 2128, "N(3)": 2320}, {"name": "", "1/resol^2": 0.2203, "N(1)": 2152, "N": 16176, "N(2)": 2152, "N(3)": 2272}, {"name": "", "1/resol^2": 0.2289, "N(1)": 2248, "N": 16048, "N(2)": 2248, "N(3)": 2224}, {"name": "", "1/resol^2": 0.2373, "N(1)": 2072, "N": 16192, "N(2)": 2072, "N(3)": 2176}, {"name": "", "1/resol^2": 0.2455, "N(1)": 2240, "N": 16096, "N(2)": 2240, "N(3)": 2176}, {"name": "", "1/resol^2": 0.2537, "N(1)": 2160, "N": 16352, "N(2)": 2160, "N(3)": 2336}, {"name": "", "1/resol^2": 0.2617, "N(1)": 2184, "N": 15792, "N(2)": 2184, "N(3)": 2208}, {"name": "", "1/resol^2": 0.2695, "N(1)": 2096, "N": 15952, "N(2)": 2096, "N(3)": 2128}, {"name": "", "1/resol^2": 0.2773, "N(1)": 2240, "N": 16160, "N(2)": 2240, "N(3)": 2112}, {"name": "", "1/resol^2": 0.2849, "N(1)": 2088, "N": 16112, "N(2)": 2088, "N(3)": 2272}, {"name": "", "1/resol^2": 0.2926, "N(1)": 2216, "N": 16048, "N(2)": 2216, "N(3)": 2144}, {"name": "", "1/resol^2": 0.3, "N(1)": 2208, "N": 16064, "N(2)": 2208, "N(3)": 2128}, {"name": "", "1/resol^2": 0.3075, "N(1)": 2120, "N": 15968, "N(2)": 2120, "N(3)": 2160}, {"name": "", "1/resol^2": 0.3148, "N(1)": 2272, "N": 16208, "N(2)": 2272, "N(3)": 2128}, {"name": "", "1/resol^2": 0.3221, "N(1)": 2048, "N": 16000, "N(2)": 2048, "N(3)": 2144}, {"name": "", "1/resol^2": 0.3292, "N(1)": 2256, "N": 15936, "N(2)": 2256, "N(3)": 2112}, {"name": "", "1/resol^2": 0.3363, "N(1)": 2136, "N": 16048, "N(2)": 2136, "N(3)": 1936}, {"name": "", "1/resol^2": 0.3433, "N(1)": 2224, "N": 15856, "N(2)": 2224, "N(3)": 2128}, {"name": "", "1/resol^2": 0.3503, "N(1)": 2144, "N": 15824, "N(2)": 2144, "N(3)": 1760}, {"name": "", "1/resol^2": 0.3572, "N(1)": 2136, "N": 15472, "N(2)": 2136, "N(3)": 1696}, {"name": "", "1/resol^2": 0.3639, "N(1)": 1968, "N": 14800, "N(2)": 1968, "N(3)": 1440}]},
+    axis:
+    {
+      x: {
+        label: {
+          text: 'Resolution (Å)',
+          position: 'outer-center'
+        },
+        tick: {
+          format: function (x) { return (1/Math.sqrt(x)).toFixed(2); }
+        }
+
+      }
+    }
+,
+    legend: {
+      position: 'right'
+    },
+});
+
+</script><!--Div that will hold the chart-->
+<div>
+  <p>Mn(I) v resolution</p>
+  <div class="graph" id="chart_MnIvresolution"></div>
+</div>
+
+<script type="text/javascript">
+
+var chart_MnIvresolution = c3.generate({
+    bindto: '#chart_MnIvresolution',
+    data: {"keys": {"x": "1/resol^2", "value": ["Mn(I(1))", "Mn(I(2))", "Mn(I(3))", "Mn(I)"]}, "json": [{"name": "", "1/resol^2": 0.0182, "Mn(I(1))": 5065.73, "Mn(I(3))": 2889.47, "Mn(I(2))": 5065.73, "Mn(I)": 4626.0}, {"name": "", "1/resol^2": 0.04, "Mn(I(1))": 5561.84, "Mn(I(3))": 3475.13, "Mn(I(2))": 5561.84, "Mn(I)": 4562.72}, {"name": "", "1/resol^2": 0.0573, "Mn(I(1))": 6764.13, "Mn(I(3))": 3780.48, "Mn(I(2))": 6764.13, "Mn(I)": 5510.69}, {"name": "", "1/resol^2": 0.0726, "Mn(I(1))": 4304.22, "Mn(I(3))": 2780.41, "Mn(I(2))": 4304.22, "Mn(I)": 3951.77}, {"name": "", "1/resol^2": 0.0864, "Mn(I(1))": 3090.89, "Mn(I(3))": 1651.91, "Mn(I(2))": 3090.89, "Mn(I)": 2842.04}, {"name": "", "1/resol^2": 0.0994, "Mn(I(1))": 2421.9, "Mn(I(3))": 1079.48, "Mn(I(2))": 2421.9, "Mn(I)": 1892.67}, {"name": "", "1/resol^2": 0.1115, "Mn(I(1))": 1641.45, "Mn(I(3))": 1035.0, "Mn(I(2))": 1641.45, "Mn(I)": 1385.33}, {"name": "", "1/resol^2": 0.1231, "Mn(I(1))": 1155.17, "Mn(I(3))": 613.61, "Mn(I(2))": 1155.17, "Mn(I)": 988.33}, {"name": "", "1/resol^2": 0.1342, "Mn(I(1))": 843.41, "Mn(I(3))": 426.33, "Mn(I(2))": 843.41, "Mn(I)": 662.87}, {"name": "", "1/resol^2": 0.1448, "Mn(I(1))": 726.22, "Mn(I(3))": 340.04, "Mn(I(2))": 726.22, "Mn(I)": 583.65}, {"name": "", "1/resol^2": 0.1552, "Mn(I(1))": 736.47, "Mn(I(3))": 302.71, "Mn(I(2))": 736.47, "Mn(I)": 552.4}, {"name": "", "1/resol^2": 0.1652, "Mn(I(1))": 631.15, "Mn(I(3))": 275.69, "Mn(I(2))": 631.15, "Mn(I)": 467.58}, {"name": "", "1/resol^2": 0.175, "Mn(I(1))": 622.23, "Mn(I(3))": 211.57, "Mn(I(2))": 622.23, "Mn(I)": 385.82}, {"name": "", "1/resol^2": 0.1844, "Mn(I(1))": 433.72, "Mn(I(3))": 158.19, "Mn(I(2))": 433.72, "Mn(I)": 336.55}, {"name": "", "1/resol^2": 0.1937, "Mn(I(1))": 391.65, "Mn(I(3))": 182.12, "Mn(I(2))": 391.65, "Mn(I)": 311.48}, {"name": "", "1/resol^2": 0.2027, "Mn(I(1))": 407.58, "Mn(I(3))": 144.94, "Mn(I(2))": 407.58, "Mn(I)": 280.58}, {"name": "", "1/resol^2": 0.2116, "Mn(I(1))": 316.56, "Mn(I(3))": 168.14, "Mn(I(2))": 316.56, "Mn(I)": 243.66}, {"name": "", "1/resol^2": 0.2203, "Mn(I(1))": 274.83, "Mn(I(3))": 145.17, "Mn(I(2))": 274.83, "Mn(I)": 220.04}, {"name": "", "1/resol^2": 0.2289, "Mn(I(1))": 225.95, "Mn(I(3))": 127.38, "Mn(I(2))": 225.95, "Mn(I)": 185.75}, {"name": "", "1/resol^2": 0.2373, "Mn(I(1))": 174.15, "Mn(I(3))": 105.18, "Mn(I(2))": 174.15, "Mn(I)": 160.71}, {"name": "", "1/resol^2": 0.2455, "Mn(I(1))": 167.87, "Mn(I(3))": 98.62, "Mn(I(2))": 167.87, "Mn(I)": 141.96}, {"name": "", "1/resol^2": 0.2537, "Mn(I(1))": 145.71, "Mn(I(3))": 88.94, "Mn(I(2))": 145.71, "Mn(I)": 116.49}, {"name": "", "1/resol^2": 0.2617, "Mn(I(1))": 131.47, "Mn(I(3))": 68.6, "Mn(I(2))": 131.47, "Mn(I)": 99.32}, {"name": "", "1/resol^2": 0.2695, "Mn(I(1))": 100.67, "Mn(I(3))": 62.79, "Mn(I(2))": 100.67, "Mn(I)": 85.67}, {"name": "", "1/resol^2": 0.2773, "Mn(I(1))": 84.52, "Mn(I(3))": 49.72, "Mn(I(2))": 84.52, "Mn(I)": 73.59}, {"name": "", "1/resol^2": 0.2849, "Mn(I(1))": 70.36, "Mn(I(3))": 44.46, "Mn(I(2))": 70.36, "Mn(I)": 60.63}, {"name": "", "1/resol^2": 0.2926, "Mn(I(1))": 53.89, "Mn(I(3))": 29.53, "Mn(I(2))": 53.89, "Mn(I)": 48.11}, {"name": "", "1/resol^2": 0.3, "Mn(I(1))": 47.96, "Mn(I(3))": 26.81, "Mn(I(2))": 47.96, "Mn(I)": 38.5}, {"name": "", "1/resol^2": 0.3075, "Mn(I(1))": 40.81, "Mn(I(3))": 22.18, "Mn(I(2))": 40.81, "Mn(I)": 33.96}, {"name": "", "1/resol^2": 0.3148, "Mn(I(1))": 37.4, "Mn(I(3))": 20.85, "Mn(I(2))": 37.4, "Mn(I)": 29.9}, {"name": "", "1/resol^2": 0.3221, "Mn(I(1))": 25.76, "Mn(I(3))": 14.5, "Mn(I(2))": 25.76, "Mn(I)": 23.51}, {"name": "", "1/resol^2": 0.3292, "Mn(I(1))": 23.67, "Mn(I(3))": 13.92, "Mn(I(2))": 23.67, "Mn(I)": 20.65}, {"name": "", "1/resol^2": 0.3363, "Mn(I(1))": 21.48, "Mn(I(3))": 10.19, "Mn(I(2))": 21.48, "Mn(I)": 18.65}, {"name": "", "1/resol^2": 0.3433, "Mn(I(1))": 17.46, "Mn(I(3))": 10.95, "Mn(I(2))": 17.46, "Mn(I)": 15.94}, {"name": "", "1/resol^2": 0.3503, "Mn(I(1))": 16.07, "Mn(I(3))": 9.9, "Mn(I(2))": 16.07, "Mn(I)": 14.28}, {"name": "", "1/resol^2": 0.3572, "Mn(I(1))": 13.85, "Mn(I(3))": 9.09, "Mn(I(2))": 13.85, "Mn(I)": 13.13}, {"name": "", "1/resol^2": 0.3639, "Mn(I(1))": 14.43, "Mn(I(3))": 8.11, "Mn(I(2))": 14.43, "Mn(I)": 11.93}]},
+    axis:
+    {
+      x: {
+        label: {
+          text: 'Resolution (Å)',
+          position: 'outer-center'
+        },
+        tick: {
+          format: function (x) { return (1/Math.sqrt(x)).toFixed(2); }
+        }
+
+      }
+    }
+,
+    legend: {
+      position: 'right'
+    },
+});
+
+</script><!--Div that will hold the chart-->
+<div>
+  <p>Cumulative intensity distribution (Acentric and centric)</p>
+  <div class="graph" id="chart_CumulativeintensitydistributionAcentricandcentric"></div>
+</div>
+
+<script type="text/javascript">
+
+var chart_CumulativeintensitydistributionAcentricandcentric = c3.generate({
+    bindto: '#chart_CumulativeintensitydistributionAcentricandcentric',
+    data: {"keys": {"x": "Z", "value": ["Acent theor", "Acent twin", "Acent obser", "Cent theor", "Cent obser"]}, "json": [{"Cent obser": 0.06943, "name": "", "Cent theor": 0.0, "Acent twin": 0.0, "Acent theor": 0.0, "Acent obser": 0.03962, "Z": 0.0}, {"Cent obser": 0.15217, "name": "", "Cent theor": 0.15852, "Acent twin": 0.00303, "Acent theor": 0.03921, "Acent obser": 0.06333, "Z": 0.04}, {"Cent obser": 0.20707, "name": "", "Cent theor": 0.2227, "Acent twin": 0.01151, "Acent theor": 0.07688, "Acent obser": 0.09436, "Z": 0.08}, {"Cent obser": 0.25428, "name": "", "Cent theor": 0.27097, "Acent twin": 0.02458, "Acent theor": 0.11308, "Acent obser": 0.12739, "Z": 0.12}, {"Cent obser": 0.29387, "name": "", "Cent theor": 0.31084, "Acent twin": 0.04148, "Acent theor": 0.14786, "Acent obser": 0.15935, "Z": 0.16}, {"Cent obser": 0.32412, "name": "", "Cent theor": 0.34528, "Acent twin": 0.06155, "Acent theor": 0.18127, "Acent obser": 0.1903, "Z": 0.2}, {"Cent obser": 0.35389, "name": "", "Cent theor": 0.37579, "Acent twin": 0.0842, "Acent theor": 0.21337, "Acent obser": 0.22083, "Z": 0.24}, {"Cent obser": 0.38348, "name": "", "Cent theor": 0.4033, "Acent twin": 0.10891, "Acent theor": 0.24422, "Acent obser": 0.25064, "Z": 0.28}, {"Cent obser": 0.40895, "name": "", "Cent theor": 0.42839, "Acent twin": 0.13524, "Acent theor": 0.27385, "Acent obser": 0.2789, "Z": 0.32}, {"Cent obser": 0.43382, "name": "", "Cent theor": 0.45149, "Acent twin": 0.16279, "Acent theor": 0.30232, "Acent obser": 0.30618, "Z": 0.36}, {"Cent obser": 0.45358, "name": "", "Cent theor": 0.47291, "Acent twin": 0.19121, "Acent theor": 0.32968, "Acent obser": 0.33297, "Z": 0.4}, {"Cent obser": 0.47702, "name": "", "Cent theor": 0.49288, "Acent twin": 0.22021, "Acent theor": 0.35596, "Acent obser": 0.35863, "Z": 0.44}, {"Cent obser": 0.4977, "name": "", "Cent theor": 0.51158, "Acent twin": 0.24953, "Acent theor": 0.38122, "Acent obser": 0.38292, "Z": 0.48}, {"Cent obser": 0.5137, "name": "", "Cent theor": 0.52916, "Acent twin": 0.27895, "Acent theor": 0.40548, "Acent obser": 0.40615, "Z": 0.52}, {"Cent obser": 0.53135, "name": "", "Cent theor": 0.54574, "Acent twin": 0.30829, "Acent theor": 0.42879, "Acent obser": 0.42772, "Z": 0.56}, {"Cent obser": 0.54724, "name": "", "Cent theor": 0.56142, "Acent twin": 0.33737, "Acent theor": 0.45119, "Acent obser": 0.44998, "Z": 0.6}, {"Cent obser": 0.56409, "name": "", "Cent theor": 0.57629, "Acent twin": 0.36607, "Acent theor": 0.47271, "Acent obser": 0.47052, "Z": 0.64}, {"Cent obser": 0.57876, "name": "", "Cent theor": 0.59041, "Acent twin": 0.39428, "Acent theor": 0.49338, "Acent obser": 0.49065, "Z": 0.68}, {"Cent obser": 0.59302, "name": "", "Cent theor": 0.60386, "Acent twin": 0.4219, "Acent theor": 0.51325, "Acent obser": 0.51053, "Z": 0.72}, {"Cent obser": 0.60944, "name": "", "Cent theor": 0.61667, "Acent twin": 0.44885, "Acent theor": 0.53233, "Acent obser": 0.52947, "Z": 0.76}, {"Cent obser": 0.6212, "name": "", "Cent theor": 0.62891, "Acent twin": 0.47507, "Acent theor": 0.55067, "Acent obser": 0.54752, "Z": 0.8}, {"Cent obser": 0.6326, "name": "", "Cent theor": 0.6406, "Acent twin": 0.50052, "Acent theor": 0.56829, "Acent obser": 0.56542, "Z": 0.84}, {"Cent obser": 0.64574, "name": "", "Cent theor": 0.6518, "Acent twin": 0.52516, "Acent theor": 0.58522, "Acent obser": 0.58253, "Z": 0.88}, {"Cent obser": 0.65607, "name": "", "Cent theor": 0.66253, "Acent twin": 0.54896, "Acent theor": 0.60148, "Acent obser": 0.59854, "Z": 0.92}, {"Cent obser": 0.66535, "name": "", "Cent theor": 0.67281, "Acent twin": 0.57191, "Acent theor": 0.61711, "Acent obser": 0.61421, "Z": 0.96}, {"Cent obser": 0.67497, "name": "", "Cent theor": 0.68269, "Acent twin": 0.59399, "Acent theor": 0.63212, "Acent obser": 0.62921, "Z": 1.0}, {"Cent obser": 0.68392, "name": "", "Cent theor": 0.69218, "Acent twin": 0.61521, "Acent theor": 0.64655, "Acent obser": 0.64258, "Z": 1.04}, {"Cent obser": 0.6919, "name": "", "Cent theor": 0.7013, "Acent twin": 0.63557, "Acent theor": 0.6604, "Acent obser": 0.65581, "Z": 1.08}, {"Cent obser": 0.70215, "name": "", "Cent theor": 0.71008, "Acent twin": 0.65507, "Acent theor": 0.67372, "Acent obser": 0.66997, "Z": 1.12}, {"Cent obser": 0.71005, "name": "", "Cent theor": 0.71853, "Acent twin": 0.67373, "Acent theor": 0.68651, "Acent obser": 0.68248, "Z": 1.16}, {"Cent obser": 0.71867, "name": "", "Cent theor": 0.72668, "Acent twin": 0.69156, "Acent theor": 0.69881, "Acent obser": 0.69425, "Z": 1.2}, {"Cent obser": 0.72665, "name": "", "Cent theor": 0.73453, "Acent twin": 0.70857, "Acent theor": 0.71062, "Acent obser": 0.70545, "Z": 1.24}, {"Cent obser": 0.73402, "name": "", "Cent theor": 0.7421, "Acent twin": 0.7248, "Acent theor": 0.72196, "Acent obser": 0.71734, "Z": 1.28}, {"Cent obser": 0.74065, "name": "", "Cent theor": 0.74941, "Acent twin": 0.74025, "Acent theor": 0.73286, "Acent obser": 0.72733, "Z": 1.32}, {"Cent obser": 0.74744, "name": "", "Cent theor": 0.75646, "Acent twin": 0.75495, "Acent theor": 0.74334, "Acent obser": 0.73789, "Z": 1.36}, {"Cent obser": 0.75302, "name": "", "Cent theor": 0.76328, "Acent twin": 0.76892, "Acent theor": 0.7534, "Acent obser": 0.74757, "Z": 1.4}, {"Cent obser": 0.7611, "name": "", "Cent theor": 0.76986, "Acent twin": 0.7822, "Acent theor": 0.76307, "Acent obser": 0.75683, "Z": 1.44}, {"Cent obser": 0.76822, "name": "", "Cent theor": 0.77623, "Acent twin": 0.7948, "Acent theor": 0.77236, "Acent obser": 0.76596, "Z": 1.48}, {"Cent obser": 0.77361, "name": "", "Cent theor": 0.78238, "Acent twin": 0.80675, "Acent theor": 0.78129, "Acent obser": 0.77489, "Z": 1.52}, {"Cent obser": 0.77988, "name": "", "Cent theor": 0.78833, "Acent twin": 0.81807, "Acent theor": 0.78986, "Acent obser": 0.78345, "Z": 1.56}, {"Cent obser": 0.78771, "name": "", "Cent theor": 0.7941, "Acent twin": 0.8288, "Acent theor": 0.7981, "Acent obser": 0.79223, "Z": 1.6}, {"Cent obser": 0.79267, "name": "", "Cent theor": 0.79967, "Acent twin": 0.83895, "Acent theor": 0.80602, "Acent obser": 0.80114, "Z": 1.64}, {"Cent obser": 0.7992, "name": "", "Cent theor": 0.80508, "Acent twin": 0.84855, "Acent theor": 0.81363, "Acent obser": 0.80909, "Z": 1.68}, {"Cent obser": 0.803, "name": "", "Cent theor": 0.81031, "Acent twin": 0.85763, "Acent theor": 0.82093, "Acent obser": 0.81653, "Z": 1.72}, {"Cent obser": 0.80754, "name": "", "Cent theor": 0.81538, "Acent twin": 0.86621, "Acent theor": 0.82796, "Acent obser": 0.82365, "Z": 1.76}, {"Cent obser": 0.81295, "name": "", "Cent theor": 0.82029, "Acent twin": 0.87431, "Acent theor": 0.8347, "Acent obser": 0.83095, "Z": 1.8}, {"Cent obser": 0.81747, "name": "", "Cent theor": 0.82505, "Acent twin": 0.88196, "Acent theor": 0.84118, "Acent obser": 0.838, "Z": 1.84}, {"Cent obser": 0.82165, "name": "", "Cent theor": 0.82967, "Acent twin": 0.88917, "Acent theor": 0.84741, "Acent obser": 0.84399, "Z": 1.88}, {"Cent obser": 0.82672, "name": "", "Cent theor": 0.83414, "Acent twin": 0.89597, "Acent theor": 0.85339, "Acent obser": 0.84999, "Z": 1.92}, {"Cent obser": 0.83188, "name": "", "Cent theor": 0.83849, "Acent twin": 0.90238, "Acent theor": 0.85914, "Acent obser": 0.85609, "Z": 1.96}, {"Cent obser": 0.83906, "name": "", "Cent theor": 0.8427, "Acent twin": 0.90842, "Acent theor": 0.86466, "Acent obser": 0.86194, "Z": 2.0}]},
+    axis:
+    {
+      x: {
+        label: {
+          text: 'Z',
+          position: 'outer-center'
+        },
+
+      }
+    }
+,
+    legend: {
+      position: 'right'
+    },
+});
+
+</script><!--Div that will hold the chart-->
+<div>
+  <p>cumulative distribution function for |L|, twin fraction of 0.03</p>
+  <div class="graph" id="chart_cumulativedistributionfunctionforLtwinfractionof"></div>
+</div>
+
+<script type="text/javascript">
+
+var chart_cumulativedistributionfunctionforLtwinfractionof = c3.generate({
+    bindto: '#chart_cumulativedistributionfunctionforLtwinfractionof',
+    data: {"keys": {"x": "|L|", "value": ["N(L)", "Untwinned", "Twinned"]}, "json": [{"Twinned": 0.0, "N(L)": 0.0, "name": "", "Untwinned": 0.0, "|L|": 0.0}, {"Twinned": 0.0749, "N(L)": 0.0518, "name": "", "Untwinned": 0.05, "|L|": 0.05}, {"Twinned": 0.1495, "N(L)": 0.1012, "name": "", "Untwinned": 0.1, "|L|": 0.1}, {"Twinned": 0.2233, "N(L)": 0.1507, "name": "", "Untwinned": 0.15, "|L|": 0.15}, {"Twinned": 0.296, "N(L)": 0.2004, "name": "", "Untwinned": 0.2, "|L|": 0.2}, {"Twinned": 0.3672, "N(L)": 0.2496, "name": "", "Untwinned": 0.25, "|L|": 0.25}, {"Twinned": 0.4365, "N(L)": 0.2997, "name": "", "Untwinned": 0.3, "|L|": 0.3}, {"Twinned": 0.5036, "N(L)": 0.3489, "name": "", "Untwinned": 0.35, "|L|": 0.35}, {"Twinned": 0.568, "N(L)": 0.3985, "name": "", "Untwinned": 0.4, "|L|": 0.4}, {"Twinned": 0.6294, "N(L)": 0.4483, "name": "", "Untwinned": 0.45, "|L|": 0.45}, {"Twinned": 0.6875, "N(L)": 0.4986, "name": "", "Untwinned": 0.5, "|L|": 0.5}, {"Twinned": 0.7418, "N(L)": 0.5484, "name": "", "Untwinned": 0.55, "|L|": 0.55}, {"Twinned": 0.792, "N(L)": 0.5991, "name": "", "Untwinned": 0.6, "|L|": 0.6}, {"Twinned": 0.8377, "N(L)": 0.6496, "name": "", "Untwinned": 0.65, "|L|": 0.65}, {"Twinned": 0.8785, "N(L)": 0.7001, "name": "", "Untwinned": 0.7, "|L|": 0.7}, {"Twinned": 0.9141, "N(L)": 0.751, "name": "", "Untwinned": 0.75, "|L|": 0.75}, {"Twinned": 0.944, "N(L)": 0.8027, "name": "", "Untwinned": 0.8, "|L|": 0.8}, {"Twinned": 0.9679, "N(L)": 0.8552, "name": "", "Untwinned": 0.85, "|L|": 0.85}, {"Twinned": 0.9855, "N(L)": 0.907, "name": "", "Untwinned": 0.9, "|L|": 0.9}, {"Twinned": 0.9963, "N(L)": 0.9594, "name": "", "Untwinned": 0.95, "|L|": 0.95}, {"Twinned": 1.0, "N(L)": 1.0, "name": "", "Untwinned": 1.0, "|L|": 1.0}]},
+    axis:
+    {
+      x: {
+        label: {
+          text: '|L|',
+          position: 'outer-center'
+        },
+
+      }
+    }
+,
+    legend: {
+      position: 'right'
+    },
+});
+
+</script><!--Div that will hold the chart-->
+<div>
+  <p>3rd &amp; 4th Moments of I (Expected values = 6, 24, Perfect twin = 3, 7.5)</p>
+  <div class="graph" id="chart_rdthMomentsofIExpectedvaluesPerfecttwin"></div>
+</div>
+
+<script type="text/javascript">
+
+var chart_rdthMomentsofIExpectedvaluesPerfecttwin = c3.generate({
+    bindto: '#chart_rdthMomentsofIExpectedvaluesPerfecttwin',
+    data: {"keys": {"x": "1/resol^2", "value": ["<I**3>", "<I**4>"]}, "json": [{"<I**4>": 62.162, "<I**3>": 10.661, "name": "", "1/resol^2": 0.016291}, {"<I**4>": 26.916, "<I**3>": 6.616, "name": "", "1/resol^2": 0.033142}, {"<I**4>": 19.774, "<I**3>": 5.521, "name": "", "1/resol^2": 0.045544}, {"<I**4>": 24.089, "<I**3>": 6.194, "name": "", "1/resol^2": 0.056205}, {"<I**4>": 20.54, "<I**3>": 5.736, "name": "", "1/resol^2": 0.065881}, {"<I**4>": 33.17, "<I**3>": 6.46, "name": "", "1/resol^2": 0.074806}, {"<I**4>": 28.242, "<I**3>": 6.068, "name": "", "1/resol^2": 0.083162}, {"<I**4>": 29.614, "<I**3>": 6.893, "name": "", "1/resol^2": 0.09109}, {"<I**4>": 20.81, "<I**3>": 5.532, "name": "", "1/resol^2": 0.098675}, {"<I**4>": 17.168, "<I**3>": 5.197, "name": "", "1/resol^2": 0.10591}, {"<I**4>": 30.038, "<I**3>": 6.704, "name": "", "1/resol^2": 0.112925}, {"<I**4>": 25.407, "<I**3>": 6.265, "name": "", "1/resol^2": 0.119673}, {"<I**4>": 25.011, "<I**3>": 6.169, "name": "", "1/resol^2": 0.126232}, {"<I**4>": 20.511, "<I**3>": 5.914, "name": "", "1/resol^2": 0.132624}, {"<I**4>": 25.078, "<I**3>": 6.244, "name": "", "1/resol^2": 0.138857}, {"<I**4>": 22.085, "<I**3>": 5.855, "name": "", "1/resol^2": 0.144929}, {"<I**4>": 32.566, "<I**3>": 7.496, "name": "", "1/resol^2": 0.150831}, {"<I**4>": 30.511, "<I**3>": 7.041, "name": "", "1/resol^2": 0.156658}, {"<I**4>": 28.375, "<I**3>": 7.048, "name": "", "1/resol^2": 0.16234}, {"<I**4>": 30.226, "<I**3>": 7.151, "name": "", "1/resol^2": 0.167967}, {"<I**4>": 34.609, "<I**3>": 7.84, "name": "", "1/resol^2": 0.173415}, {"<I**4>": 28.579, "<I**3>": 6.938, "name": "", "1/resol^2": 0.178804}, {"<I**4>": 28.481, "<I**3>": 6.698, "name": "", "1/resol^2": 0.184151}, {"<I**4>": 21.744, "<I**3>": 5.824, "name": "", "1/resol^2": 0.189394}, {"<I**4>": 17.066, "<I**3>": 5.242, "name": "", "1/resol^2": 0.19451}, {"<I**4>": 26.629, "<I**3>": 6.841, "name": "", "1/resol^2": 0.199657}, {"<I**4>": 25.855, "<I**3>": 6.416, "name": "", "1/resol^2": 0.204622}, {"<I**4>": 53.241, "<I**3>": 8.833, "name": "", "1/resol^2": 0.209602}, {"<I**4>": 25.669, "<I**3>": 6.499, "name": "", "1/resol^2": 0.214538}, {"<I**4>": 20.926, "<I**3>": 5.566, "name": "", "1/resol^2": 0.219379}, {"<I**4>": 27.054, "<I**3>": 6.656, "name": "", "1/resol^2": 0.224166}, {"<I**4>": 18.75, "<I**3>": 5.393, "name": "", "1/resol^2": 0.228869}, {"<I**4>": 27.596, "<I**3>": 6.665, "name": "", "1/resol^2": 0.233556}, {"<I**4>": 19.996, "<I**3>": 5.466, "name": "", "1/resol^2": 0.23822}, {"<I**4>": 25.688, "<I**3>": 6.488, "name": "", "1/resol^2": 0.242729}, {"<I**4>": 28.424, "<I**3>": 6.72, "name": "", "1/resol^2": 0.247311}, {"<I**4>": 21.111, "<I**3>": 5.852, "name": "", "1/resol^2": 0.251827}, {"<I**4>": 21.58, "<I**3>": 5.532, "name": "", "1/resol^2": 0.256247}, {"<I**4>": 29.239, "<I**3>": 6.733, "name": "", "1/resol^2": 0.26063}, {"<I**4>": 21.0, "<I**3>": 5.663, "name": "", "1/resol^2": 0.265064}, {"<I**4>": 24.218, "<I**3>": 6.065, "name": "", "1/resol^2": 0.269317}, {"<I**4>": 18.555, "<I**3>": 5.18, "name": "", "1/resol^2": 0.273597}, {"<I**4>": 19.043, "<I**3>": 5.349, "name": "", "1/resol^2": 0.278001}, {"<I**4>": 16.738, "<I**3>": 5.104, "name": "", "1/resol^2": 0.282131}, {"<I**4>": 21.521, "<I**3>": 5.821, "name": "", "1/resol^2": 0.286339}, {"<I**4>": 31.882, "<I**3>": 6.845, "name": "", "1/resol^2": 0.290548}, {"<I**4>": 13.755, "<I**3>": 4.723, "name": "", "1/resol^2": 0.294678}, {"<I**4>": 21.762, "<I**3>": 5.641, "name": "", "1/resol^2": 0.298746}, {"<I**4>": 23.263, "<I**3>": 5.652, "name": "", "1/resol^2": 0.302852}, {"<I**4>": 39.743, "<I**3>": 7.879, "name": "", "1/resol^2": 0.306982}, {"<I**4>": 17.752, "<I**3>": 5.041, "name": "", "1/resol^2": 0.310966}, {"<I**4>": 21.32, "<I**3>": 5.689, "name": "", "1/resol^2": 0.314901}, {"<I**4>": 20.584, "<I**3>": 5.729, "name": "", "1/resol^2": 0.318951}, {"<I**4>": 31.905, "<I**3>": 7.09, "name": "", "1/resol^2": 0.322925}, {"<I**4>": 25.445, "<I**3>": 6.454, "name": "", "1/resol^2": 0.326763}, {"<I**4>": 36.955, "<I**3>": 6.989, "name": "", "1/resol^2": 0.330707}, {"<I**4>": 19.125, "<I**3>": 5.592, "name": "", "1/resol^2": 0.334566}, {"<I**4>": 18.839, "<I**3>": 5.478, "name": "", "1/resol^2": 0.338505}, {"<I**4>": 30.069, "<I**3>": 6.772, "name": "", "1/resol^2": 0.342302}, {"<I**4>": 31.995, "<I**3>": 7.391, "name": "", "1/resol^2": 0.346135}, {"<I**4>": 38.197, "<I**3>": 8.402, "name": "", "1/resol^2": 0.34997}, {"<I**4>": 29.976, "<I**3>": 7.616, "name": "", "1/resol^2": 0.353861}, {"<I**4>": 51.319, "<I**3>": 9.701, "name": "", "1/resol^2": 0.357635}, {"<I**4>": 41.72, "<I**3>": 9.374, "name": "", "1/resol^2": 0.361429}, {"<I**4>": 41.278, "<I**3>": 9.216, "name": "", "1/resol^2": 0.365371}]},
+    axis:
+    {
+      x: {
+        label: {
+          text: 'Resolution (Å)',
+          position: 'outer-center'
+        },
+        tick: {
+          format: function (x) { return (1/Math.sqrt(x)).toFixed(2); }
+        }
+
+      }
+    }
+,
+    legend: {
+      position: 'right'
+    },
+});
+
+</script><!--Div that will hold the chart-->
+<div>
+  <p>2nd moment of I 2.073 (Expected value = 2, Perfect Twin = 1.5)</p>
+  <div class="graph" id="chart_ndmomentofIExpectedvaluePerfectTwin"></div>
+</div>
+
+<script type="text/javascript">
+
+var chart_ndmomentofIExpectedvaluePerfectTwin = c3.generate({
+    bindto: '#chart_ndmomentofIExpectedvaluePerfectTwin',
+    data: {"keys": {"x": "1/resol^2", "value": ["<I**2>"]}, "json": [{"name": "", "1/resol^2": 0.016291, "<I**2>": 2.48}, {"name": "", "1/resol^2": 0.033142, "<I**2>": 2.087}, {"name": "", "1/resol^2": 0.045544, "<I**2>": 1.953}, {"name": "", "1/resol^2": 0.056205, "<I**2>": 2.03}, {"name": "", "1/resol^2": 0.065881, "<I**2>": 1.995}, {"name": "", "1/resol^2": 0.074806, "<I**2>": 1.968}, {"name": "", "1/resol^2": 0.083162, "<I**2>": 1.957}, {"name": "", "1/resol^2": 0.09109, "<I**2>": 2.095}, {"name": "", "1/resol^2": 0.098675, "<I**2>": 1.942}, {"name": "", "1/resol^2": 0.10591, "<I**2>": 1.931}, {"name": "", "1/resol^2": 0.112925, "<I**2>": 2.084}, {"name": "", "1/resol^2": 0.119673, "<I**2>": 2.03}, {"name": "", "1/resol^2": 0.126232, "<I**2>": 2.011}, {"name": "", "1/resol^2": 0.132624, "<I**2>": 2.051}, {"name": "", "1/resol^2": 0.138857, "<I**2>": 2.048}, {"name": "", "1/resol^2": 0.144929, "<I**2>": 2.0}, {"name": "", "1/resol^2": 0.150831, "<I**2>": 2.213}, {"name": "", "1/resol^2": 0.156658, "<I**2>": 2.149}, {"name": "", "1/resol^2": 0.16234, "<I**2>": 2.169}, {"name": "", "1/resol^2": 0.167967, "<I**2>": 2.162}, {"name": "", "1/resol^2": 0.173415, "<I**2>": 2.255}, {"name": "", "1/resol^2": 0.178804, "<I**2>": 2.14}, {"name": "", "1/resol^2": 0.184151, "<I**2>": 2.092}, {"name": "", "1/resol^2": 0.189394, "<I**2>": 1.99}, {"name": "", "1/resol^2": 0.19451, "<I**2>": 1.943}, {"name": "", "1/resol^2": 0.199657, "<I**2>": 2.163}, {"name": "", "1/resol^2": 0.204622, "<I**2>": 2.057}, {"name": "", "1/resol^2": 0.209602, "<I**2>": 2.247}, {"name": "", "1/resol^2": 0.214538, "<I**2>": 2.08}, {"name": "", "1/resol^2": 0.219379, "<I**2>": 1.934}, {"name": "", "1/resol^2": 0.224166, "<I**2>": 2.102}, {"name": "", "1/resol^2": 0.228869, "<I**2>": 1.938}, {"name": "", "1/resol^2": 0.233556, "<I**2>": 2.1}, {"name": "", "1/resol^2": 0.23822, "<I**2>": 1.925}, {"name": "", "1/resol^2": 0.242729, "<I**2>": 2.072}, {"name": "", "1/resol^2": 0.247311, "<I**2>": 2.085}, {"name": "", "1/resol^2": 0.251827, "<I**2>": 2.014}, {"name": "", "1/resol^2": 0.256247, "<I**2>": 1.915}, {"name": "", "1/resol^2": 0.26063, "<I**2>": 2.059}, {"name": "", "1/resol^2": 0.265064, "<I**2>": 1.953}, {"name": "", "1/resol^2": 0.269317, "<I**2>": 2.014}, {"name": "", "1/resol^2": 0.273597, "<I**2>": 1.887}, {"name": "", "1/resol^2": 0.278001, "<I**2>": 1.92}, {"name": "", "1/resol^2": 0.282131, "<I**2>": 1.923}, {"name": "", "1/resol^2": 0.286339, "<I**2>": 2.015}, {"name": "", "1/resol^2": 0.290548, "<I**2>": 2.087}, {"name": "", "1/resol^2": 0.294678, "<I**2>": 1.887}, {"name": "", "1/resol^2": 0.298746, "<I**2>": 1.982}, {"name": "", "1/resol^2": 0.302852, "<I**2>": 1.917}, {"name": "", "1/resol^2": 0.306982, "<I**2>": 2.21}, {"name": "", "1/resol^2": 0.310966, "<I**2>": 1.899}, {"name": "", "1/resol^2": 0.314901, "<I**2>": 1.987}, {"name": "", "1/resol^2": 0.318951, "<I**2>": 2.037}, {"name": "", "1/resol^2": 0.322925, "<I**2>": 2.15}, {"name": "", "1/resol^2": 0.326763, "<I**2>": 2.111}, {"name": "", "1/resol^2": 0.330707, "<I**2>": 2.093}, {"name": "", "1/resol^2": 0.334566, "<I**2>": 2.031}, {"name": "", "1/resol^2": 0.338505, "<I**2>": 2.021}, {"name": "", "1/resol^2": 0.342302, "<I**2>": 2.159}, {"name": "", "1/resol^2": 0.346135, "<I**2>": 2.273}, {"name": "", "1/resol^2": 0.34997, "<I**2>": 2.414}, {"name": "", "1/resol^2": 0.353861, "<I**2>": 2.417}, {"name": "", "1/resol^2": 0.357635, "<I**2>": 2.58}, {"name": "", "1/resol^2": 0.361429, "<I**2>": 2.67}, {"name": "", "1/resol^2": 0.365371, "<I**2>": 2.698}]},
+    axis:
+    {
+      x: {
+        label: {
+          text: 'Resolution (Å)',
+          position: 'outer-center'
+        },
+        tick: {
+          format: function (x) { return (1/Math.sqrt(x)).toFixed(2); }
+        }
+
+      }
+    }
+,
+    legend: {
+      position: 'right'
+    },
+});
+
+</script><!--Div that will hold the chart-->
+<div>
+  <p>2nd moment of I 2.993 (Expected = 3, Perfect Twin = 2)</p>
+  <div class="graph" id="chart_ndmomentofIExpectedPerfectTwin"></div>
+</div>
+
+<script type="text/javascript">
+
+var chart_ndmomentofIExpectedPerfectTwin = c3.generate({
+    bindto: '#chart_ndmomentofIExpectedPerfectTwin',
+    data: {"keys": {"x": "1/resol^2", "value": ["<I**2>"]}, "json": [{"name": "", "1/resol^2": 0.009323, "<I**2>": 2.65}, {"name": "", "1/resol^2": 0.025695, "<I**2>": 2.599}, {"name": "", "1/resol^2": 0.041921, "<I**2>": 2.834}, {"name": "", "1/resol^2": 0.058278, "<I**2>": 3.027}, {"name": "", "1/resol^2": 0.074401, "<I**2>": 3.104}, {"name": "", "1/resol^2": 0.090614, "<I**2>": 3.647}, {"name": "", "1/resol^2": 0.106857, "<I**2>": 2.744}, {"name": "", "1/resol^2": 0.123205, "<I**2>": 2.968}, {"name": "", "1/resol^2": 0.139401, "<I**2>": 2.904}, {"name": "", "1/resol^2": 0.155534, "<I**2>": 3.046}, {"name": "", "1/resol^2": 0.171755, "<I**2>": 2.968}, {"name": "", "1/resol^2": 0.188008, "<I**2>": 3.073}, {"name": "", "1/resol^2": 0.204468, "<I**2>": 3.016}, {"name": "", "1/resol^2": 0.220794, "<I**2>": 2.785}, {"name": "", "1/resol^2": 0.237255, "<I**2>": 3.084}, {"name": "", "1/resol^2": 0.253819, "<I**2>": 3.535}, {"name": "", "1/resol^2": 0.270653, "<I**2>": 3.948}, {"name": "", "1/resol^2": 0.287569, "<I**2>": 2.962}, {"name": "", "1/resol^2": 0.30454, "<I**2>": 2.613}, {"name": "", "1/resol^2": 0.32131, "<I**2>": 3.298}, {"name": "", "1/resol^2": 0.33838, "<I**2>": 4.167}, {"name": "", "1/resol^2": 0.356616, "<I**2>": 3.929}]},
+    axis:
+    {
+      x: {
+        label: {
+          text: 'Resolution (Å)',
+          position: 'outer-center'
+        },
+        tick: {
+          format: function (x) { return (1/Math.sqrt(x)).toFixed(2); }
+        }
+
+      }
+    }
+,
+    legend: {
+      position: 'right'
+    },
+});
+
+</script><!--Div that will hold the chart-->
+<div>
+  <p>3rd &amp; 4th Moments of I (Expected = 15, 105, Perfect Twin = 6, 24)</p>
+  <div class="graph" id="chart_rdthMomentsofIExpectedPerfectTwin"></div>
+</div>
+
+<script type="text/javascript">
+
+var chart_rdthMomentsofIExpectedPerfectTwin = c3.generate({
+    bindto: '#chart_rdthMomentsofIExpectedPerfectTwin',
+    data: {"keys": {"x": "1/resol^2", "value": ["<I**3>", "<I**4>"]}, "json": [{"<I**4>": 45.774, "<I**3>": 10.088, "name": "", "1/resol^2": 0.009323}, {"<I**4>": 66.637, "<I**3>": 11.35, "name": "", "1/resol^2": 0.025695}, {"<I**4>": 59.307, "<I**3>": 11.797, "name": "", "1/resol^2": 0.041921}, {"<I**4>": 82.488, "<I**3>": 14.001, "name": "", "1/resol^2": 0.058278}, {"<I**4>": 108.685, "<I**3>": 16.142, "name": "", "1/resol^2": 0.074401}, {"<I**4>": 302.597, "<I**3>": 27.296, "name": "", "1/resol^2": 0.090614}, {"<I**4>": 60.688, "<I**3>": 11.386, "name": "", "1/resol^2": 0.106857}, {"<I**4>": 76.602, "<I**3>": 13.448, "name": "", "1/resol^2": 0.123205}, {"<I**4>": 76.787, "<I**3>": 13.342, "name": "", "1/resol^2": 0.139401}, {"<I**4>": 105.862, "<I**3>": 15.238, "name": "", "1/resol^2": 0.155534}, {"<I**4>": 83.909, "<I**3>": 14.016, "name": "", "1/resol^2": 0.171755}, {"<I**4>": 83.924, "<I**3>": 14.667, "name": "", "1/resol^2": 0.188008}, {"<I**4>": 64.429, "<I**3>": 12.935, "name": "", "1/resol^2": 0.204468}, {"<I**4>": 74.379, "<I**3>": 12.822, "name": "", "1/resol^2": 0.220794}, {"<I**4>": 89.863, "<I**3>": 14.771, "name": "", "1/resol^2": 0.237255}, {"<I**4>": 174.327, "<I**3>": 21.904, "name": "", "1/resol^2": 0.253819}, {"<I**4>": 343.753, "<I**3>": 31.491, "name": "", "1/resol^2": 0.270653}, {"<I**4>": 72.453, "<I**3>": 13.252, "name": "", "1/resol^2": 0.287569}, {"<I**4>": 65.099, "<I**3>": 11.061, "name": "", "1/resol^2": 0.30454}, {"<I**4>": 117.694, "<I**3>": 17.034, "name": "", "1/resol^2": 0.32131}, {"<I**4>": 503.339, "<I**3>": 36.275, "name": "", "1/resol^2": 0.33838}, {"<I**4>": 156.182, "<I**3>": 21.543, "name": "", "1/resol^2": 0.356616}]},
+    axis:
+    {
+      x: {
+        label: {
+          text: 'Resolution (Å)',
+          position: 'outer-center'
+        },
+        tick: {
+          format: function (x) { return (1/Math.sqrt(x)).toFixed(2); }
+        }
+
+      }
+    }
+,
+    legend: {
+      position: 'right'
+    },
+});
+
+</script><!--Div that will hold the chart-->
+<div>
+  <p>Phil plot - normalised values</p>
+  <div class="graph" id="chart_Philplotnormalisedvalues"></div>
+</div>
+
+<script type="text/javascript">
+
+var chart_Philplotnormalisedvalues = c3.generate({
+    bindto: '#chart_Philplotnormalisedvalues',
+    data: {"keys": {"x": "Value", "value": ["Io/Sigma", "I/Sigma", "F/Sigma**0.5"]}, "json": [{"Io/Sigma": 0.0, "I/Sigma": 0.0, "name": "", "Value": -5.0, "F/Sigma**0.5": 0.0}, {"Io/Sigma": 0.0, "I/Sigma": 0.0, "name": "", "Value": -4.925, "F/Sigma**0.5": 0.0}, {"Io/Sigma": 0.0, "I/Sigma": 0.0, "name": "", "Value": -4.85, "F/Sigma**0.5": 0.0}, {"Io/Sigma": 0.0, "I/Sigma": 0.0, "name": "", "Value": -4.775, "F/Sigma**0.5": 0.0}, {"Io/Sigma": 0.0, "I/Sigma": 0.0, "name": "", "Value": -4.7, "F/Sigma**0.5": 0.0}, {"Io/Sigma": 0.0, "I/Sigma": 0.0, "name": "", "Value": -4.625, "F/Sigma**0.5": 0.0}, {"Io/Sigma": 0.0, "I/Sigma": 0.0, "name": "", "Value": -4.55, "F/Sigma**0.5": 0.0}, {"Io/Sigma": 0.0, "I/Sigma": 0.0, "name": "", "Value": -4.475, "F/Sigma**0.5": 0.0}, {"Io/Sigma": 0.0, "I/Sigma": 0.0, "name": "", "Value": -4.4, "F/Sigma**0.5": 0.0}, {"Io/Sigma": 0.0, "I/Sigma": 0.0, "name": "", "Value": -4.325, "F/Sigma**0.5": 0.0}, {"Io/Sigma": 0.0, "I/Sigma": 0.0, "name": "", "Value": -4.25, "F/Sigma**0.5": 0.0}, {"Io/Sigma": 0.0, "I/Sigma": 0.0, "name": "", "Value": -4.175, "F/Sigma**0.5": 0.0}, {"Io/Sigma": 0.0, "I/Sigma": 0.0, "name": "", "Value": -4.1, "F/Sigma**0.5": 0.0}, {"Io/Sigma": 0.0, "I/Sigma": 0.0, "name": "", "Value": -4.025, "F/Sigma**0.5": 0.0}, {"Io/Sigma": 0.0, "I/Sigma": 0.0, "name": "", "Value": -3.95, "F/Sigma**0.5": 0.0}, {"Io/Sigma": 0.0, "I/Sigma": 0.0, "name": "", "Value": -3.875, "F/Sigma**0.5": 0.0}, {"Io/Sigma": 0.0, "I/Sigma": 0.0, "name": "", "Value": -3.8, "F/Sigma**0.5": 0.0}, {"Io/Sigma": 0.0, "I/Sigma": 0.0, "name": "", "Value": -3.725, "F/Sigma**0.5": 0.0}, {"Io/Sigma": 0.0, "I/Sigma": 0.0, "name": "", "Value": -3.65, "F/Sigma**0.5": 0.0}, {"Io/Sigma": 0.0, "I/Sigma": 0.0, "name": "", "Value": -3.575, "F/Sigma**0.5": 0.0}, {"Io/Sigma": 0.0, "I/Sigma": 0.0, "name": "", "Value": -3.5, "F/Sigma**0.5": 0.0}, {"Io/Sigma": 0.0, "I/Sigma": 0.0, "name": "", "Value": -3.425, "F/Sigma**0.5": 0.0}, {"Io/Sigma": 0.0, "I/Sigma": 0.0, "name": "", "Value": -3.35, "F/Sigma**0.5": 0.0}, {"Io/Sigma": 0.0, "I/Sigma": 0.0, "name": "", "Value": -3.275, "F/Sigma**0.5": 0.0}, {"Io/Sigma": 0.0, "I/Sigma": 0.0, "name": "", "Value": -3.2, "F/Sigma**0.5": 0.0}, {"Io/Sigma": 0.0, "I/Sigma": 0.0, "name": "", "Value": -3.125, "F/Sigma**0.5": 0.0}, {"Io/Sigma": 0.0, "I/Sigma": 0.0, "name": "", "Value": -3.05, "F/Sigma**0.5": 0.0}, {"Io/Sigma": 0.0, "I/Sigma": 0.0, "name": "", "Value": -2.975, "F/Sigma**0.5": 0.0}, {"Io/Sigma": 0.0, "I/Sigma": 0.0, "name": "", "Value": -2.9, "F/Sigma**0.5": 0.0}, {"Io/Sigma": 0.0, "I/Sigma": 0.0, "name": "", "Value": -2.825, "F/Sigma**0.5": 0.0}, {"Io/Sigma": 0.0, "I/Sigma": 0.0, "name": "", "Value": -2.75, "F/Sigma**0.5": 0.0}, {"Io/Sigma": 0.0, "I/Sigma": 0.0, "name": "", "Value": -2.675, "F/Sigma**0.5": 0.0}, {"Io/Sigma": 0.0, "I/Sigma": 0.0, "name": "", "Value": -2.6, "F/Sigma**0.5": 0.0}, {"Io/Sigma": 0.0, "I/Sigma": 0.0, "name": "", "Value": -2.525, "F/Sigma**0.5": 0.0}, {"Io/Sigma": 0.0, "I/Sigma": 0.0, "name": "", "Value": -2.45, "F/Sigma**0.5": 0.0}, {"Io/Sigma": 0.0, "I/Sigma": 0.0, "name": "", "Value": -2.375, "F/Sigma**0.5": 0.0}, {"Io/Sigma": 0.0, "I/Sigma": 0.0, "name": "", "Value": -2.3, "F/Sigma**0.5": 0.0}, {"Io/Sigma": 0.0, "I/Sigma": 0.0, "name": "", "Value": -2.225, "F/Sigma**0.5": 0.0}, {"Io/Sigma": 0.0, "I/Sigma": 0.0, "name": "", "Value": -2.15, "F/Sigma**0.5": 0.0}, {"Io/Sigma": 0.0, "I/Sigma": 0.0, "name": "", "Value": -2.075, "F/Sigma**0.5": 0.0}, {"Io/Sigma": 1.0, "I/Sigma": 0.0, "name": "", "Value": -2.0, "F/Sigma**0.5": 0.0}, {"Io/Sigma": 1.0, "I/Sigma": 0.0, "name": "", "Value": -1.925, "F/Sigma**0.5": 0.0}, {"Io/Sigma": 0.0, "I/Sigma": 0.0, "name": "", "Value": -1.85, "F/Sigma**0.5": 0.0}, {"Io/Sigma": 0.0, "I/Sigma": 0.0, "name": "", "Value": -1.775, "F/Sigma**0.5": 0.0}, {"Io/Sigma": 0.0, "I/Sigma": 0.0, "name": "", "Value": -1.7, "F/Sigma**0.5": 0.0}, {"Io/Sigma": 0.0, "I/Sigma": 0.0, "name": "", "Value": -1.625, "F/Sigma**0.5": 0.0}, {"Io/Sigma": 0.0, "I/Sigma": 0.0, "name": "", "Value": -1.55, "F/Sigma**0.5": 0.0}, {"Io/Sigma": 1.0, "I/Sigma": 0.0, "name": "", "Value": -1.475, "F/Sigma**0.5": 0.0}, {"Io/Sigma": 1.5, "I/Sigma": 0.0, "name": "", "Value": -1.4, "F/Sigma**0.5": 0.0}, {"Io/Sigma": 2.5, "I/Sigma": 0.0, "name": "", "Value": -1.325, "F/Sigma**0.5": 0.0}, {"Io/Sigma": 3.0, "I/Sigma": 0.0, "name": "", "Value": -1.25, "F/Sigma**0.5": 0.0}, {"Io/Sigma": 4.5, "I/Sigma": 0.0, "name": "", "Value": -1.175, "F/Sigma**0.5": 0.0}, {"Io/Sigma": 6.5, "I/Sigma": 0.0, "name": "", "Value": -1.1, "F/Sigma**0.5": 0.0}, {"Io/Sigma": 7.5, "I/Sigma": 0.0, "name": "", "Value": -1.025, "F/Sigma**0.5": 0.0}, {"Io/Sigma": 9.0, "I/Sigma": 0.0, "name": "", "Value": -0.95, "F/Sigma**0.5": 0.0}, {"Io/Sigma": 10.0, "I/Sigma": 0.0, "name": "", "Value": -0.875, "F/Sigma**0.5": 0.0}, {"Io/Sigma": 13.5, "I/Sigma": 0.0, "name": "", "Value": -0.8, "F/Sigma**0.5": 0.0}, {"Io/Sigma": 21.0, "I/Sigma": 0.0, "name": "", "Value": -0.725, "F/Sigma**0.5": 0.0}, {"Io/Sigma": 25.0, "I/Sigma": 0.0, "name": "", "Value": -0.65, "F/Sigma**0.5": 0.0}, {"Io/Sigma": 35.0, "I/Sigma": 0.0, "name": "", "Value": -0.575, "F/Sigma**0.5": 0.0}, {"Io/Sigma": 48.0, "I/Sigma": 0.0, "name": "", "Value": -0.5, "F/Sigma**0.5": 0.0}, {"Io/Sigma": 62.0, "I/Sigma": 0.0, "name": "", "Value": -0.425, "F/Sigma**0.5": 0.0}, {"Io/Sigma": 91.0, "I/Sigma": 0.0, "name": "", "Value": -0.35, "F/Sigma**0.5": 0.0}, {"Io/Sigma": 124.0, "I/Sigma": 0.0, "name": "", "Value": -0.275, "F/Sigma**0.5": 0.0}, {"Io/Sigma": 175.5, "I/Sigma": 0.0, "name": "", "Value": -0.2, "F/Sigma**0.5": 0.0}, {"Io/Sigma": 285.5, "I/Sigma": 0.0, "name": "", "Value": -0.125, "F/Sigma**0.5": 0.0}, {"Io/Sigma": 791.49999, "I/Sigma": 295.49999, "name": "", "Value": -0.05, "F/Sigma**0.5": 1.0}, {"Io/Sigma": 1876.00001, "I/Sigma": 1483.00001, "name": "", "Value": 0.025, "F/Sigma**0.5": 113.0}, {"Io/Sigma": 2471.5, "I/Sigma": 2506.00001, "name": "", "Value": 0.1, "F/Sigma**0.5": 409.00001}, {"Io/Sigma": 2343.50001, "I/Sigma": 2732.49999, "name": "", "Value": 0.175, "F/Sigma**0.5": 833.99998}, {"Io/Sigma": 2184.5, "I/Sigma": 2712.0, "name": "", "Value": 0.25, "F/Sigma**0.5": 1320.0}, {"Io/Sigma": 2016.50003, "I/Sigma": 2480.00004, "name": "", "Value": 0.325, "F/Sigma**0.5": 1848.49991}, {"Io/Sigma": 1845.99999, "I/Sigma": 2208.49998, "name": "", "Value": 0.4, "F/Sigma**0.5": 2371.00004}, {"Io/Sigma": 1694.50001, "I/Sigma": 1955.50002, "name": "", "Value": 0.475, "F/Sigma**0.5": 2705.99998}, {"Io/Sigma": 1597.49999, "I/Sigma": 1777.49997, "name": "", "Value": 0.55, "F/Sigma**0.5": 2764.49999}, {"Io/Sigma": 1463.0, "I/Sigma": 1559.0, "name": "", "Value": 0.625, "F/Sigma**0.5": 2682.0}, {"Io/Sigma": 1337.00001, "I/Sigma": 1384.50001, "name": "", "Value": 0.7, "F/Sigma**0.5": 2584.50002}, {"Io/Sigma": 1252.50004, "I/Sigma": 1279.50004, "name": "", "Value": 0.775, "F/Sigma**0.5": 2398.50009}, {"Io/Sigma": 1163.49998, "I/Sigma": 1162.49997, "name": "", "Value": 0.85, "F/Sigma**0.5": 2194.99996}, {"Io/Sigma": 1055.99998, "I/Sigma": 1049.99998, "name": "", "Value": 0.925, "F/Sigma**0.5": 2050.49998}, {"Io/Sigma": 947.0, "I/Sigma": 953.0, "name": "", "Value": 1.0, "F/Sigma**0.5": 1867.5}, {"Io/Sigma": 887.49997, "I/Sigma": 877.49995, "name": "", "Value": 1.075, "F/Sigma**0.5": 1655.99987}, {"Io/Sigma": 834.50002, "I/Sigma": 818.50001, "name": "", "Value": 1.15, "F/Sigma**0.5": 1488.50004}, {"Io/Sigma": 734.99995, "I/Sigma": 726.49995, "name": "", "Value": 1.225, "F/Sigma**0.5": 1356.49996}, {"Io/Sigma": 689.99997, "I/Sigma": 661.99999, "name": "", "Value": 1.3, "F/Sigma**0.5": 1185.50013}, {"Io/Sigma": 686.0, "I/Sigma": 642.0, "name": "", "Value": 1.375, "F/Sigma**0.5": 973.0}, {"Io/Sigma": 618.99995, "I/Sigma": 576.99996, "name": "", "Value": 1.45, "F/Sigma**0.5": 816.49994}, {"Io/Sigma": 569.00001, "I/Sigma": 539.5, "name": "", "Value": 1.525, "F/Sigma**0.5": 708.00004}, {"Io/Sigma": 529.99998, "I/Sigma": 514.99999, "name": "", "Value": 1.6, "F/Sigma**0.5": 576.99996}, {"Io/Sigma": 499.00001, "I/Sigma": 474.00003, "name": "", "Value": 1.675, "F/Sigma**0.5": 446.00008}, {"Io/Sigma": 461.5, "I/Sigma": 429.5, "name": "", "Value": 1.75, "F/Sigma**0.5": 365.5}, {"Io/Sigma": 421.99999, "I/Sigma": 389.49998, "name": "", "Value": 1.825, "F/Sigma**0.5": 316.49996}, {"Io/Sigma": 359.00003, "I/Sigma": 342.00002, "name": "", "Value": 1.9, "F/Sigma**0.5": 253.00002}, {"Io/Sigma": 307.5, "I/Sigma": 310.0, "name": "", "Value": 1.975, "F/Sigma**0.5": 190.49998}, {"Io/Sigma": 313.5, "I/Sigma": 300.00001, "name": "", "Value": 2.05, "F/Sigma**0.5": 149.00002}, {"Io/Sigma": 306.0, "I/Sigma": 277.0, "name": "", "Value": 2.125, "F/Sigma**0.5": 114.0}, {"Io/Sigma": 284.99999, "I/Sigma": 269.00001, "name": "", "Value": 2.2, "F/Sigma**0.5": 76.99998}, {"Io/Sigma": 269.49999, "I/Sigma": 248.99994, "name": "", "Value": 2.275, "F/Sigma**0.5": 58.49999}, {"Io/Sigma": 243.50005, "I/Sigma": 226.49999, "name": "", "Value": 2.35, "F/Sigma**0.5": 50.50001}, {"Io/Sigma": 232.49999, "I/Sigma": 224.50001, "name": "", "Value": 2.425, "F/Sigma**0.5": 46.5}, {"Io/Sigma": 218.0, "I/Sigma": 196.5, "name": "", "Value": 2.5, "F/Sigma**0.5": 37.0}, {"Io/Sigma": 185.99999, "I/Sigma": 176.5, "name": "", "Value": 2.575, "F/Sigma**0.5": 23.99999}, {"Io/Sigma": 176.49999, "I/Sigma": 165.99996, "name": "", "Value": 2.65, "F/Sigma**0.5": 16.99999}, {"Io/Sigma": 156.50004, "I/Sigma": 143.50002, "name": "", "Value": 2.725, "F/Sigma**0.5": 12.5}, {"Io/Sigma": 136.0, "I/Sigma": 128.50001, "name": "", "Value": 2.8, "F/Sigma**0.5": 9.5}, {"Io/Sigma": 128.0, "I/Sigma": 118.0, "name": "", "Value": 2.875, "F/Sigma**0.5": 8.5}, {"Io/Sigma": 114.49999, "I/Sigma": 112.0, "name": "", "Value": 2.95, "F/Sigma**0.5": 5.5}, {"Io/Sigma": 108.50001, "I/Sigma": 109.0, "name": "", "Value": 3.025, "F/Sigma**0.5": 1.5}, {"Io/Sigma": 109.5, "I/Sigma": 108.5, "name": "", "Value": 3.1, "F/Sigma**0.5": 1.5}, {"Io/Sigma": 106.0, "I/Sigma": 101.00001, "name": "", "Value": 3.175, "F/Sigma**0.5": 1.0}, {"Io/Sigma": 90.5, "I/Sigma": 87.5, "name": "", "Value": 3.25, "F/Sigma**0.5": 1.0}, {"Io/Sigma": 85.50001, "I/Sigma": 82.0, "name": "", "Value": 3.325, "F/Sigma**0.5": 1.5}, {"Io/Sigma": 92.5, "I/Sigma": 79.99999, "name": "", "Value": 3.4, "F/Sigma**0.5": 0.5}, {"Io/Sigma": 84.00002, "I/Sigma": 76.5, "name": "", "Value": 3.475, "F/Sigma**0.5": 0.0}, {"Io/Sigma": 76.0, "I/Sigma": 74.0, "name": "", "Value": 3.55, "F/Sigma**0.5": 0.5}, {"Io/Sigma": 70.0, "I/Sigma": 65.5, "name": "", "Value": 3.625, "F/Sigma**0.5": 1.0}, {"Io/Sigma": 54.49999, "I/Sigma": 53.99999, "name": "", "Value": 3.7, "F/Sigma**0.5": 1.5}, {"Io/Sigma": 54.50003, "I/Sigma": 53.50001, "name": "", "Value": 3.775, "F/Sigma**0.5": 1.5}, {"Io/Sigma": 63.00001, "I/Sigma": 59.99999, "name": "", "Value": 3.85, "F/Sigma**0.5": 1.0}, {"Io/Sigma": 57.00001, "I/Sigma": 57.00001, "name": "", "Value": 3.925, "F/Sigma**0.5": 0.5}, {"Io/Sigma": 40.5, "I/Sigma": 40.5, "name": "", "Value": 4.0, "F/Sigma**0.5": 0.0}, {"Io/Sigma": 33.49997, "I/Sigma": 33.99998, "name": "", "Value": 4.075, "F/Sigma**0.5": 0.5}, {"Io/Sigma": 42.00001, "I/Sigma": 40.00001, "name": "", "Value": 4.15, "F/Sigma**0.5": 0.5}, {"Io/Sigma": 44.5, "I/Sigma": 37.00001, "name": "", "Value": 4.225, "F/Sigma**0.5": 0.0}, {"Io/Sigma": 37.99997, "I/Sigma": 31.5, "name": "", "Value": 4.3, "F/Sigma**0.5": 0.0}, {"Io/Sigma": 31.0, "I/Sigma": 30.5, "name": "", "Value": 4.375, "F/Sigma**0.5": 0.0}, {"Io/Sigma": 28.50001, "I/Sigma": 30.0, "name": "", "Value": 4.45, "F/Sigma**0.5": 0.0}, {"Io/Sigma": 28.0, "I/Sigma": 23.99998, "name": "", "Value": 4.525, "F/Sigma**0.5": 0.0}, {"Io/Sigma": 25.50001, "I/Sigma": 21.99999, "name": "", "Value": 4.6, "F/Sigma**0.5": 0.0}, {"Io/Sigma": 23.50001, "I/Sigma": 23.49999, "name": "", "Value": 4.675, "F/Sigma**0.5": 0.0}, {"Io/Sigma": 23.5, "I/Sigma": 19.5, "name": "", "Value": 4.75, "F/Sigma**0.5": 0.0}, {"Io/Sigma": 23.49999, "I/Sigma": 18.99999, "name": "", "Value": 4.825, "F/Sigma**0.5": 0.0}, {"Io/Sigma": 20.99999, "I/Sigma": 16.99999, "name": "", "Value": 4.9, "F/Sigma**0.5": 0.0}, {"Io/Sigma": 14.00001, "I/Sigma": 14.0, "name": "", "Value": 4.975, "F/Sigma**0.5": 0.0}, {"Io/Sigma": 12.00001, "I/Sigma": 12.49999, "name": "", "Value": 5.05, "F/Sigma**0.5": 0.0}, {"Io/Sigma": 12.5, "I/Sigma": 11.5, "name": "", "Value": 5.125, "F/Sigma**0.5": 0.0}, {"Io/Sigma": 11.00001, "I/Sigma": 10.50001, "name": "", "Value": 5.2, "F/Sigma**0.5": 0.0}, {"Io/Sigma": 11.5, "I/Sigma": 10.0, "name": "", "Value": 5.275, "F/Sigma**0.5": 0.0}, {"Io/Sigma": 11.00001, "I/Sigma": 13.49999, "name": "", "Value": 5.35, "F/Sigma**0.5": 0.0}, {"Io/Sigma": 13.50002, "I/Sigma": 14.49999, "name": "", "Value": 5.425, "F/Sigma**0.5": 0.0}, {"Io/Sigma": 14.0, "I/Sigma": 12.5, "name": "", "Value": 5.5, "F/Sigma**0.5": 0.0}, {"Io/Sigma": 10.99999, "I/Sigma": 11.00001, "name": "", "Value": 5.575, "F/Sigma**0.5": 0.0}, {"Io/Sigma": 13.5, "I/Sigma": 10.0, "name": "", "Value": 5.65, "F/Sigma**0.5": 0.0}, {"Io/Sigma": 13.00001, "I/Sigma": 10.0, "name": "", "Value": 5.725, "F/Sigma**0.5": 0.0}, {"Io/Sigma": 10.5, "I/Sigma": 9.5, "name": "", "Value": 5.8, "F/Sigma**0.5": 0.0}, {"Io/Sigma": 8.0, "I/Sigma": 9.0, "name": "", "Value": 5.875, "F/Sigma**0.5": 0.0}, {"Io/Sigma": 8.49999, "I/Sigma": 9.5, "name": "", "Value": 5.95, "F/Sigma**0.5": 0.0}, {"Io/Sigma": 11.0, "I/Sigma": 9.5, "name": "", "Value": 6.025, "F/Sigma**0.5": 0.0}, {"Io/Sigma": 9.00001, "I/Sigma": 6.50001, "name": "", "Value": 6.1, "F/Sigma**0.5": 0.0}, {"Io/Sigma": 8.00001, "I/Sigma": 9.00003, "name": "", "Value": 6.175, "F/Sigma**0.5": 0.0}, {"Io/Sigma": 8.0, "I/Sigma": 10.5, "name": "", "Value": 6.25, "F/Sigma**0.5": 0.0}, {"Io/Sigma": 6.5, "I/Sigma": 5.50001, "name": "", "Value": 6.325, "F/Sigma**0.5": 0.0}, {"Io/Sigma": 7.0, "I/Sigma": 6.00001, "name": "", "Value": 6.4, "F/Sigma**0.5": 0.0}, {"Io/Sigma": 5.00001, "I/Sigma": 5.00001, "name": "", "Value": 6.475, "F/Sigma**0.5": 0.0}, {"Io/Sigma": 4.00001, "I/Sigma": 4.50001, "name": "", "Value": 6.55, "F/Sigma**0.5": 0.0}, {"Io/Sigma": 5.5, "I/Sigma": 4.0, "name": "", "Value": 6.625, "F/Sigma**0.5": 0.0}, {"Io/Sigma": 4.5, "I/Sigma": 3.49999, "name": "", "Value": 6.7, "F/Sigma**0.5": 0.0}, {"Io/Sigma": 6.00001, "I/Sigma": 4.5, "name": "", "Value": 6.775, "F/Sigma**0.5": 0.0}, {"Io/Sigma": 6.00001, "I/Sigma": 4.0, "name": "", "Value": 6.85, "F/Sigma**0.5": 0.0}, {"Io/Sigma": 2.99999, "I/Sigma": 5.0, "name": "", "Value": 6.925, "F/Sigma**0.5": 0.0}, {"Io/Sigma": 3.0, "I/Sigma": 4.5, "name": "", "Value": 7.0, "F/Sigma**0.5": 0.0}, {"Io/Sigma": 4.99999, "I/Sigma": 2.50001, "name": "", "Value": 7.075, "F/Sigma**0.5": 0.0}, {"Io/Sigma": 4.5, "I/Sigma": 2.0, "name": "", "Value": 7.15, "F/Sigma**0.5": 0.0}, {"Io/Sigma": 2.0, "I/Sigma": 2.5, "name": "", "Value": 7.225, "F/Sigma**0.5": 0.0}, {"Io/Sigma": 2.00001, "I/Sigma": 2.5, "name": "", "Value": 7.3, "F/Sigma**0.5": 0.0}, {"Io/Sigma": 2.0, "I/Sigma": 2.0, "name": "", "Value": 7.375, "F/Sigma**0.5": 0.0}, {"Io/Sigma": 1.0, "I/Sigma": 1.0, "name": "", "Value": 7.45, "F/Sigma**0.5": 0.0}, {"Io/Sigma": 1.5, "I/Sigma": 2.0, "name": "", "Value": 7.525, "F/Sigma**0.5": 0.0}, {"Io/Sigma": 2.5, "I/Sigma": 2.5, "name": "", "Value": 7.6, "F/Sigma**0.5": 0.0}, {"Io/Sigma": 2.5, "I/Sigma": 2.5, "name": "", "Value": 7.675, "F/Sigma**0.5": 0.0}, {"Io/Sigma": 2.5, "I/Sigma": 2.5, "name": "", "Value": 7.75, "F/Sigma**0.5": 0.0}, {"Io/Sigma": 2.00001, "I/Sigma": 1.5, "name": "", "Value": 7.825, "F/Sigma**0.5": 0.0}, {"Io/Sigma": 1.0, "I/Sigma": 1.0, "name": "", "Value": 7.9, "F/Sigma**0.5": 0.0}, {"Io/Sigma": 2.0, "I/Sigma": 2.5, "name": "", "Value": 7.975, "F/Sigma**0.5": 0.0}, {"Io/Sigma": 2.5, "I/Sigma": 2.49999, "name": "", "Value": 8.05, "F/Sigma**0.5": 0.0}, {"Io/Sigma": 1.0, "I/Sigma": 1.0, "name": "", "Value": 8.125, "F/Sigma**0.5": 0.0}, {"Io/Sigma": 0.99999, "I/Sigma": 0.5, "name": "", "Value": 8.2, "F/Sigma**0.5": 0.0}, {"Io/Sigma": 2.0, "I/Sigma": 0.49999, "name": "", "Value": 8.275, "F/Sigma**0.5": 0.0}, {"Io/Sigma": 0.99999, "I/Sigma": 1.0, "name": "", "Value": 8.35, "F/Sigma**0.5": 0.0}, {"Io/Sigma": 0.5, "I/Sigma": 2.00001, "name": "", "Value": 8.425, "F/Sigma**0.5": 0.0}, {"Io/Sigma": 2.0, "I/Sigma": 2.5, "name": "", "Value": 8.5, "F/Sigma**0.5": 0.0}, {"Io/Sigma": 2.00001, "I/Sigma": 1.5, "name": "", "Value": 8.575, "F/Sigma**0.5": 0.0}, {"Io/Sigma": 1.0, "I/Sigma": 1.0, "name": "", "Value": 8.65, "F/Sigma**0.5": 0.0}, {"Io/Sigma": 0.49999, "I/Sigma": 0.49999, "name": "", "Value": 8.725, "F/Sigma**0.5": 0.0}, {"Io/Sigma": 0.0, "I/Sigma": 0.0, "name": "", "Value": 8.8, "F/Sigma**0.5": 0.0}, {"Io/Sigma": 0.0, "I/Sigma": 0.0, "name": "", "Value": 8.875, "F/Sigma**0.5": 0.0}, {"Io/Sigma": 0.5, "I/Sigma": 0.5, "name": "", "Value": 8.95, "F/Sigma**0.5": 0.0}, {"Io/Sigma": 0.50001, "I/Sigma": 0.50001, "name": "", "Value": 9.025, "F/Sigma**0.5": 0.0}, {"Io/Sigma": 0.50001, "I/Sigma": 0.50001, "name": "", "Value": 9.1, "F/Sigma**0.5": 0.0}, {"Io/Sigma": 1.0, "I/Sigma": 0.5, "name": "", "Value": 9.175, "F/Sigma**0.5": 0.0}, {"Io/Sigma": 0.5, "I/Sigma": 0.0, "name": "", "Value": 9.25, "F/Sigma**0.5": 0.0}, {"Io/Sigma": 0.0, "I/Sigma": 0.0, "name": "", "Value": 9.325, "F/Sigma**0.5": 0.0}, {"Io/Sigma": 0.0, "I/Sigma": 0.0, "name": "", "Value": 9.4, "F/Sigma**0.5": 0.0}, {"Io/Sigma": 0.50001, "I/Sigma": 0.0, "name": "", "Value": 9.475, "F/Sigma**0.5": 0.0}, {"Io/Sigma": 1.0, "I/Sigma": 0.5, "name": "", "Value": 9.55, "F/Sigma**0.5": 0.0}, {"Io/Sigma": 0.5, "I/Sigma": 0.5, "name": "", "Value": 9.625, "F/Sigma**0.5": 0.0}, {"Io/Sigma": 0.0, "I/Sigma": 0.0, "name": "", "Value": 9.7, "F/Sigma**0.5": 0.0}, {"Io/Sigma": 0.0, "I/Sigma": 0.0, "name": "", "Value": 9.775, "F/Sigma**0.5": 0.0}, {"Io/Sigma": 1.50002, "I/Sigma": 1.00001, "name": "", "Value": 9.85, "F/Sigma**0.5": 0.0}, {"Io/Sigma": 1.49999, "I/Sigma": 0.99999, "name": "", "Value": 9.925, "F/Sigma**0.5": 0.0}]},
+    axis:
+    {
+      x: {
+        label: {
+          text: 'Value',
+          position: 'outer-center'
+        },
+
+      }
+    }
+,
+    legend: {
+      position: 'right'
+    },
+});
+
+</script><!--Div that will hold the chart-->
+<div>
+  <p>Phil plot - vs sigma</p>
+  <div class="graph" id="chart_Philplotvssigma"></div>
+</div>
+
+<script type="text/javascript">
+
+var chart_Philplotvssigma = c3.generate({
+    bindto: '#chart_Philplotvssigma',
+    data: {"keys": {"x": "Value", "value": ["Io/sigIo", "I/sigI", "F/sigF"]}, "json": [{"F/sigF": 0.0, "I/sigI": 0.0, "Io/sigIo": 0.0, "name": "", "Value": -5.0}, {"F/sigF": 0.0, "I/sigI": 0.0, "Io/sigIo": 0.0, "name": "", "Value": -4.925}, {"F/sigF": 0.0, "I/sigI": 0.0, "Io/sigIo": 0.0, "name": "", "Value": -4.85}, {"F/sigF": 0.0, "I/sigI": 0.0, "Io/sigIo": 0.0, "name": "", "Value": -4.775}, {"F/sigF": 0.0, "I/sigI": 0.0, "Io/sigIo": 0.0, "name": "", "Value": -4.7}, {"F/sigF": 0.0, "I/sigI": 0.0, "Io/sigIo": 0.0, "name": "", "Value": -4.625}, {"F/sigF": 0.0, "I/sigI": 0.0, "Io/sigIo": 0.0, "name": "", "Value": -4.55}, {"F/sigF": 0.0, "I/sigI": 0.0, "Io/sigIo": 0.0, "name": "", "Value": -4.475}, {"F/sigF": 0.0, "I/sigI": 0.0, "Io/sigIo": 0.0, "name": "", "Value": -4.4}, {"F/sigF": 0.0, "I/sigI": 0.0, "Io/sigIo": 0.0, "name": "", "Value": -4.325}, {"F/sigF": 0.0, "I/sigI": 0.0, "Io/sigIo": 0.0, "name": "", "Value": -4.25}, {"F/sigF": 0.0, "I/sigI": 0.0, "Io/sigIo": 0.0, "name": "", "Value": -4.175}, {"F/sigF": 0.0, "I/sigI": 0.0, "Io/sigIo": 0.0, "name": "", "Value": -4.1}, {"F/sigF": 0.0, "I/sigI": 0.0, "Io/sigIo": 0.0, "name": "", "Value": -4.025}, {"F/sigF": 0.0, "I/sigI": 0.0, "Io/sigIo": 0.0, "name": "", "Value": -3.95}, {"F/sigF": 0.0, "I/sigI": 0.0, "Io/sigIo": 0.0, "name": "", "Value": -3.875}, {"F/sigF": 0.0, "I/sigI": 0.0, "Io/sigIo": 0.0, "name": "", "Value": -3.8}, {"F/sigF": 0.0, "I/sigI": 0.0, "Io/sigIo": 0.0, "name": "", "Value": -3.725}, {"F/sigF": 0.0, "I/sigI": 0.0, "Io/sigIo": 0.0, "name": "", "Value": -3.65}, {"F/sigF": 0.0, "I/sigI": 0.0, "Io/sigIo": 0.0, "name": "", "Value": -3.575}, {"F/sigF": 0.0, "I/sigI": 0.0, "Io/sigIo": 0.0, "name": "", "Value": -3.5}, {"F/sigF": 0.0, "I/sigI": 0.0, "Io/sigIo": 0.0, "name": "", "Value": -3.425}, {"F/sigF": 0.0, "I/sigI": 0.0, "Io/sigIo": 0.0, "name": "", "Value": -3.35}, {"F/sigF": 0.0, "I/sigI": 0.0, "Io/sigIo": 0.5, "name": "", "Value": -3.275}, {"F/sigF": 0.0, "I/sigI": 0.0, "Io/sigIo": 1.0, "name": "", "Value": -3.2}, {"F/sigF": 0.0, "I/sigI": 0.0, "Io/sigIo": 0.5, "name": "", "Value": -3.125}, {"F/sigF": 0.0, "I/sigI": 0.0, "Io/sigIo": 0.0, "name": "", "Value": -3.05}, {"F/sigF": 0.0, "I/sigI": 0.0, "Io/sigIo": 0.0, "name": "", "Value": -2.975}, {"F/sigF": 0.0, "I/sigI": 0.0, "Io/sigIo": 0.0, "name": "", "Value": -2.9}, {"F/sigF": 0.0, "I/sigI": 0.0, "Io/sigIo": 0.0, "name": "", "Value": -2.825}, {"F/sigF": 0.0, "I/sigI": 0.0, "Io/sigIo": 0.0, "name": "", "Value": -2.75}, {"F/sigF": 0.0, "I/sigI": 0.0, "Io/sigIo": 0.5, "name": "", "Value": -2.675}, {"F/sigF": 0.0, "I/sigI": 0.0, "Io/sigIo": 0.5, "name": "", "Value": -2.6}, {"F/sigF": 0.0, "I/sigI": 0.0, "Io/sigIo": 1.0, "name": "", "Value": -2.525}, {"F/sigF": 0.0, "I/sigI": 0.0, "Io/sigIo": 1.5, "name": "", "Value": -2.45}, {"F/sigF": 0.0, "I/sigI": 0.0, "Io/sigIo": 2.0, "name": "", "Value": -2.375}, {"F/sigF": 0.0, "I/sigI": 0.0, "Io/sigIo": 1.5, "name": "", "Value": -2.3}, {"F/sigF": 0.0, "I/sigI": 0.0, "Io/sigIo": 1.5, "name": "", "Value": -2.225}, {"F/sigF": 0.0, "I/sigI": 0.0, "Io/sigIo": 3.5, "name": "", "Value": -2.15}, {"F/sigF": 0.0, "I/sigI": 0.0, "Io/sigIo": 4.0, "name": "", "Value": -2.075}, {"F/sigF": 0.0, "I/sigI": 0.0, "Io/sigIo": 3.0, "name": "", "Value": -2.0}, {"F/sigF": 0.0, "I/sigI": 0.0, "Io/sigIo": 3.0, "name": "", "Value": -1.925}, {"F/sigF": 0.0, "I/sigI": 0.0, "Io/sigIo": 5.5, "name": "", "Value": -1.85}, {"F/sigF": 0.0, "I/sigI": 0.0, "Io/sigIo": 6.0, "name": "", "Value": -1.775}, {"F/sigF": 0.0, "I/sigI": 0.0, "Io/sigIo": 5.5, "name": "", "Value": -1.7}, {"F/sigF": 0.0, "I/sigI": 0.0, "Io/sigIo": 7.0, "name": "", "Value": -1.625}, {"F/sigF": 0.0, "I/sigI": 0.0, "Io/sigIo": 14.50001, "name": "", "Value": -1.55}, {"F/sigF": 0.0, "I/sigI": 0.0, "Io/sigIo": 21.0, "name": "", "Value": -1.475}, {"F/sigF": 0.0, "I/sigI": 0.0, "Io/sigIo": 18.0, "name": "", "Value": -1.4}, {"F/sigF": 0.0, "I/sigI": 0.0, "Io/sigIo": 17.0, "name": "", "Value": -1.325}, {"F/sigF": 0.0, "I/sigI": 0.0, "Io/sigIo": 26.0, "name": "", "Value": -1.25}, {"F/sigF": 0.0, "I/sigI": 0.0, "Io/sigIo": 32.0, "name": "", "Value": -1.175}, {"F/sigF": 0.0, "I/sigI": 0.0, "Io/sigIo": 36.5, "name": "", "Value": -1.1}, {"F/sigF": 0.0, "I/sigI": 0.0, "Io/sigIo": 37.5, "name": "", "Value": -1.025}, {"F/sigF": 0.0, "I/sigI": 0.0, "Io/sigIo": 42.5, "name": "", "Value": -0.95}, {"F/sigF": 0.0, "I/sigI": 0.0, "Io/sigIo": 55.0, "name": "", "Value": -0.875}, {"F/sigF": 0.0, "I/sigI": 0.0, "Io/sigIo": 65.0, "name": "", "Value": -0.8}, {"F/sigF": 0.0, "I/sigI": 0.0, "Io/sigIo": 75.0, "name": "", "Value": -0.725}, {"F/sigF": 0.0, "I/sigI": 0.0, "Io/sigIo": 84.0, "name": "", "Value": -0.65}, {"F/sigF": 0.0, "I/sigI": 0.0, "Io/sigIo": 84.0, "name": "", "Value": -0.575}, {"F/sigF": 0.0, "I/sigI": 0.0, "Io/sigIo": 82.5, "name": "", "Value": -0.5}, {"F/sigF": 0.0, "I/sigI": 0.0, "Io/sigIo": 98.0, "name": "", "Value": -0.425}, {"F/sigF": 0.0, "I/sigI": 0.0, "Io/sigIo": 109.0, "name": "", "Value": -0.35}, {"F/sigF": 0.0, "I/sigI": 0.0, "Io/sigIo": 118.0, "name": "", "Value": -0.275}, {"F/sigF": 0.0, "I/sigI": 0.0, "Io/sigIo": 140.0, "name": "", "Value": -0.2}, {"F/sigF": 0.0, "I/sigI": 0.0, "Io/sigIo": 164.0, "name": "", "Value": -0.125}, {"F/sigF": 0.0, "I/sigI": 0.0, "Io/sigIo": 170.0, "name": "", "Value": -0.05}, {"F/sigF": 0.0, "I/sigI": 0.0, "Io/sigIo": 166.5, "name": "", "Value": 0.025}, {"F/sigF": 0.0, "I/sigI": 0.0, "Io/sigIo": 186.5, "name": "", "Value": 0.1}, {"F/sigF": 0.0, "I/sigI": 0.0, "Io/sigIo": 208.0, "name": "", "Value": 0.175}, {"F/sigF": 0.0, "I/sigI": 0.0, "Io/sigIo": 213.0, "name": "", "Value": 0.25}, {"F/sigF": 0.0, "I/sigI": 0.0, "Io/sigIo": 216.5, "name": "", "Value": 0.325}, {"F/sigF": 0.0, "I/sigI": 0.0, "Io/sigIo": 217.5, "name": "", "Value": 0.4}, {"F/sigF": 0.0, "I/sigI": 0.0, "Io/sigIo": 222.5, "name": "", "Value": 0.475}, {"F/sigF": 0.0, "I/sigI": 0.0, "Io/sigIo": 229.5, "name": "", "Value": 0.55}, {"F/sigF": 0.0, "I/sigI": 0.0, "Io/sigIo": 232.5, "name": "", "Value": 0.625}, {"F/sigF": 0.0, "I/sigI": 6.0, "Io/sigIo": 249.0, "name": "", "Value": 0.7}, {"F/sigF": 0.0, "I/sigI": 76.49996, "Io/sigIo": 244.50001, "name": "", "Value": 0.775}, {"F/sigF": 0.0, "I/sigI": 189.50003, "Io/sigIo": 236.00001, "name": "", "Value": 0.85}, {"F/sigF": 0.0, "I/sigI": 203.49999, "Io/sigIo": 245.5, "name": "", "Value": 0.925}, {"F/sigF": 0.0, "I/sigI": 156.0, "Io/sigIo": 250.5, "name": "", "Value": 1.0}, {"F/sigF": 0.0, "I/sigI": 255.50014, "Io/sigIo": 262.50001, "name": "", "Value": 1.075}, {"F/sigF": 0.0, "I/sigI": 577.49987, "Io/sigIo": 265.5, "name": "", "Value": 1.15}, {"F/sigF": 0.0, "I/sigI": 853.00004, "Io/sigIo": 251.99999, "name": "", "Value": 1.225}, {"F/sigF": 2.5, "I/sigI": 909.00001, "Io/sigIo": 249.49999, "name": "", "Value": 1.3}, {"F/sigF": 55.5, "I/sigI": 828.0, "Io/sigIo": 247.0, "name": "", "Value": 1.375}, {"F/sigF": 143.00005, "I/sigI": 714.49995, "Io/sigIo": 249.50002, "name": "", "Value": 1.45}, {"F/sigF": 174.0, "I/sigI": 637.00002, "Io/sigIo": 247.00001, "name": "", "Value": 1.525}, {"F/sigF": 144.99999, "I/sigI": 565.49998, "Io/sigIo": 222.99999, "name": "", "Value": 1.6}, {"F/sigF": 110.50001, "I/sigI": 487.50005, "Io/sigIo": 214.0, "name": "", "Value": 1.675}, {"F/sigF": 89.5, "I/sigI": 427.0, "Io/sigIo": 207.0, "name": "", "Value": 1.75}, {"F/sigF": 79.0, "I/sigI": 386.99997, "Io/sigIo": 213.50002, "name": "", "Value": 1.825}, {"F/sigF": 67.50001, "I/sigI": 329.00002, "Io/sigIo": 224.0, "name": "", "Value": 1.9}, {"F/sigF": 89.50002, "I/sigI": 281.99999, "Io/sigIo": 216.5, "name": "", "Value": 1.975}, {"F/sigF": 241.49985, "I/sigI": 290.99998, "Io/sigIo": 214.99999, "name": "", "Value": 2.05}, {"F/sigF": 449.0, "I/sigI": 283.0, "Io/sigIo": 207.5, "name": "", "Value": 2.125}, {"F/sigF": 564.50003, "I/sigI": 250.99999, "Io/sigIo": 193.0, "name": "", "Value": 2.2}, {"F/sigF": 606.50004, "I/sigI": 228.49996, "Io/sigIo": 194.50001, "name": "", "Value": 2.275}, {"F/sigF": 584.00009, "I/sigI": 228.49996, "Io/sigIo": 206.99998, "name": "", "Value": 2.35}, {"F/sigF": 531.00002, "I/sigI": 224.50003, "Io/sigIo": 199.50002, "name": "", "Value": 2.425}, {"F/sigF": 478.5, "I/sigI": 197.5, "Io/sigIo": 172.0, "name": "", "Value": 2.5}, {"F/sigF": 415.49997, "I/sigI": 186.49999, "Io/sigIo": 171.00001, "name": "", "Value": 2.575}, {"F/sigF": 389.5, "I/sigI": 169.99997, "Io/sigIo": 177.99999, "name": "", "Value": 2.65}, {"F/sigF": 361.00007, "I/sigI": 164.99998, "Io/sigIo": 163.50003, "name": "", "Value": 2.725}, {"F/sigF": 325.00001, "I/sigI": 172.0, "Io/sigIo": 167.99998, "name": "", "Value": 2.8}, {"F/sigF": 299.0, "I/sigI": 174.5, "Io/sigIo": 181.5, "name": "", "Value": 2.875}, {"F/sigF": 275.99999, "I/sigI": 165.99999, "Io/sigIo": 178.0, "name": "", "Value": 2.95}, {"F/sigF": 243.49993, "I/sigI": 161.50001, "Io/sigIo": 160.99996, "name": "", "Value": 3.025}, {"F/sigF": 218.99999, "I/sigI": 166.0, "Io/sigIo": 159.49997, "name": "", "Value": 3.1}, {"F/sigF": 215.50001, "I/sigI": 157.00001, "Io/sigIo": 166.00001, "name": "", "Value": 3.175}, {"F/sigF": 201.5, "I/sigI": 153.0, "Io/sigIo": 164.5, "name": "", "Value": 3.25}, {"F/sigF": 176.99998, "I/sigI": 152.49999, "Io/sigIo": 159.99999, "name": "", "Value": 3.325}, {"F/sigF": 154.99999, "I/sigI": 136.99997, "Io/sigIo": 148.5, "name": "", "Value": 3.4}, {"F/sigF": 149.5, "I/sigI": 127.99999, "Io/sigIo": 143.00001, "name": "", "Value": 3.475}, {"F/sigF": 143.00001, "I/sigI": 128.0, "Io/sigIo": 145.49999, "name": "", "Value": 3.55}, {"F/sigF": 154.0, "I/sigI": 131.0, "Io/sigIo": 150.5, "name": "", "Value": 3.625}, {"F/sigF": 156.99998, "I/sigI": 127.49999, "Io/sigIo": 139.49999, "name": "", "Value": 3.7}, {"F/sigF": 141.99999, "I/sigI": 133.50004, "Io/sigIo": 131.5, "name": "", "Value": 3.775}, {"F/sigF": 140.0, "I/sigI": 136.50003, "Io/sigIo": 140.49998, "name": "", "Value": 3.85}, {"F/sigF": 135.00001, "I/sigI": 126.0, "Io/sigIo": 144.00001, "name": "", "Value": 3.925}, {"F/sigF": 113.0, "I/sigI": 123.0, "Io/sigIo": 129.5, "name": "", "Value": 4.0}, {"F/sigF": 96.5, "I/sigI": 116.00002, "Io/sigIo": 122.99998, "name": "", "Value": 4.075}, {"F/sigF": 110.50003, "I/sigI": 112.5, "Io/sigIo": 127.0, "name": "", "Value": 4.15}, {"F/sigF": 127.99999, "I/sigI": 113.5, "Io/sigIo": 113.50003, "name": "", "Value": 4.225}, {"F/sigF": 118.99993, "I/sigI": 110.49998, "Io/sigIo": 111.00006, "name": "", "Value": 4.3}, {"F/sigF": 104.5, "I/sigI": 108.5, "Io/sigIo": 127.0, "name": "", "Value": 4.375}, {"F/sigF": 96.50003, "I/sigI": 117.99996, "Io/sigIo": 131.5, "name": "", "Value": 4.45}, {"F/sigF": 88.5, "I/sigI": 120.49999, "Io/sigIo": 123.99998, "name": "", "Value": 4.525}, {"F/sigF": 90.99999, "I/sigI": 115.5, "Io/sigIo": 111.00002, "name": "", "Value": 4.6}, {"F/sigF": 90.49998, "I/sigI": 113.99999, "Io/sigIo": 115.00005, "name": "", "Value": 4.675}, {"F/sigF": 87.5, "I/sigI": 112.5, "Io/sigIo": 111.5, "name": "", "Value": 4.75}, {"F/sigF": 86.00002, "I/sigI": 116.99997, "Io/sigIo": 107.99995, "name": "", "Value": 4.825}, {"F/sigF": 74.49998, "I/sigI": 121.5, "Io/sigIo": 125.00002, "name": "", "Value": 4.9}, {"F/sigF": 75.99997, "I/sigI": 111.00003, "Io/sigIo": 126.00002, "name": "", "Value": 4.975}, {"F/sigF": 81.99998, "I/sigI": 107.50003, "Io/sigIo": 130.50005, "name": "", "Value": 5.05}, {"F/sigF": 84.5, "I/sigI": 109.0, "Io/sigIo": 122.0, "name": "", "Value": 5.125}, {"F/sigF": 84.50003, "I/sigI": 105.49999, "Io/sigIo": 100.50001, "name": "", "Value": 5.2}, {"F/sigF": 78.5, "I/sigI": 95.49997, "Io/sigIo": 105.50002, "name": "", "Value": 5.275}, {"F/sigF": 81.49999, "I/sigI": 92.49998, "Io/sigIo": 107.50001, "name": "", "Value": 5.35}, {"F/sigF": 81.49999, "I/sigI": 107.00003, "Io/sigIo": 100.49999, "name": "", "Value": 5.425}, {"F/sigF": 76.0, "I/sigI": 112.0, "Io/sigIo": 107.0, "name": "", "Value": 5.5}, {"F/sigF": 76.49998, "I/sigI": 106.50002, "Io/sigIo": 116.49999, "name": "", "Value": 5.575}, {"F/sigF": 75.99999, "I/sigI": 97.49999, "Io/sigIo": 108.99998, "name": "", "Value": 5.65}, {"F/sigF": 81.99997, "I/sigI": 91.5, "Io/sigIo": 96.50001, "name": "", "Value": 5.725}, {"F/sigF": 80.99994, "I/sigI": 81.99996, "Io/sigIo": 96.00002, "name": "", "Value": 5.8}, {"F/sigF": 74.5, "I/sigI": 85.0, "Io/sigIo": 100.0, "name": "", "Value": 5.875}, {"F/sigF": 76.00002, "I/sigI": 106.49995, "Io/sigIo": 92.00005, "name": "", "Value": 5.95}, {"F/sigF": 67.49999, "I/sigI": 101.99996, "Io/sigIo": 98.00004, "name": "", "Value": 6.025}, {"F/sigF": 67.99998, "I/sigI": 89.49999, "Io/sigIo": 100.00003, "name": "", "Value": 6.1}, {"F/sigF": 69.99998, "I/sigI": 89.49999, "Io/sigIo": 89.00001, "name": "", "Value": 6.175}, {"F/sigF": 70.0, "I/sigI": 87.5, "Io/sigIo": 90.5, "name": "", "Value": 6.25}, {"F/sigF": 65.00005, "I/sigI": 96.49996, "Io/sigIo": 97.49996, "name": "", "Value": 6.325}, {"F/sigF": 63.50002, "I/sigI": 90.49996, "Io/sigIo": 98.49998, "name": "", "Value": 6.4}, {"F/sigF": 64.00002, "I/sigI": 74.00001, "Io/sigIo": 90.5, "name": "", "Value": 6.475}, {"F/sigF": 56.5, "I/sigI": 75.50002, "Io/sigIo": 83.49997, "name": "", "Value": 6.55}, {"F/sigF": 62.5, "I/sigI": 77.5, "Io/sigIo": 74.0, "name": "", "Value": 6.625}, {"F/sigF": 60.00005, "I/sigI": 83.49996, "Io/sigIo": 73.49998, "name": "", "Value": 6.7}, {"F/sigF": 57.50002, "I/sigI": 76.99996, "Io/sigIo": 88.50003, "name": "", "Value": 6.775}, {"F/sigF": 64.5, "I/sigI": 69.49998, "Io/sigIo": 84.50004, "name": "", "Value": 6.85}, {"F/sigF": 67.00001, "I/sigI": 73.49999, "Io/sigIo": 72.50002, "name": "", "Value": 6.925}, {"F/sigF": 57.0, "I/sigI": 75.5, "Io/sigIo": 75.5, "name": "", "Value": 7.0}, {"F/sigF": 51.99996, "I/sigI": 92.49994, "Io/sigIo": 75.5, "name": "", "Value": 7.075}, {"F/sigF": 63.50001, "I/sigI": 91.99997, "Io/sigIo": 86.00003, "name": "", "Value": 7.15}, {"F/sigF": 69.5, "I/sigI": 85.99998, "Io/sigIo": 89.50002, "name": "", "Value": 7.225}, {"F/sigF": 67.99998, "I/sigI": 85.49996, "Io/sigIo": 84.50001, "name": "", "Value": 7.3}, {"F/sigF": 61.0, "I/sigI": 83.0, "Io/sigIo": 89.0, "name": "", "Value": 7.375}, {"F/sigF": 58.49999, "I/sigI": 79.00005, "Io/sigIo": 89.50001, "name": "", "Value": 7.45}, {"F/sigF": 59.0, "I/sigI": 76.50002, "Io/sigIo": 89.50001, "name": "", "Value": 7.525}, {"F/sigF": 59.0, "I/sigI": 81.5, "Io/sigIo": 90.00001, "name": "", "Value": 7.6}, {"F/sigF": 63.50002, "I/sigI": 83.50002, "Io/sigIo": 78.49995, "name": "", "Value": 7.675}, {"F/sigF": 59.0, "I/sigI": 83.0, "Io/sigIo": 71.5, "name": "", "Value": 7.75}, {"F/sigF": 54.99998, "I/sigI": 74.00003, "Io/sigIo": 79.99997, "name": "", "Value": 7.825}, {"F/sigF": 54.49999, "I/sigI": 73.50001, "Io/sigIo": 75.99997, "name": "", "Value": 7.9}, {"F/sigF": 51.5, "I/sigI": 78.0, "Io/sigIo": 67.99999, "name": "", "Value": 7.975}, {"F/sigF": 49.99998, "I/sigI": 80.00001, "Io/sigIo": 80.00005, "name": "", "Value": 8.05}, {"F/sigF": 55.0, "I/sigI": 78.5, "Io/sigIo": 86.5, "name": "", "Value": 8.125}, {"F/sigF": 55.50004, "I/sigI": 68.50003, "Io/sigIo": 70.00007, "name": "", "Value": 8.2}, {"F/sigF": 49.49998, "I/sigI": 71.4999, "Io/sigIo": 72.99984, "name": "", "Value": 8.275}, {"F/sigF": 50.49999, "I/sigI": 74.99994, "Io/sigIo": 85.49996, "name": "", "Value": 8.35}, {"F/sigF": 54.00002, "I/sigI": 64.49998, "Io/sigIo": 71.99995, "name": "", "Value": 8.425}, {"F/sigF": 56.5, "I/sigI": 60.0, "Io/sigIo": 67.5, "name": "", "Value": 8.5}, {"F/sigF": 53.00001, "I/sigI": 66.49997, "Io/sigIo": 64.50004, "name": "", "Value": 8.575}, {"F/sigF": 56.49994, "I/sigI": 74.99998, "Io/sigIo": 70.99985, "name": "", "Value": 8.65}, {"F/sigF": 59.49997, "I/sigI": 78.50002, "Io/sigIo": 75.9999, "name": "", "Value": 8.725}, {"F/sigF": 57.0, "I/sigI": 80.5, "Io/sigIo": 76.00005, "name": "", "Value": 8.8}, {"F/sigF": 56.5, "I/sigI": 83.0, "Io/sigIo": 86.0, "name": "", "Value": 8.875}, {"F/sigF": 51.00003, "I/sigI": 77.00004, "Io/sigIo": 78.50004, "name": "", "Value": 8.95}, {"F/sigF": 56.99989, "I/sigI": 61.00008, "Io/sigIo": 73.99997, "name": "", "Value": 9.025}, {"F/sigF": 65.49997, "I/sigI": 59.00006, "Io/sigIo": 70.99994, "name": "", "Value": 9.1}, {"F/sigF": 54.99996, "I/sigI": 67.50001, "Io/sigIo": 66.50001, "name": "", "Value": 9.175}, {"F/sigF": 45.0, "I/sigI": 70.5, "Io/sigIo": 65.0, "name": "", "Value": 9.25}, {"F/sigF": 51.49996, "I/sigI": 71.99999, "Io/sigIo": 66.99997, "name": "", "Value": 9.325}, {"F/sigF": 59.50001, "I/sigI": 70.00003, "Io/sigIo": 75.99996, "name": "", "Value": 9.4}, {"F/sigF": 60.50002, "I/sigI": 68.00001, "Io/sigIo": 77.99998, "name": "", "Value": 9.475}, {"F/sigF": 60.49999, "I/sigI": 60.49996, "Io/sigIo": 65.99995, "name": "", "Value": 9.55}, {"F/sigF": 60.5, "I/sigI": 53.0, "Io/sigIo": 56.5, "name": "", "Value": 9.625}, {"F/sigF": 52.50005, "I/sigI": 58.99997, "Io/sigIo": 54.50001, "name": "", "Value": 9.7}, {"F/sigF": 49.99993, "I/sigI": 66.99997, "Io/sigIo": 56.99995, "name": "", "Value": 9.775}, {"F/sigF": 57.50001, "I/sigI": 68.49998, "Io/sigIo": 70.50009, "name": "", "Value": 9.85}, {"F/sigF": 53.99998, "I/sigI": 62.99998, "Io/sigIo": 71.99996, "name": "", "Value": 9.925}]},
+    axis:
+    {
+      x: {
+        label: {
+          text: 'Value',
+          position: 'outer-center'
+        },
+
+      }
+    }
+,
+    legend: {
+      position: 'right'
+    },
+});
+
+</script>
+</div>
+</body>
+</html>
+
