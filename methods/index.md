@@ -193,15 +193,9 @@ _Mon Nov 13_
 - 3:40-5PM NMR Methods Group Presentation and NMR data processing: : [from FID to 2D](/static/pdf/methods/2DNMR_Processing_Tutorial.pdf) (Ryan Tibble and John Gross)
 
 _Tues Nov 14_
-- 1-2PM [EM - FFT 101](https://docs.google.com/presentation/d/1RXALgbFH0JQmjFozPzkO8Oe2OenqU4D4Nl7md6UBMP0/edit?usp=sharing)
+- 1-2PM [EM data processing: from 2D to 3D](https://docs.google.com/document/d/1cyh9XstW3Da8tU1g5gj8UCk1OMC8vGJsk7a5r6T9XHo/edit?usp=sharing)
 - 2-3PM NMR data processing: overlaying spectrum with assignments and perturbations from 2D data comparisons (Ryan Tibble and John Gross)
   - [Intro to Sparky](/static/pdf/methods/Sparky_tutorial.pdf)
-  - Compound Assignments (25=DMSO, 26=APO):
-    - 1: 1, 2, 11, 13, 19
-    - 2: 3, 4, 12, 14, 21
-    - 3: 5, 6, 15, 17, 22
-    - 4: 7, 8, 16, 20, 24
-    - 5: 9, 10, 18, 23
 - 3PM - Journal club:
   - Nicole	Wenzell [Weak alignment NMR: a hawk-eyed view of biomolecular structure](https://doi.org/10.1016/j.sbi.2005.08.006), background: [Direct measurement of distances and angles in biomolecules by NMR dilute liquid crystalline medium](https://www.ncbi.nlm.nih.gov/pubmed/9353189)
   - Lakshmi	Miller-Vedam [Free R value: a novel statistical quantity for assessing the accuracy of crystal structures](https://www.nature.com/nature/journal/v355/n6359/pdf/355472a0.pdf)
