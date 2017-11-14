@@ -184,7 +184,7 @@ _Mon Nov 13_
   - NMR: Adam	Catching and Neha	Prasad
 
 - 1-2:20PM: X-ray Methods Group Presentation and X-ray data processing: from spots to MTZ (JSF, Kazu Ito, Michael Thompson)
-  - [Box link to ADP images](https://ucsf.box.com/s/i85gxe5prx9z3ov5hdftqgy1skdevca7) - Download 
+  - [Box link to ADP images](https://ucsf.box.com/s/i85gxe5prx9z3ov5hdftqgy1skdevca7) - Download
   - [xia2 summary for APO](/static/apo/xia2.html)
     - [APO mtz](/static/apo/DataFiles/yHSP90_APO.mtz)
   - [xia2 summary for ADP](/static/adp/xia2.html)
@@ -193,20 +193,21 @@ _Mon Nov 13_
 - 3:40-5PM NMR Methods Group Presentation and NMR data processing: : [from FID to 2D](/static/pdf/methods/2DNMR_Processing_Tutorial.pdf) (Ryan Tibble and John Gross)
 
 _Tues Nov 14_
-- 1-2PM X-ray data processing: from MTZ to density, molecular replacement and difference maps (JSF, Kazu Ito, Michael Thompson)
-- 2-3PM [EM data processing: from 2D to 3D](https://docs.google.com/document/d/1cyh9XstW3Da8tU1g5gj8UCk1OMC8vGJsk7a5r6T9XHo/edit?usp=sharing)
+- 1-2PM [EM data processing: from 2D to 3D](https://docs.google.com/document/d/1cyh9XstW3Da8tU1g5gj8UCk1OMC8vGJsk7a5r6T9XHo/edit?usp=sharing)
+- 2-3PM NMR data processing: overlaying spectrum with assignments and perturbations from 2D data comparisons (Ryan Tibble and John Gross)
+  - [Intro to Sparky](/static/pdf/methods/Sparky_tutorial.pdf)
 - 3PM - Journal club:
   - Nicole	Wenzell [Weak alignment NMR: a hawk-eyed view of biomolecular structure](https://doi.org/10.1016/j.sbi.2005.08.006), background: [Direct measurement of distances and angles in biomolecules by NMR dilute liquid crystalline medium](https://www.ncbi.nlm.nih.gov/pubmed/9353189)
   - Lakshmi	Miller-Vedam [Free R value: a novel statistical quantity for assessing the accuracy of crystal structures](https://www.nature.com/nature/journal/v355/n6359/pdf/355472a0.pdf)
-- 3-4PM NMR data processing: overlaying spectrum with assignments and perturbations from 2D data comparisons (Ryan Tibble and John Gross)
+- 3:30-4:30PM X-ray data processing: from MTZ to density, molecular replacement and difference maps (JSF, Kazu Ito, Michael Thompson)
 
 _Weds Nov 15_
-- 1-2PM X-ray data processing: identifying ligands, ligand restraints and refinement (JSF, Kazu Ito, Michael Thompson)
-- 2-3PM [EM data processing: manipulating density](https://docs.google.com/document/d/1cyh9XstW3Da8tU1g5gj8UCk1OMC8vGJsk7a5r6T9XHo/edit?usp=sharing)
+- 1-2PM NMR data processing: measuring chemical shift perturbations  (Ryan Tibble and John Gross)
+- 2-3PM X-ray data processing: identifying ligands, ligand restraints and refinement (JSF, Kazu Ito, Michael Thompson)
 - 3PM - Journal Club:
   - Kelly	Montgomery [Prevention of overfitting in cryo-EM structure determination.](https://www.ncbi.nlm.nih.gov/pubmed?cmd=search&term=22842542), background: [Optimal Determination of Particle Orientation, Absolute Hand, and Contrast Loss in Single-particle Electron Cryomicroscopy](http://www.sciencedirect.com/science/article/pii/S0022283603010222)
   -  Kyle	Lopez [Molprobity](https://www.ncbi.nlm.nih.gov/pubmed/20057044)
-- 3-4PM NMR data processing: measuring chemical shift perturbations  (Ryan Tibble and John Gross)
+- 3:30-4:30PM [EM data processing: manipulating density](https://docs.google.com/document/d/1cyh9XstW3Da8tU1g5gj8UCk1OMC8vGJsk7a5r6T9XHo/edit?usp=sharing)
 
 **Thanksgiving break**
 
