@@ -28,6 +28,7 @@
     - 6B8Z
     - 6BAI
     - 6B95
+    - group deposition for fragment screen forthcoming
   links:
     - name: 'XChem - Fragment Screening at Diamond Light Source'
       url: 'http://www.diamond.ac.uk/Beamlines/Mx/Fragment-Screening.html'
@@ -40,7 +41,7 @@
     - name: 'Paper Submission Celebration Photo'
       url: 'https://twitter.com/fraser_lab/status/928125440014745600'
 
-- citation: 'Wall ME, **Wolff AM**, **Fraser JS**.Bringing Diffuse X-ray Scattering Into Focus. *Submitted - Preprint on BioRxiv*. 2017.'
+- citation: 'Wall ME, **Wolff AM**, **Fraser JS**. Bringing Diffuse X-ray Scattering Into Focus. *Submitted - Preprint on BioRxiv*. 2017.'
   date: 201709
   image: '/static/img/pub/wall_review_2017.jpg'
   pmid: Submitted
@@ -52,6 +53,8 @@
       url: 'https://github.com/fraser-lab/diffuse_scattering'
     - name: 'Michael Wall'
       url: 'http://public.lanl.gov/mewall/'
+    - name: 'Paper Submission Celebration Photo'
+      url: 'https://twitter.com/LifeHasOrder/status/930291172668403712'
 
 - citation: 'Otten R\*, **Liu L**\*, **Kenner LR**, Clarkson MW, **Mavor D**, Tawfik DS, Kern D, **Fraser JS**. Rescue of Conformational Dynamics in Enzyme Catalysis by Directed Evolution. *Submitted - Preprint on BioRxiv*. 2017.'
   date: 201708
