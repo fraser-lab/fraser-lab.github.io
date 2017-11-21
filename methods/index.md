@@ -248,7 +248,7 @@ _Weds Nov 29_
   - 4: a44 f17 f30 f44 f60 f71 f83 c8 f21 f35 f49 f66 f77 f88 f12 f26 f4 f54 f70 f78 f93 - [BOX LINK](https://ucsf.box.com/s/0tr7age0396ksiqnblvi3ij7jqxwdns7)
   - 5: c10 f13 f27 f40 f57 f72 f82 f94 c23 f18 f31 f45 f61 f74 f84 c9 f22 f36 f50 f67 f79 f89 - [BOX LINK](https://ucsf.box.com/s/cq66o2i445ngbdnvne5gblslt8vii6yk)
 
-- Advice on how to proceed...
+- [Some advice on how to proceed](https://docs.google.com/document/d/1eQfOtSrB2gyF1BJQYWLI-mSoYsENyg4xP8Fsi5ZqsfM/edit?usp=sharing)
 
 _Mon Dec 4_
 - 1-2:30PM Lecture by Bob Stroud on fundamentals of X-ray diffraction
