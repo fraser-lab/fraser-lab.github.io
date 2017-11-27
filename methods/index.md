@@ -184,7 +184,7 @@ _Mon Nov 13_
   - NMR: Adam	Catching and Neha	Prasad
 
 - 1-2:20PM: X-ray Methods Group Presentation and X-ray data processing: from spots to MTZ (JSF, Kazu Ito, Michael Thompson)
-  - [Box link to ADP images](https://ucsf.box.com/s/i85gxe5prx9z3ov5hdftqgy1skdevca7) - Download 
+  - [Box link to ADP images](https://ucsf.box.com/s/i85gxe5prx9z3ov5hdftqgy1skdevca7) - Download
   - [xia2 summary for APO](/static/apo/xia2.html)
     - [APO mtz](/static/apo/DataFiles/yHSP90_APO.mtz)
   - [xia2 summary for ADP](/static/adp/xia2.html)
@@ -193,21 +193,28 @@ _Mon Nov 13_
 - 3:40-5PM NMR Methods Group Presentation and NMR data processing: : [from FID to 2D](/static/pdf/methods/2DNMR_Processing_Tutorial.pdf) (Ryan Tibble and John Gross)
 
 _Tues Nov 14_
-- 1-2PM X-ray data processing: from MTZ to density, molecular replacement and difference maps (JSF, Kazu Ito, Michael Thompson)
-- 2-3PM [EM data processing: from 2D to 3D](https://docs.google.com/document/d/1cyh9XstW3Da8tU1g5gj8UCk1OMC8vGJsk7a5r6T9XHo/edit?usp=sharing)
+- 1-2PM [EM - FFT 101](https://docs.google.com/presentation/d/1RXALgbFH0JQmjFozPzkO8Oe2OenqU4D4Nl7md6UBMP0/edit?usp=sharing)
+- 2-3PM NMR data processing: overlaying spectrum with assignments and perturbations from 2D data comparisons (Ryan Tibble and John Gross)
+  - [Intro to Sparky](/static/pdf/methods/Sparky_tutorial.pdf)
+  - Compound Assignments (25=DMSO, 26=APO):
+    - 1: 1, 2, 11, 13, 19
+    - 2: 3, 4, 12, 14, 21
+    - 3: 5, 6, 15, 17, 22
+    - 4: 7, 8, 16, 20, 24
+    - 5: 9, 10, 18, 23
 - 3PM - Journal club:
   - Nicole	Wenzell [Weak alignment NMR: a hawk-eyed view of biomolecular structure](https://doi.org/10.1016/j.sbi.2005.08.006), background: [Direct measurement of distances and angles in biomolecules by NMR dilute liquid crystalline medium](https://www.ncbi.nlm.nih.gov/pubmed/9353189)
   - Lakshmi	Miller-Vedam [Free R value: a novel statistical quantity for assessing the accuracy of crystal structures](https://www.nature.com/nature/journal/v355/n6359/pdf/355472a0.pdf)
-- 3-4PM NMR data processing: overlaying spectrum with assignments and perturbations from 2D data comparisons (Ryan Tibble and John Gross)
-  - [Intro to Sparky](/static/pdf/methods/Sparky_tutorial.pdf)
+- 3:30-4:30PM X-ray data processing: from MTZ to density, molecular replacement and difference maps (JSF, Kazu Ito, Michael Thompson)
 
 _Weds Nov 15_
-- 1-2PM X-ray data processing: identifying ligands, ligand restraints and refinement (JSF, Kazu Ito, Michael Thompson)
-- 2-3PM [EM data processing: manipulating density](https://docs.google.com/document/d/1cyh9XstW3Da8tU1g5gj8UCk1OMC8vGJsk7a5r6T9XHo/edit?usp=sharing)
+- 1-2PM NMR data processing: measuring chemical shift perturbations  (Ryan Tibble and John Gross)
+- 2-3PM X-ray data processing: identifying ligands, ligand restraints and refinement (JSF, Kazu Ito, Michael Thompson)
 - 3PM - Journal Club:
   - Kelly	Montgomery [Prevention of overfitting in cryo-EM structure determination.](https://www.ncbi.nlm.nih.gov/pubmed?cmd=search&term=22842542), background: [Optimal Determination of Particle Orientation, Absolute Hand, and Contrast Loss in Single-particle Electron Cryomicroscopy](http://www.sciencedirect.com/science/article/pii/S0022283603010222)
   -  Kyle	Lopez [Molprobity](https://www.ncbi.nlm.nih.gov/pubmed/20057044)
-- 3-4PM NMR data processing: measuring chemical shift perturbations  (Ryan Tibble and John Gross)
+- 3:30-4:30PM [EM data processing: manipulating density](https://docs.google.com/document/d/1cyh9XstW3Da8tU1g5gj8UCk1OMC8vGJsk7a5r6T9XHo/edit?usp=sharing)
+  - [PDBs](https://ucsf.box.com/s/aoz3ydxn9rdvowxhcbfm6qbmo159x3rv) for FSC comparisons
 
 **Thanksgiving break**
 
@@ -216,7 +223,7 @@ _Weds Nov 15_
 _Mon Nov 27_
 - Journal Club:
   - Jack	Stevenson [Asymmetric activation of the hsp90 dimer by its cochaperone aha1.](https://www.ncbi.nlm.nih.gov/pubmed?cmd=search&term=20159554), background: [Localization of the NADPH binding site on MurB by NMR](https://www.ncbi.nlm.nih.gov/pubmed/8946851)
-- 1-2:30 Lecture by John Gross on fundamentals of NMR theory applications to  mapping protein interactions binding
+- 1-2:30 Lecture by John Gross on fundamentals of NMR theory applications to  mapping protein interactions binding, [NMR lecture notes](/static/pdf/methods/Methods-NMR-l2017.pdf)
 - 2:30-5pm work on analyzing NMR titration data to determine Kd (Ryan Tibble and John Gross)
 
 _Tues Nov 28_
@@ -234,6 +241,15 @@ _Weds Nov 29_
 - ChimeraX tutorial by Tom Goddard
 
 **Week 5 - X-ray**
+- Compound Data Processing Logs, MTZs, CIFs, PDBs:
+
+  - 1 : a50 a51 c1 c11 c13 c2 f1 f14 f19 f23 f28 f32 f37 f41 f46 f51 f58 f63 f68 f73 f8 f85 f9 f95 - [BOX LINK](https://ucsf.box.com/s/nh3euf7zj9wvma40tm6l7n64e6zdnvk1)
+  - 2 : amppnp c12 c14 c3 c4 f10 f15 f2 f24 f29 f33 f38 f42 f47 f52 f59 f64 f69 f75 f80 f86 f90 f96 - [BOX LINK](https://ucsf.box.com/s/6m2g3xyaxcudy50ib47011baraf1ywd3)
+  - 3 : a40 c15 c22 c5 c6 f11 f16 f20 f25 f3 f34 f39 f43 f48 f53 f55 f56 f6  f7 f76 f81 f91 f92 - [BOX LINK](https://ucsf.box.com/s/eifn44wo5ye00kcvyk728yfe120l9qxf)
+  - 4 :  a44 c8 f12 f17 f21 f26 f30 f35 f4 f44 f49 f54 f60 f65 f66 f70 f71 f77 f77_2 f78 f83 f88 f93 - [BOX LINK](https://ucsf.box.com/s/0tr7age0396ksiqnblvi3ij7jqxwdns7)
+  - 5 : c10 c23 c9 f13 f18 f22 f27 f31 f36 f40 f45 f50 f57 f61 f67 f72 f74 f79 f82 f84 f87 f89 f94  - [BOX LINK](https://ucsf.box.com/s/cq66o2i445ngbdnvne5gblslt8vii6yk)
+
+- [Some advice on how to proceed](https://docs.google.com/document/d/1eQfOtSrB2gyF1BJQYWLI-mSoYsENyg4xP8Fsi5ZqsfM/edit?usp=sharing)
 
 _Mon Dec 4_
 - 1-2:30PM Lecture by Bob Stroud on fundamentals of X-ray diffraction
