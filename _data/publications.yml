@@ -13,6 +13,49 @@
 #     - name: 'Mullins Lab'
 #       url: 'http://mullinslab.ucsf.edu/'
 #
+- citation: '**Keedy DA**\*, Hill ZB\*, **Biel JT**, Kang E, Rettenmaier TJ, Brandao-Neto J, Pearce NM, von Delft F, Wells JA, **Fraser JS**. New routes for PTP1B allosteric inhibition by multitemperature crystallography, fragment screening and covalent tethering. *Submitted - Preprint on BioRxiv*. 2017.'
+  date: 201710
+  image: '/static/img/pub/keedy_2017.jpg'
+  pmid: Submitted
+  pmcid: Submitted
+  biorxiv: "218966"
+  pdf: '/static/pdf/keedy_2017.pdf'
+  pdbs:
+    - 6B90
+    - 6B8E
+    - 6B8T
+    - 6B8X
+    - 6B8Z
+    - 6BAI
+    - 6B95
+    - group deposition for fragment screen forthcoming
+  links:
+    - name: 'XChem - Fragment Screening at Diamond Light Source'
+      url: 'http://www.diamond.ac.uk/Beamlines/Mx/Fragment-Screening.html'
+    - name: 'PANDDA code on Bitbucket'
+      url: 'http://pandda.bitbucket.io/'
+    - name: 'Wells Lab'
+      url: 'https://wellslab.ucsf.edu/'
+    - name: 'Datasets on Zenodo'
+      url: 'https://zenodo.org/record/1044103'
+    - name: 'Paper Submission Celebration Photo'
+      url: 'https://twitter.com/fraser_lab/status/928125440014745600'
+
+- citation: 'Wall ME, **Wolff AM**, **Fraser JS**. Bringing Diffuse X-ray Scattering Into Focus. *Submitted - Preprint on BioRxiv*. 2017.'
+  date: 201709
+  image: '/static/img/pub/wall_review_2017.jpg'
+  pmid: Submitted
+  pmcid: Submitted
+  biorxiv: "219113"
+  pdf: '/static/pdf/wall_review_2017.pdf'
+  links:
+    - name: 'Sematura Code on Github'
+      url: 'https://github.com/fraser-lab/diffuse_scattering'
+    - name: 'Michael Wall'
+      url: 'http://public.lanl.gov/mewall/'
+    - name: 'Paper Submission Celebration Photo'
+      url: 'https://twitter.com/LifeHasOrder/status/930291172668403712'
+
 - citation: 'Otten R\*, **Liu L**\*, **Kenner LR**, Clarkson MW, **Mavor D**, Tawfik DS, Kern D, **Fraser JS**. Rescue of Conformational Dynamics in Enzyme Catalysis by Directed Evolution. *Submitted - Preprint on BioRxiv*. 2017.'
   date: 201708
   image: '/static/img/pub/otten_liu_2017.jpg'
