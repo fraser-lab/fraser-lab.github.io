@@ -243,11 +243,11 @@ _Weds Nov 29_
 **Week 5 - X-ray**
 - Compound Data Processing Logs, MTZs, CIFs, PDBs:
 
-  - 1 : a50 a51 c1 c11 c13 c2 f1 f1 f14 f14 f19 f23 f23 f28 f32 f32 f37 f41 f41 f46 f51 f51 f58 f58 f63 f68 f73 f8 f85 f9 f95 f95  - [BOX LINK](https://ucsf.box.com/s/nh3euf7zj9wvma40tm6l7n64e6zdnvk1)
-  - 2 :  amppnp c12 c14 c3 c4 f10 f15 f15 f2 f2 f24 f24 f29 f33 f33 f38 f38 f42 f42 f47 f52 f52 f59 f64 f64 f69 f69 f75 f75 f80 f80 f86 f86 f90 f90 f96  - [BOX LINK](https://ucsf.box.com/s/6m2g3xyaxcudy50ib47011baraf1ywd3)
-  - 3 :  a40 c15 c22 c5 c6 f11 f11 f16 f16 f20 f20 f25 f3 f3 f34 f34 f39 f39 f43 f48 f48 f53 f53 f55 f56 f56 f6 f6 f65 f7 f7 f76 f76 f81 f81 f87 f91 f91 f92  - [BOX LINK](https://ucsf.box.com/s/eifn44wo5ye00kcvyk728yfe120l9qxf)
-  - 4 :  a44 c8 f12 f12 f17 f17 f21 f21 f26 f26 f30 f35 f35 f4 f44 f44 f49 f49 f54 f54 f60 f60 f66 f66 f70 f70 f71 f71 f77 f77 f77_2 f78 f83 f83 f88 f88 f93 f93 - [BOX LINK](https://ucsf.box.com/s/0tr7age0396ksiqnblvi3ij7jqxwdns7)
-  - 5 : c10 c23 c9 f13 f13 f18 f18 f22 f22 f27 f27 f31 f31 f36 f36 f40 f40 f45 f45 f50 f57 f61 f61 f67 f67 f72 f74 f79 f79 f82 f82 f84 f84 f89 f89 f94 f94  - [BOX LINK](https://ucsf.box.com/s/cq66o2i445ngbdnvne5gblslt8vii6yk)
+  - 1 : a50 a51 c1 c11 c13 c2 f1 f14 f19 f23 f28 f32 f37 f41 f46 f51 f58 f63 f68 f73 f8 f85 f9 f95 - [BOX LINK](https://ucsf.box.com/s/nh3euf7zj9wvma40tm6l7n64e6zdnvk1)
+  - 2 : amppnp c12 c14 c3 c4 f10 f15 f2 f24 f29 f33 f38 f42 f47 f52 f59 f64 f69 f75 f80 f86 f90 f96 - [BOX LINK](https://ucsf.box.com/s/6m2g3xyaxcudy50ib47011baraf1ywd3)
+  - 3 : a40 c15 c22 c5 c6 f11 f16 f20 f25 f3 f34 f39 f43 f48 f53 f55 f56 f6  f7 f76 f81 f91 f92 - [BOX LINK](https://ucsf.box.com/s/eifn44wo5ye00kcvyk728yfe120l9qxf)
+  - 4 :  a44 c8 f12 f17 f21 f26 f30 f35 f4 f44 f49 f54 f60 f65 f66 f70 f71 f77 f77_2 f78 f83 f88 f93 - [BOX LINK](https://ucsf.box.com/s/0tr7age0396ksiqnblvi3ij7jqxwdns7)
+  - 5 : c10 c23 c9 f13 f18 f22 f27 f31 f36 f40 f45 f50 f57 f61 f67 f72 f74 f79 f82 f84 f87 f89 f94  - [BOX LINK](https://ucsf.box.com/s/cq66o2i445ngbdnvne5gblslt8vii6yk)
 
 - [Some advice on how to proceed](https://docs.google.com/document/d/1eQfOtSrB2gyF1BJQYWLI-mSoYsENyg4xP8Fsi5ZqsfM/edit?usp=sharing)
 
