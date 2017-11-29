@@ -224,14 +224,14 @@ _Mon Nov 27_
 - Journal Club:
   - Jack	Stevenson [Asymmetric activation of the hsp90 dimer by its cochaperone aha1.](https://www.ncbi.nlm.nih.gov/pubmed?cmd=search&term=20159554), background: [Localization of the NADPH binding site on MurB by NMR](https://www.ncbi.nlm.nih.gov/pubmed/8946851)
 - 1-2:30 Lecture by John Gross on fundamentals of NMR theory applications to  mapping protein interactions binding, [NMR lecture notes](/static/pdf/methods/Methods-NMR-l2017.pdf)
-- 2:30-5pm work on analyzing NMR titration data to determine Kd (Ryan Tibble and John Gross), [CSPs from Sparky Lists](/static/pdf/methods/Sparky_CSP.py)
+- 2:30-5pm work on analyzing NMR titration data to determine Kd (Ryan Tibble and John Gross), [Common Sparky Commands](/static/pdf/methods/Sparky_common_cmds.pdf) and [Sparky Integration Tutorial](/static/pdf/methods/Sparky_Integration.pdf)
 
 _Tues Nov 28_
 - Journal Club:
   - Viktoriya	Berdan  [Substrate binding drives large-scale conformational changes in the Hsp90 molecular chaperone.](https://www.ncbi.nlm.nih.gov/pubmed?cmd=search&term=21474071)
   - Cody Thomas Krivacic [Cross-monomer substrate contacts reposition the Hsp90 N-terminal domain and prime the chaperone activity.](https://www.ncbi.nlm.nih.gov/pubmed?cmd=search&term=22063096)
 - 1-2:30 Lecture by John Gross on using NMR for structure determination.
-- 2:30-5pm work on generating chemical shift perturbation plot versus primary sequence; mapping onto structure
+- 2:30-5pm work on generating chemical shift perturbation plot versus primary sequence; mapping onto structure, [CSPs from Sparky Lists](/static/pdf/methods/Sparky_CSP.py)
 
 _Weds Nov 29_
 - Journal Club:
