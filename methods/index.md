@@ -239,6 +239,7 @@ _Weds Nov 29_
 -  1-2:30 Lecture by John Gross on using NMR to measure ms-usec dynamics in proteins (Ryan Tibble and John Gross)
 - 2:30-5pm mapping NMR shift perturbations onto structure using Chimera  (John Gross, Ryan Tibble, Tom Goddard)
 - ChimeraX tutorial by Tom Goddard
+- [NMR Screen Compound Structure Gallery](/static/pdf/methods/Macro_NMR_Screen_Cmpd_Structures.pdf)
 
 **Week 5 - X-ray**
 - Compound Data Processing Logs, MTZs, CIFs, PDBs:
