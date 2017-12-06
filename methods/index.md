@@ -286,17 +286,18 @@ _Tues Dec 12_
 - 1-2:30PM Lecture by Cheng/Southworth
 - 4PM - Journal Club:
   - Megan	Moore [Visualization of ligand-induced transmembrane signalling in the full-length human insulin receptor](https://www.biorxiv.org/content/early/2017/10/23/207928)
-- 2:30-5PM Work on titration data with Eugene/Daniel
+- 2:30-5PM Work on projection matching with Eugene/Daniel
 
 _Weds Dec 13_
 - 1-2PM Lecture by Cheng/Southworth
 - 4PM - Journal Club:
   - Julian	Harris [Ratchet-like polypeptide translocation mechanism of the AAA+ disaggregase Hsp104.](https://www.ncbi.nlm.nih.gov/pubmed/28619716)
-- 2:30-5PM Finalize work on titration data with Eugene/Daniel
+- 2:30-5PM Finalize work on all projects!
 
 **FINAL PRESENTATIONS: Mon Dec 18**
-1-1:15 TEAM 1: Erik	Navarro, Paige	Solomon, Adam	Catching, Neha	Prasad, Christopher John Pascal	Mathy
-1:20-1:35 TEAM 2: Kelly	Montgomery, Jack	Stevenson, Yessica	Gomez, Colton	Bracken
-1:40-1:55 TEAM 3: Jenna	Pellegrino, Nicole	Wenzell, Conner	Bardine, Adam	Cotton
-2:00-2:15 TEAM 4: Kyle	Lopez, Viktoriya	Berdan, Eric	Gonzalez, Paul	Klauser
-2:20-2:35 TEAM 5: Megan	Moore, Julian	Harris, Cody Thomas	Krivacic, Lakshmi	Miller-Vedam
+
+- 1-1:20 TEAM 1: Erik	Navarro, Paige	Solomon, Adam	Catching, Neha	Prasad, Christopher John Pascal	Mathy
+- 1:25-1:45 TEAM 2: Kelly	Montgomery, Jack	Stevenson, Yessica	Gomez, Colton	Bracken
+- 1:50-2:10 TEAM 3: Jenna	Pellegrino, Nicole	Wenzell, Conner	Bardine, Adam	Cotton
+- 2:15-2:35 TEAM 4: Kyle	Lopez, Viktoriya	Berdan, Eric	Gonzalez, Paul	Klauser
+- 2:40-3:00 TEAM 5: Megan	Moore, Julian	Harris, Cody Thomas	Krivacic, Lakshmi	Miller-Vedam
