@@ -238,7 +238,7 @@ _Weds Nov 29_
   - Eric	Gonzalez [Mechanistic basis for the recognition of a misfolded protein by the molecular chaperone Hsp90.](https://www.ncbi.nlm.nih.gov/pubmed?cmd=search&term=28218749)
 -  1-2:30 Lecture by John Gross on using NMR to measure ms-usec dynamics in proteins (Ryan Tibble and John Gross)
 - 2:30-5pm mapping NMR shift perturbations onto structure using Chimera  (John Gross, Ryan Tibble, Tom Goddard)
-- ChimeraX tutorial by Tom Goddard
+- [ChimeraX tutorial by Tom Goddard](http://www.cgl.ucsf.edu/chimera/data/nmrcolor-nov2017/nmrcolor.html)
 - [NMR Screen Compound Structure Gallery](/static/pdf/methods/Macro_NMR_Screen_Cmpd_Structures.pdf)
 
 **Week 5 - X-ray**
@@ -280,7 +280,7 @@ _Mon Dec 11_
 - 2:30-5PM Work on EM data
 - 4PM - Journal Club:
   - Jenna	Pellegrino [Glucocorticoid receptor function regulated by coordinated action of the Hsp90 and Hsp70 chaperone cycles](https://www.ncbi.nlm.nih.gov/pubmed/24949977)
-- ChimeraX tutorial by Tom Goddard
+- [ChimeraX tutorial by Tom Goddard](http://www.cgl.ucsf.edu/chimera/data/hsp90-em-dec2017/hsp90em.html)
 
 _Tues Dec 12_
 - 1-2:30PM Lecture by Cheng/Southworth
@@ -295,3 +295,8 @@ _Weds Dec 13_
 - 2:30-5PM Finalize work on titration data with Eugene/Daniel
 
 **FINAL PRESENTATIONS: Mon Dec 18**
+1-1:15 TEAM 1: Erik	Navarro, Paige	Solomon, Adam	Catching, Neha	Prasad, Christopher John Pascal	Mathy
+1:20-1:35 TEAM 2: Kelly	Montgomery, Jack	Stevenson, Yessica	Gomez, Colton	Bracken
+1:40-1:55 TEAM 3: Jenna	Pellegrino, Nicole	Wenzell, Conner	Bardine, Adam	Cotton
+2:00-2:15 TEAM 4: Kyle	Lopez, Viktoriya	Berdan, Eric	Gonzalez, Paul	Klauser
+2:20-2:35 TEAM 5: Megan	Moore, Julian	Harris, Cody Thomas	Krivacic, Lakshmi	Miller-Vedam
