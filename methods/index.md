@@ -250,6 +250,8 @@ _Weds Nov 29_
   - 4 :  a44 c8 f12 f17 f21 f26 f30 f35 f4 f44 f49 f54 f60 f65 f66 f70 f71 f77 f77_2 f78 f83 f88 f93 - [BOX LINK](https://ucsf.box.com/s/0tr7age0396ksiqnblvi3ij7jqxwdns7)
   - 5 : c10 c23 c9 f13 f18 f22 f27 f31 f36 f40 f45 f50 f57 f61 f67 f72 f74 f79 f82 f84 f87 f89 f94  - [BOX LINK](https://ucsf.box.com/s/cq66o2i445ngbdnvne5gblslt8vii6yk)
 
+- [SMILES strings for all compounds](https://docs.google.com/spreadsheets/d/1a-eGuT2_d_yWOlCJEn-Oey-0_t-kFF5cl7FuAeOwQkw/edit?usp=sharing)
+
 - [Some advice on how to proceed](https://docs.google.com/document/d/1eQfOtSrB2gyF1BJQYWLI-mSoYsENyg4xP8Fsi5ZqsfM/edit?usp=sharing)
 
 _Mon Dec 4_
