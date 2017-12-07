@@ -255,7 +255,7 @@ _Weds Nov 29_
 - [Some advice on how to proceed](https://docs.google.com/document/d/1eQfOtSrB2gyF1BJQYWLI-mSoYsENyg4xP8Fsi5ZqsfM/edit?usp=sharing)
 
 _Mon Dec 4_
-- 1-2:30PM Lecture by Bob Stroud on fundamentals of X-ray diffraction
+- 1-2:30PM [Lecture by Bob Stroud on fundamentals of X-ray diffraction](https://drive.google.com/file/d/14gjFiRS2KLdZ8GqfAlrqZIbzH08gZ9TT/view?usp=sharing)
 - 2:30-5PM Work on X-ray data (JSF, Kazu Ito, Michael Thompson)
 - 4PM - Journal Club:
   - Colton	Bracken [High-Throughput Crystallography: Reliable and Efficient Identification of Fragment Hits](http://www.sciencedirect.com/science/article/pii/S0969212616301356?via%3Dihub)
