@@ -10,7 +10,7 @@ It's been over a year since I wrote an update for our lab news section (parentho
   - David (aka Iggy) finished his doctoral work in the lab and moved on to Dan Bolon's lab at UMass Medical. Iggy merged his thesis work with graduate education in the [PUBS](/pubs) course and published a spectacular deep mutational scanning [paper](/static/pdf/mavor_elife_2016.pdf) (with a record number of co-authors!) based on the the first year of the class. The next two years were summarized in a [pre-print](http://dx.doi.org/10.1101/139352). Congratulations Dr. Mavor
 
 - Welcome to new postdocs Dr. Brandi Hudson (and soon Dr. John Lee)!
-  - Brandi joined us last summer from the Tantillo lab at UC Davis and has been working in collaboration with Relay Therapeutics and Schrodinger on how to account for conformational dynamics in ligand design. John will be joining us later this month from the Burkhart lab at UCSD.
+  - Brandi joined us last summer from the Tantillo lab at UC Davis and has been working in collaboration with Relay Therapeutics and Schrodinger on how to account for conformational dynamics in ligand design. John will be joining us later this month from the Burkart lab at UCSD.
 
 - New rotation students!
   - Two fantastic students are rotating with us this quarter. Jenna from iPQB and Robbie from Tetrad. Jenna is working with Erin Thompson on compensatory mutations in enzymes and Robbie is working with Ben Barad on chitinases!
