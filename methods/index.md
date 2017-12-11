@@ -281,7 +281,7 @@ _Weds Dec 6_
 
 _Mon Dec 11_
 - 1-2:30PM Lecture by Cheng/Southworth
-- 2:30-5PM Work on EM data
+- 2:30-5PM Work on [EM data](https://ucsf.box.com/s/5miwi4zdzuxagx0b9x6mekkaby9v3gh1)
 - 4PM - Journal Club:
   - Jenna	Pellegrino [Glucocorticoid receptor function regulated by coordinated action of the Hsp90 and Hsp70 chaperone cycles](https://www.ncbi.nlm.nih.gov/pubmed/24949977)
 - [ChimeraX EM tutorial by Tom Goddard](http://www.cgl.ucsf.edu/chimera/data/hsp90-em-dec2017/hsp90em.html)
