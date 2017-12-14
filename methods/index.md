@@ -280,7 +280,7 @@ _Weds Dec 6_
 **Week 6 - EM**
 
 _Mon Dec 11_
-- 1-2:30PM Lecture by Yifan Cheng
+- 1-2:30PM [Lecture by Yifan Cheng](https://drive.google.com/open?id=1lZWQIS1Yjm8hZuNxXQbddmBKhpIQSu9k)
 - 2:30-5PM Work on [EM data](https://ucsf.box.com/s/5miwi4zdzuxagx0b9x6mekkaby9v3gh1)
 - 4PM - Journal Club:
   - Jenna	Pellegrino [Glucocorticoid receptor function regulated by coordinated action of the Hsp90 and Hsp70 chaperone cycles](https://www.ncbi.nlm.nih.gov/pubmed/24949977)
@@ -288,13 +288,13 @@ _Mon Dec 11_
 - [ChimeraX Ligand Comparison tutorial by Tom Goddard](http://www.cgl.ucsf.edu/chimera/data/hsp90-ligands-dec2017/ligandview.html)
 
 _Tues Dec 12_
-- 1-2:30PM Lecture by Yifan Cheng
+- 1-2:30PM [Lecture by Yifan Cheng](https://drive.google.com/open?id=1lZWQIS1Yjm8hZuNxXQbddmBKhpIQSu9k)
 - 4PM - Journal Club:
   - Megan	Moore [Visualization of ligand-induced transmembrane signalling in the full-length human insulin receptor](https://www.biorxiv.org/content/early/2017/10/23/207928)
 - 2:30-5PM Work on projection matching with Eugene/Daniel
 
 _Weds Dec 13_
-- 1-2PM Lecture by Yifan Cheng
+- 1-2PM [Lecture by Yifan Cheng](https://drive.google.com/open?id=1lZWQIS1Yjm8hZuNxXQbddmBKhpIQSu9k)
 - 4PM - Journal Club:
   - Julian	Harris [Ratchet-like polypeptide translocation mechanism of the AAA+ disaggregase Hsp104.](https://www.ncbi.nlm.nih.gov/pubmed/28619716)
 - 2:30-5PM Finalize work on all projects!
