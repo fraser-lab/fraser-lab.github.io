@@ -13,7 +13,7 @@
 #     - name: 'Mullins Lab'
 #       url: 'http://mullinslab.ucsf.edu/'
 #
-- citation: 'van Zundert GCP\*, **Hudson BM\*, Keedy DA**, Fonseca R, Heliou A, **Suresh P**, Borrelli K, Day T, **Fraser JS**, van den Bedem H. qFit-ligand reveals widespread conformational heterogeneity of drug-like molecules in X-ray electron density maps. *Submitted - Preprint on BioRxiv*. 2017.'
+- citation: 'van Zundert GCP\*, **Hudson BM\*, Keedy DA**, Fonseca R, Heliou A, **Suresh P**, Borrelli K, Day T, **Fraser JS**, van den Bedem H. qFit-ligand reveals widespread conformational heterogeneity of drug-like molecules in X-ray electron density maps. *Submitted - Preprint on BioRxiv*. 2018.'
   date: 201801
   image: '/static/img/pub/qfit_ligand.gif'
   pmid: Submitted
