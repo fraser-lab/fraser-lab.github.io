@@ -18,7 +18,7 @@
   image: '/static/img/pub/qfit_ligand.gif'
   pmid: Submitted
   pmcid: Submitted
-  biorxiv: Submitted
+  biorxiv: "253419"
   pdf: '/static/pdf/qfit_ligand.pdf'
   links:
     - name: Henry van den Bedem
