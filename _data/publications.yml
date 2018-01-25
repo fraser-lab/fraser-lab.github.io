@@ -21,6 +21,8 @@
   biorxiv: "253419"
   pdf: '/static/pdf/qfit_ligand.pdf'
   links:
+    - name: qFit-ligand Code on Github
+      url: https://github.com/ExcitedStates/qfit_ligand
     - name: Henry van den Bedem
       url: 'https://people.stanford.edu/vdbedem/'
     - name: Schrodinger Inc.
