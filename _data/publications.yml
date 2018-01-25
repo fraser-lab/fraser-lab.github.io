@@ -13,6 +13,21 @@
 #     - name: 'Mullins Lab'
 #       url: 'http://mullinslab.ucsf.edu/'
 #
+- citation: 'van Zundert GCP\*, **Hudson BM\*, Keedy DA**, Fonseca R, Heliou A, **Suresh P**, Borrelli K, Day T, **Fraser JS**, van den Bedem H. qFit-ligand reveals widespread conformational heterogeneity of drug-like molecules in X-ray electron density maps. *Submitted - Preprint on BioRxiv*. 2017.'
+  date: 201801
+  image: '/static/img/pub/qfit_ligand.gif'
+  pmid: Submitted
+  pmcid: Submitted
+  biorxiv: Submitted
+  pdf: '/static/pdf/qfit_ligand.pdf'
+  links:
+    - name: Henry van den Bedem
+      url: 'https://people.stanford.edu/vdbedem/'
+    - name: Schrodinger Inc.
+      url: 'https://www.schrodinger.com'
+    - name: 'Paper Submission Celebration Photo'
+      url: 'https://twitter.com/fraser_lab/status/956318642454474752'
+
 - citation: '**Keedy DA**\*, Hill ZB\*, **Biel JT**, Kang E, Rettenmaier TJ, Brandao-Neto J, Pearce NM, von Delft F, Wells JA, **Fraser JS**. New routes for PTP1B allosteric inhibition by multitemperature crystallography, fragment screening and covalent tethering. *Submitted - Preprint on BioRxiv*. 2017.'
   date: 201710
   image: '/static/img/pub/keedy_2017.jpg'
@@ -74,7 +89,7 @@ into proton conduction. *Proceedings of the National Academy of Sciences*. 2017.
   date: 201707
   image: '/static/img/pub/thomaston_2017.jpg'
   pmid: 28835537
-  pmcid: PMC5754760 
+  pmcid: PMC5754760
   pdf: '/static/pdf/thomaston_2017.pdf'
   pdbs:
     - 5JOO
