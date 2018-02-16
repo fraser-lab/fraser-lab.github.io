@@ -13,6 +13,21 @@
 #     - name: 'Mullins Lab'
 #       url: 'http://mullinslab.ucsf.edu/'
 #
+- citation: 'Wall ME, **Wolff AM**, **Fraser JS**. Bringing Diffuse X-ray Scattering Into Focus. *Current Opinion in Structural Biology*. 2018.'
+  date: 201802
+  image: '/static/img/pub/wall_review_2017.jpg'
+  pmid: Submitted
+  pmcid: Submitted
+  biorxiv: "219113"
+  pdf: '/static/pdf/wall_review_2018.pdf'
+  links:
+    - name: 'Sematura Code on Github'
+      url: 'https://github.com/fraser-lab/diffuse_scattering'
+    - name: 'Michael Wall'
+      url: 'http://public.lanl.gov/mewall/'
+    - name: 'Paper Submission Celebration Photo'
+      url: 'https://twitter.com/LifeHasOrder/status/930291172668403712'
+
 - citation: 'van Zundert GCP\*, **Hudson BM\*, Keedy DA**, Fonseca R, Heliou A, **Suresh P**, Borrelli K, Day T, **Fraser JS**, van den Bedem H. qFit-ligand reveals widespread conformational heterogeneity of drug-like molecules in X-ray electron density maps. *Submitted - Preprint on BioRxiv*. 2018.'
   date: 201801
   image: '/static/img/pub/qfit_ligand.gif'
@@ -57,21 +72,6 @@
       url: 'https://zenodo.org/record/1044103'
     - name: 'Paper Submission Celebration Photo'
       url: 'https://twitter.com/fraser_lab/status/928125440014745600'
-
-- citation: 'Wall ME, **Wolff AM**, **Fraser JS**. Bringing Diffuse X-ray Scattering Into Focus. *Submitted - Preprint on BioRxiv*. 2017.'
-  date: 201709
-  image: '/static/img/pub/wall_review_2017.jpg'
-  pmid: Submitted
-  pmcid: Submitted
-  biorxiv: "219113"
-  pdf: '/static/pdf/wall_review_2017.pdf'
-  links:
-    - name: 'Sematura Code on Github'
-      url: 'https://github.com/fraser-lab/diffuse_scattering'
-    - name: 'Michael Wall'
-      url: 'http://public.lanl.gov/mewall/'
-    - name: 'Paper Submission Celebration Photo'
-      url: 'https://twitter.com/LifeHasOrder/status/930291172668403712'
 
 - citation: 'Otten R\*, **Liu L**\*, **Kenner LR**, Clarkson MW, **Mavor D**, Tawfik DS, Kern D, **Fraser JS**. Rescue of Conformational Dynamics in Enzyme Catalysis by Directed Evolution. *Submitted - Preprint on BioRxiv*. 2017.'
   date: 201708
