@@ -13,6 +13,20 @@
 #     - name: 'Mullins Lab'
 #       url: 'http://mullinslab.ucsf.edu/'
 #
+- citation: 'Otten R\*, **Liu L**\*, **Kenner LR**, Clarkson MW, **Mavor D**, Tawfik DS, Kern D, **Fraser JS**. Rescue of Conformational Dynamics in Enzyme Catalysis by Directed Evolution. *Nature Communications*. 2018.'
+  date: 201803
+  image: '/static/img/pub/otten_liu_2017.jpg'
+  pmid: 29615624
+  pmcid: Submitted
+  biorxiv: "185009"
+  pdf: '/static/pdf/otten_liu_2019.pdf'
+  pdbs:
+    - 5WC7
+    - 6BTA
+  links:
+    - name: 'Kern Lab'
+      url: 'http://www.bio.brandeis.edu/kernlab/'
+
 - citation: 'Wall ME, **Wolff AM**, **Fraser JS**. Bringing Diffuse X-ray Scattering Into Focus. *Current Opinion in Structural Biology*. 2018.'
   date: 201802
   image: '/static/img/pub/wall_review_2017.jpg'
@@ -182,18 +196,6 @@
     - name: 'Paper Submission Celebration Photo'
       url: 'https://twitter.com/fraser_lab/status/928125440014745600'
 
-- citation: 'Otten R\*, **Liu L**\*, **Kenner LR**, Clarkson MW, **Mavor D**, Tawfik DS, Kern D, **Fraser JS**. Rescue of Conformational Dynamics in Enzyme Catalysis by Directed Evolution. *Submitted - Preprint on BioRxiv*. 2017.'
-  date: 201708
-  image: '/static/img/pub/otten_liu_2017.jpg'
-  pmid: Submitted
-  pmcid: Submitted
-  biorxiv: "185009"
-  pdf: '/static/pdf/otten_liu_2017.pdf'
-  pdbs:
-    - 5WC7
-  links:
-    - name: 'Kern Lab'
-      url: 'http://www.bio.brandeis.edu/kernlab/'
 
 - citation: 'Thomaston JL, **Woldeyes RA**, Nakane T, Yamashita A, Tanaka T, Koiwai K, Brewster AS, **Barad BA**, Chen Y, Lemmin T, Uervirojnangkoorn M, Arima T, Kobayashi J, Masuda T, Suzuki M, Sugahara M, Sauter NK, Tanaka R, Nureki O, Tono K, Joti Y, Nango E, Iwata S, Yumoto F, **Fraser JS**, DeGrado WF. XFEL structures of the influenza M2 proton channel: Room temperature water networks and insights
 into proton conduction. *Proceedings of the National Academy of Sciences*. 2017.'
