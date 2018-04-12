@@ -6,7 +6,7 @@ group: methods
 
 # Biophysics 204A: Methods in Macromolecular Structure #
 
-## Fall 2018 Syllabus ##
+## Fall 2017 Syllabus ##
 
 ![alt text](/static/img/pub/methods_wb.JPG "Macro methods whiteboard in the teaching lab")
 
@@ -26,11 +26,13 @@ group: methods
 
 **Course Days/Hours:** Monday, Tuesday, Wednesday 1pm-5pm
 
-**Instructors:** [John Gross](mailto:jdgross@cgl.ucsf.edu), [Aashish Manglik](mailto:Aashish.Manglik@ucsf.edu), [James Fraser](mailto:jfraser@fraserlab.com), and [Dan Southworth](daniel.southworth@ucsf.edu)
+**Instructors:** [James Fraser](mailto:jfraser+bp204a@fraserlab.com) and [John Gross](mailto:jdgross@cgl.ucsf.edu)
 
 **EM Coordinator:** [David Bulkley](mailto:david.bulkley@ucsf.edu)
 
 **HSP90 Preparer/NMR guru:** Ryan Tibble (Gross lab)
+
+**HSP90 Crystallizer:** Kazu Ito (Fraser lab)
 
 **X-ray guru:** Michael Thompson (Fraser lab)
 
@@ -38,8 +40,8 @@ group: methods
 
 **TAs:**
 
-- [TBD](mailto:???)
-- [TBD](mailto:???)
+- [Cynthia Chio](mailto:Tak.Chio@ucsf.edu)
+- [Andrew Natale](mailto:Andrew.Natale@ucsf.edu)
 
 **Lecturers/Facilitators:**
 
@@ -57,9 +59,9 @@ Fluency in multiple biophysical methods is often critical for answering mechanis
 
 **Course Description:**
 
-This is a team-based class where students work in small groups develop their own analysis of real data that they have collected. Statistical aspects of rigor and reproducibility in structural biology will be emphasized throughout lectures, journal club presentations, and hands-on activities. The course will function in three modules. In module 1 “data collection” students collect either NMR, negative stain EM, and X-ray crystallographic data. In module  2 “fundamentals of analysis”,  students will are mixed into new groups for lectures and hands-on computational tutorials. These lessons emphasize connections to both the molecular interpretations and the fundamental physical principles that generated the data. In module 3 “integrative structural biology”, the students will finalize their analysis and lectures will emphasize rigorous theory of individual techniques and computational frameworks for integrative structural modeling.  Finally, each group will present to their findings to the class and course faculty. The website for the 2017 version of the course can be accessed [here](/methods/index_2017.html)
+This is a team-based class where students work in small groups develop their own analysis of real data that they have collected. Statistical aspects of rigor and reproducibility in structural biology will be emphasized throughout lectures, journal club presentations, and hands-on activities. The course will function in three modules. In module 1 “data collection” students collect either NMR, negative stain EM, and X-ray crystallographic data. In module  2 “fundamentals of analysis”,  students will are mixed into new groups for lectures and hands-on computational tutorials. These lessons emphasize connections to both the molecular interpretations and the fundamental physical principles that generated the data. In module 3 “integrative structural biology”, the students will finalize their analysis and lectures will emphasize rigorous theory of individual techniques and computational frameworks for integrative structural modeling.  Finally, each group will present to their findings to the class and course faculty.
 
-**Recommended reading: - STUDENTS DIDN'T ENGAGE IN THIS**
+**Recommended reading:**
 
 - [Integrative Structural Biology](http://science.sciencemag.org/content/339/6122/913.long)
 - [SAR by NMR](https://www.ncbi.nlm.nih.gov/pubmed/8929414)
@@ -68,13 +70,6 @@ This is a team-based class where students work in small groups develop their own
 - [EM for drug discovery](https://www.ncbi.nlm.nih.gov/pubmed/27238019), [Proteasome example](http://journals.iucr.org/d/issues/2017/06/00/rr5143/rr5143.pdf)
 - [The maximal affinity of ligands](https://www.ncbi.nlm.nih.gov/pubmed/10468550)
 - [The role of ligand efficiency metrics in drug discovery](https://www.nature.com/articles/nrd4163)
-
-**Recommended background videos**
-
-- [Getting started in CryoEM - Grant Jensen lectures](https://www.youtube.com/playlist?list=PL8_xPU5epJdctoHdQjpfHmd_z9WvGxK8-)
-- [X-ray crystallography lecture - George Phillips](https://www.youtube.com/watch?v=OeOzLTNHWoM)
-- [Crystallographic Symmetry - Eddie Snell](https://www.youtube.com/watch?v=sIgWFErZ3XU)
-- [X-ray Diffraction Physics - Bob Blessing](https://www.youtube.com/watch?v=UJZF5yPNhIE)
 
 **Course Goals:**
 
@@ -97,7 +92,7 @@ Journal club presentations will be limited to 6 minutes. You should use 3 slides
 - Fragment screening
 - X-ray crystallography
 - NMR spectroscopy
-- Electron Microscopy
+- Electron Miscroscopy
 - Statistical aspects of structural biology
 - Integrative modeling
 
@@ -113,7 +108,7 @@ _Accommodations for students with disabilities:_ The Graduate Division embraces 
 at http://sds.ucsf.edu. Accommodations are never retroactive; therefore students are encouraged to register with Student Disability Services (http://sds.ucsf.edu/) as soon as they begin their programs. UCSF encourages students to engage in support seeking behavior via all of the resources available through Student Life, for consistent support and access to their programs.
 
 
-## Schedule - NOTE TO JOHN GROSS - change dates based on PUBS 2018 scheduling##
+## Schedule ##
 
 **Week 1 – Welcome**
 
@@ -137,6 +132,8 @@ _Weds Nov 1_
     - [PyMOL](https://pymol.org/2/), must be on UCSF network
   - X-ray:
     - [Phenix](https://www.phenix-online.org/download/), [request password](http://www.phenix-online.org/phenix_request/index.cgi)
+    - [XDS](http://xds.mpimf-heidelberg.mpg.de/html_doc/downloading.html)
+    - [XDS-GUI](https://strucbio.biologie.uni-konstanz.de/xdswiki/index.php/Installation#Mac_.28Intel.29)
     - [ADXV](http://www.scripps.edu/tainer/arvai/adxv.html)
     - Coot (already installed on laptops), if not use [Standalone Coot](http://scottlab.ucsc.edu/xtal/wiki/index.php/Stand-alone_Coot_for_10.11)
     - [XRayView](http://www.phillipslab.org/software)
@@ -152,7 +149,7 @@ _Weds Nov 1_
 **Week 2 – Working in Method Teams**
 
 _X-ray_
-- NAMES OF STUDENTS:
+- Christopher John Pascal	Mathy, Yessica	Gomez, Colton	Bracken, Conner	Bardine, Adam	Cotton, Paul	Klauser, Lakshmi	Miller-Vedam
 - Monday Nov 6: Crystal harvesting (Genentech Hall crystal room)
 - Tuesday Nov 7: Beamtime at Advanced Light Source: noon-4PM
   - [link to registration material](https://docs.google.com/document/d/1V2-PNSKaoAF7rlRj-rJNA9xA8E-7zrwWzigpKhcNNDI/edit?usp=sharing) - register at [ALSHub](alshub.als.lbl.gov)
@@ -160,27 +157,27 @@ _X-ray_
 - Wednesday Nov 8: Beamtime at Advanced Light Source: 8AM-4PM
 
 _NMR_
-- NMR Group A:  NAMES
-- NMR Group B:  NAMES
+- NMR Group A:  Viktoriya	Berdan, Adam	Catching, Neha	Prasad, Jack	Stevenson
+- NMR Group B:  Nicole	Wenzell, Eric	Gonzalez, Cody Thomas	Krivacic
 - Monday Nov 6:	  1-2pm NMR sample loading (teaching lab, Group A and B); NMR data collection: 2-3:30pm, Group A and 3:30-5pm , Group B
 - Tuesday Nov 7:	  1-5pm NMR data collection (titration, Group A )
 - Wednesday Nov 8:	   1-5pm NMR data collection (titration, Group B)
 - [500 MHz NMR quick start guide](/static/pdf/methods/UCSF_500_Cheat_Sheet.pdf)
 
 _EM_
-- NAMES
+- Kyle	Lopez, Erik	Navarro, Paige	Solomon, Kelly	Montgomery, Jenna	Pellegrino, Megan	Moore, Julian	Harris
 - Monday Nov 6: Grids
 - Tuesday Nov 7: Negative Stain Data Collection
 - Wednesday Nov 8: Cryo-EM
 
-**Week 3 – Working in Compound Groups - RESTRUCTURE THIS WEEK WITH ONE TOPIC PER DAY**
+**Week 3 – Working in Compound Groups**
 
 _Groups_
-- 1:
-- 2:
-- 3:
-- 4:
-- 5:
+- 1: Erik	Navarro, Paige	Solomon, Adam	Catching, Neha	Prasad, Christopher John Pascal	Mathy
+- 2: Kelly	Montgomery, Jack	Stevenson, Yessica	Gomez, Colton	Bracken
+- 3: Jenna	Pellegrino, Nicole	Wenzell, Conner	Bardine, Adam	Cotton
+- 4: Kyle	Lopez, Viktoriya	Berdan, Eric	Gonzalez, Paul	Klauser
+- 5: Megan	Moore, Julian	Harris, Cody Thomas	Krivacic, Lakshmi	Miller-Vedam
 
 _Mon Nov 13_
 **Presentations on Methods Week**: Two students from each Method Team will present for 10 minutes and summarize what occured in Week 2. Take pictures and try to give the students a feel for not only the theory of what you learned but also the practical aspects!
