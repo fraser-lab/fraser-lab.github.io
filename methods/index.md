@@ -134,7 +134,7 @@ Chalk Talks:
 - 2:45-3:00 - X-ray 101 (JSF)
 - 3:00-3:15 - EM 101 (Dan Southworth)
 - 3:15-3:30 - NMR 101 (Gross)
-- 3:30-4:00 - [FFT 101] (https://docs.google.com/presentation/d/1RXALgbFH0JQmjFozPzkO8Oe2OenqU4D4Nl7md6UBMP0/edit?usp=sharing)
+- 3:30-4:00 - [FFT 101 (TBD)] (https://docs.google.com/presentation/d/1RXALgbFH0JQmjFozPzkO8Oe2OenqU4D4Nl7md6UBMP0/edit?usp=sharing)
 
 _Weds Nov 7_
 
