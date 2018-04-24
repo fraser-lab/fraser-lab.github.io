@@ -61,7 +61,7 @@ Fluency in multiple biophysical methods is often critical for answering mechanis
 
 This is a team-based class where students work in small groups develop their own analysis of real data that they have collected. Statistical aspects of rigor and reproducibility in structural biology will be emphasized throughout lectures, journal club presentations, and hands-on activities. The course will function in three modules. In module 1 “data collection” students collect either NMR, negative stain EM, and X-ray crystallographic data. In module  2 “fundamentals of analysis”,  students will are mixed into new groups for lectures and hands-on computational tutorials. These lessons emphasize connections to both the molecular interpretations and the fundamental physical principles that generated the data. In module 3 “integrative structural biology”, the students will finalize their analysis and lectures will emphasize rigorous theory of individual techniques and computational frameworks for integrative structural modeling.  Finally, each group will present to their findings to the class and course faculty. The website for the 2017 version of the course can be accessed [here](/methods_2017/)
 
-**Recommended reading: - STUDENTS DIDN'T ENGAGE IN THIS**
+**Recommended reading:**
 
 - [Integrative Structural Biology](http://science.sciencemag.org/content/339/6122/913.long)
 - [SAR by NMR](https://www.ncbi.nlm.nih.gov/pubmed/8929414)
@@ -119,7 +119,7 @@ _Accommodations for students with disabilities:_ The Graduate Division embraces 
 at http://sds.ucsf.edu. Accommodations are never retroactive; therefore students are encouraged to register with Student Disability Services (http://sds.ucsf.edu/) as soon as they begin their programs. UCSF encourages students to engage in support seeking behavior via all of the resources available through Student Life, for consistent support and access to their programs.
 
 
-## Schedule - NOTE TO JOHN GROSS - change dates based on PUBS 2018 scheduling##
+## Schedule##
 
 **Week 1 – Welcome**
 
