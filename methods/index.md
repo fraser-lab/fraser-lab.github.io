@@ -180,8 +180,12 @@ _EM_
 - Wednesday Nov 14: Negative Stain Data Collection
 - Thursday Nov 15: Cryo-EM
 
-**Week 3 – Working in Compound Groups - RESTRUCTURE THIS WEEK WITH ONE TOPIC PER DAY**
-
+**Week 3 – Working in Compound Groups -**
+**Note special meeting times: Monday and Tuesday 10am-5pm , with Wednesday off for Thanksgiving Break**
+**Presentations on Methods Week**: Two students from each Method Team will present for 10 minutes and summarize what occured in Week 2. Take pictures and try to give the students a feel for not only the theory of what you learned but also the practical aspects!
+  - EM: Erik	Navarro and Paige	Solomon
+  - X-ray: Christopher John Pascal	Mathy and Yessica	Gomez
+  - NMR: Adam	Catching and Neha	Prasad
 _Groups_
 - 1:
 - 2:
@@ -190,22 +194,26 @@ _Groups_
 - 5:
 
 _Mon Nov 19_
-**Presentations on Methods Week**: Two students from each Method Team will present for 10 minutes and summarize what occured in Week 2. Take pictures and try to give the students a feel for not only the theory of what you learned but also the practical aspects!
-  - EM: Erik	Navarro and Paige	Solomon
-  - X-ray: Christopher John Pascal	Mathy and Yessica	Gomez
-  - NMR: Adam	Catching and Neha	Prasad
-
-- 1-2:20PM: X-ray Methods Group Presentation and X-ray data processing: from spots to MTZ (JSF, Kazu Ito, Michael Thompson)
-  - [Box link to ADP images](https://ucsf.box.com/s/i85gxe5prx9z3ov5hdftqgy1skdevca7) - Download
+- 10am-11:15: X-ray Methods Group Presentation and X-ray data processing: from spots to MTZ (JSF, Kazu Ito, Michael Thompson)
+ - [Box link to ADP images](https://ucsf.box.com/s/i85gxe5prx9z3ov5hdftqgy1skdevca7) - Download
   - [xia2 summary for APO](/static/apo/xia2.html)
     - [APO mtz](/static/apo/DataFiles/yHSP90_APO.mtz)
   - [xia2 summary for ADP](/static/adp/xia2.html)
     - [ADP mtz](/static/adp/DataFiles/yHSP90_ADP.mtz)
-- 2:20-3:40PM: EM Methods Group Presentation and [EM data processing: from particles to 2D](https://docs.google.com/document/d/1cyh9XstW3Da8tU1g5gj8UCk1OMC8vGJsk7a5r6T9XHo/edit?usp=sharing)
-- 3:40-5PM NMR Methods Group Presentation and NMR data processing: : [from FID to 2D](/static/pdf/methods/2DNMR_Processing_Tutorial.pdf) (Ryan Tibble and John Gross)
+- 11:15-noon: X-ray data processing from MTZ to density, molecular replacement, difference maps (JSF, Kazu Ito, Michael Thompson)
+- 1:00-1:30PM: X-ray Journal Club 
+ - Lakshmi	Miller-Vedam [Free R value: a novel statistical quantity for assessing the accuracy of crystal structures](https://www.nature.com/nature/journal/v355/n6359/pdf/355472a0.pdf)
+  -Kyle	Lopez [Molprobity](https://www.ncbi.nlm.nih.gov/pubmed/20057044)
+- 1:30-3:00PM: X-ray data processing: identifying ligands, ligand restraints and refinement (JSF, Kazu Ito, Michael Thompson)
+- 3:00-5:00PM: NMR Methods Group Presentation and NMR data processing: : [from FID to 2D](/static/pdf/methods/2DNMR_Processing_Tutorial.pdf) (Ryan Tibble and John Gross)
+
+
+
 
 _Tues Nov 20_
-- 2-3PM NMR data processing: overlaying spectrum with assignments and perturbations from 2D data comparisons (Ryan Tibble and John Gross)
+-10am-noon NMR Journal Club, NMR data processing: measuring chemical shift perturbations (Ryan Tibble and John Gross)
+ - NMR Journal Club
+  -Nicole	Wenzell [Weak alignment NMR: a hawk-eyed view of biomolecular structure](https://doi.org/10.1016/j.sbi.2005.08.006), background: [Direct measurement of distances and angles in biomolecules by NMR dilute liquid crystalline medium](https://www.ncbi.nlm.nih.gov/pubmed/9353189)  **These papers will be replaced with other, possibly.**
   - [Intro to Sparky](/static/pdf/methods/Sparky_tutorial.pdf)
   - Compound Assignments (25=DMSO, 26=APO):
     - 1: 1, 2, 11, 13, 19
@@ -213,21 +221,16 @@ _Tues Nov 20_
     - 3: 5, 6, 15, 17, 22
     - 4: 7, 8, 16, 20, 24
     - 5: 9, 10, 18, 23
-- 3PM - Journal club:
-  - Nicole	Wenzell [Weak alignment NMR: a hawk-eyed view of biomolecular structure](https://doi.org/10.1016/j.sbi.2005.08.006), background: [Direct measurement of distances and angles in biomolecules by NMR dilute liquid crystalline medium](https://www.ncbi.nlm.nih.gov/pubmed/9353189)
-  - Lakshmi	Miller-Vedam [Free R value: a novel statistical quantity for assessing the accuracy of crystal structures](https://www.nature.com/nature/journal/v355/n6359/pdf/355472a0.pdf)
-- 3:30-4:30PM X-ray data processing: from MTZ to density, molecular replacement and difference maps (JSF, Kazu Ito, Michael Thompson)
+- 1-2:30pm EM Methods Group Presentation and [EM data processing: from particles to 2D](https://docs.google.com/document/d/1cyh9XstW3Da8tU1g5gj8UCk1OMC8vGJsk7a5r6T9XHo/edit?usp=sharing)
+2:30-3pm EM Journal Club and Break
+- Kelly	Montgomery [Prevention of overfitting in cryo-EM structure determination.](https://www.ncbi.nlm.nih.gov/pubmed?cmd=search&term=22842542), background: [Optimal Determination of Particle Orientation, Absolute Hand, and Contrast Loss in Single-particle Electron Cryomicroscopy](http://www.sciencedirect.com/science/article/pii/S0022283603010222)
+3:00-5pm EM data processing: manipulating density.
+[EM data processing: manipulating density](https://docs.google.com/document/d/1cyh9XstW3Da8tU1g5gj8UCk1OMC8vGJsk7a5r6T9XHo/edit?usp=sharing)
+  - [PDBs](https://ucsf.box.com/s/aoz3ydxn9rdvowxhcbfm6qbmo159x3rv) for FSC comparisons
+ 
 
 _Weds Nov 21_
 **Thanksgiving break**
-- 1-2PM NMR data processing: measuring chemical shift perturbations  (Ryan Tibble and John Gross)
-- 2-3PM X-ray data processing: identifying ligands, ligand restraints and refinement (JSF, Kazu Ito, Michael Thompson)
-- 3PM - Journal Club:
-  - Kelly	Montgomery [Prevention of overfitting in cryo-EM structure determination.](https://www.ncbi.nlm.nih.gov/pubmed?cmd=search&term=22842542), background: [Optimal Determination of Particle Orientation, Absolute Hand, and Contrast Loss in Single-particle Electron Cryomicroscopy](http://www.sciencedirect.com/science/article/pii/S0022283603010222)
-  -  Kyle	Lopez [Molprobity](https://www.ncbi.nlm.nih.gov/pubmed/20057044)
-- 3:30-4:30PM [EM data processing: manipulating density](https://docs.google.com/document/d/1cyh9XstW3Da8tU1g5gj8UCk1OMC8vGJsk7a5r6T9XHo/edit?usp=sharing)
-  - [PDBs](https://ucsf.box.com/s/aoz3ydxn9rdvowxhcbfm6qbmo159x3rv) for FSC comparisons
-
 
 
 **Week 4 - NMR**
