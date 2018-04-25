@@ -180,7 +180,7 @@ _EM_
 - Wednesday Nov 14: Negative Stain Data Collection
 - Thursday Nov 15: Cryo-EM
 
-**Week 3 – Working in Compound Groups **
+**Week 3 – Working in Compound Groups**
 
 **Note special meeting times: Monday and Tuesday 10am-5pm , with Wednesday off for Thanksgiving Break**
 
