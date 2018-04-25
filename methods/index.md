@@ -180,8 +180,9 @@ _EM_
 - Wednesday Nov 14: Negative Stain Data Collection
 - Thursday Nov 15: Cryo-EM
 
-**Week 3 – Working in Compound Groups -**
+**Week 3 – Working in Compound Groups **
 **Note special meeting times: Monday and Tuesday 10am-5pm , with Wednesday off for Thanksgiving Break**
+
 **Presentations on Methods Week**: Two students from each Method Team will present for 10 minutes and summarize what occured in Week 2. Take pictures and try to give the students a feel for not only the theory of what you learned but also the practical aspects!
   - EM: Erik	Navarro and Paige	Solomon
   - X-ray: Christopher John Pascal	Mathy and Yessica	Gomez
