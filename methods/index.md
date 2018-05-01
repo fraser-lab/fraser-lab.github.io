@@ -24,7 +24,7 @@ group: methods
 
 **Textbook:** None. Lab protocols and course materials will be available in class or online
 
-**Course Days/Hours:** Monday, Tuesday, Wednesday 1pm-5pm
+**Course Days/Hours:** Monday, Tuesday, Wednesday 1pm-5pm unless noted otherwise
 
 **Instructors:** [John Gross](mailto:jdgross@cgl.ucsf.edu), [Aashish Manglik](mailto:Aashish.Manglik@ucsf.edu), [James Fraser](mailto:jfraser@fraserlab.com), and [Dan Southworth](daniel.southworth@ucsf.edu)
 
@@ -45,11 +45,13 @@ group: methods
 
 James Fraser, John Gross, Dan Southworth, David Bulkley, James Holton, Yifan Cheng, David Agard, Aashish Manglik, Andrej Sali, Robert Stroud
 
-**Important Dates: - JOHN THIS NEEDS CONFIRMATION FROM PUBS/REBECCA**
+**Important Dates:**
 
-- Method Groups Presentation: Monday, Nov 13th
-- Break for QBC Retreat/Thanksgiving: Nov 20-25
-- Final Teams Presentation: Monday, Dec 18
+
+- Veterans Day Holiday Observed: Monday, Nov 12; makeup session Thursday Nov 15
+- Method Groups Presentation: Monday, Nov 19th
+- Break for Thanksgiving: Nov 21-23
+- Final Teams Presentation: Monday, Dec 17
 
 **Background:**
 
@@ -59,7 +61,7 @@ Fluency in multiple biophysical methods is often critical for answering mechanis
 
 This is a team-based class where students work in small groups develop their own analysis of real data that they have collected. Statistical aspects of rigor and reproducibility in structural biology will be emphasized throughout lectures, journal club presentations, and hands-on activities. The course will function in three modules. In module 1 “data collection” students collect either NMR, negative stain EM, and X-ray crystallographic data. In module  2 “fundamentals of analysis”,  students will are mixed into new groups for lectures and hands-on computational tutorials. These lessons emphasize connections to both the molecular interpretations and the fundamental physical principles that generated the data. In module 3 “integrative structural biology”, the students will finalize their analysis and lectures will emphasize rigorous theory of individual techniques and computational frameworks for integrative structural modeling.  Finally, each group will present to their findings to the class and course faculty. The website for the 2017 version of the course can be accessed [here](/methods_2017/)
 
-**Recommended reading: - STUDENTS DIDN'T ENGAGE IN THIS**
+**Recommended reading:**
 
 - [Integrative Structural Biology](http://science.sciencemag.org/content/339/6122/913.long)
 - [SAR by NMR](https://www.ncbi.nlm.nih.gov/pubmed/8929414)
@@ -68,6 +70,7 @@ This is a team-based class where students work in small groups develop their own
 - [EM for drug discovery](https://www.ncbi.nlm.nih.gov/pubmed/27238019), [Proteasome example](http://journals.iucr.org/d/issues/2017/06/00/rr5143/rr5143.pdf)
 - [The maximal affinity of ligands](https://www.ncbi.nlm.nih.gov/pubmed/10468550)
 - [The role of ligand efficiency metrics in drug discovery](https://www.nature.com/articles/nrd4163)
+- [Introduction to NMR](https://www.cis.rit.edu/htbooks/nmr/inside.htm)
 
 **Recommended background videos**
 
@@ -75,6 +78,9 @@ This is a team-based class where students work in small groups develop their own
 - [X-ray crystallography lecture - George Phillips](https://www.youtube.com/watch?v=OeOzLTNHWoM)
 - [Crystallographic Symmetry - Eddie Snell](https://www.youtube.com/watch?v=sIgWFErZ3XU)
 - [X-ray Diffraction Physics - Bob Blessing](https://www.youtube.com/watch?v=UJZF5yPNhIE)
+- [Protein Dynamics by NMR- Dorothee Kern](https://www.youtube.com/watch?v=fzM5V0bbybM)
+- [Ligand binding and drug design-Dorothee Kern](https://www.youtube.com/watch?v=7MuBsYNrypg&t=659s)
+- [NMR Theory Course , James Keeler](https://www.youtube.com/watch?v=nM7jQFhrvR0&index=1&list=PLE20foNk9J6L1dh9X27RaPiaul8_7wrAY)
 
 **Course Goals:**
 
@@ -113,11 +119,11 @@ _Accommodations for students with disabilities:_ The Graduate Division embraces 
 at http://sds.ucsf.edu. Accommodations are never retroactive; therefore students are encouraged to register with Student Disability Services (http://sds.ucsf.edu/) as soon as they begin their programs. UCSF encourages students to engage in support seeking behavior via all of the resources available through Student Life, for consistent support and access to their programs.
 
 
-## Schedule - NOTE TO JOHN GROSS - change dates based on PUBS 2018 scheduling##
+## Schedule##
 
 **Week 1 – Welcome**
 
-_Tues Oct 31_
+_Tues Nov 6_
 
 - 1:00-1:30 - [Intro to Macro Methods](/static/pdf/methods/macro_methods_intro.pdf) (JSF)
 - 1:30-2:30 - Why Hsp90 is cool (David Agard)
@@ -128,8 +134,9 @@ Chalk Talks:
 - 2:45-3:00 - X-ray 101 (JSF)
 - 3:00-3:15 - EM 101 (Dan Southworth)
 - 3:15-3:30 - NMR 101 (Gross)
+- 3:30-4:00 - [FFT 101 (TBD)] (https://docs.google.com/presentation/d/1RXALgbFH0JQmjFozPzkO8Oe2OenqU4D4Nl7md6UBMP0/edit?usp=sharing)
 
-_Weds Nov 1_
+_Weds Nov 7_
 
 - 1:00-2:00PM - break into groups, ensure software works
   - All:
@@ -150,31 +157,37 @@ _Weds Nov 1_
 
 
 **Week 2 – Working in Method Teams**
-
+ Monday Nov 12: Veterans Day Holiday, no class; make up session on Thursday Nov 15
 _X-ray_
 - NAMES OF STUDENTS:
-- Monday Nov 6: Crystal harvesting (Genentech Hall crystal room)
-- Tuesday Nov 7: Beamtime at Advanced Light Source: noon-4PM
+- Tuesday Nov 13: Crystal harvesting (Genentech Hall crystal room)
+- Wednesday Nov 14: Beamtime at Advanced Light Source: noon-4PM
   - [link to registration material](https://docs.google.com/document/d/1V2-PNSKaoAF7rlRj-rJNA9xA8E-7zrwWzigpKhcNNDI/edit?usp=sharing) - register at [ALSHub](alshub.als.lbl.gov)
   - [directions to the ALS](https://als.lbl.gov/onsite-access/), we will travel together on BART Nov 7 and 8, but just in case!
-- Wednesday Nov 8: Beamtime at Advanced Light Source: 8AM-4PM
+- Thursday Nov 15: Beamtime at Advanced Light Source: 8AM-4PM
 
 _NMR_
 - NMR Group A:  NAMES
 - NMR Group B:  NAMES
-- Monday Nov 6:	  1-2pm NMR sample loading (teaching lab, Group A and B); NMR data collection: 2-3:30pm, Group A and 3:30-5pm , Group B
-- Tuesday Nov 7:	  1-5pm NMR data collection (titration, Group A )
-- Wednesday Nov 8:	   1-5pm NMR data collection (titration, Group B)
+- Tuesday Nov 13:	  1-2pm NMR sample loading (teaching lab, Group A and B); NMR data collection: 2-3:30pm, Group A and 3:30-5pm , Group B
+- Wednesday Nov 14:	  1-5pm NMR data collection (titration, Group A )
+- Thursday Nov 15:	   1-5pm NMR data collection (titration, Group B)
 - [500 MHz NMR quick start guide](/static/pdf/methods/UCSF_500_Cheat_Sheet.pdf)
 
 _EM_
 - NAMES
-- Monday Nov 6: Grids
-- Tuesday Nov 7: Negative Stain Data Collection
-- Wednesday Nov 8: Cryo-EM
+- Tuesday Nov 13: Grids
+- Wednesday Nov 14: Negative Stain Data Collection
+- Thursday Nov 15: Cryo-EM
 
-**Week 3 – Working in Compound Groups - RESTRUCTURE THIS WEEK WITH ONE TOPIC PER DAY**
+**Week 3 – Working in Compound Groups**
 
+**Note special meeting times: Monday and Tuesday 10am-5pm , with Wednesday off for Thanksgiving Break**
+
+**Presentations on Methods Week**: Two students from each Method Team will present for 10 minutes and summarize what occured in Week 2. Take pictures and try to give the students a feel for not only the theory of what you learned but also the practical aspects!
+  - EM: Erik	Navarro and Paige	Solomon
+  - X-ray: Christopher John Pascal	Mathy and Yessica	Gomez
+  - NMR: Adam	Catching and Neha	Prasad
 _Groups_
 - 1:
 - 2:
@@ -182,24 +195,27 @@ _Groups_
 - 4:
 - 5:
 
-_Mon Nov 13_
-**Presentations on Methods Week**: Two students from each Method Team will present for 10 minutes and summarize what occured in Week 2. Take pictures and try to give the students a feel for not only the theory of what you learned but also the practical aspects!
-  - EM: Erik	Navarro and Paige	Solomon
-  - X-ray: Christopher John Pascal	Mathy and Yessica	Gomez
-  - NMR: Adam	Catching and Neha	Prasad
-
-- 1-2:20PM: X-ray Methods Group Presentation and X-ray data processing: from spots to MTZ (JSF, Kazu Ito, Michael Thompson)
-  - [Box link to ADP images](https://ucsf.box.com/s/i85gxe5prx9z3ov5hdftqgy1skdevca7) - Download
+_Mon Nov 19_
+- 10am-11:15: X-ray Methods Group Presentation and X-ray data processing: from spots to MTZ (JSF, Kazu Ito, Michael Thompson)
+ - [Box link to ADP images](https://ucsf.box.com/s/i85gxe5prx9z3ov5hdftqgy1skdevca7) - Download
   - [xia2 summary for APO](/static/apo/xia2.html)
     - [APO mtz](/static/apo/DataFiles/yHSP90_APO.mtz)
   - [xia2 summary for ADP](/static/adp/xia2.html)
     - [ADP mtz](/static/adp/DataFiles/yHSP90_ADP.mtz)
-- 2:20-3:40PM: EM Methods Group Presentation and [EM data processing: from particles to 2D](https://docs.google.com/document/d/1cyh9XstW3Da8tU1g5gj8UCk1OMC8vGJsk7a5r6T9XHo/edit?usp=sharing)
-- 3:40-5PM NMR Methods Group Presentation and NMR data processing: : [from FID to 2D](/static/pdf/methods/2DNMR_Processing_Tutorial.pdf) (Ryan Tibble and John Gross)
+- 11:15-noon: X-ray data processing from MTZ to density, molecular replacement, difference maps (JSF, Kazu Ito, Michael Thompson)
+- 1:00-1:30PM: X-ray Journal Club 
+ - Lakshmi	Miller-Vedam [Free R value: a novel statistical quantity for assessing the accuracy of crystal structures](https://www.nature.com/nature/journal/v355/n6359/pdf/355472a0.pdf)
+  -Kyle	Lopez [Molprobity](https://www.ncbi.nlm.nih.gov/pubmed/20057044)
+- 1:30-3:00PM: X-ray data processing: identifying ligands, ligand restraints and refinement (JSF, Kazu Ito, Michael Thompson)
+- 3:00-5:00PM: NMR Methods Group Presentation and NMR data processing: : [from FID to 2D](/static/pdf/methods/2DNMR_Processing_Tutorial.pdf) (Ryan Tibble and John Gross)
 
-_Tues Nov 14_
-- 1-2PM [EM - FFT 101](https://docs.google.com/presentation/d/1RXALgbFH0JQmjFozPzkO8Oe2OenqU4D4Nl7md6UBMP0/edit?usp=sharing)
-- 2-3PM NMR data processing: overlaying spectrum with assignments and perturbations from 2D data comparisons (Ryan Tibble and John Gross)
+
+
+
+_Tues Nov 20_
+-10am-noon NMR Journal Club, NMR data processing: measuring chemical shift perturbations (Ryan Tibble and John Gross)
+ - NMR Journal Club
+  -Nicole	Wenzell [Weak alignment NMR: a hawk-eyed view of biomolecular structure](https://doi.org/10.1016/j.sbi.2005.08.006), background: [Direct measurement of distances and angles in biomolecules by NMR dilute liquid crystalline medium](https://www.ncbi.nlm.nih.gov/pubmed/9353189)  **These papers will be replaced with other, possibly.**
   - [Intro to Sparky](/static/pdf/methods/Sparky_tutorial.pdf)
   - Compound Assignments (25=DMSO, 26=APO):
     - 1: 1, 2, 11, 13, 19
@@ -207,38 +223,34 @@ _Tues Nov 14_
     - 3: 5, 6, 15, 17, 22
     - 4: 7, 8, 16, 20, 24
     - 5: 9, 10, 18, 23
-- 3PM - Journal club:
-  - Nicole	Wenzell [Weak alignment NMR: a hawk-eyed view of biomolecular structure](https://doi.org/10.1016/j.sbi.2005.08.006), background: [Direct measurement of distances and angles in biomolecules by NMR dilute liquid crystalline medium](https://www.ncbi.nlm.nih.gov/pubmed/9353189)
-  - Lakshmi	Miller-Vedam [Free R value: a novel statistical quantity for assessing the accuracy of crystal structures](https://www.nature.com/nature/journal/v355/n6359/pdf/355472a0.pdf)
-- 3:30-4:30PM X-ray data processing: from MTZ to density, molecular replacement and difference maps (JSF, Kazu Ito, Michael Thompson)
-
-_Weds Nov 15_
-- 1-2PM NMR data processing: measuring chemical shift perturbations  (Ryan Tibble and John Gross)
-- 2-3PM X-ray data processing: identifying ligands, ligand restraints and refinement (JSF, Kazu Ito, Michael Thompson)
-- 3PM - Journal Club:
-  - Kelly	Montgomery [Prevention of overfitting in cryo-EM structure determination.](https://www.ncbi.nlm.nih.gov/pubmed?cmd=search&term=22842542), background: [Optimal Determination of Particle Orientation, Absolute Hand, and Contrast Loss in Single-particle Electron Cryomicroscopy](http://www.sciencedirect.com/science/article/pii/S0022283603010222)
-  -  Kyle	Lopez [Molprobity](https://www.ncbi.nlm.nih.gov/pubmed/20057044)
-- 3:30-4:30PM [EM data processing: manipulating density](https://docs.google.com/document/d/1cyh9XstW3Da8tU1g5gj8UCk1OMC8vGJsk7a5r6T9XHo/edit?usp=sharing)
+- 1-2:30pm EM Methods Group Presentation and [EM data processing: from particles to 2D](https://docs.google.com/document/d/1cyh9XstW3Da8tU1g5gj8UCk1OMC8vGJsk7a5r6T9XHo/edit?usp=sharing)
+2:30-3pm EM Journal Club and Break
+- Kelly	Montgomery [Prevention of overfitting in cryo-EM structure determination.](https://www.ncbi.nlm.nih.gov/pubmed?cmd=search&term=22842542), background: [Optimal Determination of Particle Orientation, Absolute Hand, and Contrast Loss in Single-particle Electron Cryomicroscopy](http://www.sciencedirect.com/science/article/pii/S0022283603010222)
+3:00-5pm EM data processing: manipulating density.
+[EM data processing: manipulating density](https://docs.google.com/document/d/1cyh9XstW3Da8tU1g5gj8UCk1OMC8vGJsk7a5r6T9XHo/edit?usp=sharing)
   - [PDBs](https://ucsf.box.com/s/aoz3ydxn9rdvowxhcbfm6qbmo159x3rv) for FSC comparisons
+ 
 
+_Weds Nov 21_
 **Thanksgiving break**
+
 
 **Week 4 - NMR**
 
-_Mon Nov 27_
+_Mon Nov 26_
 - Journal Club:
   - Jack	Stevenson [Asymmetric activation of the hsp90 dimer by its cochaperone aha1.](https://www.ncbi.nlm.nih.gov/pubmed?cmd=search&term=20159554), background: [Localization of the NADPH binding site on MurB by NMR](https://www.ncbi.nlm.nih.gov/pubmed/8946851)
 - 1-2:30 Lecture by John Gross on fundamentals of NMR theory applications to  mapping protein interactions binding, [NMR lecture notes](/static/pdf/methods/Methods-NMR-l2017.pdf)
 - 2:30-5pm work on analyzing NMR titration data to determine Kd (Ryan Tibble and John Gross), [Common Sparky Commands](/static/pdf/methods/Sparky_common_cmds.pdf) and [Sparky Integration Tutorial](/static/pdf/methods/Sparky_Integration.pdf)
 
-_Tues Nov 28_
+_Tues Nov 27_
 - Journal Club:
   - Viktoriya	Berdan  [Substrate binding drives large-scale conformational changes in the Hsp90 molecular chaperone.](https://www.ncbi.nlm.nih.gov/pubmed?cmd=search&term=21474071)
   - Cody Thomas Krivacic [Cross-monomer substrate contacts reposition the Hsp90 N-terminal domain and prime the chaperone activity.](https://www.ncbi.nlm.nih.gov/pubmed?cmd=search&term=22063096)
 - 1-2:30 Lecture by John Gross on using NMR for structure determination.
 - 2:30-5pm work on generating chemical shift perturbation plot versus primary sequence; mapping onto structure, [CSPs from Sparky Lists](/static/pdf/methods/Sparky_CSP.py)
 
-_Weds Nov 29_
+_Weds Nov 28_
 - Journal Club:
   - Eric	Gonzalez [Mechanistic basis for the recognition of a misfolded protein by the molecular chaperone Hsp90.](https://www.ncbi.nlm.nih.gov/pubmed?cmd=search&term=28218749)
 -  1-2:30 Lecture by John Gross on using NMR to measure ms-usec dynamics in proteins (Ryan Tibble and John Gross)
@@ -259,13 +271,13 @@ _Weds Nov 29_
 
 - [Some advice on how to proceed](https://docs.google.com/document/d/1eQfOtSrB2gyF1BJQYWLI-mSoYsENyg4xP8Fsi5ZqsfM/edit?usp=sharing)
 
-_Mon Dec 4_
+_Mon Dec 3_
 - 1-2:30PM [Lecture by Bob Stroud on fundamentals of X-ray diffraction](https://drive.google.com/file/d/14gjFiRS2KLdZ8GqfAlrqZIbzH08gZ9TT/view?usp=sharing)
 - 2:30-5PM Work on X-ray data (JSF, Kazu Ito, Michael Thompson)
 - 4PM - Journal Club:
   - Colton	Bracken [High-Throughput Crystallography: Reliable and Efficient Identification of Fragment Hits](http://www.sciencedirect.com/science/article/pii/S0969212616301356?via%3Dihub)
 
-_Tues Dec 5_
+_Tues Dec 4_
 - 1-2:30PM [Lecture by James Holton on the relationship between data quality and model interpretation](http://bl831.als.lbl.gov/~jamesh/powerpoint/UCSF_DQvMI_2017.pptx)
 - 2:30-5PM Work on X-ray data (JSF, Kazu Ito, Michael Thompson)
 - 4PM - Journal Club:
@@ -273,7 +285,7 @@ _Tues Dec 5_
   - Adam	Cotton [Why protein crystals favour some space-groups over others.](https://www.ncbi.nlm.nih.gov/pubmed/8846217)
 
 
-_Weds Dec 6_
+_Weds Dec 5_
 - 1-2PM Presentation by Sali on Rigor, Reproducibility, and Integrative Modeling
 - 2:30-4PM Final work on X-ray data (JSF, Kazu Ito, Michael Thompson)
 - 4PM - Journal Club:
@@ -282,7 +294,7 @@ _Weds Dec 6_
 
 **Week 6 - EM**
 
-_Mon Dec 11_
+_Mon Dec 10_
 - 1-2:30PM [Lecture by Yifan Cheng](https://drive.google.com/open?id=1lZWQIS1Yjm8hZuNxXQbddmBKhpIQSu9k)
 - 2:30-5PM Work on [EM data](https://ucsf.box.com/s/5miwi4zdzuxagx0b9x6mekkaby9v3gh1)
 - 4PM - Journal Club:
@@ -290,19 +302,19 @@ _Mon Dec 11_
 - [ChimeraX EM tutorial by Tom Goddard](http://www.cgl.ucsf.edu/chimera/data/hsp90-em-dec2017/hsp90em.html)
 - [ChimeraX Ligand Comparison tutorial by Tom Goddard](http://www.cgl.ucsf.edu/chimera/data/hsp90-ligands-dec2017/ligandview.html)
 
-_Tues Dec 12_
+_Tues Dec 11_
 - 1-2:30PM [Lecture by Yifan Cheng](https://drive.google.com/open?id=1lZWQIS1Yjm8hZuNxXQbddmBKhpIQSu9k)
 - 4PM - Journal Club:
   - Megan	Moore [Visualization of ligand-induced transmembrane signalling in the full-length human insulin receptor](https://www.biorxiv.org/content/early/2017/10/23/207928)
 - 2:30-5PM Work on projection matching with Eugene/Daniel
 
-_Weds Dec 13_
+_Weds Dec 12_
 - 1-2PM [Lecture by Yifan Cheng](https://drive.google.com/open?id=1lZWQIS1Yjm8hZuNxXQbddmBKhpIQSu9k)
 - 4PM - Journal Club:
   - Julian	Harris [Ratchet-like polypeptide translocation mechanism of the AAA+ disaggregase Hsp104.](https://www.ncbi.nlm.nih.gov/pubmed/28619716)
 - 2:30-5PM Finalize work on all projects!
 
-**FINAL PRESENTATIONS: Mon Dec 18**
+**FINAL PRESENTATIONS: Mon Dec 17**
 
 Please be on time and wait outside the teaching lab before your presentation. The presentations will be stopped after 15 min and questions will be for 5 minutes. Please email your presentations (use a filename that includes your team number!) to [James Fraser](mailto:jfraser+bp204a@fraserlab.com) by 12:30PM on Monday Dec 18th.
 
