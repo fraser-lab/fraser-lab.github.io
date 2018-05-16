@@ -75,6 +75,8 @@ This is a team-based class where students work in small groups develop their own
 **Recommended background videos**
 
 - [Getting started in CryoEM - Grant Jensen lectures](https://www.youtube.com/playlist?list=PL8_xPU5epJdctoHdQjpfHmd_z9WvGxK8-)
+- [LMB EM Course](https://www2.mrc-lmb.cam.ac.uk/research/scientific-training/electron-microscopy/)
+- [LMB X-ray Course](http://www2.mrc-lmb.cam.ac.uk/research/scientific-training/crystallography-course-2013/)
 - [X-ray crystallography lecture - George Phillips](https://www.youtube.com/watch?v=OeOzLTNHWoM)
 - [Crystallographic Symmetry - Eddie Snell](https://www.youtube.com/watch?v=sIgWFErZ3XU)
 - [X-ray Diffraction Physics - Bob Blessing](https://www.youtube.com/watch?v=UJZF5yPNhIE)
@@ -203,7 +205,7 @@ _Mon Nov 19_
   - [xia2 summary for ADP](/static/adp/xia2.html)
     - [ADP mtz](/static/adp/DataFiles/yHSP90_ADP.mtz)
 - 11:15-noon: X-ray data processing from MTZ to density, molecular replacement, difference maps (JSF, Kazu Ito, Michael Thompson)
-- 1:00-1:30PM: X-ray Journal Club 
+- 1:00-1:30PM: X-ray Journal Club
  - Lakshmi	Miller-Vedam [Free R value: a novel statistical quantity for assessing the accuracy of crystal structures](https://www.nature.com/nature/journal/v355/n6359/pdf/355472a0.pdf)
   -Kyle	Lopez [Molprobity](https://www.ncbi.nlm.nih.gov/pubmed/20057044)
 - 1:30-3:00PM: X-ray data processing: identifying ligands, ligand restraints and refinement (JSF, Kazu Ito, Michael Thompson)
@@ -229,7 +231,7 @@ _Tues Nov 20_
 3:00-5pm EM data processing: manipulating density.
 [EM data processing: manipulating density](https://docs.google.com/document/d/1cyh9XstW3Da8tU1g5gj8UCk1OMC8vGJsk7a5r6T9XHo/edit?usp=sharing)
   - [PDBs](https://ucsf.box.com/s/aoz3ydxn9rdvowxhcbfm6qbmo159x3rv) for FSC comparisons
- 
+
 
 _Weds Nov 21_
 **Thanksgiving break**
