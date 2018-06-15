@@ -137,11 +137,17 @@
   scholar: EqoaChsAAAAJ
   website: "http://whywolff.com"
   twitter: "LifeHasOrder"
-  description: "Alex earned a B.S. in Kinesiology & Health Promotion, and a M.S. in Molecular Biology, from the University of Wyoming. He worked with Mark Stayton and D. Paul Thomas to elucidate biomarkers in the setting of cardiovascular disease. Alex's work in the Fraser Lab will focus on the connection between conformational flexibility and protein function; specifically, he will focus on information relay between allosteric sites. He will leverage diffuse X-ray scattering to illuminate these networks, as well as other complementary biophysical techniques.
+  description: "Alex earned a B.S. in Kinesiology & Health Promotion, and a M.S. in Molecular \
+                Biology, from the University of Wyoming. During his time there, he became \
+                fascinated with the role that protein structural dynamics play in molecular mechanisms. \
+                Thus, Alex’s work in the Fraser Lab seeks to understand how proteins move, \
+                and to what degree these movements are altered in the context of human disease. \
+                He has been fortunate to receive a [Matilda Edlund Scholarship](https://graduate.ucsf.edu/edlund-scholarship), \
+                a [UCSF Discovery Fellowship](http://support.ucsf.edu/discoveryfellows), \
+                and an [ARCS Foundation Scholar Award](https://www.arcsfoundation.org/) to support this work. \
+                Outside of the lab, Alex tries to interlace art, science, and outdoor adventures \
+                while honing his communication skills."
 
-
-                Alex is supported by a [Matilda Edlund Scholarship](https://graduate.ucsf.edu/edlund-scholarship)and a \
-                [UCSF Discovery Fellowship](http://support.ucsf.edu/discoveryfellows)"
 
 - name: Kazutaka Ito
   image: /static/img/members/ito.jpg
