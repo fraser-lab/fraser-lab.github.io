@@ -114,8 +114,18 @@
 
 
                 Robbie is supported by a graduate fellowship from NSF."
-                
-                
+    
+- name: Jenna Pellegrino  
+  image: /static/img/members/light_wall_crop.jpg  
+  #altimage: not/found
+  position: Graduate Student
+  email: jenna.pellegrino (at) ucsf.edu
+  description: "Jenna graduated from Ursinus College with a degrees in Biochemistry and Molecular Biology and French. While an undergrad, she studied the structure-function relationships in a de novo-designed diiron carboxylate protein model system under the guidance of Dr. Amanda Reig. Her research at UCSF will focus on the interactions between streptogramin antibiotics and the ribosome. When she’s not in the lab, Jenna enjoys being active, exploring, cooking, and gaming.
+  
+                Jenna is supported by a graduate fellowship from NSF."
+  
+  
+  
 - name: Erin Thompson
   image: /static/img/members/eposs.jpg
   altimage: /static/img/members/photobomb/POSS.jpg
