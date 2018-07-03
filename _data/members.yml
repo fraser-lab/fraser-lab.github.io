@@ -103,6 +103,30 @@
 
   Justin is supported by a graduate fellowship from NSF"
 
+- name: Roberto Efraín (Robbie) Díaz 
+  image: /static/img/members/roberto-e-diaz-365x365.jpeg
+  #altimage: /static/img/members/photobomb/
+  position: Graduate Student
+  email: roberto.diaz (at) ucsf.edu
+  twitter: "robbiediaz_ucsf"
+  orcid: "orcid.org/0000-0002-1172-9919"
+  description: "Robbie graduated from the University of Miami with a degree in Neuroscience. He studied how transcription factors regulate axon regeneration in the central nervous system as an undergraduate in Vance Lemmon's lab. Robbie is interested in utilizing single-molecule and structural techniques to study interactions between chitin-binding proteins and chitin. When he's not in lab, Robbie enjoys reading, going to museums, and biking around the city. 
+
+
+                Robbie is supported by a graduate fellowship from NSF."
+    
+- name: Jenna Pellegrino  
+  image: /static/img/members/light_wall_crop.jpg  
+  #altimage: not/found
+  position: Graduate Student
+  email: jenna.pellegrino (at) ucsf.edu
+  description: "Jenna graduated from Ursinus College with degrees in Biochemistry and Molecular Biology and French. While an undergrad, she studied the structure-function relationships in a de novo-designed diiron carboxylate protein model system under the guidance of Dr. Amanda Reig. Her research at UCSF will focus on the interactions between streptogramin antibiotics and the ribosome. When she’s not in the lab, Jenna enjoys being active, exploring, cooking, and gaming.
+  
+  
+                Jenna is supported by a graduate fellowship from NSF."
+  
+  
+  
 - name: Erin Thompson
   image: /static/img/members/eposs.jpg
   altimage: /static/img/members/photobomb/POSS.jpg
@@ -124,11 +148,17 @@
   scholar: EqoaChsAAAAJ
   website: "http://whywolff.com"
   twitter: "LifeHasOrder"
-  description: "Alex earned a B.S. in Kinesiology & Health Promotion, and a M.S. in Molecular Biology, from the University of Wyoming. He worked with Mark Stayton and D. Paul Thomas to elucidate biomarkers in the setting of cardiovascular disease. Alex's work in the Fraser Lab will focus on the connection between conformational flexibility and protein function; specifically, he will focus on information relay between allosteric sites. He will leverage diffuse X-ray scattering to illuminate these networks, as well as other complementary biophysical techniques.
+  description: "Alex earned a B.S. in Kinesiology & Health Promotion, and a M.S. in Molecular \
+                Biology, from the University of Wyoming. During his time there, he became \
+                fascinated with the role that protein structural dynamics play in molecular mechanisms. \
+                Thus, Alex’s work in the Fraser Lab seeks to understand how proteins move, \
+                and to what degree these movements are altered in the context of human disease. \
+                He has been fortunate to receive a [Matilda Edlund Scholarship](https://graduate.ucsf.edu/edlund-scholarship), \
+                a [UCSF Discovery Fellowship](http://support.ucsf.edu/discoveryfellows), \
+                and an [ARCS Foundation Scholar Award](https://www.arcsfoundation.org/) to support this work. \
+                Outside of the lab, Alex tries to interlace art, science, and outdoor adventures \
+                while honing his communication skills."
 
-
-                Alex is supported by a [Matilda Edlund Scholarship](https://graduate.ucsf.edu/edlund-scholarship)and a \
-                [UCSF Discovery Fellowship](http://support.ucsf.edu/discoveryfellows)"
 
 - name: Kazutaka Ito
   image: /static/img/members/ito.jpg
