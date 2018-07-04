@@ -168,6 +168,13 @@
   email: ito.kcd (AT) om.asahi-kasei.co.jp
   description: "Kazu was a graduate student at Tokyo Institute of Technology, where he studied bacterial metabolism under the guidance of Professor Masaaki Wachi. On completion of his studies, he received his Ph.D. in 2014. Then, he started to work for Asahi Kasei, a pharmaceutical company, where he was introduced to structural biology, especially X-ray crystallography. To study the basics of crystallography, Kazu was sent on loan to the Structural Biology Research Center, which is directed by Professor Toshiya Senda, in KEK for one year. Since August 2017, he has been a visiting researcher in the Fraser Lab. Kazu is interested in conformational heterogeneity and structural dynamics of protein molecules."
 
+- name: Saulo de Oliveira
+  image: /static/img/members/oliveira.png
+  altimage: /static/img/members/oliveira.png
+  position: Postdoc
+  email: saulo (at) stanford.edu
+  description: "Saulo earned his PhD in 2016 from the University of Oxford, where he worked with Prof. Charlotte Deane developing methods for protein structure prediction. After finishing his doctorate, he worked as a postdoc at Oxford for 2 years, focusing on protein contact prediction and coevolution. He joined the lab in 2018 as a joint postdoctoral scholar with Dr. Henry van den Bedem. His current research focuses on using computational methods to understand protein structures and dynamics and how these relate to experimentally derived electron densities."
+
 # Rotation Students
 
 # Summer Students
