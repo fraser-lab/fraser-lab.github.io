@@ -101,19 +101,20 @@
   description: "Justin graduated from Oregon State University with a degree in Biochemistry and Biophysics. He conducted research in both the laboratories of Elisar Barbar studying dynein protein interactions, and P. Andrew Karplus conducting structural bioinformatic research on protein structural components from ultra-high resolution protein crystal structures.
 
 
-  Justin is supported by a graduate fellowship from NSF"
+  Justin is supported by a graduate fellowship from NSF."
 
 - name: Roberto Efraín (Robbie) Díaz
   image: /static/img/members/roberto-e-diaz-365x365.jpeg
   altimage: /static/img/members/photobomb/DIAZ.jpg
   position: Graduate Student
   email: roberto.diaz (at) ucsf.edu
+  scholar: L_OCeG4AAAAJ
   twitter: "robbiediaz_ucsf"
   orcid: "orcid.org/0000-0002-1172-9919"
   description: "Robbie graduated from the University of Miami with a degree in Neuroscience. He studied how transcription factors regulate axon regeneration in the central nervous system as an undergraduate in Vance Lemmon's lab. Robbie is interested in utilizing single-molecule and structural techniques to study interactions between chitin-binding proteins and chitin. When he's not in lab, Robbie enjoys reading, going to museums, and biking around the city.
-
-
-                Robbie is supported by a graduate fellowship from NSF."
+  
+  
+  Robbie is supported by a graduate fellowship from NSF."
 
 - name: Jenna Pellegrino
   image: /static/img/members/light_wall_crop.jpg
@@ -124,7 +125,7 @@
   description: "Jenna graduated from Ursinus College with degrees in Biochemistry and Molecular Biology and French. While an undergrad, she studied the structure-function relationships in a de novo-designed diiron carboxylate protein model system under the guidance of Dr. Amanda Reig. Her research at UCSF will focus on the interactions between streptogramin antibiotics and the ribosome. When she’s not in the lab, Jenna enjoys being active, exploring, cooking, and gaming.
 
 
-                Jenna is supported by a graduate fellowship from NSF."
+  Jenna is supported by a graduate fellowship from NSF."
 
 
 
@@ -136,7 +137,7 @@
   twitter: "ernpossible"
   description: "Erin graduated from Drake University with a degree in Biochemistry and Chemistry.  As an undergraduate, Erin worked in several labs ranging from exercise physiology to biophysics. In her free time, she enjoys running, hiking, and exploring San Francisco.
 
-  Erin is supported by a fellowship from the Genentech Foundation"
+  Erin is supported by a fellowship from the Genentech Foundation."
 
 
 
