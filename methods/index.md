@@ -131,31 +131,26 @@ _Tues Nov 6_
 - 1:30-2:30 - Why Hsp90 is cool (David Agard)
 
 Chalk Talks:
-
-- 2:30-2:45 - Why Protein Structural Biology? Proteins Thermo/Kinetics 101 (Gross)
-- 2:45-3:00 - X-ray 101 (JSF)
-- 3:00-3:15 - EM 101 (Dan Southworth)
-- 3:15-3:30 - NMR 101 (Gross)
-- 3:30-4:00 - [FFT 101 (TBD)] (https://docs.google.com/presentation/d/1RXALgbFH0JQmjFozPzkO8Oe2OenqU4D4Nl7md6UBMP0/edit?usp=sharing)
+- 2:30-2:45 - Break
+- 2:45-3:00 - Why Protein Structural Biology? (Gross)
+- 3:00-3:15   Proteins Thermo/Kinetics 101 (Gross)
+- 3:15-3:45 - [FFT 101 (TBD)] (https://docs.google.com/presentation/d/1RXALgbFH0JQmjFozPzkO8Oe2OenqU4D4Nl7md6UBMP0/edit?usp=sharing)
 
 _Weds Nov 7_
-
-- 1:00-2:00PM - break into groups, ensure software works
-  - All:
-    - [ChimeraX](https://www.cgl.ucsf.edu/chimerax/download.html)
-    - [PyMOL](https://pymol.org/2/), must be on UCSF network
-  - X-ray:
-    - [Phenix](https://www.phenix-online.org/download/), [request password](http://www.phenix-online.org/phenix_request/index.cgi)
-    - [ADXV](http://www.scripps.edu/tainer/arvai/adxv.html)
-    - Coot (already installed on laptops), if not use [Standalone Coot](http://scottlab.ucsc.edu/xtal/wiki/index.php/Stand-alone_Coot_for_10.11)
-    - [XRayView](http://www.phillipslab.org/software)
-  - NMR:
-    - [NMR Pipe](https://www.ibbr.umd.edu/nmrpipe/install.html), [MacOSX Install Guide](/static/pdf/methods/NMRPipe_Install_MacOS.pdf)
-    - [NMRFAM SPARKY](http://www.nmrfam.wisc.edu/nmrfam-sparky-distribution.htm)
-  - EM:
-    - [EMAN2](http://ncmi.bcm.tmc.edu/ncmi/software/software_details?selected_software=counter_222)
+- 1:00-1:15 - X-ray 101 (JSF)
+- 1:15-1:30 - EM 101 (Dan Southworth)
+- 1:30-1:45 - NMR 101 (Gross)
+- 1:45-2:00 - Break
 - 2:00-3:00PM - [Theory of Fragments and Role of Structural Biology](/static/pdf/methods/20171029_Fragments_Lecture.pdf) (Aashish Manglik)
 
+**NOTE special meeting times for X-ray team**
+_Thurs Nov 8_
+_X-ray_
+- NAMES OF STUDENTS:
+- Wednesday Nov 8: Beamtime at Advanced Light Source: 8AM-4PM
+  - [link to registration material](https://docs.google.com/document/d/1V2-PNSKaoAF7rlRj-rJNA9xA8E-7zrwWzigpKhcNNDI/edit?usp=sharing) - register at [ALSHub](alshub.als.lbl.gov)
+  - [directions to the ALS](https://als.lbl.gov/onsite-access/), we will travel together on BART Nov 7 and 8, but just in case!
+- Thursday Nov 9: Beamtime at Advanced Light Source: 8AM-4PM
 
 
 **Week 2 – Working in Method Teams**
@@ -163,10 +158,7 @@ _Weds Nov 7_
 _X-ray_
 - NAMES OF STUDENTS:
 - Tuesday Nov 13: Crystal harvesting (Genentech Hall crystal room)
-- Wednesday Nov 14: Beamtime at Advanced Light Source: noon-4PM
-  - [link to registration material](https://docs.google.com/document/d/1V2-PNSKaoAF7rlRj-rJNA9xA8E-7zrwWzigpKhcNNDI/edit?usp=sharing) - register at [ALSHub](alshub.als.lbl.gov)
-  - [directions to the ALS](https://als.lbl.gov/onsite-access/), we will travel together on BART Nov 7 and 8, but just in case!
-- Thursday Nov 15: Beamtime at Advanced Light Source: 8AM-4PM
+- Wednesday Nov 14: X-ray team time off
 
 _NMR_
 - NMR Group A:  NAMES
