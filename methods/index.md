@@ -144,7 +144,7 @@ _Weds Nov 7_
 - 2:00-3:00PM - [Theory of Fragments and Role of Structural Biology](/static/pdf/methods/20171029_Fragments_Lecture.pdf) (Manglik)
 
 **NOTE special meeting times for X-ray team**
-_Thurs Nov 8_
+_Thurs Nov 8 and Fri Nov 9_
 
 _X-ray_
 - NAMES OF STUDENTS:
