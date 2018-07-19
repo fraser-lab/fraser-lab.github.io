@@ -127,7 +127,7 @@ at http://sds.ucsf.edu. Accommodations are never retroactive; therefore students
 
 _Tues Nov 6_
 
-- 1:00-1:30 - [Intro to Macro Methods](/static/pdf/methods/macro_methods_intro.pdf) (JSF)
+- 1:00-1:30 - [Intro to Macro Methods](/static/pdf/methods/macro_methods_intro.pdf) (Gross)
 - 1:30-2:30 - Why Hsp90 is cool (David Agard)
 
 Chalk Talks:
@@ -137,14 +137,15 @@ Chalk Talks:
 - 3:15-3:45 - [FFT 101 (TBD)] (https://docs.google.com/presentation/d/1RXALgbFH0JQmjFozPzkO8Oe2OenqU4D4Nl7md6UBMP0/edit?usp=sharing)
 
 _Weds Nov 7_
-- 1:00-1:15 - X-ray 101 (JSF)
-- 1:15-1:30 - EM 101 (Dan Southworth)
+- 1:00-1:15 - X-ray 101 (Manglik)
+- 1:15-1:30 - EM 101 (Southworth)
 - 1:30-1:45 - NMR 101 (Gross)
 - 1:45-2:00 - Break
-- 2:00-3:00PM - [Theory of Fragments and Role of Structural Biology](/static/pdf/methods/20171029_Fragments_Lecture.pdf) (Aashish Manglik)
+- 2:00-3:00PM - [Theory of Fragments and Role of Structural Biology](/static/pdf/methods/20171029_Fragments_Lecture.pdf) (Manglik)
 
 **NOTE special meeting times for X-ray team**
 _Thurs Nov 8_
+
 _X-ray_
 - NAMES OF STUDENTS:
 - Wednesday Nov 8: Beamtime at Advanced Light Source: 8AM-4PM
@@ -155,6 +156,7 @@ _X-ray_
 
 **Week 2 – Working in Method Teams**
  Monday Nov 12: Veterans Day Holiday, no class; make up session on Thursday Nov 15
+ 
 _X-ray_
 - NAMES OF STUDENTS:
 - Tuesday Nov 13: Crystal harvesting (Genentech Hall crystal room)
@@ -190,17 +192,17 @@ _Groups_
 - 5:
 
 _Mon Nov 19_
-- 10am-11:15: X-ray Methods Group Presentation and X-ray data processing: from spots to MTZ (JSF, Kazu Ito, Michael Thompson)
+- 10am-11:15: X-ray Methods Group Presentation and X-ray data processing: from spots to MTZ (Manglik, Kazu Ito, Michael Thompson)
  - [Box link to ADP images](https://ucsf.box.com/s/i85gxe5prx9z3ov5hdftqgy1skdevca7) - Download
   - [xia2 summary for APO](/static/apo/xia2.html)
     - [APO mtz](/static/apo/DataFiles/yHSP90_APO.mtz)
   - [xia2 summary for ADP](/static/adp/xia2.html)
     - [ADP mtz](/static/adp/DataFiles/yHSP90_ADP.mtz)
-- 11:15-noon: X-ray data processing from MTZ to density, molecular replacement, difference maps (JSF, Kazu Ito, Michael Thompson)
+- 11:15-noon: X-ray data processing from MTZ to density, molecular replacement, difference maps (Manglik, Kazu Ito, Michael Thompson)
 - 1:00-1:30PM: X-ray Journal Club
  - Lakshmi	Miller-Vedam [Free R value: a novel statistical quantity for assessing the accuracy of crystal structures](https://www.nature.com/nature/journal/v355/n6359/pdf/355472a0.pdf)
   -Kyle	Lopez [Molprobity](https://www.ncbi.nlm.nih.gov/pubmed/20057044)
-- 1:30-3:00PM: X-ray data processing: identifying ligands, ligand restraints and refinement (JSF, Kazu Ito, Michael Thompson)
+- 1:30-3:00PM: X-ray data processing: identifying ligands, ligand restraints and refinement (Manglik, Kazu Ito, Michael Thompson)
 - 3:00-5:00PM: NMR Methods Group Presentation and NMR data processing: : [from FID to 2D](/static/pdf/methods/2DNMR_Processing_Tutorial.pdf) (Ryan Tibble and John Gross)
 
 
