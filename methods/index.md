@@ -127,46 +127,40 @@ at http://sds.ucsf.edu. Accommodations are never retroactive; therefore students
 
 _Tues Nov 6_
 
-- 1:00-1:30 - [Intro to Macro Methods](/static/pdf/methods/macro_methods_intro.pdf) (JSF)
+- 1:00-1:30 - [Intro to Macro Methods](/static/pdf/methods/macro_methods_intro.pdf) (Gross)
 - 1:30-2:30 - Why Hsp90 is cool (David Agard)
 
 Chalk Talks:
-
-- 2:30-2:45 - Why Protein Structural Biology? Proteins Thermo/Kinetics 101 (Gross)
-- 2:45-3:00 - X-ray 101 (JSF)
-- 3:00-3:15 - EM 101 (Dan Southworth)
-- 3:15-3:30 - NMR 101 (Gross)
-- 3:30-4:00 - [FFT 101 (TBD)] (https://docs.google.com/presentation/d/1RXALgbFH0JQmjFozPzkO8Oe2OenqU4D4Nl7md6UBMP0/edit?usp=sharing)
+- 2:30-2:45 - Break
+- 2:45-3:00 - Why Protein Structural Biology? (Gross)
+- 3:00-3:15   Proteins Thermo/Kinetics 101 (Gross)
+- 3:15-3:45 - [FFT 101 (TBD)] (https://docs.google.com/presentation/d/1RXALgbFH0JQmjFozPzkO8Oe2OenqU4D4Nl7md6UBMP0/edit?usp=sharing)
 
 _Weds Nov 7_
+- 1:00-1:15 - X-ray 101 (Manglik)
+- 1:15-1:30 - EM 101 (Southworth)
+- 1:30-1:45 - NMR 101 (Gross)
+- 1:45-2:00 - Break
+- 2:00-3:00PM - [Theory of Fragments and Role of Structural Biology](/static/pdf/methods/20171029_Fragments_Lecture.pdf) (Manglik)
 
-- 1:00-2:00PM - break into groups, ensure software works
-  - All:
-    - [ChimeraX](https://www.cgl.ucsf.edu/chimerax/download.html)
-    - [PyMOL](https://pymol.org/2/), must be on UCSF network
-  - X-ray:
-    - [Phenix](https://www.phenix-online.org/download/), [request password](http://www.phenix-online.org/phenix_request/index.cgi)
-    - [ADXV](http://www.scripps.edu/tainer/arvai/adxv.html)
-    - Coot (already installed on laptops), if not use [Standalone Coot](http://scottlab.ucsc.edu/xtal/wiki/index.php/Stand-alone_Coot_for_10.11)
-    - [XRayView](http://www.phillipslab.org/software)
-  - NMR:
-    - [NMR Pipe](https://www.ibbr.umd.edu/nmrpipe/install.html), [MacOSX Install Guide](/static/pdf/methods/NMRPipe_Install_MacOS.pdf)
-    - [NMRFAM SPARKY](http://www.nmrfam.wisc.edu/nmrfam-sparky-distribution.htm)
-  - EM:
-    - [EMAN2](http://ncmi.bcm.tmc.edu/ncmi/software/software_details?selected_software=counter_222)
-- 2:00-3:00PM - [Theory of Fragments and Role of Structural Biology](/static/pdf/methods/20171029_Fragments_Lecture.pdf) (Aashish Manglik)
+**NOTE special meeting times for X-ray team**
+_Thurs Nov 8 and Fri Nov 9_
 
+_X-ray_
+- NAMES OF STUDENTS:
+- Thursday Nov 8: Beamtime at Advanced Light Source: 8AM-4PM
+  - [link to registration material](https://docs.google.com/document/d/1V2-PNSKaoAF7rlRj-rJNA9xA8E-7zrwWzigpKhcNNDI/edit?usp=sharing) - register at [ALSHub](alshub.als.lbl.gov)
+  - [directions to the ALS](https://als.lbl.gov/onsite-access/), we will travel together on BART Nov 7 and 8, but just in case!
+- Friday Nov 9: Beamtime at Advanced Light Source: 8AM-4PM
 
 
 **Week 2 – Working in Method Teams**
  Monday Nov 12: Veterans Day Holiday, no class; make up session on Thursday Nov 15
+ 
 _X-ray_
 - NAMES OF STUDENTS:
 - Tuesday Nov 13: Crystal harvesting (Genentech Hall crystal room)
-- Wednesday Nov 14: Beamtime at Advanced Light Source: noon-4PM
-  - [link to registration material](https://docs.google.com/document/d/1V2-PNSKaoAF7rlRj-rJNA9xA8E-7zrwWzigpKhcNNDI/edit?usp=sharing) - register at [ALSHub](alshub.als.lbl.gov)
-  - [directions to the ALS](https://als.lbl.gov/onsite-access/), we will travel together on BART Nov 7 and 8, but just in case!
-- Thursday Nov 15: Beamtime at Advanced Light Source: 8AM-4PM
+- Wednesday Nov 14: X-ray team time off
 
 _NMR_
 - NMR Group A:  NAMES
@@ -198,17 +192,17 @@ _Groups_
 - 5:
 
 _Mon Nov 19_
-- 10am-11:15: X-ray Methods Group Presentation and X-ray data processing: from spots to MTZ (JSF, Kazu Ito, Michael Thompson)
+- 10am-11:15: X-ray Methods Group Presentation and X-ray data processing: from spots to MTZ (Manglik, Kazu Ito, Michael Thompson)
  - [Box link to ADP images](https://ucsf.box.com/s/i85gxe5prx9z3ov5hdftqgy1skdevca7) - Download
   - [xia2 summary for APO](/static/apo/xia2.html)
     - [APO mtz](/static/apo/DataFiles/yHSP90_APO.mtz)
   - [xia2 summary for ADP](/static/adp/xia2.html)
     - [ADP mtz](/static/adp/DataFiles/yHSP90_ADP.mtz)
-- 11:15-noon: X-ray data processing from MTZ to density, molecular replacement, difference maps (JSF, Kazu Ito, Michael Thompson)
+- 11:15-noon: X-ray data processing from MTZ to density, molecular replacement, difference maps (Manglik, Kazu Ito, Michael Thompson)
 - 1:00-1:30PM: X-ray Journal Club
  - Lakshmi	Miller-Vedam [Free R value: a novel statistical quantity for assessing the accuracy of crystal structures](https://www.nature.com/nature/journal/v355/n6359/pdf/355472a0.pdf)
   -Kyle	Lopez [Molprobity](https://www.ncbi.nlm.nih.gov/pubmed/20057044)
-- 1:30-3:00PM: X-ray data processing: identifying ligands, ligand restraints and refinement (JSF, Kazu Ito, Michael Thompson)
+- 1:30-3:00PM: X-ray data processing: identifying ligands, ligand restraints and refinement (Manglik, Kazu Ito, Michael Thompson)
 - 3:00-5:00PM: NMR Methods Group Presentation and NMR data processing: : [from FID to 2D](/static/pdf/methods/2DNMR_Processing_Tutorial.pdf) (Ryan Tibble and John Gross)
 
 
