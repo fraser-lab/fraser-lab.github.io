@@ -13,8 +13,7 @@
 #     - name: 'Mullins Lab'
 #       url: 'http://mullinslab.ucsf.edu/'
 #
-- citation: 'Rotow JK,  Gui P, Wu W, Raymond VM, Lanman RB, Kaye FJ,  Peled N, de la Cruz FF,  Nadres B, Corcoran RB,  Yeh I, Bastian BC,  Starostik P, Newsom K, Olivas VR, **Wolff AM, Fraser JS**, Collisson EA,  McCoach CE, Blakely CM, Bivona TG. Co-occurring genetic alterations in the RAS pathway promote resistance to MET inhibitor treatment in non-small cell lung cancer with a MET exon 14 skipping mutation
-. *Submitted - Preprint on BioRxiv*. 2018.'
+- citation: 'Rotow JK,  Gui P, Wu W, Raymond VM, Lanman RB, Kaye FJ,  Peled N, de la Cruz FF,  Nadres B, Corcoran RB,  Yeh I, Bastian BC,  Starostik P, Newsom K, Olivas VR, **Wolff AM, Fraser JS**, Collisson EA,  McCoach CE, Blakely CM, Bivona TG. Co-occurring genetic alterations in the RAS pathway promote resistance to MET inhibitor treatment in non-small cell lung cancer with a MET exon 14 skipping mutation. *Submitted - Preprint on BioRxiv*. 2018.'
   date: 201806
   image: '/static/img/pub/rotow_2018.jpg'
   pmid: Submitted
