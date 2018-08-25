@@ -38,8 +38,8 @@ group: methods
 
 **TAs:**
 
-- [TBD](mailto:???)
-- [TBD](mailto:???)
+- [Jenna Pellegrino](mailto:Jenna.Pellegrino@ucsf.edu)
+- [Kyle Lopez](mailto:Kyle.Lopez@ucsf.edu)
 
 **Lecturers/Facilitators:**
 
