@@ -28,7 +28,7 @@
   date: 201805
   image: '/static/img/pub/pubs_2017.jpg'
   pmid: 30037883
-  pmcid: Submitted
+  pmcid: PMC6078352
   biorxiv: "139352"
   pdf: '/static/pdf/mavor_2018.pdf'
   links:
@@ -192,7 +192,7 @@
   date: 201802
   image: '/static/img/pub/wall_review_2017.jpg'
   pmid: 29455056
-  pmcid: Pending
+  pmcid: PMC6078797
   biorxiv: "219113"
   pdf: '/static/pdf/wall_review_2018.pdf'
   links:
@@ -241,7 +241,7 @@ into proton conduction. *Proceedings of the National Academy of Sciences*. 2017.
   date: 201706
   image: '/static/img/pub/acker_2017.jpg'
   pmid: 28759216
-  pmcid: Pending
+  pmcid: PMC6089631
   pdf: '/static/pdf/acker_2017.pdf'
   pdbs:
     - 5UR3
