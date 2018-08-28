@@ -315,10 +315,10 @@ _Weds Dec 12_
 
 **FINAL PRESENTATIONS: Mon Dec 17**
 
-Please be on time and wait outside the teaching lab before your presentation. The presentations will be stopped after 15 min and questions will be for 5 minutes. Please email your presentations (use a filename that includes your team number!) to [James Fraser](mailto:jfraser+bp204a@fraserlab.com) by 12:30PM on Monday Dec 18th.
+Please be on time and wait outside the teaching lab before your presentation. The presentations will be stopped after 15 min and questions will be for 5 minutes. Please email your presentations (use a filename that includes your team number!) to [John Gross](mailto:jdgross@cgl.ucsf.edu) by 12:30PM on Monday Dec 17th.
 
-- 1-1:20 TEAM 1: Erik	Navarro, Paige	Solomon, Adam	Catching, Neha	Prasad, Christopher John Pascal	Mathy
-- 1:25-1:45 TEAM 2: Kelly	Montgomery, Jack	Stevenson, Yessica	Gomez, Colton	Bracken
-- 1:50-2:10 TEAM 3: Jenna	Pellegrino, Nicole	Wenzell, Conner	Bardine, Adam	Cotton
-- 2:15-2:35 TEAM 4: Kyle	Lopez, Viktoriya	Berdan, Eric	Gonzalez, Paul	Klauser
-- 2:40-3:00 TEAM 5: Megan	Moore, Julian	Harris, Cody Thomas	Krivacic, Lakshmi	Miller-Vedam
+- 1-1:20 TEAM 1: TBD
+- 1:25-1:45 TEAM 2: TBD
+- 1:50-2:10 TEAM 3: TBD
+- 2:15-2:35 TEAM 4: TBD
+- 2:40-3:00 TEAM 5: TBD
