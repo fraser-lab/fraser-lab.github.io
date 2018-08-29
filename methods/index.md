@@ -147,7 +147,7 @@ _Weds Nov 7_
 _Thurs Nov 8 and Fri Nov 9_
 
 _X-ray_
-- NAMES OF STUDENTS:
+- NAMES OF STUDENTS: Julian Braxton, Matthew Callahan, Elissa Fink, Nicholas Hoppe, Mathew Klope, Ajikarunia Palar, Sarah Williams
 - Thursday Nov 8: Beamtime at Advanced Light Source: 8AM-4PM
   - [link to registration material](https://docs.google.com/document/d/1V2-PNSKaoAF7rlRj-rJNA9xA8E-7zrwWzigpKhcNNDI/edit?usp=sharing) - register at [ALSHub](alshub.als.lbl.gov)
   - [directions to the ALS](https://als.lbl.gov/onsite-access/), we will travel together on BART Nov 7 and 8, but just in case!
@@ -158,12 +158,12 @@ _X-ray_
  Monday Nov 12: Veterans Day Holiday, no class; make up session on Thursday Nov 15
  
 _X-ray_
-- NAMES OF STUDENTS: Elissa Fink, Ajikarunia Palar, Nicholas Hoppe, Matthew Callahan, Sarah Williams, Julian Braxton, Mathew Klope
+- NAMES OF STUDENTS: Julian Braxton, Matthew Callahan, Elissa Fink, Nicholas Hoppe, Mathew Klope, Ajikarunia Palar, Sarah Williams
 - Tuesday Nov 13: Crystal harvesting (Genentech Hall crystal room)
 - Wednesday Nov 14: X-ray team time off
 
 _NMR_
-- NMR Group A:  Maria Garza, Letitia Sarah, Jack Strickland,
+- NMR Group A:  Maria Garza, Jasmine King, Letitia Sarah, Jack Strickland
 - NMR Group B:  Katarina Pance, Christina Stephens, Authur Tran
 - Tuesday Nov 13:	  1-2pm NMR sample loading (teaching lab, Group A and B); NMR data collection: 2-3:30pm, Group A and 3:30-5pm , Group B
 - Wednesday Nov 14:	  1-5pm NMR data collection (titration, Group A )
@@ -171,7 +171,7 @@ _NMR_
 - [500 MHz NMR quick start guide](/static/pdf/methods/UCSF_500_Cheat_Sheet.pdf)
 
 _EM_
-- Daniel Barrero, Bryan Faust, Hayarpi Torosyan, Holly Vickery, Dyana Kenanova, Quinn Edmonson
+- Daniel Barrero, Quinn Edmonson, Bryan Faust,Dyana Kenanova, Hayarpi Torosyan, Holly Vickery, Lawrence Zhu
 - Tuesday Nov 13: Grids
 - Wednesday Nov 14: Negative Stain Data Collection
 - Thursday Nov 15: Cryo-EM
@@ -315,10 +315,10 @@ _Weds Dec 12_
 
 **FINAL PRESENTATIONS: Mon Dec 17**
 
-Please be on time and wait outside the teaching lab before your presentation. The presentations will be stopped after 15 min and questions will be for 5 minutes. Please email your presentations (use a filename that includes your team number!) to [James Fraser](mailto:jfraser+bp204a@fraserlab.com) by 12:30PM on Monday Dec 18th.
+Please be on time and wait outside the teaching lab before your presentation. The presentations will be stopped after 15 min and questions will be for 5 minutes. Please email your presentations (use a filename that includes your team number!) to [John Gross](mailto:jdgross@cgl.ucsf.edu) by 12:30PM on Monday Dec 17th.
 
-- 1-1:20 TEAM 1: Erik	Navarro, Paige	Solomon, Adam	Catching, Neha	Prasad, Christopher John Pascal	Mathy
-- 1:25-1:45 TEAM 2: Kelly	Montgomery, Jack	Stevenson, Yessica	Gomez, Colton	Bracken
-- 1:50-2:10 TEAM 3: Jenna	Pellegrino, Nicole	Wenzell, Conner	Bardine, Adam	Cotton
-- 2:15-2:35 TEAM 4: Kyle	Lopez, Viktoriya	Berdan, Eric	Gonzalez, Paul	Klauser
-- 2:40-3:00 TEAM 5: Megan	Moore, Julian	Harris, Cody Thomas	Krivacic, Lakshmi	Miller-Vedam
+- 1-1:20 TEAM 1: TBD
+- 1:25-1:45 TEAM 2: TBD
+- 1:50-2:10 TEAM 3: TBD
+- 2:15-2:35 TEAM 4: TBD
+- 2:40-3:00 TEAM 5: TBD
