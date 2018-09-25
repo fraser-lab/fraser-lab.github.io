@@ -23,17 +23,17 @@ group: contact
   Department of Bioengineering and Therapeutic Sciences  <br>
   California Institute of Quantitative Biosciences (QB3)  <br>
   email: jfraser (at) fraserlab.com <br>
-  tel: 415 502 186 three
+  tel: 415 502 1863
 
 </div>
 
 <div class="col-md-4">
 
-  <h4> Cathleen Nicole Canlas</h4>
-  Administrative Assistant to Drs. James Fraser and  Michael Fischbach<br>
+  <h4> Hilary Smith Mahon</h4>
+  Administrative Assistant to Drs. James Fraser and  others<br>
   Department of Bioengineering and Therapeutic Sciences  <br>
-  Email:  CathleenNicole.Canlas (at) ucsf.edu  <br>
-  Phone: 415 514 486 one   <br>
+  Email:  Hilary.SmithMahon (at) ucsf.edu  <br>
+  Phone: 415 476-1947   <br>
 
 </div>
 
