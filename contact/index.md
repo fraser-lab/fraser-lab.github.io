@@ -12,7 +12,7 @@ group: contact
 <div class="col-md-4">
 
   <h4>Lab Area </h4>
-  tel: 415 502 348 eight
+  tel: 415 502 3488
 
 </div>
 
@@ -30,7 +30,7 @@ group: contact
 <div class="col-md-4">
 
   <h4> Hilary Smith Mahon</h4>
-  Administrative Assistant to Drs. James Fraser and  others<br>
+  Administrative Assistant to Dr. James Fraser and  others<br>
   Department of Bioengineering and Therapeutic Sciences  <br>
   Email:  Hilary.SmithMahon (at) ucsf.edu  <br>
   Phone: 415 476-1947   <br>
