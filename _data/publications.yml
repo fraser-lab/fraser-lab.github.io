@@ -13,7 +13,7 @@
 #     - name: 'Mullins Lab'
 #       url: 'http://mullinslab.ucsf.edu/'
 #
-- citation: 'Babcock NS, *Keedy DA**, **Fraser JS**, Sivak DA. Model selection for biological crystallography. *Submitted - Preprint on BioRxiv*. 2018.'
+- citation: 'Babcock NS, **Keedy DA**, **Fraser JS**, Sivak DA. Model selection for biological crystallography. *Submitted - Preprint on BioRxiv*. 2018.'
   date: 201807
   image: '/static/img/pub/sivak_2018.jpg'
   pmid: Submitted
