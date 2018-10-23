@@ -186,6 +186,29 @@
   email: saulo (at) stanford.edu
   description: "Saulo earned his PhD in 2016 from the University of Oxford, where he worked with Prof. Charlotte Deane developing methods for protein structure prediction. After finishing his doctorate, he worked as a postdoc at Oxford for 2 years, focusing on protein contact prediction and coevolution. He joined the lab in 2018 as a joint postdoctoral scholar with Dr. Henry van den Bedem. His current research focuses on using computational methods to understand protein structures and dynamics and how these relate to experimentally derived electron densities."
 
+- name: Iris Young
+  image: /static/img/members/iyoung.jpg
+  altimage: 
+  position: Postdoc
+  email: irisdyoung (at) gmail.com
+  scholar: iSv5YCUAAAAJ
+  website: "http://profiles.ucsf.edu/profile/26591231"
+  twitter: "irisdyoung"
+  description: "Iris enjoys working at the interface of structural biology and scientific computing, primarily developing \
+                software expanding the capabilities of cutting-edge instrumentation for X-ray diffraction and electron \
+                microscopy. He earned his Ph.D. in chemistry from UC Berkeley working with Drs. Junko Yano, Vittal Yachandra \
+                and Nick Sauter at Lawrence Berkeley National Laboratory on discovery of the mechanism of water splitting in \
+                oxygenic photosynthesis using X-ray free electron laser (XFEL) diffraction. He worked with the Sauter group \
+                to develop XFEL diffraction data processing methods, including the cctbx.xfel program for real-time feedback \
+                at XFEL experiments, and with the Yano/Yachandra group to solve several of the first high-resolution room \
+                temperature structures and the first high-resolution transient state structures of photosystem II, revealing \
+                the sequence of changes at the heterometallic cluster that catalyzes oxygen evolution. As a postdoc with the \
+                Fraser group, he is collaborating with the developers of the cisTEM software for macromolecular structure \
+                determination by cryo-electron microscopy to improve recovery of flexible molecular motions with this \
+                technique. This project aims to determine the mechanism of transcript-dependent but sequence-independent \
+                translational efficiency of a pool of naturally occurring, compositionally and conformationally \
+                heterogeneous ribosomes, with implications for regulation of the proteome at the stage of translation."
+
 # Rotation Students
 
 # Summer Students
