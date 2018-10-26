@@ -164,7 +164,7 @@ _X-ray_
 
 _NMR_
 - NMR Group A:  Maria Garza, Jasmine King, Letitia Sarah, Jack Strickland
-- NMR Group B:  Katarina Pance, Christina Stephens, Authur Tran
+- NMR Group B:  Katarina Pance, Christina Stephens, Arthur Tran
 - Tuesday Nov 13:	  1-2pm NMR sample loading (teaching lab, Group A and B); NMR data collection: 2-3:30pm, Group A and 3:30-5pm , Group B
 - Wednesday Nov 14:	  1-5pm NMR data collection (titration, Group A )
 - Thursday Nov 15:	   1-5pm NMR data collection (titration, Group B)
