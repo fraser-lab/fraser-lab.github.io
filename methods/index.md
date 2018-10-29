@@ -150,7 +150,7 @@ _X-ray_
 - NAMES OF STUDENTS: Julian Braxton, Matthew Callahan, Elissa Fink, Nicholas Hoppe, Mathew Klope, Ajikarunia Palar, Sarah Williams
 - Thursday Nov 8: Beamtime at Advanced Light Source: 8AM-4PM
   - [link to registration material](https://docs.google.com/document/d/1V2-PNSKaoAF7rlRj-rJNA9xA8E-7zrwWzigpKhcNNDI/edit?usp=sharing) - register at [ALSHub](alshub.als.lbl.gov)
-  - [directions to the ALS](https://als.lbl.gov/onsite-access/), we will travel together on BART Nov 7 and 8, but just in case!
+  - [directions to the ALS](https://als.lbl.gov/onsite-access/), we will travel together on BART Nov 8 and 9, but just in case!
 - Friday Nov 9: Beamtime at Advanced Light Source: 8AM-4PM
 
 
