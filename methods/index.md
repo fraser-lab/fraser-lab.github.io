@@ -280,7 +280,7 @@ _Tues Dec 4_
 - 4PM - Journal Club:
   - Matthew Callahan  [Protein conformational flexibility modulates kinetics and thermodynamics of drug binding.](https://www.nature.com/articles/s41467-017-02258-w)
  and
-  - Sarah Williams [Modelling dynamics in protein crystal structures by ensemble refinement](https://www.ncbi.nlm.nih.gov/pubmed?cmd=search&term=23251785)
+  - Sarah Williams [Modelling dynamics in protein crystal structures by ensemble refinement.](https://www.ncbi.nlm.nih.gov/pubmed?cmd=search&term=23251785)
  
 
 _Weds Dec 5_
