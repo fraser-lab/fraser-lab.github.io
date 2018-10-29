@@ -278,16 +278,17 @@ _Tues Dec 4_
 - 1-2:30PM [Lecture by James Holton on the relationship between data quality and model interpretation](http://bl831.als.lbl.gov/~jamesh/powerpoint/UCSF_DQvMI_2017.pptx)
 - 2:30-5PM Work on X-ray data (Aashish Manglik, Saolo de Oliveira, Michael Thompson)
 - 4PM - Journal Club:
-  - Matthew Callahan [Modelling dynamics in protein crystal structures by ensemble refinement](https://www.ncbi.nlm.nih.gov/pubmed?cmd=search&term=23251785) and
-  - Sarah Williams [Why protein crystals favour some space-groups over others.](https://www.ncbi.nlm.nih.gov/pubmed/8846217)
-
+  - Matthew Callahan  [Protein conformational flexibility modulates kinetics and thermodynamics of drug binding.](https://www.nature.com/articles/s41467-017-02258-w)
+ and
+  - Sarah Williams [Modelling dynamics in protein crystal structures by ensemble refinement](https://www.ncbi.nlm.nih.gov/pubmed?cmd=search&term=23251785)
+ 
 
 _Weds Dec 5_
 - 1-2PM Presentation by Sali on Rigor, Reproducibility, and Integrative Modeling
 - 2:30-4PM Final work on X-ray data (JSF, Kazu Ito, Michael Thompson)
 - 4PM - Journal Club:
-  - Julian Braxton [Symmetry broken and rebroken during the ATP hydrolysis cycle of the mitochondrial Hsp90 TRAP1.](https://www.ncbi.nlm.nih.gov/pubmed/28742020)
-  - Mathew Klope, [Protein flexibility and drug binding.](https://www.nature.com/articles/s41467-017-02258-w)
+  - Julian Braxton [Why protein crystals favour some space-groups over others.](https://www.ncbi.nlm.nih.gov/pubmed/8846217)
+  - Mathew Klope [Symmetry broken and rebroken during the ATP hydrolysis cycle of the mitochondrial Hsp90 TRAP1.](https://www.ncbi.nlm.nih.gov/pubmed/28742020)
 - 4-5PM Final Q/A with Stroud and Fraser: what we still don't understand about X-ray crystallography
 
 **Week 6 - EM**
