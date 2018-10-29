@@ -211,7 +211,7 @@ _Mon Nov 19_
 _Tues Nov 20_
 -10am-noon NMR Journal Club, NMR data processing: measuring chemical shift perturbations (Ryan Tibble and John Gross)
  - NMR Journal Club
-  -Maria Garza [Weak alignment NMR: a hawk-eyed view of biomolecular structure](https://doi.org/10.1016/j.sbi.2005.08.006), background: [Direct measurement of distances and angles in biomolecules by NMR dilute liquid crystalline medium](https://www.ncbi.nlm.nih.gov/pubmed/9353189)  **These papers will be replaced with other, possibly.**
+  -Maria Garza  [Localization of the NADPH binding site on MurB by NMR](https://www.ncbi.nlm.nih.gov/pubmed/8946851)
   - [Intro to Sparky](/static/pdf/methods/Sparky_tutorial.pdf)
   - Compound Assignments (25=DMSO, 26=APO):
     - 1: 1, 2, 11, 13, 19
@@ -235,7 +235,7 @@ _Weds Nov 21_
 
 _Mon Nov 26_
 - Journal Club:
-  - Christina Stephens [Asymmetric activation of the hsp90 dimer by its cochaperone aha1.](https://www.ncbi.nlm.nih.gov/pubmed?cmd=search&term=20159554), background: [Localization of the NADPH binding site on MurB by NMR](https://www.ncbi.nlm.nih.gov/pubmed/8946851)
+  - Christina Stephens [Asymmetric activation of the hsp90 dimer by its cochaperone aha1.](https://www.ncbi.nlm.nih.gov/pubmed?cmd=search&term=20159554)
 - 1-2:30 Lecture by John Gross on fundamentals of NMR theory applications to  mapping protein interactions binding, [NMR lecture notes](/static/pdf/methods/Methods-NMR-l2017.pdf)
 - 2:30-5pm work on analyzing NMR titration data to determine Kd (Ryan Tibble and John Gross), [Common Sparky Commands](/static/pdf/methods/Sparky_common_cmds.pdf) and [Sparky Integration Tutorial](/static/pdf/methods/Sparky_Integration.pdf)
 
