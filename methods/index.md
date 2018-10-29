@@ -287,7 +287,7 @@ _Weds Dec 5_
 - 2:30-4PM Final work on X-ray data (JSF, Kazu Ito, Michael Thompson)
 - 4PM - Journal Club:
   - Julian Braxton [Symmetry broken and rebroken during the ATP hydrolysis cycle of the mitochondrial Hsp90 TRAP1.](https://www.ncbi.nlm.nih.gov/pubmed/28742020)
-  - Mathew Klope, TBD
+  - Mathew Klope, [Protein flexibility and drug binding.](https://www.nature.com/articles/s41467-017-02258-w)
 - 4-5PM Final Q/A with Stroud and Fraser: what we still don't understand about X-ray crystallography
 
 **Week 6 - EM**
