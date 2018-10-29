@@ -249,7 +249,7 @@ _Tues Nov 27_
 _Weds Nov 28_
 - Journal Club:
   - Katarina Pance [Mechanistic basis for the recognition of a misfolded protein by the molecular chaperone Hsp90.](https://www.ncbi.nlm.nih.gov/pubmed?cmd=search&term=28218749)
-  - Arthur Tran, TBD
+  - Arthur Tran [Weak alignment NMR: a hawk-eyed view of biomolecular structure.](https://www.ncbi.nlm.nih.gov/pubmed/16140525)
 -  1-2:30 Lecture by John Gross on using NMR to measure ms-usec dynamics in proteins (Ryan Tibble and John Gross)
 - 2:30-5pm mapping NMR shift perturbations onto structure using Chimera  (John Gross, Ryan Tibble, Tom Goddard)
 - [ChimeraX tutorial by Tom Goddard](http://www.cgl.ucsf.edu/chimera/data/nmrcolor-nov2017/nmrcolor.html)
