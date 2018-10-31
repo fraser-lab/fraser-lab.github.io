@@ -159,7 +159,7 @@ _X-ray_
  Monday Nov 12: Veterans Day Holiday, no class; make up session on Thursday Nov 15
  
 _X-ray_
-- NAMES OF STUDENTS: Julian Braxton, Matthew Callahan, Elissa Fink, Nicholas Hoppe, Mathew Klope, Ajikarunia Palar, Sarah Williams
+- Julian Braxton, Matthew Callahan, Elissa Fink, Nicholas Hoppe, Mathew Klope, Ajikarunia Palar, Sarah Williams
 - Tuesday Nov 13: Crystal harvesting (Genentech Hall crystal room)
 - Wednesday Nov 14: X-ray team time off
 
