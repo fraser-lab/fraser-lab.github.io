@@ -133,8 +133,9 @@ _Tues Nov 6_
 Chalk Talks:
 - 2:30-2:45 - Break
 - 2:45-3:00 - Why Protein Structural Biology? (Gross)
-- 3:00-3:15   Proteins Thermo/Kinetics 101 (Gross)
-- 3:15-3:45 - [FFT 101 (TBD)] (https://docs.google.com/presentation/d/1RXALgbFH0JQmjFozPzkO8Oe2OenqU4D4Nl7md6UBMP0/edit?usp=sharing)
+- 3:00-3:15 - Proteins Thermo/Kinetics 101 (Gross)
+- 3:15-4:00 - [FFT 101 (Palovcak)] (https://docs.google.com/presentation/d/1RXALgbFH0JQmjFozPzkO8Oe2OenqU4D4Nl7md6UBMP0/edit?usp=sharing)
+- 4:00-5:00 - Working with the FFT in Python (Palovcak) (cross-correlation, convolution, power spectral density and all that).
 
 _Weds Nov 7_
 - 1:00-1:15 - X-ray 101 (Manglik)
