@@ -236,7 +236,7 @@ _Weds Nov 21_
 
 _Mon Nov 26_
 - Journal Club:
-  - Christina Stephens [Asymmetric activation of the hsp90 dimer by its cochaperone aha1.](https://www.ncbi.nlm.nih.gov/pubmed?cmd=search&term=20159554)
+  - Jasmine King [Asymmetric activation of the hsp90 dimer by its cochaperone aha1.](https://www.ncbi.nlm.nih.gov/pubmed?cmd=search&term=20159554)
 - 1-2:30 Lecture by John Gross on fundamentals of NMR theory applications to  mapping protein interactions binding, [NMR lecture notes](/static/pdf/methods/Methods-NMR-l2017.pdf)
 - 2:30-5pm work on analyzing NMR titration data to determine Kd (Ryan Tibble and John Gross), [Common Sparky Commands](/static/pdf/methods/Sparky_common_cmds.pdf) and [Sparky Integration Tutorial](/static/pdf/methods/Sparky_Integration.pdf)
 
@@ -298,7 +298,7 @@ _Mon Dec 10_
 - 1-2:30PM [Lecture by Yifan Cheng](https://drive.google.com/open?id=1lZWQIS1Yjm8hZuNxXQbddmBKhpIQSu9k)
 - 2:30-5PM Work on [EM data](https://ucsf.box.com/s/5miwi4zdzuxagx0b9x6mekkaby9v3gh1)
 - 4PM - Journal Club:
-  - Haryarpi Torosyan [Glucocorticoid receptor function regulated by coordinated action of the Hsp90 and Hsp70 chaperone cycles](https://www.ncbi.nlm.nih.gov/pubmed/24949977)
+  - Quinn Edmonson [Glucocorticoid receptor function regulated by coordinated action of the Hsp90 and Hsp70 chaperone cycles](https://www.ncbi.nlm.nih.gov/pubmed/24949977)
 - [ChimeraX EM tutorial by Tom Goddard](http://www.cgl.ucsf.edu/chimera/data/hsp90-em-dec2017/hsp90em.html)
 - [ChimeraX Ligand Comparison tutorial by Tom Goddard](http://www.cgl.ucsf.edu/chimera/data/hsp90-ligands-dec2017/ligandview.html)
 
@@ -312,7 +312,7 @@ _Weds Dec 12_
 - 1-2PM [Lecture by Yifan Cheng](https://drive.google.com/open?id=1lZWQIS1Yjm8hZuNxXQbddmBKhpIQSu9k)
 - 4PM - Journal Club:
   - Dyana Kenanova [Ratchet-like polypeptide translocation mechanism of the AAA+ disaggregase Hsp104.](https://www.ncbi.nlm.nih.gov/pubmed/28619716)
-  -Quinn Edmonson, TBD
+  -Lawrence Zhu, TBD
 - 2:30-5PM Finalize work on all projects!
 
 **FINAL PRESENTATIONS: Mon Dec 17**
