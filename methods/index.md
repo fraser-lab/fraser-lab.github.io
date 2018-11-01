@@ -312,7 +312,7 @@ _Weds Dec 12_
 - 1-2PM [Lecture by Yifan Cheng](https://drive.google.com/open?id=1lZWQIS1Yjm8hZuNxXQbddmBKhpIQSu9k)
 - 4PM - Journal Club:
   - Dyana Kenanova [Ratchet-like polypeptide translocation mechanism of the AAA+ disaggregase Hsp104.](https://www.ncbi.nlm.nih.gov/pubmed/28619716)
-  -Lawrence Zhu, TBD
+  -Lawrence Zhu, [TRPV1 structures in nanodiscs reveal mechanisms of ligand and lipid action.] (https://www.ncbi.nlm.nih.gov/pubmed/27281200)
 - 2:30-5PM Finalize work on all projects!
 
 **FINAL PRESENTATIONS: Mon Dec 17**
