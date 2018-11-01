@@ -252,7 +252,6 @@ _Tues Nov 27_
 _Weds Nov 28_
 - Journal Club:
   - Katarina Pance [Mechanistic basis for the recognition of a misfolded protein by the molecular chaperone Hsp90.](https://www.ncbi.nlm.nih.gov/pubmed?cmd=search&term=28218749)
-  - Arthur Tran [Weak alignment NMR: a hawk-eyed view of biomolecular structure.](https://www.ncbi.nlm.nih.gov/pubmed/16140525)
 -  1-2:30 Lecture by John Gross on using NMR to measure ms-usec dynamics in proteins (Ryan Tibble and John Gross)
 - 2:30-5pm mapping NMR shift perturbations onto structure using Chimera  (John Gross, Ryan Tibble, Tom Goddard)
 - [ChimeraX tutorial by Tom Goddard](http://www.cgl.ucsf.edu/chimera/data/nmrcolor-nov2017/nmrcolor.html)
@@ -273,13 +272,13 @@ _Weds Nov 28_
 
 _Mon Dec 3_
 - 1-2:30PM [Lecture by Bob Stroud on fundamentals of X-ray diffraction](https://drive.google.com/file/d/14gjFiRS2KLdZ8GqfAlrqZIbzH08gZ9TT/view?usp=sharing)
-- 2:30-5PM Work on X-ray data (JSF, Kazu Ito, Michael Thompson)
+- 2:30-5PM Work on X-ray data (Aashish Manglik, Saulo de Oliveira, Michael Thompson)
 - 4PM - Journal Club:
   - Nicholas Hoppe [High-Throughput Crystallography: Reliable and Efficient Identification of Fragment Hits](http://www.sciencedirect.com/science/article/pii/S0969212616301356?via%3Dihub)
 
 _Tues Dec 4_
 - 1-2:30PM [Lecture by James Holton on the relationship between data quality and model interpretation](http://bl831.als.lbl.gov/~jamesh/powerpoint/UCSF_DQvMI_2017.pptx)
-- 2:30-5PM Work on X-ray data (Aashish Manglik, Saolo de Oliveira, Michael Thompson)
+- 2:30-5PM Work on X-ray data (Manglik, Saolo de Oliveira, Michael Thompson)
 - 4PM - Journal Club:
   - Matthew Callahan  [Protein conformational flexibility modulates kinetics and thermodynamics of drug binding.](https://www.nature.com/articles/s41467-017-02258-w)
  and
@@ -288,7 +287,7 @@ _Tues Dec 4_
 
 _Weds Dec 5_
 - 1-2PM Presentation by Sali on Rigor, Reproducibility, and Integrative Modeling
-- 2:30-4PM Final work on X-ray data (JSF, Kazu Ito, Michael Thompson)
+- 2:30-4PM Final work on X-ray data (Manglik, Saolo de Oliveira, Michael Thompson)
 - 4PM - Journal Club:
   - Julian Braxton [Why protein crystals favour some space-groups over others.](https://www.ncbi.nlm.nih.gov/pubmed/8846217)
   - Mathew Klope [Symmetry broken and rebroken during the ATP hydrolysis cycle of the mitochondrial Hsp90 TRAP1.](https://www.ncbi.nlm.nih.gov/pubmed/28742020)
