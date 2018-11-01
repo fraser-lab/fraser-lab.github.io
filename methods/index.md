@@ -121,7 +121,7 @@ _Accommodations for students with disabilities:_ The Graduate Division embraces 
 at http://sds.ucsf.edu. Accommodations are never retroactive; therefore students are encouraged to register with Student Disability Services (http://sds.ucsf.edu/) as soon as they begin their programs. UCSF encourages students to engage in support seeking behavior via all of the resources available through Student Life, for consistent support and access to their programs.
 
 
-## Schedule##
+##Schedule##
 
 **Week 1 – Welcome**
 
@@ -173,9 +173,10 @@ _NMR_
 - [500 MHz NMR quick start guide](/static/pdf/methods/UCSF_500_Cheat_Sheet.pdf)
 
 _EM_
-- Daniel Barrero, Quinn Edmonson, Bryan Faust,Dyana Kenanova, Hayarpi Torosyan, Holly Vickery, Lawrence Zhu
-- Tuesday Nov 13: Grids
-- Wednesday Nov 14: Negative Stain Data Collection
+- EM Group A: Daniel Barrero, Dyana Kenanova, Hayarpi Torosyan, Lawrence Zhu
+- EM Group B: Quinn Edmonson, Bryan Faust, Holly Vickery
+- Tuesday Nov 13: 1-2pm Overview and grid making (teaching lab, Group A and B); EM data collection: 2-3:30,Group A and 3:30-5pm, Group B
+- Wednesday Nov 14: Continue Negative Stain Data Collection
 - Thursday Nov 15: Cryo-EM
 
 **Week 3 – Working in Compound Groups**
