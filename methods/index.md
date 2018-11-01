@@ -135,7 +135,7 @@ Chalk Talks:
 - 2:45-3:00 - Why Protein Structural Biology? (Gross)
 - 3:00-3:15 - Proteins Thermo/Kinetics 101 (Gross)
 - 3:15-4:00 - [FFT 101 (Palovcak)] (https://docs.google.com/presentation/d/1RXALgbFH0JQmjFozPzkO8Oe2OenqU4D4Nl7md6UBMP0/edit?usp=sharing)
-- 4:00-5:00 - Working with the FFT in Python (Palovcak) (cross-correlation, convolution, power spectral density and all that).
+
 
 _Weds Nov 7_
 - 1:00-1:15 - X-ray 101 (Manglik)
@@ -143,6 +143,7 @@ _Weds Nov 7_
 - 1:30-1:45 - NMR 101 (Gross)
 - 1:45-2:00 - Break
 - 2:00-3:00PM - [Theory of Fragments and Role of Structural Biology](/static/pdf/methods/20171029_Fragments_Lecture.pdf) (Manglik)
+- 3:00-4:00 - Working with the FFT in Python (Palovcak) (cross-correlation, convolution, power spectral density and all that).
 
 **NOTE special meeting times for X-ray team**
 _Thurs Nov 8 and Fri Nov 9_
