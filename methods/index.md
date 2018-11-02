@@ -187,12 +187,14 @@ _EM_
   - EM: Bryan Faust and Hayarpi Torosyan
   - X-ray: Elissa Fink and Matthew Klope
   - NMR: Jasmine King and Arthur Tran
+  
 _Groups_
-- 1:
-- 2:
-- 3:
-- 4:
-- 5:
+- 1: Christina Stephens, Nicholas Hoppe, Quinn Edmonson, Lawrence Zhu
+- 2: Katerina Pance, Arthur Tran, Elissa Fink, Holly Vickery
+- 3: Maria Garza, Sarah Williams, Bryan Faust, Dyana Kenanova
+- 4: Letitia Sarah, Aji Palar, Matthew Klope, Hayarpi Torosyan
+- 5: Julian Braxton, Jasmine King, Jack Strickland, Matthew Callahan, Daniel Barrero
+
 
 _Mon Nov 19_
 - 10am-11:15: X-ray Methods Group Presentation and X-ray data processing: from spots to MTZ (Manglik, Saolo de Oliveira, Michael Thompson)
