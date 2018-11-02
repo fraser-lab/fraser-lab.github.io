@@ -214,7 +214,7 @@ _Mon Nov 19_
 _Tues Nov 20_
 -10am-noon NMR Journal Club, NMR data processing: measuring chemical shift perturbations (Ryan Tibble and John Gross)
  - NMR Journal Club
-  -Maria Garza  [Localization of the NADPH binding site on MurB by NMR](https://www.ncbi.nlm.nih.gov/pubmed/8946851)
+  -Maria Garza [Asymmetric activation of the hsp90 dimer by its cochaperone aha1.](https://www.ncbi.nlm.nih.gov/pubmed?cmd=search&term=20159554); [Background: localizing binding sites by NMR](https://www.ncbi.nlm.nih.gov/pubmed/8946851)
   - [Intro to Sparky](/static/pdf/methods/Sparky_tutorial.pdf)
   - Compound Assignments (25=DMSO, 26=APO):
     - 1: 1, 2, 11, 13, 19
@@ -238,20 +238,19 @@ _Weds Nov 21_
 
 _Mon Nov 26_
 - Journal Club:
-  - Jasmine King [Asymmetric activation of the hsp90 dimer by its cochaperone aha1.](https://www.ncbi.nlm.nih.gov/pubmed?cmd=search&term=20159554)
+  - Letitia Sarah [Cross-monomer substrate contacts reposition the Hsp90 N-terminal domain and prime the chaperone activity.] (https://www.ncbi.nlm.nih.gov/pubmed?cmd=search&term=22063096)
+  - Jack Strickland [Substrate binding drives large-scale conformational changes in the Hsp90 molecular chaperone.](https://www.ncbi.nlm.nih.gov/pubmed?cmd=search&term=21474071)
 - 1-2:30 Lecture by John Gross on fundamentals of NMR theory applications to  mapping protein interactions binding, [NMR lecture notes](/static/pdf/methods/Methods-NMR-l2017.pdf)
 - 2:30-5pm work on analyzing NMR titration data to determine Kd (Ryan Tibble and John Gross), [Common Sparky Commands](/static/pdf/methods/Sparky_common_cmds.pdf) and [Sparky Integration Tutorial](/static/pdf/methods/Sparky_Integration.pdf)
 
 _Tues Nov 27_
-- Journal Club:
-  - Jack Strickland [Substrate binding drives large-scale conformational changes in the Hsp90 molecular chaperone.](https://www.ncbi.nlm.nih.gov/pubmed?cmd=search&term=21474071)
-  - Letitia Sarah [Cross-monomer substrate contacts reposition the Hsp90 N-terminal domain and prime the chaperone activity.](https://www.ncbi.nlm.nih.gov/pubmed?cmd=search&term=22063096)
 - 1-2:30 Lecture by John Gross on using NMR for structure determination.
 - 2:30-5pm work on generating chemical shift perturbation plot versus primary sequence; mapping onto structure, [CSPs from Sparky Lists](/static/pdf/methods/Sparky_CSP.py)
 
 _Weds Nov 28_
 - Journal Club:
-  - Katarina Pance [Mechanistic basis for the recognition of a misfolded protein by the molecular chaperone Hsp90.](https://www.ncbi.nlm.nih.gov/pubmed?cmd=search&term=28218749)
+  -Katarina Pance [Mechanistic basis for the recognition of a misfolded protein by HSP90.](https://www.ncbi.nlm.nih.gov/pubmed?cmd=search&term=28218749)
+  -Christina Stephens [Validation of NMR structures using Residual Dipolar Couplings] (https://www.sciencedirect.com/science/article/pii/S0959440X05001545?via%3Dihub); background [Direct measurements of distances and bond angles by NMR in a dilute liquid crystalline medium.] (https://www.ncbi.nlm.nih.gov/pubmed/9353189)
 -  1-2:30 Lecture by John Gross on using NMR to measure ms-usec dynamics in proteins (Ryan Tibble and John Gross)
 - 2:30-5pm mapping NMR shift perturbations onto structure using Chimera  (John Gross, Ryan Tibble, Tom Goddard)
 - [ChimeraX tutorial by Tom Goddard](http://www.cgl.ucsf.edu/chimera/data/nmrcolor-nov2017/nmrcolor.html)
