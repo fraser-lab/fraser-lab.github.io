@@ -184,9 +184,9 @@ _EM_
 **Note special meeting times: Monday and Tuesday 10am-5pm , with Wednesday off for Thanksgiving Break**
 
 **Presentations on Methods Week**: Two students from each Method Team will present for 10 minutes and summarize what occured in Week 2. Take pictures and try to give the students a feel for not only the theory of what you learned but also the practical aspects!
-  - EM: TBD
-  - X-ray: TBD
-  - NMR: TBD
+  - EM: Bryan Faust and Hayarpi Torosyan
+  - X-ray: Elissa Fink and Matthew Klope
+  - NMR: Jasmine King and Arthur Tran
 _Groups_
 - 1:
 - 2:
