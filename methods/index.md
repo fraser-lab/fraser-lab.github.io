@@ -197,7 +197,7 @@ _Groups_
 
 
 _Mon Nov 19_
-- 10am-11:15: X-ray Methods Group Presentation and X-ray data processing: from spots to MTZ (Manglik, Saolo de Oliveira, Michael Thompson)
+- 10am-11:15: X-ray Methods Team Presentation and X-ray data processing: from spots to MTZ (Manglik, Saolo de Oliveira, Michael Thompson)
  - [Box link to ADP images](https://ucsf.box.com/s/i85gxe5prx9z3ov5hdftqgy1skdevca7) - Download
   - [xia2 summary for APO](/static/apo/xia2.html)
     - [APO mtz](/static/apo/DataFiles/yHSP90_APO.mtz)
@@ -208,7 +208,7 @@ _Mon Nov 19_
  - Ajikarunia Palar [Free R value: a novel statistical quantity for assessing the accuracy of crystal structures](https://www.nature.com/nature/journal/v355/n6359/pdf/355472a0.pdf)
   -Elissa Fink [Molprobity](https://www.ncbi.nlm.nih.gov/pubmed/20057044)
 - 1:30-3:00PM: X-ray data processing: identifying ligands, ligand restraints and refinement (Manglik, Saolo de Oliveira, Michael Thompson)
-- 3:00-5:00PM: NMR Methods Group Presentation and NMR data processing: : [from FID to 2D](/static/pdf/methods/2DNMR_Processing_Tutorial.pdf) (Ryan Tibble and John Gross)
+- 3:00-5:00PM: NMR Methods Team Presentation and NMR data processing: : [from FID to 2D](/static/pdf/methods/2DNMR_Processing_Tutorial.pdf) (Ryan Tibble and John Gross)
 
 
 
@@ -321,8 +321,8 @@ _Weds Dec 12_
 
 Please be on time and wait outside the teaching lab before your presentation. The presentations will be stopped after 15 min and questions will be for 5 minutes. Please email your presentations (use a filename that includes your team number!) to [John Gross](mailto:jdgross@cgl.ucsf.edu) by 12:30PM on Monday Dec 17th.
 
-- 1-1:20 TEAM 1: TBD
-- 1:25-1:45 TEAM 2: TBD
-- 1:50-2:10 TEAM 3: TBD
-- 2:15-2:35 TEAM 4: TBD
-- 2:40-3:00 TEAM 5: TBD
+- 1-1:20 GROUP 1: TBD
+- 1:25-1:45 GROUP 2: TBD
+- 1:50-2:10 GROUP 3: TBD
+- 2:15-2:35 GROUP 4: TBD
+- 2:40-3:00 GROUP 5: TBD
