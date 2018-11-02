@@ -165,16 +165,16 @@ _X-ray_
 - Wednesday Nov 14: X-ray team time off
 
 _NMR_
-- NMR Group A:  Maria Garza, Jasmine King, Letitia Sarah, Jack Strickland
-- NMR Group B:  Katarina Pance, Christina Stephens, Arthur Tran
+- NMR Team A:  Maria Garza, Jasmine King, Letitia Sarah, Jack Strickland
+- NMR Team B:  Katarina Pance, Christina Stephens, Arthur Tran
 - Tuesday Nov 13:	  1-2pm NMR sample loading (teaching lab, Group A and B); NMR data collection: 2-3:30pm, Group A and 3:30-5pm , Group B
 - Wednesday Nov 14:	  1-5pm NMR data collection (titration, Group A )
 - Thursday Nov 15:	   1-5pm NMR data collection (titration, Group B)
 - [500 MHz NMR quick start guide](/static/pdf/methods/UCSF_500_Cheat_Sheet.pdf)
 
 _EM_
-- EM Group A: Daniel Barrero, Dyana Kenanova, Hayarpi Torosyan, Lawrence Zhu
-- EM Group B: Quinn Edmonson, Bryan Faust, Holly Vickery
+- EM Team A: Daniel Barrero, Dyana Kenanova, Hayarpi Torosyan, Lawrence Zhu
+- EM Team B: Quinn Edmonson, Bryan Faust, Holly Vickery
 - Tuesday Nov 13: 1-2pm Overview and grid making (teaching lab, Group A and B); EM data collection: 2-3:30,Group A and 3:30-5pm, Group B
 - Wednesday Nov 14: Continue Negative Stain Data Collection
 - Thursday Nov 15: Cryo-EM
