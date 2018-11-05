@@ -6,7 +6,7 @@ group: methods
 
 # Biophysics 204A: Methods in Macromolecular Structure #
 
-[Course Calendar] (https://calendar.google.com/calendar/embed?src=48215r0h4nka496mop16f40dc4%40group.calendar.google.com&ctz=America%2FLos_Angeles)
+[Course Calendar](https://calendar.google.com/calendar/embed?src=48215r0h4nka496mop16f40dc4%40group.calendar.google.com&ctz=America%2FLos_Angeles)
 
 ## Fall 2018 Syllabus ##
 
