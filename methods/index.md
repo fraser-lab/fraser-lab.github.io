@@ -188,7 +188,7 @@ _EM_
 **Presentations on Methods Week**: Two students from each Method Team will present for 10 minutes and summarize what occured in Week 2. Take pictures and try to give the students a feel for not only the theory of what you learned but also the practical aspects!
   - EM: Bryan Faust and Hayarpi Torosyan
   - X-ray: Elissa Fink and Matthew Klope
-  - NMR: Jasmine King and Arthur Tran
+  - NMR: Letitia Sarah and Arthur Tran
   
 _Groups_
 - 1: Christina Stephens, Nicholas Hoppe, Quinn Edmonson, Lawrence Zhu
@@ -242,7 +242,7 @@ _Weds Nov 21_
 
 _Mon Nov 26_
 - Journal Club:
-  - Letitia Sarah [Cross-monomer substrate contacts reposition the Hsp90 N-terminal domain and prime the chaperone activity.](https://www.ncbi.nlm.nih.gov/pubmed?cmd=search&term=22063096)
+  - Jasmine King [Cross-monomer substrate contacts reposition the Hsp90 N-terminal domain and prime the chaperone activity.](https://www.ncbi.nlm.nih.gov/pubmed?cmd=search&term=22063096)
   - Jack Strickland [Substrate binding drives large-scale conformational changes in the Hsp90 molecular chaperone.](https://www.ncbi.nlm.nih.gov/pubmed?cmd=search&term=21474071)
 - 1-2:30 Lecture by John Gross on fundamentals of NMR theory applications to  mapping protein interactions binding, [NMR lecture notes](/static/pdf/methods/Methods-NMR-l2017.pdf)
 - 2:30-5pm work on analyzing NMR titration data to determine Kd (Ryan Tibble and John Gross), [Common Sparky Commands](/static/pdf/methods/Sparky_common_cmds.pdf) and [Sparky Integration Tutorial](/static/pdf/methods/Sparky_Integration.pdf)
