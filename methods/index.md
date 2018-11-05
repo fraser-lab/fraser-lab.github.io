@@ -6,6 +6,8 @@ group: methods
 
 # Biophysics 204A: Methods in Macromolecular Structure #
 
+<iframe src="https://calendar.google.com/calendar/embed?src=48215r0h4nka496mop16f40dc4%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
 ## Fall 2018 Syllabus ##
 
 ![alt text](/static/img/pub/methods_wb.JPG "Macro methods whiteboard in the teaching lab")
