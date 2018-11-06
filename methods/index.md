@@ -136,7 +136,7 @@ Chalk Talks:
 - 2:30-2:45 - Break
 - 2:45-3:00 - Why Protein Structural Biology? (Gross)
 - 3:00-3:15 - Proteins Thermo/Kinetics 101 (Gross)
-- 3:15-4:00 - [FFT 101 (Palovcak)] (https://docs.google.com/presentation/d/1RXALgbFH0JQmjFozPzkO8Oe2OenqU4D4Nl7md6UBMP0/edit?usp=sharing)
+- 3:15-4:00 - [FFT 101 (Palovcak)] (/static/pdf/methods/Fourierlecture-v2.pdf)
 
 
 _Weds Nov 7_
