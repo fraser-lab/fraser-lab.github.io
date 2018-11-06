@@ -129,7 +129,7 @@ at http://sds.ucsf.edu. Accommodations are never retroactive; therefore students
 
 _Tues Nov 6_
 
-- 1:00-1:30 - [Intro to Macro Methods](/static/pdf/methods/macro_methods_intro.pdf) (Gross)
+- 1:00-1:30 - [Intro to Macro Methods](/static/pdf/methods/macro_methods_intro-18.pdf) (Gross)
 - 1:30-2:30 - Why Hsp90 is cool (David Agard)
 
 Chalk Talks:
