@@ -145,7 +145,7 @@ _Weds Nov 7_
 - 1:30-1:45 - NMR 101 (Gross)
 - 1:45-2:00 - Break
 - 2:00-3:00PM - [Theory of Fragments and Role of Structural Biology](/static/pdf/methods/20171029_Fragments_Lecture.pdf) (Manglik)
-- 3:00-4:00 - Working with the FFT in Python (Palovcak) (cross-correlation, convolution, power spectral density and all that).     [FT_excercise](/static/pdf/methods/linear_fourier_filter_exercise.py) 
+- 3:00-4:00 - Working with the FFT in Python (Palovcak) (cross-correlation, convolution, power spectral density and all that).   [FT_excercise](/static/pdf/methods/linear_fourier_filter_exercise.py) 
 
 **NOTE special meeting times for X-ray team**
 _Thurs Nov 8 and Fri Nov 9_
