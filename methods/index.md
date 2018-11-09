@@ -208,7 +208,7 @@ _Mon Nov 19_
 - 11:15-noon: X-ray data processing from MTZ to density, molecular replacement, difference maps (Manglik, Saolo de Oliveira, Michael Thompson)
 - 1:00-1:30PM: X-ray Journal Club
  - Ajikarunia Palar [Free R value: a novel statistical quantity for assessing the accuracy of crystal structures](https://www.nature.com/nature/journal/v355/n6359/pdf/355472a0.pdf)
-  -Elissa Fink [Molprobity](https://www.ncbi.nlm.nih.gov/pubmed/20057044)
+  -Lawrence Zhu [Molprobity](https://www.ncbi.nlm.nih.gov/pubmed/20057044)
 - 1:30-3:00PM: X-ray data processing: identifying ligands, ligand restraints and refinement (Manglik, Saolo de Oliveira, Michael Thompson)
 - 3:00-5:00PM: NMR Methods Team Presentation and NMR data processing: : [from FID to 2D](/static/pdf/methods/2DNMR_Processing_Tutorial.pdf) (Ryan Tibble and John Gross)
 
@@ -316,7 +316,6 @@ _Weds Dec 12_
 - 1-2PM [Lecture by Yifan Cheng](https://drive.google.com/open?id=1lZWQIS1Yjm8hZuNxXQbddmBKhpIQSu9k)
 - 4PM - Journal Club:
   - Dyana Kenanova [Ratchet-like polypeptide translocation mechanism of the AAA+ disaggregase Hsp104.](https://www.ncbi.nlm.nih.gov/pubmed/28619716)
-  -Lawrence Zhu [TRPV1 structures in nanodiscs reveal mechanisms of ligand and lipid action.](https://www.ncbi.nlm.nih.gov/pubmed/27281200)
 - 2:30-5PM Finalize work on all projects!
 
 **FINAL PRESENTATIONS: Mon Dec 17**
