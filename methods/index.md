@@ -224,11 +224,11 @@ _Tues Nov 20_
   -Maria Garza [Asymmetric activation of the hsp90 dimer by its cochaperone aha1.](https://www.ncbi.nlm.nih.gov/pubmed?cmd=search&term=20159554); [Background: localizing binding sites by NMR](https://www.ncbi.nlm.nih.gov/pubmed/8946851)
   - [Intro to Sparky](/static/pdf/methods/Sparky_tutorial.pdf)
   - Compound Assignments (25=DMSO, 26=APO):
-    - 1: 1, 2, 11, 13, 19
-    - 2: 3, 4, 12, 14, 21
-    - 3: 5, 6, 15, 17, 22
-    - 4: 7, 8, 16, 20, 24
-    - 5: 9, 10, 18, 23
+    - 1: 1, 6, 8, 13
+    - 2: 2,7, 10, 14,15
+    - 3: 3, 9, 16, 19
+    - 4: 4,11,17,20,22
+    - 5: 5,12,18,21
 - 1-2:30pm EM Methods Group Presentation and [EM data processing: from particles to 2D](https://docs.google.com/document/d/1cyh9XstW3Da8tU1g5gj8UCk1OMC8vGJsk7a5r6T9XHo/edit?usp=sharing)
 2:30-3pm EM Journal Club and Break
 - Daniel Barrero [Prevention of overfitting in cryo-EM structure determination.](https://www.ncbi.nlm.nih.gov/pubmed?cmd=search&term=22842542), background: [Optimal Determination of Particle Orientation, Absolute Hand, and Contrast Loss in Single-particle Electron Cryomicroscopy](http://www.sciencedirect.com/science/article/pii/S0022283603010222)
