@@ -223,7 +223,7 @@ _Tues Nov 20_
  - NMR Journal Club
   -Maria Garza [Asymmetric activation of the hsp90 dimer by its cochaperone aha1.](https://www.ncbi.nlm.nih.gov/pubmed?cmd=search&term=20159554); [Background: localizing binding sites by NMR](https://www.ncbi.nlm.nih.gov/pubmed/8946851)
   - [Intro to Sparky](/static/pdf/methods/Sparky_tutorial.pdf)
-  - Compound Assignments (25=DMSO, 26=APO):
+  - Compound Assignments (23=APO, 24=APO+DMSO):
     - 1: 1, 6, 8, 13
     - 2: 2,7, 10, 14,15
     - 3: 3, 9, 16, 19
