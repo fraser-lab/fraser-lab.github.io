@@ -13,6 +13,17 @@
 #     - name: 'Mullins Lab'
 #       url: 'http://mullinslab.ucsf.edu/'
 #
+- citation: 'Herzik Jr. MA, **Fraser JS**, Lander GC. A multi-model approach to assessing local and global cryo-EM map quality. *Structure*. 2018.'
+  date: 201808
+  image: '/static/img/pub/herzik_2017.jpg'
+  pmid: 30449687
+  pmcid: In Process
+  biorxiv: "128561"
+  pdf: '/static/pdf/herzik_2018.pdf'
+  links:
+    - name: 'Convergence Server @ Lander Lab'
+      url: 'http://www.lander-lab.com/convergence/'
+
 - citation: 'Babcock NS, **Keedy DA**, **Fraser JS**, Sivak DA. Model selection for biological crystallography. *Submitted - Preprint on BioRxiv*. 2018.'
   date: 201807
   image: '/static/img/pub/sivak_2018.jpg'
@@ -280,17 +291,6 @@ into proton conduction. *Proceedings of the National Academy of Sciences*. 2017.
   links:
     - name: 'Klinman Lab'
       url: 'http://www.cchem.berkeley.edu/jukgrp/klinman_group/Home.html'
-
-- citation: 'Herzik Jr. MA, **Fraser JS**, Lander GC. A multi-model approach to assessing local and global cryo-EM map quality. *Submitted - Preprint on BioRxiv*. 2017.'
-  date: 201704
-  image: '/static/img/pub/herzik_2017.jpg'
-  pmid: Submitted
-  pmcid: Submitted
-  biorxiv: "128561"
-  pdf: 'http://biorxiv.org/content/early/2017/04/19/128561.full.pdf'
-  links:
-    - name: 'Convergence Server @ Lander Lab'
-      url: 'http://www.lander-lab.com/convergence/'
 
 - citation: '**Biel JT**, **Thompson MC**, Cunningham CN, Corn JE, **Fraser JS**. Flexibility and design: conformational heterogeneity along the evolutionary trajectory of a redesigned ubiquitin. *Structure*. 2017.'
   date: 201703
