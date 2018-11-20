@@ -1,28 +1,22 @@
-- name: Kazutaka Ito
-  position: Visiting Scientist
-  startdate: 2017
-  enddate: 2018
-  current: Scientist @ Asahi Kasei
-
-- name: Brandi Hudson
+- name: Brandi Hudson, PhD
   position: Postdoctoral Fellow
   startdate: 2016
   enddate: 2018
   current: Scientist @ Relay Therapeutics
 
-- name: Rahel Woldeyes
+- name: Rahel Woldeyes, PhD
   position: Graduate Student (NSF Fellow)
   startdate: 2012
   enddate: 2017
   current: Postdoctoral Fellow - Chiu Lab @ SLAC/Stanford
 
-- name: Daniel Keedy
+- name: Daniel Keedy, PhD
   position: Postdoctoral Fellow (A.P. Giannini Foundation)
   startdate: 2012
   enddate: 2017
   current: Assistant Professor @ CUNY
 
-- name: David Mavor
+- name: David Mavor, PhD
   position: Graduate Student
   startdate: 2012
   enddate: 2017
@@ -52,7 +46,7 @@
   enddate: 2013
   current: LBL
 
-- name: Avi Samelson
+- name: Avi Samelson, PhD
   position: Technician
   enddate: Summer 2011
   current: Postdoctoral Fellow - Kampmann Lab @ UCSF (was Graduate Student - Marqusee Lab @ UC Berkeley)
