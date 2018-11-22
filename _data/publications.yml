@@ -13,6 +13,39 @@
 #     - name: 'Mullins Lab'
 #       url: 'http://mullinslab.ucsf.edu/'
 #
+- citation: '**Thompson MC, Barad BA, Wolff AM**, Cho HS, Schotte F,
+**Schwarz DMC**, Anfinrud P, **Fraser JS**. Temperature-Jump Solution X-ray Scattering Reveals Distinct Motions in a Dynamic Enzyme. *Submitted - Preprint on BioRxiv*. 2018.'
+  date: 201810
+  image: '/static/img/pub/thompson_2018.jpg'
+  pmid: Submitted
+  pmcid: Submitted
+  biorxiv: "476432"
+  pdf: 'https://www.biorxiv.org/content/biorxiv/early/2018/11/21/476432.full.pdf'
+  links:
+    - name: Solution Scattering Code on Github
+      url: https://www.biorxiv.org/content/biorxiv/early/2018/11/21/476432.full.pdf
+    - name: BioCARS
+      url: 'https://biocars.uchicago.edu/'
+    - name: Phil Anfinrud
+      url: 'https://irp.nih.gov/pi/philip-anfinrud'
+
+- citation: 'van Zundert GCP\*, **Hudson BM\*,  Oliveira SHP, Keedy DA**, Fonseca R, Heliou A, **Suresh P**, Borrelli K, Day T, **Fraser JS**, van den Bedem H. qFit-ligand reveals widespread conformational heterogeneity of drug-like molecules in X-ray electron density maps. *J Med Chem*. 2018.'
+  date: 201809
+  image: '/static/img/pub/qfit_ligand.gif'
+  pmid: In Process
+  pmcid: In Process
+  biorxiv: "253419"
+  pdf: '/static/pdf/qfit_ligand.pdf'
+  links:
+    - name: qFit-ligand Code on Github
+      url: https://github.com/ExcitedStates/qfit_ligand
+    - name: Henry van den Bedem
+      url: 'https://people.stanford.edu/vdbedem/'
+    - name: Schrodinger Inc.
+      url: 'https://www.schrodinger.com'
+    - name: 'Paper Submission Celebration Photo'
+      url: 'https://twitter.com/fraser_lab/status/956318642454474752'
+
 - citation: 'Herzik Jr. MA, **Fraser JS**, Lander GC. A multi-model approach to assessing local and global cryo-EM map quality. *Structure*. 2018.'
   date: 201808
   image: '/static/img/pub/herzik_2017.jpg'
@@ -226,23 +259,6 @@
       url: 'http://public.lanl.gov/mewall/'
     - name: 'Paper Submission Celebration Photo'
       url: 'https://twitter.com/LifeHasOrder/status/930291172668403712'
-
-- citation: 'van Zundert GCP\*, **Hudson BM\*, Keedy DA**, Fonseca R, Heliou A, **Suresh P**, Borrelli K, Day T, **Fraser JS**, van den Bedem H. qFit-ligand reveals widespread conformational heterogeneity of drug-like molecules in X-ray electron density maps. *Submitted - Preprint on BioRxiv*. 2018.'
-  date: 201801
-  image: '/static/img/pub/qfit_ligand.gif'
-  pmid: Submitted
-  pmcid: Submitted
-  biorxiv: "253419"
-  pdf: '/static/pdf/qfit_ligand.pdf'
-  links:
-    - name: qFit-ligand Code on Github
-      url: https://github.com/ExcitedStates/qfit_ligand
-    - name: Henry van den Bedem
-      url: 'https://people.stanford.edu/vdbedem/'
-    - name: Schrodinger Inc.
-      url: 'https://www.schrodinger.com'
-    - name: 'Paper Submission Celebration Photo'
-      url: 'https://twitter.com/fraser_lab/status/956318642454474752'
 
 - citation: 'Thomaston JL, **Woldeyes RA**, Nakane T, Yamashita A, Tanaka T, Koiwai K, Brewster AS, **Barad BA**, Chen Y, Lemmin T, Uervirojnangkoorn M, Arima T, Kobayashi J, Masuda T, Suzuki M, Sugahara M, Sauter NK, Tanaka R, Nureki O, Tono K, Joti Y, Nango E, Iwata S, Yumoto F, **Fraser JS**, DeGrado WF. XFEL structures of the influenza M2 proton channel: Room temperature water networks and insights
 into proton conduction. *Proceedings of the National Academy of Sciences*. 2017.'
