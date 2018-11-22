@@ -23,7 +23,7 @@
   pdf: 'https://www.biorxiv.org/content/biorxiv/early/2018/11/21/476432.full.pdf'
   links:
     - name: Solution Scattering Code on Github
-      url: https://www.biorxiv.org/content/biorxiv/early/2018/11/21/476432.full.pdf
+      url: https://github.com/fraser-lab/solution_scattering
     - name: BioCARS
       url: 'https://biocars.uchicago.edu/'
     - name: Phil Anfinrud
