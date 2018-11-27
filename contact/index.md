@@ -51,7 +51,7 @@ group: contact
 
 # Postdoctoral Fellows
 
-Inquiries about Postdoctoral positions should be emailed directly to James Fraser and clearly, but briefly, articulate why you are potentially interested in joining the lab. Candidates will be encouraged to explore applying for extramural fellowships to support their research.
+Inquiries about Postdoctoral positions should be emailed directly to James Fraser and clearly, but briefly, articulate why you are potentially interested in joining the lab. We don't generally post for specific positions, so please reach out! Candidates will be encouraged to explore applying for extramural fellowships to support their research.
 
 ***
 
