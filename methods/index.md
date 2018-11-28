@@ -283,7 +283,7 @@ _Mon Dec 3_
   - Nicholas Hoppe [High-Throughput Crystallography: Reliable and Efficient Identification of Fragment Hits](http://www.sciencedirect.com/science/article/pii/S0969212616301356?via%3Dihub)
 
 _Tues Dec 4_
-- 1-2:30PM [Lecture by James Holton on the relationship between data quality and model interpretation](http://bl831.als.lbl.gov/~jamesh/powerpoint/UCSF_DQvMI_2017.pptx)
+- 1-2:30PM [Lecture by Bob Stroud on relationship between data quality and model interpretation](http://bl831.als.lbl.gov/~jamesh/powerpoint/UCSF_DQvMI_2017.pptx)
 - 2:30-5PM Work on X-ray data (Manglik, Saolo de Oliveira, Michael Thompson)
 - 4PM - Journal Club:
   - Matthew Callahan  [Protein conformational flexibility modulates kinetics and thermodynamics of drug binding.](https://www.nature.com/articles/s41467-017-02258-w)
