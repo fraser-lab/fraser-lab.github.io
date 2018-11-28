@@ -246,18 +246,19 @@ _Weds Nov 21_
 _Mon Nov 26_
 - Journal Club:
   - Jack Strickland [Substrate binding drives large-scale conformational changes in the Hsp90 molecular chaperone.](https://www.ncbi.nlm.nih.gov/pubmed?cmd=search&term=21474071)
-- 1-2:30 Lecture by John Gross on fundamentals of NMR theory applications to  mapping protein interactions binding, [NMR lecture notes](/static/pdf/methods/Methods-NMR-l2017.pdf)
+- 1-2:30 Lecture by John Gross on fundamentals of NMR theory to HSQC, [NMR lecture notes](https://ucsf.box.com/s/3uk61vjpzp8ilmq53l89gdug4lnek5d1)
 - 2:30-5pm work on analyzing NMR titration data to determine Kd (Ryan Tibble and John Gross), [Common Sparky Commands](/static/pdf/methods/Sparky_common_cmds.pdf) and [Sparky Integration Tutorial](/static/pdf/methods/Sparky_Integration.pdf)
+-supplemental reading: [How does an HSQC work?](/static/pdf/methods/HSQC-Guided-tour.pdf)
 
 _Tues Nov 27_
-- 1-2:30 Lecture by John Gross on using NMR for structure determination.
+- 1-2:30 Lecture by John Gross on detecting protein-ligand interactions by NMR.
 - 2:30-5pm work on generating chemical shift perturbation plot versus primary sequence; mapping onto structure, [CSPs from Sparky Lists](/static/pdf/methods/Sparky_CSP.py)
 
 _Weds Nov 28_
 - Journal Club:
   -Katarina Pance [Mechanistic basis for the recognition of a misfolded protein by HSP90.](https://www.ncbi.nlm.nih.gov/pubmed?cmd=search&term=28218749)
   -Christina Stephens [Validation of NMR structures using Residual Dipolar Couplings](https://www.sciencedirect.com/science/article/pii/S0959440X05001545?via%3Dihub); background [Direct measurements of distances and bond angles by NMR in a dilute liquid crystalline medium.](https://www.ncbi.nlm.nih.gov/pubmed/9353189)
--  1-2:30 Lecture by John Gross on using NMR to measure ms-usec dynamics in proteins (Ryan Tibble and John Gross)
+-  1-2:30 Lecture by John Gross on dynamic NMR spectroscopy(Ryan Tibble and John Gross)
 - 2:30-5pm mapping NMR shift perturbations onto structure using Chimera  (John Gross, Ryan Tibble, Tom Goddard)
 - [ChimeraX tutorial by Tom Goddard](http://www.cgl.ucsf.edu/chimera/data/nmrcolor-nov2017/nmrcolor.html)
 - [NMR Screen Compound Structure Gallery](/static/pdf/methods/Macro_NMR_Screen_Cmpd_Structures.pdf)
