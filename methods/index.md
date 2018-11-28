@@ -148,7 +148,7 @@ _Weds Nov 7_
 - 1:30-1:45 - NMR 101 (Gross)
 - 1:45-2:00 - Break
 - 2:00-3:00PM - [Theory of Fragments and Role of Structural Biology](/static/pdf/methods/20171029_Fragments_Lecture.pdf) (Manglik)
-- 3:00-4:00 - Working with the FFT in Python (Palovcak) (cross-correlation, convolution, power spectral density and all that).   [FT_excercise](/static/pdf/methods/linear_fourier_filter_exercise.py) 
+- 3:00-4:00 - Working with the FFT in Python (Palovcak) (cross-correlation, convolution, power spectral density and all that).   [FT_excercise](/static/pdf/methods/linear_fourier_filter_exercise.py)
 
 **NOTE special meeting times for X-ray team**
 _Thurs Nov 8 and Fri Nov 9_
@@ -163,7 +163,7 @@ _X-ray_
 
 **Week 2 – Working in Method Teams**
  Monday Nov 12: Veterans Day Holiday, no class; make up session on Thursday Nov 15
- 
+
 _X-ray_
 - Julian Braxton, Matthew Callahan, Elissa Fink, Nicholas Hoppe, Mathew Klope, Ajikarunia Palar, Sarah Williams
 - Tuesday Nov 13: Crystal harvesting (Genentech Hall crystal room)
@@ -192,7 +192,7 @@ _EM_
   - EM: Bryan Faust and Hayarpi Torosyan
   - X-ray: Elissa Fink and Matthew Klope
   - NMR: Letitia Sarah and Arthur Tran
-  
+
 _Groups_
 - 1: Christina Stephens, Nicholas Hoppe, Quinn Edmonson, Lawrence Zhu
 - 2: Katerina Pance, Arthur Tran, Elissa Fink, Holly Vickery
@@ -265,12 +265,12 @@ _Weds Nov 28_
 
 **Week 5 - X-ray**
 - Compound Data Processing Logs, MTZs, CIFs, PDBs:
-
-  - 1 : a50 a51 c1 c11 c13 c2 f1 f14 f19 f23 f28 f32 f37 f41 f46 f51 f58 f63 f68 f73 f8 f85 f9 f95 - [BOX LINK](https://ucsf.box.com/s/nh3euf7zj9wvma40tm6l7n64e6zdnvk1)
-  - 2 : amppnp c12 c14 c3 c4 f10 f15 f2 f24 f29 f33 f38 f42 f47 f52 f59 f64 f69 f75 f80 f86 f90 f96 - [BOX LINK](https://ucsf.box.com/s/6m2g3xyaxcudy50ib47011baraf1ywd3)
-  - 3 : a40 c15 c22 c5 c6 f11 f16 f20 f25 f3 f34 f39 f43 f48 f53 f55 f56 f6  f7 f76 f81 f91 f92 - [BOX LINK](https://ucsf.box.com/s/eifn44wo5ye00kcvyk728yfe120l9qxf)
-  - 4 :  a44 c8 f12 f17 f21 f26 f30 f35 f4 f44 f49 f54 f60 f65 f66 f70 f71 f77 f77_2 f78 f83 f88 f93 - [BOX LINK](https://ucsf.box.com/s/0tr7age0396ksiqnblvi3ij7jqxwdns7)
-  - 5 : c10 c23 c9 f13 f18 f22 f27 f31 f36 f40 f45 f50 f57 f61 f67 f72 f74 f79 f82 f84 f87 f89 f94  - [BOX LINK](https://ucsf.box.com/s/cq66o2i445ngbdnvne5gblslt8vii6yk)
+  - APO DATA - [BOX LINK](https://ucsf.box.com/s/xf2bf1wghibusmtletkag4kh6hblamn9)
+  - 1 : G6 G2 F2a H2 C3a E4 I3 F6a A8 I4 A3 a50 a51 c1 c11 c13 c2 f1 f14 f19 f23 f28 f32 f37 f41 f46 f51 f58 f63 f68 f73 f8 f85 f9 f95 - [BOX LINK](https://ucsf.box.com/s/nh3euf7zj9wvma40tm6l7n64e6zdnvk1)
+  - 2 : H7 C4a B7 G5 A2 D5 C2a H5 H4 D7 B3 amppnp c12 c14 c3 c4 f10 f15 f2 f24 f29 f33 f38 f42 f47 f52 f59 f64 f69 f75 f80 f86 f90 f96 - [BOX LINK](https://ucsf.box.com/s/6m2g3xyaxcudy50ib47011baraf1ywd3)
+  - 3 : B4 B6 A4 D2 E8 E2 D8 F4a E6 D6 I6 a40 c15 c22 c5 c6 f11 f16 f20 f25 f3 f34 f39 f43 f48 f53 f55 f56 f6  f7 f76 f81 f91 f92 - [BOX LINK](https://ucsf.box.com/s/eifn44wo5ye00kcvyk728yfe120l9qxf)
+  - 4 : B5 H8 E5 H1 G4 I2 D1 A5 E3 G7 H6 a44 c8 f12 f17 f21 f26 f30 f35 f4 f44 f49 f54 f60 f65 f66 f70 f71 f77 f77_2 f78 f83 f88 f93 - [BOX LINK](https://ucsf.box.com/s/0tr7age0396ksiqnblvi3ij7jqxwdns7)
+  - 5 : F7a G3 C6a D4 I1 H3 F1a F5a G8 E7  E1 c10 c23 c9 f13 f18 f22 f27 f31 f36 f40 f45 f50 f57 f61 f67 f72 f74 f79 f82 f84 f87 f89 f94  - [BOX LINK](https://ucsf.box.com/s/cq66o2i445ngbdnvne5gblslt8vii6yk)
 
 - [SMILES strings for all compounds](https://docs.google.com/spreadsheets/d/1a-eGuT2_d_yWOlCJEn-Oey-0_t-kFF5cl7FuAeOwQkw/edit?usp=sharing)
 
@@ -289,7 +289,7 @@ _Tues Dec 4_
   - Matthew Callahan  [Protein conformational flexibility modulates kinetics and thermodynamics of drug binding.](https://www.nature.com/articles/s41467-017-02258-w)
  and
   - Sarah Williams [Modelling dynamics in protein crystal structures by ensemble refinement.](https://www.ncbi.nlm.nih.gov/pubmed?cmd=search&term=23251785)
- 
+
 
 _Weds Dec 5_
 - 1-2PM Presentation by Sali on Rigor, Reproducibility, and Integrative Modeling
