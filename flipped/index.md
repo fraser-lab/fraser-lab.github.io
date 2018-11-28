@@ -4,9 +4,9 @@ layout: default
 group: pubs
 ---
 
-#Engineering Life:  A Flipped Classroom with iBiology#
+# Engineering Life:  A Flipped Classroom with iBiology
 
-##Spring 2015 Syllabus##
+## Spring 2015 Syllabus
 
 **Course Days/Hours:** 3pm-5pm on May 15, 18, 20, 22, 26, 27, 29
 
