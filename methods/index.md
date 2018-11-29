@@ -292,7 +292,7 @@ _Tues Dec 4_
 
 
 _Weds Dec 5_
-- 1-2PM Presentation by Sali on Rigor, Reproducibility, and Integrative Modeling
+- 1-2PM Presentation by Sali on Rigor and Reproducibility
 - 2:30-4PM Final work on X-ray data (Manglik, Saolo de Oliveira, Michael Thompson)
 - 4PM - Journal Club:
   - Julian Braxton [Why protein crystals favour some space-groups over others.](https://www.ncbi.nlm.nih.gov/pubmed/8846217)
