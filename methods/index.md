@@ -326,8 +326,8 @@ _Weds Dec 12_
 
 Please be on time and wait outside the teaching lab before your presentation. The presentations will be stopped after 15 min and questions will be for 5 minutes. Please email your presentations (use a filename that includes your team number!) to [John Gross](mailto:jdgross@cgl.ucsf.edu) by 12:30PM on Monday Dec 17th.
 
-- 1-1:20 GROUP 1: TBD
-- 1:25-1:45 GROUP 2: TBD
-- 1:50-2:10 GROUP 3: TBD
-- 2:15-2:35 GROUP 4: TBD
-- 2:40-3:00 GROUP 5: TBD
+- 1-1:20 GROUP 1: Christina Stephens, Nicholas Hoppe, Quinn Edmonson, Lawrence Zhou
+- 1:25-1:45 GROUP 2: Katerina Pance, Arthur Tran, Elissa Fink, Holly Vickery
+- 1:50-2:10 GROUP 3: Maru Garza, Sarah Williams, Bryan Faust, Dyana Kenanova
+- 2:15-2:35 GROUP 4: Letitia Sarah, Aji Palar, Matthew Klope, Hayarpi Torosyan
+- 2:40-3:00 GROUP 5: Julian Braxton, Jack Stickland, Matthew Callahan, Daniel Barrero
