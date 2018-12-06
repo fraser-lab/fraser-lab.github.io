@@ -14,6 +14,10 @@
   link: "/members"
   group: members
 
+- name: teaching lab
+  link: "/courses"
+  group: courses
+
 - name: news
   link: "/news"
   group: news
@@ -21,6 +25,7 @@
 - name: contact
   link: "/contact"
   group: contact
+
 
 # - name: links
 #   link: "/links"
