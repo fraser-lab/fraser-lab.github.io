@@ -1,7 +1,7 @@
 ---
 title: BP205 Server
 layout: default
-group: pubs
+group: courses
 ---
 
 #Teaching Lab Shared Server for Sequence Analysis#

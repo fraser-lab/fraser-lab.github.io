@@ -1,7 +1,7 @@
 ---
 title: BP205
 layout: default
-group: pubs
+group: courses
 ---
 
 # Biophysics 205A: Physical Underpinnings of Biological Systems (PUBS)
