@@ -11,7 +11,7 @@ Currently: {{alum.current}} </p>
 </div> {% endfor %}
 
 <br>
-## SEP High School Interns
+## [SEP High School Interns](http://sep.ucsf.edu/hs_programs/high-school-intern-program/)
 
 
 {% for sep in site.data.sep %}
@@ -19,7 +19,10 @@ Currently: {{alum.current}} </p>
 <div id = "{{sep.name}}" style="padding-top: 60px; margin-top: -60px;">
 <p><strong>{{sep.name}}</strong><br>
 {% if sep.startdate %} {{sep.startdate}} - {% endif %}{{sep.enddate}} <br>
-Currently: {{sep.current}} </p>
+{% if sep.current %}
+Currently: {{sep.current}}<br>
+{% endif %}
+</p>
 </div> {% endfor %}
 
 <br>
