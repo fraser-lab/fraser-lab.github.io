@@ -1,7 +1,7 @@
 ---
 title: Macro Methods
 layout: default
-group: methods
+group: courses
 ---
 
 # Biophysics 204A: Methods in Macromolecular Structure #
