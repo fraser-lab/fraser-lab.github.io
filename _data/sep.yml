@@ -1,3 +1,8 @@
+- name: Jessica Calderon
+  startdate: 2011
+  enddate: 2012
+  next: CCSF
+
 - name: Jennifer Li
   startdate: 2014
   enddate: 2017
@@ -13,4 +18,6 @@
   enddate: 2018
   current: Undergraduate @ SJSU
 
-
+- name: Vanessa Zhu
+  startdate: 2018
+  current: High school student
