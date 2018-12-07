@@ -1,7 +1,7 @@
 ---
 title: iPQB_Rigor
 layout: default
-group: pubs
+group: courses
 ---
 
 **iPQB Reproducibility and Rigor: Experimental Controls Module**
