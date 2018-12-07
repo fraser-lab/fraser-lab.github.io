@@ -1,7 +1,7 @@
 ---
 title: iBio_Class
 layout: default
-group: pubs
+group: courses
 ---
 
 # Engineering Life:  A Flipped Classroom with iBiology

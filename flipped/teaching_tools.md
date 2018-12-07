@@ -1,7 +1,7 @@
 ---
 title: Teaching Tools Guid
 layout: default
-group: pubs
+group: courses
 ---
 #Teaching Tools- Guidelines for Formatting and Content#
 
