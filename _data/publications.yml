@@ -28,6 +28,8 @@
       url: 'https://biocars.uchicago.edu/'
     - name: Phil Anfinrud
       url: 'https://irp.nih.gov/pi/philip-anfinrud'
+    - name: 'Paper Submission Celebration Tweetstorm'
+      url: 'https://twitter.com/fraser_lab/status/1067213167367905280'
 
 - citation: 'van Zundert GCP\*, **Hudson BM\*,  Oliveira SHP, Keedy DA**, Fonseca R, Heliou A, **Suresh P**, Borrelli K, Day T, **Fraser JS**, van den Bedem H. qFit-ligand reveals widespread conformational heterogeneity of drug-like molecules in X-ray electron density maps. *J Med Chem*. 2018.'
   date: 201809
