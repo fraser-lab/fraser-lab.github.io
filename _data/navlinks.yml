@@ -14,7 +14,7 @@
   link: "/members"
   group: members
 
-- name: teaching lab
+- name: teaching
   link: "/courses"
   group: courses
 
