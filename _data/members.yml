@@ -180,7 +180,7 @@
 
 - name: Iris Young
   image: /static/img/members/iyoung.jpg
-  altimage:
+  altimage: /static/img/members/photobomb/YOUNG.jpg
   position: Postdoc
   email: irisdyoung (at) gmail.com
   scholar: iSv5YCUAAAAJ
