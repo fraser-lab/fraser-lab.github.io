@@ -16,7 +16,7 @@ group: members
         {{person.position}} <br>
         <em>{{person.email}}</em> <br>
         {% if person.website %}
-          <a href= "{{person.website}}">{{person.website}}</a> <br>
+          <a style="overflow-wrap: break-word;" href= "{{person.website}}">{{person.website}}</a> <br>
         {% endif %}
         {% if person.orcid %}
           <a href="http://orcid.org"><img class="inline-block" src="/static/img/orcid_logo.png"></a>
