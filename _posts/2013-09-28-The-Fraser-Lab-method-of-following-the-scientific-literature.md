@@ -74,15 +74,15 @@ The big/weekly/general interest journals (everyone cares):
 * Science - http://www.sciencemag.org/rss/current.xml
 * Cell - http://rss.sciencedirect.com/publication/science/00928674
 * eLife - http://elife.elifesciences.org/rss/recent.xml
-* PLoS Biology - http://www.plosbiology.org/article/feed
+* PLoS Biology - https://journals.plos.org/plosbiology/feed/atom
 * PNAS - http://www.pnas.org/rss/current.xml
 
 biweekly/npg/baby plos/etc (most people probably care):
 * Nature Methods: http://www.nature.com/nmeth/current_issue/rss
-* Molecular Systems Biology: http://www.nature.com/msb/current_issue/rss/
+* Molecular Systems Biology: http://msb.embopress.org/rss/current.xml
 * Nature Genetics: http://feeds.nature.com/ng/rss/current
 * NSMB: http://www.nature.com/nsmb/current_issue/rss
-* Nature ChemBiol: "http://feeds.nature.com/nchembio/rss/current
+* Nature ChemBiol: http://feeds.nature.com/nchembio/rss/current
 * PLoS Genetics: http://www.plosgenetics.org/article/feed
 * PLoS CompBio: http://www.ploscompbiol.org/article/feed
 * Science Signalling: http://stke.sciencemag.org/rss/current.xml
@@ -90,12 +90,12 @@ biweekly/npg/baby plos/etc (most people probably care):
 * Molecular Cell: http://rss.sciencedirect.com/publication/science/10972765
 
 a few specific to my field (you and your colleagues care):
-* ActaCrystD: http://journals.iucr.org/d/rss10.xml
-* JBiolNMR: http://www.springerlink.com/content/102922/?sortorder=asc&amp;+export=rss
-* Current opinion in structural biology: http://rss.sciencedirect.com/+publication/science/0959440X
-* Protein Science: http://www3.interscience.wiley.com/rss/journal/121502357
+* ActaCrystD: \[add manually by searching in Feedly\]
+* JBiolNMR: https://link.springer.com/search.rss?facet-content-type=Article&facet-journal-id=10858&channel-name=Journal+of+Biomolecular+NMR
+* Current opinion in structural biology: https://rss.sciencedirect.com/publication/science/0959440X
+* Protein Science: https://onlinelibrary.wiley.com/feed/1469896x/most-recent
 * Structure: http://rss.sciencedirect.com/publication/science/09692126
-* Biochemistry: http://pubs.acs.org/wls/alerts/rss/bichaw.rss
+* Biochemistry: http://feeds.feedburner.com/acs/bichaw
 * JMB: http://rss.sciencedirect.com/publication/science/00222836
 
 *note*: for the Cell Press Journals, I use the ScienceDirect Feeds rather than the ones that go to the journal itself.  This is because Cell stopped updating their RSS feeds for a brief period earlier in 2013 and UCSF only has access through ScienceDirect anyway.
