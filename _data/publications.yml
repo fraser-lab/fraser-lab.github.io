@@ -34,13 +34,15 @@
 - citation: 'van Zundert GCP\*, **Hudson BM\*,  Oliveira SHP, Keedy DA**, Fonseca R, Heliou A, **Suresh P**, Borrelli K, Day T, **Fraser JS**, van den Bedem H. qFit-ligand reveals widespread conformational heterogeneity of drug-like molecules in X-ray electron density maps. *J Med Chem*. 2018.'
   date: 201809
   image: '/static/img/pub/qfit_ligand.gif'
-  pmid: 30457858 
+  pmid: 30457858
   pmcid: In Process
   biorxiv: "253419"
   pdf: '/static/pdf/qfit_ligand.pdf'
   links:
     - name: qFit-ligand Code on Github
       url: https://github.com/ExcitedStates/qfit_ligand
+    - name: In the Pipeline: More Than One, And Maybe More Than That
+      url: https://blogs.sciencemag.org/pipeline/archives/2019/01/07/more-than-one-and-maybe-more-than-that
     - name: Henry van den Bedem
       url: 'https://people.stanford.edu/vdbedem/'
     - name: Schrodinger Inc.
