@@ -14,7 +14,7 @@
 #       url: 'http://mullinslab.ucsf.edu/'
 #
 - citation: 'Eshun-Wilson L, Zhang R, Portran D, Toso D, Lohr T, Vendruscolo M, Bonomi M, **Fraser JS**, Nogales E. Effects of α-tubulin acetylation on microtubule structure and stability. *Submitted - Preprint on BioRxiv*. 2019.'
-  date: 201810
+  date: 201901
   image: '/static/img/pub/eshun-wilson_2019.jpg'
   pmid: Submitted
   pmcid: Submitted
@@ -27,6 +27,31 @@
       url: 'http://cryoem.berkeley.edu/'
     - name: 'Paper Submission Celebration Tweets'
       url: 'https://twitter.com/fraser_lab/status/1083223409993998337'
+
+- citation: 'DasGupta M, Budday D, MadzelanVan den bedem. *Submitted - Preprint on BioRxiv*. 2019.'
+  date: 201903
+  image: '/static/img/pub/DasGupta_2019.jpg'
+  pmid: Submitted
+  pmcid: Submitted
+  biorxiv: "524751"
+  pdf: 'https://www.biorxiv.org/content/early/2019/01/18/524751'
+  links:
+    - name: Henry van den Bedem
+      url: 'https://people.stanford.edu/vdbedem/'
+    - name: 'Wilson Lab'
+      url: 'https://redoxbiologycenter.unl.edu/markwilsonphd'
+    - name: 'Paper Submission Celebration Tweets'
+      url: 'https://twitter.com/fraser_lab/status/1083223409993998337'
+
+- citation: 'Hu S, Offenbacher AR, **Thompson EM**, Gee CL, Wilcoxen J, Carr CAM, Prigozhin DM, Yang V, Alber T, Britt RD, **Fraser JS**, Klinman JP. Biophysical Characterization of a Disabled Double Mutant of Soybean Lipoxygenase: The Undoing of Precise Substrate Positioning Relative to Metal Cofactor and an Identified Dynamical Network. *JACS*. 2017.'
+  date: 201902
+  image: '/static/img/pub/hu_2019.jpg'
+  pmid: 30645119
+  pmcid: In Process
+  pdf: '/static/pdf/hu_2019.pdf'
+  links:
+    - name: 'Klinman Lab'
+      url: 'http://www.cchem.berkeley.edu/jukgrp/klinman_group/Home.html'
 
 - citation: '**Thompson MC, Barad BA, Wolff AM**, Cho HS, Schotte F,
 **Schwarz DMC**, Anfinrud P, **Fraser JS**. Temperature-Jump Solution X-ray Scattering Reveals Distinct Motions in a Dynamic Enzyme. *Submitted - Preprint on BioRxiv*. 2018.'
