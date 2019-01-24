@@ -14,8 +14,12 @@ group: join
 
 # Postdoctoral Fellows
 
-Inquiries about Postdoctoral positions should be emailed directly to James Fraser. We welcome applicants of any race, religion, national origin, gender, political affiliation, sexual orientation, and eligible age or disability. Furthermore, we are committed to maintaining a supportive and collaborative lab environment. We encourage exploratory inquiries!
+Inquiries about Postdoctoral positions should be emailed directly to James Fraser. We welcome applicants of any race, religion, national origin, gender identity, caregiver and family commitments, political affiliation, sexual orientation, and eligible age or ability. Furthermore, we are committed to maintaining a supportive and collaborative lab environment. We encourage exploratory inquiries!
 
 We don’t generally post for specific positions, so please reach out! We are interested in engaging you in a conversation about your scientific background and goals for your future career (in academia, industry, or other ventures). We strive to provide excellent training across a wide range of computational and experimental techniques.
 
 Candidates will be encouraged to explore applying for extramural fellowships to support their research.
+
+# Other
+
+We have enjoyed having foreign exchange interns, sabbatical visitors from academia and industry, and post-bac technicians in the lab. We are open to other arrangements as well, although . As we expect people to be fairly compensated for their work by their home institution or by us, we do not have volunteer positions available.
