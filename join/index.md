@@ -22,4 +22,4 @@ Candidates will be encouraged to explore applying for extramural fellowships to 
 
 # Other
 
-We have enjoyed having foreign exchange interns, sabbatical visitors from academia and industry, and post-bac technicians in the lab. We are open to other arrangements as well, although . As we expect people to be fairly compensated for their work by their home institution or by us, we do not have volunteer positions available.
+In the past, we have enjoyed having foreign exchange students, interns, sabbatical visitors from academia and industry, and post-bac technicians in the lab.  We are open to other arrangements as well. As we expect people to be fairly compensated for their work by their home institution or by us, we do not have volunteer positions available. Note: we take high school students exclusively through the [UCSF SEP program](http://sep.ucsf.edu/).
