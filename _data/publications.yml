@@ -100,6 +100,8 @@
   biorxiv: "128561"
   pdf: '/static/pdf/herzik_2018.pdf'
   links:
+    - name: F1000 evaluation
+      url: https://f1000.com/prime/734468509
     - name: 'Convergence Server @ Lander Lab'
       url: 'http://www.lander-lab.com/convergence/'
 
