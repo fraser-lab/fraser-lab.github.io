@@ -71,6 +71,20 @@
     - name: 'Paper Submission Celebration Tweetstorm'
       url: 'https://twitter.com/fraser_lab/status/1067213167367905280'
 
+- citation: 'Chatterjee N, Pazarentzos E, Hrustanovic G, Lin L, Verschueren E, Johnson JR, Hofree M, Yan JJ, Olivas V, Newton BW, 
+Dollen JV, Earnshaw CH, Flanagan J, Chan E, Asthana S, Ideker T, Wu W, Mayekar MK, Suzuki J, **Barad B**, Kirichok Y, 
+**Fraser J**, Weiss WA, Krogan NJ, Tulpule A, Sabnis AJ, Bivona TG. Synthetic essentiality of metabolic regulator PDHK1 in PTEN-deficient cells
+and cancers. *Submitted - Preprint on Biorxiv.* 2018.'
+  date: 201810
+  image: '/static/img/pub/chatterjee_2018.jpg'
+  pmid: Submitted
+  pmcid: Submitted
+  biorxiv: "441295"
+  pdf: 'https://www.biorxiv.org/content/early/2018/10/11/441295.full.pdf'
+  links:
+    - name: Bivona Lab
+      url: https://www.bivonalab.net/
+
 - citation: 'van Zundert GCP\*, **Hudson BM\*,  Oliveira SHP, Keedy DA**, Fonseca R, Heliou A, **Suresh P**, Borrelli K, Day T, **Fraser JS**, van den Bedem H. qFit-ligand reveals widespread conformational heterogeneity of drug-like molecules in X-ray electron density maps. *J Med Chem*. 2018.'
   date: 201809
   image: '/static/img/pub/qfit_ligand.gif'
@@ -476,7 +490,7 @@ into proton conduction. *Proceedings of the National Academy of Sciences*. 2017.
     - name: 'F1000 Evaluation'
       url: 'http://f1000.com/prime/726132503'
 
-- citation: 'Baxter EL, Aguila L, Alonso-Mori R, Barnes CO, BonaguraCA, Brehmer W, Brunger AT, Calero G, Caradoc-Davies TT, Chatterjee R, Degrado WF, **Fraser JS**, Ibrahim M, Kern J, Kobilka BK, Kruse AC, Larsson KM, Lemke HT, Lyubimov AY, Manglik A, McPhillips SE, Norgren E, Pang SS, Soltis SM, Song J, Thomaston J, Tsai Y, Weis WI, **Woldeyes RA**, Yachandra V, Yano J, Zouni A, Cohen AE. *Acta Crystallographica D*. 2016'
+- citation: 'Baxter EL, Aguila L, Alonso-Mori R, Barnes CO, BonaguraCA, Brehmer W, Brunger AT, Calero G, Caradoc-Davies TT, `jee R, Degrado WF, **Fraser JS**, Ibrahim M, Kern J, Kobilka BK, Kruse AC, Larsson KM, Lemke HT, Lyubimov AY, Manglik A, McPhillips SE, Norgren E, Pang SS, Soltis SM, Song J, Thomaston J, Tsai Y, Weis WI, **Woldeyes RA**, Yachandra V, Yano J, Zouni A, Cohen AE. *Acta Crystallographica D*. 2016'
   date: 201601
   image: '/static/img/pub/baxter.gif'
   pmid: 26894529
