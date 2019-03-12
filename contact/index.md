@@ -80,6 +80,7 @@ San Francisco, CA 94143
   * **Option 4**: Exit Caltrain and then walk along [4th St](https://www.google.com/maps/dir/Caltrain+Bike+Station,+311+Townsend+St,+San+Francisco,+CA+94107/600+16th+St,+San+Francisco,+CA,+USA/@37.7718722,-122.4005542,16z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x808f7fd683557039:0xcb4ed812802cede8!2m2!1d-122.395387!2d37.776552!1m5!1m1!1s0x808f7fcf1e3cc5ff:0x6e582d4a0ba7d4ca!2m2!1d-122.3922173!2d37.7671496!3e2) for about 10-15 minutes until arriving at UCSF - if the Muni is there, you can get on the T-line inbound and exit at the Mission Bay stop on 3rd Street, but this is often slower than walking.
 * #### by car:
   * We are at 600 16th Street Street, between Owens and 4th St. There are two parking garages (please park in the  garages and not in the surface lots) on campus that are equally convenient.
+  * If being dropped off (by rideshare), use 1675 Owens St, San Francisco, CA 94158 as an address. There is convenient parking circle (red star on the map below) to let a passenger out in between the Rutter center and the parking lot.
 
 ### Once on campus, proceed to Genentech Hall:
 1. You will have to enter through Genentech Hall from the Koret Quad side (Red dot on the map below)
