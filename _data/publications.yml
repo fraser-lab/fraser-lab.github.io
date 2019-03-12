@@ -71,8 +71,8 @@
     - name: 'Paper Submission Celebration Tweetstorm'
       url: 'https://twitter.com/fraser_lab/status/1067213167367905280'
 
-- citation: 'Chatterjee N, Pazarentzos E, Hrustanovic G, Lin L, Verschueren E, Johnson JR, Hofree M, Yan JJ, Olivas V, Newton BW, 
-Dollen JV, Earnshaw CH, Flanagan J, Chan E, Asthana S, Ideker T, Wu W, Mayekar MK, Suzuki J, **Barad B**, Kirichok Y, 
+- citation: 'Chatterjee N, Pazarentzos E, Hrustanovic G, Lin L, Verschueren E, Johnson JR, Hofree M, Yan JJ, Olivas V, Newton BW,
+Dollen JV, Earnshaw CH, Flanagan J, Chan E, Asthana S, Ideker T, Wu W, Mayekar MK, Suzuki J, **Barad B**, Kirichok Y,
 **Fraser J**, Weiss WA, Krogan NJ, Tulpule A, Sabnis AJ, Bivona TG. Synthetic essentiality of metabolic regulator PDHK1 in PTEN-deficient cells
 and cancers. *Submitted - Preprint on Biorxiv.* 2018.'
   date: 201810
@@ -290,6 +290,8 @@ and cancers. *Submitted - Preprint on Biorxiv.* 2018.'
       url: 'https://wellslab.ucsf.edu/'
     - name: 'Datasets on Zenodo'
       url: 'https://zenodo.org/record/1044103'
+    - name: 'OPIG Journal Club'
+      url: 'https://www.blopig.com/blog/2019/03/journal-club-investigating-allostery-with-a-lot-of-crystals/'
     - name: 'Paper Submission Celebration Photo'
       url: 'https://twitter.com/fraser_lab/status/928125440014745600'
 
