@@ -43,11 +43,11 @@
     - name: 'Paper Submission Celebration Tweets'
       url: 'https://twitter.com/HvandenBedem/status/1086654403233214464'
 
-- citation: 'Hu S, Offenbacher AR, **Thompson EM**, Gee CL, Wilcoxen J, Carr CAM, Prigozhin DM, Yang V, Alber T, Britt RD, **Fraser JS**, Klinman JP. Biophysical Characterization of a Disabled Double Mutant of Soybean Lipoxygenase: The Undoing of Precise Substrate Positioning Relative to Metal Cofactor and an Identified Dynamical Network. *JACS*. 2017.'
+- citation: 'Hu S, Offenbacher AR, **Thompson EM**, Gee CL, Wilcoxen J, Carr CAM, Prigozhin DM, Yang V, Alber T, Britt RD, **Fraser JS**, Klinman JP. Biophysical Characterization of a Disabled Double Mutant of Soybean Lipoxygenase: The Undoing of Precise Substrate Positioning Relative to Metal Cofactor and an Identified Dynamical Network. *JACS*. 2019.'
   date: 201902
   image: '/static/img/pub/hu_2019.jpg'
   pmid: 30645119
-  pmcid: In Process
+  pmcid: PMC6353671
   pdf: '/static/pdf/hu_2019.pdf'
   links:
     - name: 'Klinman Lab'
@@ -110,7 +110,7 @@ and cancers. *Submitted - Preprint on Biorxiv.* 2018.'
   date: 201808
   image: '/static/img/pub/herzik_2017.jpg'
   pmid: 30449687
-  pmcid: In Process
+  pmcid: PMC6365196
   biorxiv: "128561"
   pdf: '/static/pdf/herzik_2018.pdf'
   links:

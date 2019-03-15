@@ -83,7 +83,7 @@ San Francisco, CA 94143
   * If being dropped off (by rideshare), use 1675 Owens St, San Francisco, CA 94158 as an address. There is convenient parking circle (red star on the map below) to let a passenger out in between the Rutter center and the parking lot.
 
 ### Once on campus, proceed to Genentech Hall:
-1. You will have to enter through Genentech Hall from the Koret Quad side (Red dot on the map below)
+1. You will have to enter through Genentech Hall from the Koret Quad side (Red arrow on the map below)
 2. Sign in at security for a meeting with Dr. James Fraser (office Genentech Hall S472E)
 3. Take the elevator or staircase to the fourth floor
 4. Walk west down the hall. If the floor changes colour to grey, you have gone the wrong way and are now in Byers Hall. Turn around and walk back to Genentech Hall
