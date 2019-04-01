@@ -18,7 +18,7 @@ group: courses
 
 This minicourse will be a survey of recent and classic papers on antibiotic resistance with an emphasis on evolutionary biology, biochemical mechanisms, and new ideas for chemical matter.
 
-##Course structure##
+## Course structure
 
 Each students will serve as Discussion Leaders (pre-assigned below) for one paper topic.  Everyone should be prepared for class by having read the paper carefully. The Discussion Leader will prepare a talk similar in content and quality to a Tetrad or QBC Journal Club presentation, with an estimated 30-40 minute duration (noting that interruptions and discussion may take us closer to an hour).
 
@@ -26,10 +26,10 @@ Each students will serve as Discussion Leaders (pre-assigned below) for one pape
 
 **Good Introductory Resources:**
 
-- [SnapShot: Antibiotic Resistance](https://www.cell.com/cell/pdf/S0092-8674\(18\)30162-4.pdf)
+- [SnapShot: Antibiotic Resistance](https://www.cell.com/cell/pdf/S0092-8674(18)30162-4.pdf)
 - [Lecture by Gerald Wright](https://www.youtube.com/watch?v=f_TL53iL7BA)
 
-#April 8#
+# April 8
 
 - Leader: Haley Gause
 - Assigned Paper: [Antibiotic collateral sensitivity is contingent on the repeatability of evolution ](https://www.nature.com/articles/s41467-018-08098-6)
@@ -39,11 +39,11 @@ Each students will serve as Discussion Leaders (pre-assigned below) for one pape
 - Assigned Paper: [Spatiotemporal microbial evolution on antibiotic landscapes](http://science.sciencemag.org/content/353/6304/1147)
 - Background: [Genetic variation of a bacterial pathogen within individuals with cystic fibrosis provides a record of selective pressures.](https://www.ncbi.nlm.nih.gov/pubmed/24316980)
 
-#April 9#
+# April 9
 
 - Leader: Bryan Faust
-- Assigned Paper:
-- Background:
+- Assigned Paper: [Heterogeneity in efflux pump expression predisposes antibiotic-resistant cells to mutation](http://science.sciencemag.org/content/362/6415/686)
+- Background:[Antibiotic That Inhibits the ATPase Activity of an ATP-Binding Cassette Transporter by Binding to a Remote Extracellular Site.](https://www.ncbi.nlm.nih.gov/pubmed/28727445?dopt=Abstract)
 
 - Leader:
 - Assigned Paper:
@@ -51,8 +51,8 @@ Each students will serve as Discussion Leaders (pre-assigned below) for one pape
 
 #April 10#
 
-- Leader: Bryan Faust
-- Assigned Paper: [Heterogeneity in efflux pump expression predisposes antibiotic-resistant cells to mutation](http://science.sciencemag.org/content/362/6415/686)
+- Leader:
+- Assigned Paper:
 - Background:
 
 - Leader:
