@@ -36,10 +36,16 @@ Fluency in multiple biophysical methods is often critical for answering mechanis
 
 ##  Engineering Life:  A Flipped Classroom with iBiology
 
-How did life evolve?  How can understand the principles of biological systems to create new proteins, new chemicals, biological structures, cells and tissues?  We will cover these topics in a "flipped course" where you will hear online lectures from scientific leaders in the field, read a paper, and then discuss as a group.  
+How did life evolve?  How can understand the principles of biological systems to create new proteins, new chemicals, biological structures, cells and tissues?  We will cover these topics in a "flipped course" where you will hear online lectures from scientific leaders in the field, read a paper, and then discuss as a group.  Tetrad minicourse.
 
 - [Engineering Life](/flipped)
 
 ## iPQB Reproducibility and Rigor
 
 - [Experimental Controls Module](/rigor)
+
+##  Mechanisms of Antimicrobial Resistance
+
+This minicourse will be a survey of recent and classic papers on antibiotic resistance with an emphasis on evolutionary biology, biochemical mechanisms, and new ideas for chemical matter.  Tetrad minicourse.
+
+- [AMR minicourse](/amrmini)
