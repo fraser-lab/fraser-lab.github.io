@@ -28,6 +28,8 @@ Each students will serve as Discussion Leaders (pre-assigned below) for one pape
 
 - [SnapShot: Antibiotic Resistance](https://www.cell.com/cell/pdf/S0092-8674(18)30162-4.pdf)
 - [Lecture by Gerald Wright](https://www.youtube.com/watch?v=f_TL53iL7BA)
+- [Molecular mechanisms of antibiotic resistance](https://www.nature.com/articles/nrmicro3380)
+- [Assessing evolutionary risks of resistance for new antimicrobial therapies](https://www.nature.com/articles/s41559-019-0854-x)
 
 # April 8
 
@@ -53,6 +55,7 @@ Each students will serve as Discussion Leaders (pre-assigned below) for one pape
 
 - Leader: Matt Nalley
 - Assigned Paper: [High mutation rates limit evolutionary adaptation in Escherichia coli](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007324)
+- Additional/Alternate reading: [Identifying and exploiting genes that potentiate the evolution of antibiotic resistance](https://www.nature.com/articles/s41559-018-0547-x)
 
 # April 15
 
@@ -79,3 +82,7 @@ Each students will serve as Discussion Leaders (pre-assigned below) for one pape
 - Leader: Evelyn Hernandez
 - Assigned Paper: [Resource misallocation as a mediator of fitness costs in antibiotic resistance.](https://www.biorxiv.org/content/biorxiv/early/2018/10/30/456434.full.pdf)
 - Additional/Alternate reading: [Antibiotic resistance and host immune evasion in Staphylococcus aureus mediated by a metabolic adaptation](https://www.pnas.org/content/116/9/3722)
+
+# if you don't like your paper, maybe one of these would be more fun?
+- [Invertible promoters mediate bacterial phase variation, antibiotic resistance, and host adaptation in the gut](http://science.sciencemag.org/content/363/6423/181.full)
+- [Development and Use of Personalized Bacteriophage-Based Therapeutic Cocktails To Treat a Patient with a Disseminated Resistant Acinetobacter baumannii Infection.](https://www.ncbi.nlm.nih.gov/pubmed/28807909)
