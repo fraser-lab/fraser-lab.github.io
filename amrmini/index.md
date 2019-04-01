@@ -33,39 +33,49 @@ Each students will serve as Discussion Leaders (pre-assigned below) for one pape
 
 - Leader: Haley Gause
 - Assigned Paper: [Antibiotic collateral sensitivity is contingent on the repeatability of evolution ](https://www.nature.com/articles/s41467-018-08098-6)
-- Background: [Darwinian Evolution Can Follow Only Very Few Mutational Paths to Fitter Proteins](http://science.sciencemag.org/content/312/5770/111)
+- Additional/Alternate reading:: [Darwinian Evolution Can Follow Only Very Few Mutational Paths to Fitter Proteins](http://science.sciencemag.org/content/312/5770/111)
 
 - Leader: Joel Finbloom
 - Assigned Paper: [Spatiotemporal microbial evolution on antibiotic landscapes](http://science.sciencemag.org/content/353/6304/1147)
-- Background: [Genetic variation of a bacterial pathogen within individuals with cystic fibrosis provides a record of selective pressures.](https://www.ncbi.nlm.nih.gov/pubmed/24316980)
+- Additional/Alternate reading:: [Genetic variation of a bacterial pathogen within individuals with cystic fibrosis provides a record of selective pressures.](https://www.ncbi.nlm.nih.gov/pubmed/24316980)
 
 # April 9
 
 - Leader: Bryan Faust
 - Assigned Paper: [Heterogeneity in efflux pump expression predisposes antibiotic-resistant cells to mutation](http://science.sciencemag.org/content/362/6415/686)
-- Background:[Antibiotic That Inhibits the ATPase Activity of an ATP-Binding Cassette Transporter by Binding to a Remote Extracellular Site.](https://www.ncbi.nlm.nih.gov/pubmed/28727445?dopt=Abstract)
+- Additional/Alternate reading::[Antibiotic That Inhibits the ATPase Activity of an ATP-Binding Cassette Transporter by Binding to a Remote Extracellular Site.](https://www.ncbi.nlm.nih.gov/pubmed/28727445?dopt=Abstract)
 
-- Leader:
-- Assigned Paper:
-- Background:
+- Leader: Natasha Puri
+- Assigned Paper: [Bactericidal Antibiotics Induce Toxic Metabolic Perturbations that Lead to Cellular Damage.](https://www.cell.com/cell-reports/fulltext/S2211-1247(15)01101-8)
+- Additional/Alternate reading: [Oxidation of dCTP contributes to antibiotic lethality in stationary-phase mycobacteria](https://www.pnas.org/content/115/9/2210)
 
-#April 10#
+# April 10
 
-- Leader:
-- Assigned Paper:
-- Background:
+- Leader: Matt Nalley
+- Assigned Paper: [High mutation rates limit evolutionary adaptation in Escherichia coli](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007324)
 
-- Leader:
-- Assigned Paper:
-- Background:
-
-#April 15#
+# April 15
 
 - Leader: Hayarpi Torosyan
 - Assigned Paper: [Inhibiting the Evolution of Antibiotic Resistance](<https://www.cell.com/molecular-cell/fulltext/S1097-2765(18)30847-5>)
-- Background: [Transposase-DNA Complex Structures Reveal Mechanisms for Conjugative Transposition of Antibiotic Resistance](<https://www.cell.com/cell/fulltext/S0092-8674(18)30176-4>), [This Week in Evolution](http://www.microbe.tv/twievo/twievo-38/)
+- Additional/Alternate reading:: [Transposase-DNA Complex Structures Reveal Mechanisms for Conjugative Transposition of Antibiotic Resistance](<https://www.cell.com/cell/fulltext/S0092-8674(18)30176-4>), [This Week in Evolution](http://www.microbe.tv/twievo/twievo-38/)
 
+- Leader: Arthur Tran
+- Assigned Paper: [Optimized arylomycins are a new class of Gram-negative antibiotics](https://www.nature.com/articles/s41586-018-0483-6)
+- Additional/Alternate reading: [A new class of synthetic retinoid antibiotics effective against bacterial persisters](https://www.nature.com/articles/nature26157)
 
-- Leader:
-- Assigned Paper:
-- Background:
+# April 16
+
+- Leader: Miriam Goldmon
+- Assigned Paper: [Prediction of ultra-high-order antibiotic combinations based on pairwise interactions](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006774)
+- Additional/Alternate reading: [Review on combos](https://www.nature.com/articles/s41579-018-0141-x), [Alternating antibiotic treatments constrain evolutionary paths to multidrug resistance.](https://www.ncbi.nlm.nih.gov/pubmed/25246554), [Accelerated evolution of resistance in multidrug environments.](https://www.ncbi.nlm.nih.gov/pubmed/18779569)
+
+- Leader: Katarina Pance
+- Assigned Paper: [Thermal proteome profiling in bacteria: probing protein state in vivo](http://msb.embopress.org/content/14/7/e8242)
+- Additional/Alternate reading: [Thermal proteome profiling: unbiased assessment of protein state through heat-induced stability changes.](https://www.ncbi.nlm.nih.gov/pubmed/28652855) [Species-specific activity of antibacterial drug combinations.](https://www.ncbi.nlm.nih.gov/pubmed/29973719)
+
+# April 17
+
+- Leader: Evelyn Hernandez
+- Assigned Paper: [Resource misallocation as a mediator of fitness costs in antibiotic resistance.](https://www.biorxiv.org/content/biorxiv/early/2018/10/30/456434.full.pdf)
+- Additional/Alternate reading: [Antibiotic resistance and host immune evasion in Staphylococcus aureus mediated by a metabolic adaptation](https://www.pnas.org/content/116/9/3722)
