@@ -86,3 +86,4 @@ Each students will serve as Discussion Leaders (pre-assigned below) for one pape
 # if you don't like your paper, maybe one of these would be more fun?
 - [Invertible promoters mediate bacterial phase variation, antibiotic resistance, and host adaptation in the gut](http://science.sciencemag.org/content/363/6423/181.full)
 - [Development and Use of Personalized Bacteriophage-Based Therapeutic Cocktails To Treat a Patient with a Disseminated Resistant Acinetobacter baumannii Infection.](https://www.ncbi.nlm.nih.gov/pubmed/28807909)
+- [Gamblers: An Antibiotic-Induced Evolvable Cell Subpopulation Differentiated by Reactive-Oxygen-Induced General Stress Response](https://www.sciencedirect.com/science/article/pii/S1097276519301480)
