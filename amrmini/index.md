@@ -31,6 +31,11 @@ Each students will serve as Discussion Leaders (pre-assigned below) for one pape
 - [Molecular mechanisms of antibiotic resistance](https://www.nature.com/articles/nrmicro3380)
 - [Assessing evolutionary risks of resistance for new antimicrobial therapies](https://www.nature.com/articles/s41559-019-0854-x)
 
+**Industry retrospectives on antibiotic development**
+
+- GSK [Drugs for bad bugs: confronting the challenges of antibacterial discovery](https://www.nature.com/articles/nrd2201)
+- AZ [ESKAPEing the labyrinth of antibacterial discovery](https://www.nature.com/articles/nrd4572)
+
 # April 8
 
 - Leader: Haley Gause
