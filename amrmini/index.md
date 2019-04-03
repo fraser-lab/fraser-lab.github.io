@@ -56,7 +56,7 @@ Each students will serve as Discussion Leaders (pre-assigned below) for one pape
 - Assigned Paper: [Bactericidal Antibiotics Induce Toxic Metabolic Perturbations that Lead to Cellular Damage.](https://www.cell.com/cell-reports/fulltext/S2211-1247(15)01101-8)
 - Additional/Alternate reading: [Oxidation of dCTP contributes to antibiotic lethality in stationary-phase mycobacteria](https://www.pnas.org/content/115/9/2210)
 
-# April 10
+# April 10 - start at 3PM
 
 - Leader: Matt Nalley
 - Assigned Paper: [High mutation rates limit evolutionary adaptation in Escherichia coli](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007324)
@@ -82,7 +82,7 @@ Each students will serve as Discussion Leaders (pre-assigned below) for one pape
 - Assigned Paper: [Thermal proteome profiling in bacteria: probing protein state in vivo](http://msb.embopress.org/content/14/7/e8242)
 - Additional/Alternate reading: [Thermal proteome profiling: unbiased assessment of protein state through heat-induced stability changes.](https://www.ncbi.nlm.nih.gov/pubmed/28652855) [Species-specific activity of antibacterial drug combinations.](https://www.ncbi.nlm.nih.gov/pubmed/29973719)
 
-# April 17
+# April 17 - start at 3PM
 
 - Leader: Evelyn Hernandez
 - Assigned Paper: [Resource misallocation as a mediator of fitness costs in antibiotic resistance.](https://www.biorxiv.org/content/biorxiv/early/2018/10/30/456434.full.pdf)
