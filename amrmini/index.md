@@ -22,7 +22,15 @@ This minicourse will be a survey of recent and classic papers on antibiotic resi
 
 Each students will serve as Discussion Leaders (pre-assigned below) for one paper topic.  Everyone should be prepared for class by having read the paper carefully. The Discussion Leader will prepare a talk similar in content and quality to a Tetrad or QBC Journal Club presentation, with an estimated 30-40 minute duration (noting that interruptions and discussion may take us closer to an hour).
 
-**Introductory Lectures:** April 2nd [Danica Fujimori](http://fujimorilab.ucsf.edu/), April 3rd [Ian Seiple](http://seiplegroup.ucsf.edu/)
+**Introductory Lectures:**
+- April 2nd [Danica Fujimori](http://fujimorilab.ucsf.edu/)
+  - [RNA methylation by Radical SAM enzymes RlmN and Cfr proceeds via methylene transfer and hydride shift](https://www.pnas.org/content/pnas/108/10/3930.full.pdf?with-ds=yes)
+  - [RlmN and Cfr are Radical SAM Enzymes Involved in Methylation of Ribosomal RNA](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2859901/)
+  - [Covalent Intermediate in the Catalytic Mechanism of the Radical S-Adenosyl-l-methionine Methyl Synthase RlmN Trapped by Mutagenesis](https://pubs.acs.org/doi/abs/10.1021/ja307855d?journalCode=jacsat)
+  - [miCLIP-MaPseq, a Substrate Identification Approach for Radical SAM RNA Methylating Enzymes](https://pubs.acs.org/doi/10.1021/jacs.8b02618)
+- April 3rd [Ian Seiple](http://seiplegroup.ucsf.edu/)
+  - [A platform for the discovery of new macrolide antibiotics.](https://www.ncbi.nlm.nih.gov/pubmed/27193679)
+  - [The evolving role of chemical synthesis in antibacterial drug discovery.](https://www.ncbi.nlm.nih.gov/pubmed/24990531)
 
 **Good Introductory Resources:**
 
@@ -92,3 +100,4 @@ Each students will serve as Discussion Leaders (pre-assigned below) for one pape
 - [Invertible promoters mediate bacterial phase variation, antibiotic resistance, and host adaptation in the gut](http://science.sciencemag.org/content/363/6423/181.full)
 - [Development and Use of Personalized Bacteriophage-Based Therapeutic Cocktails To Treat a Patient with a Disseminated Resistant Acinetobacter baumannii Infection.](https://www.ncbi.nlm.nih.gov/pubmed/28807909)
 - [Gamblers: An Antibiotic-Induced Evolvable Cell Subpopulation Differentiated by Reactive-Oxygen-Induced General Stress Response](https://www.sciencedirect.com/science/article/pii/S1097276519301480)
+- [The evolution of substrate discrimination in macrolide antibiotic resistance enzymes.](https://www.ncbi.nlm.nih.gov/pubmed/29317655)
