@@ -38,6 +38,7 @@ Each students will serve as Discussion Leaders (pre-assigned below) for one pape
 - [Lecture by Gerald Wright](https://www.youtube.com/watch?v=f_TL53iL7BA)
 - [Molecular mechanisms of antibiotic resistance](https://www.nature.com/articles/nrmicro3380)
 - [Assessing evolutionary risks of resistance for new antimicrobial therapies](https://www.nature.com/articles/s41559-019-0854-x)
+ - [A Mysterious Infection, Spanning the Globe in a Climate of Secrecy](https://www.nytimes.com/2019/04/06/health/drug-resistant-candida-auris.html)
 
 **Industry retrospectives on antibiotic development**
 
