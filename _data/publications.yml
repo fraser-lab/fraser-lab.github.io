@@ -28,7 +28,7 @@
     - name: 'Paper Submission Celebration Tweets'
       url: 'https://twitter.com/fraser_lab/status/1083223409993998337'
 
-- citation: 'DasGupta M, Budday D, Madzelan, Seravalli J, Hayes B, Sierra RG, Alonso-Mori R, Brewster AS, Sauter NK, Applegate GA, Tiwari V, Berkowitz DB, **Thompson MC, Fraser JS**, Wall ME,  van den Bedem H, Wilson MA. *Submitted - Preprint on BioRxiv*. 2019.'
+- citation: 'DasGupta M, Budday D, Madzelan, Seravalli J, Hayes B, Sierra RG, Alonso-Mori R, Brewster AS, Sauter NK, Applegate GA, Tiwari V, Berkowitz DB, **Thompson MC, Fraser JS**, Wall ME,  van den Bedem H, Wilson MA. Cysteine modification can gate non-equilibrium conformational dynamics during enzyme catalysis. *Submitted - Preprint on BioRxiv*. 2019.'
   date: 201903
   image: '/static/img/pub/DasGupta_2019.jpg'
   pmid: Submitted
