@@ -6,6 +6,8 @@ group: join
 
 # Graduate Programs
 
+At UCSF, students can apply to a single [graduate program](https://graduate.ucsf.edu/prospective-students) and do not apply directly to labs. During the first year of a PhD program, students rotate through ~3 labs prior to deciding on a thesis lab.
+
 ### The Fraser Lab participates in the following UCSF graduate programs:  
   * **[Biophysics](http://biophysics.ucsf.edu/)**: The Biophysics Graduate Program (BP) at the University of California, San Francisco (UCSF) prepares scientists to leverage new and emerging research tools—from nanotechnology to nuclear magnetic resonance spectroscopy—to quantify biological processes in living biological systems using physics and chemistry.
   * **[Chemistry and Chemical Biology](http://ccb.ucsf.edu/)**: The Chemistry and Chemical Biology Graduate Program (CCB) at the University of California, San Francisco (UCSF) prepares scientists to address problems at the intersection of chemistry and biology by providing a chemical foundation for understanding complex biological processes at an atomic level.
