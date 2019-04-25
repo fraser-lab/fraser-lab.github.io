@@ -8,7 +8,7 @@ group: courses
 
 # [Fall 2018 Calendar](https://calendar.google.com/calendar/embed?src=48215r0h4nka496mop16f40dc4%40group.calendar.google.com&ctz=America%2FLos_Angeles) #
 
-## Fall 2019 Syllabus ##
+## Fall 2018 Syllabus ##
 
 <img class="img-responsive center-block" src="/static/img/pub/methods_wb.JPG" alt="Macro methods whiteboard in the teaching lab">
 
@@ -28,9 +28,7 @@ group: courses
 
 **Course Days/Hours:** Monday, Tuesday, Wednesday 1pm-5pm unless noted otherwise
 
-**Instructors:** [John Gross](mailto:jdgross@cgl.ucsf.edu), [Aashish Manglik](mailto:Aashish.Manglik@ucsf.edu), [James Fraser](mailto:jfraser@fraserlab.com)
-
-**Superpostdoc Instructor:** [John Nicoludis](mailto:John.Nicoludis@ucsf.edu)
+**Instructors:** [John Gross](mailto:jdgross@cgl.ucsf.edu), [Aashish Manglik](mailto:Aashish.Manglik@ucsf.edu), [James Fraser](mailto:jfraser@fraserlab.com), and [Dan Southworth](daniel.southworth@ucsf.edu)
 
 **EM Coordinator:** [David Bulkley](mailto:david.bulkley@ucsf.edu)
 
@@ -42,17 +40,17 @@ group: courses
 
 **TAs:**
 
-- [someone](mailto:someone@ucsf.edu)
+- [Jenna Pellegrino](mailto:Jenna.Pellegrino@ucsf.edu)
+- [Kyle Lopez](mailto:Kyle.Lopez@ucsf.edu)
 
 **Lecturers/Facilitators:**
 
-James Fraser, John Gross, David Bulkley, James Holton, Yifan Cheng, David Agard, Aashish Manglik, Andrej Sali, Robert Stroud
+James Fraser, John Gross, Dan Southworth, David Bulkley, James Holton, Yifan Cheng, David Agard, Aashish Manglik, Andrej Sali, Robert Stroud
 
 **Important Dates:**
 
-- ALS trip: Thurs and Fri Nov 8/9
-- Veterans Day Holiday Observed: Monday, Nov 11
 
+- Veterans Day Holiday Observed: Monday, Nov 12; makeup session Thursday Nov 15
 - Method Groups Presentation: Monday, Nov 19th
 - Break for Thanksgiving: Nov 21-23
 - Final Teams Presentation: Monday, Dec 17

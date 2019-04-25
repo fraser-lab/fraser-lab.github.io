@@ -32,7 +32,8 @@ PUBS is now run by Martin Kampmann and examines alpha synuclein!
 Fluency in multiple biophysical methods is often critical for answering mechanistic questions. To train the next generation of biophysicists at UCSF, we have decided to alter the traditional didactic structure by creating a new 6 week “Macromolecular Methods” class that places data collection at the beginning of the course.
 
 - [Macro Methods 2017](/methods_2017)
-- [Macro Methods 2018](/methods)
+- [Macro Methods 2018](/methods_2018)
+- [Macro Methods 2019](/methods)
 
 ##  Engineering Life:  A Flipped Classroom with iBiology
 
