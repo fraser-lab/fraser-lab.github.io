@@ -13,16 +13,18 @@
 #     - name: 'Mullins Lab'
 #       url: 'http://mullinslab.ucsf.edu/'
 #
-- citation: 'Eshun-Wilson L, Zhang R, Portran D, Toso D, Lohr T, Vendruscolo M, Bonomi M, **Fraser JS**, Nogales E. Effects of α-tubulin acetylation on microtubule structure and stability. *Submitted - Preprint on BioRxiv*. 2019.'
+- citation: 'Eshun-Wilson L, Zhang R, Portran D, Toso D, Lohr T, Vendruscolo M, Bonomi M, **Fraser JS**, Nogales E. Effects of α-tubulin acetylation on microtubule structure and stability. *PNAS*. 2019.'
   date: 201901
   image: '/static/img/pub/eshun-wilson_2019.jpg'
   pmid: Submitted
   pmcid: Submitted
   biorxiv: "516591"
-  pdf: 'https://www.biorxiv.org/content/biorxiv/early/2019/01/09/516591.full.pdf'
+  pdf: '/static/pdf/lisa_2019.pdf'
   links:
     - name: Plumed-EM Scripts on Github
       url: https://github.com/fraser-lab/plumed_em_md
+    - name: PLUMED-NEST files
+      url: https://www.plumed-nest.org/eggs/19/007/
     - name: Nogales Lab
       url: 'http://cryoem.berkeley.edu/'
     - name: 'Paper Submission Celebration Tweets'
