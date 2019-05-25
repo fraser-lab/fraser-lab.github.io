@@ -13,6 +13,19 @@
 #     - name: 'Mullins Lab'
 #       url: 'http://mullinslab.ucsf.edu/'
 #
+- citation: 'Glasgow AA, Huang Y, Mandell DJ, **Thompson M**, Ritterson R, Loshbaugh AL, **Pellegrino J**, Krivacic C, Pache RA, Barlow KA, Ollikainen N, Jeon D, Kelly MJS, **Fraser JS**, Kortemme T. Computational design of a modular protein sense/response system. *Submitted - Preprint on BioRxiv*. 2019.'
+  date: 201904
+  image: '/static/img/pub/biosensor_2019.jpg'
+  pmid: Submitted
+  pmcid: Submitted
+  biorxiv: "648485"
+  pdf: 'https://www.biorxiv.org/content/biorxiv/early/2019/05/24/648485.full.pdf'
+  pdbs:
+    - 6OB5
+  links:
+    - name: Kortemme Lab
+      url: http://kortemmelab.ucsf.edu/
+
 - citation: 'Eshun-Wilson L, Zhang R, Portran D, Toso D, Lohr T, Vendruscolo M, Bonomi M, **Fraser JS**, Nogales E. Effects of α-tubulin acetylation on microtubule structure and stability. *PNAS*. 2019.'
   date: 201901
   image: '/static/img/pub/eshun-wilson_2019.jpg'
