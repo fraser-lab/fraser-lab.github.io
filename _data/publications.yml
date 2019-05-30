@@ -48,6 +48,8 @@
       url: https://github.com/fraser-lab/plumed_em_md
     - name: PLUMED-NEST files
       url: https://www.plumed-nest.org/eggs/19/007/
+    - name: SBGrid - Structure and Stability
+      url: https://sbgridconsortium.tumblr.com/post/185062287820/structure-and-stability
     - name: Nogales Lab
       url: 'http://cryoem.berkeley.edu/'
     - name: 'Paper Submission Celebration Tweets'
