@@ -7,7 +7,7 @@
 <div id = "{{alum.name}}" style="padding-top: 60px; margin-top: -60px;">
 <p><strong>{{alum.name}}</strong> - <em>{{alum.position}}</em><br>
 {% if alum.startdate %} {{alum.startdate}} - {% endif %}{{alum.enddate}} <br>
-Currently: {{alum.current}} </p>
+Subsequent Position: {{alum.current}} </p>
 </div> {% endfor %}
 
 <br>
@@ -20,7 +20,7 @@ Currently: {{alum.current}} </p>
 <p><strong>{{sep.name}}</strong><br>
 {% if sep.startdate %} {{sep.startdate}} - {% endif %}{{sep.enddate}} <br>
 {% if sep.current %}
-Currently: {{sep.current}}<br>
+Subsequent Position: {{sep.current}}<br>
 {% endif %}
 </p>
 </div> {% endfor %}
@@ -34,5 +34,5 @@ Currently: {{sep.current}}<br>
 <div id = "{{visitor.name}}" style="padding-top: 60px; margin-top: -60px;">
 <p><strong>{{visitor.name}}</strong> - <em>{{visitor.position}}</em><br>
 {% if visitor.startdate %} {{visitor.startdate}} - {% endif %}{{visitor.enddate}} <br>
-Currently: {{visitor.current}} </p>
+Subsequent Position: {{visitor.current}} </p>
 </div> {% endfor %}
