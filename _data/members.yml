@@ -198,7 +198,13 @@
   email: hchaires (at) fraserlab.com
   description: "Hector graduated from Rice University with a degree in Biochemistry and Cell Biology. Under the guidance of Professor Phillips, he studied the kinetics of BlaC, an enzyme that confers on bacterial pathogens a resistance to a wide range of antibiotics. As an HHMI EXROP fellow he studied antibody affinity maturation in the Harrison lab at HMS. His research at UCSF will focus on characterizing ribosomal protection proteins, in complex with the ribosome, using cryo-electron microscopy. When not in the lab Hector enjoys hiking, exploring beaches, and Latin dance."
 
-           
+- name: Galen Correy
+  image: /static/img/members/correy.png
+  altimage: /static/img/members/photobomb/CORREY.jpg
+  position: Postdoc
+  email: galen.correy (at) ucsf.edu
+  description: "Galen’s research interest lies in using structural biology to tackle problems in protein engineering and drug design. He earned his PhD from the Australian National University, where he worked with Colin Jackson on the structure, function and evolution of insect enzymes that detoxify organophosphate nerve agents. Galen joined the Fraser lab as a postdoc in May 2019. He is using recently developed methods in fragment-based drug discovery to guide the design of new inhibitors of an emerging anti-cancer therapeutic target."  
+
   
 # Rotation Students
 
