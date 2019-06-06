@@ -60,15 +60,6 @@
                 a Kirschstein NRSA (F32) fellowship from [NIH/NHLBI](https://www.nhlbi.nih.gov/), and an Independent Postdoctoral Research Award from the [UCSF Program in Breakthrough Biomedical Research (PBBR)](https://pbbr.ucsf.edu/)."
 
 
-- name: D. John Lee
-  image: /static/img/members/djlee.jpg
-  altimage: /static/img/members/photobomb/DJLEEFAKE.jpg
-  position: Postdoc
-  email: djohnlee (at) fraserlab.com
-  scholar: vJBNuDUAAAAJ
-  website: "https://www.linkedin.com/in/djohnlee/"
-  description: "John earned his Ph.D. working with Michael Burkart at the University of California, San Diego. His primary focus was the application of protein NMR to the carrier proteins central to fatty acid, polyketide, and non-ribosomal peptide synthetic pathways. In the Fraser lab, he will use structural and computational techniques to explore structural biology and study minor conformational states."
-
 - name: Ben Barad
   image: /static/img/members/barad_new.jpg
   altimage: /static/img/members/photobomb/BARAD.jpg
@@ -104,31 +95,6 @@
 
   Justin is supported by a graduate fellowship from NSF."
 
-- name: Roberto Efraín (Robbie) Díaz
-  image: /static/img/members/roberto-e-diaz-365x365.jpeg
-  altimage: /static/img/members/photobomb/DIAZ.jpg
-  position: Graduate Student
-  email: roberto.diaz (at) ucsf.edu
-  scholar: L_OCeG4AAAAJ
-  twitter: "robbiediaz_ucsf"
-  orcid: "orcid.org/0000-0002-1172-9919"
-  description: "Robbie graduated from the University of Miami with a degree in Neuroscience. He studied how transcription factors regulate axon regeneration in the central nervous system as an undergraduate in Vance Lemmon's lab. Robbie is interested in utilizing single-molecule and structural techniques to study interactions between chitin-binding proteins and chitin. When he's not in lab, Robbie enjoys reading, going to museums, and biking around the city.
-
-
-  Robbie is supported by a graduate fellowship from NSF."
-
-- name: Jenna Pellegrino
-  image: /static/img/members/light_wall_crop.jpg
-  altimage: /static/img/members/photobomb/PELLEGRINO.jpg
-  #altimage: not/found
-  position: Graduate Student
-  email: jenna.pellegrino (at) ucsf.edu
-  description: "Jenna graduated from Ursinus College with degrees in Biochemistry and Molecular Biology and French. While an undergrad, she studied the structure-function relationships in a de novo-designed diiron carboxylate protein model system under the guidance of Dr. Amanda Reig. Her research at UCSF will focus on the interactions between streptogramin antibiotics and the ribosome. When she’s not in the lab, Jenna enjoys being active, exploring, cooking, and gaming.
-
-
-  Jenna is supported by a graduate fellowship from NSF."
-
-
 
 - name: Erin Thompson
   image: /static/img/members/eposs.jpg
@@ -139,8 +105,6 @@
   description: "Erin graduated from Drake University with a degree in Biochemistry and Chemistry.  As an undergraduate, Erin worked in several labs ranging from exercise physiology to biophysics. In her free time, she enjoys running, hiking, and exploring San Francisco.
 
   Erin is supported by a fellowship from the Genentech Foundation."
-
-
 
 
 - name: Alexander Wolff
@@ -160,6 +124,39 @@
                 and an [ARCS Foundation Scholar Award](https://www.arcsfoundation.org/) to support this work. \
                 Outside of the lab, Alex tries to interlace art, science, and outdoor adventures \
                 while honing his communication skills."
+
+- name: D. John Lee
+  image: /static/img/members/djlee.jpg
+  altimage: /static/img/members/photobomb/DJLEEFAKE.jpg
+  position: Postdoc
+  email: djohnlee (at) fraserlab.com
+  scholar: vJBNuDUAAAAJ
+  website: "https://www.linkedin.com/in/djohnlee/"
+  description: "John earned his Ph.D. working with Michael Burkart at the University of California, San Diego. His primary focus was the application of protein NMR to the carrier proteins central to fatty acid, polyketide, and non-ribosomal peptide synthetic pathways. In the Fraser lab, he will use structural and computational techniques to explore structural biology and study minor conformational states."
+
+
+- name: Roberto Efraín (Robbie) Díaz
+  image: /static/img/members/roberto-e-diaz-365x365.jpeg
+  altimage: /static/img/members/photobomb/DIAZ.jpg
+  position: Graduate Student
+  email: roberto.diaz (at) ucsf.edu
+  scholar: L_OCeG4AAAAJ
+  twitter: "robbiediaz_ucsf"
+  orcid: "orcid.org/0000-0002-1172-9919"
+  description: "Robbie graduated from the University of Miami with a degree in Neuroscience. He studied how transcription factors regulate axon regeneration in the central nervous system as an undergraduate in Vance Lemmon's lab. Robbie is interested in utilizing single-molecule and structural techniques to study interactions between chitin-binding proteins and chitin. When he's not in lab, Robbie enjoys reading, going to museums, and biking around the city.
+
+
+  Robbie is supported by a graduate fellowship from NSF."
+
+- name: Jenna Pellegrino
+  image: /static/img/members/light_wall_crop.jpg
+  altimage: /static/img/members/photobomb/PELLEGRINO.jpg
+  position: Graduate Student
+  email: jenna.pellegrino (at) ucsf.edu
+  description: "Jenna graduated from Ursinus College with degrees in Biochemistry and Molecular Biology and French. While an undergrad, she studied the structure-function relationships in a de novo-designed diiron carboxylate protein model system under the guidance of Dr. Amanda Reig. Her research at UCSF will focus on the interactions between streptogramin antibiotics and the ribosome. When she’s not in the lab, Jenna enjoys being active, exploring, cooking, and gaming.
+
+
+  Jenna is supported by a graduate fellowship from NSF."
 
 - name: Saulo de Oliveira
   image: /static/img/members/oliveira.png
@@ -198,8 +195,8 @@
   email: hchaires (at) fraserlab.com
   description: "Hector graduated from Rice University with a degree in Biochemistry and Cell Biology. Under the guidance of Professor Phillips, he studied the kinetics of BlaC, an enzyme that confers on bacterial pathogens a resistance to a wide range of antibiotics. As an HHMI EXROP fellow he studied antibody affinity maturation in the Harrison lab at HMS. His research at UCSF will focus on characterizing ribosomal protection proteins, in complex with the ribosome, using cryo-electron microscopy. When not in the lab Hector enjoys hiking, exploring beaches, and Latin dance."
 
-           
-  
+
+
 # Rotation Students
 
 # Summer Students
