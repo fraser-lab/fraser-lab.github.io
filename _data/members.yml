@@ -37,28 +37,6 @@
   scholar: 5kUDcJ0AAAAJ
   description: "Lin was a graduate student at University of Pittsburgh with Angela Gronenborn and Ivet Bahar. Next, Lin was a joint post-doc and Li Foundation fellow between the Kortemme and Fraser labs, using computational and experimental techniques to study the evolution of protein dynamics. Since 2015, she has continued her research in the Fraser lab and has become the key go-to person for its day-to-day operations!"
 
-- name: Michael Thompson
-  image: /static/img/members/mike.jpg
-  altimage: /static/img/members/photobomb/THOMPSON.jpg
-  position: Postdoc
-  email: mct.ucsf (at) gmail.com
-  scholar: KDvVpWYAAAAJ
-  twitter: "mctucsf"
-  description: "Mike's longstanding research interest lies in understanding how proteins function by dynamically interconverting between different conformational states. \
-                He was introduced to structural biology and X-ray crystallography as an undergraduate at UC Berkeley, \
-                where he was a research assistant in [Tom Alber](http://fraserlab.com/2014/04/04/Tom-Alber/)’s laboratory. In 2014, he received \
-                his Ph.D. in [Biochemistry and Molecular Biology](https://bmsb.chem.ucla.edu/) from UCLA under the direction of [Todd Yeates](http://yeateslab.mbi.ucla.edu/). As a graduate student, \
-                Mike investigated the role of conformational polymorphism in expanding the functional diversity of a \
-                key family of proteins that define a widespread class of prokaryotic organelles collectively known as “bacterial microcompartments.” \
-                As a postdoc in the Fraser Lab, he is developing new methodologies for characterizing protein conformational landscapes, \
-                and applying them to understand how those landscapes are altered by mutations and interactions with other molecules. \
-                The long-term goal of this work is to deepen our understanding of how genetic mutations lead to human diseases, \
-                and to create new opportunities for drug discovery and protein engineering.
-
-
-                Since joining the Fraser lab in 2014, Mike has been supported by a postdoctoral fellowship from the [BioXFEL Science and Technology Center](https://www.bioxfel.org/) (NSF), \
-                a Kirschstein NRSA (F32) fellowship from [NIH/NHLBI](https://www.nhlbi.nih.gov/), and an Independent Postdoctoral Research Award from the [UCSF Program in Breakthrough Biomedical Research (PBBR)](https://pbbr.ucsf.edu/)."
-
 
 - name: Ben Barad
   image: /static/img/members/barad_new.jpg
@@ -94,6 +72,28 @@
 
 
   Justin is supported by a graduate fellowship from NSF."
+
+- name: Michael Thompson
+  image: /static/img/members/mike.jpg
+  altimage: /static/img/members/photobomb/THOMPSON.jpg
+  position: Postdoc
+  email: mct.ucsf (at) gmail.com
+  scholar: KDvVpWYAAAAJ
+  twitter: "mctucsf"
+  description: "Mike's longstanding research interest lies in understanding how proteins function by dynamically interconverting between different conformational states. \
+                He was introduced to structural biology and X-ray crystallography as an undergraduate at UC Berkeley, \
+                where he was a research assistant in [Tom Alber](http://fraserlab.com/2014/04/04/Tom-Alber/)’s laboratory. In 2014, he received \
+                his Ph.D. in [Biochemistry and Molecular Biology](https://bmsb.chem.ucla.edu/) from UCLA under the direction of [Todd Yeates](http://yeateslab.mbi.ucla.edu/). As a graduate student, \
+                Mike investigated the role of conformational polymorphism in expanding the functional diversity of a \
+                key family of proteins that define a widespread class of prokaryotic organelles collectively known as “bacterial microcompartments.” \
+                As a postdoc in the Fraser Lab, he is developing new methodologies for characterizing protein conformational landscapes, \
+                and applying them to understand how those landscapes are altered by mutations and interactions with other molecules. \
+                The long-term goal of this work is to deepen our understanding of how genetic mutations lead to human diseases, \
+                and to create new opportunities for drug discovery and protein engineering.
+
+
+                Since joining the Fraser lab in 2014, Mike has been supported by a postdoctoral fellowship from the [BioXFEL Science and Technology Center](https://www.bioxfel.org/) (NSF), \
+                a Kirschstein NRSA (F32) fellowship from [NIH/NHLBI](https://www.nhlbi.nih.gov/), and an Independent Postdoctoral Research Award from the [UCSF Program in Breakthrough Biomedical Research (PBBR)](https://pbbr.ucsf.edu/)."
 
 
 - name: Erin Thompson
