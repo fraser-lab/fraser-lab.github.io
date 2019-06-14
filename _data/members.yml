@@ -38,27 +38,6 @@
   description: "Lin was a graduate student at University of Pittsburgh with Angela Gronenborn and Ivet Bahar. Next, Lin was a joint post-doc and Li Foundation fellow between the Kortemme and Fraser labs, using computational and experimental techniques to study the evolution of protein dynamics. Since 2015, she has continued her research in the Fraser lab and has become the key go-to person for its day-to-day operations!"
 
 
-- name: Ben Barad
-  image: /static/img/members/barad_new.jpg
-  altimage: /static/img/members/photobomb/BARAD.jpg
-  position: Graduate Student
-  email: benjamin.barad (at) gmail.com
-  scholar: XDH9FrwAAAAJ
-  website: "http://benjaminbarad.com"
-  twitter: "benjaminbarad"
-  orcid: "orcid.org/0000-0002-1016-862X"
-  description: "Ben is interested in understanding the role that protein dynamics play in the regulation \
-                of biological function. As an undergraduate in Elizabeth Sattely’s lab at Stanford University, he \
-                investigated bacterial degradation of the polymer lignin. He is currently a graduate student in \
-                James Fraser’s lab at UCSF. His first project involved developing methods for validation of \
-                atomic structures solved by high-resolution electron cryomicroscopy. Currently, he is \
-                investigating the mechanisms of proteins involved in the allergic immune response to chitin.  \
-                Outside of research, he is obsessed with finding the perfect cup of coffee, a quest that has \
-                included learning to roast his own coffee beans.
-
-
-                Ben is supported by an [ARCS Foundation Scholar Award](https://www.arcsfoundation.org/) and a \
-                [UCSF Discovery Fellowship](http://support.ucsf.edu/discoveryfellows)"
 
 - name: Justin Biel
   image: /static/img/members/jbiel.jpg
