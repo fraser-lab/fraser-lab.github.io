@@ -1,8 +1,14 @@
+- name: Benjamin Barad, PhD
+  position: Graduate Student (ARCS Fellow)
+  startdate: 2014
+  enddate: 2019
+  current: Postdoctoral Fellow - Grotjahn Lab @ Scripps
+
 - name: Brandi Hudson, PhD
   position: Postdoctoral Fellow
   startdate: 2016
   enddate: 2018
-  current: Scientist @ Relay Therapeutics
+  current: Scientist - Relay Therapeutics
 
 - name: Rahel Woldeyes, PhD
   position: Graduate Student (NSF Fellow)
@@ -14,7 +20,7 @@
   position: Postdoctoral Fellow (A.P. Giannini Foundation)
   startdate: 2012
   enddate: 2017
-  current: Assistant Professor @ CUNY
+  current: Assistant Professor - CUNY
 
 - name: David Mavor, PhD
   position: Graduate Student
