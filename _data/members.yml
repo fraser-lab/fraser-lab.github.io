@@ -1,6 +1,6 @@
 - name: James Fraser
-  image: /static/img/members/fraser_new.jpg
-  altimage: /static/img/members/photobomb/FRASER.jpg
+  image: /static/img/members/Fraser.jpg
+  altimage: /static/img/members/Fraser_pb.jpg
   position: Principal Investigator
   email: jfraser (at) fraserlab.com
   scholar: j3iaoR8AAAAJ
@@ -26,22 +26,11 @@
 
 
     James is a recipient of the [NIH Early Independence Award](http://www.ucsf.edu/news/2011/09/10713/protein-scientist-receives-national-institutes-health-early-investigator-award), [a Pew Scholar Award](http://www.pewtrusts.org/en/projects/pew-biomedical-scholars/directory-of-pew-scholars/2014/james-s-fraser), [a Searle Scholar Award](http://pharmacy.ucsf.edu/news/2014/04/09/1/), and [a Packard Fellowship](http://www.packard.org/what-we-fund/conservation-and-science/science/packard-fellowships-for-science-and-engineering/fellowship-directory/fraser-james/).
-    In addition to all the exciting developments in the lab, James is on the board of [ASAPbio](https://asapbio.org) and has a long standing interest in [teaching](/courses) computational biology, [baseball statistics](http://alumni.berkeley.edu/news/california-magazine/mayjune-2007-new-food-and-farming/playing-stats) (as explained in this [awkward video](http://ibiomagazine.org/issues/november-2011-issue/james-fraser-a-michael-eisen.html) with Mike Eisen), and project-based courses. The lab is committed to publishing our code, disseminating our datasets, and posting manuscripts on preprint servers.
-    '
-
-- name: Lin Liu
-  image: /static/img/members/lliu.jpg
-  altimage: /static/img/members/photobomb/LIU.jpg
-  position: Staff Scientist
-  email: lin.liu (at) ucsf.edu
-  scholar: 5kUDcJ0AAAAJ
-  description: "Lin was a graduate student at University of Pittsburgh with Angela Gronenborn and Ivet Bahar. Next, Lin was a joint post-doc and Li Foundation fellow between the Kortemme and Fraser labs, using computational and experimental techniques to study the evolution of protein dynamics. Since 2015, she has continued her research in the Fraser lab and has become the key go-to person for its day-to-day operations!"
-
-
+    In addition to all the exciting developments in the lab, James is on the board of [ASAPbio](https://asapbio.org) and has a long standing interest in [teaching](/courses) computational biology, [baseball statistics](http://alumni.berkeley.edu/news/california-magazine/mayjune-2007-new-food-and-farming/playing-stats) (as explained in this [awkward video](http://ibiomagazine.org/issues/november-2011-issue/james-fraser-a-michael-eisen.html) with Mike Eisen), and project-based courses. The lab is committed to publishing our code, disseminating our datasets, and posting manuscripts on preprint servers.'
 
 - name: Justin Biel
-  image: /static/img/members/jbiel.jpg
-  altimage: /static/img/members/photobomb/BIEL.jpg
+  image: /static/img/members/Biel.jpg
+  altimage: /static/img/members/Biel_pb.jpg
   position: Graduate Student
   email: justin.biel (at) ucsf.edu
   scholar: FatB6VQAAAAJ
@@ -52,9 +41,46 @@
 
   Justin is supported by a graduate fellowship from NSF."
 
+- name: Hector Chaires
+  image: /static/img/members/Chaires.jpg
+  altimage: /static/img/members/Chaires_pb.jpg
+  position: Junior Specialist
+  email: hchaires (at) fraserlab.com
+  description: "Hector graduated from Rice University with a degree in Biochemistry and Cell Biology. Under the guidance of Professor Phillips, he studied the kinetics of BlaC, an enzyme that confers on bacterial pathogens a resistance to a wide range of antibiotics. As an HHMI EXROP fellow he studied antibody affinity maturation in the Harrison lab at HMS. His research at UCSF will focus on characterizing ribosomal protection proteins, in complex with the ribosome, using cryo-electron microscopy. When not in the lab Hector enjoys hiking, exploring beaches, and Latin dance."
+
+- name: Galen Correy
+  image: /static/img/members/Correy.png
+  altimage: /static/img/members/Correy_pb.jpg
+  position: Postdoc
+  email: galen.correy (at) ucsf.edu
+  description: "Galen’s research interest lies in using structural biology to tackle problems in protein engineering and drug design. He earned his PhD from the Australian National University, where he worked with Colin Jackson on the structure, function and evolution of insect enzymes that detoxify organophosphate nerve agents. Galen joined the Fraser lab as a postdoc in May 2019. He is using recently developed methods in fragment-based drug discovery to guide the design of new inhibitors of an emerging anti-cancer therapeutic target."
+
+  - name: Roberto Efraín (Robbie) Díaz
+    image: /static/img/members/Diaz.jpeg
+    altimage: /static/img/members/Diaz_pb.jpg
+    position: Graduate Student
+    email: roberto.diaz (at) ucsf.edu
+    scholar: L_OCeG4AAAAJ
+    twitter: "robbiediaz_ucsf"
+    orcid: "orcid.org/0000-0002-1172-9919"
+    description: "Robbie graduated from the University of Miami with a degree in Neuroscience. He studied how transcription factors regulate axon regeneration in the central nervous system as an undergraduate in Vance Lemmon's lab. Robbie is interested in utilizing single-molecule and structural techniques to study interactions between chitin-binding proteins and chitin. When he's not in lab, Robbie enjoys reading, going to museums, and biking around the city.
+
+
+    Robbie is supported by graduate fellowships from NSF and HHMI."
+
+  - name: Erin Thompson
+    image: /static/img/members/EThompson.jpg
+    altimage: /static/img/members/EThompson_pb.jpg
+    position: Graduate Student
+    email: eposs (at) fraserlab.com
+    twitter: "ernpossible"
+    description: "Erin graduated from Drake University with a degree in Biochemistry and Chemistry.  As an undergraduate, Erin worked in several labs ranging from exercise physiology to biophysics. In her free time, she enjoys running, hiking, and exploring San Francisco.
+
+    Erin is supported by a fellowship from the Genentech Foundation."
+
 - name: Michael Thompson
-  image: /static/img/members/mike.jpg
-  altimage: /static/img/members/photobomb/THOMPSON.jpg
+  image: /static/img/members/MThompson.jpg
+  altimage: /static/img/members/MThompson_pb.jpg
   position: Postdoc
   email: mct.ucsf (at) gmail.com
   scholar: KDvVpWYAAAAJ
@@ -75,61 +101,33 @@
                 a Kirschstein NRSA (F32) fellowship from [NIH/NHLBI](https://www.nhlbi.nih.gov/), and an Independent Postdoctoral Research Award from the [UCSF Program in Breakthrough Biomedical Research (PBBR)](https://pbbr.ucsf.edu/)."
 
 
-- name: Erin Thompson
-  image: /static/img/members/eposs.jpg
-  altimage: /static/img/members/photobomb/POSS.jpg
-  position: Graduate Student
-  email: eposs (at) fraserlab.com
-  twitter: "ernpossible"
-  description: "Erin graduated from Drake University with a degree in Biochemistry and Chemistry.  As an undergraduate, Erin worked in several labs ranging from exercise physiology to biophysics. In her free time, she enjoys running, hiking, and exploring San Francisco.
-
-  Erin is supported by a fellowship from the Genentech Foundation."
-
-
-- name: Alexander Wolff
-  image: /static/img/members/wolff.jpg
-  altimage: /static/img/members/photobomb/WOLFF.jpg
-  position: Graduate Student
-  email: LifeHasOrder (at) gmail.com
-  scholar: EqoaChsAAAAJ
-  twitter: "LifeHasOrder"
-  description: "Alex earned a B.S. in Kinesiology & Health Promotion, and a M.S. in Molecular \
-                Biology, from the University of Wyoming. During his time there, he became \
-                fascinated with the role that protein structural dynamics play in molecular mechanisms. \
-                Thus, Alex’s work in the Fraser Lab seeks to understand how proteins move, \
-                and to what degree these movements are altered in the context of human disease. \
-                He has been fortunate to receive a [Matilda Edlund Scholarship](https://graduate.ucsf.edu/edlund-scholarship), \
-                a [UCSF Discovery Fellowship](http://support.ucsf.edu/discoveryfellows), \
-                and an [ARCS Foundation Scholar Award](https://www.arcsfoundation.org/) to support this work. \
-                Outside of the lab, Alex tries to interlace art, science, and outdoor adventures \
-                while honing his communication skills."
-
 - name: D. John Lee
-  image: /static/img/members/djlee.jpg
-  altimage: /static/img/members/photobomb/DJLEEFAKE.jpg
+  image: /static/img/members/Lee.jpg
+  altimage: /static/img/members/Lee_pb.jpg
   position: Postdoc
   email: djohnlee (at) fraserlab.com
   scholar: vJBNuDUAAAAJ
   website: "https://www.linkedin.com/in/djohnlee/"
   description: "John earned his Ph.D. working with Michael Burkart at the University of California, San Diego. His primary focus was the application of protein NMR to the carrier proteins central to fatty acid, polyketide, and non-ribosomal peptide synthetic pathways. In the Fraser lab, he will use structural and computational techniques to explore structural biology and study minor conformational states."
 
+- name: Lin Liu
+  image: /static/img/members/Liu.jpg
+  altimage: /static/img/members/Liu_pb.jpg
+  position: Staff Scientist
+  email: lin.liu (at) ucsf.edu
+  scholar: 5kUDcJ0AAAAJ
+  description: "Lin was a graduate student at University of Pittsburgh with Angela Gronenborn and Ivet Bahar. Next, Lin was a joint post-doc and Li Foundation fellow between the Kortemme and Fraser labs, using computational and experimental techniques to study the evolution of protein dynamics. Since 2015, she has continued her research in the Fraser lab and has become the key go-to person for its day-to-day operations!"
 
-- name: Roberto Efraín (Robbie) Díaz
-  image: /static/img/members/roberto-e-diaz-365x365.jpeg
-  altimage: /static/img/members/photobomb/DIAZ.jpg
-  position: Graduate Student
-  email: roberto.diaz (at) ucsf.edu
-  scholar: L_OCeG4AAAAJ
-  twitter: "robbiediaz_ucsf"
-  orcid: "orcid.org/0000-0002-1172-9919"
-  description: "Robbie graduated from the University of Miami with a degree in Neuroscience. He studied how transcription factors regulate axon regeneration in the central nervous system as an undergraduate in Vance Lemmon's lab. Robbie is interested in utilizing single-molecule and structural techniques to study interactions between chitin-binding proteins and chitin. When he's not in lab, Robbie enjoys reading, going to museums, and biking around the city.
-
-
-  Robbie is supported by graduate fellowships from NSF and HHMI."
+- name: Saulo de Oliveira
+  image: /static/img/members/Oliveira.png
+  altimage: /static/img/members/Oliveira_pb.jpg
+  position: Postdoc
+  email: saulo (at) stanford.edu
+  description: "Saulo earned his PhD in 2016 from the University of Oxford, where he worked with Prof. Charlotte Deane developing methods for protein structure prediction. After finishing his doctorate, he worked as a postdoc at Oxford for 2 years, focusing on protein contact prediction and coevolution. He joined the lab in 2018 as a joint postdoctoral scholar with Dr. Henry van den Bedem. His current research focuses on using computational methods to understand protein structures and dynamics and how these relate to experimentally derived electron densities."
 
 - name: Jenna Pellegrino
-  image: /static/img/members/light_wall_crop.jpg
-  altimage: /static/img/members/photobomb/PELLEGRINO.jpg
+  image: /static/img/members/Pellegrino.jpg
+  altimage: /static/img/members/Pellegrino_pb.jpg
   position: Graduate Student
   email: jenna.pellegrino (at) ucsf.edu
   description: "Jenna graduated from Ursinus College with degrees in Biochemistry and Molecular Biology and French. While an undergrad, she studied the structure-function relationships in a de novo-designed diiron carboxylate protein model system under the guidance of Dr. Amanda Reig. Her research at UCSF will focus on the interactions between streptogramin antibiotics and the ribosome. When she’s not in the lab, Jenna enjoys being active, exploring, cooking, and gaming.
@@ -137,16 +135,36 @@
 
   Jenna is supported by a graduate fellowship from NSF."
 
-- name: Saulo de Oliveira
-  image: /static/img/members/oliveira.png
-  altimage: /static/img/members/photobomb/SAULO.jpg
-  position: Postdoc
-  email: saulo (at) stanford.edu
-  description: "Saulo earned his PhD in 2016 from the University of Oxford, where he worked with Prof. Charlotte Deane developing methods for protein structure prediction. After finishing his doctorate, he worked as a postdoc at Oxford for 2 years, focusing on protein contact prediction and coevolution. He joined the lab in 2018 as a joint postdoctoral scholar with Dr. Henry van den Bedem. His current research focuses on using computational methods to understand protein structures and dynamics and how these relate to experimentally derived electron densities."
+- name: Stephanie Wankowicz
+  image: /static/img/members/Wankowicz.jpg
+  #altimage: /static/img/members/Wankowicz_pb.jpg
+  position: Graduate Student
+  email: stephanie.wankowicz (at) ucsf.edu
+  scholar: WJ9lxYMAAAAJ
+  twitter: "stephanie_mul"
+  description: "Stephanie graduated from the University of Massachusetts Amherst with a degree in Biochemistry and Molecular Biology. During undergrad, she performed research on pancreas development under Dr. Kimberly Tremblay. She also performed research on economics of the Clean Water Act under Dr. Paul Kolkoswki. Subsequently, she worked as a senior research data specialist and a computational biologist at Dana-Farber Cancer Institute and Broad Institute of MIT and Harvard. There, she worked on many genitourinary translational research projects under Dr. Eliezer Van Allen and Dr. Joaquim Bellmunt. Outside of lab Stephanie enjoys running, reading, gardening, and eating lots of lettuce."
+
+  - name: Alexander Wolff
+    image: /static/img/members/Wolff.jpg
+    altimage: /static/img/members/Wolff_pb.jpg
+    position: Graduate Student
+    email: LifeHasOrder (at) gmail.com
+    scholar: EqoaChsAAAAJ
+    twitter: "LifeHasOrder"
+    description: "Alex earned a B.S. in Kinesiology & Health Promotion, and a M.S. in Molecular \
+                  Biology, from the University of Wyoming. During his time there, he became \
+                  fascinated with the role that protein structural dynamics play in molecular mechanisms. \
+                  Thus, Alex’s work in the Fraser Lab seeks to understand how proteins move, \
+                  and to what degree these movements are altered in the context of human disease. \
+                  He has been fortunate to receive a [Matilda Edlund Scholarship](https://graduate.ucsf.edu/edlund-scholarship), \
+                  a [UCSF Discovery Fellowship](http://support.ucsf.edu/discoveryfellows), \
+                  and an [ARCS Foundation Scholar Award](https://www.arcsfoundation.org/) to support this work. \
+                  Outside of the lab, Alex tries to interlace art, science, and outdoor adventures \
+                  while honing his communication skills."
 
 - name: Iris Young
-  image: /static/img/members/iyoung.jpg
-  altimage: /static/img/members/photobomb/YOUNG.jpg
+  image: /static/img/members/Young.jpg
+  altimage: /static/img/members/Young_pb.jpg
   position: Postdoc
   email: irisdyoung (at) gmail.com
   scholar: iSv5YCUAAAAJ
@@ -166,59 +184,3 @@
                 technique. This project aims to determine the mechanism of transcript-dependent but sequence-independent \
                 translational efficiency of a pool of naturally occurring, compositionally and conformationally \
                 heterogeneous ribosomes, with implications for regulation of the proteome at the stage of translation."
-
-- name: Hector Chaires
-  image: /static/img/members/headshot.jpg
-  altimage: /static/img/members/photobomb/CHAIRES.jpg
-  position: Junior Specialist
-  email: hchaires (at) fraserlab.com
-  description: "Hector graduated from Rice University with a degree in Biochemistry and Cell Biology. Under the guidance of Professor Phillips, he studied the kinetics of BlaC, an enzyme that confers on bacterial pathogens a resistance to a wide range of antibiotics. As an HHMI EXROP fellow he studied antibody affinity maturation in the Harrison lab at HMS. His research at UCSF will focus on characterizing ribosomal protection proteins, in complex with the ribosome, using cryo-electron microscopy. When not in the lab Hector enjoys hiking, exploring beaches, and Latin dance."
-
-- name: Galen Correy
-  image: /static/img/members/correy.png
-  altimage: /static/img/members/photobomb/CORREY.jpg
-  position: Postdoc
-  email: galen.correy (at) ucsf.edu
-  description: "Galen’s research interest lies in using structural biology to tackle problems in protein engineering and drug design. He earned his PhD from the Australian National University, where he worked with Colin Jackson on the structure, function and evolution of insect enzymes that detoxify organophosphate nerve agents. Galen joined the Fraser lab as a postdoc in May 2019. He is using recently developed methods in fragment-based drug discovery to guide the design of new inhibitors of an emerging anti-cancer therapeutic target."
-
-- name: Stephanie Wankowicz
-  image: /static/img/members/stephanie_wankowicz.jpg
-  #altimage: /static/img/members/photobomb/CORREY.jpg
-  position: Graduate Student
-  email: stephanie.wankowicz (at) ucsf.edu
-  scholar: WJ9lxYMAAAAJ
-  twitter: "stephanie_mul"
-  description: "Stephanie graduated from the University of Massachusetts Amherst with a degree in Biochemistry and Molecular Biology. During undergrad, she performed research on pancreas development under Dr. Kimberly Tremblay. She also performed research on economics of the Clean Water Act under Dr. Paul Kolkoswki. Subsequently, she worked as a senior research data specialist and a computational biologist at Dana-Farber Cancer Institute and Broad Institute of MIT and Harvard. There, she worked on many genitourinary translational research projects under Dr. Eliezer Van Allen and Dr. Joaquim Bellmunt. Outside of lab Stephanie enjoys running, reading, gardening, and eating lots of lettuce."
-
-
-# Rotation Students
-
-# Summer Students
-# - name: Andrew VanBenschoten
-#   image: /static/img/members/avanbenschoten.jpg
-#   position: Graduate Student
-#   email: andrew.vanbenschoten (at) ucsf.edu
-#   scholar: 6YlS0rQAAAAJ
-#   twitter: "vanben11"
-#   description: "Andrew completed his undergraduate studies in biology at MIT. While there, he worked with Cathy Drennan on determining the structure of metalloenzymes via X-ray crystallography. Andrew started at UCSF in the fall of 2011 and is investigating the features of diffuse X-ray scatter in several model protein systems and molecular machines."
-# - name: Rahel Woldeyes
-#   image: /static/img/members/rwoldeyes.jpg
-#   altimage: /static/img/members/photobomb/WOLDEYES.jpg
-#   position: Graduate Student
-#   email: rahel.woldeyes (at) ucsf.edu
-#   scholar: kFoaho8AAAAJ
-#   twitter: "rahelwoldeyes"
-#   description: "Rahel graduated from University of Minnesota – Twin cities with B.S in Biochemistry and Chemistry. As an undergraduate student, she worked in several labs on projects ranging from cell to structural biology. In the Fraser lab, Rahel will be studying the structure-dynamics-function relationships of proteins and protein-ligand complexes using a combination of room temperature X-ray Crystallography and NMR approaches. Furthermore, she will be developing and implementing methods to dissect allostery in drug targets.
-#
-#
-#
-#   Rahel is supported by a graduate fellowship from NSF"
-# - name: Brandi Hudson
-#   image: /static/img/members/bhudson.jpg
-#   altimage: /static/img/members/photobomb/HUDSON.jpg
-#   position: Postdoc
-#   email: brandimhudson (at) gmail.com
-#   scholar: UQ7FMs8AAAAJ
-#   orcid: "orcid.org/0000-0003-2288-9157"
-#   website: "http://brandimhudson.com"
-#   description: "Brandi received her Ph.D. from UC Davis with Dean Tantillo, where she applied computational chemistry to explain complex reaction mechanisms, conformation-activity relationships of potential pharmaceuticals, and non-covalent interactions in small organic molecules. In the Fraser lab,  she will use computational and experimental techniques to develop methods to account for conformational ligand heterogeneity and allosteric binding sites."
