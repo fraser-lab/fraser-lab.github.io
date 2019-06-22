@@ -68,39 +68,6 @@
 
     Robbie is supported by graduate fellowships from NSF and HHMI."
 
-  - name: Erin Thompson
-    image: /static/img/members/EThompson.jpg
-    altimage: /static/img/members/EThompson_pb.jpg
-    position: Graduate Student
-    email: eposs (at) fraserlab.com
-    twitter: "ernpossible"
-    description: "Erin graduated from Drake University with a degree in Biochemistry and Chemistry.  As an undergraduate, Erin worked in several labs ranging from exercise physiology to biophysics. In her free time, she enjoys running, hiking, and exploring San Francisco.
-
-    Erin is supported by a fellowship from the Genentech Foundation."
-
-- name: Michael Thompson
-  image: /static/img/members/MThompson.jpg
-  altimage: /static/img/members/MThompson_pb.jpg
-  position: Postdoc
-  email: mct.ucsf (at) gmail.com
-  scholar: KDvVpWYAAAAJ
-  twitter: "mctucsf"
-  description: "Mike's longstanding research interest lies in understanding how proteins function by dynamically interconverting between different conformational states. \
-                He was introduced to structural biology and X-ray crystallography as an undergraduate at UC Berkeley, \
-                where he was a research assistant in [Tom Alber](http://fraserlab.com/2014/04/04/Tom-Alber/)’s laboratory. In 2014, he received \
-                his Ph.D. in [Biochemistry and Molecular Biology](https://bmsb.chem.ucla.edu/) from UCLA under the direction of [Todd Yeates](http://yeateslab.mbi.ucla.edu/). As a graduate student, \
-                Mike investigated the role of conformational polymorphism in expanding the functional diversity of a \
-                key family of proteins that define a widespread class of prokaryotic organelles collectively known as “bacterial microcompartments.” \
-                As a postdoc in the Fraser Lab, he is developing new methodologies for characterizing protein conformational landscapes, \
-                and applying them to understand how those landscapes are altered by mutations and interactions with other molecules. \
-                The long-term goal of this work is to deepen our understanding of how genetic mutations lead to human diseases, \
-                and to create new opportunities for drug discovery and protein engineering.
-
-
-                Since joining the Fraser lab in 2014, Mike has been supported by a postdoctoral fellowship from the [BioXFEL Science and Technology Center](https://www.bioxfel.org/) (NSF), \
-                a Kirschstein NRSA (F32) fellowship from [NIH/NHLBI](https://www.nhlbi.nih.gov/), and an Independent Postdoctoral Research Award from the [UCSF Program in Breakthrough Biomedical Research (PBBR)](https://pbbr.ucsf.edu/)."
-
-
 - name: D. John Lee
   image: /static/img/members/Lee.jpg
   altimage: /static/img/members/Lee_pb.jpg
@@ -134,6 +101,38 @@
 
 
   Jenna is supported by a graduate fellowship from NSF."
+
+  - name: Erin Thompson
+    image: /static/img/members/EThompson.jpg
+    altimage: /static/img/members/EThompson_pb.jpg
+    position: Graduate Student
+    email: eposs (at) fraserlab.com
+    twitter: "ernpossible"
+    description: "Erin graduated from Drake University with a degree in Biochemistry and Chemistry.  As an undergraduate, Erin worked in several labs ranging from exercise physiology to biophysics. In her free time, she enjoys running, hiking, and exploring San Francisco.
+
+    Erin is supported by a fellowship from the Genentech Foundation."
+
+- name: Michael Thompson
+  image: /static/img/members/MThompson.jpg
+  altimage: /static/img/members/MThompson_pb.jpg
+  position: Postdoc
+  email: mct.ucsf (at) gmail.com
+  scholar: KDvVpWYAAAAJ
+  twitter: "mctucsf"
+  description: "Mike's longstanding research interest lies in understanding how proteins function by dynamically interconverting between different conformational states. \
+                He was introduced to structural biology and X-ray crystallography as an undergraduate at UC Berkeley, \
+                where he was a research assistant in [Tom Alber](http://fraserlab.com/2014/04/04/Tom-Alber/)’s laboratory. In 2014, he received \
+                his Ph.D. in [Biochemistry and Molecular Biology](https://bmsb.chem.ucla.edu/) from UCLA under the direction of [Todd Yeates](http://yeateslab.mbi.ucla.edu/). As a graduate student, \
+                Mike investigated the role of conformational polymorphism in expanding the functional diversity of a \
+                key family of proteins that define a widespread class of prokaryotic organelles collectively known as “bacterial microcompartments.” \
+                As a postdoc in the Fraser Lab, he is developing new methodologies for characterizing protein conformational landscapes, \
+                and applying them to understand how those landscapes are altered by mutations and interactions with other molecules. \
+                The long-term goal of this work is to deepen our understanding of how genetic mutations lead to human diseases, \
+                and to create new opportunities for drug discovery and protein engineering.
+
+
+                Since joining the Fraser lab in 2014, Mike has been supported by a postdoctoral fellowship from the [BioXFEL Science and Technology Center](https://www.bioxfel.org/) (NSF), \
+                a Kirschstein NRSA (F32) fellowship from [NIH/NHLBI](https://www.nhlbi.nih.gov/), and an Independent Postdoctoral Research Award from the [UCSF Program in Breakthrough Biomedical Research (PBBR)](https://pbbr.ucsf.edu/)."
 
 - name: Stephanie Wankowicz
   image: /static/img/members/Wankowicz.jpg
