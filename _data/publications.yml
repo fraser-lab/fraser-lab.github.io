@@ -13,6 +13,17 @@
 #     - name: 'Mullins Lab'
 #       url: 'http://mullinslab.ucsf.edu/'
 #
+
+- citation: '**Young ID**, **Fraser JS**. News & Views: Biomaterials in non-integer dimensions. *Nature Chemistry*. 2019.'
+  date: 201905
+  image: '/static/img/pub/fractal_2019.jpg'
+  pmid: 31209301
+  pdf: '/static/pdf/fractal_2019.pdf'
+  links:
+    - name: Stimulus-responsive self-assembly of protein-based fractals by computational design
+      url: https://doi.org/10.1038/s41557-019-0277-y
+
+
 - citation: 'Glasgow AA, Huang Y, Mandell DJ, **Thompson M**, Ritterson R, Loshbaugh AL, **Pellegrino J**, Krivacic C, Pache RA, Barlow KA, Ollikainen N, Jeon D, Kelly MJS, **Fraser JS**, Kortemme T. Computational design of a modular protein sense/response system. *Submitted - Preprint on BioRxiv*. 2019.'
   date: 201904
   image: '/static/img/pub/biosensor_2019.jpg'
