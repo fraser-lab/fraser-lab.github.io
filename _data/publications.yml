@@ -13,7 +13,7 @@
 #     - name: 'Mullins Lab'
 #       url: 'http://mullinslab.ucsf.edu/'
 #
-- citation: 'Li Q\*, **Pellegrino J\*, Lee DJ**, Tran AA, Wang R, **Park JE**, Ji K, Chow D, Zhang N, Brilot AF, **Biel JT**, Zundert Gv, Borelli K, Shinabarger D, Wolfe C, Murray B, Jacobson MP, **Fraser JS**, Seiple IB. Synthesis and Mechanism of Action of Group a Streptogramin Antibiotics That Overcome Resistance. *Submitted - Preprint on ChemRxiv*. 2019.'
+- citation: 'Li Q\*, **Pellegrino J\*, Lee DJ**, Tran AA, Wang R, **Park JE**, Ji K, Chow D, Zhang N, Brilot AF, **Biel JT**, van Zundert G, Borrelli K, Shinabarger D, Wolfe C, Murray B, Jacobson MP, **Fraser JS**, Seiple IB. Synthesis and Mechanism of Action of Group a Streptogramin Antibiotics That Overcome Resistance. *Submitted - Preprint on ChemRxiv*. 2019.'
   date: 201906
   image: '/static/img/pub/streptogramin_2019.jpg'
   pmid: Submitted
