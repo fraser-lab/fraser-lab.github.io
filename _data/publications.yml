@@ -23,6 +23,10 @@
   links:
     - name: Seiple lab
       url: https://seiplegroup.ucsf.edu/
+    - name: Schrodinger Inc.
+      url: 'https://www.schrodinger.com'
+    - name: 'Paper Submission Celebration Photo'
+      url: 'https://twitter.com/fraser_lab/status/1144742221205217280'
 
 - citation: '**Young ID**, **Fraser JS**. News & Views: Biomaterials in non-integer dimensions. *Nature Chemistry*. 2019.'
   date: 201905
