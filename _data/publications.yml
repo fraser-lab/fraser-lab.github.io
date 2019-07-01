@@ -13,6 +13,16 @@
 #     - name: 'Mullins Lab'
 #       url: 'http://mullinslab.ucsf.edu/'
 #
+- citation: 'Li Q\*, **Pellegrino J\*, Lee DJ**, Tran AA, Wang R, **Park JE**, Ji K, Chow D, Zhang N, Brilot AF, **Biel JT**, Zundert Gv, Borelli K, Shinabarger D, Wolfe C, Murray B, Jacobson MP, **Fraser JS**, Seiple IB. Synthesis and Mechanism of Action of Group a Streptogramin Antibiotics That Overcome Resistance. *Submitted - Preprint on ChemRxiv*. 2019.'
+  date: 201906
+  image: '/static/img/pub/streptogramin_2019.jpg'
+  pmid: Submitted
+  pmcid: Submitted
+  chemrxiv: 8346107
+  pdf: 'https://doi.org/10.26434/chemrxiv.8346107.v1'
+  links:
+    - name: Seiple lab
+      url: https://seiplegroup.ucsf.edu/
 
 - citation: '**Young ID**, **Fraser JS**. News & Views: Biomaterials in non-integer dimensions. *Nature Chemistry*. 2019.'
   date: 201905
@@ -22,7 +32,6 @@
   links:
     - name: Stimulus-responsive self-assembly of protein-based fractals by computational design
       url: https://doi.org/10.1038/s41557-019-0277-y
-
 
 - citation: 'Glasgow AA, Huang Y, Mandell DJ, **Thompson M**, Ritterson R, Loshbaugh AL, **Pellegrino J**, Krivacic C, Pache RA, Barlow KA, Ollikainen N, Jeon D, Kelly MJS, **Fraser JS**, Kortemme T. Computational design of a modular protein sense/response system. *Submitted - Preprint on BioRxiv*. 2019.'
   date: 201904
