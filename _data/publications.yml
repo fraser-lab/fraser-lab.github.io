@@ -20,6 +20,26 @@
   pmcid: Submitted
   chemrxiv: 8346107
   pdf: 'https://doi.org/10.26434/chemrxiv.8346107.v1'
+  pdbs:
+    - 6PCQ
+    - 6PCH
+    - 6PCS
+    - 6PCR
+    - 6PC8
+    - 6PCT
+    - 6PC7
+    - 6PC6
+    - 6PC5
+  emdbs:
+    - "20304"
+    - "20300"
+    - "20306"
+    - "20305"
+    - "20299"
+    - "20307"
+    - "20298"	
+    - "20297"
+    - "20296"
   links:
     - name: Seiple lab
       url: https://seiplegroup.ucsf.edu/
