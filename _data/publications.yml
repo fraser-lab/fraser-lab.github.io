@@ -13,7 +13,7 @@
 #     - name: 'Mullins Lab'
 #       url: 'http://mullinslab.ucsf.edu/'
 #
-- citation: 'Stojković V, Myasnikov AG, **Young ID**,, Frost A, **Fraser JS**, Fujimori DG. High-resolution cryo-electron microscopy structure of the Escherichia coli 50S subunit and validation of nucleotide modifications. *Submitted - Preprint on BioRxiv*. 2019.'
+- citation: 'Stojković V, Myasnikov AG, **Young ID**, Frost A, **Fraser JS**, Fujimori DG. High-resolution cryo-electron microscopy structure of the Escherichia coli 50S subunit and validation of nucleotide modifications. *Submitted - Preprint on BioRxiv*. 2019.'
   date: 201907
   image: '/static/img/pub/ribosome_2019.jpg'
   pmid: Submitted
