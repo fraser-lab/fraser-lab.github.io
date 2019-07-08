@@ -49,7 +49,7 @@
   description: "Hector graduated from Rice University with a degree in Biochemistry and Cell Biology. Under the guidance of Professor Phillips, he studied the kinetics of BlaC, an enzyme that confers on bacterial pathogens a resistance to a wide range of antibiotics. As an HHMI EXROP fellow he studied antibody affinity maturation in the Harrison lab at HMS. His research at UCSF will focus on characterizing ribosomal protection proteins, in complex with the ribosome, using cryo-electron microscopy. When not in the lab Hector enjoys hiking, exploring beaches, and Latin dance."
 
 - name: Galen Correy
-  image: /static/img/members/Correy.png
+  image: /static/img/members/Correy.jpg
   altimage: /static/img/members/Correy_pb.jpg
   position: Postdoc
   email: galen.correy (at) ucsf.edu
@@ -91,6 +91,13 @@
   position: Postdoc
   email: saulo (at) stanford.edu
   description: "Saulo earned his PhD in 2016 from the University of Oxford, where he worked with Prof. Charlotte Deane developing methods for protein structure prediction. After finishing his doctorate, he worked as a postdoc at Oxford for 2 years, focusing on protein contact prediction and coevolution. He joined the lab in 2018 as a joint postdoctoral scholar with Dr. Henry van den Bedem. His current research focuses on using computational methods to understand protein structures and dynamics and how these relate to experimentally derived electron densities."
+
+- name: Leah Roe
+  image: /static/img/members/Roe.jpg
+  altimage: /static/img/members/Roe_pb.jpg
+  position: Junior Specialist
+  email: leah.roe (at) ucsf.edu
+  description: "Leah graduated from UC Berkeley with a degree Molecular Cell Biology with emphasis in Biochemistry and Molecular Biology. During undergrad, Leah worked under the guidance of Ron Zuckermann at LBNL studying peptoids, a class of peptide mimics. Her research focused on controlling structure through side chain to main chain hydrogen bonding. At UCSF, Leah is working collaboratively with the Fraser and Bondy-Denomy Labs on crystallography of anti-CRISPR proteins.  When not in lab, Leah enjoys hikes and exploring the city."
 
 - name: Jenna Pellegrino
   image: /static/img/members/Pellegrino.jpg
@@ -136,7 +143,7 @@
 
 - name: Stephanie Wankowicz
   image: /static/img/members/Wankowicz.jpg
-  #altimage: /static/img/members/Wankowicz_pb.jpg
+  altimage: /static/img/members/Wankowicz_pb.jpg
   position: Graduate Student
   email: stephanie.wankowicz (at) ucsf.edu
   scholar: WJ9lxYMAAAAJ
