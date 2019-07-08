@@ -13,6 +13,25 @@
 #     - name: 'Mullins Lab'
 #       url: 'http://mullinslab.ucsf.edu/'
 #
+- citation: 'Stojković V, Myasnikov AG, **Young ID**,, Frost A, **Fraser JS**, Fujimori DG. High-resolution cryo-electron microscopy structure of the Escherichia coli 50S subunit and validation of nucleotide modifications. *Submitted - Preprint on BioRxiv*. 2019.'
+  date: 201907
+  image: '/static/img/pub/ribosome_2019.jpg'
+  pmid: Submitted
+  pmcid: Submitted
+  biorxiv: 695429
+  pdf: 'https://www.biorxiv.org/content/biorxiv/early/2019/07/07/695429.full-text.pdf'
+  pdbs:
+    - 6PJ6
+  emdbs:
+    - "20353"
+  links:
+    - name: Fujimori lab
+      url: https://fujimorilab.ucsf.edu
+    - name: Frost lab
+      url: https://frostlab.org/
+    - name: qPTxM code on Github
+      url: https://github.com/fraser-lab/qptm
+
 - citation: 'Li Q\*, **Pellegrino J\*, Lee DJ**, Tran AA, Wang R, **Park JE**, Ji K, Chow D, Zhang N, Brilot AF, **Biel JT**, van Zundert G, Borrelli K, Shinabarger D, Wolfe C, Murray B, Jacobson MP, **Fraser JS**, Seiple IB. Synthesis and Mechanism of Action of Group a Streptogramin Antibiotics That Overcome Resistance. *Submitted - Preprint on ChemRxiv*. 2019.'
   date: 201906
   image: '/static/img/pub/streptogramin_2019.jpg'
@@ -37,7 +56,7 @@
     - "20305"
     - "20299"
     - "20307"
-    - "20298"	
+    - "20298"
     - "20297"
     - "20296"
   links:
