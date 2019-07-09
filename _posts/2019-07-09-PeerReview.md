@@ -10,14 +10,12 @@ Despite some weird dynamics with editors, authors, and other reviewers throughou
 
 But, in the background of these larger initiatives and reflecting back on my own reasons for preprinting our lab’s work, I think there is more that we can do as individual scientists. Earlier this year, I decided to only review papers that have preprints associated with them so that I could post the reviews as comments on the preprints. I’ve openly reviewed 6 papers in the last year:
 
-- (Distinct metabolic states of a cell guide alternate fates of mutational buffering through altered proteostasis)[https://www.biorxiv.org/content/10.1101/540039v1]
-- (RNA tertiary structure energetics predicted by an ensemble model of the RNA double helix)[https://www.biorxiv.org/content/10.1101/341107v1]
-- (Stimulus-responsive Self-Assembly of Enzymatic Fractals by Computational Design)[https://www.biorxiv.org/content/10.1101/274183v1]
-- (Collection of continuous rotation MicroED Data from Ion Beam Milled Crystals of Any Size)[https://www.biorxiv.org/content/10.1101/425611v1]
-- (A microtubule RELION-based pipeline for cryo-EM image processing
-)[https://www.biorxiv.org/content/10.1101/673566v1]
-- (Identifying dynamic, partially occupied residues using anomalous scattering
-)[https://www.biorxiv.org/content/10.1101/642686v1]
+- [Distinct metabolic states of a cell guide alternate fates of mutational buffering through altered proteostasis](https://www.biorxiv.org/content/10.1101/540039v1)
+- [RNA tertiary structure energetics predicted by an ensemble model of the RNA double helix](https://www.biorxiv.org/content/10.1101/341107v1)
+- [Stimulus-responsive Self-Assembly of Enzymatic Fractals by Computational Design](https://www.biorxiv.org/content/10.1101/274183v1)
+- [Collection of continuous rotation MicroED Data from Ion Beam Milled Crystals of Any Size](https://www.biorxiv.org/content/10.1101/425611v1)
+- [A microtubule RELION-based pipeline for cryo-EM image processing](https://www.biorxiv.org/content/10.1101/673566v1)
+- [Identifying dynamic, partially occupied residues using anomalous scattering](https://www.biorxiv.org/content/10.1101/642686v1)
 
 By far the best interaction has been with [Sagar Khare’s lab](https://www.biorxiv.org/content/10.1101/274183v1), where they responded to our review on BioRxiv (and through Nature Chemistry, which eventually invited us to write a [News and Views](https://doi.org/10.1038/s41557-019-0286-x) on their [accepted article](https://doi.org/10.1038/s41557-019-0277-y)). It’s also been instructive to see that sometimes the authors interpret a remark very differently than the way I intended it and [we can clarify the point directly](https://www.biorxiv.org/content/10.1101/540039v1).  I also like the idea that the authors can start thinking about our comments immediately, instead of waiting for all the reviewers and the editor to collate things together. Another side benefit is that I can work more efficiently: the proliferation of Elsevier Editorial System accounts overwhelms my ability to use a password manager and now I can just email the editors a link to my comment.
 
