@@ -80,9 +80,9 @@ group: publications
 
 			<!--zenodo records - optional-->
 			{% if publication.zenodo %}
-			<li>Zenodo Records{% if publication.zenodo.size > 1 %}s{% endif %}:
-				{% for code in publication.zenodo %}
-				<a href="https://doi.org/10.5281/zenodo.{{code}}"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.{{code}}.svg" alt="DOI"></a>{% unless forloop.last %}, {% endunless %}
+			<li>Zenodo Record{% if publication.zenodo.size > 1 %}s{% endif %}:
+				{% for record in publication.zenodo %}
+				<a href="https://doi.org/10.5281/zenodo.{{record.code}}"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.{{record.code}}.svg" alt="DOI"></a>{% if record.description %} ({{record.description}}{% endif %}{% unless forloop.last %}, {% endunless %}
 				{% endfor %}
 			</li>
 			{% endif %}
