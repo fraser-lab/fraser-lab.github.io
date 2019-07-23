@@ -377,12 +377,12 @@ and cancers. *Submitted - Preprint on Biorxiv.* 2018.'
       url: 'http://pandda.bitbucket.io/'
     - name: 'Wells Lab'
       url: 'https://wellslab.ucsf.edu/'
-    - name: 'Datasets on Zenodo'
-      url: 'https://zenodo.org/record/1044103'
     - name: 'OPIG Journal Club'
       url: 'https://www.blopig.com/blog/2019/03/journal-club-investigating-allostery-with-a-lot-of-crystals/'
     - name: 'Paper Submission Celebration Photo'
       url: 'https://twitter.com/fraser_lab/status/928125440014745600'
+  zenodo:
+    - "1044103"
 
 - citation: 'Otten R\*, **Liu L**\*, **Kenner LR**, Clarkson MW, **Mavor D**, Tawfik DS, Kern D, **Fraser JS**. Rescue of Conformational Dynamics in Enzyme Catalysis by Directed Evolution. *Nature Communications*. 2018.'
   date: 201803
