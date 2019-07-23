@@ -20,10 +20,9 @@
   pmcid: Submitted
   biorxiv: 695429
   pdf: 'https://www.biorxiv.org/content/biorxiv/early/2019/07/07/695429.full-text.pdf'
-  pdbs:
-    - 6PJ6
-  emdbs:
-    - "20353"
+  paired_maps_and_models:
+    - pdb: 6PJ6
+      emdb: "20353"
   links:
     - name: Fujimori lab
       url: https://fujimorilab.ucsf.edu
@@ -95,16 +94,15 @@
   pmcid: PMC6535015
   biorxiv: "516591"
   pdf: '/static/pdf/lisa_2019.pdf'
-  pdbs:
-    - 6O2Q
-    - 6O2R
-    - 6O2S
-    - 6O2T
-  emdbs:
-    - "0612"
-    - "0613"
-    - "0614"
-    - "0615"
+  paired_maps_and_models:
+    - pdb: 6O2Q
+      emdb: "0612"
+    - pdb: 6O2R
+      emdb: "0613"
+    - pdb: 6O2S
+      emdb: "0614"
+    - pdb: 6O2T
+      emdb: "0615"
   links:
     - name: Plumed-EM Scripts on Github
       url: https://github.com/fraser-lab/plumed_em_md
