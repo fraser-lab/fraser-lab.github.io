@@ -23,6 +23,8 @@
   paired_maps_and_models:
     - pdb: 6PJ6
       emdb: "20353"
+  zenodo:
+    - "258209"
   links:
     - name: Fujimori lab
       url: https://fujimorilab.ucsf.edu
