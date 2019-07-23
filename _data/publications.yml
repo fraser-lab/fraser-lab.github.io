@@ -39,26 +39,25 @@
   pmcid: Submitted
   chemrxiv: 8346107
   pdf: 'https://doi.org/10.26434/chemrxiv.8346107.v1'
-  pdbs:
-    - 6PCQ
-    - 6PCH
-    - 6PCS
-    - 6PCR
-    - 6PC8
-    - 6PCT
-    - 6PC7
-    - 6PC6
-    - 6PC5
-  emdbs:
-    - "20304"
-    - "20300"
-    - "20306"
-    - "20305"
-    - "20299"
-    - "20307"
-    - "20298"
-    - "20297"
-    - "20296"
+  paired_maps_and_models:
+    - pdb: 6PCQ
+      emdb: "20304"
+    - pdb: 6PCH
+      emdb: "20300"
+    - pdb: 6PCS
+      emdb: "20306"
+    - pdb: 6PCR
+      emdb: "20305"
+    - pdb: 6PC8
+      emdb: "20299"
+    - pdb: 6PCT
+      emdb: "20307"
+    - pdb: 6PC7
+      emdb: "20298"
+    - pdb: 6PC6
+      emdb: "20297"
+    - pdb: 6PC5
+      emdb: "20296"
   links:
     - name: Seiple lab
       url: https://seiplegroup.ucsf.edu/
