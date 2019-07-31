@@ -167,8 +167,8 @@
   links:
     - name: Solution Scattering Code on Github
       url: https://github.com/fraser-lab/solution_scattering
-    - name: Raw Data on NIH Figshare
-      url: https://doi.org/10.1101/476432
+    - name: Solution Scattering Data on NIH Figshare
+      url: https://doi.org/10.35092/yhjc.9177143
     - name: BioCARS
       url: 'https://biocars.uchicago.edu/'
     - name: Philip Anfinrud
