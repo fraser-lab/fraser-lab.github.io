@@ -46,7 +46,7 @@
   description: "Hector graduated from Rice University with a degree in Biochemistry and Cell Biology. Under the guidance of Professor Phillips, he studied the kinetics of BlaC, an enzyme that confers on bacterial pathogens a resistance to a wide range of antibiotics. As an HHMI EXROP fellow he studied antibody affinity maturation in the Harrison lab at HMS. His research at UCSF will focus on characterizing ribosomal protection proteins, in complex with the ribosome, using cryo-electron microscopy. When not in the lab Hector enjoys hiking, exploring beaches, and Latin dance."
 
 - name: Galen Correy
-  image: /static/img/members/GCorrey.jpg
+  image: /static/img/members/Correy.jpg
   altimage: /static/img/members/Correy_pb.jpg
   position: Postdoc
   email: galen.correy (at) ucsf.edu
@@ -67,7 +67,7 @@
 
 - name: Gabriella Estevam
   image: /static/img/members/Estevam.jpg
-  altimage: /static/img/members/GEstevam_pb.jpg
+  altimage: /static/img/members/Estevam_pb.jpg
   position: Graduate Student
   email: gabriella.estevam (at) ucsf.edu
   twitter: GabbyEstevam
