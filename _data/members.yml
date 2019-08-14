@@ -5,8 +5,8 @@
   position: Principal Investigator
   email: jfraser (at) fraserlab.com
   scholar: j3iaoR8AAAAJ
-  twitter: "fraser_lab"
-  orcid: "orcid.org/0000-0002-5080-2859"
+  twitter: fraser_lab
+  orcid: 0000-0002-5080-2859
   description: 'James was an undergraduate at McGill University, where he worked in the lab of [Francois Fagotto](http://biology.mcgill.ca/faculty/fagotto/) on [Xenopus developmental biology](/publications#20974811).
   During the summers, he returned to his hometown of Toronto and worked in [Alan Davidson''s lab](http://individual.utoronto.ca/davidsonlab/Davidson_Lab/Home.html) on TetR repressor biophysics and [bacteriophage genomics](/publications#16631788).
 
@@ -35,8 +35,8 @@
   position: Staff Scientist
   email: justin.biel (at) ucsf.edu
   scholar: FatB6VQAAAAJ
-  twitter: "thebieldeal"
-  orcid: "orcid.org/0000-0002-0935-8362"
+  twitter: thebieldeal
+  orcid: 0000-0002-0935-8362
   description: "Justin graduated from Oregon State University with a degree in Biochemistry and Biophysics. He conducted research in both the laboratories of Elisar Barbar studying dynein protein interactions, and P. Andrew Karplus conducting structural bioinformatic research on protein structural components from ultra-high resolution protein crystal structures. As a graduate student  in the Fraser lab, he examined the how conformational heterogeneity changed during directed evolution and revealed minor states that resulted from ligand binding. He was supported by a graduate fellowship from NSF. As a staff scientist, he is now building up capabilities for high-throughput ligand soaking experiments."
 
 - name: Hector Chaires
@@ -60,8 +60,8 @@
   position: Graduate Student
   email: roberto.diaz (at) ucsf.edu
   scholar: L_OCeG4AAAAJ
-  twitter: "robbiediaz_ucsf"
-  orcid: "orcid.org/0000-0002-1172-9919"
+  twitter: robbiediaz_ucsf
+  orcid: 0000-0002-1172-9919
   description: "Robbie graduated from the University of Miami with a degree in Neuroscience. He studied how transcription factors regulate axon regeneration in the central nervous system as an undergraduate in Vance Lemmon's lab. Robbie is interested in utilizing single-molecule and structural techniques to study interactions between chitin-binding proteins and chitin. When he's not in lab, Robbie enjoys reading, going to museums, and biking around the city.
 
 
@@ -81,7 +81,7 @@
   position: Postdoc
   email: djohnlee (at) fraserlab.com
   scholar: vJBNuDUAAAAJ
-  linkedin: "djohnlee"
+  linkedin: djohnlee
   description: "John earned his Ph.D. working with Michael Burkart at the University of California, San Diego. His primary focus was the application of protein NMR to the carrier proteins central to fatty acid, polyketide, and non-ribosomal peptide synthetic pathways. In the Fraser lab, he will use structural and computational techniques to explore structural biology and study minor conformational states."
 
 - name: Lin Liu
@@ -114,7 +114,7 @@
   altimage: /static/img/members/EThompson_pb.jpg
   position: Graduate Student
   email: eposs (at) fraserlab.com
-  twitter: "ernpossible"
+  twitter: ernpossible
   description: "Erin graduated from Drake University with a degree in Biochemistry and Chemistry.  As an undergraduate, Erin worked in several labs ranging from exercise physiology to biophysics. In her free time, she enjoys running, hiking, and exploring San Francisco.
 
   Erin is supported by a fellowship from the Genentech Foundation."
@@ -125,8 +125,8 @@
   position: Postdoc
   email: mct.ucsf (at) gmail.com
   scholar: KDvVpWYAAAAJ
-  twitter: "mctucsf"
-  orcid: "orcid.org/0000-0002-6099-2027"
+  twitter: mctucsf
+  orcid: 0000-0002-6099-2027
   description: "Mike's longstanding research interest lies in understanding how proteins function by dynamically interconverting between different conformational states. \
         He was introduced to structural biology and X-ray crystallography as an undergraduate at UC Berkeley, \
         where he was a research assistant in [Tom Alber](http://fraserlab.com/2014/04/04/Tom-Alber/)’s laboratory. In 2014, he received \
@@ -148,7 +148,7 @@
   position: Graduate Student
   email: stephanie.wankowicz (at) ucsf.edu
   scholar: WJ9lxYMAAAAJ
-  twitter: "stephanie_mul"
+  twitter: stephanie_mul
   description: "Stephanie graduated from the University of Massachusetts Amherst with a degree in Biochemistry and Molecular Biology. During undergrad, she performed research on pancreas development under Dr. Kimberly Tremblay. She also performed research on economics of the Clean Water Act under Dr. Paul Kolkoswki. Subsequently, she worked as a senior research data specialist and a computational biologist at Dana-Farber Cancer Institute and Broad Institute of MIT and Harvard. There, she worked on many genitourinary translational research projects under Dr. Eliezer Van Allen and Dr. Joaquim Bellmunt. Outside of lab Stephanie enjoys running, reading, gardening, and eating lots of lettuce."
 
 - name: Alexander Wolff
@@ -157,7 +157,7 @@
   position: Graduate Student
   email: LifeHasOrder (at) gmail.com
   scholar: EqoaChsAAAAJ
-  twitter: "LifeHasOrder"
+  twitter: LifeHasOrder
   description: "Alex earned a B.S. in Kinesiology & Health Promotion, and a M.S. in Molecular \
           Biology, from the University of Wyoming. During his time there, he became \
           fascinated with the role that protein structural dynamics play in molecular mechanisms. \
@@ -176,8 +176,9 @@
   position: Postdoc
   email: irisdyoung (at) gmail.com
   scholar: iSv5YCUAAAAJ
-  UCSF: "26591231"
-  twitter: "irisdyoung"
+  UCSF: 26591231
+  twitter: irisdyoung
+  orcid: 0000-0003-4713-9504
   description: "Iris enjoys working at the interface of structural biology and scientific computing, primarily developing \
         software expanding the capabilities of cutting-edge instrumentation for X-ray diffraction and electron \
         microscopy. He earned his Ph.D. in chemistry from UC Berkeley working with Drs. Junko Yano, Vittal Yachandra \
