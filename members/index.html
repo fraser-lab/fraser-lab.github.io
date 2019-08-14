@@ -15,26 +15,29 @@ The Fraser lab welcomes people of any race, religion, national origin, gender id
     <div class="col-sm-4">
         <img class="img-responsive" src="{{person.image}}" {% if person.altimage %} onmouseover="this.src='{{person.altimage}}';" onmouseout="this.src='{{person.image}}';" {% endif %} alt="{{person.name}}"; width="365"; height="365"><br>
         <strong>{{person.name}}</strong> <br>
-        {{person.pronouns}} <br>
+        {% if person.pronouns %}
+          <em>{{person.pronouns}}</em> <br>
+        {% endif %}
         {{person.position}} <br>
         <em>{{person.email}}</em> <br>
         {% if person.website %}
-          <a style="overflow-wrap: break-word;" href= "{{person.website}}">{{person.website}}</a><br>
-        {% endif %}
-        (% if person.linkedin %}
-          <a href= "http://www.linkedin.com/in/{{person.linkedin}}"> LinkedIn </a> <br>
-        {% endif %}
-        (% if person.UCSF %}
-          <a href= "http://profiles.ucsf.edu/profile/{{person.UCSF}}"> UCSF Profile </a> <br>
+          <a style="overflow-wrap: break-word;" href= "{{person.website}}">{{person.website}}</a> <br>
         {% endif %}
         {% if person.orcid %}
           <a href="http://orcid.org"><img class="inline-block" src="/static/img/orcid_logo.png"></a>
-          <a href="http://{{person.orcid}}"> {{person.orcid}}</a> <br>
+          <a href="http://orcid.org/{{person.orcid}}"> {{person.orcid}}</a> <br>
+        {% endif %}
+        {% if person.linkedin %}
+          <a href= "http://www.linkedin.com/in/{{person.linkedin}}"> LinkedIn </a> <br>
+        {% endif %}
+        {% if person.UCSF %}
+          <a href= "http://profiles.ucsf.edu/profile/{{person.UCSF}}"> UCSF Profile </a> <br>
         {% endif %}
         {% if person.scholar %}
           <a href= "http://scholar.google.com/citations?user={{person.scholar}}"> Scholar Citations </a> <br>
         {% endif %}
         {% if person.twitter %}
+          <a href="http://twitter.com"><img class="inline-block" src="/static/img/twitter_logo.png"></a>
           <a href= "http://twitter.com/{{person.twitter}}"> @{{person.twitter}} </a> <br>
         {% endif %}
     </div>
