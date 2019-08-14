@@ -1,6 +1,7 @@
 - name: James Fraser
   image: /static/img/members/Fraser.jpg
   altimage: /static/img/members/Fraser_pb.jpg
+  pronouns: he/him/his
   position: Principal Investigator
   email: jfraser (at) fraserlab.com
   scholar: j3iaoR8AAAAJ
@@ -55,6 +56,7 @@
 - name: Roberto Efraín (Robbie) Díaz
   image: /static/img/members/Diaz.jpg
   altimage: /static/img/members/Diaz_pb.jpg
+  pronouns: he/him/his
   position: Graduate Student
   email: roberto.diaz (at) ucsf.edu
   scholar: L_OCeG4AAAAJ
@@ -170,6 +172,7 @@
 - name: Iris Young
   image: /static/img/members/Young.jpg
   altimage: /static/img/members/Young_pb.jpg
+  pronouns: he/him/his
   position: Postdoc
   email: irisdyoung (at) gmail.com
   scholar: iSv5YCUAAAAJ
