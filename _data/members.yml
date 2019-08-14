@@ -90,20 +90,6 @@
   scholar: 5kUDcJ0AAAAJ
   description: "Lin was a graduate student at University of Pittsburgh with Angela Gronenborn and Ivet Bahar. Next, Lin was a joint post-doc and Li Foundation fellow between the Kortemme and Fraser labs, using computational and experimental techniques to study the evolution of protein dynamics. Since 2015, she has continued her research in the Fraser lab and has become the key go-to person for its day-to-day operations!"
 
-- name: Saulo de Oliveira
-  image: /static/img/members/Oliveira.png
-  altimage: /static/img/members/Oliveira_pb.jpg
-  position: Postdoc
-  email: saulo (at) stanford.edu
-  description: "Saulo earned his PhD in 2016 from the University of Oxford, where he worked with Prof. Charlotte Deane developing methods for protein structure prediction. After finishing his doctorate, he worked as a postdoc at Oxford for 2 years, focusing on protein contact prediction and coevolution. He joined the lab in 2018 as a joint postdoctoral scholar with Dr. Henry van den Bedem. His current research focuses on using computational methods to understand protein structures and dynamics and how these relate to experimentally derived electron densities."
-
-- name: Leah Roe
-  image: /static/img/members/Roe.jpg
-  altimage: /static/img/members/Roe_pb.jpg
-  position: Junior Specialist
-  email: leah.roe (at) ucsf.edu
-  description: "Leah graduated from UC Berkeley with a degree Molecular Cell Biology with emphasis in Biochemistry and Molecular Biology. During undergrad, Leah worked under the guidance of Ron Zuckermann at LBNL studying peptoids, a class of peptide mimics. Her research focused on controlling structure through side chain to main chain hydrogen bonding. At UCSF, Leah is working collaboratively with the Fraser and Bondy-Denomy Labs on crystallography of anti-CRISPR proteins.  When not in lab, Leah enjoys hikes and exploring the city."
-
 - name: Jenna Pellegrino
   image: /static/img/members/Pellegrino.jpg
   altimage: /static/img/members/Pellegrino_pb.jpg
@@ -113,6 +99,13 @@
 
 
   Jenna is supported by a graduate fellowship from NSF."
+
+- name: Leah Roe
+  image: /static/img/members/Roe.jpg
+  altimage: /static/img/members/Roe_pb.jpg
+  position: Junior Specialist
+  email: leah.roe (at) ucsf.edu
+  description: "Leah graduated from UC Berkeley with a degree Molecular Cell Biology with emphasis in Biochemistry and Molecular Biology. During undergrad, Leah worked under the guidance of Ron Zuckermann at LBNL studying peptoids, a class of peptide mimics. Her research focused on controlling structure through side chain to main chain hydrogen bonding. At UCSF, Leah is working collaboratively with the Fraser and Bondy-Denomy Labs on crystallography of anti-CRISPR proteins.  When not in lab, Leah enjoys hikes and exploring the city."
 
 - name: Erin Thompson
   image: /static/img/members/EThompson.jpg
