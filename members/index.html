@@ -15,6 +15,7 @@ The Fraser lab welcomes people of any race, religion, national origin, gender id
     <div class="col-sm-4">
         <img class="img-responsive" src="{{person.image}}" {% if person.altimage %} onmouseover="this.src='{{person.altimage}}';" onmouseout="this.src='{{person.image}}';" {% endif %} alt="{{person.name}}"; width="365"; height="365"><br>
         <strong>{{person.name}}</strong> <br>
+        {{person.pronouns}} <br>
         {{person.position}} <br>
         <em>{{person.email}}</em> <br>
         {% if person.website %}
