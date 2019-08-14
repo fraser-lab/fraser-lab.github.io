@@ -18,7 +18,13 @@ The Fraser lab welcomes people of any race, religion, national origin, gender id
         {{person.position}} <br>
         <em>{{person.email}}</em> <br>
         {% if person.website %}
-          <a style="overflow-wrap: break-word;" href= "{{person.website}}">{{person.website}}</a> <br>
+          <a style="overflow-wrap: break-word;" href= "{{person.website}}">{{person.website}}</a><br>
+        {% endif %}
+        (% if person.linkedin %}
+          <a href= "https://www.linkedin.com/in/{{person.linkedin}}"> LinkedIn </a> <br>
+        {% endif %}
+        (% if person.UCSF %}
+          <a href= "http://profiles.ucsf.edu/profile/{{person.UCSF}}"> UCSF Profile </a> <br>
         {% endif %}
         {% if person.orcid %}
           <a href="http://orcid.org"><img class="inline-block" src="/static/img/orcid_logo.png"></a>
