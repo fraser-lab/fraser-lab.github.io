@@ -22,12 +22,12 @@
 
   In January 2011, James started his [independent career](http://fellows.ucsf.edu/) as a [QB3 at UCSF Fellow](http://qb3.ucsf.edu/events/mini-bio-james-fraser.shtml) affiliated with the [Department of Cellular and Molecular Pharmacology](http://cmp.ucsf.edu/).
   In January 2013, he was appointed as an Assistant Professor in the [Department of Bioengineering and Therapeutic Sciences](http://bts.ucsf.edu) and the California Institute for Quantitative Biosciences ([QB3](http://qb3.org)) with promotion to Associate Professor in 2016.
-  The lab is also part of the [Macromolecular Structure Group at UCSF](http://msg.ucsf.edu) and [BioXFEL](https://www.bioxfel.org/), a Science and Technology Center established by the National Science Foundation.
+  The lab is also part of the [Macromolecular Structure Group at UCSF](http://msg.ucsf.edu) and [BioXFEL](http://www.bioxfel.org/), a Science and Technology Center established by the National Science Foundation.
   We maintain a deep connection with [Beamline 8.3.1.](http://bl831.als.lbl.gov/~mcfuser/), directed by [James Holton](http://bl831.als.lbl.gov/~jamesh/), at the [Advanced Light Source](http://www-als.lbl.gov/). James is also a Consulting Professor in Photon Science at the Stanford SLAC National Laboratory and a Faculty Scientist in the Molecular Biophysics and Integrated Bioimaging Division of Lawrence Berkeley National Lab.
 
 
   James is a recipient of the [NIH Early Independence Award](http://www.ucsf.edu/news/2011/09/10713/protein-scientist-receives-national-institutes-health-early-investigator-award), [a Pew Scholar Award](http://www.pewtrusts.org/en/projects/pew-biomedical-scholars/directory-of-pew-scholars/2014/james-s-fraser), [a Searle Scholar Award](http://pharmacy.ucsf.edu/news/2014/04/09/1/), and [a Packard Fellowship](http://www.packard.org/what-we-fund/conservation-and-science/science/packard-fellowships-for-science-and-engineering/fellowship-directory/fraser-james/).
-  In addition to all the exciting developments in the lab, James is on the board of [ASAPbio](https://asapbio.org) and has a long standing interest in [teaching](/courses) computational biology, [baseball statistics](http://alumni.berkeley.edu/news/california-magazine/mayjune-2007-new-food-and-farming/playing-stats) (as explained in this [awkward video](http://ibiomagazine.org/issues/november-2011-issue/james-fraser-a-michael-eisen.html) with Mike Eisen), and project-based courses. The lab is committed to publishing our code, disseminating our datasets, and posting manuscripts on preprint servers.'
+  In addition to all the exciting developments in the lab, James is on the board of [ASAPbio](http://asapbio.org) and has a long standing interest in [teaching](/courses) computational biology, [baseball statistics](http://alumni.berkeley.edu/news/california-magazine/mayjune-2007-new-food-and-farming/playing-stats) (as explained in this [awkward video](http://ibiomagazine.org/issues/november-2011-issue/james-fraser-a-michael-eisen.html) with Mike Eisen), and project-based courses. The lab is committed to publishing our code, disseminating our datasets, and posting manuscripts on preprint servers.'
 
 - name: Justin Biel
   image: /static/img/members/Biel.jpg
@@ -37,21 +37,35 @@
   scholar: FatB6VQAAAAJ
   twitter: thebieldeal
   orcid: 0000-0002-0935-8362
-  description: "Justin graduated from Oregon State University with a degree in Biochemistry and Biophysics. He conducted research in both the laboratories of Elisar Barbar studying dynein protein interactions, and P. Andrew Karplus conducting structural bioinformatic research on protein structural components from ultra-high resolution protein crystal structures. As a graduate student  in the Fraser lab, he examined the how conformational heterogeneity changed during directed evolution and revealed minor states that resulted from ligand binding. He was supported by a graduate fellowship from NSF. As a staff scientist, he is now building up capabilities for high-throughput ligand soaking experiments."
+  description: "Justin graduated from Oregon State University with a degree in Biochemistry and Biophysics. \
+  He conducted research in both the laboratories of Dr. Elisar Barbar studying dynein protein interactions, and Dr. P. Andrew \
+  Karplus conducting structural bioinformatic research on protein structural components from ultra-high resolution protein \
+  crystal structures. As a graduate student  in the Fraser lab, he examined the how conformational heterogeneity changed \
+  during directed evolution and revealed minor states that resulted from ligand binding. He was supported by a graduate \
+  fellowship from [NSF] (http://www.nsfgrfp.org). As a staff scientist, he is now building up capabilities for high-throughput ligand soaking \
+  experiments."
 
 - name: Hector Chaires
   image: /static/img/members/Chaires.jpg
   altimage: /static/img/members/Chaires_pb.jpg
   position: Junior Specialist
   email: hchaires (at) fraserlab.com
-  description: "Hector graduated from Rice University with a degree in Biochemistry and Cell Biology. Under the guidance of Professor Phillips, he studied the kinetics of BlaC, an enzyme that confers on bacterial pathogens a resistance to a wide range of antibiotics. As an HHMI EXROP fellow he studied antibody affinity maturation in the Harrison lab at HMS. His research at UCSF will focus on characterizing ribosomal protection proteins, in complex with the ribosome, using cryo-electron microscopy. When not in the lab Hector enjoys hiking, exploring beaches, and Latin dance."
+  description: "Hector graduated from Rice University with a degree in Biochemistry and Cell Biology. Under the guidance of \
+  Dr. George Phillips, he studied the kinetics of BlaC, an enzyme that confers on bacterial pathogens a resistance to \
+  a wide range of antibiotics. As an HHMI EXROP fellow, he studied antibody affinity maturation in the Harrison lab at HMS. \
+  His research at UCSF will focus on characterizing ribosomal protection proteins, in complex with the ribosome, \
+  using cryo-electron microscopy. When not in the lab, Hector enjoys hiking, exploring beaches, and Latin dance."
 
 - name: Galen Correy
   image: /static/img/members/Correy.jpg
   altimage: /static/img/members/Correy_pb.jpg
   position: Postdoc
   email: galen.correy (at) ucsf.edu
-  description: "Galen’s research interest lies in using structural biology to tackle problems in protein engineering and drug design. He earned his PhD from the Australian National University, where he worked with Colin Jackson on the structure, function and evolution of insect enzymes that detoxify organophosphate nerve agents. Galen joined the Fraser lab as a postdoc in May 2019. He is using recently developed methods in fragment-based drug discovery to guide the design of new inhibitors of an emerging anti-cancer therapeutic target."
+  description: "Galen’s research interest lies in using structural biology to tackle problems in protein engineering \
+  and drug design. He earned his PhD from the Australian National University, where he worked with Dr. Colin Jackson on the \
+  structure, function and evolution of insect enzymes that detoxify organophosphate nerve agents. Galen joined the Fraser \
+  lab as a postdoc in May 2019. He is using recently developed methods in fragment-based drug discovery to guide the design \
+  of new inhibitors of an emerging anti-cancer therapeutic target."
 
 - name: Roberto Efraín (Robbie) Díaz
   image: /static/img/members/Diaz.jpg
@@ -62,10 +76,15 @@
   scholar: L_OCeG4AAAAJ
   twitter: robbiediaz_ucsf
   orcid: 0000-0002-1172-9919
-  description: "Robbie graduated from the University of Miami with a degree in Neuroscience. He studied how transcription factors regulate axon regeneration in the central nervous system as an undergraduate in Vance Lemmon's lab. Robbie is interested in utilizing single-molecule and structural techniques to study interactions between chitin-binding proteins and chitin. When he's not in lab, Robbie enjoys reading, going to museums, and biking around the city.
+  description: "Robbie graduated from the University of Miami with a degree in Neuroscience. \
+  He studied how transcription factors regulate axon regeneration in the central nervous system as an \
+  undergraduate in Dr. Vance Lemmon's lab. Robbie is interested in utilizing single-molecule and structural techniques to \
+  study interactions between chitin-binding proteins and chitin. When he's not in lab, Robbie enjoys reading, going to \
+  museums, and biking around the city.
 
 
-  Robbie is supported by graduate fellowships from NSF and HHMI."
+  Robbie is supported by graduate fellowships from [NSF] (http://www.nsfgrfp.org) and \
+  [HHMI] (http://www.hhmi.org/science-education/programs/gilliam-fellowships-advanced-study)."
 
 - name: Gabriella Estevam
   image: /static/img/members/Estevam.jpg
@@ -73,7 +92,11 @@
   position: Graduate Student
   email: gabriella.estevam (at) ucsf.edu
   twitter: GabbyEstevam
-  description: "Gabby graduated from UC Santa Cruz with a degree in Biochemistry and Molecular Biology. As an undergraduate she studied the structure and dynamics of telomeres and telomerase under the mentorship of Michael Stone, where her focus was on developing a high-throughput platform to study telomere lengthening. In the Fraser Lab, Gabby is interested in studying the allosteric regulation of kinase activity through molecular and structural biology. Outside of lab, she enjoys exploring nature and tries her best to longboard."
+  description: "Gabby graduated from UC Santa Cruz with a degree in Biochemistry and Molecular Biology. \
+  As an undergraduate she studied the structure and dynamics of telomeres and telomerase under the mentorship of Dr. Michael \
+  Stone, where her focus was on developing a high-throughput platform to study telomere lengthening. In the Fraser Lab, \
+  Gabby is interested in studying the allosteric regulation of kinase activity through molecular and structural biology. \
+  Outside of lab, she enjoys exploring nature and tries her best to longboard."
 
 - name: D. John Lee
   image: /static/img/members/Lee.jpg
@@ -82,7 +105,12 @@
   email: djohnlee (at) fraserlab.com
   scholar: vJBNuDUAAAAJ
   linkedin: djohnlee
-  description: "John earned his Ph.D. working with Michael Burkart at the University of California, San Diego. His primary focus was the application of protein NMR to the carrier proteins central to fatty acid, polyketide, and non-ribosomal peptide synthetic pathways. In the Fraser lab, he will use structural and computational techniques to explore structural biology and study minor conformational states."
+  description: "John earned his Ph.D. working with Dr. Michael Burkart at the University of California, San Diego. \
+  His primary focus was the application of protein NMR to the carrier proteins central to fatty acid, polyketide, \
+  and non-ribosomal peptide synthetic pathways. In the Fraser lab, he will use structural and computational techniques to \
+  explore structural biology and study minor conformational states.
+  
+  John is supported by a Kirschstein NRSA (F32) fellowship from [NIH/NHLBI](http://www.nhlbi.nih.gov/)."
 
 - name: Lin Liu
   image: /static/img/members/Liu.jpg
@@ -90,24 +118,35 @@
   position: Staff Scientist
   email: lin.liu (at) ucsf.edu
   scholar: 5kUDcJ0AAAAJ
-  description: "Lin was a graduate student at University of Pittsburgh with Angela Gronenborn and Ivet Bahar. Next, Lin was a joint post-doc and Li Foundation fellow between the Kortemme and Fraser labs, using computational and experimental techniques to study the evolution of protein dynamics. Since 2015, she has continued her research in the Fraser lab and has become the key go-to person for its day-to-day operations!"
+  description: "Lin was a graduate student at University of Pittsburgh with Dr. Angela Gronenborn and Dr. Ivet Bahar. Next, \
+  Lin was a joint post-doc and Li Foundation fellow between the Kortemme and Fraser labs, using computational and \
+  experimental techniques to study the evolution of protein dynamics. Since 2015, she has continued her research in the \
+  Fraser lab and has become the key go-to person for its day-to-day operations!"
 
 - name: Jenna Pellegrino
   image: /static/img/members/Pellegrino.jpg
   altimage: /static/img/members/Pellegrino_pb.jpg
   position: Graduate Student
   email: jenna.pellegrino (at) ucsf.edu
-  description: "Jenna graduated from Ursinus College with degrees in Biochemistry and Molecular Biology and French. While an undergrad, she studied the structure-function relationships in a de novo-designed diiron carboxylate protein model system under the guidance of Dr. Amanda Reig. Her research at UCSF will focus on the interactions between streptogramin antibiotics and the ribosome. When she’s not in the lab, Jenna enjoys being active, exploring, cooking, and gaming.
+  description: "Jenna graduated from Ursinus College with degrees in Biochemistry and Molecular Biology and French. \
+  While an undergrad, she studied the structure-function relationships in a de novo-designed diiron carboxylate protein \
+  model system under the guidance of Dr. Amanda Reig. Her research at UCSF will focus on the interactions between \
+  streptogramin antibiotics and the ribosome. When she’s not in the lab, Jenna enjoys being active, exploring, cooking, and \
+  gaming.
 
 
-  Jenna is supported by a graduate fellowship from NSF."
+  Jenna is supported by a graduate fellowship from [NSF] (http://www.nsfgrfp.org)."
 
 - name: Leah Roe
   image: /static/img/members/Roe.jpg
   altimage: /static/img/members/Roe_pb.jpg
   position: Junior Specialist
   email: leah.roe (at) ucsf.edu
-  description: "Leah graduated from UC Berkeley with a degree Molecular Cell Biology with emphasis in Biochemistry and Molecular Biology. During undergrad, Leah worked under the guidance of Ron Zuckermann at LBNL studying peptoids, a class of peptide mimics. Her research focused on controlling structure through side chain to main chain hydrogen bonding. At UCSF, Leah is working collaboratively with the Fraser and Bondy-Denomy Labs on crystallography of anti-CRISPR proteins.  When not in lab, Leah enjoys hikes and exploring the city."
+  description: "Leah graduated from UC Berkeley with a degree Molecular Cell Biology with emphasis in \
+  Biochemistry and Molecular Biology. During undergrad, Leah worked under the guidance of Dr. Ron Zuckermann at \
+  LBNL studying peptoids, a class of peptide mimics. Her research focused on controlling structure through side chain \
+  to main chain hydrogen bonding. At UCSF, Leah is working collaboratively with the Fraser and Bondy-Denomy Labs on \
+  crystallography of anti-CRISPR proteins.  When not in lab, Leah enjoys hikes and exploring the city."
 
 - name: Erin Thompson
   image: /static/img/members/EThompson.jpg
@@ -115,7 +154,9 @@
   position: Graduate Student
   email: eposs (at) fraserlab.com
   twitter: ernpossible
-  description: "Erin graduated from Drake University with a degree in Biochemistry and Chemistry.  As an undergraduate, Erin worked in several labs ranging from exercise physiology to biophysics. In her free time, she enjoys running, hiking, and exploring San Francisco.
+  description: "Erin graduated from Drake University with a degree in Biochemistry and Chemistry.  As an undergraduate, \
+  Erin worked in several labs ranging from exercise physiology to biophysics. In her free time, she enjoys running, hiking, \
+  and exploring San Francisco.
 
   Erin is supported by a fellowship from the Genentech Foundation."
 
@@ -130,8 +171,8 @@
   description: "Mike's longstanding research interest lies in understanding how proteins function by dynamically interconverting between different conformational states. \
         He was introduced to structural biology and X-ray crystallography as an undergraduate at UC Berkeley, \
         where he was a research assistant in [Tom Alber](http://fraserlab.com/2014/04/04/Tom-Alber/)’s laboratory. In 2014, he received \
-        his Ph.D. in [Biochemistry and Molecular Biology](https://bmsb.chem.ucla.edu/) from UCLA under the direction of [Todd Yeates](http://yeateslab.mbi.ucla.edu/). As a graduate student, \
-        Mike investigated the role of conformational polymorphism in expanding the functional diversity of a \
+        his Ph.D. in [Biochemistry and Molecular Biology](http://bmsb.chem.ucla.edu/) from UCLA under the direction of [Dr. Todd Yeates](http://yeateslab.mbi.ucla.edu/). \
+        As a graduate student, Mike investigated the role of conformational polymorphism in expanding the functional diversity of a \
         key family of proteins that define a widespread class of prokaryotic organelles collectively known as “bacterial microcompartments.” \
         As a postdoc in the Fraser Lab, he is developing new methodologies for characterizing protein conformational landscapes, \
         and applying them to understand how those landscapes are altered by mutations and interactions with other molecules. \
@@ -139,8 +180,8 @@
         and to create new opportunities for drug discovery and protein engineering.
 
 
-        Since joining the Fraser lab in 2014, Mike has been supported by a postdoctoral fellowship from the [BioXFEL Science and Technology Center](https://www.bioxfel.org/) (NSF), \
-        a Kirschstein NRSA (F32) fellowship from [NIH/NHLBI](https://www.nhlbi.nih.gov/), and an Independent Postdoctoral Research Award from the [UCSF Program in Breakthrough Biomedical Research (PBBR)](https://pbbr.ucsf.edu/)."
+        Since joining the Fraser lab in 2014, Mike has been supported by a postdoctoral fellowship from the [BioXFEL Science and Technology Center](http://www.bioxfel.org/) (NSF), \
+        a Kirschstein NRSA (F32) fellowship from [NIH/NHLBI](http://www.nhlbi.nih.gov/), and an Independent Postdoctoral Research Award from the [UCSF Program in Breakthrough Biomedical Research (PBBR)](http://pbbr.ucsf.edu/)."
 
 - name: Stephanie Wankowicz
   image: /static/img/members/Wankowicz.jpg
@@ -149,7 +190,12 @@
   email: stephanie.wankowicz (at) ucsf.edu
   scholar: WJ9lxYMAAAAJ
   twitter: stephanie_mul
-  description: "Stephanie graduated from the University of Massachusetts Amherst with a degree in Biochemistry and Molecular Biology. During undergrad, she performed research on pancreas development under Dr. Kimberly Tremblay. She also performed research on economics of the Clean Water Act under Dr. Paul Kolkoswki. Subsequently, she worked as a senior research data specialist and a computational biologist at Dana-Farber Cancer Institute and Broad Institute of MIT and Harvard. There, she worked on many genitourinary translational research projects under Dr. Eliezer Van Allen and Dr. Joaquim Bellmunt. Outside of lab Stephanie enjoys running, reading, gardening, and eating lots of lettuce."
+  description: "Stephanie graduated from the University of Massachusetts Amherst with a degree in Biochemistry and \
+  Molecular Biology. During undergrad, she performed research on pancreas development under Dr. Kimberly Tremblay. \
+  She also performed research on economics of the Clean Water Act under Dr. Paul Kolkoswki. Subsequently, she worked as a \
+  senior research data specialist and a computational biologist at Dana-Farber Cancer Institute and Broad Institute of MIT \
+  and Harvard. There, she worked on many genitourinary translational research projects under Dr. Eliezer Van Allen and Dr. \
+  Joaquim Bellmunt. Outside of lab Stephanie enjoys running, reading, gardening, and eating lots of lettuce."
 
 - name: Alexander Wolff
   image: /static/img/members/Wolff.jpg
@@ -163,9 +209,9 @@
           fascinated with the role that protein structural dynamics play in molecular mechanisms. \
           Thus, Alex’s work in the Fraser Lab seeks to understand how proteins move, \
           and to what degree these movements are altered in the context of human disease. \
-          He has been fortunate to receive a [Matilda Edlund Scholarship](https://graduate.ucsf.edu/edlund-scholarship), \
+          He has been fortunate to receive a [Matilda Edlund Scholarship](http://graduate.ucsf.edu/edlund-scholarship), \
           a [UCSF Discovery Fellowship](http://support.ucsf.edu/discoveryfellows), \
-          and an [ARCS Foundation Scholar Award](https://www.arcsfoundation.org/) to support this work. \
+          and an [ARCS Foundation Scholar Award](http://www.arcsfoundation.org/) to support this work. \
           Outside of the lab, Alex tries to interlace art, science, and outdoor adventures \
           while honing his communication skills."
 
@@ -192,4 +238,6 @@
         determination by cryo-electron microscopy to improve recovery of flexible molecular motions with this \
         technique. This project aims to determine the mechanism of transcript-dependent but sequence-independent \
         translational efficiency of a pool of naturally occurring, compositionally and conformationally \
-        heterogeneous ribosomes, with implications for regulation of the proteome at the stage of translation."
+        heterogeneous ribosomes, with implications for regulation of the proteome at the stage of translation.
+        
+        Iris is supported by a Kirschstein NRSA (F32) fellowship from [NIH/NHLBI](http://www.nhlbi.nih.gov/)."
