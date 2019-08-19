@@ -132,7 +132,7 @@
   orcid: 0000-0002-6212-395X
   description: "Jenna graduated from Ursinus College with degrees in Biochemistry and Molecular Biology and in French. \
   While an undergrad, she studied the structure-function relationships of diiron carboxylate enzymes rubrerythrin and \
-  symerythrin using the de novo G4DFsc protein model system under the guidance of Dr. Amanda Reig. Now at UCSF, she studies  
+  symerythrin using the de novo G4DFsc protein model system under the guidance of Dr. Amanda Reig. Now at UCSF, she studies
   the interactions between streptogramin antibiotics and the ribosome. When she’s not in the lab, Jenna enjoys climbing, \
   reading, playing squash, and gaming.
 
@@ -167,6 +167,7 @@
   image: /static/img/members/MThompson.jpg
   altimage: /static/img/members/MThompson_pb.jpg
   position: Postdoc
+  pronouns: he/him/his
   email: mct.ucsf (at) gmail.com
   scholar: KDvVpWYAAAAJ
   twitter: mctucsf
@@ -189,9 +190,11 @@
 - name: Stephanie Wankowicz
   image: /static/img/members/Wankowicz.jpg
   altimage: /static/img/members/Wankowicz_pb.jpg
+  pronouns: she/her/hers
   position: Graduate Student
   email: stephanie.wankowicz (at) ucsf.edu
   scholar: WJ9lxYMAAAAJ
+  orcid: 0000-0002-4225-7459
   twitter: stephanie_mul
   description: "Stephanie graduated from the University of Massachusetts Amherst with a degree in Biochemistry and \
   Molecular Biology. During undergrad, she performed research on pancreas development under Dr. Kimberly Tremblay. \
