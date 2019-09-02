@@ -68,6 +68,17 @@
     - name: 'Paper Submission Celebration Photo'
       url: 'https://twitter.com/fraser_lab/status/1144742221205217280'
 
+- citation: 'Chatterjee N, Pazarentzos E, Mayekar MK, Gui P, Allegakoen DV, Hrustanovic G, Olivas V, Lin L, Verschueren E, Johnson JR, Hofree M, Yan JJ, Newton BW, Dollen JV, Earnshaw CH, Flanagan J, Chan E, Asthana S, Ideker T, Wu W, Suzuki J, **Barad BA**, Kirichok Y, **Fraser JS**, Weiss WA, Krogan NJ, Tulpule A, Sabnis AJ, Bivona TG. Synthetic essentiality of metabolic regulator PDHK1 in PTEN-deficient cells and cancers. *Cell Reports.* 2019.'
+  date: 201810
+  image: '/static/img/pub/chatterjee_2018.jpg'
+  pmid: 31461649
+  pmcid: In Process
+  biorxiv: "441295"
+  pdf: '/static/pdf/chatterjee_2019.pdf'
+  links:
+    - name: Bivona Lab
+      url: https://www.bivonalab.net/
+
 - citation: '**Young ID**, **Fraser JS**. News & Views: Biomaterials in non-integer dimensions. *Nature Chemistry*. 2019.'
   date: 201905
   image: '/static/img/pub/fractal_2019.jpg'
@@ -175,20 +186,6 @@
       url: 'https://irp.nih.gov/pi/philip-anfinrud'
     - name: 'Paper Submission Celebration Tweetstorm'
       url: 'https://twitter.com/fraser_lab/status/1067213167367905280'
-
-- citation: 'Chatterjee N, Pazarentzos E, Hrustanovic G, Lin L, Verschueren E, Johnson JR, Hofree M, Yan JJ, Olivas V, Newton BW,
-Dollen JV, Earnshaw CH, Flanagan J, Chan E, Asthana S, Ideker T, Wu W, Mayekar MK, Suzuki J, **Barad B**, Kirichok Y,
-**Fraser J**, Weiss WA, Krogan NJ, Tulpule A, Sabnis AJ, Bivona TG. Synthetic essentiality of metabolic regulator PDHK1 in PTEN-deficient cells
-and cancers. *Submitted - Preprint on Biorxiv.* 2018.'
-  date: 201810
-  image: '/static/img/pub/chatterjee_2018.jpg'
-  pmid: Submitted
-  pmcid: Submitted
-  biorxiv: "441295"
-  pdf: 'https://www.biorxiv.org/content/early/2018/10/11/441295.full.pdf'
-  links:
-    - name: Bivona Lab
-      url: https://www.bivonalab.net/
 
 - citation: 'van Zundert GCP\*, **Hudson BM\*,  Oliveira SHP, Keedy DA**, Fonseca R, Heliou A, **Suresh P**, Borrelli K, Day T, **Fraser JS**, van den Bedem H. qFit-ligand reveals widespread conformational heterogeneity of drug-like molecules in X-ray electron density maps. *J Med Chem*. 2018.'
   date: 201809
