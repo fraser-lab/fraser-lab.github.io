@@ -13,6 +13,25 @@
 #     - name: 'Mullins Lab'
 #       url: 'http://mullinslab.ucsf.edu/'
 #
+- citation: '**Wolff AM, Young ID**, Sierra RG, Brewster AS, Martynowycz MW, Nango E, Sugahara M, Nakane T, Ito K, Aquila A, Bhowmick A, **Biel JT**, Carbajo S, Cohen AE, **Cortez S**, Gonzalez A, Hino T, Im D, Koralek JD, Kubo M, **Lazarou TS**, Nomura T, Owada S, Samelson A, Tanaka R, Tanaka T, **Thompson EM**, van den Bedem H, **Woldeyes RA**, Yumoto F, Zhao W, Tono K, Boutet S, Iwata S, Gonen T, Sauter NK, **Fraser JS, Thompson MC**. *Submitted - Preprint on BioRxiv*. 2019.'
+  date: 201909
+  image: '/static/img/pub/micro_2019.jpg'
+  pmid: Submitted
+  pmcid: Submitted
+  biorxiv: 767061
+  pdf: 'https://www.biorxiv.org/content/biorxiv/early/2019/09/12/767061.full.pdf'
+  links:
+    - name: Gonen Lab @ UCLA
+      url: https://cryoem.ucla.edu/
+    - name: LCLS MFX Beamline
+      url: https://lcls.slac.stanford.edu/instruments/mfx
+    - name: SACLA XFEL
+      url: 'http://xfel.riken.jp/eng/'
+    - name: Celebratory Tweetstorm by first author Alex Wolff
+      url: https://twitter.com/LifeHasOrder/status/1172327493451145218
+    - name: Celebratory Tweetstorm by corresponding author Michael Thompsohn
+      url: https://twitter.com/mctucsf/status/1172334750205218816
+
 - citation: '**Barad BA, Liu L, Diaz RE, Basillo R**, Van Dyken SJ, Locksley RM, **Fraser JS**. Dissecting the chitinolytic activity of mammalian chitinases. *Submitted - Preprint on BioRxiv*. 2019.'
   date: 201908
   image: '/static/img/pub/chitin_2019.jpg'
