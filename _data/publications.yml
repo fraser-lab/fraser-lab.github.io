@@ -13,6 +13,26 @@
 #     - name: 'Mullins Lab'
 #       url: 'http://mullinslab.ucsf.edu/'
 #
+- citation: '**Thompson MC, Barad BA, Wolff AM**, Cho HS, Schotte F,
+**Schwarz DMC**, Anfinrud P, **Fraser JS**. Temperature-Jump Solution X-ray Scattering Reveals Distinct Motions in a Dynamic Enzyme. *Nature Chemistry*. 2019.'
+  date: 201810
+  image: '/static/img/pub/thompson_2018.jpg'
+  pmid: Submitted
+  pmcid: Submitted
+  biorxiv: "476432"
+  pdf: '/static/pdf/thompson_nchem_2019.pdf'
+  links:
+    - name: Solution Scattering Code on Github
+      url: https://github.com/fraser-lab/solution_scattering
+    - name: Solution Scattering Data on NIH Figshare
+      url: https://doi.org/10.35092/yhjc.9177143
+    - name: BioCARS
+      url: 'https://biocars.uchicago.edu/'
+    - name: Philip Anfinrud
+      url: 'https://irp.nih.gov/pi/philip-anfinrud'
+    - name: 'Paper Submission Celebration Tweetstorm'
+      url: 'https://twitter.com/fraser_lab/status/1067213167367905280'
+
 - citation: '**Wolff AM, Young ID**, Sierra RG, Brewster AS, Martynowycz MW, Nango E, Sugahara M, Nakane T, Ito K, Aquila A, Bhowmick A, **Biel JT**, Carbajo S, Cohen AE, **Cortez S**, Gonzalez A, Hino T, Im D, Koralek JD, Kubo M, **Lazarou TS**, Nomura T, Owada S, Samelson A, Tanaka R, Tanaka T, **Thompson EM**, van den Bedem H, **Woldeyes RA**, Yumoto F, Zhao W, Tono K, Boutet S, Iwata S, Gonen T, Sauter NK, **Fraser JS, Thompson MC**. *Submitted - Preprint on BioRxiv*. 2019.'
   date: 201909
   image: '/static/img/pub/micro.jpg'
@@ -204,26 +224,6 @@
       url: https://f1000.com/prime/734468509
     - name: 'Convergence Server @ Lander Lab'
       url: 'http://www.lander-lab.com/convergence/'
-
-- citation: '**Thompson MC, Barad BA, Wolff AM**, Cho HS, Schotte F,
-**Schwarz DMC**, Anfinrud P, **Fraser JS**. Temperature-Jump Solution X-ray Scattering Reveals Distinct Motions in a Dynamic Enzyme. *Nature Chemistry*. 2019.'
-  date: 201810
-  image: '/static/img/pub/thompson_2018.jpg'
-  pmid: Submitted
-  pmcid: Submitted
-  biorxiv: "476432"
-  pdf: '/static/pdf/thompson_nchem_2019.pdf'
-  links:
-    - name: Solution Scattering Code on Github
-      url: https://github.com/fraser-lab/solution_scattering
-    - name: Solution Scattering Data on NIH Figshare
-      url: https://doi.org/10.35092/yhjc.9177143
-    - name: BioCARS
-      url: 'https://biocars.uchicago.edu/'
-    - name: Philip Anfinrud
-      url: 'https://irp.nih.gov/pi/philip-anfinrud'
-    - name: 'Paper Submission Celebration Tweetstorm'
-      url: 'https://twitter.com/fraser_lab/status/1067213167367905280'
 
 - citation: 'van Zundert GCP\*, **Hudson BM\*,  Oliveira SHP, Keedy DA**, Fonseca R, Heliou A, **Suresh P**, Borrelli K, Day T, **Fraser JS**, van den Bedem H. qFit-ligand reveals widespread conformational heterogeneity of drug-like molecules in X-ray electron density maps. *J Med Chem*. 2018.'
   date: 201809
