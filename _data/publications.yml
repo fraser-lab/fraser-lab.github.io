@@ -206,13 +206,13 @@
       url: 'http://www.lander-lab.com/convergence/'
 
 - citation: '**Thompson MC, Barad BA, Wolff AM**, Cho HS, Schotte F,
-**Schwarz DMC**, Anfinrud P, **Fraser JS**. Temperature-Jump Solution X-ray Scattering Reveals Distinct Motions in a Dynamic Enzyme. *Submitted - Preprint on BioRxiv*. 2018.'
+**Schwarz DMC**, Anfinrud P, **Fraser JS**. Temperature-Jump Solution X-ray Scattering Reveals Distinct Motions in a Dynamic Enzyme. *Nature Chemistry*. 2019.'
   date: 201810
   image: '/static/img/pub/thompson_2018.jpg'
   pmid: Submitted
   pmcid: Submitted
   biorxiv: "476432"
-  pdf: 'https://www.biorxiv.org/content/biorxiv/early/2018/11/21/476432.full.pdf'
+  pdf: '/static/pdf/thompson_nchem_2019.pdf'
   links:
     - name: Solution Scattering Code on Github
       url: https://github.com/fraser-lab/solution_scattering
