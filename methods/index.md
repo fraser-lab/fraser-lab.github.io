@@ -28,9 +28,7 @@ group: courses
 
 **Course Days/Hours:** Monday, Tuesday, Wednesday 1pm-5pm unless noted otherwise
 
-**Instructors:** [John Gross](mailto:jdgross@cgl.ucsf.edu), [Aashish Manglik](mailto:Aashish.Manglik@ucsf.edu), [James Fraser](mailto:jfraser@fraserlab.com)
-
-**Superpostdoc Instructor:** [John Nicoludis](mailto:John.Nicoludis@ucsf.edu)
+**Instructors:** [Stephen Floor](mailto:stephen.floor@ucsf.edu), [Aashish Manglik](mailto:Aashish.Manglik@ucsf.edu), [James Fraser](mailto:jfraser@fraserlab.com)
 
 **EM Coordinator:** [David Bulkley](mailto:david.bulkley@ucsf.edu)
 
@@ -38,19 +36,19 @@ group: courses
 
 **X-ray guru:** Michael Thompson (Fraser lab)
 
-**EM Computational Experts:** Eugene Palovcak, Daniel Asarnow (Cheng lab)
-
 **TAs:**
+- [Bryan Faust](Bryan.Faust@ucsf.edu)
+- [Aji Palar](Aji.Palar@ucsf.edu)
+- [Maru Jaime Garza](mjaimeg1@jhu.edu)
 
-- [someone](mailto:someone@ucsf.edu)
 
 **Lecturers/Facilitators:**
 
-James Fraser, John Gross, David Bulkley, James Holton, Yifan Cheng, David Agard, Aashish Manglik, Andrej Sali, Robert Stroud
+James Fraser, Stephen Floor, David Bulkley, James Holton, Yifan Cheng, David Agard, Aashish Manglik, Evan Green, Michael Thompson, Klim Verba...
 
 **Important Dates:**
 
-- ALS trip: Thurs and Fri Nov 8/9
+- ALS trip: Thurs and Fri Nov 7/8
 - Final Teams Presentation: Monday, Dec 16
 
 **Background:**
@@ -59,7 +57,7 @@ Fluency in multiple biophysical methods is often critical for answering mechanis
 
 **Course Description:**
 
-This is a team-based class where students work in small groups develop their own analysis of real data that they have collected. Statistical aspects of rigor and reproducibility in structural biology will be emphasized throughout lectures, journal club presentations, and hands-on activities. The course will function in three modules. In module 1 “data collection” students collect either NMR, negative stain EM, and X-ray crystallographic data. In module  2 “fundamentals of analysis”,  students will are mixed into new groups for lectures and hands-on computational tutorials. These lessons emphasize connections to both the molecular interpretations and the fundamental physical principles that generated the data. In module 3 “integrative structural biology”, the students will finalize their analysis and lectures will emphasize rigorous theory of individual techniques and computational frameworks for integrative structural modeling.  Finally, each group will present to their findings to the class and course faculty. The website for the 2017 version of the course can be accessed [here](/methods_2017/)
+This is a team-based class where students work in small groups develop their own analysis of real data that they have collected. Statistical aspects of rigor and reproducibility in structural biology will be emphasized throughout lectures, journal club presentations, and hands-on activities. The course will function in three modules. In module 1 “data collection” students collect either NMR, negative stain EM, and X-ray crystallographic data. In module  2 “fundamentals of analysis”,  students will are mixed into new groups for lectures and hands-on computational tutorials. These lessons emphasize connections to both the molecular interpretations and the fundamental physical principles that generated the data. In module 3 “integrative structural biology”, the students will finalize their analysis and lectures will emphasize rigorous theory of individual techniques and computational frameworks for integrative structural modeling.  Finally, each group will present to their findings to the class and course faculty. The website for the 2017 version of the course can be accessed [here](/methods_2017/) and the 2018 version of the course can be accessed [here](/methods_2018/)
 
 **Recommended reading:**
 
@@ -92,10 +90,6 @@ This course will introduce students to approaches and methodologies for interrog
 
 The "official" language of the class is [python](https://www.python.org) - beginners should try [Learn Python The Hard Way](http://learnpythonthehardway.org/book/), people with a background in other languages should try [Google's python course](https://developers.google.com/edu/python/). The QB3 Berkeley [intensive python course](http://intro-prog-bioinfo-2014.wikispaces.com/) provides many biological examples. Students should be comfortable with basic syntax and scripting prior to the start of instruction. Here is a [spreadsheet](https://docs.google.com/spreadsheets/d/1BjKsN0B1hqd4dJW5slZ5KPuToCjSMRyA7Bl8MwWrbS4/edit#gid=0) with a listing of multiple Python resources
 
-**Journal Clubs:**
-
-Journal club presentations will be limited to 6 minutes. You should use 3 slides: two of which can contain a figure from the paper and the other should be a self-drawn (or created) schematic of the key concept behind the paper. Many of these papers are quite technical, so please engage the instructors and other course personnel as you prepare your presentation.
-
 **Student Learning Objectives**
 
 - Laboratory safety
@@ -121,34 +115,97 @@ _Accommodations for students with disabilities:_ The Graduate Division embraces 
 at http://sds.ucsf.edu. Accommodations are never retroactive; therefore students are encouraged to register with Student Disability Services (http://sds.ucsf.edu/) as soon as they begin their programs. UCSF encourages students to engage in support seeking behavior via all of the resources available through Student Life, for consistent support and access to their programs.
 
 **Required Materials**
-Program issued laptops and a 3 button mouse, or a two button mouse that emulates 3 buttons
+Program issued laptops and a 3 button mouse, or a two button mouse that emulates 3 buttons - PLEASE HAVE A MOUSE!
 
 
 ## Schedule ##
 
 
-- Week of Oct 14 - M,T 1PM-3PM - intro lectures (only 2 days)
-- Week of Oct 21 - M, T 1-3PM or 3-5PM EM practical sessions (students would only attend either morning or afternoon - only 2 days)
-- Week of Oct 28 - M, T, W 1PM-5PM - EM data processing (and maybe some residual practical time)
-- Week of Nov 4 - M-W Retreat,   Th, Fri - 8AM-5PM X-ray data collection (noting an absence for all first year students for Chem223 on Fri Nov 8)
-- Week of Nov 11 - M (holiday - no class), T, W, 1-5PM X-ray practical in X-ray lab (setting trays, soaking, etc), begin processing
-- Week of Nov 18 - M, T, W 1-5PM X-ray data processing
+
+- Week of Oct 14 - M,T 1PM-3PM - intro lectures
+- Week of Oct 21 - M, T 1-4PM  EM practical sessions
+- Week of Oct 28 - M, T, W 1PM-5PM - EM data processing
+- Week of Nov 4 - M-W Retreat, Th, Fri - 8AM-5PM X-ray data collection (noting an absence for all first year students for Chem223 on Fri Nov 8)
+- Week of Nov 11 - M (holiday - no class), T, W, 1-5PM X-ray practical in X-ray lab (setting trays, soaking, etc), begin X-ray data processing
+- Week of Nov 18 - M, T, W 1-5PM NMR practical
 - Week of Nov 25 - no class (Thanksgiving/rotations)
-- Week of Dec 2 - M, T, W 1-5PM NMR practical
-- Week of Dec 9 - M, T, W 1-5PM NMR data processing
+- Week of Dec 2 - M, T, W 1-5PM NMR data processing
+- Week of Dec 9 - M, T, W 1-5PM X-ray data processing
 - Presentations Dec 16th
 
 
 **Week 1 – Welcome**
 
-_Tues Nov 6_
+_Mon Oct 14_
 
-- 1:00-1:30 - [Intro to Macro Methods](/static/pdf/methods/macro_methods_intro-18.pdf) (Gross)
-
-- Thursday Nov 8: Beamtime at Advanced Light Source: 8AM-4PM
+- 1:00-1:30 - [Intro to Macro Methods](/static/pdf/methods/macro_methods_intro-18.pdf) (Fraser)
+- David Agard HSP90 Lecture
+- Fourier Transforms
+- Software check
+- LBL Registration
+- Thursday Nov 7: Beamtime at Advanced Light Source: 8AM-4PM
   - [link to registration material](https://docs.google.com/document/d/1V2-PNSKaoAF7rlRj-rJNA9xA8E-7zrwWzigpKhcNNDI/edit?usp=sharing) - register at [ALSHub](alshub.als.lbl.gov)
-  - [directions to the ALS](https://als.lbl.gov/onsite-access/), we will travel together on BART Nov 8 and 9, but just in case!
 
+_Tues Oct 15_
+
+- Why Structural BIology? Thermo Kinetics
+- X-ray 101 (Manglik)
+- NMR 101 (Floor via Zoom)
+- EM 101 (Verba)
+- Biophysics for drug discovery
+
+**Week 2 - EM Practical**
+
+
+_Mon Oct 21_
+- 1-1:30 Group 1 Negative Stain with Evan
+- 1:30-2PM Group 2 Negative Stain with Evan / Group 1 on Microscope with David B (until 2:30)
+- 2-2:30PM Group 3 Negative Stain with Evan /
+- 2:30-3PM Group 4 Negative Stain with Evan / Group 2 on Microscope with David B (until 3:30)
+- 3-3:30 Group 5 Negative Stain with Evan
+
+_Tues Oct 22_
+- 1-2PM / Group 3 on Microscope with David B
+- 2-3PM / Group 4 on Microscope with David B
+- 3-4PM / Group 5 on Microscope with David B
+
+**Week 3 - EM Data Processing**
+
+_Reading on Rigor and reproducibility in EM:_
+- FSC
+- Model validation
+- half maps
+
+_Mon Oct 28_
+- 1-2PM Yifan Cheng
+- 2-5PM - EM data processing
+
+- [EM data processing: from particles to 2D](https://docs.google.com/document/d/1cyh9XstW3Da8tU1g5gj8UCk1OMC8vGJsk7a5r6T9XHo/edit?usp=sharing)
+- [EM data processing: manipulating density](https://docs.google.com/document/d/1cyh9XstW3Da8tU1g5gj8UCk1OMC8vGJsk7a5r6T9XHo/edit?usp=sharing)
+- [PDBs](https://ucsf.box.com/s/aoz3ydxn9rdvowxhcbfm6qbmo159x3rv) for FSC comparisons
+- [EM data](https://ucsf.box.com/s/5miwi4zdzuxagx0b9x6mekkaby9v3gh1)
+
+_Mon Oct 28_
+- 1-2PM Yifan Cheng
+- 2-5PM - EM data processing
+
+_Mon Oct 28_
+- 1-2PM Yifan Cheng
+- 2-5PM - EM data processing
+
+**Week 4 - Retreat and X-ray Data Collection**
+
+- Th, Fri - 8AM-5PM X-ray data collection (noting an absence for all first year students for Chem223 on Fri Nov 8)  
+- [directions to the ALS](https://als.lbl.gov/onsite-access/), we will travel together on BART Nov 8 and 9, but just in case! Or Aashish will modify plan here
+
+**Week 5 - Crystal Growing and X-ray data processing 1** o
+
+_Tues Nov 12_
+- 1-3PM X-ray practical in X-ray lab (setting trays, soaking, etc)
+- 3-5PM begin X-ray data processing
+
+_Weds Nov 13_
+- 1-5PM begin X-ray data processing
  - [Slides about Crystal Symmetry](/static/pdf/methods/MacroMethods_Hsp90_symmetry_2018.pdf)
  - [Box link to ADP images](https://ucsf.box.com/s/i85gxe5prx9z3ov5hdftqgy1skdevca7) - Download
   - [xia2 summary for APO](/static/apo/xia2.html)
@@ -156,23 +213,45 @@ _Tues Nov 6_
   - [xia2 summary for ADP](/static/adp/xia2.html)
     - [ADP mtz](/static/adp/DataFiles/yHSP90_ADP.mtz)
 
+**Week 6 -  NMR practical**
+
+- M, T, W 1-5PM NMR practical (need instructions feedback from Ryan here)
     - [from FID to 2D](/static/pdf/methods/2DNMR_Processing_Tutorial.pdf) (Ryan Tibble and John Gross)
 
 
+
   - [Intro to Sparky](/static/pdf/methods/Sparky_tutorial.pdf)
-  - [EM data processing: from particles to 2D](https://docs.google.com/document/d/1cyh9XstW3Da8tU1g5gj8UCk1OMC8vGJsk7a5r6T9XHo/edit?usp=sharing)
-- [EM data processing: manipulating density](https://docs.google.com/document/d/1cyh9XstW3Da8tU1g5gj8UCk1OMC8vGJsk7a5r6T9XHo/edit?usp=sharing)
-  - [PDBs](https://ucsf.box.com/s/aoz3ydxn9rdvowxhcbfm6qbmo159x3rv) for FSC comparisons
 
 
-- 1-2:30 Lecture by John Gross on fundamentals of NMR theory to HSQC, [NMR lecture notes](https://ucsf.box.com/s/3uk61vjpzp8ilmq53l89gdug4lnek5d1)
+**Week 7 - NMR data processing**
+
+_Mon Dec 2_
+
+- 1-4PM Ryan Data Processing
+- 4-5PM Stephen Floor Lecture
+- Lecture by John Gross on fundamentals of NMR theory to HSQC, [NMR lecture notes](https://ucsf.box.com/s/3uk61vjpzp8ilmq53l89gdug4lnek5d1)
 - 2:30-5pm work on analyzing NMR titration data to determine Kd (Ryan Tibble and John Gross), [Common Sparky Commands](/static/pdf/methods/Sparky_common_cmds.pdf) and [Sparky Integration Tutorial](/static/pdf/methods/Sparky_Integration.pdf)
 -supplemental reading: [How does an HSQC work?](/static/pdf/methods/HSQC-Guided-tour.pdf)
 - chemical shift perturbation plot versus primary sequence; mapping onto structure, [CSPs from Sparky Lists](/static/pdf/methods/Sparky_CSP.py)
-
 - [NMR Screen Compound Structure Gallery](/static/pdf/methods/Macro_NMR_Screen_Cmpd_Structures.pdf)
 
-**Week 5 - X-ray**
+_Tues Dec 3_
+
+- 1-4PM Ryan Data Processing
+- 4-5PM Stephen Floor Lecture
+
+_weds Dec 4_
+
+- 1-4PM Ryan Data Processing
+- 4-5PM Stephen Floor Lecture? Seemay?
+
+
+**Week 8 - X-ray data processing**
+
+- M, T, W 1-5PM Processing and guest lectures
+
+
+
 - Compound Data Processing Logs, MTZs, CIFs, PDBs:
   - APO DATA - [BOX LINK](https://ucsf.box.com/s/xf2bf1wghibusmtletkag4kh6hblamn9)
   - 1 : G6 G2 F2a H2 C3a E4 I3 F6a A8 I4 A3 a50 a51 c1 c11 c13 c2 f1 f14 f19 f23 f28 f32 f37 f41 f46 f51 f58 f63 f68 f73 f8 f85 f9 f95 - [BOX LINK](https://ucsf.box.com/s/nh3euf7zj9wvma40tm6l7n64e6zdnvk1)
@@ -185,11 +264,10 @@ _Tues Nov 6_
 
 - [Some advice on how to proceed](https://docs.google.com/document/d/1eQfOtSrB2gyF1BJQYWLI-mSoYsENyg4xP8Fsi5ZqsfM/edit?usp=sharing)
 
-- [EM data](https://ucsf.box.com/s/5miwi4zdzuxagx0b9x6mekkaby9v3gh1)
 
 
-**FINAL PRESENTATIONS: Mon Dec 17**
+**FINAL PRESENTATIONS: Mon Dec 16**
 
-Please be on time and wait outside the teaching lab before your presentation. The presentations will be stopped after 15 min and questions will be for 5 minutes. Please email your presentations (use a filename that includes your team number!) to [John Gross](mailto:jdgross@cgl.ucsf.edu) by 12:30PM on Monday Dec 17th.
+Please be on time and wait outside the teaching lab before your presentation. The presentations will be stopped after 15 min and questions will be for 5 minutes. Please email your presentations (use a filename that includes your team number!) to [James Fraser](mailto:jfraser@fraserlab.com) by 12:30PM on Monday Dec 16th.
 
 - 1-1:20 GROUP 1:
