@@ -42,6 +42,13 @@ from small macromolecular crystals. *Submitted - Preprint on BioRxiv*. 2019.'
   pmcid: Submitted
   biorxiv: 767061
   pdf: 'https://www.biorxiv.org/content/biorxiv/early/2019/09/12/767061.full.pdf'
+  pdbs:
+    - 6U5C
+    - 6U5D
+    - 6U5E
+  paired_maps_and_models:
+    - pdb: 6U5G
+      emdb: "20645"
   links:
     - name: Gonen Lab @ UCLA
       url: https://cryoem.ucla.edu/
