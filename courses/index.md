@@ -8,6 +8,14 @@ group: courses
 
 The Fraser lab is supportive of learning through research experiences, and has participated in a number of courses for first year graduate students which challenge students with real research challenges in which they conduct experiments and analyze data to answer interesting new questions.
 
+## Biophysics 204A: Macromolecular Methods
+
+
+Fluency in multiple biophysical methods is often critical for answering mechanistic questions. To train the next generation of biophysicists at UCSF, we have decided to alter the traditional didactic structure by creating a new 6 week “Macromolecular Methods” class that places data collection at the beginning of the course.
+
+- [Macro Methods 2017](/methods_2017)
+- [Macro Methods 2018](/methods_2018)
+- [Macro Methods 2019](/methods)
 
 ## Biophysics 205A: Physical Underpinnings of Biological Systems (PUBS)
 
@@ -25,15 +33,6 @@ PUBS is now run by Martin Kampmann and examines alpha synuclein!
 - [PUBS 2018](https://kampmannlab.ucsf.edu/pubs-2018)
 
 <img class="img-responsive center-block" src="/static/img/pub/pubs_2015.jpg" alt="PUBS Students in the teaching lab">
-
-## Macro Methods
-
-
-Fluency in multiple biophysical methods is often critical for answering mechanistic questions. To train the next generation of biophysicists at UCSF, we have decided to alter the traditional didactic structure by creating a new 6 week “Macromolecular Methods” class that places data collection at the beginning of the course.
-
-- [Macro Methods 2017](/methods_2017)
-- [Macro Methods 2018](/methods_2018)
-- [Macro Methods 2019](/methods)
 
 ##  Engineering Life:  A Flipped Classroom with iBiology
 
