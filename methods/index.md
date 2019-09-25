@@ -44,7 +44,7 @@ group: courses
 
 **Lecturers/Facilitators:**
 
-James Fraser, Stephen Floor, David Bulkley, James Holton, Yifan Cheng, David Agard, Aashish Manglik, Evan Green, Michael Thompson, Klim Verba...
+James Fraser, Stephen Floor, David Bulkley, James Holton, Yifan Cheng, David Agard, Aashish Manglik, Michelle Arkin, Evan Green, Michael Thompson, Klim Verba...
 
 **Important Dates:**
 
@@ -148,11 +148,11 @@ _Mon Oct 14_
 
 _Tues Oct 15_
 
-- Why Structural BIology? Thermo Kinetics
+- Why Structural Biology? Thermo Kinetics
 - X-ray 101 (Manglik)
 - NMR 101 (Floor via Zoom)
 - EM 101 (Verba)
-- Biophysics for drug discovery
+- Biophysics for drug discovery (Arkin)
 
 **Week 2 - EM Practical**
 
@@ -200,6 +200,12 @@ _Mon Oct 28_
 
 **Week 5 - Crystal Growing and X-ray data processing 1** o
 
+_Reading on Rigor and reproducibility in Crystallography:_
+- R-free
+- Molprobity
+- Data Challenges and synthetic data
+
+
 _Tues Nov 12_
 - 1-3PM X-ray practical in X-ray lab (setting trays, soaking, etc)
 - 3-5PM begin X-ray data processing
@@ -224,6 +230,11 @@ _Weds Nov 13_
 
 
 **Week 7 - NMR data processing**
+
+_Reading on Rigor and reproducibility in NMR:_
+- Q-scores
+- Integrative modeling
+
 
 _Mon Dec 2_
 
