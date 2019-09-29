@@ -13,6 +13,17 @@
 #     - name: 'Mullins Lab'
 #       url: 'http://mullinslab.ucsf.edu/'
 #
+- citation: 'Yabukarski F, **Biel JT**, Pinney MM, Doukov T, Powers AS, **Fraser JS**, Herschlag D. Assessing positioning in enzymatic catalysis via ketosteroid isomerase conformational ensembles. *Submitted - Preprint on BioRxiv*. 2019.'
+  date: 201910
+  image: '/static/img/pub/enzymes_2019.jpg'
+  pmid: Submitted
+  pmcid: Submitted
+  biorxiv: 786327
+  pdf: 'https://www.biorxiv.org/content/biorxiv/early/2019/09/29/786327.full.pdf'
+  links:
+    - name: Herschlag Lab
+      url: http://herschlaglab.stanford.edu/
+
 - citation: '**Thompson MC, Barad BA, Wolff AM**, Cho HS, Schotte F,
 **Schwarz DMC**, Anfinrud P, **Fraser JS**. Temperature-Jump Solution X-ray Scattering Reveals Distinct Motions in a Dynamic Enzyme. *Nature Chemistry*. 2019.'
   date: 201810
