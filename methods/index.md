@@ -32,9 +32,11 @@ group: courses
 
 **EM Coordinator:** [David Bulkley](mailto:david.bulkley@ucsf.edu)
 
-**HSP90 Preparer/NMR guru:** Ryan Tibble (Gross lab)
+**Negative Stain Master:** [Evan Green](mailto:green.evan@gmail.com) (Cheng Lab)
 
-**X-ray guru:** Michael Thompson (Fraser lab)
+**HSP90 Preparer/NMR guru:** [Ryan Tibble](mailto:Ryan.Tibble@ucsf.edu) (Gross lab)
+
+**X-ray guru:** [Michael Thompson](mailto:mct.ucsf@gmail.com) (Fraser lab)
 
 **TAs:**
 - [Bryan Faust](Bryan.Faust@ucsf.edu)
@@ -44,12 +46,12 @@ group: courses
 
 **Lecturers/Facilitators:**
 
-James Fraser, Stephen Floor, David Bulkley, James Holton, Yifan Cheng, David Agard, Aashish Manglik, Michelle Arkin, Evan Green, Michael Thompson, Klim Verba...
+James Fraser, Stephen Floor, David Bulkley, James Holton, Yifan Cheng, David Agard, Aashish Manglik, Ryan Tibble, Evan Green, Michael Thompson, Klim Verba
 
 **Important Dates:**
 
-- ALS trip: Thurs and Fri Nov 7/8
-- Final Teams Presentation: Monday, Dec 16
+- ALS trip: Thurs Nov 7 (CCB Students) and Friday Nov 8 (BP Students)
+- Final Presentation: Monday, Dec 16
 
 **Background:**
 
@@ -117,10 +119,7 @@ at http://sds.ucsf.edu. Accommodations are never retroactive; therefore students
 **Required Materials**
 Program issued laptops and a 3 button mouse, or a two button mouse that emulates 3 buttons - PLEASE HAVE A MOUSE!
 
-
 ## Schedule ##
-
-
 
 - Week of Oct 14 - M,T 1PM-3PM - intro lectures
 - Week of Oct 21 - M, T 1-4PM  EM practical sessions
@@ -133,70 +132,82 @@ Program issued laptops and a 3 button mouse, or a two button mouse that emulates
 - Week of Dec 9 - M, T, W 1-5PM X-ray data processing
 - Presentations Dec 16th
 
+## Groups ##
+
+- [Bjorkman](https://en.wikipedia.org/wiki/Pamela_J._Bjorkman): Audrey Kishishita, Regan Volk, Leandrew Dailey, Marcell Zimanyi
+
+- [Franklin](https://en.wikipedia.org/wiki/Rosalind_Franklin): Jordan Kleinman, Jacqueline Weaver, Zachary Gale-Day, Hersh Bhargava
+
+- [Hodgkin](https://en.wikipedia.org/wiki/Dorothy_Hodgkin): Sophie Kong, Erin Isaza, Minh Tran, Connor Galvin
+
+- [Low](https://en.wikipedia.org/wiki/Barbara_Low_(biochemist)): Wenqi Shen, Muziyue Wu, Nicholas Young, Adamo Mancino
+
+- [Yonath](https://en.wikipedia.org/wiki/Ada_Yonath): Elizabeth Sisko, Chad Altobelli, Wilson Nieves Vasquez, Matthew Smith
 
 **Week 1 – Welcome**
 
 _Mon Oct 14_
 
-- 1:00-1:30 - [Intro to Macro Methods](/static/pdf/methods/macro_methods_intro-18.pdf) (Fraser)
+- 1:00-1:30 - [Intro to Macro Methods](/static/pdf/methods/macro_methods_intro-18.pdf) (Manglik)
 - David Agard HSP90 Lecture
-- Fourier Transforms
-- Software check
-- LBL Registration
-- Thursday Nov 7: Beamtime at Advanced Light Source: 8AM-4PM
+- Fourier Transforms 101 (Fraser?)
+- Software check (Fraser+Tibble+Manglik)
+- LBL Registration (Manglik)
+- Thursday Nov 7 (CCB) and Friday Nov 8 (BP): Beamtime at Advanced Light Source: 8AM-4PM
   - [link to registration material](https://docs.google.com/document/d/1V2-PNSKaoAF7rlRj-rJNA9xA8E-7zrwWzigpKhcNNDI/edit?usp=sharing) - register at [ALSHub](alshub.als.lbl.gov)
 
 _Tues Oct 15_
 
-- Why Structural Biology? Thermo Kinetics
+- Why Structural Biology? The importance of averaging and timescales (Fraser)
 - X-ray 101 (Manglik)
 - NMR 101 (Floor via Zoom)
 - EM 101 (Verba)
-- Biophysics for drug discovery (Arkin)
+- Reflections on FT101 after Method 101s(Fraser)
+- Biophysics for drug discovery (Manglik)
 
 **Week 2 - EM Practical**
 
-
 _Mon Oct 21_
-- 1-1:30 Group 1 Negative Stain with Evan
-- 1:30-2PM Group 2 Negative Stain with Evan / Group 1 on Microscope with David B (until 2:30)
-- 2-2:30PM Group 3 Negative Stain with Evan /
-- 2:30-3PM Group 4 Negative Stain with Evan / Group 2 on Microscope with David B (until 3:30)
-- 3-3:30 Group 5 Negative Stain with Evan
+
+The EM Facility is in room GH S122 - please be prompt and wait outside for Evan or David B to invite you into the facility while your group is waiting for the previous group to finish.
+
+- 1-1:30 Bjorkman Negative Stain with Evan
+- 1:30-2PM Franklin Negative Stain with Evan / Bjorkman on Microscope with David B (until 2:30)
+- 2-2:30PM Hodgkin Negative Stain with Evan /
+- 2:30-3PM Low Negative Stain with Evan / Franklin on Microscope with David B (until 3:30)
+- 3-3:30 Yonath Negative Stain with Evan
 
 _Tues Oct 22_
-- 1-2PM / Group 3 on Microscope with David B
-- 2-3PM / Group 4 on Microscope with David B
-- 3-4PM / Group 5 on Microscope with David B
+- 1-2PM / Hodgkin on Microscope with David B
+- 2-3PM / Low on Microscope with David B
+- 3-4PM / Yonath on Microscope with David B
 
 **Week 3 - EM Data Processing**
 
 _Reading on Rigor and reproducibility in EM:_
-- FSC
-- Model validation
-- half maps
+- [FSC](https://en.wikipedia.org/wiki/Fourier_shell_correlation) and [early example in EM](https://www.ncbi.nlm.nih.gov/pubmed/7120365)
+- [half maps](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4912033/) and [Optimal Determination of Particle Orientation, Absolute Hand, and Contrast Loss in Single-particle Electron Cryomicroscopy](http://www.sciencedirect.com/science/article/pii/S0022283603010222)
+- Other Model and Map validation tools (a lot of overlap with X-ray tools but a few examples that don't: [phenix.mtriage](https://www.phenix-online.org/documentation/reference/mtriage.html), [EMRinger](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4589481/))
 
 _Mon Oct 28_
-- 1-2PM Yifan Cheng
-- 2-5PM - EM data processing
-
-- [EM data processing: from particles to 2D](https://docs.google.com/document/d/1cyh9XstW3Da8tU1g5gj8UCk1OMC8vGJsk7a5r6T9XHo/edit?usp=sharing)
-- [EM data processing: manipulating density](https://docs.google.com/document/d/1cyh9XstW3Da8tU1g5gj8UCk1OMC8vGJsk7a5r6T9XHo/edit?usp=sharing)
-- [PDBs](https://ucsf.box.com/s/aoz3ydxn9rdvowxhcbfm6qbmo159x3rv) for FSC comparisons
+- 1-2PM Yifan Cheng - lecture
+- 2-5PM - EM data processing - Orion Accounts, [cisTEM](https://cistem.org/) introduction and [paper](https://elifesciences.org/articles/35383), ATP data (Fraser)
 - [EM data](https://ucsf.box.com/s/5miwi4zdzuxagx0b9x6mekkaby9v3gh1)
 
 _Mon Oct 28_
 - 1-2PM Yifan Cheng
-- 2-5PM - EM data processing
+- 2-5PM - EM data processing - Apo data and using 2D classes to get a rough idea of how ATP alters the conformational equilibrium (Fraser)
 
 _Mon Oct 28_
 - 1-2PM Yifan Cheng
-- 2-5PM - EM data processing
+- 2-5PM - EM data processing - datasets collected by students on inhibitor compounds (Fraser)
+- [ChimeraX EM tutorial by Tom Goddard](http://www.cgl.ucsf.edu/chimera/data/hsp90-em-dec2017/hsp90em.html)
 
 **Week 4 - Retreat and X-ray Data Collection**
 
-- Th, Fri - 8AM-5PM X-ray data collection (noting an absence for all first year students for Chem223 on Fri Nov 8)  
-- [directions to the ALS](https://als.lbl.gov/onsite-access/), we will travel together on BART Nov 8 and 9, but just in case! Or Aashish will modify plan here
+- Thurs Nov 7 - 8AM-5PM - ALL CCB Students (13)
+- Fri Nov 8 - 8AM-5PM - ALL BIOPHYSICS Students (7)
+- [directions to the ALS](https://als.lbl.gov/onsite-access/), we will travel together on BART Nov 7 and 8, but just in case! Or Aashish will modify plan here
 
 **Week 5 - Crystal Growing and X-ray data processing 1** o
 
@@ -204,7 +215,6 @@ _Reading on Rigor and reproducibility in Crystallography:_
 - R-free
 - Molprobity
 - Data Challenges and synthetic data
-
 
 _Tues Nov 12_
 - 1-3PM X-ray practical in X-ray lab (setting trays, soaking, etc)
@@ -220,14 +230,21 @@ _Weds Nov 13_
     - [ADP mtz](/static/adp/DataFiles/yHSP90_ADP.mtz)
 
 **Week 6 -  NMR practical**
+- Week of Nov 18 - M, T, W 1-5PM NMR practical
 
-- M, T, W 1-5PM NMR practical (need instructions feedback from Ryan here)
-    - [from FID to 2D](/static/pdf/methods/2DNMR_Processing_Tutorial.pdf) (Ryan Tibble and John Gross)
+- Mon Nov 18_
+NMR practical (need instructions feedback from Ryan here)
 
+- Tues Nov 19_
+NMR practical (need instructions feedback from Ryan here)
 
+- Weds Nov 20_
+NMR practical (need instructions feedback from Ryan here)
 
-  - [Intro to Sparky](/static/pdf/methods/Sparky_tutorial.pdf)
+- [from FID to 2D](/static/pdf/methods/2DNMR_Processing_Tutorial.pdf) (Ryan Tibble and John Gross)
+- [Intro to Sparky](/static/pdf/methods/Sparky_tutorial.pdf)
 
+**THANKSGIVING WEEK - NO CLASS**
 
 **Week 7 - NMR data processing**
 
@@ -235,10 +252,9 @@ _Reading on Rigor and reproducibility in NMR:_
 - Q-scores
 - Integrative modeling
 
-
 _Mon Dec 2_
 
-- 1-4PM Ryan Data Processing
+- 1-4PM Ryan Tibble Data Processing
 - 4-5PM Stephen Floor Lecture
 - Lecture by John Gross on fundamentals of NMR theory to HSQC, [NMR lecture notes](https://ucsf.box.com/s/3uk61vjpzp8ilmq53l89gdug4lnek5d1)
 - 2:30-5pm work on analyzing NMR titration data to determine Kd (Ryan Tibble and John Gross), [Common Sparky Commands](/static/pdf/methods/Sparky_common_cmds.pdf) and [Sparky Integration Tutorial](/static/pdf/methods/Sparky_Integration.pdf)
@@ -248,19 +264,25 @@ _Mon Dec 2_
 
 _Tues Dec 3_
 
-- 1-4PM Ryan Data Processing
+- 1-4PM Ryan Tibble Data Processing
 - 4-5PM Stephen Floor Lecture
 
-_weds Dec 4_
+_Weds Dec 4_
 
-- 1-4PM Ryan Data Processing
-- 4-5PM Stephen Floor Lecture? Seemay?
+- 1-4PM Ryan Tibble Data Processing
+- 4-5PM Stephen Floor Lecture
 
 
 **Week 8 - X-ray data processing**
 
-- M, T, W 1-5PM Processing and guest lectures
+_Mon Dec 9_
+1-5PM Processing and guest lectures
 
+_Mon Dec 9_
+1-5PM Processing and guest lectures
+
+_Mon Dec 9_
+1-5PM Processing and guest lectures
 
 
 - Compound Data Processing Logs, MTZs, CIFs, PDBs:
@@ -280,5 +302,3 @@ _weds Dec 4_
 **FINAL PRESENTATIONS: Mon Dec 16**
 
 Please be on time and wait outside the teaching lab before your presentation. The presentations will be stopped after 15 min and questions will be for 5 minutes. Please email your presentations (use a filename that includes your team number!) to [James Fraser](mailto:jfraser@fraserlab.com) by 12:30PM on Monday Dec 16th.
-
-- 1-1:20 GROUP 1:
