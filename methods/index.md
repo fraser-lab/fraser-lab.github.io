@@ -151,7 +151,7 @@ _Mon Oct 14_
 - 1:00-1:30 - [Intro to Macro Methods](https://docs.google.com/presentation/d/1GulU6Bo8N5oBSqEvTaHw1qpOjXOSZ95ivmMNmhpheWs/edit?usp=sharing) (Manglik)
 - 1:30-2:30 - David Agard HSP90 Lecture
 - 2:30-3:00 - Fourier Transforms 101 (Fraser) and [cool website](http://www.jezzamon.com/fourier/)
-- 3:00 - Software check (Fraser+Tibble+Manglik)
+- 3:00 - [Software check](https://docs.google.com/document/d/1f8n5oUvlgYjCOk6ybq5GOF5H-riGmoSIo6Yjqa_1RZg/edit?usp=sharing) (Fraser+Tibble+Manglik)
 - LBL Registration (Manglik)
 - Thursday Nov 7 (CCB) and Friday Nov 8 (BP): Beamtime at Advanced Light Source: 8AM-4PM
   - [link to registration material](https://docs.google.com/document/d/1V2-PNSKaoAF7rlRj-rJNA9xA8E-7zrwWzigpKhcNNDI/edit?usp=sharing) - register at [ALSHub](alshub.als.lbl.gov)
