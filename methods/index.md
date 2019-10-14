@@ -148,7 +148,7 @@ Program issued laptops and a 3 button mouse, or a two button mouse that emulates
 
 _Mon Oct 14_
 
-- 1:00-1:30 - [Intro to Macro Methods](/static/pdf/methods/macro_methods_intro-18.pdf) (Manglik)
+- 1:00-1:30 - [Intro to Macro Methods](https://docs.google.com/presentation/d/1GulU6Bo8N5oBSqEvTaHw1qpOjXOSZ95ivmMNmhpheWs/edit?usp=sharing) (Manglik)
 - 1:30-2:30 - David Agard HSP90 Lecture
 - 2:30-3:00 - Fourier Transforms 101 (Fraser)
 - 3:00 - Software check (Fraser+Tibble+Manglik)
