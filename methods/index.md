@@ -149,21 +149,21 @@ Program issued laptops and a 3 button mouse, or a two button mouse that emulates
 _Mon Oct 14_
 
 - 1:00-1:30 - [Intro to Macro Methods](/static/pdf/methods/macro_methods_intro-18.pdf) (Manglik)
-- David Agard HSP90 Lecture
-- Fourier Transforms 101 (Fraser?)
-- Software check (Fraser+Tibble+Manglik)
+- 1:30-2:30 - David Agard HSP90 Lecture
+- 2:30-3:00 - Fourier Transforms 101 (Fraser)
+- 3:00 - Software check (Fraser+Tibble+Manglik)
 - LBL Registration (Manglik)
 - Thursday Nov 7 (CCB) and Friday Nov 8 (BP): Beamtime at Advanced Light Source: 8AM-4PM
   - [link to registration material](https://docs.google.com/document/d/1V2-PNSKaoAF7rlRj-rJNA9xA8E-7zrwWzigpKhcNNDI/edit?usp=sharing) - register at [ALSHub](alshub.als.lbl.gov)
 
 _Tues Oct 15_
 
-- Why Structural Biology? The importance of averaging and timescales (Fraser)
-- X-ray 101 (Manglik)
-- NMR 101 (Floor via Zoom)
-- EM 101 (Verba)
-- Reflections on FT101 after Method 101s(Fraser)
-- Biophysics for drug discovery (Manglik)
+- 1:00-1:30 Why Structural Biology? The importance of averaging and timescales (Fraser)
+- 1:30-1:45 X-ray 101 (Manglik)
+- 1:45-2:00 EM 101 (Verba)
+- 2:00-2:15 NMR 101 (Floor via Zoom)
+- 2:15-2:30 Reflections on FT101 after Method 101s(Fraser)
+- 2:30-3:30 Biophysics for drug discovery (Manglik)
 
 **Week 2 - EM Practical**
 
