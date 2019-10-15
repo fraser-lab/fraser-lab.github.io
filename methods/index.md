@@ -171,14 +171,14 @@ _Mon Oct 21_
 
 The EM Facility is in room GH S122 - please be prompt and wait outside for Evan or David B to invite you into the facility while your group is waiting for the previous group to finish.
 
-- 1-1:30 Bjorkman Negative Stain with Evan
-- 1:30-2PM Franklin Negative Stain with Evan / Bjorkman on Microscope with David B (until 2:30)
-- 2-2:30PM Hodgkin Negative Stain with Evan /
+- 1-1:30 Hodgkin Negative Stain with Evan
+- 1:30-2PM Franklin Negative Stain with Evan / Hodgkin on Microscope with David B (until 2:30)
+- 2-2:30PM Bjorkman Negative Stain with Evan /
 - 2:30-3PM Low Negative Stain with Evan / Franklin on Microscope with David B (until 3:30)
 - 3-3:30 Yonath Negative Stain with Evan
 
 _Tues Oct 22_
-- 1-2PM / Hodgkin on Microscope with David B
+- 1-2PM / Bjorkman on Microscope with David B
 - 2-3PM / Low on Microscope with David B
 - 3-4PM / Yonath on Microscope with David B
 
