@@ -163,7 +163,7 @@ _Tues Oct 15_
 - 1:45-2:00 EM 101 (Verba)
 - 2:00-2:15 NMR 101 (Floor via Zoom)
 - 2:15-2:30 Reflections on FT101 after Method 101s(Fraser)
-- 2:30-3:30 Biophysics for drug discovery (Manglik)
+- 2:30-3:30 [Biophysics for drug discovery](https://www.icloud.com/attachment/?u=https%3A%2F%2Fcvws.icloud-content.com%2FB%2FAaebbsfkvxnBoY2rDuAtWmRzxIL7ATDgvKBEXhhEyIuqsVtX7LZpmO0l%2F%24%7Bf%7D%3Fo%3DAhvv3EYpbrcHU0HGbbY3XUbvt9NkbUihrn5Xq6uxCzKn%26v%3D1%26x%3D3%26a%3DCAogayFd7bMMXa2htP63v343pRGBYzF7ftP-M2IAZ5yxx4ESJxDWkOSA3S0Y1qDf1OYtIgEAKggByAD_WHvp8FIEc8SC-1oEaZjtJQ%26e%3D1573746364%26k%3D%24%7Buk%7D%26fl%3D%26r%3D5B3CBD74-B744-4D89-9935-F7BF0C7662B2-1%26ckc%3Dcom.apple.largeattachment%26ckz%3D337C0639-723A-4102-ACA8-FB2E02B05DCF%26p%3D44%26s%3DIK82KvLy6XEh0iqN7GGARsiFcOs&uk=Ce5ZmY-iHm5IXHfGTA5lTQ&f=20191015_Fragments_Lecture.pptx&sz=51058071) (Manglik)
 
 **Week 2 - EM Practical**
 
