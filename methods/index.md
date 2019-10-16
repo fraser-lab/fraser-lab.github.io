@@ -136,7 +136,7 @@ Program issued laptops and a 3 button mouse, or a two button mouse that emulates
 
 - [Bjorkman](https://en.wikipedia.org/wiki/Pamela_J._Bjorkman): Audrey Kishishita, Regan Volk, Leandrew Dailey, Marcell Zimanyi
 
-- [Franklin](https://en.wikipedia.org/wiki/Rosalind_Franklin): Jordan Kleinman, Jacqueline Weaver, Zachary Gale-Day, Hersh Bhargava
+- [Franklin](https://en.wikipedia.org/wiki/Rosalind_Franklin): Jordan Kleinman, Jacqueline Weaver, Zachary Gale-Day, Hersh Bhargava, Matthew Hancock
 
 - [Hodgkin](https://en.wikipedia.org/wiki/Dorothy_Hodgkin): Sophie Kong, Erin Isaza, Minh Tran, Connor Galvin
 
