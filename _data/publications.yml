@@ -72,13 +72,13 @@ from small macromolecular crystals. *Submitted - Preprint on BioRxiv*. 2019.'
     - name: Celebratory Tweetstorm by corresponding author Michael Thompson
       url: https://twitter.com/mctucsf/status/1172334750205218816
 
-- citation: '**Barad BA, Liu L, Diaz RE, Basillo R**, Van Dyken SJ, Locksley RM, **Fraser JS**. Dissecting the chitinolytic activity of mammalian chitinases. *Submitted - Preprint on BioRxiv*. 2019.'
+- citation: '**Barad BA, Liu L, Diaz RE, Basillo R**, Van Dyken SJ, Locksley RM, **Fraser JS**. Differences in the chitinolytic activity of mammalian chitinases on soluble and crystalline substrates. *Submitted - Preprint on BioRxiv*. 2019.'
   date: 201908
   image: '/static/img/pub/chitin_2019.jpg'
   pmid: Submitted
   pmcid: Submitted
   biorxiv: 762336
-  pdf: 'https://www.biorxiv.org/content/biorxiv/early/2019/09/08/762336.full.pdf'
+  pdf: 'https://www.biorxiv.org/content/biorxiv/early/2019/10/17/762336.full.pdf'
   links:
     - name: Chitin Analysis Scripts
       url: https://github.com/fraser-lab/chitin_analysis
