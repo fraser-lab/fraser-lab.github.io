@@ -48,6 +48,7 @@
 - name: Hector Chaires
   image: /static/img/members/Chaires.jpg
   altimage: /static/img/members/Chaires_pb.jpg
+  pronouns: he/him/his
   position: Junior Specialist
   email: hchaires (at) fraserlab.com
   description: "Hector graduated from Rice University with a degree in Biochemistry and Cell Biology. Under the guidance of \
@@ -144,7 +145,7 @@
   image: /static/img/members/Roe.jpg
   altimage: /static/img/members/Roe_pb.jpg
   position: Junior Specialist
-  pronouns: she/her/hers  
+  pronouns: she/her/hers
   email: leah.roe (at) ucsf.edu
   description: "Leah graduated from UC Berkeley with a degree Molecular Cell Biology with emphasis in \
   Biochemistry and Molecular Biology. During undergrad, Leah worked under the guidance of Dr. Ron Zuckermann at \
