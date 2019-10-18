@@ -13,7 +13,7 @@
 #     - name: 'Mullins Lab'
 #       url: 'http://mullinslab.ucsf.edu/'
 #
-- citation: Wych DC, **Fraser JS**, Mobley DL, Wall ME. Liquid-like and rigid-body motions in molecular dynamics simulations of a crystalline protein. *Submitted - Preprint on BioRxiv*. 2019.'
+- citation: Wych DC, **Fraser JS**, Mobley DL, Wall ME. Liquid-like and rigid-body motions in molecular dynamics simulations of a crystalline protein. *Submitted - Preprint on BioRxiv*. 2019.
   date: 201911
   image: '/static/img/pub/wych_2019.jpg'
   pmid: Submitted
