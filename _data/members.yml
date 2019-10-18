@@ -144,6 +144,7 @@
   image: /static/img/members/Roe.jpg
   altimage: /static/img/members/Roe_pb.jpg
   position: Junior Specialist
+  pronouns: she/her/hers  
   email: leah.roe (at) ucsf.edu
   description: "Leah graduated from UC Berkeley with a degree Molecular Cell Biology with emphasis in \
   Biochemistry and Molecular Biology. During undergrad, Leah worked under the guidance of Dr. Ron Zuckermann at \
@@ -206,7 +207,6 @@
 - name: Alexander Wolff
   image: /static/img/members/Wolff.jpg
   altimage: /static/img/members/Wolff_pb.jpg
-  pronouns: he/him/his
   position: Graduate Student
   email: LifeHasOrder (at) gmail.com
   scholar: EqoaChsAAAAJ
