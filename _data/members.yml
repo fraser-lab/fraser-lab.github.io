@@ -32,6 +32,7 @@
 - name: Justin Biel
   image: /static/img/members/Biel.jpg
   altimage: /static/img/members/Biel_pb.jpg
+  pronouns: he/him/his
   position: Staff Scientist
   email: justin.biel (at) ucsf.edu
   scholar: FatB6VQAAAAJ
