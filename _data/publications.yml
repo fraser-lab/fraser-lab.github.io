@@ -13,6 +13,19 @@
 #     - name: 'Mullins Lab'
 #       url: 'http://mullinslab.ucsf.edu/'
 #
+- citation: Wych DC, **Fraser JS**, Mobley DL, Wall ME. Liquid-like and rigid-body motions in molecular dynamics simulations of a crystalline protein. *Submitted - Preprint on BioRxiv*. 2019.'
+  date: 201911
+  image: '/static/img/pub/wych_2019.jpg'
+  pmid: Submitted
+  pmcid: Submitted
+  biorxiv: 811083
+  pdf: 'https://www.biorxiv.org/content/biorxiv/early/2019/10/18/811083.full.pdf'
+  links:
+    - name: Mobley Lab
+      url: https://mobleylab.org/
+    - name: 'Michael Wall'
+      url: 'http://public.lanl.gov/mewall/'
+
 - citation: 'Yabukarski F, **Biel JT**, Pinney MM, Doukov T, Powers AS, **Fraser JS**, Herschlag D. Assessing positioning in enzymatic catalysis via ketosteroid isomerase conformational ensembles. *Submitted - Preprint on BioRxiv*. 2019.'
   date: 201910
   image: '/static/img/pub/enzymes_2019.jpg'
