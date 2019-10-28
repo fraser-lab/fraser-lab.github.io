@@ -190,9 +190,8 @@ _Reading on Rigor and reproducibility in EM:_
 - Other Model and Map validation tools (a lot of overlap with X-ray tools but a few examples that don't: [phenix.mtriage](https://www.phenix-online.org/documentation/reference/mtriage.html), [EMRinger](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4589481/))
 
 _Mon Oct 28_
-- 1-2PM Yifan Cheng - lecture
+- 1-2PM Yifan Cheng - [lecture](https://drive.google.com/file/d/0Bx0d95RwVYufNVkyLW1xbU11TDhoNnN0ZWdYV1hOUnBZZW9J/view?usp=sharing)
 - 2-5PM - EM data processing - Orion Accounts, [cisTEM](https://cistem.org/) introduction and [paper](https://elifesciences.org/articles/35383), ATP data (Fraser)
-- [EM data](https://ucsf.box.com/s/5miwi4zdzuxagx0b9x6mekkaby9v3gh1)
 
 _Mon Oct 28_
 - 1-2PM Yifan Cheng
