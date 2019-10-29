@@ -1,6 +1,5 @@
 - name: James Fraser
-  image: /static/img/members/Fraser.jpg
-  altimage: /static/img/members/Fraser_pb.jpg
+  image: /static/img/members/fraser_new.jpg
   pronouns: he/him/his
   position: Principal Investigator
   email: jfraser (at) fraserlab.com
@@ -139,7 +138,7 @@
   she studied neurobiology of female rat reproduction under Dr. Mary Erskine. She went on to work as a lab supervisor and \
   in the algae biofuels industry before returning to academia to pursue her Ph.D. at UC San Diego in the lab of Dr. Michael \
   Burkart. In his lab she worked on diverse projects ranging from the use of biochemical probes to understand protein-protein \
-  interactions in fatty acid and polyketide synthases to various approaches including metagenomics to explore the biochemical \ 
+  interactions in fatty acid and polyketide synthases to various approaches including metagenomics to explore the biochemical \
   influences on marine atmospheric composition. In the Fraser lab she seeks to utilize computational approaches to enable\
   high-throughput experiments through automation and pipeline development."
 
