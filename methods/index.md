@@ -194,7 +194,7 @@ _Mon Oct 28_
 - 2-5PM - EM data processing - Orion Accounts, [cisTEM](https://cistem.org/) introduction and [paper](https://elifesciences.org/articles/35383), ATP data (Fraser)
 
 _Mon Oct 28_
-- 1-2PM Yifan Cheng
+- 1-2PM Yifan Cheng - [lecture 2/3](https://drive.google.com/file/d/0Bx0d95RwVYufa1JsdThKM3dvUUlXeHlmQmFHS1pqX1FMWTZB/view?usp=sharing)
 - 2-5PM - EM data processing - Apo data and using 2D classes to get a rough idea of how ATP alters the conformational equilibrium (Fraser)
 
 _Mon Oct 28_
