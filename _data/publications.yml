@@ -42,7 +42,7 @@
   date: 201810
   image: '/static/img/pub/thompson_2018.jpg'
   pmid: 31527847
-  pmcid: Submitted
+  pmcid: PMC6815256
   biorxiv: "476432"
   pdf: '/static/pdf/thompson_nchem_2019.pdf'
   links:
@@ -273,7 +273,7 @@ from small macromolecular crystals. *Submitted - Preprint on BioRxiv*. 2019.'
   date: 201809
   image: '/static/img/pub/qfit_ligand.gif'
   pmid: 30457858
-  pmcid: In Process
+  pmcid: PMC6820680
   biorxiv: "253419"
   pdf: '/static/pdf/qfit_ligand.pdf'
   links:
