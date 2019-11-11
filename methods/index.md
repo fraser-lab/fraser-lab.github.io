@@ -211,22 +211,28 @@ _Mon Oct 28_
 **Week 5 - Crystal Growing and X-ray data processing 1** o
 
 _Reading on Rigor and reproducibility in Crystallography:_
-- R-free
-- Molprobity
-- Data Challenges and synthetic data
+- [R-free](https://www.nature.com/articles/355472a0)
+- [Molprobity](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2803126/)
+- [Data Challenges and synthetic data](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6400260/)
 
 _Tues Nov 12_
-- 1-3PM X-ray practical in X-ray lab (setting trays, soaking, etc)
-- 3-5PM begin X-ray data processing
+The X-ray Facility is in room GH 112 - please show up at the time listed and wait outside the door for Aashish/Bryan to let you in.
+
+- 1:00-3:00: Bjorkman, Franklin, Hodgkin in crystallography facility
+- 3:00-5:00: Low, Yonath in crystallography facility
+
 
 _Weds Nov 13_
-- 1-5PM begin X-ray data processing
+- 1:00-2:30: What’s the deal with the spots?
+- BREAK
+- 3:00-5:00: Spots to intensities, XDS workup of data in class
+
  - [Slides about Crystal Symmetry](/static/pdf/methods/MacroMethods_Hsp90_symmetry_2018.pdf)
  - [Box link to ADP images](https://ucsf.box.com/s/i85gxe5prx9z3ov5hdftqgy1skdevca7) - Download
-  - [xia2 summary for APO](/static/apo/xia2.html)
-    - [APO mtz](/static/apo/DataFiles/yHSP90_APO.mtz)
   - [xia2 summary for ADP](/static/adp/xia2.html)
     - [ADP mtz](/static/adp/DataFiles/yHSP90_ADP.mtz)
+  - [xia2 summary for APO](/static/apo/xia2.html)
+    - [APO mtz](/static/apo/DataFiles/yHSP90_APO.mtz)
 
 **Week 6 -  NMR practical**
 - Week of Nov 18 - M, T, W 1-5PM NMR practical
