@@ -208,7 +208,7 @@ _Mon Oct 28_
 - Fri Nov 8 - 8AM-5PM - ALL BIOPHYSICS Students (7)
 - [directions to the ALS](https://als.lbl.gov/onsite-access/), we will travel together on BART Nov 7 and 8, but just in case! Or Aashish will modify plan here
 
-**Week 5 - Crystal Growing and X-ray data processing 1** o
+**Week 5 - Crystal Growing and X-ray data processing 1** 
 
 _Reading on Rigor and reproducibility in Crystallography:_
 - [R-free](https://www.nature.com/articles/355472a0)
