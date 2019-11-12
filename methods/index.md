@@ -257,8 +257,9 @@ Meet Ryan Tibble outside the [NMR suite](https://pharm.ucsf.edu/nmr) (GH-S102)
 **Week 7 - NMR data processing**
 
 _Reading on Rigor and reproducibility in NMR:_
-- Q-scores
-- Integrative modeling
+- [Tools for validating NMR structures](https://www.ncbi.nlm.nih.gov/pubmed/23877928)
+- [Q-scores](https://pubs.acs.org/doi/10.1021/ja0386804)
+- [Integrative modeling](https://salilab.org/pdf/Rout_Cell_2019.pdf)
 
 _Mon Dec 2_
 
