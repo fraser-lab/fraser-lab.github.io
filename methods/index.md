@@ -237,17 +237,19 @@ _Weds Nov 13_
 **Week 6 -  NMR practical**
 
 _Mon Nov 18_
-Meet Ryan Tibble outside the NMR suite (GH-S102)
-- 1-3pm--Bjorkman
+
+Meet Ryan Tibble outside the [NMR suite](https://pharm.ucsf.edu/nmr) (GH-S102)- 1-3pm--Bjorkman
 - 3-5pm--Franklin
 
 _Tues Nov 19_
+
 Meet Ryan Tibble outside the [NMR suite](https://pharm.ucsf.edu/nmr) (GH-S102)
 - 1-3pm--Hodgkin
 - 3-5pm--Low
 
 _Weds Nov 20_
-Meet Ryan Tibble outside the NMR suite (GH-S102)
+
+Meet Ryan Tibble outside the [NMR suite](https://pharm.ucsf.edu/nmr) (GH-S102)
 - 1-3pm--Yonath
 
 **THANKSGIVING WEEK - NO CLASS**
