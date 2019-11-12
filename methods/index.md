@@ -208,7 +208,7 @@ _Mon Oct 28_
 - Fri Nov 8 - 8AM-5PM - ALL BIOPHYSICS Students (7)
 - [directions to the ALS](https://als.lbl.gov/onsite-access/), we will travel together on BART Nov 7 and 8, but just in case! Or Aashish will modify plan here
 
-**Week 5 - Crystal Growing and X-ray data processing 1** 
+**Week 5 - Crystal Growing and X-ray data processing 1**
 
 _Reading on Rigor and reproducibility in Crystallography:_
 - [R-free](https://www.nature.com/articles/355472a0)
@@ -235,19 +235,20 @@ _Weds Nov 13_
     - [APO mtz](/static/apo/DataFiles/yHSP90_APO.mtz)
 
 **Week 6 -  NMR practical**
-- Week of Nov 18 - M, T, W 1-5PM NMR practical
 
-- Mon Nov 18_
-NMR practical (need instructions feedback from Ryan here)
+_Mon Nov 18_
+Meet Ryan Tibble outside the NMR suite (GH-S102)
+- 1-3pm--Bjorkman
+- 3-5pm--Franklin
 
-- Tues Nov 19_
-NMR practical (need instructions feedback from Ryan here)
+_Tues Nov 19_
+Meet Ryan Tibble outside the [NMR suite](https://pharm.ucsf.edu/nmr) (GH-S102)
+- 1-3pm--Hodgkin
+- 3-5pm--Low
 
-- Weds Nov 20_
-NMR practical (need instructions feedback from Ryan here)
-
-- [from FID to 2D](/static/pdf/methods/2DNMR_Processing_Tutorial.pdf) (Ryan Tibble and John Gross)
-- [Intro to Sparky](/static/pdf/methods/Sparky_tutorial.pdf)
+_Weds Nov 20_
+Meet Ryan Tibble outside the NMR suite (GH-S102)
+- 1-3pm--Yonath
 
 **THANKSGIVING WEEK - NO CLASS**
 
@@ -258,6 +259,9 @@ _Reading on Rigor and reproducibility in NMR:_
 - Integrative modeling
 
 _Mon Dec 2_
+
+- [from FID to 2D](/static/pdf/methods/2DNMR_Processing_Tutorial.pdf) (Ryan Tibble and John Gross)
+- [Intro to Sparky](/static/pdf/methods/Sparky_tutorial.pdf)
 
 - 1-4PM Ryan Tibble Data Processing
 - 4-5PM Stephen Floor Lecture
