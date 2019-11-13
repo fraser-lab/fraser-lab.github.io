@@ -224,6 +224,7 @@ The X-ray Facility is in room GH 112 - please show up at the time listed and wai
 
 _Weds Nov 13_
 - 1:00-2:30: What’s the deal with the spots?
+- [A great resource on why certain spacegroups are favoured/allowed](https://people.mbi.ucla.edu/yeates/old_space_group_freq.html)
 - BREAK
 - 3:00-5:00: Spots to intensities, XDS workup of data in class
 
