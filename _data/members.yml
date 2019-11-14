@@ -150,6 +150,7 @@
 - name: Jenna Pellegrino
   image: /static/img/members/Pellegrino.jpg
   altimage: /static/img/members/Pellegrino_pb.jpg
+  pronouns: she/her/hers
   position: Graduate Student
   email: jenna.pellegrino (at) ucsf.edu
   orcid: 0000-0002-6212-395X
