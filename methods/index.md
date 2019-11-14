@@ -208,58 +208,73 @@ _Mon Oct 28_
 - Fri Nov 8 - 8AM-5PM - ALL BIOPHYSICS Students (7)
 - [directions to the ALS](https://als.lbl.gov/onsite-access/), we will travel together on BART Nov 7 and 8, but just in case! Or Aashish will modify plan here
 
-**Week 5 - Crystal Growing and X-ray data processing 1** o
+**Week 5 - Crystal Growing and X-ray data processing 1**
 
 _Reading on Rigor and reproducibility in Crystallography:_
-- R-free
-- Molprobity
-- Data Challenges and synthetic data
+- [R-free](https://www.nature.com/articles/355472a0)
+- [Molprobity](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2803126/)
+- [Data Challenges and synthetic data](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6400260/)
 
 _Tues Nov 12_
-- 1-3PM X-ray practical in X-ray lab (setting trays, soaking, etc)
-- 3-5PM begin X-ray data processing
+The X-ray Facility is in room GH 112 - please show up at the time listed and wait outside the door for Aashish/Bryan to let you in.
+
+- 1:00-3:00: Bjorkman, Franklin, Hodgkin in crystallography facility
+- 3:00-5:00: Low, Yonath in crystallography facility
+
 
 _Weds Nov 13_
-- 1-5PM begin X-ray data processing
+- 1:00-2:30: What’s the deal with the spots?
+- [A great resource on why certain spacegroups are favoured/allowed](https://people.mbi.ucla.edu/yeates/old_space_group_freq.html)
+- BREAK
+- 3:00-5:00: Spots to intensities, XDS workup of data in class
+
  - [Slides about Crystal Symmetry](/static/pdf/methods/MacroMethods_Hsp90_symmetry_2018.pdf)
  - [Box link to ADP images](https://ucsf.box.com/s/i85gxe5prx9z3ov5hdftqgy1skdevca7) - Download
-  - [xia2 summary for APO](/static/apo/xia2.html)
-    - [APO mtz](/static/apo/DataFiles/yHSP90_APO.mtz)
   - [xia2 summary for ADP](/static/adp/xia2.html)
     - [ADP mtz](/static/adp/DataFiles/yHSP90_ADP.mtz)
+  - [xia2 summary for APO](/static/apo/xia2.html)
+    - [APO mtz](/static/apo/DataFiles/yHSP90_APO.mtz)
 
 **Week 6 -  NMR practical**
-- Week of Nov 18 - M, T, W 1-5PM NMR practical
 
-- Mon Nov 18_
-NMR practical (need instructions feedback from Ryan here)
+_Mon Nov 18_
 
-- Tues Nov 19_
-NMR practical (need instructions feedback from Ryan here)
+Meet Ryan Tibble outside the [NMR suite](https://pharm.ucsf.edu/nmr) (GH-S102)
+- 1-3pm--Bjorkman
+- 3-5pm--Franklin
 
-- Weds Nov 20_
-NMR practical (need instructions feedback from Ryan here)
+_Tues Nov 19_
 
-- [from FID to 2D](/static/pdf/methods/2DNMR_Processing_Tutorial.pdf) (Ryan Tibble and John Gross)
-- [Intro to Sparky](/static/pdf/methods/Sparky_tutorial.pdf)
+Meet Ryan Tibble outside the [NMR suite](https://pharm.ucsf.edu/nmr) (GH-S102)
+- 1-3pm--Hodgkin
+- 3-5pm--Low
+
+_Weds Nov 20_
+
+Meet Ryan Tibble outside the [NMR suite](https://pharm.ucsf.edu/nmr) (GH-S102)
+- 1-3pm--Yonath
 
 **THANKSGIVING WEEK - NO CLASS**
 
 **Week 7 - NMR data processing**
 
 _Reading on Rigor and reproducibility in NMR:_
-- Q-scores
-- Integrative modeling
+- [Tools for validating NMR structures](https://www.ncbi.nlm.nih.gov/pubmed/23877928)
+- [Q-scores](https://pubs.acs.org/doi/10.1021/ja0386804)
+- [Integrative modeling](https://salilab.org/pdf/Rout_Cell_2019.pdf)
 
 _Mon Dec 2_
 
+- [from FID to 2D](/static/pdf/methods/2DNMR_Processing_Tutorial.pdf) (Ryan Tibble and John Gross)
+- [Intro to Sparky](/static/pdf/methods/Sparky_tutorial.pdf)
+
 - 1-4PM Ryan Tibble Data Processing
-- 4-5PM Stephen Floor Lecture
-- Lecture by John Gross on fundamentals of NMR theory to HSQC, [NMR lecture notes](https://ucsf.box.com/s/3uk61vjpzp8ilmq53l89gdug4lnek5d1)
-- 2:30-5pm work on analyzing NMR titration data to determine Kd (Ryan Tibble and John Gross), [Common Sparky Commands](/static/pdf/methods/Sparky_common_cmds.pdf) and [Sparky Integration Tutorial](/static/pdf/methods/Sparky_Integration.pdf)
+- Work on analyzing NMR titration data to determine Kd (Ryan Tibble and John Gross), [Common Sparky Commands](/static/pdf/methods/Sparky_common_cmds.pdf) and [Sparky Integration Tutorial](/static/pdf/methods/Sparky_Integration.pdf)
 -supplemental reading: [How does an HSQC work?](/static/pdf/methods/HSQC-Guided-tour.pdf)
 - chemical shift perturbation plot versus primary sequence; mapping onto structure, [CSPs from Sparky Lists](/static/pdf/methods/Sparky_CSP.py)
 - [NMR Screen Compound Structure Gallery](/static/pdf/methods/Macro_NMR_Screen_Cmpd_Structures.pdf)
+- 4-5PM Stephen Floor Lecture
+  - Lecture by John Gross on fundamentals of NMR theory to HSQC, [NMR lecture notes](https://ucsf.box.com/s/3uk61vjpzp8ilmq53l89gdug4lnek5d1)
 
 _Tues Dec 3_
 
