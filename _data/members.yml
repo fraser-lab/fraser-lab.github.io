@@ -106,6 +106,7 @@
 - name: D. John Lee
   image: /static/img/members/Lee.jpg
   altimage: /static/img/members/Lee_pb.jpg
+  pronouns: he/him/his
   position: Postdoc
   email: djohnlee (at) fraserlab.com
   scholar: vJBNuDUAAAAJ
