@@ -62,6 +62,7 @@
 - name: Galen Correy
   image: /static/img/members/Correy.jpg
   altimage: /static/img/members/Correy_pb.jpg
+  pronouns: he/him/his
   position: Postdoc
   email: galen.correy (at) ucsf.edu
   description: "Galen’s research interest lies in using structural biology to tackle problems in protein engineering \
