@@ -267,23 +267,23 @@ _Mon Dec 2_
 - [from FID to 2D](/static/pdf/methods/2DNMR_Processing_Tutorial.pdf) (Ryan Tibble and John Gross)
 - [Intro to Sparky](/static/pdf/methods/Sparky_tutorial.pdf)
 
-- 1-4PM Ryan Tibble Data Processing
+- 1-3, 4-5PM Ryan Tibble Data Processing
 - Work on analyzing NMR titration data to determine Kd (Ryan Tibble and John Gross), [Common Sparky Commands](/static/pdf/methods/Sparky_common_cmds.pdf) and [Sparky Integration Tutorial](/static/pdf/methods/Sparky_Integration.pdf)
 -supplemental reading: [How does an HSQC work?](/static/pdf/methods/HSQC-Guided-tour.pdf)
 - chemical shift perturbation plot versus primary sequence; mapping onto structure, [CSPs from Sparky Lists](/static/pdf/methods/Sparky_CSP.py)
 - [NMR Screen Compound Structure Gallery](/static/pdf/methods/Macro_NMR_Screen_Cmpd_Structures.pdf)
-- 4-5PM Stephen Floor Lecture
+- 3-4PM Stephen Floor Lecture
   - Lecture by John Gross on fundamentals of NMR theory to HSQC, [NMR lecture notes](https://ucsf.box.com/s/3uk61vjpzp8ilmq53l89gdug4lnek5d1)
 
 _Tues Dec 3_
 
-- 1-4PM Ryan Tibble Data Processing
-- 4-5PM Stephen Floor Lecture
+- 1-3, 4-5PMPM Ryan Tibble Data Processing
+- 3-4PM Stephen Floor Lecture
 
 _Weds Dec 4_
 
-- 1-4PM Ryan Tibble Data Processing
-- 4-5PM Stephen Floor Lecture
+- 1-3, 4-5PMPM Ryan Tibble Data Processing
+- 3-4PM Stephen Floor Lecture
 
 
 **Week 8 - X-ray data processing**
