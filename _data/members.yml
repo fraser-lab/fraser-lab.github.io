@@ -38,6 +38,7 @@
   email: justin.biel (at) ucsf.edu
   scholar: FatB6VQAAAAJ
   twitter: thebieldeal
+  githug: bielj
   orcid: 0000-0002-0935-8362
   description: "Justin graduated from Oregon State University with a degree in Biochemistry and Biophysics. \
   He conducted research in both the laboratories of Dr. Elisar Barbar studying dynein protein interactions, and Dr. P. Andrew \
@@ -52,6 +53,7 @@
   altimage: /static/img/members/Chaires_pb.jpg
   pronouns: he/him/his
   position: Junior Specialist
+  github: hcaires
   email: hchaires (at) fraserlab.com
   description: "Hector graduated from Rice University with a degree in Biochemistry and Cell Biology. Under the guidance of \
   Dr. George Phillips, he studied the kinetics of BlaC, an enzyme that confers on bacterial pathogens a resistance to \
@@ -62,7 +64,9 @@
 - name: Galen Correy
   image: /static/img/members/Correy.jpg
   altimage: /static/img/members/Correy_pb.jpg
+  pronouns: he/him/his
   position: Postdoc
+  github: gcorrey
   email: galen.correy (at) ucsf.edu
   description: "Galen’s research interest lies in using structural biology to tackle problems in protein engineering \
   and drug design. He earned his PhD from the Australian National University, where he worked with Dr. Colin Jackson on the \
@@ -97,6 +101,7 @@
   pronouns: she/her/hers
   email: gabriella.estevam (at) ucsf.edu
   twitter: GabbyEstevam
+  github: gestevam
   description: "Gabby graduated from UC Santa Cruz with a degree in Biochemistry and Molecular Biology. \
   As an undergraduate, she studied the structure and dynamics of telomeres and telomerase under the mentorship of Dr. Michael \
   Stone, where her focus was on developing a high-throughput platform to study telomere lengthening. In the Fraser Lab, \
@@ -106,8 +111,10 @@
 - name: D. John Lee
   image: /static/img/members/Lee.jpg
   altimage: /static/img/members/Lee_pb.jpg
+  pronouns: he/him/his
   position: Postdoc
   email: djohnlee (at) fraserlab.com
+  github: djohnlee
   scholar: vJBNuDUAAAAJ
   linkedin: djohnlee
   description: "John earned his Ph.D. working with Dr. Michael Burkart at the University of California, San Diego. \
@@ -123,6 +130,7 @@
   altimage: /static/img/members/Liu_pb.jpg
   position: Staff Scientist
   email: lin.liu (at) ucsf.edu
+  github: lliu1234
   scholar: 5kUDcJ0AAAAJ
   description: "Lin was a graduate student at University of Pittsburgh with Dr. Angela Gronenborn and Dr. Ivet Bahar. Next, \
   Lin was a joint post-doc and Li Foundation fellow between the Kortemme and Fraser labs, using computational and \
@@ -150,6 +158,7 @@
 - name: Jenna Pellegrino
   image: /static/img/members/Pellegrino.jpg
   altimage: /static/img/members/Pellegrino_pb.jpg
+  pronouns: she/her/hers
   position: Graduate Student
   email: jenna.pellegrino (at) ucsf.edu
   orcid: 0000-0002-6212-395X
@@ -178,8 +187,10 @@
   image: /static/img/members/EThompson.jpg
   altimage: /static/img/members/EThompson_pb.jpg
   position: Graduate Student
+  pronouns: she/her/hers
   email: eposs (at) fraserlab.com
   twitter: ernpossible
+  github: eposs
   description: "Erin graduated from Drake University with a degree in Biochemistry and Chemistry.  As an undergraduate, \
   Erin worked in several labs ranging from exercise physiology to biophysics. In her free time, she enjoys running, hiking, \
   and exploring San Francisco.
@@ -195,6 +206,7 @@
   email: mct.ucsf (at) gmail.com
   scholar: KDvVpWYAAAAJ
   twitter: mctucsf
+  github: miket928
   orcid: 0000-0002-6099-2027
   description: "Mike's longstanding research interest lies in understanding how proteins function by dynamically interconverting between different conformational states. \
         He was introduced to structural biology and X-ray crystallography as an undergraduate at UC Berkeley, \
@@ -219,6 +231,7 @@
   scholar: WJ9lxYMAAAAJ
   orcid: 0000-0002-4225-7459
   twitter: stephanie_mul
+  github: stephaniewanko
   description: "Stephanie graduated from the University of Massachusetts Amherst with a degree in Biochemistry and \
   Molecular Biology. During undergrad, she performed research on pancreas development under Dr. Kimberly Tremblay. \
   She also performed research on economics of the Clean Water Act under Dr. Paul Kolkoswki. Subsequently, she worked as a \
@@ -234,6 +247,7 @@
   email: LifeHasOrder (at) gmail.com
   scholar: EqoaChsAAAAJ
   twitter: LifeHasOrder
+  github: LifeHasOrder
   orcid: 0000-0003-0474-7673
   description: "Alex earned a B.S. in Kinesiology & Health Promotion, and a M.S. in Molecular \
           Biology, from the University of Wyoming. During his time there, he became \
