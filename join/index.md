@@ -4,7 +4,7 @@ layout: default
 group: join
 ---
 
-# Graduate Programs
+# Graduate Students
 
 At UCSF, students can apply to a single [graduate program](https://graduate.ucsf.edu/prospective-students) and do not apply directly to labs. During the first year of a PhD program, students rotate through ~3 labs prior to deciding on a thesis lab. Our lab is usually open for rotation students every quarter and will generally have room for 1-2 new graduate students (regardless of program affiliation) per year.
 
