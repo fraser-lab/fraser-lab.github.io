@@ -6,7 +6,7 @@ group: join
 
 # Graduate Programs
 
-At UCSF, students can apply to a single [graduate program](https://graduate.ucsf.edu/prospective-students) and do not apply directly to labs. During the first year of a PhD program, students rotate through ~3 labs prior to deciding on a thesis lab. We are usually open for rotation students every quarter and will generally have room for 1-2 new graduate students per year.
+At UCSF, students can apply to a single [graduate program](https://graduate.ucsf.edu/prospective-students) and do not apply directly to labs. During the first year of a PhD program, students rotate through ~3 labs prior to deciding on a thesis lab. Our lab is usually open for rotation students every quarter and will generally have room for 1-2 new graduate students (regardless of program affiliation) per year.
 
 ### The Fraser Lab participates in the following UCSF graduate programs:
   * **[Biophysics](http://biophysics.ucsf.edu/)**: The Biophysics Graduate Program (BP) at the University of California, San Francisco (UCSF) prepares scientists to leverage new and emerging research tools—from nanotechnology to nuclear magnetic resonance spectroscopy—to quantify biological processes in living biological systems using physics and chemistry.
@@ -16,12 +16,12 @@ At UCSF, students can apply to a single [graduate program](https://graduate.ucsf
 
 # Postdoctoral Fellows
 
-Inquiries about Postdoctoral positions should be emailed directly to James Fraser. We welcome applicants of any race, religion, national origin, gender identity, caregiver and family commitments, political affiliation, sexual orientation, and eligible age or ability. Furthermore, we are committed to maintaining a supportive and collaborative lab environment. We encourage exploratory inquiries!
+Inquiries about Postdoctoral positions should be emailed directly to James Fraser. Our lab welcomes applicants of any race, religion, national origin, gender identity, caregiver and family commitments, political affiliation, sexual orientation, and eligible age or ability. Furthermore, we are committed to maintaining a supportive and collaborative lab environment. We encourage exploratory inquiries!
 
-We don’t generally post for specific positions, so please reach out! We are interested in engaging you in a conversation about your scientific background and goals for your future career (in academia, industry, or other ventures). We strive to provide excellent training across a wide range of computational and experimental techniques.
+Our lab doesn’t generally post for specific positions, so please reach out! We are interested in engaging you in a conversation about your scientific background and goals for your future career (in academia, industry, or other ventures). We strive to provide excellent training across a wide range of computational and experimental techniques.
 
 Candidates will be encouraged to explore applying for extramural fellowships to support their research.
 
 # Other
 
-In the past, we have enjoyed having foreign exchange students, interns, sabbatical visitors from academia and industry, and post-bac technicians in the lab.  We are open to other arrangements as well. As we expect people to be fairly compensated for their work by their home institution or by us, we do not have volunteer positions available. Note: we take high school students exclusively through the [UCSF SEP program](http://sep.ucsf.edu/).
+In the past, our lab has enjoyed having foreign exchange students, interns, sabbatical visitors from academia and industry, and post-bac technicians in the lab.  We are open to other arrangements as well. As we expect people to be fairly compensated for their work by their home institution or by us, we do not have volunteer positions available. Note: we take high school students exclusively through the [UCSF SEP program](http://sep.ucsf.edu/).
