@@ -128,6 +128,7 @@
 - name: Lin Liu
   image: /static/img/members/Liu.jpg
   altimage: /static/img/members/Liu_pb.jpg
+  pronouns: she/her/hers
   position: Staff Scientist
   email: lin.liu (at) ucsf.edu
   github: lliu1234
