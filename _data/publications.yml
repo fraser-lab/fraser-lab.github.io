@@ -190,13 +190,13 @@ from small macromolecular crystals. *Submitted - Preprint on BioRxiv*. 2019.'
     - name: Stimulus-responsive self-assembly of protein-based fractals by computational design
       url: https://doi.org/10.1038/s41557-019-0277-y
 
-- citation: 'Glasgow AA, Huang Y, Mandell DJ, **Thompson M**, Ritterson R, Loshbaugh AL, **Pellegrino J**, Krivacic C, Pache RA, Barlow KA, Ollikainen N, Jeon D, Kelly MJS, **Fraser JS**, Kortemme T. Computational design of a modular protein sense/response system. *Submitted - Preprint on BioRxiv*. 2019.'
+- citation: 'Glasgow AA, Huang Y, Mandell DJ, **Thompson M**, Ritterson R, Loshbaugh AL, **Pellegrino J**, Krivacic C, Pache RA, Barlow KA, Ollikainen N, Jeon D, Kelly MJS, **Fraser JS**, Kortemme T. Computational design of a modular protein sense/response system. *Science*. 2019.'
   date: 201904
   image: '/static/img/pub/biosensor_2019.jpg'
   pmid: Submitted
   pmcid: Submitted
   biorxiv: "648485"
-  pdf: 'https://www.biorxiv.org/content/biorxiv/early/2019/05/24/648485.full.pdf'
+  pdf: '/static/pdf/biosensor_2019.pdf'
   pdbs:
     - 6OB5
   links:
