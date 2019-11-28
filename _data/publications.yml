@@ -126,7 +126,7 @@ from small macromolecular crystals. *Submitted - Preprint on BioRxiv*. 2019.'
     - pdb: 6PJ6
       emdb: "20353"
   zenodo:
-    - code: "3270945"
+    - code: "3555658"
       description: qPTxM code snapshot
   links:
     - name: Fujimori lab
