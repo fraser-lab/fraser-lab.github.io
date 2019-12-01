@@ -273,18 +273,18 @@ _Mon Dec 2_
 -supplemental reading: [How does an HSQC work?](/static/pdf/methods/HSQC-Guided-tour.pdf)
 - chemical shift perturbation plot versus primary sequence; mapping onto structure, [CSPs from Sparky Lists](/static/pdf/methods/Sparky_CSP.py)
 - [NMR Screen Compound Structure Gallery](/static/pdf/methods/Macro_NMR_Screen_Cmpd_Structures.pdf)
-- 3-4PM Stephen Floor Lecture
-  - Lecture by John Gross on fundamentals of NMR theory to HSQC, [NMR lecture notes](https://ucsf.box.com/s/3uk61vjpzp8ilmq53l89gdug4lnek5d1)
+- 3-4PM [Stephen Floor Lecture](https://www.dropbox.com/s/kl9dkp4lncuvc25/Methods-NMR-2019.pdf?dl=0)
+
 
 _Tues Dec 3_
 
 - 1-3, 4-5PMPM Ryan Tibble Data Processing
-- 3-4PM Stephen Floor Lecture
+- 3-4PM [Stephen Floor Lecture](https://www.dropbox.com/s/kl9dkp4lncuvc25/Methods-NMR-2019.pdf?dl=0)
 
 _Weds Dec 4_
 
 - 1-3, 4-5PMPM Ryan Tibble Data Processing
-- 3-4PM Stephen Floor Lecture
+- 3-4PM [Stephen Floor Lecture](https://www.dropbox.com/s/kl9dkp4lncuvc25/Methods-NMR-2019.pdf?dl=0)
 
 
 **Week 8 - X-ray data processing**
