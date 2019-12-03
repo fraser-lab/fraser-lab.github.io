@@ -1,16 +1,16 @@
 {% include header.html %}
 
-<img class="img-responsive center-block" src="/static/img/fraseratucsf.jpg" alt="Fraser at UCSF, in molecular form">
-<div class="row-fluid">
-    <div class="col-sm-8">
-    	
-    	<div class="jumbotron">
-        	{{ content }}
+<div class="container px-2 max-width: 100%">
+    <img class="rounded mx-auto d-block" src="/static/img/fraseratucsf.jpg" alt="Fraser at UCSF, in molecular form">
+    <div class="row"> 
+        <div class="col-sm-8">	
+    	    <div class="jumbotron h-100">
+        	    {{ content }}
+            </div>
+        </div>
+        <div class="col">
+            {% include sidebar.html %}
         </div>
     </div>
-    <div class="col-sm-4">
-        {% include sidebar.html %}
-    </div>
 </div>
-
 {% include footer.html %}

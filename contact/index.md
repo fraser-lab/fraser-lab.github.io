@@ -90,4 +90,4 @@ San Francisco, CA 94143
 5. Make your second left (south) to the S401-484 neighborhood
 6. James' office is through the clear doors, the lab is on your right.
 
-<img class="img-responsive center-block" src="/static/img/map_to_mission_bay.png" alt="Map of Mission Bay">
+<img class="img-fluid" src="/static/img/map_to_mission_bay.png" alt="Map of Mission Bay">

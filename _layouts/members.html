@@ -1,15 +1,19 @@
 {% include header.html %}
-
-<img class="img-responsive center-block" src="/static/img/members/drawings/2019_FraserLab.png" title="This wonderful illustration was courtesy of Jennifer Li" alt="Lab Group Illustration (credit Jennifer Li)">
-<div class="row-fluid">
-    <div class="col-sm-8">
-        {{ content }}
+<div class="container">
+   <img class="img-fluid" src="/static/img/members/drawings/2019_FraserLab.png" title="This wonderful illustration was courtesy of Jennifer Li" alt="Lab Group Illustration (credit Jennifer Li)">
+   <div class="row">
+       <div class="col-sm-9">
+           <br>
+           {{ content }}
     </div>
-    <div class="col-sm-4">
+    <div class="col-sm-3 smalltxt">
+        <br>
         {% capture sidebar %}{% include alumni_sidebar.md %}{% endcapture %}
         {{ sidebar | markdownify }}
     </div>
 </div>
 <br>
-<img class="img-responsive center-block" src="/static/img/members/drawings/2019_FraserLabAlumni_2.png" alt="We miss our alumni!">
+<img class="img-fluid" src="/static/img/members/drawings/2019_FraserLabAlumni_2.png" alt="We miss our alumni!">
+</div>
 {% include footer.html %}
+
