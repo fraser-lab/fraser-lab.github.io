@@ -1,10 +1,10 @@
-name: "Fraser Lab @ UCSF"
+name: "Fraser Lab"
 description: "This is the official web page for the James Fraser Lab at UCSF."
 
 url: "http://fraserlab.com"
 
 paginate: 5
-gems: [jekyll-paginate]
+plugins: [jekyll-paginate]
 paginate_path: "news/page:num"
 
 permalink: pretty
