@@ -233,7 +233,7 @@ from small macromolecular crystals. *Submitted - Preprint on BioRxiv*. 2019.'
     - name: 'Paper Submission Celebration Tweets'
       url: 'https://twitter.com/fraser_lab/status/1083223409993998337'
 
-- citation: 'DasGupta M, Budday D, Madzelan, Seravalli J, Hayes B, Sierra RG, Alonso-Mori R, Brewster AS, Sauter NK, Applegate GA, Tiwari V, Berkowitz DB, **Thompson MC, Fraser JS**, Wall ME,  van den Bedem H, Wilson MA. Cysteine modification can gate non-equilibrium conformational dynamics during enzyme catalysis. *Submitted - Preprint on BioRxiv*. 2019.'
+- citation: 'Dasgupta M, Budday D, *Oliveira SHP*, Madzelan P, Marchany-Rivera D, Seravalli J, Hayes B, Sierra RG, Boutet S, Hunter MS, Alonso-Mori R, Batyuk A, Wierman J, Lyubimov A, Brewster AS, Sauter NK, Applegate GA, Tiwari VK, Berkowitz DB, *Thompson MC*, Cohen AE, *Fraser JS*, Wall ME, van den Bedem H, Wilson MA. Mix-and-inject XFEL crystallography reveals gated conformational dynamics during enzyme catalysis. *PNAS*. 2019.'
   date: 201903
   image: '/static/img/pub/DasGupta_2019.jpg'
   pmid: Submitted
@@ -488,7 +488,7 @@ from small macromolecular crystals. *Submitted - Preprint on BioRxiv*. 2019.'
       url: 'https://twitter.com/LifeHasOrder/status/930291172668403712'
 
 - citation: 'Thomaston JL, **Woldeyes RA**, Nakane T, Yamashita A, Tanaka T, Koiwai K, Brewster AS, **Barad BA**, Chen Y, Lemmin T, Uervirojnangkoorn M, Arima T, Kobayashi J, Masuda T, Suzuki M, Sugahara M, Sauter NK, Tanaka R, Nureki O, Tono K, Joti Y, Nango E, Iwata S, Yumoto F, **Fraser JS**, DeGrado WF. XFEL structures of the influenza M2 proton channel: Room temperature water networks and insights
-into proton conduction. *Proceedings of the National Academy of Sciences*. 2017.'
+into proton conduction. *PNAS*. 2017.'
   date: 201707
   image: '/static/img/pub/thomaston_2017.jpg'
   pmid: 28835537
@@ -606,7 +606,7 @@ into proton conduction. *Proceedings of the National Academy of Sciences*. 2017.
     - name: 'eLIFEdigest: Yeast in a class of their own'
       url: 'https://medium.com/lifes-building-blocks/yeast-in-a-class-of-their-own-4dabb27653eb#.tcf71ly8z'
 
-- citation: '**Van Benschoten AH**, **Liu L**, Gonzalez A, Brewster AS, Sauter NK, **Fraser JS**, Wall ME. Measuring and modeling diffuse scattering in protein X-ray crystallography. *Proceedings of the National Academy of Sciences*, 2016.'
+- citation: '**Van Benschoten AH**, **Liu L**, Gonzalez A, Brewster AS, Sauter NK, **Fraser JS**, Wall ME. Measuring and modeling diffuse scattering in protein X-ray crystallography. *PNAS*, 2016.'
   date: 201604
   image: '/static/img/pub/avb_3_2015.jpg'
   pmid: 27035972
@@ -665,7 +665,7 @@ into proton conduction. *Proceedings of the National Academy of Sciences*. 2017.
       - name: LCLS XPP Beamline
         url: 'https://portal.slac.stanford.edu/sites/lcls_public/instruments/xpp/Pages/default.aspx'
 
-- citation: 'Thomaston JL, Alfonso-Prieto M, **Woldeyes RA**, **Fraser JS**, Klein ML, Fiorin G, DeGrado WF. High resolution structures of the M2 proton channel from influenza A virus reveal  dynamic pathways for proton stabilization and transduction. *Proceedings of the National Academy of Sciences*, 2015.'
+- citation: 'Thomaston JL, Alfonso-Prieto M, **Woldeyes RA**, **Fraser JS**, Klein ML, Fiorin G, DeGrado WF. High resolution structures of the M2 proton channel from influenza A virus reveal  dynamic pathways for proton stabilization and transduction. *PNAS*, 2015.'
   date: 201511
   image: '/static/img/pub/thomaston_2015.jpg'
   pmid: 26578770
@@ -856,7 +856,7 @@ Franks-Skiba KE, Li M, Brown WL, Gunnarsson HI, Adalbjornsdottir A, **Fraser JS*
     # - name: 'Justin\'s figure scripts'
     #   url: 'http://www.fraserlab.com/justin_figures.html'
 
-- citation: 'Wall ME, **VanBenschoten AH**, Sauter NK, Adams PD, **Fraser JS**, Terwilliger TC.  Conformational Dynamics of a Crystalline Protein from Microsecond-Scale Molecular Dynamics Simulations and Diffuse X-Ray Scattering. *Proceedings of the National Academy of Sciences*. 2014'
+- citation: 'Wall ME, **VanBenschoten AH**, Sauter NK, Adams PD, **Fraser JS**, Terwilliger TC.  Conformational Dynamics of a Crystalline Protein from Microsecond-Scale Molecular Dynamics Simulations and Diffuse X-Ray Scattering. *PNAS*. 2014'
   date: 201407
   image: '/static/img/pub/wall_pnas_2014.jpg'
   pmid: 25453071
@@ -975,7 +975,7 @@ Franks-Skiba KE, Li M, Brown WL, Gunnarsson HI, Adalbjornsdottir A, **Fraser JS*
     - name: Meeting Slides and Website
       url: 'http://cci.lbl.gov/dials/oct_2013_diffuse.htm'
 
-- citation: 'Fenwick RB, van den Bedem H, **Fraser JS**, Wright PE.  Integrated description of protein dynamics from room-temperature X-ray crystallography and NMR. *Proceedings of the National Academy of Sciences*. 2014.'
+- citation: 'Fenwick RB, van den Bedem H, **Fraser JS**, Wright PE.  Integrated description of protein dynamics from room-temperature X-ray crystallography and NMR. *PNAS*. 2014.'
   date: 201401
   image: '/static/img/pub/fenwick_pnas_2014.jpg'
   pmid: 24474795
@@ -992,7 +992,7 @@ Franks-Skiba KE, Li M, Brown WL, Gunnarsson HI, Adalbjornsdottir A, **Fraser JS*
     - name: Python Scripts
       url: 'http://www.scripps.edu/wright/mcOPA.tar.gz'
 
-- citation: 'Lang PT, Holton JM, **Fraser JS**, Alber T.  Protein structural ensembles are revealed by redefining X-ray electron density noise. *Proceedings of the National Academy of Sciences*. 2014.'
+- citation: 'Lang PT, Holton JM, **Fraser JS**, Alber T.  Protein structural ensembles are revealed by redefining X-ray electron density noise. *PNAS*. 2014.'
   date: 201401
   image: '/static/img/pub/lang_pnas_2014.jpg'
   pmid: 24363322
@@ -1110,7 +1110,7 @@ Franks-Skiba KE, Li M, Brown WL, Gunnarsson HI, Adalbjornsdottir A, **Fraser JS*
     - name: "Pedro's Public Ramblings: Evolution and Function of Post-translational Modifications"
       url: 'http://www.evocellnet.com/2012/07/evolution-and-function-of-post.html'
 
-- citation: 'Kapp GT, Liu S, Stein A, Wong DT, Reményi A, Yeh BJ, **Fraser JS**, Taunton J, Lim WA, Kortemme T. Control of protein signaling using a computationally designed GTPase/GEF orthogonal pair. *Proceedings of the National Academy of Sciences*. 2012.'
+- citation: 'Kapp GT, Liu S, Stein A, Wong DT, Reményi A, Yeh BJ, **Fraser JS**, Taunton J, Lim WA, Kortemme T. Control of protein signaling using a computationally designed GTPase/GEF orthogonal pair. *PNAS*. 2012.'
   date: 201201
   image: '/static/img/pub/kapp_pnas_2012.jpg'
   pmid: 22403064
@@ -1124,7 +1124,7 @@ Franks-Skiba KE, Li M, Brown WL, Gunnarsson HI, Adalbjornsdottir A, **Fraser JS*
     - name: "PNAS: Designing orthogonal signaling pathways: how to fit in with the surroundings."
       url: 'http://www.ncbi.nlm.nih.gov/pubmed/22451928'
 
-- citation: '**Fraser JS**, van den Bedem H, Samelson AJ, Lang PT, Holton JM, Echols N, Alber T. Accessing protein conformational ensembles by room-temperature X-ray crystallography. *Proceedings of the National Academy of Sciences*. 2011.'
+- citation: '**Fraser JS**, van den Bedem H, Samelson AJ, Lang PT, Holton JM, Echols N, Alber T. Accessing protein conformational ensembles by room-temperature X-ray crystallography. *PNAS*. 2011.'
   date: 201102
   image: '/static/img/pub/fraser_pnas_2011.jpg'
   pmid: 21918110
