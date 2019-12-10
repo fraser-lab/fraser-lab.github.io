@@ -299,7 +299,7 @@ _Weds Dec 11_
 1-5PM Processing and Robert Stroud
 
 
-- [Compound Data Sets](https://www.dropbox.com/sh/lx6nlyb0pyunzeh/AAApd1YManxThiDuh7bfn2O8a?dl=0):
+[Compound Data Sets](https://ucsf.box.com/s/ktk339d97w5p32y7h7noxbsn2ee1soid):
 - Bjorkman: A3, c1, f14, f26, f56, f94, f38, f79
 - Franklin: a44, c23, f16, f33, f65, G8, f53, f63, f83, c2
 - Hodgkin: a50, c4, f20, f36, f71, H5, f67, f69
@@ -315,4 +315,10 @@ _Weds Dec 11_
 
 **FINAL PRESENTATIONS: Mon Dec 16**
 
-Please be on time and wait outside the teaching lab before your presentation. The presentations will be stopped after 15 min and questions will be for 5 minutes. Please email your presentations (use a filename that includes your team number!) to [James Fraser](mailto:jfraser@fraserlab.com) by 12:30PM on Monday Dec 16th.
+- 1:00-1:20   Bjorkman
+- 1:25-1:45   Franklin
+- 1:50-2:10   Hodgkin
+- 2:15-2:35   Low
+- 2:40-3:00   Yonath
+
+Please be on time and wait outside the teaching lab before your presentation. The presentations will be stopped after 15 min and questions will be for 5 minutes. Please email your presentations (google slides, ppt or keynote are fine - use a filename that includes your team name!) to [James Fraser](mailto:jfraser@fraserlab.com) by 12:30PM on Monday Dec 16th.
