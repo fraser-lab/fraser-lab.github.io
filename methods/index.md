@@ -290,13 +290,14 @@ _Weds Dec 4_
 **Week 8 - X-ray data processing**
 
 _Mon Dec 9_
-1-5PM Processing and Robert Stroud
+- 1-5PM Processing and Robert Stroud
 
 _Tues Dec 10_
-1-5PM Processing and Robert Stroud
+- 1-5PM Processing and Robert Stroud
+- [The R-factor gap](https://www.ncbi.nlm.nih.gov/pubmed/25040949)
 
 _Weds Dec 11_
-1-5PM Processing and Robert Stroud
+- 1-5PM Processing and Robert Stroud
 
 
 [Compound Data Sets](https://ucsf.box.com/s/ktk339d97w5p32y7h7noxbsn2ee1soid):
