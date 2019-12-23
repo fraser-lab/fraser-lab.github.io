@@ -49,3 +49,11 @@ How did life evolve?  How can understand the principles of biological systems to
 This minicourse will be a survey of recent and classic papers on antibiotic resistance with an emphasis on evolutionary biology, biochemical mechanisms, and new ideas for chemical matter.  Tetrad minicourse.
 
 - [AMR minicourse](/amrmini)
+
+## Inquiry Immersion -  DRUG DESIGN: Why is it so hard to design new small molecule drugs?
+
+The goal for Inquiry Immersion and the interprofessional Mini-Courses is to help first year students in the healthcare professions shift theirconception of medicine as a series of facts to a vision of medical practice as consistent engagement with an ever-evolving and imperfect body of knowledge.  Focused Mini-Courses offer students the chance to take a deep dive into a controversy or dilemma and explore the boundaries of existing research and scholarship with expert researchers.
+
+Structure based drug design promises to revolutionize drug discovery, yet despite decades of promise, progress remains intermittent. This course will give students an appreciation for the experimental and computational advances that have led to this optimism, while also pointing out the limitations that currently prevent completely unattended design.
+
+- [Drug Design Inquiry mini-course](/inquiry)
