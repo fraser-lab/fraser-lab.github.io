@@ -10,7 +10,7 @@
     padding-bottom: 56.25%;
     padding-top: 30px; height: 0; overflow: hidden;
 }
- 
+
 .video-container iframe,
 .video-container object,
 .video-container embed {
@@ -23,7 +23,7 @@
 
 .chart {
   position: relative;
-  width: 100%; 
+  width: 100%;
   height: 500px
 }
 
@@ -45,7 +45,7 @@
 
 .welcomefont {
   font-size: 1.5em;
-  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
 }
 
 
@@ -57,7 +57,7 @@ body {
 
 /*
 .navbar-default {
-  background-color: #7fab91;
+  background-color: #052049;
   border-color: #668a75;
 }
 
@@ -121,4 +121,3 @@ body {
   }
 }
 */
-
