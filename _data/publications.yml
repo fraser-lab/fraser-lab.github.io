@@ -112,7 +112,7 @@ from small macromolecular crystals. *Submitted - Preprint on BioRxiv*. 2019.'
   pmid: 31548343
   pmcid: Submitted
   biorxiv: "374181"
-  pdf: 'https://www.biorxiv.org/content/biorxiv/early/2018/07/22/374181.full.pdf'
+  pdf: '/static/pdf/rotow_2019.pdf'
   links:
     - name: Bivona Lab
       url: 'http://www.bivonalab.net/'
@@ -241,7 +241,7 @@ from small macromolecular crystals. *Submitted - Preprint on BioRxiv*. 2019.'
   date: 201903
   image: '/static/img/pub/DasGupta_2019.jpg'
   pmid: 31801874
-  pmcid: Submitted
+  pmcid: PMC6926069
   biorxiv: "524751"
   pdf: '/static/pdf/dasgupta_2019.pdf'
   links:
