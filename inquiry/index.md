@@ -39,6 +39,8 @@ Structure-based drug design promises to revolutionize drug discovery, yet despit
 
 **Monday Jan 6 - 2:30-4PM**
 - James Fraser: [Intro to class and contrasting kinase and phosphatase drug discovery](https://www.dropbox.com/s/ly8ivvlml139k8k/inquiry_lecture1.key?dl=0)
+  - [Structural Mechanism for STI-571 Inhibition of Abelson Tyrosine Kinase](https://science.sciencemag.org/content/289/5486/1938.long)
+  - [Allosteric inhibition of SHP2 phosphatase inhibits cancers driven by receptor tyrosine kinases.](https://doi.org/10.1038/nature18621)
 - install [ChimeraX](https://www.rbvi.ucsf.edu/chimerax/download.html)
 
 **Tuesday Jan 7 - 2:30-4PM**
