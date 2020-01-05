@@ -8,7 +8,7 @@ group: courses
 
 **INSTRUCTORS**
 - [James Fraser](mailto:jfraser@fraserlab.com) (Lead Instructor)
-- [Elaine Meng](mailto:meng@cgl.ucsf.edu) (Chimera tutorial January 8)
+- [Tom Goddard](mailto:goddard@sonic.net) (Chimera tutorial January 8)
 - [John Irwin](mailto:John.Irwin@ucsf.edu) (Docking lecture Jan 9)
 - [Tanja Kortemme](mailto:kortemme@cgl.ucsf.edu) (Protein Design leture January 14)
 
@@ -41,7 +41,7 @@ Structure-based drug design promises to revolutionize drug discovery, yet despit
 - James Fraser: on "hts, druggability and forces"
   - Kinases, fragment-based design (Plexxikon)
   - SHP2, phosphatases
-- install ChimeraX
+- install [ChimeraX](https://www.rbvi.ucsf.edu/chimerax/download.html)
 
 **Tuesday Jan 7 - 2:30-4PM**
 - James Fraser: Crystallography 101 and Fragment-based design
@@ -49,7 +49,8 @@ Structure-based drug design promises to revolutionize drug discovery, yet despit
   - Crystalizing Lysozyme
 
 **Wednesday Jan 8 - 2:30-4PM**
-- Elaine Meng: ChimeraX demo
+- Tom Goddard: ChimeraX demo
+  - [Elucidating the active delta-opioid receptor crystal structure with peptide and small-molecule agonists.](https://advances.sciencemag.org/content/5/11/eaax9115) Claff T, Yu J, Blais V, Patel N, Martin C, Wu L, Han GW, Holleran BJ, Van der Poorten O, White KL, Hanson MA, Sarret P, Gendron L, Cherezov V, Katritch V, Ballet S, Liu ZJ, Muller CE, Stevens RC. Sci Adv. 2019 Nov 27;5(11):eaax9115. doi: 10.1126/sciadv.aax9115.
   - VR experience???
 
 **Thursday Jan 9 - 2:30-4PM**
