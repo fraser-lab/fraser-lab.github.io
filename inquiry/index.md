@@ -38,13 +38,11 @@ Structure-based drug design promises to revolutionize drug discovery, yet despit
 ## Schedule ##
 
 **Monday Jan 6 - 2:30-4PM**
-- James Fraser: on "hts, druggability and forces"
-  - Kinases, fragment-based design (Plexxikon)
-  - SHP2, phosphatases
+- James Fraser: [Intro to class and contrasting kinase and phosphatase drug discovery](https://www.dropbox.com/s/ly8ivvlml139k8k/inquiry_lecture1.key?dl=0)
 - install [ChimeraX](https://www.rbvi.ucsf.edu/chimerax/download.html)
 
 **Tuesday Jan 7 - 2:30-4PM**
-- James Fraser: Crystallography 101 and Fragment-based design
+- James Fraser: Fragment-based design and Crystallography 101
 - Liam McKay: Tour of Crystallography facility
   - Crystalizing Lysozyme
 
