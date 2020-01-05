@@ -44,7 +44,10 @@ Structure-based drug design promises to revolutionize drug discovery, yet despit
 - install [ChimeraX](https://www.rbvi.ucsf.edu/chimerax/download.html)
 
 **Tuesday Jan 7 - 2:30-4PM**
-- James Fraser: Fragment-based design and Crystallography 101
+- James Fraser: [Fragment-based design and Crystallography 101](https://www.dropbox.com/s/l3bepe4zepmxkgy/inquiry_lecture2.key?dl=0)
+  - [Discovery of a selective inhibitor of oncogenic B-Raf kinase with potent antimelanoma activity.](https://www.pnas.org/content/105/8/3041.long)
+  - [Discovery of a potent and selective Bcl-2 inhibitor using SAR by NMR](https://www.sciencedirect.com/science/article/pii/S0960894X10013247?via%3Dihub)
+  - [An expanded allosteric network in PTP1B by multitemperature crystallography, fragment screening, and covalent tethering](https://elifesciences.org/articles/36307)
 - Liam McKay: Tour of Crystallography facility
   - Crystalizing Lysozyme
 
@@ -63,4 +66,4 @@ Structure-based drug design promises to revolutionize drug discovery, yet despit
 
 **Wednesday Jan 15 - 2:30-4PM**
 - David Bulkley: CryoEM facility tour
-- James Fraser: new ideas - DELs, PROTAC, covalent inhibition
+- James Fraser: Discussion of new themes in drug discovery - DELs, PROTAC, covalent inhibition, cryoEM
