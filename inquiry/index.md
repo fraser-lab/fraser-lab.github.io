@@ -54,7 +54,7 @@ Structure-based drug design promises to revolutionize drug discovery, yet despit
 **Wednesday Jan 8 - 2:30-4PM**
 - Tom Goddard: ChimeraX demo
   - [Elucidating the active delta-opioid receptor crystal structure with peptide and small-molecule agonists.](https://advances.sciencemag.org/content/5/11/eaax9115) Claff T, Yu J, Blais V, Patel N, Martin C, Wu L, Han GW, Holleran BJ, Van der Poorten O, White KL, Hanson MA, Sarret P, Gendron L, Cherezov V, Katritch V, Ballet S, Liu ZJ, Muller CE, Stevens RC. Sci Adv. 2019 Nov 27;5(11):eaax9115. doi: 10.1126/sciadv.aax9115.
-  - VR experience???
+  - VR experience
 
 **Thursday Jan 9 - 2:30-4PM**
 - John Irwin: Docking what works and what doesn't
