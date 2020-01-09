@@ -38,17 +38,17 @@ PUBS is now run by Martin Kampmann and examines alpha synuclein!
 
 How did life evolve?  How can understand the principles of biological systems to create new proteins, new chemicals, biological structures, cells and tissues?  We will cover these topics in a "flipped course" where you will hear online lectures from scientific leaders in the field, read a paper, and then discuss as a group.  Tetrad minicourse.
 
-- [Engineering Life](/flipped)
+- [2015 - Engineering Life](/flipped)
 
 ## iPQB Reproducibility and Rigor
 
-- [Experimental Controls Module](/rigor)
+- [2018 - Experimental Controls Module](/rigor)
 
 ##  Mechanisms of Antimicrobial Resistance
 
 This minicourse will be a survey of recent and classic papers on antibiotic resistance with an emphasis on evolutionary biology, biochemical mechanisms, and new ideas for chemical matter.  Tetrad minicourse.
 
-- [AMR minicourse](/amrmini)
+- [2019 - AMR minicourse](/amrmini)
 
 ## Inquiry Immersion -  DRUG DESIGN: Why is it so hard to design new small molecule drugs?
 
@@ -56,4 +56,4 @@ The goal for Inquiry Immersion and the interprofessional Mini-Courses is to help
 
 Structure based drug design promises to revolutionize drug discovery, yet despite decades of promise, progress remains intermittent. This course will give students an appreciation for the experimental and computational advances that have led to this optimism, while also pointing out the limitations that currently prevent completely unattended design.
 
-- [Drug Design Inquiry mini-course](/inquiry)
+- [2020 - Drug Design Inquiry mini-course](/inquiry)
