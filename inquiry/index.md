@@ -57,7 +57,7 @@ Structure-based drug design promises to revolutionize drug discovery, yet despit
   - VR experience in Genentech Hall N453
 
 **Thursday Jan 9 - 2:30-4PM**
-- John Irwin: Docking what works and what doesn't
+- [John Irwin: Docking what works and what doesn't](/static/pdf/inquiry/irwin-docking-jan2020-final_compressed.pdf)
   - What docking is, how it works, and why it is hard; a review of some notable success stories "what docking can do for you" and failures; a detailed look at 2 or 3 stories, focusing on how to run a docking campaign, and what to expect from the outcome, with results.
   - resources DOCK Blaster, ZINC, DUDE, and how to use them.
 
