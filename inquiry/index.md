@@ -62,7 +62,10 @@ Structure-based drug design promises to revolutionize drug discovery, yet despit
   - resources DOCK Blaster, ZINC, DUDE, and how to use them.
 
 **Tuesday Jan 14 - 2:30-4PM**
-- Tanja Kortemme: Rosetta and Biologics
+- [Tanja Kortemme: Rosetta and Biologics](/static/pdf/inquiry/20_RosettaLecture_Kortemme.pdf)
+  - [De novo design of potent and selective mimics of IL-2 and IL-15](https://www.nature.com/articles/s41586-018-0830-7)
+  - [Proof of principle for epitope-focused vaccine design](https://www.nature.com/articles/nature12966)
+  - [Computational design of a modular protein sense-response system](https://science.sciencemag.org/content/366/6468/1024)
 
 **Wednesday Jan 15 - 2:30-4PM**
 - David Bulkley: CryoEM facility tour
