@@ -34,7 +34,7 @@
     - name: qPTxM code on Github
       url: https://github.com/fraser-lab/qptm
 
-- citation: '**Barad BA, Liu L, Diaz RE, Basillo R**, Van Dyken SJ, Locksley RM, **Fraser JS**. Differences in the chitinolytic activity of mammalian chitinases on soluble and crystalline substrates. *Protein Science*. 2020.'
+- citation: '**Barad BA, Liu L, Diaz RE, Basillo R**, Van Dyken SJ, Locksley RM, **Fraser JS**. Differences in the chitinolytic activity of mammalian chitinases on soluble and insoluble substrates. *Protein Science*. 2020.'
   date: 202001
   image: '/static/img/pub/chitin_2019.jpg'
   pmid: 31930591
