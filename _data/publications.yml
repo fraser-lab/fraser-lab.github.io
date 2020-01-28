@@ -19,7 +19,7 @@
   pmid: Submitted
   pmcid: Submitted
   biorxiv: 695429
-  pdf: 'qptxm_2020.pdf'
+  pdf: '/static/pdf/qptxm_2020.pdf'
   paired_maps_and_models:
     - pdb: 6PJ6
       emdb: "20353"
