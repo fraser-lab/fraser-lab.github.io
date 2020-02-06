@@ -16,3 +16,7 @@ By far, the most widely accepted means of communication is through publishing pa
 ## Course structure
 
 Each students will serve as Discussion Leaders for one manuscript topic.  Everyone should be prepared for class by having read the paper carefully. The Discussion Leader will prepare a talk similar in content and quality to a Tetrad or QBC Journal Club presentation, with an estimated 30-40 minute duration (noting that interruptions and discussion may take us closer to an hour). After, the student will compose a review, reflecting both their original thoughts and what emerged in the discussion, that will be posted (either named or anonymously through James Fraser acting as an "editor") as comments associated with the preprint on BioRxiv or other servers.
+
+#April 20
+Michael Eisen - EIC of eLife
+Andrej? Someone else???
