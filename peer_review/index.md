@@ -27,16 +27,18 @@ Each students will serve as Discussion Leaders for one manuscript topic.  Everyo
 ### April 20
 - Intro to class, guidelines for selecting your preprint to review, sign-up for presentations
 - Panel:
-  - Michael Eisen - EIC of eLife
-  - Andrej Sali - EIC of Structure
+  - [Michael Eisen](http://eisenlab.org/) - [Editor in Chief of eLife](https://elifesciences.org/about/people)
+  - [Andrej Sali](https://salilab.org/) - [Editor of Structure](https://www.cell.com/structure/editors)
 
 ### April 23
+- [Keeping on top of the literature](https://fraserlab.com/2013/09/28/The-Fraser-Lab-method-of-following-the-scientific-literature/)
 - Jessica Polka?
 
 ### April 24
 - Writing a good peer review
 - [Examples](https://www.cell.com/cell-stem-cell/fulltext/S1934-5909(19)30221-8)
 - [Universal Principled Review](https://www.cell.com/cell/pdf/S0092-8674(19)31286-3.pdf)
+- [A thoughtful twitter thread on responding to reviews](https://twitter.com/dsquintana/status/1119956899447889920?s=20) and followup [blog post](https://www.dsquintana.com/post/23_apr_2019_peer-review/)
 
 ### April 27
 - Presentation/Discussion 1
@@ -44,26 +46,26 @@ Each students will serve as Discussion Leaders for one manuscript topic.  Everyo
 - Presentation/Discussion 2
 
 ### April 30
-- Presentation/Discussion 1
+- Presentation/Discussion 3
 - Break
-- Presentation/Discussion 2
+- Presentation/Discussion 4
 
 ### May 1
-- Presentation/Discussion 1
+- Presentation/Discussion 5
 - Break
-- Presentation/Discussion 2
+- Presentation/Discussion 6
 
 ### May 4
-- Presentation/Discussion 1
+- Presentation/Discussion 7
 - Break
-- Presentation/Discussion 2
+- Presentation/Discussion 8
 
 ### May 7
-- Presentation/Discussion 1
+- Presentation/Discussion 9
 - Break
-- Presentation/Discussion 2
+- Presentation/Discussion 10
 
 ### May 8
-- Presentation/Discussion 1
+- Presentation/Discussion 11
 - Break
-- Presentation/Discussion 2
+- Presentation/Discussion 12
