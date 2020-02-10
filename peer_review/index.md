@@ -31,14 +31,15 @@ Each students will serve as Discussion Leaders for one manuscript topic.  Everyo
   - [Andrej Sali](https://salilab.org/) - [Editor of Structure](https://www.cell.com/structure/editors)
 
 ### April 23
+- New developments in peer review:
+  - [Jessica Polka](https://en.wikipedia.org/wiki/Jessica_Polka) - [Executive Director of ASAPbio](https://asapbio.org/dt_team/jessica-polka)
 - [Keeping on top of the literature](https://fraserlab.com/2013/09/28/The-Fraser-Lab-method-of-following-the-scientific-literature/)
-- Jessica Polka?
 
 ### April 24
-- Writing a good peer review
-- [Examples](https://www.cell.com/cell-stem-cell/fulltext/S1934-5909(19)30221-8)
-- [Universal Principled Review](https://www.cell.com/cell/pdf/S0092-8674(19)31286-3.pdf)
-- [A thoughtful twitter thread on responding to reviews](https://twitter.com/dsquintana/status/1119956899447889920?s=20) and followup [blog post](https://www.dsquintana.com/post/23_apr_2019_peer-review/)
+- Writing and receiving peer review:
+  - [Examples](https://www.cell.com/cell-stem-cell/fulltext/S1934-5909(19)30221-8)
+  - [Universal Principled Review](https://www.cell.com/cell/pdf/S0092-8674(19)31286-3.pdf)
+  - [A thoughtful twitter thread on responding to reviews](https://twitter.com/dsquintana/status/1119956899447889920?s=20) and followup [blog post](https://www.dsquintana.com/post/23_apr_2019_peer-review/)
 
 ### April 27
 - Presentation/Discussion 1
