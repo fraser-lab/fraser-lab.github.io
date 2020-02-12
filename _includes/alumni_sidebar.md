@@ -33,6 +33,7 @@ Subsequent Position: {{sep.current}}<br>
 <hr>
 <div id = "{{visitor.name}}" style="padding-top: 60px; margin-top: -60px;">
 <p><strong>{{visitor.name}}</strong> - <em>{{visitor.position}}</em><br>
-{% if visitor.startdate %} {{visitor.startdate}} - {% endif %}{{visitor.enddate}} <br>
-Subsequent Position: {{visitor.current}} </p>
+{{visitor.current}}<br>
+{% if visitor.startdate %} {{visitor.startdate}} - {% endif %}{{visitor.enddate}}
+</p>
 </div> {% endfor %}
