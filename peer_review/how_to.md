@@ -22,7 +22,8 @@ group: courses
     - in this section focus only on the major issues that deal with the interpretation of the data or the data quality
     - each major issue should be its own paragraph
     - if everything is in order, this can be relatively brief, rely on your notes on the technical issues!
-  - Clearly state the major successes of the paper. e.g. "The major success of the paper is in developing a new model for side chain conformational heterogeneity".
+  - Clearly state the major successes of the paper.
+    - e.g. "The major success of the paper is in developing a new model for side chain conformational heterogeneity".
   - Clearly state the major weakness(es) of the paper (if any). e.g. "The major weakness of the paper is that the model proposed is not tested".
   - Write 1-2 sentences on the place/impact of this paper in the field.
 
