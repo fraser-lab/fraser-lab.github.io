@@ -18,25 +18,20 @@ group: courses
   - needless acronyms
   - missing/wrong references
 4. Format your first draft:
-  - Write 2-3 sentences on the major goals of the paper
-
-  - Assess whether the paper accomplishes those goals in separate paragraphs
-    * in this section focus only on the major issues that deal with the interpretation of the data or the data quality
-    * each major issue should be its own paragraph
-    * if everything is in order, this can be relatively brief, rely on your notes on the technical issues!
-
-  - Clearly state the major successes of the paper.
-    * e.g. "The major success of the paper is in developing a new model for side chain conformational heterogeneity".
-
-  - Clearly state the major weakness(es) of the paper (if any). e.g. "The major weakness of the paper is that the model proposed is not tested".
-
-  - Write 1-2 sentences on the place/impact of this paper in the field.
-
-  - Create a list of "Minor points":
-    * list all the minor technical questions that you have
-      * especially important to make sure you distinguish between things you think are done incorrectly/incompletely and things that are just not explained clearly enough for you to understand them
-    * list all the stylistic issues
-      * I tend to focus a lot on clarity, but it's great to have a reviewer who is eagle-eyed for all issues
+    - Write 2-3 sentences on the major goals of the paper
+    - Assess whether the paper accomplishes   those goals in separate paragraphs
+      * in this section focus only on the major   issues that deal with the interpretation  of the data or the data quality
+      * each major issue should be its own  paragraph
+      * if everything is in order, this can be  relatively brief, rely on your notes on   the technical issues!
+    - Clearly state the major successes of the  paper.
+        * e.g. "The major success of the paper is   in developing a new model for side chain  conformational heterogeneity".
+    - Clearly state the major weakness(es) of   the paper (if any). e.g. "The major weakness  of the paper is that the model proposed is  not tested".
+    - Write 1-2 sentences on the place/impact of  this paper in the field.
+    - Create a list of "Minor points":
+      * list all the minor technical questions  that you have
+        * especially important to make sure you   distinguish between things you think are  done incorrectly/incompletely and things  that are just not explained clearly   enough for you to understand them
+      * list all the stylistic issues
+        * I tend to focus a lot on clarity, but   it's great to have a reviewer who is  eagle-eyed for all issues
 
 # Nature family journals also ask these questions (which are good ones to keep in mind):
 
