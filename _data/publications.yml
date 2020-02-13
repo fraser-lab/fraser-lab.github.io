@@ -13,6 +13,17 @@
 #     - name: 'Mullins Lab'
 #       url: 'http://mullinslab.ucsf.edu/'
 #
+- citation: '**Fraser JS, Lindorff-Larsen K, Bonomi M. What will computational modelling approaches have to say in the era of atomistic cryo-EM data? *Submitted - Preprint on arXiv*. 2020.'
+  date: 202003
+  image: 'static/img/pub/ensembles_2020.jpg'
+  arxiv: 2002.00151
+  pdf: 'https://arxiv.org/pdf/2002.00151.pdf'
+  links:
+    - name: Kresten Lindorff-Larsen
+      url: https://www1.bio.ku.dk/english/research/bms/research/sbinlab/groups/kll/
+    - name: Max Bonomi
+      url: https://research.pasteur.fr/en/member/massimiliano-bonomi/
+
 - citation: 'Stojković V, Myasnikov AG, **Young ID**, Frost A, **Fraser JS**, Fujimori DG. Assessment of the nucleotide modifications in the high-resolution cryo-electron microscopy structure of the Escherichia coli 50S subunit. *Nucleic Acids Research*. 2020.'
   date: 202002
   image: '/static/img/pub/ribosome_2019.jpg'
@@ -304,11 +315,9 @@ from small macromolecular crystals. *Submitted - Preprint on BioRxiv*. 2019.'
     - name: 'Paper Submission Celebration Photo'
       url: 'https://twitter.com/fraser_lab/status/956318642454474752'
 
-- citation: 'Babcock NS, **Keedy DA**, **Fraser JS**, Sivak DA. Model selection for biological crystallography. *Submitted - Preprint on BioRxiv*. 2018.'
+- citation: 'Babcock NS, **Keedy DA**, **Fraser JS**, Sivak DA. Model selection for biological crystallography. *Preprint on BioRxiv*. 2018.'
   date: 201807
   image: '/static/img/pub/sivak_2018.jpg'
-  pmid: Submitted
-  pmcid: Submitted
   biorxiv: "448795"
   pdf: 'https://www.biorxiv.org/content/early/2018/10/20/448795.full.pdf'
   links:
