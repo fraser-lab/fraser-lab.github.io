@@ -28,7 +28,7 @@
   date: 202002
   image: '/static/img/pub/ribosome_2019.jpg'
   pmid: 31989172
-  pmcid: In Process
+#  pmcid: In Process
   biorxiv: 695429
   pdf: '/static/pdf/qptxm_2020.pdf'
   paired_maps_and_models:
@@ -49,7 +49,7 @@
   date: 202001
   image: '/static/img/pub/chitin_2019.jpg'
   pmid: 31930591
-  pmcid: In Process
+#  pmcid: In Process
   biorxiv: 762336
   pdf: '/static/pdf/barad_2020.pdf'
   links:
@@ -82,8 +82,8 @@
 - citation: 'Yabukarski F, **Biel JT**, Pinney MM, Doukov T, Powers AS, **Fraser JS**, Herschlag D. Assessing positioning in enzymatic catalysis via ketosteroid isomerase conformational ensembles. *Submitted - Preprint on BioRxiv*. 2019.'
   date: 201910
   image: '/static/img/pub/enzymes_2019.jpg'
-  pmid: Submitted
-  pmcid: Submitted
+  # pmid: Submitted
+  # pmcid: Submitted
   biorxiv: 786327
   pdf: 'https://www.biorxiv.org/content/biorxiv/early/2019/09/29/786327.full.pdf'
   links:
@@ -115,8 +115,8 @@ diffraction (MicroED) as methods for routine structure determination
 from small macromolecular crystals. *Submitted - Preprint on BioRxiv*. 2019.'
   date: 201909
   image: '/static/img/pub/micro.jpg'
-  pmid: Submitted
-  pmcid: Submitted
+  # pmid: Submitted
+  # pmcid: Submitted
   biorxiv: 767061
   pdf: 'https://www.biorxiv.org/content/biorxiv/early/2019/09/12/767061.full.pdf'
   pdbs:
@@ -156,8 +156,8 @@ from small macromolecular crystals. *Submitted - Preprint on BioRxiv*. 2019.'
 - citation: 'Li Q\*, **Pellegrino J\*, Lee DJ**, Tran AA, Wang R, **Park JE**, Ji K, Chow D, Zhang N, Brilot AF, **Biel JT**, van Zundert G, Borrelli K, Shinabarger D, Wolfe C, Murray B, Jacobson MP, **Fraser JS**, Seiple IB. Synthesis and Mechanism of Action of Group a Streptogramin Antibiotics That Overcome Resistance. *Submitted - Preprint on ChemRxiv*. 2019.'
   date: 201906
   image: '/static/img/pub/streptogramin_2019.jpg'
-  pmid: Submitted
-  pmcid: Submitted
+  # pmid: Submitted
+  # pmcid: Submitted
   chemrxiv: 8346107
   pdf: 'https://doi.org/10.26434/chemrxiv.8346107.v1'
   paired_maps_and_models:
@@ -211,7 +211,7 @@ from small macromolecular crystals. *Submitted - Preprint on BioRxiv*. 2019.'
   date: 201904
   image: '/static/img/pub/biosensor_2019.jpg'
   pmid: 31754004
-  pmcid: Submitted
+  # pmcid: Submitted
   biorxiv: "648485"
   pdf: '/static/pdf/biosensor_2019.pdf'
   pdbs:
