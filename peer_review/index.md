@@ -38,7 +38,8 @@ Each students will serve as Discussion Leaders for one manuscript topic.  Everyo
 ### April 24
 - Writing and receiving peer review:
   - [Fraser lab how-to-review](how_to/)
-  - [Examples](https://www.cell.com/cell-stem-cell/fulltext/S1934-5909(19)30221-8)
+  - [My public reviews as BioRxiv comments](https://disqus.com/by/fraserlab/comments/)
+  - [Example from Cell Stem Cell of a review process](https://www.cell.com/cell-stem-cell/fulltext/S1934-5909(19)30221-8)
   - [Universal Principled Review](https://www.cell.com/cell/pdf/S0092-8674(19)31286-3.pdf)
   - [A thoughtful twitter thread on responding to reviews](https://twitter.com/dsquintana/status/1119956899447889920?s=20) and followup [blog post](https://www.dsquintana.com/post/23_apr_2019_peer-review/)
 
