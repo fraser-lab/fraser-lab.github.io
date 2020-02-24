@@ -18,7 +18,7 @@ group: courses
 
 By far, the most widely accepted means of communication is through publishing papers in scientific journals. The process of peer review plays an important role in refining the body of work prior to final publication. Yet, peer review is rarely taught to students in a formal setting, and is largely dependent on individual labs and mentors, leading to variable standards of peer review. Reflecting the evolution of technology, society and scientific culture, preprints have gained popularity in the life sciences in recent years, resulting in a shift in how progress in the life sciences is communicated, and raising questions of how we, as a scientific community, may work towards optimizing the peer review process in the life sciences. This class will use preprint servers (for example, BioRxiv) as a platform for formally teaching students how to peer review manuscripts in a critical and constructive way.
 
-We have modeled this class based on a course at NYU organized by Gira Bhabha, Damian Ekiert, Liam Holt & Timothee Lionnet.
+We have modeled this class based on [a course at NYU](http://bhabhaekiertlab.org/teaching) organized by Gira Bhabha, Damian Ekiert, Liam Holt & Timothee Lionnet.
 
 ## Course structure
 
