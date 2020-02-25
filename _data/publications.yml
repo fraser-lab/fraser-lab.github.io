@@ -13,11 +13,12 @@
 #     - name: 'Mullins Lab'
 #       url: 'http://mullinslab.ucsf.edu/'
 #
-- citation: '**Fraser JS**, Lindorff-Larsen K, Bonomi M. What will computational modelling approaches have to say in the era of atomistic cryo-EM data? *Submitted - Preprint on arXiv*. 2020.'
+- citation: '**Fraser JS**, Lindorff-Larsen K, Bonomi M. What will computational modelling approaches have to say in the era of atomistic cryo-EM data? *Journal of Chemical Information and Modeling*. 2020.'
   date: 202003
   image: '/static/img/pub/ensembles_2020.jpg'
+  pmid: 32090567
   arxiv: 2002.00151
-  pdf: 'https://arxiv.org/pdf/2002.00151.pdf'
+  pdf: '/static/pdf/cryoem_2020.pdf'
   links:
     - name: Kresten Lindorff-Larsen
       url: https://www1.bio.ku.dk/english/research/bms/research/sbinlab/groups/kll/
