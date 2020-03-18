@@ -32,6 +32,7 @@ group: courses
         * especially important to make sure you   distinguish between things you think are  done incorrectly/incompletely and things  that are just not explained clearly   enough for you to understand them
       * list all the stylistic issues
         * I tend to focus a lot on clarity, but   it's great to have a reviewer who is  eagle-eyed for all issues
+    - Note any parts of the paper you do not feel like you are able to assess: "E.g. A significant part of the paper relies on a sophisticated analysis of mass spectrometry. I cannot offer expert feedback on the technical merits of this part of the paper."
 
 # Nature family journals also ask these questions (which are good ones to keep in mind):
 
