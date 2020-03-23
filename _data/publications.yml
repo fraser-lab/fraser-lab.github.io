@@ -355,7 +355,7 @@ Precise Substrate Positioning Relative to Metal Cofactor and an Identified Dynam
     - name: "Convergence Server @ Lander lab"
       url: http://www.lander-lab.com/convergence/
 
-- citation: "van Zundert GCP\*, **Hudson BM\*, Oliveira SHP, Keedy DA**, Fonseca R, Heliou A, **Suresh P**, Borrelli K, Day T,
+- citation: "van Zundert GCP*, **Hudson BM*, Oliveira SHP, Keedy DA**, Fonseca R, Heliou A, **Suresh P**, Borrelli K, Day T,
 **Fraser JS**, van den Bedem H. qFit-ligand reveals widespread conformational heterogeneity of drug-like molecules in X-ray
 electron density maps. *J Med Chem*. 2018."
   date: 201809
