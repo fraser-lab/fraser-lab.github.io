@@ -39,12 +39,14 @@ Shoichet BK, Krogan NJ. A SARS-CoV-2-Human Protein-Protein Interaction Map Revea
 - citation: "Broom A, Rakotoharisoa RV, **Thompson MC**, Zarifi N, Nguyen E, Mukhametzhanov N, **Liu L, Fraser JS**, Chica RA.
 Evolution of an enzyme conformational ensemble guides design of an efficient biocatalyst. *Submitted - Preprint on BioRxiv*. 2020."
   date: 202003
-  # image: '/static/img/pub/qcrg_2020.png'
+  image: '/static/img/pub/HG_thumb.jpg'
   # pmid:
   # pmcid:
   biorxiv: 2020.03.19.999235
   pdf: '/static/pdf/broom_2020.pdf'
-  # links:
+  links:
+    - name: Chica Lab @ UOttawa
+      url: https://mysite.science.uottawa.ca/rchica/
 
 - citation: "**Wolff AM, Young ID**, Sierra RG, Brewster AS, Martynowycz MW, Nango E, Sugahara M, Nakane T, Ito K,
 Aquila A, Bhowmick A, **Biel JT**, Carbajo S, Cohen AE, **Cortez S**, Gonzalez A, Hino T, Im D, Koralek JD, Kubo M,
