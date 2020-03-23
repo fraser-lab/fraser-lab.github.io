@@ -20,7 +20,7 @@ group: publications
 			{% if publication.pmid %}
 			<li>PMID: <a href="http://www.ncbi.nlm.nih.gov/pubmed/{{publication.pmid}}" alt = "pubmed link: {{publication.pmid}}"> {{publication.pmid}}</a></li>
 			{% endif %}
-			
+
 			<!--PMCID - optional -->
 			{% if publication.pmcid %}
 			<li>PMCID: <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/{{publication.pmcid}}" alt = "pubmed central link: {{publication.pmcid}}"> {{publication.pmcid}}</a></li>
@@ -28,7 +28,7 @@ group: publications
 
 			<!--Biorxiv - optional -->
 			{% if publication.biorxiv %}
-			<li>Biorxiv Preprint: <a href="http://dx.doi.org/10.1101/{{publication.biorxiv}}" alt = "biorxiv preprint link: {{publication.biorxiv}}"> {{publication.biorxiv}}</a></li>
+			<li>Biorxiv Preprint: <a href="http://dx.doi.org/10.1101/{{publication.biorxiv}}" alt = "biorxiv preprint link: {{publication.biorxiv}}"> {{publication.biorxiv | split: "." | last }}</a></li>
 			{% endif %}
 
 			<!--Arxiv - optional -->
