@@ -138,8 +138,8 @@ chitinolytic activity of mammalian chitinases on soluble and insoluble substrate
     - name: "Celebratory Tweetstorm by first author Ben Barad"
       url: https://twitter.com/benjaminbarad/status/1171091343789056000
 
-- citation: Wych DC, **Fraser JS**, Mobley DL, Wall ME. Liquid-like and rigid-body motions in molecular dynamics
-simulations of a crystalline protein. *Structural Dynamics*. 2019.
+- citation: "Wych DC, **Fraser JS**, Mobley DL, Wall ME. Liquid-like and rigid-body motions in molecular dynamics
+simulations of a crystalline protein. *Structural Dynamics*. 2019."
   date: 201911
   image: '/static/img/pub/wych_2019.jpg'
   pmid: 31867408
