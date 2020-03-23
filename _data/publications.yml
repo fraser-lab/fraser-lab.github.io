@@ -200,7 +200,7 @@ exon 14 skipping mutation-positive lung cancer. *Clinical Cancer Research*. 2019
     - name: "Bivona lab"
       url: http://www.bivonalab.net/
 
-- citation: "Li Q*, **Pellegrino J*, Lee DJ**, Tran AA, Wang R, **Park JE**, Ji K, Chow D, Zhang N, Brilot AF, **Biel JT**,
+- citation: "Li Q\*, **Pellegrino J\*, Lee DJ**, Tran AA, Wang R, **Park JE**, Ji K, Chow D, Zhang N, Brilot AF, **Biel JT**,
 van Zundert G, Borrelli K, Shinabarger D, Wolfe C, Murray B, Jacobson MP, **Fraser JS**, Seiple IB. Synthesis and Mechanism of
 Action of Group a Streptogramin Antibiotics That Overcome Resistance. *Submitted - Preprint on ChemRxiv*. 2019."
   date: 201906
@@ -409,7 +409,7 @@ the ubiquitin fitness landscape in a classroom setting reveals new constraints o
     - name: PUBS Code on Github
       url: https://github.com/fraser-lab/PUBS
 
-- citation: "**Keedy DA**\*, Hill ZB\*, **Biel JT**, Kang E, Rettenmaier TJ, Brandao-Neto J, Pearce NM, von Delft F, Wells JA,
+- citation: "**Keedy DA\***, Hill ZB\*, **Biel JT**, Kang E, Rettenmaier TJ, Brandao-Neto J, Pearce NM, von Delft F, Wells JA,
 **Fraser JS**. An expanded allosteric network in PTP1B by multitemperature crystallography, fragment screening, and covalent
 tethering. *eLife*. 2018."
   date: 201804
@@ -551,7 +551,7 @@ tethering. *eLife*. 2018."
     - code: "1044103"
       description: dataset
 
-- citation: "Otten R\*, **Liu L**\*, **Kenner LR**, Clarkson MW, **Mavor D**, Tawfik DS, Kern D, **Fraser JS**. Rescue of
+- citation: "Otten R\*, **Liu L\***, **Kenner LR**, Clarkson MW, **Mavor D**, Tawfik DS, Kern D, **Fraser JS**. Rescue of
 Conformational Dynamics in Enzyme Catalysis by Directed Evolution. *Nature Communications*. 2018."
   date: 201803
   image: '/static/img/pub/otten_liu_2017.jpg'
@@ -901,7 +901,7 @@ crystallography using qFit. *PLOS Computational Biology*. 2015."
     - name: Henry van den Bedem
       url: https://people.stanford.edu/vdbedem/
 
-- citation: "**Keedy DA**\*, **Kenner LR**\*, Warkentin M\*, **Woldeyes RA**\*, Hopkins JB, **Thompson MC**, Brewster AS,
+- citation: "**Keedy DA\***, **Kenner LR\***, Warkentin M\*, **Woldeyes RA\***, Hopkins JB, **Thompson MC**, Brewster AS,
 **Van Benschoten AH**, Baxter EL,  Uervirojnangkoorn M, McPhillips SE, Song J, Alonso-Mori R, Holton JM, Weis WI, Brunger AT,
 Soltis SM, Lemke H, Gonzalez A, Sauter NK, Cohen AE, van den Bedem H, Thorne RE, **Fraser JS**. Mapping the Conformational
 Landscape of a Dynamic Enzyme by Multitemperature and XFEL Crystallography. *eLife*. 2015."
@@ -1073,7 +1073,7 @@ Crystal Cryocooling Distorts Conformational Heterogeneity in a Model Michaelis C
     - name: 'F1000 Evaluation'
       url: http://f1000.com/prime/718430130
 
-- citation: "Fischer M\*, Coleman RG\*, **Fraser JS**, Shoichet BK. Incorporation of protein ﬂexibility and
+- citation: "Fischer M*, Coleman RG*, **Fraser JS**, Shoichet BK. Incorporation of protein ﬂexibility and
 conformational energy penalties in docking screens to improve ligand discovery. *Nature Chemistry*. 2014."
   date: 201403
   image: '/static/img/pub/fischer_coleman_2014.jpg'
@@ -1313,7 +1313,7 @@ in crystal structures. *Cellular and Molecular Life Sciences*. 2011."
     - name: "Jackson lab"
       url: http://jacksonlab.wordpress.com/
 
-- citation: "Lang PT\*, Ng HL\*, **Fraser JS**, Corn JE, Echols N, Sales M, Holton JM, Alber T. Automated
+- citation: "Lang PT*, Ng HL*, **Fraser JS**, Corn JE, Echols N, Sales M, Holton JM, Alber T. Automated
 electron-density sampling reveals widespread conformational polymorphism in proteins. *Protein Science*. 2010."
   date: 201002
   image: '/static/img/pub/lang_ps_2010.jpg'
@@ -1332,7 +1332,7 @@ electron-density sampling reveals widespread conformational polymorphism in prot
     - name: "Ringer is now also available as an alpha feature in the PHENIX GUI or on the command line as mmtbx.ringer"
       url: http://phenix-online.org
 
-- citation: "Maghzal N\*, Vogt E\*, Reintsch W, **Fraser JS**, Fagotto F. The tumor-associated EpCAM regulates morphogenetic
+- citation: "Maghzal N*, Vogt E*, Reintsch W, **Fraser JS**, Fagotto F. The tumor-associated EpCAM regulates morphogenetic
 movements through intracellular signaling. *Journal of Cell Biology*. 2010."
   date: 201001
   image: '/static/img/pub/fagotto_jcb_2010.jpg'
@@ -1379,7 +1379,7 @@ Damage? *Current Opinion in Microbiology.* 2007."
     - name: "Davidson lab"
       url: http://individual.utoronto.ca/davidsonlab/Davidson_lab/Home.html
 
-- citation: "**Fraser JS\***, Merlie Jr. JP\*, Echols N\*, Weisfield SR, Mignot T, Wemmer DE, Zusman D, Alber T.
+- citation: "**Fraser JS\***, Merlie Jr. JP*, Echols N*, Weisfield SR, Mignot T, Wemmer DE, Zusman D, Alber T.
 An atypical receiver domain controls the dynamic polar localization of the Myxococcus xanthus social motility protein FrzS.
 *Molecular Microbiology*. 2007."
   date: 200701
