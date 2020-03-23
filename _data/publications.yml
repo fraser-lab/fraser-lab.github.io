@@ -411,7 +411,7 @@ the ubiquitin fitness landscape in a classroom setting reveals new constraints o
     - name: PUBS Code on Github
       url: https://github.com/fraser-lab/PUBS
 
-- citation: "**Keedy DA\***, Hill ZB*, **Biel JT**, Kang E, Rettenmaier TJ, Brandao-Neto J, Pearce NM, von Delft F, Wells JA,
+- citation: "**Keedy DA*,** Hill ZB*, **Biel JT**, Kang E, Rettenmaier TJ, Brandao-Neto J, Pearce NM, von Delft F, Wells JA,
 **Fraser JS**. An expanded allosteric network in PTP1B by multitemperature crystallography, fragment screening, and covalent
 tethering. *eLife*. 2018."
   date: 201804
@@ -553,7 +553,7 @@ tethering. *eLife*. 2018."
     - code: "1044103"
       description: dataset
 
-- citation: "Otten R\*, **Liu L\***, **Kenner LR**, Clarkson MW, **Mavor D**, Tawfik DS, Kern D, **Fraser JS**. Rescue of
+- citation: "Otten R*, **Liu L*, Kenner LR**, Clarkson MW, **Mavor D**, Tawfik DS, Kern D, **Fraser JS**. Rescue of
 Conformational Dynamics in Enzyme Catalysis by Directed Evolution. *Nature Communications*. 2018."
   date: 201803
   image: '/static/img/pub/otten_liu_2017.jpg'
@@ -903,7 +903,7 @@ crystallography using qFit. *PLOS Computational Biology*. 2015."
     - name: Henry van den Bedem
       url: https://people.stanford.edu/vdbedem/
 
-- citation: "**Keedy DA\***, **Kenner LR\***, Warkentin M\*, **Woldeyes RA\***, Hopkins JB, **Thompson MC**, Brewster AS,
+- citation: "**Keedy DA*, Kenner LR*,** Warkentin M*, **Woldeyes RA*,** Hopkins JB, **Thompson MC**, Brewster AS,
 **Van Benschoten AH**, Baxter EL,  Uervirojnangkoorn M, McPhillips SE, Song J, Alonso-Mori R, Holton JM, Weis WI, Brunger AT,
 Soltis SM, Lemke H, Gonzalez A, Sauter NK, Cohen AE, van den Bedem H, Thorne RE, **Fraser JS**. Mapping the Conformational
 Landscape of a Dynamic Enzyme by Multitemperature and XFEL Crystallography. *eLife*. 2015."
@@ -996,9 +996,8 @@ atomic models built from elemental motions. *Acta Crystallographica D*. 2015."
     # - name: 'Justin\'s figure scripts'
     #   url: http://www.fraserlab.com/justin_figures.html
 
-- citation: "Wall ME, **VanBenschoten AH**, Sauter NK, Adams PD, **Fraser JS**, Terwilliger TC.
-Conformational Dynamics of a Crystalline Protein from Microsecond-Scale Molecular Dynamics Simulations and Diffuse X-Ray Scattering.
- *PNAS*. 2014'
+- citation: "Wall ME, **VanBenschoten AH**, Sauter NK, Adams PD, **Fraser JS**, Terwilliger TC. Conformational Dynamics of a
+Crystalline Protein from Microsecond-Scale Molecular Dynamics Simulations and Diffuse X-Ray Scattering. *PNAS*. 2014"
   date: 201407
   image: '/static/img/pub/wall_pnas_2014.jpg'
   pmid: 25453071
@@ -1381,7 +1380,7 @@ Damage? *Current Opinion in Microbiology.* 2007."
     - name: "Davidson lab"
       url: http://individual.utoronto.ca/davidsonlab/Davidson_lab/Home.html
 
-- citation: "**Fraser JS\***, Merlie Jr. JP*, Echols N*, Weisfield SR, Mignot T, Wemmer DE, Zusman D, Alber T.
+- citation: "**Fraser JS*,** Merlie Jr. JP*, Echols N*, Weisfield SR, Mignot T, Wemmer DE, Zusman D, Alber T.
 An atypical receiver domain controls the dynamic polar localization of the Myxococcus xanthus social motility protein FrzS.
 *Molecular Microbiology*. 2007."
   date: 200701
