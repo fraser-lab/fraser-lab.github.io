@@ -37,34 +37,6 @@ Shoichet BK, Krogan NJ. A SARS-CoV-2-Human Protein-Protein Interaction Map Revea
       url: https://www.nytimes.com/2020/03/22/science/coronavirus-drugs-chloroquine.html
     - name: QBI Coronavirus Research Group
       url: http://qbi.ucsf.edu/COVID-19
-    - name: "Agard lab"
-      url: https://msg.ucsf.edu/agard-lab
-    - name: "Craik lab"
-      url: https://pharm.ucsf.edu/craik
-    - name: "Fujimori lab"
-      url: https://fujimorilab.ucsf.edu
-    - name: "Gross lab"
-      url: https://grosslab.ucsf.edu
-    - name: "Jacobson lab"
-      url: https://jacobsonlab.wordpress.com
-    - name: "Jura lab"
-      url: https://cvri.ucsf.edu/~jura/?page_id=47
-    - name: "Kortemme lab"
-      url: http://kortemmelab.ucsf.edu/
-    - name: "Krogan lab"
-      url: http://kroganlab.ucsf.edu/
-    - name: "Mukherjee lab"
-      url: https://www.mukherjeelabucsf.com
-    - name: "Ruggero lab"
-      url: http://ruggerolab.ucsf.edu
-    - name: "Sali lab"
-      url: https://salilab.org
-    - name: "Shoichet lab"
-      url: http://www.bkslab.org
-    - name: "Shokat lab"
-      url: http://shokatlab.ucsf.edu
-    - name: "Taunton lab"
-      url: http://cmp.ucsf.edu/faculty/jack-taunton
 
 - citation: "Broom A, Rakotoharisoa RV, **Thompson MC**, Zarifi N, Nguyen E, Mukhametzhanov N, **Liu L, Fraser JS**, Chica RA.
 Evolution of an enzyme conformational ensemble guides design of an efficient biocatalyst. *Submitted - Preprint on BioRxiv*. 2020."
