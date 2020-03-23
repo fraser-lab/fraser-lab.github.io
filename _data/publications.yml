@@ -409,7 +409,7 @@ the ubiquitin fitness landscape in a classroom setting reveals new constraints o
     - name: PUBS Code on Github
       url: https://github.com/fraser-lab/PUBS
 
-- citation: "**Keedy DA\***, Hill ZB\*, **Biel JT**, Kang E, Rettenmaier TJ, Brandao-Neto J, Pearce NM, von Delft F, Wells JA,
+- citation: "**Keedy DA\***, Hill ZB*, **Biel JT**, Kang E, Rettenmaier TJ, Brandao-Neto J, Pearce NM, von Delft F, Wells JA,
 **Fraser JS**. An expanded allosteric network in PTP1B by multitemperature crystallography, fragment screening, and covalent
 tethering. *eLife*. 2018."
   date: 201804
