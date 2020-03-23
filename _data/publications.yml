@@ -13,13 +13,40 @@
 #     - name: 'Mullins Lab'
 #       url: 'http://mullinslab.ucsf.edu/'
 #
+
+- citation: 'Gordon DE, Jang GM, Bouhaddou M, Xu J, Obernier K, O'Meara MJ, Guo JZ, Swaney DL, Tummino TA, Huttenhain R, Kaake R, Richards AL, Tutuncuoglu B, Foussard H, Batra J, Haas K, Modak M, Kim M, Haas P, Polacco BJ, Braberg H, Fabius JM, Eckhardt M, Soucheray M, Brewer M, Cakir M, McGregor MJ, Li Q, Chi Naing ZZ, Zhou Y, Peng S, Kirby IT, Melnyk JE, Chorba JS, Lou K, Dai SA, Shen W, Shi Y, Zhang Z, Barrio-Hernandez I, Memon D, Hernandez-Armenta C, Mathy CJP, Perica T, Pilla KB, Ganesan SJ, Saltzberg DJ, Ramachandran R, Liu X, Rosenthal SB, Calviello L, Venkataramanan S, Lin Y, **Wankowicz SA**, Bohn M, Trenker R, Young JM, Cavero D, Hiatt J, Roth T, Rathore U, Subramanian A, Noack J, Hubert M, Roesch F, Vallet T, Meyer B, White KM, Miorin L, Agard D, Emerman M, Ruggero D, Garc&iacute-Sastre A, Jura N, von Zastrow M, Taunton J, Schwartz O, Vignuzzi M, d'Enfert C, Mukherjee S, Jacobson M, Malik HS, Fujimori DG, Ideker T, Craik CS, Floor S, **Fraser JS**, Gross J, Sali A, Kortemme T, Beltrao P, Shokat K, Shoichet BK, Krogan NJ.
+A SARS-CoV-2-Human Protein-Protein Interaction Map Reveals Drug Targets and Potential Drug-Repurposing. *Submitted - Preprint on BioRxiv*. 2020.'
+  date: 202003
+  image: '/static/img/pub/qcrg_2020.jpg'
+  # pmid: 32148858
+  # pmcid: PMC7055375
+  biorxiv: 002386
+  pdf: '/static/pdf/gordon_2020.pdf'
+  # pdbs:
+  #   - 6U5C
+  #   - 6U5D
+  #   - 6U5E
+  # paired_maps_and_models:
+  #   - pdb: 6U5G
+  #     emdb: "20645"
+  # data:
+  #     - '10.11577/1602169'
+  #     - '10.11577/1598261'
+  #     - '10.11577/1595660'
+  #     - '10.15785/SBGRID/752'
+  links:
+    - name: Celebratory Tweetstorm by James Fraser
+      url: https://twitter.com/fraser_lab/status/1241929245812592641
+    - name: New York Times Article on QBI Coronavirus Research Group
+      url: https://www.nytimes.com/2020/03/22/science/coronavirus-drugs-chloroquine.html
+
 - citation: '**Wolff AM, Young ID**, Sierra RG, Brewster AS, Martynowycz MW, Nango E, Sugahara M, Nakane T, Ito K, Aquila A, Bhowmick A, **Biel JT**, Carbajo S, Cohen AE, **Cortez S**, Gonzalez A, Hino T, Im D, Koralek JD, Kubo M, **Lazarou TS**, Nomura T, Owada S, Samelson A, Tanaka R, Tanaka T, **Thompson EM**, van den Bedem H, **Woldeyes RA**, Yumoto F, Zhao W, Tono K, Boutet S, Iwata S, Gonen T, Sauter NK, **Fraser JS, Thompson MC**. Comparing serial X-ray crystallography and microcrystal electron
 diffraction (MicroED) as methods for routine structure determination
 from small macromolecular crystals. *IUCrJ*. 2020.'
   date: 201909
   image: '/static/img/pub/micro.jpg'
   pmid: 32148858
-  pmcid: PMC7055375 
+  pmcid: PMC7055375
   biorxiv: 767061
   pdf: '/static/pdf/wolff_2020.pdf'
   pdbs:
