@@ -997,7 +997,7 @@ atomic models built from elemental motions. *Acta Crystallographica D*. 2015."
     #   url: http://www.fraserlab.com/justin_figures.html
 
 - citation: "Wall ME, **VanBenschoten AH**, Sauter NK, Adams PD, **Fraser JS**, Terwilliger TC. Conformational Dynamics of a
-Crystalline Protein from Microsecond-Scale Molecular Dynamics Simulations and Diffuse X-Ray Scattering. *PNAS*. 2014"
+Crystalline Protein from Microsecond-Scale Molecular Dynamics Simulations and Diffuse X-Ray Scattering. *PNAS*. 2014."
   date: 201407
   image: '/static/img/pub/wall_pnas_2014.jpg'
   pmid: 25453071
@@ -1139,8 +1139,8 @@ room-temperature X-ray crystallography and NMR. *PNAS*. 2014."
     - name: Python Scripts
       url: http://www.scripps.edu/wright/mcOPA.tar.gz
 
-- citation: "Lang PT, Holton JM, **Fraser JS**, Alber T. Protein structural ensembles are revealed by redefining
-\X-ray electron density noise. *PNAS*. 2014."
+- citation: "Lang PT, Holton JM, **Fraser JS**, Alber T. Protein structural ensembles are revealed by redefining X-ray
+electron density noise. *PNAS*. 2014."
   date: 201401
   image: '/static/img/pub/lang_pnas_2014.jpg'
   pmid: 24363322
