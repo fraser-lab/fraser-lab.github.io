@@ -1,7 +1,7 @@
 # THE WEIRDEST BUG: using escapes requires single-quotes instead of double...
 #
 #
-# - citation: 'Petek N, Kraemer J, Derman A, **Fraser JS**, DiMaio F, Baker D,  Pogliano J, Agard D, Mullins RD.Structure and function of actin-like protein Alp7A reveal conserved and unique features of actin-based plasmid segregation. *Submitted*, 2015.'
+# - citation: "Petek N, Kraemer J, Derman A, **Fraser JS**, DiMaio F, Baker D,  Pogliano J, Agard D, Mullins RD.Structure and function of actin-like protein Alp7A reveal conserved and unique features of actin-based plasmid segregation. *Submitted*, 2015."
 #   date: 201507
 #   image: '/static/img/pub/petek_2015.jpg'
 #   pmid: TBD
@@ -14,40 +14,34 @@
 #       url: 'http://mullinslab.ucsf.edu/'
 #
 
-- citation: 'Gordon DE, Jang GM, Bouhaddou M, Xu J, Obernier K, OMeara MJ, Guo JZ, Swaney DL, Tummino TA, Huttenhain R, Kaake R, Richards AL, Tutuncuoglu B,
-Foussard H, Batra J, Haas K, Modak M, Kim M, Haas P, Polacco BJ, Braberg H, Fabius JM, Eckhardt M, Soucheray M, Brewer M, Cakir M, McGregor MJ, Li Q, Chi Naing ZZ,
-Zhou Y, Peng S, Kirby IT, Melnyk JE, Chorba JS, Lou K, Dai SA, Shen W, Shi Y, Zhang Z, Barrio-Hernandez I, Memon D, Hernandez-Armenta C, Mathy CJP, Perica T, Pilla KB,
-Ganesan SJ, Saltzberg DJ, Ramachandran R, Liu X, Rosenthal SB, Calviello L, Venkataramanan S, Lin Y, **Wankowicz SA**, Bohn M, Trenker R, Young JM, Cavero D, Hiatt J, Roth T,
-Rathore U, Subramanian A, Noack J, Hubert M, Roesch F, Vallet T, Meyer B, White KM, Miorin L, Agard D, Emerman M, Ruggero D, García-Sastre A, Jura N, von Zastrow M, Taunton J,
-Schwartz O, Vignuzzi M, dEnfert C, Mukherjee S, Jacobson M, Malik HS, Fujimori DG, Ideker T, Craik CS, Floor S, **Fraser JS**, Gross J, Sali A, Kortemme T, Beltrao P, Shokat K,
-Shoichet BK, Krogan NJ. A SARS-CoV-2-Human Protein-Protein Interaction Map Reveals Drug Targets and Potential Drug-Repurposing. *Submitted - Preprint on BioRxiv*. 2020.'
+- citation: "Gordon DE, Jang GM, Bouhaddou M, Xu J, Obernier K, O'Meara MJ, Guo JZ, Swaney DL, Tummino TA, Huttenhain R,
+Kaake R, Richards AL, Tutuncuoglu B, Foussard H, Batra J, Haas K, Modak M, Kim M, Haas P, Polacco BJ, Braberg H, Fabius JM,
+Eckhardt M, Soucheray M, Brewer M, Cakir M, McGregor MJ, Li Q, Chi Naing ZZ, Zhou Y, Peng S, Kirby IT, Melnyk JE, Chorba JS,
+Lou K, Dai SA, Shen W, Shi Y, Zhang Z, Barrio-Hernandez I, Memon D, Hernandez-Armenta C, Mathy CJP, Perica T, Pilla KB, Ganesan SJ,
+Saltzberg DJ, Ramachandran R, Liu X, Rosenthal SB, Calviello L, Venkataramanan S, Lin Y, **Wankowicz SA**, Bohn M, Trenker R, Young JM,
+Cavero D, Hiatt J, Roth T, Rathore U, Subramanian A, Noack J, Hubert M, Roesch F, Vallet T, Meyer B, White KM, Miorin L, Agard D,
+Emerman M, Ruggero D, García-Sastre A, Jura N, von Zastrow M, Taunton J, Schwartz O, Vignuzzi M, d'Enfert C, Mukherjee S,
+Jacobson M, Malik HS, Fujimori DG, Ideker T, Craik CS, Floor S, **Fraser JS**, Gross J, Sali A, Kortemme T, Beltrao P, Shokat K,
+Shoichet BK, Krogan NJ. A SARS-CoV-2-Human Protein-Protein Interaction Map Reveals Drug Targets and Potential Drug-Repurposing.
+*Submitted - Preprint on BioRxiv*. 2020."
   date: 202003
   image: '/static/img/pub/qcrg_2020.png'
-  # pmid: 32148858
-  # pmcid: PMC7055375
+  # pmid:
+  # pmcid:
   biorxiv: 2020.03.22.002386
   pdf: '/static/pdf/gordon_2020.pdf'
-  # pdbs:
-  #   - 6U5C
-  #   - 6U5D
-  #   - 6U5E
-  # paired_maps_and_models:
-  #   - pdb: 6U5G
-  #     emdb: "20645"
-  # data:
-  #     - '10.11577/1602169'
-  #     - '10.11577/1598261'
-  #     - '10.11577/1595660'
-  #     - '10.15785/SBGRID/752'
   links:
     - name: Celebratory Tweetstorm by James Fraser
       url: https://twitter.com/fraser_lab/status/1241929245812592641
     - name: New York Times Article on QBI Coronavirus Research Group
       url: https://www.nytimes.com/2020/03/22/science/coronavirus-drugs-chloroquine.html
 
-- citation: '**Wolff AM, Young ID**, Sierra RG, Brewster AS, Martynowycz MW, Nango E, Sugahara M, Nakane T, Ito K, Aquila A, Bhowmick A, **Biel JT**, Carbajo S, Cohen AE, **Cortez S**, Gonzalez A, Hino T, Im D, Koralek JD, Kubo M, **Lazarou TS**, Nomura T, Owada S, Samelson A, Tanaka R, Tanaka T, **Thompson EM**, van den Bedem H, **Woldeyes RA**, Yumoto F, Zhao W, Tono K, Boutet S, Iwata S, Gonen T, Sauter NK, **Fraser JS, Thompson MC**. Comparing serial X-ray crystallography and microcrystal electron
-diffraction (MicroED) as methods for routine structure determination
-from small macromolecular crystals. *IUCrJ*. 2020.'
+- citation: "**Wolff AM, Young ID**, Sierra RG, Brewster AS, Martynowycz MW, Nango E, Sugahara M, Nakane T, Ito K,
+Aquila A, Bhowmick A, **Biel JT**, Carbajo S, Cohen AE, **Cortez S**, Gonzalez A, Hino T, Im D, Koralek JD, Kubo M,
+**Lazarou TS**, Nomura T, Owada S, Samelson A, Tanaka R, Tanaka T, **Thompson EM**, van den Bedem H, **Woldeyes RA**,
+Yumoto F, Zhao W, Tono K, Boutet S, Iwata S, Gonen T, Sauter NK, **Fraser JS, Thompson MC**.
+Comparing serial X-ray crystallography and microcrystal electron diffraction (MicroED) as methods for routine structure
+determination from small macromolecular crystals. *IUCrJ*. 2020."
   date: 201909
   image: '/static/img/pub/micro.jpg'
   pmid: 32148858
@@ -78,7 +72,8 @@ from small macromolecular crystals. *IUCrJ*. 2020.'
     - name: Celebratory Tweetstorm by corresponding author Michael Thompson
       url: https://twitter.com/mctucsf/status/1172334750205218816
 
-- citation: '**Fraser JS**, Lindorff-Larsen K, Bonomi M. What will computational modelling approaches have to say in the era of atomistic cryo-EM data? *Journal of Chemical Information and Modeling*. 2020.'
+- citation: "**Fraser JS**, Lindorff-Larsen K, Bonomi M. What will computational modelling approaches have to say in
+the era of atomistic cryo-EM data? *Journal of Chemical Information and Modeling*. 2020."
   date: 202003
   image: '/static/img/pub/ensembles_2020.jpg'
   pmid: 32090567
@@ -90,7 +85,9 @@ from small macromolecular crystals. *IUCrJ*. 2020.'
     - name: Max Bonomi
       url: https://research.pasteur.fr/en/member/massimiliano-bonomi/
 
-- citation: 'Stojković V, Myasnikov AG, **Young ID**, Frost A, **Fraser JS**, Fujimori DG. Assessment of the nucleotide modifications in the high-resolution cryo-electron microscopy structure of the Escherichia coli 50S subunit. *Nucleic Acids Research*. 2020.'
+- citation: "Stojković V, Myasnikov AG, **Young ID**, Frost A, **Fraser JS**, Fujimori DG. Assessment of the
+nucleotide modifications in the high-resolution cryo-electron microscopy structure of the Escherichia coli 50S subunit.
+*Nucleic Acids Research*. 2020."
   date: 202002
   image: '/static/img/pub/ribosome_2019.jpg'
   pmid: 31989172
@@ -111,7 +108,8 @@ from small macromolecular crystals. *IUCrJ*. 2020.'
     - name: qPTxM code on Github
       url: https://github.com/fraser-lab/qptm
 
-- citation: '**Barad BA, Liu L, Diaz RE, Basillo R**, Van Dyken SJ, Locksley RM, **Fraser JS**. Differences in the chitinolytic activity of mammalian chitinases on soluble and insoluble substrates. *Protein Science*. 2020.'
+- citation: "**Barad BA, Liu L, Diaz RE, Basillo R**, Van Dyken SJ, Locksley RM, **Fraser JS**. Differences in the
+chitinolytic activity of mammalian chitinases on soluble and insoluble substrates. *Protein Science*. 2020."
   date: 202001
   image: '/static/img/pub/chitin_2019.jpg'
   pmid: 31930591
@@ -130,7 +128,8 @@ from small macromolecular crystals. *IUCrJ*. 2020.'
     - name: Celebratory Tweetstorm
       url: https://twitter.com/benjaminbarad/status/1171091343789056000
 
-- citation: Wych DC, **Fraser JS**, Mobley DL, Wall ME. Liquid-like and rigid-body motions in molecular dynamics simulations of a crystalline protein. *Structural Dynamics*. 2019.
+- citation: Wych DC, **Fraser JS**, Mobley DL, Wall ME. Liquid-like and rigid-body motions in molecular dynamics
+simulations of a crystalline protein. *Structural Dynamics*. 2019.
   date: 201911
   image: '/static/img/pub/wych_2019.jpg'
   pmid: 31867408
@@ -145,19 +144,21 @@ from small macromolecular crystals. *IUCrJ*. 2020.'
     - name: 'Scilight - Molecular dynamics approach observes rigid-body and liquid-like motion in protein crystals'
       url: https://aip.scitation.org/doi/10.1063/10.0000388
 
-- citation: 'Yabukarski F, **Biel JT**, Pinney MM, Doukov T, Powers AS, **Fraser JS**, Herschlag D. Assessing positioning in enzymatic catalysis via ketosteroid isomerase conformational ensembles. *Submitted - Preprint on BioRxiv*. 2019.'
+- citation: "Yabukarski F, **Biel JT**, Pinney MM, Doukov T, Powers AS, **Fraser JS**, Herschlag D. Assessing positioning in
+enzymatic catalysis via ketosteroid isomerase conformational ensembles. *Submitted - Preprint on BioRxiv*. 2019."
   date: 201910
   image: '/static/img/pub/enzymes_2019.jpg'
   # pmid: Submitted
   # pmcid: Submitted
   biorxiv: 786327
-  pdf: 'https://www.biorxiv.org/content/biorxiv/early/2019/09/29/786327.full.pdf'
+  pdf: '/static/pdf/yabukarski_2019'
   links:
     - name: Herschlag Lab
       url: http://herschlaglab.stanford.edu/
 
-- citation: '**Thompson MC, Barad BA, Wolff AM**, Cho HS, Schotte F,
-**Schwarz DMC**, Anfinrud P, **Fraser JS**. Temperature-Jump Solution X-ray Scattering Reveals Distinct Motions in a Dynamic Enzyme. *Nature Chemistry*. 2019.'
+- citation: "**Thompson MC, Barad BA, Wolff AM**, Cho HS, Schotte F,
+**Schwarz DMC**, Anfinrud P, **Fraser JS**.
+Temperature-Jump Solution X-ray Scattering Reveals Distinct Motions in a Dynamic Enzyme. *Nature Chemistry*. 2019."
   date: 201810
   image: '/static/img/pub/thompson_2018.jpg'
   pmid: 31527847
@@ -176,7 +177,10 @@ from small macromolecular crystals. *IUCrJ*. 2020.'
     - name: 'Paper Submission Celebration Tweetstorm'
       url: 'https://twitter.com/fraser_lab/status/1067213167367905280'
 
-- citation: 'Rotow JK, Gui P, Wu W, Raymond VM, Lanman RB, Kaye FJ, Peled N, Fece de la Cruz F, Nadres B, Corcoran RB, Yeh I, Bastian BC, Starostik P, Newsom K, Olivas V, **Wolff AM, Fraser JS**, Collisson EA, McCoach CE, Camidge DR, Pacheco J, Bazhenova L, Li T, Bivona TG, Blakely CM. Co-occurring alterations in the RAS-MAPK pathway limit response to MET inhibitor treatment in MET exon 14 skipping mutation-positive lung cancer. *Clinical Cancer Research*. 2019.'
+- citation: "Rotow JK, Gui P, Wu W, Raymond VM, Lanman RB, Kaye FJ, Peled N, Fece de la Cruz F, Nadres B, Corcoran RB, Yeh I,
+Bastian BC, Starostik P, Newsom K, Olivas V, **Wolff AM, Fraser JS**, Collisson EA, McCoach CE, Camidge DR, Pacheco J, Bazhenova L,
+Li T, Bivona TG, Blakely CM. Co-occurring alterations in the RAS-MAPK pathway limit response to MET inhibitor treatment in MET
+exon 14 skipping mutation-positive lung cancer. *Clinical Cancer Research*. 2019."
   date: 201806
   image: '/static/img/pub/rotow_2018.jpg'
   pmid: 31548343
@@ -187,13 +191,15 @@ from small macromolecular crystals. *IUCrJ*. 2020.'
     - name: Bivona Lab
       url: 'http://www.bivonalab.net/'
 
-- citation: 'Li Q\*, **Pellegrino J\*, Lee DJ**, Tran AA, Wang R, **Park JE**, Ji K, Chow D, Zhang N, Brilot AF, **Biel JT**, van Zundert G, Borrelli K, Shinabarger D, Wolfe C, Murray B, Jacobson MP, **Fraser JS**, Seiple IB. Synthesis and Mechanism of Action of Group a Streptogramin Antibiotics That Overcome Resistance. *Submitted - Preprint on ChemRxiv*. 2019.'
+- citation: "Li Q\*, **Pellegrino J\*, Lee DJ**, Tran AA, Wang R, **Park JE**, Ji K, Chow D, Zhang N, Brilot AF, **Biel JT**,
+van Zundert G, Borrelli K, Shinabarger D, Wolfe C, Murray B, Jacobson MP, **Fraser JS**, Seiple IB. Synthesis and Mechanism of
+Action of Group a Streptogramin Antibiotics That Overcome Resistance. *Submitted - Preprint on ChemRxiv*. 2019."
   date: 201906
   image: '/static/img/pub/streptogramin_2019.jpg'
   # pmid: Submitted
   # pmcid: Submitted
   chemrxiv: 8346107
-  pdf: 'https://doi.org/10.26434/chemrxiv.8346107.v1'
+  pdf: '/static/pdf/li_pellegrino_2019'
   paired_maps_and_models:
     - pdb: 6PCQ
       emdb: "20304"
@@ -221,7 +227,10 @@ from small macromolecular crystals. *IUCrJ*. 2020.'
     - name: 'Paper Submission Celebration Photo'
       url: 'https://twitter.com/fraser_lab/status/1144742221205217280'
 
-- citation: 'Chatterjee N, Pazarentzos E, Mayekar MK, Gui P, Allegakoen DV, Hrustanovic G, Olivas V, Lin L, Verschueren E, Johnson JR, Hofree M, Yan JJ, Newton BW, Dollen JV, Earnshaw CH, Flanagan J, Chan E, Asthana S, Ideker T, Wu W, Suzuki J, **Barad BA**, Kirichok Y, **Fraser JS**, Weiss WA, Krogan NJ, Tulpule A, Sabnis AJ, Bivona TG. Synthetic essentiality of metabolic regulator PDHK1 in PTEN-deficient cells and cancers. *Cell Reports.* 2019.'
+- citation: "Chatterjee N, Pazarentzos E, Mayekar MK, Gui P, Allegakoen DV, Hrustanovic G, Olivas V, Lin L, Verschueren E,
+Johnson JR, Hofree M, Yan JJ, Newton BW, Dollen JV, Earnshaw CH, Flanagan J, Chan E, Asthana S, Ideker T, Wu W, Suzuki J,
+**Barad BA**, Kirichok Y, **Fraser JS**, Weiss WA, Krogan NJ, Tulpule A, Sabnis AJ, Bivona TG. Synthetic essentiality of
+metabolic regulator PDHK1 in PTEN-deficient cells and cancers. *Cell Reports.* 2019."
   date: 201810
   image: '/static/img/pub/chatterjee_2018.jpg'
   pmid: 31461649
@@ -232,7 +241,7 @@ from small macromolecular crystals. *IUCrJ*. 2020.'
     - name: Bivona Lab
       url: https://www.bivonalab.net/
 
-- citation: '**Young ID**, **Fraser JS**. News & Views: Biomaterials in non-integer dimensions. *Nature Chemistry*. 2019.'
+- citation: "**Young ID**, **Fraser JS**. News & Views: Biomaterials in non-integer dimensions. *Nature Chemistry*. 2019."
   date: 201905
   image: '/static/img/pub/fractal_2019.jpg'
   pmid: 31209301
@@ -241,7 +250,9 @@ from small macromolecular crystals. *IUCrJ*. 2020.'
     - name: Stimulus-responsive self-assembly of protein-based fractals by computational design
       url: https://doi.org/10.1038/s41557-019-0277-y
 
-- citation: 'Glasgow AA, Huang Y, Mandell DJ, **Thompson M**, Ritterson R, Loshbaugh AL, **Pellegrino J**, Krivacic C, Pache RA, Barlow KA, Ollikainen N, Jeon D, Kelly MJS, **Fraser JS**, Kortemme T. Computational design of a modular protein sense/response system. *Science*. 2019.'
+- citation: "Glasgow AA, Huang Y, Mandell DJ, **Thompson M**, Ritterson R, Loshbaugh AL, **Pellegrino J**, Krivacic C, Pache RA,
+Barlow KA, Ollikainen N, Jeon D, Kelly MJS, **Fraser JS**, Kortemme T. Computational design of a modular protein sense/response
+system. *Science*. 2019."
   date: 201904
   image: '/static/img/pub/biosensor_2019.jpg'
   pmid: 31754004
@@ -258,7 +269,8 @@ from small macromolecular crystals. *IUCrJ*. 2020.'
     - name: Kortemme Lab
       url: http://kortemmelab.ucsf.edu/
 
-- citation: 'Eshun-Wilson L, Zhang R, Portran D, Toso D, Lohr T, Vendruscolo M, Bonomi M, **Fraser JS**, Nogales E. Effects of α-tubulin acetylation on microtubule structure and stability. *PNAS*. 2019.'
+- citation: "Eshun-Wilson L, Zhang R, Portran D, Toso D, Lohr T, Vendruscolo M, Bonomi M, **Fraser JS**, Nogales E. Effects of
+α-tubulin acetylation on microtubule structure and stability. *PNAS*. 2019."
   date: 201901
   image: '/static/img/pub/eshun-wilson_2019.jpg'
   pmid: 31072936
@@ -286,7 +298,10 @@ from small macromolecular crystals. *IUCrJ*. 2020.'
     - name: 'Paper Submission Celebration Tweets'
       url: 'https://twitter.com/fraser_lab/status/1083223409993998337'
 
-- citation: 'Dasgupta M, Budday D, **Oliveira SHP**, Madzelan P, Marchany-Rivera D, Seravalli J, Hayes B, Sierra RG, Boutet S, Hunter MS, Alonso-Mori R, Batyuk A, Wierman J, Lyubimov A, Brewster AS, Sauter NK, Applegate GA, Tiwari VK, Berkowitz DB, **Thompson MC**, Cohen AE, **Fraser JS**, Wall ME, van den Bedem H, Wilson MA. Mix-and-inject XFEL crystallography reveals gated conformational dynamics during enzyme catalysis. *PNAS*. 2019.'
+- citation: "Dasgupta M, Budday D, **Oliveira SHP**, Madzelan P, Marchany-Rivera D, Seravalli J, Hayes B, Sierra RG, Boutet S,
+Hunter MS, Alonso-Mori R, Batyuk A, Wierman J, Lyubimov A, Brewster AS, Sauter NK, Applegate GA, Tiwari VK, Berkowitz DB,
+**Thompson MC**, Cohen AE, **Fraser JS**, Wall ME, van den Bedem H, Wilson MA. Mix-and-inject XFEL crystallography reveals
+gated conformational dynamics during enzyme catalysis. *PNAS*. 2019."
   date: 201903
   image: '/static/img/pub/DasGupta_2019.jpg'
   pmid: 31801874
@@ -305,7 +320,9 @@ from small macromolecular crystals. *IUCrJ*. 2020.'
     - name: 'Paper Submission Celebration Tweets'
       url: 'https://twitter.com/HvandenBedem/status/1086654403233214464'
 
-- citation: 'Hu S, Offenbacher AR, **Thompson EM**, Gee CL, Wilcoxen J, Carr CAM, Prigozhin DM, Yang V, Alber T, Britt RD, **Fraser JS**, Klinman JP. Biophysical Characterization of a Disabled Double Mutant of Soybean Lipoxygenase: The Undoing of Precise Substrate Positioning Relative to Metal Cofactor and an Identified Dynamical Network. *JACS*. 2019.'
+- citation: "Hu S, Offenbacher AR, **Thompson EM**, Gee CL, Wilcoxen J, Carr CAM, Prigozhin DM, Yang V, Alber T, Britt RD,
+**Fraser JS**, Klinman JP. Biophysical Characterization of a Disabled Double Mutant of Soybean Lipoxygenase: The Undoing of
+Precise Substrate Positioning Relative to Metal Cofactor and an Identified Dynamical Network. *JACS*. 2019."
   date: 201902
   image: '/static/img/pub/hu_2019.jpg'
   pmid: 30645119
@@ -315,7 +332,8 @@ from small macromolecular crystals. *IUCrJ*. 2020.'
     - name: 'Klinman Lab'
       url: 'http://www.cchem.berkeley.edu/jukgrp/klinman_group/Home.html'
 
-- citation: 'Herzik Jr. MA, **Fraser JS**, Lander GC. A multi-model approach to assessing local and global cryo-EM map quality. *Structure*. 2019.'
+- citation: "Herzik Jr. MA, **Fraser JS**, Lander GC. A multi-model approach to assessing local and global cryo-EM map quality.
+*Structure*. 2019."
   date: 201808
   image: '/static/img/pub/herzik_2017.jpg'
   pmid: 30449687
@@ -328,7 +346,9 @@ from small macromolecular crystals. *IUCrJ*. 2020.'
     - name: 'Convergence Server @ Lander Lab'
       url: 'http://www.lander-lab.com/convergence/'
 
-- citation: 'van Zundert GCP\*, **Hudson BM\*,  Oliveira SHP, Keedy DA**, Fonseca R, Heliou A, **Suresh P**, Borrelli K, Day T, **Fraser JS**, van den Bedem H. qFit-ligand reveals widespread conformational heterogeneity of drug-like molecules in X-ray electron density maps. *J Med Chem*. 2018.'
+- citation: "van Zundert GCP\*, **Hudson BM\*, Oliveira SHP, Keedy DA**, Fonseca R, Heliou A, **Suresh P**, Borrelli K, Day T,
+**Fraser JS**, van den Bedem H. qFit-ligand reveals widespread conformational heterogeneity of drug-like molecules in X-ray
+electron density maps. *J Med Chem*. 2018."
   date: 201809
   image: '/static/img/pub/qfit_ligand.gif'
   pmid: 30457858
@@ -349,18 +369,25 @@ from small macromolecular crystals. *IUCrJ*. 2020.'
     - name: 'Paper Submission Celebration Photo'
       url: 'https://twitter.com/fraser_lab/status/956318642454474752'
 
-- citation: 'Babcock NS, **Keedy DA**, **Fraser JS**, Sivak DA. Model selection for biological crystallography. *Preprint on BioRxiv*. 2018.'
+- citation: "Babcock NS, **Keedy DA**, **Fraser JS**, Sivak DA. Model selection for biological crystallography.
+*Preprint on BioRxiv*. 2018."
   date: 201807
   image: '/static/img/pub/sivak_2018.jpg'
   biorxiv: "448795"
-  pdf: 'https://www.biorxiv.org/content/early/2018/10/20/448795.full.pdf'
+  pdf: '/static/pdf/babcock_2018'
   links:
     - name: 'David Sivak'
       url: 'https://www.sfu.ca/physics/sivakgroup.html'
     - name: 'Paper Submission Celebration Tweetstorm'
       url: 'https://twitter.com/fraser_lab/status/1054092666898542592'
 
-- citation: '**Mavor D**, Barlow KA, Asarnow D, Birman Y, Britain D, Chen W, Green EM, Kenner LR, Mensa B, Morinishi LS, Nelson CA, **Poss EM**, Suresh P, Tian R, Arhar T, Ary BE, Bauer DP, Bergman ID, Brunetti RM, Chio CM, Dai SA, Dickinson MS, Elledge SK, Helsell CV M, Hendel NL, Kang E, Kern N, Khoroshkin MS, Kirkemo LL, Lewis GR, Lou K, Marin WM, Maxwell AM, McTigue PF, Myers-Turnbull D, Nagy TL, Natale AM, Oltion K, Pourmal S, Reder GK, Rettko NJ, Rohweder PJ, Schwarz DMC, Tan SK, Thomas PV, Tibble RW, Town JP, Tsai MK, Ugur FS, Wassarman DR, **Wolff AM**, Wu TS, Bogdanoff D, **Li J**, Thorn KS, O’Conchúir S, Swaney DL, Chow ED, Madhani HD, Redding S, Bolon DN, Kortemme T, DeRisi JL, Kampmann M, **Fraser JS**. Extending chemical perturbations of the ubiquitin fitness landscape in a classroom setting reveals new constraints on sequence tolerance. *Biology Open*. 2018.'
+- citation: "**Mavor D**, Barlow KA, Asarnow D, Birman Y, Britain D, Chen W, Green EM, Kenner LR, Mensa B, Morinishi LS,
+Nelson CA, **Poss EM**, Suresh P, Tian R, Arhar T, Ary BE, Bauer DP, Bergman ID, Brunetti RM, Chio CM, Dai SA, Dickinson MS,
+Elledge SK, Helsell CV M, Hendel NL, Kang E, Kern N, Khoroshkin MS, Kirkemo LL, Lewis GR, Lou K, Marin WM, Maxwell AM, McTigue PF,
+Myers-Turnbull D, Nagy TL, Natale AM, Oltion K, Pourmal S, Reder GK, Rettko NJ, Rohweder PJ, Schwarz DMC, Tan SK, Thomas PV,
+Tibble RW, Town JP, Tsai MK, Ugur FS, Wassarman DR, **Wolff AM**, Wu TS, Bogdanoff D, **Li J**, Thorn KS, O’Conchúir S, Swaney DL,
+Chow ED, Madhani HD, Redding S, Bolon DN, Kortemme T, DeRisi JL, Kampmann M, **Fraser JS**. Extending chemical perturbations of
+the ubiquitin fitness landscape in a classroom setting reveals new constraints on sequence tolerance. *Biology Open*. 2018."
   date: 201805
   image: '/static/img/pub/pubs_2017.jpg'
   pmid: 30037883
@@ -373,7 +400,9 @@ from small macromolecular crystals. *IUCrJ*. 2020.'
     - name: PUBS Code on Github
       url: 'https://github.com/fraser-lab/PUBS'
 
-- citation: '**Keedy DA**\*, Hill ZB\*, **Biel JT**, Kang E, Rettenmaier TJ, Brandao-Neto J, Pearce NM, von Delft F, Wells JA, **Fraser JS**. An expanded allosteric network in PTP1B by multitemperature crystallography, fragment screening, and covalent tethering. *eLife*. 2018.'
+- citation: "**Keedy DA**\*, Hill ZB\*, **Biel JT**, Kang E, Rettenmaier TJ, Brandao-Neto J, Pearce NM, von Delft F, Wells JA,
+**Fraser JS**. An expanded allosteric network in PTP1B by multitemperature crystallography, fragment screening, and covalent
+tethering. *eLife*. 2018."
   date: 201804
   image: '/static/img/pub/keedy_2017.jpg'
   pmid: 29877794
@@ -513,7 +542,8 @@ from small macromolecular crystals. *IUCrJ*. 2020.'
     - code: "1044103"
       description: dataset
 
-- citation: 'Otten R\*, **Liu L**\*, **Kenner LR**, Clarkson MW, **Mavor D**, Tawfik DS, Kern D, **Fraser JS**. Rescue of Conformational Dynamics in Enzyme Catalysis by Directed Evolution. *Nature Communications*. 2018.'
+- citation: "Otten R\*, **Liu L**\*, **Kenner LR**, Clarkson MW, **Mavor D**, Tawfik DS, Kern D, **Fraser JS**. Rescue of
+Conformational Dynamics in Enzyme Catalysis by Directed Evolution. *Nature Communications*. 2018."
   date: 201803
   image: '/static/img/pub/otten_liu_2017.jpg'
   pmid: 29615624
@@ -527,7 +557,8 @@ from small macromolecular crystals. *IUCrJ*. 2020.'
     - name: 'Kern Lab'
       url: 'http://www.bio.brandeis.edu/kernlab/'
 
-- citation: 'Wall ME, **Wolff AM**, **Fraser JS**. Bringing Diffuse X-ray Scattering Into Focus. *Current Opinion in Structural Biology*. 2018.'
+- citation: "Wall ME, **Wolff AM**, **Fraser JS**. Bringing Diffuse X-ray Scattering Into Focus. *Current Opinion in Structural
+Biology*. 2018."
   date: 201802
   image: '/static/img/pub/wall_review_2017.jpg'
   pmid: 29455056
@@ -542,8 +573,10 @@ from small macromolecular crystals. *IUCrJ*. 2020.'
     - name: 'Paper Submission Celebration Photo'
       url: 'https://twitter.com/LifeHasOrder/status/930291172668403712'
 
-- citation: 'Thomaston JL, **Woldeyes RA**, Nakane T, Yamashita A, Tanaka T, Koiwai K, Brewster AS, **Barad BA**, Chen Y, Lemmin T, Uervirojnangkoorn M, Arima T, Kobayashi J, Masuda T, Suzuki M, Sugahara M, Sauter NK, Tanaka R, Nureki O, Tono K, Joti Y, Nango E, Iwata S, Yumoto F, **Fraser JS**, DeGrado WF. XFEL structures of the influenza M2 proton channel: Room temperature water networks and insights
-into proton conduction. *PNAS*. 2017.'
+- citation: "Thomaston JL, **Woldeyes RA**, Nakane T, Yamashita A, Tanaka T, Koiwai K, Brewster AS, **Barad BA**, Chen Y,
+Lemmin T, Uervirojnangkoorn M, Arima T, Kobayashi J, Masuda T, Suzuki M, Sugahara M, Sauter NK, Tanaka R, Nureki O, Tono K, Joti Y,
+Nango E, Iwata S, Yumoto F, **Fraser JS**, DeGrado WF. XFEL structures of the influenza M2 proton channel: Room temperature water
+networks and insights into proton conduction. *PNAS*. 2017."
   date: 201707
   image: '/static/img/pub/thomaston_2017.jpg'
   pmid: 28835537
@@ -559,7 +592,8 @@ into proton conduction. *PNAS*. 2017.'
     - name: 'SACLA XFEL'
       url: 'http://xfel.riken.jp/eng/'
 
-- citation: 'Acker TM, Gable JE, Bohn MF, Jaishankar P, **Thompson MC**, **Fraser JS**, Renslo AR, Craik CS. Allosteric Inhibitors, Crystallography and Comparative Analysis Reveal Network of Coordinated Movement Across Human Herpesvirus Proteases. *JACS*. 2017.'
+- citation: "Acker TM, Gable JE, Bohn MF, Jaishankar P, **Thompson MC**, **Fraser JS**, Renslo AR, Craik CS. Allosteric Inhibitors,
+ Crystallography and Comparative Analysis Reveal Network of Coordinated Movement Across Human Herpesvirus Proteases. *JACS*. 2017."
   date: 201706
   image: '/static/img/pub/acker_2017.jpg'
   pmid: 28759216
@@ -577,7 +611,9 @@ into proton conduction. *PNAS*. 2017.'
     - name: 'Craik Lab'
       url: 'http://www.craiklab.ucsf.edu/'
 
-- citation: 'Offenbacher AR , Hu S, **Poss EM**, Carr CAM , Scouras AD, Prigozhin DM, Iavarone AT, Palla A, Alber T, **Fraser JS**, Klinman JP. Hydrogen–Deuterium Exchange of Lipoxygenase Uncovers a Relationship between Distal, Solvent Exposed Protein Motions and the Thermal Activation Barrier for Catalytic Proton-Coupled Electron Tunneling. *ACS Central Science*. 2017.'
+- citation: "Offenbacher AR , Hu S, **Poss EM**, Carr CAM , Scouras AD, Prigozhin DM, Iavarone AT, Palla A, Alber T, **Fraser JS**,
+ Klinman JP. Hydrogen–Deuterium Exchange of Lipoxygenase Uncovers a Relationship between Distal, Solvent Exposed Protein Motions
+  and the Thermal Activation Barrier for Catalytic Proton-Coupled Electron Tunneling. *ACS Central Science*. 2017."
   date: 201705
   image: '/static/img/pub/klinman_2017.jpg'
   pmid: 28691068
@@ -590,7 +626,8 @@ into proton conduction. *PNAS*. 2017.'
     - name: 'Klinman Lab'
       url: 'http://www.cchem.berkeley.edu/jukgrp/klinman_group/Home.html'
 
-- citation: '**Biel JT**, **Thompson MC**, Cunningham CN, Corn JE, **Fraser JS**. Flexibility and design: conformational heterogeneity along the evolutionary trajectory of a redesigned ubiquitin. *Structure*. 2017.'
+- citation: "**Biel JT**, **Thompson MC**, Cunningham CN, Corn JE, **Fraser JS**. Flexibility and design: conformational
+ heterogeneity along the evolutionary trajectory of a redesigned ubiquitin. *Structure*. 2017."
   date: 201703
   image: '/static/img/pub/biel_2016.jpg'
   pmid: 28416112
@@ -611,7 +648,8 @@ into proton conduction. *PNAS*. 2017.'
     - name: 'Preview: Room Temperature X-Ray Crystallography Reveals Conformational Heterogeneity of Engineered Proteins'
       url: 'http://www.cell.com/structure/fulltext/S0969-2126(17)30105-3'
 
-- citation: 'Adolph MB, Ara A, Feng Y, Wittkopp CJ, Emerman M, **Fraser JS**, Chelico L. Cytidine deaminase efficiency of the lentiviral viral restriction factor APOBEC3C correlates with dimerization. *Nucleic Acids Research*. 2017.'
+- citation: "Adolph MB, Ara A, Feng Y, Wittkopp CJ, Emerman M, **Fraser JS**, Chelico L. Cytidine deaminase efficiency of
+ the lentiviral viral restriction factor APOBEC3C correlates with dimerization. *Nucleic Acids Research*. 2017."
   date: 201702
   image: '/static/img/pub/chelico_2017.jpg'
   pmid: 28158858
@@ -623,7 +661,8 @@ into proton conduction. *PNAS*. 2017.'
     - name: HARC Center
       url: 'http://harc.ucsf.edu/'
 
-- citation: 'Russi S, González A, **Kenner LR**, **Keedy DA**, **Fraser JS**, van den Bedem H. Conformational variation of proteins at room temperature is not dominated by radiation damage. *Journal of Synchrotron Radiation*. 2017.'
+- citation: "Russi S, González A, **Kenner LR**, **Keedy DA**, **Fraser JS**, van den Bedem H. Conformational variation of
+ proteins at room temperature is not dominated by radiation damage. *Journal of Synchrotron Radiation*. 2017."
   date: 201701
   image: '/static/img/pub/russi_2017.jpg'
   pmid: 28009548
@@ -633,7 +672,8 @@ into proton conduction. *PNAS*. 2017.'
     - name: Henry van den Bedem
       url: 'https://people.stanford.edu/vdbedem/'
 
-- citation: 'Wang RYR, Song Y, **Barad BA**, Cheng Y, **Fraser JS**, DiMaio F. Automated structure refinement of macromolecular assemblies from cryo-EM maps using Rosetta. *eLife*. 2016.'
+- citation: "Wang RYR, Song Y, **Barad BA**, Cheng Y, **Fraser JS**, DiMaio F. Automated structure refinement of macromolecular
+ assemblies from cryo-EM maps using Rosetta. *eLife*. 2016."
   date: 201606
   image: '/static/img/pub/wang_2016.jpg'
   pmid: 27669148
@@ -644,7 +684,11 @@ into proton conduction. *PNAS*. 2017.'
     - name: 'DiMaio Lab'
       url: 'https://faculty.washington.edu/dimaio/wordpress/'
 
-- citation: '**Mavor D**, Barlow KA, Thompson S, **Barad BA**, Bonny AR, Cario CL, Gaskins G, Liu Z, Deming L, Axen SD, Caceres E, Chen W, Cuesta A, Gate R, Green EM, Hulce KR, Ji W, Kenner LR, Mensa B, Morinishi LS, Moss SM, Mravic M, Muir RK, Niekamp S, Nnadi CI, Palovcak E, **Poss EM**, Ross TD, Salcedo E, See S, Subramaniam M, Wong AW, Li J, Thorn KS, Conchúir SÓ, Roscoe BP, Chow ED, DeRisi JL, Kortemme T, Bolon DN, **Fraser JS**. Determination of Ubiquitin Fitness Landscapes Under Different Chemical Stresses in a Classroom Setting. *eLife*. 2016.'
+- citation: "**Mavor D**, Barlow KA, Thompson S, **Barad BA**, Bonny AR, Cario CL, Gaskins G, Liu Z, Deming L, Axen SD,
+Caceres E, Chen W, Cuesta A, Gate R, Green EM, Hulce KR, Ji W, Kenner LR, Mensa B, Morinishi LS, Moss SM, Mravic M, Muir RK,
+Niekamp S, Nnadi CI, Palovcak E, **Poss EM**, Ross TD, Salcedo E, See S, Subramaniam M, Wong AW, Li J, Thorn KS, Conchúir SÓ,
+Roscoe BP, Chow ED, DeRisi JL, Kortemme T, Bolon DN, **Fraser JS**. Determination of Ubiquitin Fitness Landscapes Under Different
+Chemical Stresses in a Classroom Setting. *eLife*. 2016."
   date: 201605
   image: '/static/img/pub/pubs_2015.jpg'
   pmid: 27111525
@@ -661,7 +705,8 @@ into proton conduction. *PNAS*. 2017.'
     - name: 'eLIFEdigest: Yeast in a class of their own'
       url: 'https://medium.com/lifes-building-blocks/yeast-in-a-class-of-their-own-4dabb27653eb#.tcf71ly8z'
 
-- citation: '**Van Benschoten AH**, **Liu L**, Gonzalez A, Brewster AS, Sauter NK, **Fraser JS**, Wall ME. Measuring and modeling diffuse scattering in protein X-ray crystallography. *PNAS*, 2016.'
+- citation: "**Van Benschoten AH**, **Liu L**, Gonzalez A, Brewster AS, Sauter NK, **Fraser JS**, Wall ME. Measuring and modeling
+diffuse scattering in protein X-ray crystallography. *PNAS*, 2016."
   date: 201604
   image: '/static/img/pub/avb_3_2015.jpg'
   pmid: 27035972
@@ -680,7 +725,14 @@ into proton conduction. *PNAS*. 2017.'
     - name: 'Paper Submission Celebration Photo'
       url: 'https://twitter.com/fraser_lab/status/673393918524784640'
 
-- citation: 'Meyer PA,  Socias S,  Key J,  Ransey E,  Tjon EC,  Buschiazzo A,  Lei M,  Botka C,  Withrow J,  Neau D,  Rajashankar K,  Anderson KS,  Baxter RH,  Blacklow SC,  Boggon TJ,  Bonvin AMJJ,  Borek D,  Brett TJ,  Caflisch A,  Chang C,  Chazin WJ,  Corbett KD,  Cosgrove MS,  Crosson S,  Dhe-Paganon S,  Cera ED,  Drennan CL,  Eck MJ,  Eichman BF,  Fan QR,  Ferré-DAmaré AR,  Fromme JC,  Garcia KC,  Gaudet R,  Gong P,  Harrison SC,  Heldwein EE,  Jia Z,  Keenan RJ,  Kruse AC,  Kvansakul M,  McLellan JS,  Modis Y,  Nam Y,  Otwinowski Z,  Pai EF,  Pereira PJB,  Petosa C,  Raman CS,  Rapoport TA,  Roll-Mecak A,  Rosen MK,  Rudenko G,  Schlessinger J,  Schwartz TU,  Shamoo Y,  Sondermann H,  Tao YJ,  Tolia NH,  Tsodikov OV,  Westover KD,  Wu H,  Foster I,  **Fraser JS**,  Maia FRNC,  Gonen T,  Kirchhausen T,  Diederichs K,  Crosas M,  Sliz P. Data publication with the structural biology data grid supports live analysis. *Nature Communications*, 2016.'
+- citation: "Meyer PA, Socias S, Key J, Ransey E, Tjon EC, Buschiazzo A, Lei M, Botka C, Withrow J, Neau D, Rajashankar K,
+Anderson KS, Baxter RH, Blacklow SC, Boggon TJ, Bonvin AMJJ, Borek D, Brett TJ, Caflisch A, Chang C, Chazin WJ, Corbett KD,
+Cosgrove MS, Crosson S, Dhe-Paganon S, Cera ED, Drennan CL, Eck MJ, Eichman BF, Fan QR, Ferré-D'Amaré AR, Fromme JC,
+Garcia KC, Gaudet R, Gong P, Harrison SC, Heldwein EE, Jia Z, Keenan RJ, Kruse AC, Kvansakul M, McLellan JS, Modis Y,
+Nam Y, Otwinowski Z, Pai EF, Pereira PJB, Petosa C, Raman CS, Rapoport TA, Roll-Mecak A, Rosen MK, Rudenko G,
+Schlessinger J, Schwartz TU, Shamoo Y, Sondermann H, Tao YJ, Tolia NH, Tsodikov OV, Westover KD, Wu H, Foster I,
+ **Fraser JS**, Maia FRNC, Gonen T, Kirchhausen T, Diederichs K, Crosas M, Sliz P. Data publication with the structural
+ biology data grid supports live analysis. *Nature Communications*, 2016."
   date: 201603
   image: '/static/img/pub/sbgrid_2016.jpg'
   pmid: 26947396
@@ -694,7 +746,9 @@ into proton conduction. *PNAS*. 2017.'
     - name: 'SBGrid'
       url: 'http://data.sbgrid.org'
 
-- citation: 'Cimermancic P, Weinkam P, Rettenmaier TJ, Bichmann L, **Keedy DA**, **Woldeyes RA**, Schneidmann D, Demerdash ONA, Mitchell JC, Wells JA, **Fraser JS**, Sali A. CryptoSite: Expanding the druggable proteome by characterization and prediction of cryptic binding sites. *Journal of Molecular Biology*. 2016'
+- citation: "Cimermancic P, Weinkam P, Rettenmaier TJ, Bichmann L, **Keedy DA**, **Woldeyes RA**, Schneidmann D, Demerdash ONA,
+Mitchell JC, Wells JA, **Fraser JS**, Sali A. CryptoSite: Expanding the druggable proteome by characterization and prediction of
+cryptic binding sites. *Journal of Molecular Biology*. 2016'
   date: 201602
   image: '/static/img/pub/cimermancic_2016.jpg'
   pmid: 26854760
@@ -710,7 +764,10 @@ into proton conduction. *PNAS*. 2017.'
     - name: 'F1000 Evaluation'
       url: 'http://f1000.com/prime/726132503'
 
-- citation: 'Baxter EL, Aguila L, Alonso-Mori R, Barnes CO, BonaguraCA, Brehmer W, Brunger AT, Calero G, Caradoc-Davies TT, `jee R, Degrado WF, **Fraser JS**, Ibrahim M, Kern J, Kobilka BK, Kruse AC, Larsson KM, Lemke HT, Lyubimov AY, Manglik A, McPhillips SE, Norgren E, Pang SS, Soltis SM, Song J, Thomaston J, Tsai Y, Weis WI, **Woldeyes RA**, Yachandra V, Yano J, Zouni A, Cohen AE. High-density grids for efficient data collection from multiple crystals.
+- citation: "Baxter EL, Aguila L, Alonso-Mori R, Barnes CO, BonaguraCA, Brehmer W, Brunger AT, Calero G, Caradoc-Davies TT,
+`jee R, Degrado WF, **Fraser JS**, Ibrahim M, Kern J, Kobilka BK, Kruse AC, Larsson KM, Lemke HT, Lyubimov AY, Manglik A,
+McPhillips SE, Norgren E, Pang SS, Soltis SM, Song J, Thomaston J, Tsai Y, Weis WI, **Woldeyes RA**, Yachandra V, Yano J,
+Zouni A, Cohen AE. High-density grids for efficient data collection from multiple crystals.
 *Acta Crystallographica D*. 2016'
   date: 201601
   image: '/static/img/pub/baxter.gif'
@@ -721,7 +778,9 @@ into proton conduction. *PNAS*. 2017.'
       - name: LCLS XPP Beamline
         url: 'https://portal.slac.stanford.edu/sites/lcls_public/instruments/xpp/Pages/default.aspx'
 
-- citation: 'Thomaston JL, Alfonso-Prieto M, **Woldeyes RA**, **Fraser JS**, Klein ML, Fiorin G, DeGrado WF. High resolution structures of the M2 proton channel from influenza A virus reveal  dynamic pathways for proton stabilization and transduction. *PNAS*, 2015.'
+- citation: "Thomaston JL, Alfonso-Prieto M, **Woldeyes RA**, **Fraser JS**, Klein ML, Fiorin G, DeGrado WF. High resolution
+structures of the M2 proton channel from influenza A virus reveal dynamic pathways for proton stabilization and transduction.
+*PNAS*, 2015."
   date: 201511
   image: '/static/img/pub/thomaston_2015.jpg'
   pmid: 26578770
@@ -738,7 +797,8 @@ into proton conduction. *PNAS*. 2017.'
     - name: 'DeGrado Lab'
       url: 'http://www.degradolab.org/'
 
-- citation: 'Fischer M, Shoichet BK, **Fraser JS**. One Crystal, two Temperatures – Cryocooling Penalties alter Ligand Binding to Transient Protein Sites. *ChemBioChem*. 2015.'
+- citation: "Fischer M, Shoichet BK, **Fraser JS**. One Crystal, two Temperatures – Cryocooling Penalties alter Ligand Binding to
+Transient Protein Sites. *ChemBioChem*. 2015."
   date: 201510
   image: '/static/img/pub/fischer_2015.jpg'
   pmid: 26032594
@@ -761,7 +821,9 @@ into proton conduction. *PNAS*. 2017.'
     - name: 'F1000 Evaluation'
       url: 'http://f1000.com/prime/725527898'
 
-- citation: 'Dellus-Gur E, Elias M, Caselli E, Prati F, Salverda ML, de Visser JA, **Fraser JS**, Tawfik DS. Negative epistasis and evolvability in TEM-1 β-lactamase – The thin line between an enzyme’s conformational freedom and disorder. *Journal of Molecular Biology*. 2015.'
+- citation: "Dellus-Gur E, Elias M, Caselli E, Prati F, Salverda ML, de Visser JA, **Fraser JS**, Tawfik DS. Negative epistasis
+and evolvability in TEM-1 β-lactamase – The thin line between an enzyme’s conformational freedom and disorder. *Journal of
+Molecular Biology*. 2015."
   date: 201509
   image: '/static/img/pub/dellus_gur_2015.gif'
   pmid: 26004540
@@ -782,9 +844,11 @@ into proton conduction. *PNAS*. 2017.'
     - name: 'Tawfik Lab'
       url: 'http://www.weizmann.ac.il/Biological_Chemistry/scientist/Tawfik/'
 
-- citation: 'Kane JR, Stanley DJ, Hultquist JF, Johnson JR, Mietrach N,
+- citation: "Kane JR, Stanley DJ, Hultquist JF, Johnson JR, Mietrach N,
 Binning JM, Jonsson SR, **Barelier S**, Newton BW, Johnson TL,
-Franks-Skiba KE, Li M, Brown WL, Gunnarsson HI, Adalbjornsdottir A, **Fraser JS**, Harris RS, Andresdottir V, Gross JD, Krogan NJ. Lineage-Specific Viral Hijacking of Non-canonical E3 Ubiquitin Ligase Cofactors in the Evolution of Vif Anti-APOBEC3 Activity. *Cell Reports*. 2015.'
+Franks-Skiba KE, Li M, Brown WL, Gunnarsson HI, Adalbjornsdottir A, **Fraser JS**, Harris RS, Andresdottir V, Gross JD, Krogan NJ.
+ Lineage-Specific Viral Hijacking of Non-canonical E3 Ubiquitin Ligase Cofactors in the Evolution of Vif Anti-APOBEC3 Activity.
+ *Cell Reports*. 2015."
   date: 201508
   image: '/static/img/pub/kane_2015.jpg'
   pmid: 25981045
@@ -798,13 +862,14 @@ Franks-Skiba KE, Li M, Brown WL, Gunnarsson HI, Adalbjornsdottir A, **Fraser JS*
     - name: HARC Center
       url: 'http://harc.ucsf.edu/'
 
-- citation: '**Keedy DA**, **Fraser JS**, van den Bedem H. Exposing hidden alternative backbone conformations in X-ray crystallography using qFit. *PLOS Computational Biology*. 2015.'
+- citation: "**Keedy DA**, **Fraser JS**, van den Bedem H. Exposing hidden alternative backbone conformations in X-ray
+crystallography using qFit. *PLOS Computational Biology*. 2015."
   date: 201507
   image: '/static/img/pub/keedy_pcb_2015.jpg'
   pmid: 26506617
   pmcid: PMC4624436
   biorxiv: 018879
-  pdf: /static/pdf/keedy_plos_2015.pdf
+  pdf: '/static/pdf/keedy_plos_2015.pdf'
   links:
     - name: Henry van den Bedem
       url: 'https://people.stanford.edu/vdbedem/'
@@ -817,7 +882,8 @@ Franks-Skiba KE, Li M, Brown WL, Gunnarsson HI, Adalbjornsdottir A, **Fraser JS*
     - name: Paper Submission Celebration Photo
       url: 'https://twitter.com/fraser_lab/status/594308094403837952'
 
-- citation: 'van den Bedem H, **Fraser JS**. Integrative, Dynamic Structural Biology at Atomic Resolution — It’s About Time. *Nature Methods*. 2015.'
+- citation: "van den Bedem H, **Fraser JS**. Integrative, Dynamic Structural Biology at Atomic Resolution — It’s About Time.
+ *Nature Methods*. 2015."
   date: 201506
   image: '/static/img/pub/vdb_2015.jpg'
   pmid: 25825836
@@ -827,7 +893,10 @@ Franks-Skiba KE, Li M, Brown WL, Gunnarsson HI, Adalbjornsdottir A, **Fraser JS*
     - name: Henry van den Bedem
       url: 'https://people.stanford.edu/vdbedem/'
 
-- citation: '**Keedy DA**\*, **Kenner LR**\*, Warkentin M\*, **Woldeyes RA**\*, Hopkins JB, **Thompson MC**, Brewster AS, **Van Benschoten AH**, Baxter EL,  Uervirojnangkoorn M, McPhillips SE, Song J, Alonso-Mori R, Holton JM, Weis WI, Brunger AT, Soltis SM, Lemke H, Gonzalez A, Sauter NK, Cohen AE, van den Bedem H, Thorne RE, **Fraser JS**. Mapping the Conformational Landscape of a Dynamic Enzyme by Multitemperature and XFEL Crystallography. *eLife*. 2015.'
+- citation: "**Keedy DA**\*, **Kenner LR**\*, Warkentin M\*, **Woldeyes RA**\*, Hopkins JB, **Thompson MC**, Brewster AS,
+**Van Benschoten AH**, Baxter EL,  Uervirojnangkoorn M, McPhillips SE, Song J, Alonso-Mori R, Holton JM, Weis WI, Brunger AT,
+Soltis SM, Lemke H, Gonzalez A, Sauter NK, Cohen AE, van den Bedem H, Thorne RE, **Fraser JS**. Mapping the Conformational
+Landscape of a Dynamic Enzyme by Multitemperature and XFEL Crystallography. *eLife*. 2015."
   date: 201505
   image: '/static/img/pub/keedy_1_2015.png'
   pmid: 26422513
@@ -857,7 +926,8 @@ Franks-Skiba KE, Li M, Brown WL, Gunnarsson HI, Adalbjornsdottir A, **Fraser JS*
     - name: Thorne Lab at Cornell
       url: 'http://pages.physics.cornell.edu/~rthorne/'
 
-- citation: '**Barad BA**, Echols N, Wang RYR, Cheng Y, DiMaio F, Adams PD, **Fraser JS**. EMRinger: Side-chain-directed model and map validation for 3D Electron Cryomicroscopy. *Nature Methods*. 2015.'
+- citation: "**Barad BA**, Echols N, Wang RYR, Cheng Y, DiMaio F, Adams PD, **Fraser JS**. EMRinger: Side-chain-directed model
+and map validation for 3D Electron Cryomicroscopy. *Nature Methods*. 2015."
   date: 201504
   image: '/static/img/pub/bab_1_2015.jpg'
   pmid: 26280328
@@ -874,7 +944,8 @@ Franks-Skiba KE, Li M, Brown WL, Gunnarsson HI, Adalbjornsdottir A, **Fraser JS*
       url: 'https://github.com/fraser-lab/EMRinger'
 
 
-- citation: 'Urzhumtsev A, Afonine PV, **Van Benschoten AH**, **Fraser JS**, Adams PD. From deep TLS validation to ensembles of atomic models built from elemental motions. *Acta Crystallographica D*. 2015.'
+- citation: "Urzhumtsev A, Afonine PV, **Van Benschoten AH**, **Fraser JS**, Adams PD. From deep TLS validation to ensembles of
+atomic models built from elemental motions. *Acta Crystallographica D*. 2015."
   date: 201503
   image: '/static/img/pub/avb_2_2015.jpg'
   pmid: 26249348
@@ -887,7 +958,9 @@ Franks-Skiba KE, Li M, Brown WL, Gunnarsson HI, Adalbjornsdottir A, **Fraser JS*
     - name: 'Addenda and corrigendum'
       url: '/static/pdf/Urzhumtsev_Corrigendum.pdf'
 
-- citation: '**Van Benschoten AH**, Afonine PV, Terwilliger TC, Wall ME, Jackson CJ, Sauter NK, Adams PD, Urzhumtsev A, **Fraser JS**. Predicting X-ray Diffuse Scattering from Translation Libration Screw Structural Ensembles. *Acta Crystallographica D*. 2015.'
+- citation: "**Van Benschoten AH**, Afonine PV, Terwilliger TC, Wall ME, Jackson CJ, Sauter NK, Adams PD, Urzhumtsev A,
+**Fraser JS**. Predicting X-ray Diffuse Scattering from Translation Libration Screw Structural Ensembles.
+*Acta Crystallographica D*. 2015."
   date: 201502
   image: '/static/img/pub/avb_1_2015.jpg'
   pmid: 26249347
@@ -900,7 +973,8 @@ Franks-Skiba KE, Li M, Brown WL, Gunnarsson HI, Adalbjornsdottir A, **Fraser JS*
     - name: 'Summary by iUCr'
       url: 'http://www.iucr.org/news/research-news/predicting-x-ray-diffuse-scattering-from-translation-libration-screw-structural-ensembles'
 
-- citation: 'Bhabha G, **Biel JT**, **Fraser JS**. Keep on Moving: Discovering and Perturbing the Conformational Dynamics of Enzymes. *Accounts of Chemical Research*. 2015.'
+- citation: "Bhabha G, **Biel JT**, **Fraser JS**. Keep on Moving: Discovering and Perturbing the Conformational Dynamics
+ of Enzymes. *Accounts of Chemical Research*. 2015."
   date: 201501
   image: '/static/img/pub/bhabha_acr_2014.jpg'
   pmid: 25539415
@@ -912,7 +986,9 @@ Franks-Skiba KE, Li M, Brown WL, Gunnarsson HI, Adalbjornsdottir A, **Fraser JS*
     # - name: 'Justin\'s figure scripts'
     #   url: 'http://www.fraserlab.com/justin_figures.html'
 
-- citation: 'Wall ME, **VanBenschoten AH**, Sauter NK, Adams PD, **Fraser JS**, Terwilliger TC.  Conformational Dynamics of a Crystalline Protein from Microsecond-Scale Molecular Dynamics Simulations and Diffuse X-Ray Scattering. *PNAS*. 2014'
+- citation: "Wall ME, **VanBenschoten AH**, Sauter NK, Adams PD, **Fraser JS**, Terwilliger TC.
+Conformational Dynamics of a Crystalline Protein from Microsecond-Scale Molecular Dynamics Simulations and Diffuse X-Ray Scattering.
+ *PNAS*. 2014'
   date: 201407
   image: '/static/img/pub/wall_pnas_2014.jpg'
   pmid: 25453071
@@ -927,7 +1003,9 @@ Franks-Skiba KE, Li M, Brown WL, Gunnarsson HI, Adalbjornsdottir A, **Fraser JS*
       url: 'https://twitter.com/fraser_lab/status/506975938043580416'
 
 
-- citation: 'Williams BB, **VanBenschoten AH**, Cimermancic P, Donia MS, Zimmermann M, Taketani M,  Ishihara A, Kashyap PC, **Fraser JS**, Fischbach MA. Discovery and characterization of two tryptamine-producing decarboxylases from the gut microbiota. *Cell Host and Microbe*. 2014.'
+- citation: "Williams BB, **VanBenschoten AH**, Cimermancic P, Donia MS, Zimmermann M, Taketani M, Ishihara A,
+Kashyap PC, **Fraser JS**, Fischbach MA. Discovery and characterization of two tryptamine-producing decarboxylases
+from the gut microbiota. *Cell Host and Microbe*. 2014."
   date: 201406
   image: '/static/img/pub/williams_chm_2014.jpg'
   pmid: 25263219
@@ -948,7 +1026,8 @@ Franks-Skiba KE, Li M, Brown WL, Gunnarsson HI, Adalbjornsdottir A, **Fraser JS*
     - name: 'Nature Reviews Microbiology: Bacteria and the brain'
       url: 'http://www.nature.com/nrmicro/journal/v12/n11/full/nrmicro3373.html'
 
-- citation: '**Woldeyes RA**, Sivak DA, **Fraser JS**. E pluribus unum, no more: from one crystal, many conformations. *Current Opinion in Structural Biology*. 2014.'
+- citation: "**Woldeyes RA**, Sivak DA, **Fraser JS**. E pluribus unum, no more: from one crystal, many conformations.
+*Current Opinion in Structural Biology*. 2014."
   date: 201405
   image: '/static/img/pub/woldeyes_cosb_2014.jpg'
   pmid: 25113271
@@ -960,7 +1039,8 @@ Franks-Skiba KE, Li M, Brown WL, Gunnarsson HI, Adalbjornsdottir A, **Fraser JS*
     - name: 'Paper Submission Celebration Photo'
       url: 'https://twitter.com/fraser_lab/status/466374369317781504'
 
-- citation: '**Keedy DA**, van den Bedem H, Sivak DA, Petsko GA, Ringe D, Wilson MA, **Fraser JS**. Crystal Cryocooling Distorts Conformational Heterogeneity in a Model Michaelis Complex of DHFR. *Structure*. 2014.'
+- citation: "**Keedy DA**, van den Bedem H, Sivak DA, Petsko GA, Ringe D, Wilson MA, **Fraser JS**.
+Crystal Cryocooling Distorts Conformational Heterogeneity in a Model Michaelis Complex of DHFR. *Structure*. 2014."
   date: 201404
   image: '/static/img/pub/keedy_structure_2014.jpg'
   pmid: 24882744
@@ -985,7 +1065,8 @@ Franks-Skiba KE, Li M, Brown WL, Gunnarsson HI, Adalbjornsdottir A, **Fraser JS*
     - name: 'F1000 Evaluation'
       url: 'http://f1000.com/prime/718430130'
 
-- citation: 'Fischer M\*, Coleman RG\*, **Fraser JS**, Shoichet BK. Incorporation of protein ﬂexibility and conformational energy penalties in docking screens to improve ligand discovery. *Nature Chemistry*. 2014.'
+- citation: "Fischer M\*, Coleman RG\*, **Fraser JS**, Shoichet BK. Incorporation of protein ﬂexibility and
+conformational energy penalties in docking screens to improve ligand discovery. *Nature Chemistry*. 2014."
   date: 201403
   image: '/static/img/pub/fischer_coleman_2014.jpg'
   pmid: 24950326
@@ -1021,7 +1102,7 @@ Franks-Skiba KE, Li M, Brown WL, Gunnarsson HI, Adalbjornsdottir A, **Fraser JS*
       url: 'http://dock.compbio.ucsf.edu/DOCK3.7/'
 
 
-- citation: 'Wall ME, Adams PD, **Fraser JS**, Sauter NK.  Diffuse X-ray Scattering to Model Protein Motions. *Structure*. 2014'
+- citation: "Wall ME, Adams PD, **Fraser JS**, Sauter NK. Diffuse X-ray Scattering to Model Protein Motions. *Structure*. 2014'
   date: 201402
   image: '/static/img/pub/wall_structure_2014.jpg'
   pmid: 24507780
@@ -1031,7 +1112,8 @@ Franks-Skiba KE, Li M, Brown WL, Gunnarsson HI, Adalbjornsdottir A, **Fraser JS*
     - name: Meeting Slides and Website
       url: 'http://cci.lbl.gov/dials/oct_2013_diffuse.htm'
 
-- citation: 'Fenwick RB, van den Bedem H, **Fraser JS**, Wright PE.  Integrated description of protein dynamics from room-temperature X-ray crystallography and NMR. *PNAS*. 2014.'
+- citation: "Fenwick RB, van den Bedem H, **Fraser JS**, Wright PE. Integrated description of protein dynamics from
+room-temperature X-ray crystallography and NMR. *PNAS*. 2014."
   date: 201401
   image: '/static/img/pub/fenwick_pnas_2014.jpg'
   pmid: 24474795
@@ -1048,7 +1130,8 @@ Franks-Skiba KE, Li M, Brown WL, Gunnarsson HI, Adalbjornsdottir A, **Fraser JS*
     - name: Python Scripts
       url: 'http://www.scripps.edu/wright/mcOPA.tar.gz'
 
-- citation: 'Lang PT, Holton JM, **Fraser JS**, Alber T.  Protein structural ensembles are revealed by redefining X-ray electron density noise. *PNAS*. 2014.'
+- citation: "Lang PT, Holton JM, **Fraser JS**, Alber T. Protein structural ensembles are revealed by redefining
+\X-ray electron density noise. *PNAS*. 2014."
   date: 201401
   image: '/static/img/pub/lang_pnas_2014.jpg'
   pmid: 24363322
@@ -1060,7 +1143,8 @@ Franks-Skiba KE, Li M, Brown WL, Gunnarsson HI, Adalbjornsdottir A, **Fraser JS*
     - name: END/RAPID Website
       url: 'http://bl831.als.lbl.gov/END/RAPID/'
 
-- citation: 'van den Bedem H, Bhabha G, Yang K, Wright PE, **Fraser JS**. Automated identification of functional dynamic contact networks from X-ray crystallography. *Nature Methods*. 2013.'
+- citation: "van den Bedem H, Bhabha G, Yang K, Wright PE, **Fraser JS**. Automated identification of functional dynamic
+contact networks from X-ray crystallography. *Nature Methods*. 2013."
   date: 201304
   image: '/static/img/pub/vdb_nmethods_2013.gif'
   pmid: 23913260
@@ -1092,7 +1176,9 @@ Franks-Skiba KE, Li M, Brown WL, Gunnarsson HI, Adalbjornsdottir A, **Fraser JS*
     - name: "F1000 Evaluation"
       url: 'http://f1000.com/prime/718058215'
 
-- citation: 'Braberg H, Jin H, Moehle E, Chan YA, Wang S, Shales M, Benschop JJ, Morris JH, **Fraser JS**,  Qiu C, Hu F, Tang LK, Holstege FCP, Hieter P, Guthrie C, Kaplan CD, Krogan NJ. From structure to systems: high-resolution, quantitative genetic analysis of RNA polymerase II. *Cell*. 2013.'
+- citation: "Braberg H, Jin H, Moehle E, Chan YA, Wang S, Shales M, Benschop JJ, Morris JH, **Fraser JS**, Qiu C, Hu F,
+Tang LK, Holstege FCP, Hieter P, Guthrie C, Kaplan CD, Krogan NJ. From structure to systems: high-resolution, quantitative
+genetic analysis of RNA polymerase II. *Cell*. 2013."
   date: 201303
   image: '/static/img/pub/braberg_cell_2013.jpg'
   pmid: 23932120
@@ -1108,7 +1194,8 @@ Franks-Skiba KE, Li M, Brown WL, Gunnarsson HI, Adalbjornsdottir A, **Fraser JS*
     - name: F1000 Evaluation
       url: 'http://f1000.com/prime/718071447'
 
-- citation: 'Ollikainen N, Smith CA, **Fraser JS**, Kortemme T. Flexible Backbone Sampling Methods to Model and Design Protein Alternative Conformations. *Methods in Enzymology*. 2013.'
+- citation: "Ollikainen N, Smith CA, **Fraser JS**, Kortemme T. Flexible Backbone Sampling Methods to Model and Design
+Protein Alternative Conformations. *Methods in Enzymology*. 2013."
   date: 201302
   image: '/static/img/pub/ollikainen_mie_2013.jpg'
   pmid: 23422426
@@ -1122,7 +1209,8 @@ Franks-Skiba KE, Li M, Brown WL, Gunnarsson HI, Adalbjornsdottir A, **Fraser JS*
     - name: Backrub Server
       url: 'https://kortemmelab.ucsf.edu/backrub/cgi-bin/rosettaweb.py?query=index'
 
-- citation: '**Fraser JS**, Gross JD, Krogan NJ. From Systems to Structure: Bridging Networks and Mechanism. *Molecular Cell*. 2013.'
+- citation: "**Fraser JS**, Gross JD, Krogan NJ. From Systems to Structure: Bridging Networks and Mechanism.
+*Molecular Cell*. 2013."
   date: 201301
   image: '/static/img/pub/fraser_molcell_2013.jpg'
   pmid: 23352243
@@ -1136,7 +1224,8 @@ Franks-Skiba KE, Li M, Brown WL, Gunnarsson HI, Adalbjornsdottir A, **Fraser JS*
     - name: "Molecular Cell: Celebrating 15 years of New Connections"
       url: 'http://www.cell.com/molecular-cell/fulltext/S1097-2765(13)00045-2'
 
-- citation: 'Vila JA, Sue SC, **Fraser JS**, Scheraga HA, Dyson HJ. CheShift-2 resolves a local inconsistency between two X-ray crystal structures. *Journal of Biomolecular NMR*. 2012.'
+- citation: "Vila JA, Sue SC, **Fraser JS**, Scheraga HA, Dyson HJ. CheShift-2 resolves a local inconsistency between two
+X-ray crystal structures. *Journal of Biomolecular NMR*. 2012."
   date: 201203
   image: '/static/img/pub/vila_jbnmr_2012.jpg'
   pmid: 22945426
@@ -1150,7 +1239,8 @@ Franks-Skiba KE, Li M, Brown WL, Gunnarsson HI, Adalbjornsdottir A, **Fraser JS*
     - name: CheShift-2 Server
       url: 'http://cheshift.com/'
 
-- citation: 'Beltrao P, Albanèse V, **Kenner LR**, Swaney DL, Burlingame A, Villén J, Lim WA, **Fraser JS**, Frydman J, Krogan NJ. Systematic functional prioritization of protein posttranslational modifications. *Cell*. 2012.'
+- citation: "Beltrao P, Albanèse V, **Kenner LR**, Swaney DL, Burlingame A, Villén J, Lim WA, **Fraser JS**, Frydman J,
+Krogan NJ. Systematic functional prioritization of protein posttranslational modifications. *Cell*. 2012."
   date: 201202
   image: '/static/img/pub/beltrao_cell_2012.png'
   pmid: 22817900
@@ -1166,7 +1256,8 @@ Franks-Skiba KE, Li M, Brown WL, Gunnarsson HI, Adalbjornsdottir A, **Fraser JS*
     - name: "Pedro's Public Ramblings: Evolution and Function of Post-translational Modifications"
       url: 'http://www.evocellnet.com/2012/07/evolution-and-function-of-post.html'
 
-- citation: 'Kapp GT, Liu S, Stein A, Wong DT, Reményi A, Yeh BJ, **Fraser JS**, Taunton J, Lim WA, Kortemme T. Control of protein signaling using a computationally designed GTPase/GEF orthogonal pair. *PNAS*. 2012.'
+- citation: "Kapp GT, Liu S, Stein A, Wong DT, Reményi A, Yeh BJ, **Fraser JS**, Taunton J, Lim WA, Kortemme T.
+Control of protein signaling using a computationally designed GTPase/GEF orthogonal pair. *PNAS*. 2012."
   date: 201201
   image: '/static/img/pub/kapp_pnas_2012.jpg'
   pmid: 22403064
@@ -1180,7 +1271,8 @@ Franks-Skiba KE, Li M, Brown WL, Gunnarsson HI, Adalbjornsdottir A, **Fraser JS*
     - name: "PNAS: Designing orthogonal signaling pathways: how to fit in with the surroundings."
       url: 'http://www.ncbi.nlm.nih.gov/pubmed/22451928'
 
-- citation: '**Fraser JS**, van den Bedem H, Samelson AJ, Lang PT, Holton JM, Echols N, Alber T. Accessing protein conformational ensembles by room-temperature X-ray crystallography. *PNAS*. 2011.'
+- citation: "**Fraser JS**, van den Bedem H, Samelson AJ, Lang PT, Holton JM, Echols N, Alber T. Accessing protein
+conformational ensembles by room-temperature X-ray crystallography. *PNAS*. 2011."
   date: 201102
   image: '/static/img/pub/fraser_pnas_2011.jpg'
   pmid: 21918110
@@ -1202,7 +1294,8 @@ Franks-Skiba KE, Li M, Brown WL, Gunnarsson HI, Adalbjornsdottir A, **Fraser JS*
     - name: "PLoS Postcard based on a talk just prior to publication"
       url: 'http://www.ploscompbiol.org/article/info:doi/10.1371/journal.pcbi.1002000#s3'
 
-- citation: '**Fraser JS**, Jackson CJ. Mining electron density for functionally relevant protein polysterism in crystal structures. *Cellular and Molecular Life Sciences*. 2011.'
+- citation: "**Fraser JS**, Jackson CJ. Mining electron density for functionally relevant protein polysterism
+in crystal structures. *Cellular and Molecular Life Sciences*. 2011."
   date: 201101
   image: '/static/img/pub/fraser_cmls_2011.jpg'
   pmid: 21190057
@@ -1212,7 +1305,8 @@ Franks-Skiba KE, Li M, Brown WL, Gunnarsson HI, Adalbjornsdottir A, **Fraser JS*
     - name: "Jackson Lab"
       url: 'http://jacksonlab.wordpress.com/'
 
-- citation: 'Lang PT\*, Ng HL\*, **Fraser JS**, Corn JE, Echols N, Sales M, Holton JM, Alber T. Automated electron-density sampling reveals widespread conformational polymorphism in proteins. *Protein Science*. 2010.'
+- citation: "Lang PT\*, Ng HL\*, **Fraser JS**, Corn JE, Echols N, Sales M, Holton JM, Alber T. Automated
+electron-density sampling reveals widespread conformational polymorphism in proteins. *Protein Science*. 2010."
   date: 201002
   image: '/static/img/pub/lang_ps_2010.jpg'
   pmid: 20499387
@@ -1230,7 +1324,8 @@ Franks-Skiba KE, Li M, Brown WL, Gunnarsson HI, Adalbjornsdottir A, **Fraser JS*
     - name: "Ringer is now also available as an alpha feature in the PHENIX GUI or on the command line as mmtbx.ringer"
       url: 'http://phenix-online.org'
 
-- citation: 'Maghzal N\*, Vogt E\*, Reintsch W, **Fraser JS**, Fagotto F. The tumor-associated EpCAM regulates morphogenetic movements through intracellular signaling. *Journal of Cell Biology*. 2010.'
+- citation: "Maghzal N\*, Vogt E\*, Reintsch W, **Fraser JS**, Fagotto F. The tumor-associated EpCAM regulates morphogenetic
+movements through intracellular signaling. *Journal of Cell Biology*. 2010."
   date: 201001
   image: '/static/img/pub/fagotto_jcb_2010.jpg'
   pmid: 20974811
@@ -1240,7 +1335,8 @@ Franks-Skiba KE, Li M, Brown WL, Gunnarsson HI, Adalbjornsdottir A, **Fraser JS*
     - name: "Fagotto Lab"
       url: 'http://biology.mcgill.ca/faculty/fagotto/'
 
-- citation: '**Fraser JS**, Clarkson MW, Degnan SC, Erion R, Kern D, Alber T. Hidden alternative structures of proline isomerase essential for catalysis. *Nature*. 2009.'
+- citation: "**Fraser JS**, Clarkson MW, Degnan SC, Erion R, Kern D, Alber T. Hidden alternative structures of proline
+isomerase essential for catalysis. *Nature*. 2009."
   date: 200901
   image: '/static/img/pub/fraser_nature_2009.jpg'
   pmid: 19956261
@@ -1265,7 +1361,8 @@ Franks-Skiba KE, Li M, Brown WL, Gunnarsson HI, Adalbjornsdottir A, **Fraser JS*
     - name: "Faculty 1000 evaluation"
       url: 'http://f1000.com/1309961'
 
-- citation: '**Fraser JS**, Maxwell KL, Davidson, AR. Immunoglobulin-Like Domains on Bacteriophage: Weapons of Modest Damage? *Current Opinion in Microbiology.* 2007.'
+- citation: "**Fraser JS**, Maxwell KL, Davidson, AR. Immunoglobulin-Like Domains on Bacteriophage: Weapons of Modest
+Damage? *Current Opinion in Microbiology.* 2007."
   date: 200702
   image: '/static/img/pub/fraser_comb_2007.jpg'
   pmid: 17765600
@@ -1274,7 +1371,9 @@ Franks-Skiba KE, Li M, Brown WL, Gunnarsson HI, Adalbjornsdottir A, **Fraser JS*
     - name: "Davidson Lab"
       url: 'http://individual.utoronto.ca/davidsonlab/Davidson_Lab/Home.html'
 
-- citation: '**Fraser JS\***, Merlie Jr. JP\*, Echols N\*, Weisfield SR, Mignot T, Wemmer DE, Zusman D, Alber T. An atypical receiver domain controls the dynamic polar localization of the Myxococcus xanthus social motility protein FrzS. *Molecular Microbiology*. 2007.'
+- citation: "**Fraser JS\***, Merlie Jr. JP\*, Echols N\*, Weisfield SR, Mignot T, Wemmer DE, Zusman D, Alber T.
+An atypical receiver domain controls the dynamic polar localization of the Myxococcus xanthus social motility protein FrzS.
+*Molecular Microbiology*. 2007."
   date: 200701
   image: '/static/img/pub/fraser_molm_2007.jpg'
   pmid: 17573816
@@ -1289,7 +1388,8 @@ Franks-Skiba KE, Li M, Brown WL, Gunnarsson HI, Adalbjornsdottir A, **Fraser JS*
     - name: "Zusman Lab"
       url: 'https://mcb.berkeley.edu/labs/zusman/'
 
-- citation: '**Fraser JS**, Yu Z, Maxwell KL, Davidson AR. Ig-like domains on bacteriophages: a tale of promiscuity and deceit. *Journal of Molecular Biology*. 2006.'
+- citation: "**Fraser JS**, Yu Z, Maxwell KL, Davidson AR. Ig-like domains on bacteriophages: a tale of promiscuity and deceit.
+*Journal of Molecular Biology*. 2006."
   date: 200601
   image: '/static/img/pub/fraser_jmb_2006.jpg'
   pmid: 16631788
