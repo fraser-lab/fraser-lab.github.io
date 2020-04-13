@@ -50,26 +50,26 @@ Each students will serve as Discussion Leaders for one manuscript topic.  Everyo
 
 
 ### April 30
-- Presentation/Discussion 3
+- Presentation/Discussion 2
 - Break
-- Presentation/Discussion 4
+- Presentation/Discussion 3
 
 ### May 1
-- Presentation/Discussion 5
+- Presentation/Discussion 4
 - Break
-- Presentation/Discussion 6
+- Presentation/Discussion 5
 
 ### May 4
-- Presentation/Discussion 7
+- Presentation/Discussion 6
 - Break
-- Presentation/Discussion 8
+- Presentation/Discussion 7
 
 ### May 7
-- Presentation/Discussion 9
+- Presentation/Discussion 8
 - Break
-- Presentation/Discussion 10
+- Presentation/Discussion 9
 
 ### May 8
-- Presentation/Discussion 11
+- Presentation/Discussion 10
 - Break
-- Presentation/Discussion 12
+- Presentation/Discussion 11
