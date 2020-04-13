@@ -8,9 +8,9 @@ group: courses
 
 ## Spring 2020 Syllabus
 
-**Course Days/Hours:** 3-5PM on April 20, 23, 24; April 27, 30, May 1; May 4, 7, 8
+**Course Days/Hours:** 4-6PM on April 20, 23, 24; April 27, 30, May 1; May 4, 7, 8
 
-**Location:** Mondays you will be in BH 212, Thursdays and Fridays in BH 211.
+**Location:** Zoom!
 
 **Instructors:** [James Fraser](mailto:jfraser@fraserlab.com);
 
