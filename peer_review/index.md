@@ -8,7 +8,7 @@ group: courses
 
 ## Spring 2020 Syllabus
 
-**Course Days/Hours:** 4-6PM on April 20, 23, 24; April 27, 30, May 1; May 4, 7, 8
+**Course Days/Hours:** 4-6PM on April 20, 23; April 27, 30, May 1; May 4, 7, 8
 
 **Location:** Zoom!
 
@@ -47,8 +47,7 @@ Each students will serve as Discussion Leaders for one manuscript topic.  Everyo
 
 ### April 27
 - Presentation/Discussion 1
-- Break
-- Presentation/Discussion 2
+
 
 ### April 30
 - Presentation/Discussion 3
