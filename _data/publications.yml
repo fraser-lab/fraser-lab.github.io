@@ -20,7 +20,9 @@ by computational design of ​de novo fold families. *Submitted - Preprint on Bi
   # pmcid: ''
   biorxiv: '2020.04.14.041772'
   pdf: '/static/pdf/publications/pan_2020.pdf'
-  # links:
+  links:
+    - name: Kortemme lab @ UC San Francisco
+      url: http://kortemmelab.ucsf.edu/
 
 - citation: "Gordon DE, Jang GM, Bouhaddou M, Xu J, Obernier K, O'Meara MJ, Guo JZ, Swaney DL, Tummino TA, Huttenhain R,
 Kaake R, Richards AL, Tutuncuoglu B, Foussard H, Batra J, Haas K, Modak M, Kim M, Haas P, Polacco BJ, Braberg H, Fabius JM,
