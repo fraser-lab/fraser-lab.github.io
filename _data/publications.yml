@@ -12,6 +12,15 @@
 #     - name: Mullins lab
 #       url: http://mullinslab.ucsf.edu/
 #
+- citation: "Pan X, **Thompson M**, Zhang Y, **Liu L, Fraser JS**, Kelly MJS, Kortemme T. Expanding the space of protein geometries
+by computational design of ​de novo fold families. *Submitted - Preprint on Biorxiv*. 2020."
+  date: '202004'
+  # image: ''
+  # pmid: ''
+  # pmcid: ''
+  biorxiv: '2020.04.14.041772'
+  pdf: '/static/pdf/publications/pan_2020.pdf'
+  # links:
 
 - citation: "Gordon DE, Jang GM, Bouhaddou M, Xu J, Obernier K, O'Meara MJ, Guo JZ, Swaney DL, Tummino TA, Huttenhain R,
 Kaake R, Richards AL, Tutuncuoglu B, Foussard H, Batra J, Haas K, Modak M, Kim M, Haas P, Polacco BJ, Braberg H, Fabius JM,
