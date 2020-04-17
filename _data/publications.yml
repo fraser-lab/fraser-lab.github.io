@@ -15,7 +15,7 @@
 - citation: "Pan X, **Thompson M**, Zhang Y, **Liu L, Fraser JS**, Kelly MJS, Kortemme T. Expanding the space of protein geometries
 by computational design of ​de novo fold families. *Submitted - Preprint on Biorxiv*. 2020."
   date: '202004'
-  # image: ''
+  image: '/static/img/pub/pan_2020.png'
   # pmid: ''
   # pmcid: ''
   biorxiv: '2020.04.14.041772'
