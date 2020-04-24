@@ -1,0 +1,35 @@
+#Style guide for Fraser Lab website.
+
+###publications
+- citation: "**Last Name FN**, **Fraser JS**.
+Comparing serial X-ray crystallography and microcrystal electron diffraction (MicroED) as methods for routine structure
+determination from small macromolecular crystals. *IUCrJ*. 2020."
+  date: '201909'
+  image: '/static/img/pub/micro.jpg'
+  pmid: '32148858'
+  pmcid: 'PMC7055375'
+  biorxiv: '767061'
+  pdf: '/static/pdf/publications/wolff_2020.pdf'
+  pdbs:
+    - 6U5C
+    - 6U5D
+    - 6U5E
+  paired_maps_and_models:
+    - pdb: 6U5G
+      emdb: '20645'
+  data:
+      - '10.11577/1602169'
+      - '10.11577/1598261'
+      - '10.11577/1595660'
+      - '10.15785/SBGRID/752'
+  links:
+    - name: Gonen lab @ UC Los Angeles
+      url: https://cryoem.ucla.edu/
+    - name: LCLS MFX Beamline
+      url: https://lcls.slac.stanford.edu/instruments/mfx
+    - name: SACLA XFEL
+      url: http://xfel.riken.jp/eng/
+    - name: Celebratory Tweetstorm by first author Alex Wolff
+      url: https://twitter.com/LifeHasOrder/status/1172327493451145218
+    - name: Celebratory Tweetstorm by corresponding author Michael Thompson
+      url: https://twitter.com/mctucsf/status/1172334750205218816
