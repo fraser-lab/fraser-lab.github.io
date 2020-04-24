@@ -58,7 +58,8 @@ by computational design of ​de novo fold families. *Submitted - Preprint on Bi
   # pmid: ''
   # pmcid: ''
   biorxiv: '2020.04.14.041772'
-  pdf: https://drive.google.com/open?id=1T_nNmL0yzQ6xVu66v4Tzbggdrn3TZJwu
+  pdf: '/static/pdf/publications/pan_2020.pdf'
+  # pdf: https://drive.google.com/open?id=1T_nNmL0yzQ6xVu66v4Tzbggdrn3TZJwu
   links:
     - name: Kortemme lab @ UC San Francisco
       url: http://kortemmelab.ucsf.edu/
@@ -79,7 +80,8 @@ Krogan NJ. A SARS-CoV-2-Human Protein-Protein Interaction Map Reveals Drug Targe
   # pmid: ''
   # pmcid: ''
   biorxiv: '2020.03.22.002386'
-  pdf: https://drive.google.com/open?id=19V9FPWcgJ4omeJgwO3OReUMOTgxc60Z9
+  pdf: '/static/pdf/publications/gordon_2020.pdf'
+  # pdf: https://drive.google.com/open?id=19V9FPWcgJ4omeJgwO3OReUMOTgxc60Z9
   links:
     - name: gtex/gnomAD figure scripts on GitHub
       url: https://github.com/fraser-lab/QCRG_COVID19_Figures
