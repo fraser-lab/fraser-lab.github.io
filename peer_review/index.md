@@ -42,34 +42,22 @@ Each students will serve as Discussion Leaders for one manuscript topic.  Everyo
   - [Jessica Polka](https://en.wikipedia.org/wiki/Jessica_Polka) - [Executive Director of ASAPbio](https://asapbio.org/dt_team/jessica-polka)
 - [Keeping on top of the literature](https://fraserlab.com/2013/09/28/The-Fraser-Lab-method-of-following-the-scientific-literature/)
 
-### April 24
-- No class!
-
-### April 27
-- Presentation/Discussion 1
-
-
 ### April 30
-- Presentation/Discussion 2
-- Break
-- Presentation/Discussion 3
+- Presentation 1: [Structural and functional analysis of a potent sarbecovirus neutralizing antibody](https://www.biorxiv.org/content/10.1101/2020.04.07.023903v3.full.pdf)
+
 
 ### May 1
-- Presentation/Discussion 4
-- Break
-- Presentation/Discussion 5
+- Presentation 2: [Visualizing Wnt secretion from Endoplasmic Reticulum to Filopodia ](https://www.biorxiv.org/content/10.1101/271684v2.full.pdf)
+- Presentation 3: [TBD]()
 
 ### May 4
-- Presentation/Discussion 6
-- Break
-- Presentation/Discussion 7
+- Presentation 4: [Noise-Reducing Negative-Feedback Optogenetic Circuits in Mammalian Cells](https://www.biorxiv.org/content/10.1101/601005v1.full.pdf)
+- Presentation 5: [SETD2 is an actin lysine methyltransferase](https://www.biorxiv.org/content/10.1101/2020.04.13.034629v1.full.pdf)
 
 ### May 7
-- Presentation/Discussion 8
-- Break
-- Presentation/Discussion 9
+- Presentation 6: [Two dynamically distinct circuits driving inhibition in sensory thalamus](https://www.biorxiv.org/content/10.1101/2020.04.16.044487v2)
+- Presentation 7: [Transient “rest” induces functional reinvigoration and epigenetic remodeling in exhausted CAR-T cells](https://www.biorxiv.org/content/10.1101/2020.01.26.920496v1.full)
 
 ### May 8
-- Presentation/Discussion 10
-- Break
-- Presentation/Discussion 11
+- Presentation 8: [Monitoring the production of high diffraction-quality crystals of two enzymes in real time using in situ dynamic light scattering](https://www.biorxiv.org/content/10.1101/2020.01.05.888370v1.full)
+- Presentation 9: [Sensory-evoked	extracellular	vesicle	release	and	targeting](https://www.biorxiv.org/content/10.1101/2020.04.21.050690v1.full.pdf)
