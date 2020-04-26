@@ -48,7 +48,7 @@ Each students will serve as Discussion Leaders for one manuscript topic.  Everyo
 
 ### May 1
 - Presentation 2: [Visualizing Wnt secretion from Endoplasmic Reticulum to Filopodia ](https://www.biorxiv.org/content/10.1101/271684v2.full.pdf)
-- Presentation 3: [TBD]()
+- Presentation 3: [Sulfopin, a selective covalent inhibitor of Pin1, blocks Myc-driven tumor initiation and growth in vivo](https://www.biorxiv.org/content/10.1101/2020.03.20.998443v1.full)
 
 ### May 4
 - Presentation 4: [Noise-Reducing Negative-Feedback Optogenetic Circuits in Mammalian Cells](https://www.biorxiv.org/content/10.1101/601005v1.full.pdf)
