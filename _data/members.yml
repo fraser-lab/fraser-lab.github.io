@@ -1,5 +1,6 @@
 - name: James Fraser
   image: /static/img/members/Fraser.jpg
+  # altimage: /static/img/members/Fraser_pb.jpg
   pronouns: he/him/his
   position: Principal Investigator
   email: jfraser (at) fraserlab.com
