@@ -33,7 +33,7 @@ PUBS is now run by Martin Kampmann and examines alpha synuclein!
 - [PUBS 2017](https://kampmannlab.ucsf.edu/pubs-2017)
 - [PUBS 2018](https://kampmannlab.ucsf.edu/pubs-2018)
 
-<img class="img-fluid mx-auto d-block" src="/static/img/pub/pubs_2015.jpg" alt="PUBS Students in the teaching lab">
+<img class="img-fluid mx-auto d-block" src="/static/img/pub/mavor_2016.jpg" alt="PUBS Students in the teaching lab">
 
 ##  Engineering Life:  A Flipped Classroom with iBiology
 
