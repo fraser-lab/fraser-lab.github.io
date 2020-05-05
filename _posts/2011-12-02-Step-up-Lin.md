@@ -4,5 +4,5 @@ author: James Fraser
 layout: post
 group: news
 ---
- <img src="/static/img/news/lin-mobile.JPG" alt="Lin" class="img-responsive">
+ <img src="/static/img/news/lin-mobile.JPG" alt="Lin" class="img-fluid">
 
