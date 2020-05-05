@@ -8,4 +8,4 @@ Rahel, Daniel, and David joined James for a [symposium](http://qb3.berkeley.edu/
 
 Tom finished the day with an inspirational talk that perfectly summarized the spirit of the day!
 
- <img src="/static/img/news/alber-fest.jpg" alt="Alber Fest" class="img-responsive">
+ <img src="/static/img/news/alber-fest.jpg" alt="Alber Fest" class="img-fluid">
