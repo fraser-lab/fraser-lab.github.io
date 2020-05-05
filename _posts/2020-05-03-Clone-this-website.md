@@ -19,7 +19,7 @@ In keeping with our lab principles on sharing, we decided from the beginning to 
 * [Benjamin Barad @ Scripps Research](https://benjaminbarad.com) (Personal site)
 
 ### Sites other people made (in no particular order):
-* [Zunder Lab at UVa](http://zunderlab.com/)
+* [Zunder Lab @ UVa](http://zunderlab.com/)
 * [Keedy Lab @ CUNY](https://keedylab.org/)
 * [Gross Lab @ UCSF](https://grosslab.ucsf.edu/)
 * [Kern Lab @ Brandeis](https://kernlab-brandeis.github.io/)
@@ -38,6 +38,12 @@ In keeping with our lab principles on sharing, we decided from the beginning to 
 * [Parkin Lab @ U Saskatchewan](https://parkingenomics.github.io/)
 * [Mege Lab @ Ramnarain Ruia](https://regelab.github.io/)
 * [Shi Lab @ UCM](https://shi-theory-group.github.io/)
+* [Tewhey Lab @ Tufts](https://tewhey-lab.github.io)
+* [Amii XAI Lab @ U Alberta](https://amiixailab.github.io/)
+* [Arnaout Lab @ UCSF](http://arnaoutlab.ai/)
+* [Corces Lab @ Gladstone](https://www.corceslab.com/)
+
+<!-- * [Herman Lab @ Duke](https://hermanlab.github.io/) -->
 
 Have you made a website using the Fraser lab or one of these sites as a template? We'd love to add yours to our list!
 
