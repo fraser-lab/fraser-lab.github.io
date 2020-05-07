@@ -7,7 +7,7 @@ group: blog
 
 _I originally wrote this article for my [personal website](http://benjaminbarad.com), but I think it is relevant here, so with James's blessing I am crossposting it._
 
-<img class="img-responsive center-block" src="/static/img/matplotlib/test_no_title.png" alt="Before updating the matplotlibrc" width="640">
+<img class="img-fluid mx-auto d-block" src="/static/img/matplotlib/test_no_title.png" alt="Before updating the matplotlibrc" width="640">
 
 [Python](https://www.python.org/) is currently my programming language of choice. It is the programming language taught by my graduate program to incoming first years, and in my experience it is the most common scripting language used by the scientists around me. The Fraser lab uses python almost exclusively for programming.
 
@@ -57,7 +57,7 @@ Furthermore, the line that is overlaid is narrow and a difficult shade of green 
 The axis labels are also problematic. First, they are too small and as a result difficult to read. 
 Further, the special formatting (such as use of greek letters and superscripts) uses a distinct font compared to the rest of the text, which makes the labels even more difficult to read.
 
-<img class="img-responsive center-block" src="/static/img/matplotlib/test_no_rc.png" alt="Before updating the matplotlibrc" width="640">
+<img class="img-fluid mx-auto d-block" src="/static/img/matplotlib/test_no_rc.png" alt="Before updating the matplotlibrc" width="640">
 
 In order to highlight the ugliness of the default color cycle in python, I have attached a second, simpler piece of code and its output:
 
@@ -81,7 +81,7 @@ plt.savefig('test2.png')
 
 This code draws a lot of lines which become closer and closer to each other.
 
-<img class="img-responsive center-block" src="/static/img/matplotlib/test2_no_rc.png" alt="Before updating the matplotlibrc" width="640">
+<img class="img-fluid mx-auto d-block" src="/static/img/matplotlib/test2_no_rc.png" alt="Before updating the matplotlibrc" width="640">
 
 The linewidth problem is apparent here, but just as apparent is the inappropriateness of the high-contrast default colors. 
 
@@ -108,6 +108,6 @@ I turned the tickmarks to face outwards instead of inwards. This has a few effec
 
 These are the same scripts as above, run with the new matplotlibrc and no other changes. I am very happy with the output, although no doubt I will continue to tweak it as time goes on! I would appreciate feedback as always. Again, like I said above, you can find the matplotlibrc at my [github page](https://github.com/bbarad/matplotlibrc). Contributions are welcome there as well as in the comments.
 
-<img class="img-responsive center-block" src="/static/img/matplotlib/test.png" alt="Before updating the matplotlibrc" width="640">
+<img class="img-fluid mx-auto d-block" src="/static/img/matplotlib/test.png" alt="Before updating the matplotlibrc" width="640">
 
-<img class="img-responsive center-block" src="/static/img/matplotlib/test2.png" alt="Before updating the matplotlibrc" width="640">
+<img class="img-fluid mx-auto d-block" src="/static/img/matplotlib/test2.png" alt="Before updating the matplotlibrc" width="640">

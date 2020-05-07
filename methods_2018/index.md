@@ -10,7 +10,7 @@ group: courses
 
 ## Fall 2018 Syllabus ##
 
-<img class="img-responsive center-block" src="/static/img/pub/methods_wb.JPG" alt="Macro methods whiteboard in the teaching lab">
+<img class="img-fluid mx-auto d-block" src="/static/img/pub/methods_wb.JPG" alt="Macro methods whiteboard in the teaching lab">
 
 **Course Title:** Methods in Macromolecular Structure
 

@@ -6,4 +6,4 @@ group: news
 ---
 Doesn't he look happy?
 
- <img src="/static/img/news/andrew-group.jpg" alt="rahel" class="img-responsive">
+ <img src="/static/img/news/andrew-group.jpg" alt="rahel" class="img-fluid">
