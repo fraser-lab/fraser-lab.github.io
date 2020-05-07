@@ -6,4 +6,4 @@ group: news
 ---
 Another successful safety inspection - way to go Lillian!
 
-<img src="/static/img/news/seems_safe.jpg" alt="Seems safe" class="img-responsive">
+![Seems safe](/static/img/news/seems_safe.jpg "Seems safe"){: .img-fluid}
