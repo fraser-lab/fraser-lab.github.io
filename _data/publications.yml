@@ -58,6 +58,11 @@
   # pmcid: 'PMC#######'
   # biorxiv: 'YYYY.MM.DD.######'
   pdf: '/static/pdf/publications/wankowicz_2020.pdf'
+  links:
+    - name: PHENIX
+      url: https://www.phenix-online.org
+    - name: PHENIX Computational Crystallography Newsletter
+      url: https://www.phenix-online.org/newsletter/
 
 - citation: "Pan X, **Thompson M**, Zhang Y, **Liu L, Fraser JS**, Kelly MJS, Kortemme T. Expanding the space of protein geometries
 by computational design of ​de novo fold families. *Submitted - Preprint on Biorxiv*. 2020."
