@@ -21,6 +21,7 @@ In keeping with our lab principles on sharing, we decided from the beginning to 
 ### Sites other people made (in no particular order):
 * [Zunder Lab @ UVa](http://zunderlab.com/)
 * [Keedy Lab @ CUNY](https://keedylab.org/)
+* [Thompson Lab @ UCM](https://thompsonlab.science/)
 * [Gross Lab @ UCSF](https://grosslab.ucsf.edu/)
 * [Kern Lab @ Brandeis](https://kernlab-brandeis.github.io/)
 * [Herzik Lab @ UCSD](https://herziklab.com/)
