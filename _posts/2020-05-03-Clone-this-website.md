@@ -43,6 +43,7 @@ In keeping with our lab principles on sharing, we decided from the beginning to 
 * [Amii XAI Lab @ U Alberta](https://amiixailab.github.io/)
 * [Arnaout Lab @ UCSF](http://arnaoutlab.ai/)
 * [Corces Lab @ Gladstone](https://www.corceslab.com/)
+* [Gati Lab @ SLAC](https://gati-lab.slac.stanford.edu/)
 
 <!-- * [Herman Lab @ Duke](https://hermanlab.github.io/) -->
 
