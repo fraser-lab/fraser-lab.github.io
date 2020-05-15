@@ -50,8 +50,8 @@
 #     - name: Celebratory Tweetstorm by corresponding author First Surname
 #       url: https://twitter.com/mctucsf/status/1172334750205218816
 ---
-- citation: "**Wankowicz SA, Fraser JS.** Ensemble refinement produces consistent R-free values but smaller ensemble sizes than previously reported.
-*Computational Crystallography Newsletter.* 2020."
+- title: "Ensemble refinement produces consistent R-free values but smaller ensemble sizes than previously reported."
+- citation: "**Wankowicz SA, Fraser JS.** *Computational Crystallography Newsletter.* 2020."
   date: '202004'
   image: '/static/img/pub/wankowicz_2020.png'
   # pmid: '########'
