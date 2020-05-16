@@ -158,8 +158,8 @@ Yumoto F, Zhao W, Tono K, Boutet S, Iwata S, Gonen T, Sauter NK, **Fraser JS, Th
     - name: Celebratory Tweetstorm by corresponding author Michael Thompson
       url: https://twitter.com/mctucsf/status/1172334750205218816
 
-- title: What will computational modelling approaches have to say in
-the era of atomistic cryo-EM data?
+- title: "What will computational modelling approaches have to say in
+the era of atomistic cryo-EM data?"
   citation: "**Fraser JS**, Lindorff-Larsen K, Bonomi M. *Journal of Chemical Information and Modeling*. 2020."
   date: '202003'
   image: '/static/img/pub/fraser_2020.jpg'
@@ -1337,8 +1337,8 @@ Krogan NJ. Systematic functional prioritization of protein posttranslational mod
     - name: "Pedro's Public Ramblings: Evolution and Function of Post-translational Modifications"
       url: http://www.evocellnet.com/2012/07/evolution-and-function-of-post.html
 
-- citation: "Kapp GT, Liu S, Stein A, Wong DT, Reményi A, Yeh BJ, **Fraser JS**, Taunton J, Lim WA, Kortemme T.
-Control of protein signaling using a computationally designed GTPase/GEF orthogonal pair. *PNAS*. 2012."
+- title: "Control of protein signaling using a computationally designed GTPase/GEF orthogonal pair."
+  citation: "Kapp GT, Liu S, Stein A, Wong DT, Reményi A, Yeh BJ, **Fraser JS**, Taunton J, Lim WA, Kortemme T. *PNAS*. 2012."
   date: '201201'
   image: '/static/img/pub/kapp_2012.jpg'
   pmid: '22403064'
@@ -1352,8 +1352,9 @@ Control of protein signaling using a computationally designed GTPase/GEF orthogo
     - name: 'PNAS: Designing orthogonal signaling pathways: how to fit in with the surroundings.'
       url: https://doi.org/10.1073/pnas.1202624109
 
-- citation: "**Fraser JS**, van den Bedem H, Samelson AJ, Lang PT, Holton JM, Echols N, Alber T. Accessing protein
-conformational ensembles by room-temperature X-ray crystallography. *PNAS*. 2011."
+- title: "Accessing protein
+conformational ensembles by room-temperature X-ray crystallography."
+  citation: "**Fraser JS**, van den Bedem H, Samelson AJ, Lang PT, Holton JM, Echols N, Alber T. *PNAS*. 2011."
   date: '201102'
   image: '/static/img/pub/fraser_2011_1.jpg'
   pmid: '21918110'
@@ -1375,8 +1376,8 @@ conformational ensembles by room-temperature X-ray crystallography. *PNAS*. 2011
     - name: 'PLoS - Computational Biology: Postcard based on a talk just prior to publication'
       url: http://www.ploscompbiol.org/article/info:doi/10.1371/journal.pcbi.1002000#s3
 
-- citation: "**Fraser JS**, Jackson CJ. Mining electron density for functionally relevant protein polysterism
-in crystal structures. *Cellular and Molecular Life Sciences*. 2011."
+- title: "Mining electron density for functionally relevant protein polysterism in crystal structures."
+  citation: "**Fraser JS**, Jackson CJ. *Cellular and Molecular Life Sciences*. 2011."
   date: '201101'
   image: '/static/img/pub/fraser_2011_2.jpg'
   pmid: '21190057'
@@ -1386,8 +1387,8 @@ in crystal structures. *Cellular and Molecular Life Sciences*. 2011."
     - name: Jackson lab @ Australian National University
       url: http://jacksonlab.wordpress.com/
 
-- citation: "Lang PT&#42;, Ng HL&#42;, **Fraser JS**, Corn JE, Echols N, Sales M, Holton JM, Alber T. Automated
-electron-density sampling reveals widespread conformational polymorphism in proteins. *Protein Science*. 2010."
+- title: "Automated electron-density sampling reveals widespread conformational polymorphism in proteins."
+  citation: "Lang PT&#42;, Ng HL&#42;, **Fraser JS**, Corn JE, Echols N, Sales M, Holton JM, Alber T.  *Protein Science*. 2010."
   date: '201002'
   image: '/static/img/pub/lang_ng_2010.jpg'
   pmid: '20499387'
@@ -1405,8 +1406,8 @@ electron-density sampling reveals widespread conformational polymorphism in prot
     - name: 'QB3: QB3 structural biologists make algorithm available on the web'
       url: http://qb3.org/news-and-events/archive/2010/qb3-structural-biologists-make-algorithm-available-on-the-web
 
-- citation: "Maghzal N&#42;, Vogt E&#42;, Reintsch W, **Fraser JS**, Fagotto F. The tumor-associated EpCAM regulates morphogenetic
-movements through intracellular signaling. *Journal of Cell Biology*. 2010."
+- title: "The tumor-associated EpCAM regulates morphogenetic movements through intracellular signaling."
+  citation: "Maghzal N&#42;, Vogt E&#42;, Reintsch W, **Fraser JS**, Fagotto F. *Journal of Cell Biology*. 2010."
   date: '201001'
   image: '/static/img/pub/fagotto_2010.jpg'
   pmid: '20974811'
@@ -1416,8 +1417,9 @@ movements through intracellular signaling. *Journal of Cell Biology*. 2010."
     - name: Fagotto lab @ McGill University
       url: http://biology.mcgill.ca/faculty/fagotto/
 
-- citation: "**Fraser JS**, Clarkson MW, Degnan SC, Erion R, Kern D, Alber T. Hidden alternative structures of proline
-isomerase essential for catalysis. *Nature*. 2009."
+- title: "Hidden alternative structures of proline
+isomerase essential for catalysis."
+  citation: "**Fraser JS**, Clarkson MW, Degnan SC, Erion R, Kern D, Alber T. *Nature*. 2009."
   date: '200901'
   image: '/static/img/pub/fraser_2009.jpg'
   pmid: '19956261'
@@ -1442,8 +1444,8 @@ isomerase essential for catalysis. *Nature*. 2009."
     - name: 'Conformational Flux: Alternate Structures and Catalysis in Cyclophilin'
       url: http://conflux.mwclarkson.com/2009/12/alternate-structures-and-catalysis-in-cyclophilin/
 
-- citation: "**Fraser JS**, Maxwell KL, Davidson, AR. Immunoglobulin-Like Domains on Bacteriophage: Weapons of Modest
-Damage? *Current Opinion in Microbiology.* 2007."
+- title: "Immunoglobulin-Like Domains on Bacteriophage: Weapons of Modest Damage?"
+  citation: "**Fraser JS**, Maxwell KL, Davidson, AR. *Current Opinion in Microbiology.* 2007."
   date: '200702'
   image: '/static/img/pub/fraser_2007_1.jpg'
   pmid: '17765600'
@@ -1452,8 +1454,8 @@ Damage? *Current Opinion in Microbiology.* 2007."
     - name: Davidson lab @ University of Toronto
       url: http://individual.utoronto.ca/davidsonlab/Davidson_lab/Home.html
 
-- citation: "**Fraser JS&#42;**, Merlie Jr. JP&#42;, Echols N&#42;, Weisfield SR, Mignot T, Wemmer DE, Zusman D, Alber T.
-An atypical receiver domain controls the dynamic polar localization of the Myxococcus xanthus social motility protein FrzS.
+- title: "An atypical receiver domain controls the dynamic polar localization of the Myxococcus xanthus social motility protein FrzS."
+  citation: "**Fraser JS&#42;**, Merlie Jr. JP&#42;, Echols N&#42;, Weisfield SR, Mignot T, Wemmer DE, Zusman D, Alber T.
 *Molecular Microbiology*. 2007."
   date: '200701'
   image: '/static/img/pub/fraser_2007_2.jpg'
@@ -1469,7 +1471,8 @@ An atypical receiver domain controls the dynamic polar localization of the Myxoc
     - name: Zusman lab @ UC Berkeley
       url: https://mcb.berkeley.edu/labs/zusman/
 
-- citation: "**Fraser JS**, Yu Z, Maxwell KL, Davidson AR. Ig-like domains on bacteriophages: a tale of promiscuity and deceit.
+- title: "Ig-like domains on bacteriophages: a tale of promiscuity and deceit."
+  citation: "**Fraser JS**, Yu Z, Maxwell KL, Davidson AR.
 *Journal of Molecular Biology*. 2006."
   date: '200601'
   image: '/static/img/pub/fraser_2006.jpg'
