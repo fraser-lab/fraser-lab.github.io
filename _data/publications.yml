@@ -930,10 +930,11 @@ Molecular Biology*. 2015."
     - name: Tawfik lab @ The Weizmann Institute of Science
       url: http://www.weizmann.ac.il/Biological_Chemistry/scientist/Tawfik/
 
-- citation: "Kane JR, Stanley DJ, Hultquist JF, Johnson JR, Mietrach N, Binning JM, Jonsson SR, **Barelier S**,
+- title: "Lineage-Specific Viral Hijacking of Non-canonical E3 Ubiquitin Ligase Cofactors
+in the Evolution of Vif Anti-APOBEC3 Activity."
+  citation: "Kane JR, Stanley DJ, Hultquist JF, Johnson JR, Mietrach N, Binning JM, Jonsson SR, **Barelier S**,
 Newton BW, Johnson TL, Franks-Skiba KE, Li M, Brown WL, Gunnarsson HI, Adalbjornsdottir A, **Fraser JS**, Harris RS,
-Andresdottir V, Gross JD, Krogan NJ. Lineage-Specific Viral Hijacking of Non-canonical E3 Ubiquitin Ligase Cofactors
-in the Evolution of Vif Anti-APOBEC3 Activity. *Cell Reports*. 2015."
+Andresdottir V, Gross JD, Krogan NJ.  *Cell Reports*. 2015."
   date: '201508'
   image: '/static/img/pub/kane_2015.jpg'
   pmid: '25981045'
@@ -947,8 +948,9 @@ in the Evolution of Vif Anti-APOBEC3 Activity. *Cell Reports*. 2015."
     - name: HARC Center @ UC San Francisco
       url: http://harc.ucsf.edu/
 
-- citation: "**Keedy DA, Fraser JS**, van den Bedem H. Exposing hidden alternative backbone conformations in X-ray
-crystallography using qFit. *PLOS Computational Biology*. 2015."
+- title: "Exposing hidden alternative backbone conformations in X-ray
+crystallography using qFit."
+  citation: "**Keedy DA, Fraser JS**, van den Bedem H. *PLOS Computational Biology*. 2015."
   date: '201507'
   image: '/static/img/pub/keedy_2015_2.jpg'
   pmid: '26506617'
@@ -967,7 +969,8 @@ crystallography using qFit. *PLOS Computational Biology*. 2015."
     - name: Paper Submission Celebration Photo
       url: https://twitter.com/fraser_lab/status/594308094403837952
 
-- citation: "van den Bedem H, **Fraser JS**. Integrative, Dynamic Structural Biology at Atomic Resolution — It’s About Time.
+- title: "Integrative, Dynamic Structural Biology at Atomic Resolution — It’s About Time."
+  citation: "van den Bedem H, **Fraser JS**.
  *Nature Methods*. 2015."
   date: '201506'
   image: '/static/img/pub/vdb_2015.jpg'
@@ -978,10 +981,11 @@ crystallography using qFit. *PLOS Computational Biology*. 2015."
     - name: Henry van den Bedem @ Stanford University
       url: https://vdbedem.people.stanford.edu
 
-- citation: "**Keedy DA&#42;, Kenner LR&#42;**, Warkentin M&#42;, **Woldeyes RA&#42;**, Hopkins JB, **Thompson MC**, Brewster AS,
+- title: "Mapping the Conformational
+Landscape of a Dynamic Enzyme by Multitemperature and XFEL Crystallography."
+  citation: "**Keedy DA&#42;, Kenner LR&#42;**, Warkentin M&#42;, **Woldeyes RA&#42;**, Hopkins JB, **Thompson MC**, Brewster AS,
 **Van Benschoten AH**, Baxter EL,  Uervirojnangkoorn M, McPhillips SE, Song J, Alonso-Mori R, Holton JM, Weis WI, Brunger AT,
-Soltis SM, Lemke H, Gonzalez A, Sauter NK, Cohen AE, van den Bedem H, Thorne RE, **Fraser JS**. Mapping the Conformational
-Landscape of a Dynamic Enzyme by Multitemperature and XFEL Crystallography. *eLife*. 2015."
+Soltis SM, Lemke H, Gonzalez A, Sauter NK, Cohen AE, van den Bedem H, Thorne RE, **Fraser JS**.  *eLife*. 2015."
   date: '201505'
   image: '/static/img/pub/keedy_2015_1.png'
   pmid: '26422513'
@@ -1011,8 +1015,9 @@ Landscape of a Dynamic Enzyme by Multitemperature and XFEL Crystallography. *eLi
     - name: Paper Submission Celebration Photo
       url: https://twitter.com/fraser_lab/status/578354918529994752
 
-- citation: "**Barad BA**, Echols N, Wang RYR, Cheng Y, DiMaio F, Adams PD, **Fraser JS**. EMRinger: Side-chain-directed model
-and map validation for 3D Electron Cryomicroscopy. *Nature Methods*. 2015."
+- title: "EMRinger: Side-chain-directed model
+and map validation for 3D Electron Cryomicroscopy."
+  citation: "**Barad BA**, Echols N, Wang RYR, Cheng Y, DiMaio F, Adams PD, **Fraser JS**.  *Nature Methods*. 2015."
   date: '201504'
   image: '/static/img/pub/barad_2015.jpg'
   pmid: '26280328'
@@ -1029,8 +1034,9 @@ and map validation for 3D Electron Cryomicroscopy. *Nature Methods*. 2015."
       url: https://twitter.com/fraser_lab/status/562799246689460224
 
 
-- citation: "Urzhumtsev A, Afonine PV, **Van Benschoten AH, Fraser JS**, Adams PD. From deep TLS validation to ensembles of
-atomic models built from elemental motions. *Acta Crystallographica D*. 2015."
+- title: "From deep TLS validation to ensembles of
+atomic models built from elemental motions. "
+  citation: "Urzhumtsev A, Afonine PV, **Van Benschoten AH, Fraser JS**, Adams PD. *Acta Crystallographica D*. 2015."
   date: '201503'
   image: '/static/img/pub/urzhumtsev_2015.jpg'
   pmid: '26249348'
@@ -1043,8 +1049,9 @@ atomic models built from elemental motions. *Acta Crystallographica D*. 2015."
     - name: Addenda and corrigendum
       url: '/static/pdf/publications/Urzhumtsev_Corrigendum.pdf'
 
-- citation: "**Van Benschoten AH**, Afonine PV, Terwilliger TC, Wall ME, Jackson CJ, Sauter NK, Adams PD, Urzhumtsev A,
-**Fraser JS**. Predicting X-ray Diffuse Scattering from Translation Libration Screw Structural Ensembles.
+- title: "Predicting X-ray Diffuse Scattering from Translation Libration Screw Structural Ensembles."
+  citation: "**Van Benschoten AH**, Afonine PV, Terwilliger TC, Wall ME, Jackson CJ, Sauter NK, Adams PD, Urzhumtsev A,
+**Fraser JS**.
 *Acta Crystallographica D*. 2015."
   date: '201502'
   image: '/static/img/pub/vb_2015.jpg'
@@ -1058,8 +1065,9 @@ atomic models built from elemental motions. *Acta Crystallographica D*. 2015."
     - name: Summary by iUCr
       url: http://www.iucr.org/news/research-news/predicting-x-ray-diffuse-scattering-from-translation-libration-screw-structural-ensembles
 
-- citation: "Bhabha G, **Biel JT, Fraser JS**. Keep on Moving: Discovering and Perturbing the Conformational Dynamics
- of Enzymes. *Accounts of Chemical Research*. 2015."
+- title: "Keep on Moving: Discovering and Perturbing the Conformational Dynamics
+ of Enzymes."
+  citation: "Bhabha G, **Biel JT, Fraser JS**.  *Accounts of Chemical Research*. 2015."
   date: '201501'
   image: '/static/img/pub/bhabha_2014.jpg'
   pmid: '25539415'
@@ -1069,8 +1077,9 @@ atomic models built from elemental motions. *Acta Crystallographica D*. 2015."
     - name: Paper Submission Celebration Photo
       url: https://twitter.com/fraser_lab/status/504068281766920193
 
-- citation: "Wall ME, **VanBenschoten AH**, Sauter NK, Adams PD, **Fraser JS**, Terwilliger TC. Conformational Dynamics of a
-Crystalline Protein from Microsecond-Scale Molecular Dynamics Simulations and Diffuse X-Ray Scattering. *PNAS*. 2014."
+- title: "Conformational Dynamics of a
+Crystalline Protein from Microsecond-Scale Molecular Dynamics Simulations and Diffuse X-Ray Scattering."
+  citation: "Wall ME, **VanBenschoten AH**, Sauter NK, Adams PD, **Fraser JS**, Terwilliger TC.  *PNAS*. 2014."
   date: '201407'
   image: '/static/img/pub/wall_2014_1.jpg'
   pmid: '25453071'
@@ -1085,9 +1094,10 @@ Crystalline Protein from Microsecond-Scale Molecular Dynamics Simulations and Di
       url: https://twitter.com/fraser_lab/status/506975938043580416
 
 
-- citation: "Williams BB, **VanBenschoten AH**, Cimermancic P, Donia MS, Zimmermann M, Taketani M, Ishihara A,
-Kashyap PC, **Fraser JS**, Fischbach MA. Discovery and characterization of two tryptamine-producing decarboxylases
-from the gut microbiota. *Cell Host and Microbe*. 2014."
+- title: "Discovery and characterization of two tryptamine-producing decarboxylases
+from the gut microbiota. "
+  citation: "Williams BB, **VanBenschoten AH**, Cimermancic P, Donia MS, Zimmermann M, Taketani M, Ishihara A,
+Kashyap PC, **Fraser JS**, Fischbach MA. *Cell Host and Microbe*. 2014."
   date: '201406'
   image: '/static/img/pub/williams_2014.jpg'
   pmid: '25263219'
@@ -1108,7 +1118,8 @@ from the gut microbiota. *Cell Host and Microbe*. 2014."
     - name: 'Nature Reviews Microbiology: Bacteria and the brain'
       url: http://www.nature.com/nrmicro/journal/v12/n11/full/nrmicro3373.html
 
-- citation: "**Woldeyes RA**, Sivak DA, **Fraser JS**. E pluribus unum, no more: from one crystal, many conformations.
+- title: "E pluribus unum, no more: from one crystal, many conformations."
+  citation: "**Woldeyes RA**, Sivak DA, **Fraser JS**.
 *Current Opinion in Structural Biology*. 2014."
   date: '201405'
   image: '/static/img/pub/woldeyes_2014.jpg'
