@@ -1121,8 +1121,9 @@ from the gut microbiota. *Cell Host and Microbe*. 2014."
     - name: Paper Submission Celebration Photo
       url: https://twitter.com/fraser_lab/status/466374369317781504
 
-- citation: "**Keedy DA**, van den Bedem H, Sivak DA, Petsko GA, Ringe D, Wilson MA, **Fraser JS**.
-Crystal Cryocooling Distorts Conformational Heterogeneity in a Model Michaelis Complex of DHFR. *Structure*. 2014."
+- title: "Crystal Cryocooling Distorts Conformational Heterogeneity in a Model Michaelis Complex of DHFR."
+  citation: "**Keedy DA**, van den Bedem H, Sivak DA, Petsko GA, Ringe D, Wilson MA, **Fraser JS**.
+ *Structure*. 2014."
   date: '201404'
   image: '/static/img/pub/keedy_2014.jpg'
   pmid: '24882744'
@@ -1147,8 +1148,9 @@ Crystal Cryocooling Distorts Conformational Heterogeneity in a Model Michaelis C
     - name: F1000 Evaluation
       url: http://f1000.com/prime/718430130
 
-- citation: "Fischer M&#42;, Coleman RG&#42;, **Fraser JS**, Shoichet BK. Incorporation of protein ﬂexibility and
-conformational energy penalties in docking screens to improve ligand discovery. *Nature Chemistry*. 2014."
+- title: "Incorporation of protein ﬂexibility and
+conformational energy penalties in docking screens to improve ligand discovery."
+  citation: "Fischer M&#42;, Coleman RG&#42;, **Fraser JS**, Shoichet BK.  *Nature Chemistry*. 2014."
   date: '201403'
   image: '/static/img/pub/fischer_coleman_2014.jpg'
   pmid: '24950326'
@@ -1183,7 +1185,8 @@ conformational energy penalties in docking screens to improve ligand discovery. 
     - name: Cover Explanation
       url: http://rgc.name/images/natchemcoverexplanation.pdf
 
-- citation: "Wall ME, Adams PD, **Fraser JS**, Sauter NK. Diffuse X-ray Scattering to Model Protein Motions. *Structure*. 2014."
+- title: "Diffuse X-ray Scattering to Model Protein Motions."
+  citation: "Wall ME, Adams PD, **Fraser JS**, Sauter NK.  *Structure*. 2014."
   date: '201402'
   image: '/static/img/pub/wall_2014_2.jpg'
   pmid: '24507780'
@@ -1193,8 +1196,9 @@ conformational energy penalties in docking screens to improve ligand discovery. 
     - name: Meeting Slides and Website
       url: http://cci.lbl.gov/dials/oct_2013_diffuse.htm
 
-- citation: "Fenwick RB, van den Bedem H, **Fraser JS**, Wright PE. Integrated description of protein dynamics from
-room-temperature X-ray crystallography and NMR. *PNAS*. 2014."
+- title: "Integrated description of protein dynamics from
+room-temperature X-ray crystallography and NMR."
+  citation: "Fenwick RB, van den Bedem H, **Fraser JS**, Wright PE.  *PNAS*. 2014."
   date: '201401'
   image: '/static/img/pub/fenwick_2014.jpg'
   pmid: '24474795'
@@ -1211,8 +1215,9 @@ room-temperature X-ray crystallography and NMR. *PNAS*. 2014."
     - name: F1000 Evaluation
       url: http://f1000.com/prime/718255725
 
-- citation: "Lang PT, Holton JM, **Fraser JS**, Alber T. Protein structural ensembles are revealed by redefining X-ray
-electron density noise. *PNAS*. 2014."
+- title: "Protein structural ensembles are revealed by redefining X-ray
+electron density noise."
+  citation: "Lang PT, Holton JM, **Fraser JS**, Alber T. *PNAS*. 2014."
   date: '201401'
   image: '/static/img/pub/lang_2014.jpg'
   pmid: '24363322'
@@ -1224,8 +1229,9 @@ electron density noise. *PNAS*. 2014."
     - name: END/RAPID Website
       url: http://bl831.als.lbl.gov/END/RAPID/
 
-- citation: "van den Bedem H, Bhabha G, Yang K, Wright PE, **Fraser JS**. Automated identification of functional dynamic
-contact networks from X-ray crystallography. *Nature Methods*. 2013."
+- title: "Automated identification of functional dynamic
+contact networks from X-ray crystallography. "
+  citation: "van den Bedem H, Bhabha G, Yang K, Wright PE, **Fraser JS**. *Nature Methods*. 2013."
   date: '201304'
   image: '/static/img/pub/vdb_2013.gif'
   pmid: '23913260'
@@ -1257,9 +1263,10 @@ contact networks from X-ray crystallography. *Nature Methods*. 2013."
     - name: 'Youtube: CONTACT'
       url: http://www.youtube.com/watch?v=O29pJhFUwpk
 
-- citation: "Braberg H, Jin H, Moehle E, Chan YA, Wang S, Shales M, Benschop JJ, Morris JH, **Fraser JS**, Qiu C, Hu F,
-Tang LK, Holstege FCP, Hieter P, Guthrie C, Kaplan CD, Krogan NJ. From structure to systems: high-resolution, quantitative
-genetic analysis of RNA polymerase II. *Cell*. 2013."
+- title: "From structure to systems: high-resolution, quantitative
+genetic analysis of RNA polymerase II."
+  citation: "Braberg H, Jin H, Moehle E, Chan YA, Wang S, Shales M, Benschop JJ, Morris JH, **Fraser JS**, Qiu C, Hu F,
+Tang LK, Holstege FCP, Hieter P, Guthrie C, Kaplan CD, Krogan NJ.  *Cell*. 2013."
   date: '201303'
   image: '/static/img/pub/braberg_2013.jpg'
   pmid: '23932120'
@@ -1275,8 +1282,9 @@ genetic analysis of RNA polymerase II. *Cell*. 2013."
     - name: 'Nature: Pol II Interactions in Detail'
       url: http://www.nature.com/nrg/journal/vaop/ncurrent/full/nrg3582.html
 
-- citation: "Ollikainen N, Smith CA, **Fraser JS**, Kortemme T. Flexible Backbone Sampling Methods to Model and Design
-Protein Alternative Conformations. *Methods in Enzymology*. 2013."
+- title: "Flexible Backbone Sampling Methods to Model and Design
+Protein Alternative Conformations."
+  citation: "Ollikainen N, Smith CA, **Fraser JS**, Kortemme T.  *Methods in Enzymology*. 2013."
   date: '201302'
   image: '/static/img/pub/ollikainen_2013.jpg'
   pmid: '23422426'
@@ -1290,7 +1298,8 @@ Protein Alternative Conformations. *Methods in Enzymology*. 2013."
     - name: Kortemme lab @ UC San Francisco
       url: http://kortemmelab.ucsf.edu/
 
-- citation: "**Fraser JS**, Gross JD, Krogan NJ. From Systems to Structure: Bridging Networks and Mechanism.
+- title: " From Systems to Structure: Bridging Networks and Mechanism."
+  citation: "**Fraser JS**, Gross JD, Krogan NJ.
 *Molecular Cell*. 2013."
   date: '201301'
   image: '/static/img/pub/fraser_2013.jpg'
@@ -1305,8 +1314,9 @@ Protein Alternative Conformations. *Methods in Enzymology*. 2013."
     - name: 'Molecular Cell: Celebrating 15 years of New Connections'
       url: http://www.cell.com/molecular-cell/fulltext/S1097-2765(13)00045-2
 
-- citation: "Vila JA, Sue SC, **Fraser JS**, Scheraga HA, Dyson HJ. CheShift-2 resolves a local inconsistency between two
-X-ray crystal structures. *Journal of Biomolecular NMR*. 2012."
+- title: "CheShift-2 resolves a local inconsistency between two
+X-ray crystal structures."
+  citation: "Vila JA, Sue SC, **Fraser JS**, Scheraga HA, Dyson HJ.  *Journal of Biomolecular NMR*. 2012."
   date: '201203'
   image: '/static/img/pub/vila_2012.jpg'
   pmid: '22945426'
@@ -1320,8 +1330,9 @@ X-ray crystal structures. *Journal of Biomolecular NMR*. 2012."
     - name: Scheraga lab @ Cornell University
       url: http://www.chem.cornell.edu/has5/
 
-- citation: "Beltrao P, Albanèse V, **Kenner LR**, Swaney DL, Burlingame A, Villén J, Lim WA, **Fraser JS**, Frydman J,
-Krogan NJ. Systematic functional prioritization of protein posttranslational modifications. *Cell*. 2012."
+- title: "Systematic functional prioritization of protein posttranslational modifications."
+  citation: "Beltrao P, Albanèse V, **Kenner LR**, Swaney DL, Burlingame A, Villén J, Lim WA, **Fraser JS**, Frydman J,
+Krogan NJ. *Cell*. 2012."
   date: '201202'
   image: '/static/img/pub/beltrao_2012.png'
   pmid: '22817900'
