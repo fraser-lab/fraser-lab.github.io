@@ -108,6 +108,20 @@
   Gabby is interested in studying the allosteric regulation of kinase activity through molecular and structural biology. \
   Outside of lab, she enjoys exploring nature and tries her best to longboard."
 
+- name: Daniel Hogan
+  image: /static/img/members/Hogan.jpg
+  altimage: /static/img/members/Hogan_pb.jpg
+  position: Postdoc
+  pronouns: he/him/his
+  email: daniel.hogan (at) ucsf.edu
+  github: dhogan-io
+  website: https://dhogan.io/
+  orcid: 0000-0003-3375-408X
+  description: "Daniel graduated from Stanford, where he worked on single-molecule biophysics with Steven Block. \
+  He joined the Fraser lab in 2020, where he works to improve and expand their computational resources. \
+  He's passionate about open science, open data, and open-source software. \
+  Outside of lab, he can usually be found running or playing board games."
+
 - name: D. John Lee
   image: /static/img/members/Lee.jpg
   altimage: /static/img/members/Lee_pb.jpg
