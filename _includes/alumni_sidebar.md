@@ -8,7 +8,8 @@
 <p><strong>{{alum.name}}</strong> - <em>{{alum.position}}</em><br>
 {% if alum.startdate %} {{alum.startdate}} - {% endif %}{{alum.enddate}} <br>
 Subsequent Position: {{alum.current}} </p>
-</div> {% endfor %}
+</div>
+{% endfor %}
 
 <br>
 ## [SEP High School Interns](http://sep.ucsf.edu/hs_programs/high-school-intern-program/)

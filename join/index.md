@@ -13,7 +13,7 @@ Our lab doesn’t generally post for specific positions, so please reach out! We
 
 ## Graduate Students
 
-At UCSF, students can apply to a single [graduate program](https://graduate.ucsf.edu/prospective-students) and do not apply directly to labs. During the first year of a PhD program, students rotate through ~3 labs prior to deciding on a thesis lab. Our lab is usually open for rotation students every quarter and will generally have room for 1-2 new graduate students (regardless of program affiliation) per year.
+At UCSF, students can apply to a single [graduate program](https://graduate.ucsf.edu/prospective-students) and do not apply directly to labs. During the first year of a Ph.D. program, students rotate through ~3 labs prior to deciding on a thesis lab. Our lab is usually open for rotation students every quarter and will generally have room for 1-2 new graduate students (regardless of program affiliation) per year.
 
 ##### The Fraser Lab participates in the following UCSF graduate programs:
   * **[Biophysics](http://biophysics.ucsf.edu/)**: The Biophysics Graduate Program (BP) at the University of California, San Francisco (UCSF) prepares scientists to leverage new and emerging research tools—from nanotechnology to nuclear magnetic resonance spectroscopy—to quantify biological processes in living biological systems using physics and chemistry.
@@ -25,6 +25,6 @@ At UCSF, students can apply to a single [graduate program](https://graduate.ucsf
 
 Inquiries about Postdoctoral positions should be emailed directly to James Fraser. Candidates will be encouraged to explore applying for extramural fellowships to support their research.
 
-## Other
+## Other Visitors
 
 In the past, our lab has enjoyed having foreign exchange students, interns, sabbatical visitors from academia and industry, and post-bac technicians in the lab.  We are open to other arrangements as well. As we expect people to be fairly compensated for their work by their home institution or by us, we do not have volunteer positions available. Note: we take high school students exclusively through the [UCSF SEP program](http://sep.ucsf.edu/).
