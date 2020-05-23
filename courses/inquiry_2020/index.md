@@ -57,12 +57,12 @@ Structure-based drug design promises to revolutionize drug discovery, yet despit
   - VR experience in Genentech Hall N453
 
 **Thursday Jan 9 - 2:30-4PM**
-- [John Irwin: Docking what works and what doesn't](/static/pdf/inquiry/irwin-docking-jan2020-final_compressed.pdf)
+- [John Irwin: Docking what works and what doesn't](/static/pdf/inquiry_2020/Irwin_Docking_2020.pdf)
   - What docking is, how it works, and why it is hard; a review of some notable success stories "what docking can do for you" and failures; a detailed look at 2 or 3 stories, focusing on how to run a docking campaign, and what to expect from the outcome, with results.
   - resources DOCK Blaster, ZINC, DUDE, and how to use them.
 
 **Tuesday Jan 14 - 2:30-4PM**
-- [Tanja Kortemme: Rosetta and Biologics](/static/pdf/inquiry/20_RosettaLecture_Kortemme.pdf)
+- [Tanja Kortemme: Rosetta and Biologics](/static/pdf/inquiry_2020/Kortemme_Rosetta_2020.pdf)
   - [De novo design of potent and selective mimics of IL-2 and IL-15](https://www.nature.com/articles/s41586-018-0830-7)
   - [Proof of principle for epitope-focused vaccine design](https://www.nature.com/articles/nature12966)
   - [Computational design of a modular protein sense-response system](https://science.sciencemag.org/content/366/6468/1024)
