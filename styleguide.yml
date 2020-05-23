@@ -1,4 +1,55 @@
 #Style guide for Fraser Lab website.
+#Written by Robbie Diaz - 2020.
+
+#Style Guide: Publications
+# citation - double quotes, to avoid breaking on names with apostrophes
+# all other sections - indent with 2 spaces, strings in single quotes
+
+#Names of lab members should be bolded using the following convention: **Surname FM**.
+#If there are multiple lab members in a row, include them in one set of double asterisk pairs.
+#Use &#42; to add an asterisk denoting co-first/corresponding author. Otherwise, bolding of names using **Surname FM** will break.
+#For readability of code, start a new line around 140 characters.
+#All images and PDFs should be named using the following convention: surname_YYYY
+
+#Leave PMID and PMCID blank until an ID is assigned.
+
+#Do not include additional subsections if they are not relevant
+#to a publication (PDB, data, Zenodo, etc).
+
+#Order of links: GitHub/Data/Server, Lab Websites (alphabetical order), Facility, Twitter, F1000, News Articles
+#Put article strings in single quotes since they are separated by a colon -- i.e. CNN: Article Name.
+
+#Example Publication
+# - <citation>: "Surname FM, **Fraser JS.** Title of article. *Submitted - Preprint on Biorxiv*. YYYY."
+#   date: 'YYYYMM'
+#   image: '/static/img/pub/surname_YYYY.png'
+#   pmid: '########'
+#   pmcid: 'PMC#######'
+#   biorxiv: 'YYYY.MM.DD.######'
+#   pdf: '/static/pdf/publications/surname_YYYY.pdf'
+#   pdbs:
+#     - PDB_ID
+#   paired_maps_and_models:
+#     - pdb: PDB_ID
+#       emdb: '#####'
+#   data:
+#     - '10.11577/1602169'
+#   zenodo:
+#     - code: '3555658'
+#       description: qPTxM code snapshot
+#   links:
+#     - name: Fujimori lab  @ UC San Francisco
+#       url: https://fujimorilab.ucsf.edu
+#     - name: Gonen lab @ UC Los Angeles
+#       url: https://cryoem.ucla.edu/
+#     - name: SACLA XFEL
+#       url: http://xfel.riken.jp/eng/
+#     - name: qPTxM code on GitHub
+#       url: https://github.com/fraser-lab/qptm
+#     - name: Celebratory Tweetstorm by first author First Surname
+#       url: https://twitter.com/LifeHasOrder/status/1172327493451145218
+#     - name: Celebratory Tweetstorm by corresponding author First Surname
+#       url: https://twitter.com/mctucsf/status/1172334750205218816
 
 ###publications
 - citation: "**Last Name FN**, **Fraser JS**.
