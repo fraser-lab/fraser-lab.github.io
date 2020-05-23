@@ -30,7 +30,7 @@ Each students will serve as Discussion Leaders for one manuscript topic.  Everyo
   - [Michael Eisen](http://eisenlab.org/) - [Editor in Chief of eLife](https://elifesciences.org/about/people)
   - [Andrej Sali](https://salilab.org/) - [Editor of Structure](https://www.cell.com/structure/editors)
 - Writing and receiving peer review:
-    - [Fraser lab how-to-review](how_to/)
+    - [Fraser lab how-to-review](/courses/peer_review_2020/how_to)
     - [My public reviews as BioRxiv comments](https://disqus.com/by/fraserlab/comments/)
     - [Example from Cell Stem Cell of a review process](https://www.cell.com/cell-stem-cell/fulltext/S1934-5909(19)30221-8)
     - [Universal Principled Review](https://www.cell.com/cell/pdf/S0092-8674(19)31286-3.pdf)
@@ -60,4 +60,4 @@ Each students will serve as Discussion Leaders for one manuscript topic.  Everyo
 
 ### May 8
 - Presentation 8: [Monitoring the production of high diffraction-quality crystals of two enzymes in real time using in situ dynamic light scattering](https://www.biorxiv.org/content/10.1101/2020.01.05.888370v1.full)
-- Presentation 9: [Sensory-evoked	extracellular	vesicle	release	and	targeting](https://www.biorxiv.org/content/10.1101/2020.04.21.050690v1.full.pdf)
+- Presentation 9: [Sensory-evoked extracellular	vesicle	release	and targeting](https://www.biorxiv.org/content/10.1101/2020.04.21.050690v1.full.pdf)

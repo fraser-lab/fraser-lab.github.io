@@ -138,7 +138,7 @@ Files for Computation:
 
 Other Class Material:
 
-- [Information about the server](/pubs/server/)
+- [Information about the server](/courses/pubs/pubs_2015/server/)
 - [PDF of Lecture 1](https://drive.google.com/file/d/0Bx0d95RwVYufQkxnMmFfS3EzRDQ/view?usp=sharing)
 - [PDF of Lecture 2](https://drive.google.com/file/d/0Bx0d95RwVYufaEpLOVZTSFpuQTQ/view?usp=sharing)
 - [Fred Sherman's "Getting started with Yeast"](https://instruct.uwo.ca/biology/3596a/startedyeast.pdf)

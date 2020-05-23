@@ -130,7 +130,7 @@ Files for Computation:
 
 Other Class Material:
 
-- [Information about the server](/pubs/server/)
+- [Information about the server](/courses/pubs_2014/server/)
 - [PDF of Lecture 1](https://drive.google.com/open?id=0Bx0d95RwVYufMFpUbTk1azcxUTQ&authuser=0)
 - [Fred Sherman's "Getting started with Yeast"](https://instruct.uwo.ca/biology/3596a/startedyeast.pdf)
 - [Transformation Protocol](https://docs.google.com/document/d/1-6-rbLosBYkAZI4EOcmwP8C2wDNiLE4OWvXjNS0Yfko/edit?usp=sharing)
@@ -210,7 +210,7 @@ Other Class Material:
 - [Chimera Tutorial by Elaine Meng](http://www.rbvi.ucsf.edu/chimera/data/tutorials/systems/index.html)
 - [Please Enter OD readings here](https://docs.google.com/spreadsheets/d/1tEfTOXOHSn7MAwEFa_pVOB1hl1f_NqEjmi3tTbTvfJ8/edit?usp=sharing)
 - [Computation Refresher](https://docs.google.com/presentation/d/1GMJg5oZIrMgenp6726jASmwLrbFJkYwlJRf7B8nM9g8/edit?usp=sharing)
-- [Information about the server](/pubs/server/)
+- [Information about the server](/courses/pubs_2014/server/)
 - [Updated Allele Pickle File (including WT sequences)](https://drive.google.com/file/d/0Bx0d95RwVYufQmJVaHU0RTFnYXM/view?usp=sharing)
 - [A Plasmid Editor (APE)](http://biologylabs.utah.edu/jorgensen/wayned/ape/)
 - [APE file for Plasmid](https://drive.google.com/file/d/0Bx0d95RwVYufNzJTaGpDU2lOR0E/view?usp=sharing)
@@ -218,7 +218,7 @@ Other Class Material:
 - [PCR Product Annotation](https://docs.google.com/document/d/12CGyjBaVTB1ncw00-yRyQl6Acga-LS7bfywvrpxLbNg/edit?usp=sharing)
 - [Information about the format of your fastq files](http://support.illumina.com/help/SequencingAnalysisWorkflow/Content/Vault/Informatics/Sequencing_Analysis/CASAVA/swSEQ_mCA_FASTQFiles.htm)
 - [Hamming Distance](http://en.wikipedia.org/wiki/Hamming_distance)
-- [Using Matplotlib on the Server](/pubs/matplotlib_server/)
+- [Using Matplotlib on the Server](/courses/pubs_2014/matplotlib_server/)
 
 **Week 5 – Theme: Stress Response Networks**
 
@@ -288,7 +288,7 @@ Other Class Material:
 - [Kyle's Lecture](https://drive.google.com/file/d/0Bz5C8aG_xj4sa20zMTRBd3BvSVFPMk1nUzBrZkR1NzFYQzhz/view?usp=sharing)
 - [Samuel's Lecture](https://drive.google.com/file/d/0Bx0d95RwVYufaGwyeDh1dFpRaFU/view?usp=sharing)
 - [DDG data website](https://guybrush.ucsf.edu/local/DDG/ubiquitin)
-- [Backup JSON](/pubs/ubiquitin.json)
+- [Backup JSON](/courses/pubs_2014/ubiquitin.json)
 - [Student Fitness Data](https://drive.google.com/folderview?id=0Bz5C8aG_xj4sdDZiTzdGSVdZdDg&usp=sharing)
 - [PDB files of Ubiquitin Complexes](https://drive.google.com/folderview?id=0Bx0d95RwVYufYUliUXJzaTAyTEk&usp=sharing)
   - These files were the starting point for the Rosetta analysis. For the Rosetta DDG analysis, these structures were minimized in the Rosetta forcefield. Those minimized structures are in the Pymol session. These pdb files are for the pre-minimized structures.

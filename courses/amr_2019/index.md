@@ -12,11 +12,11 @@ group: courses
 
 **Location:** Genentech Hall S202
 
-**Instructors:** [James Fraser](mailto:jfraser@fraserlab.com);
+**Instructors:** [James Fraser](mailto:jfraser@fraserlab.com)
 
 **Course Description:**
 
-This minicourse will be a survey of recent and classic papers on antibiotic resistance with an emphasis on evolutionary biology, biochemical mechanisms, and new ideas for chemical matter.
+This mini-course will be a survey of recent and classic papers on antibiotic resistance with an emphasis on evolutionary biology, biochemical mechanisms, and new ideas for chemical matter.
 
 ## Course structure
 

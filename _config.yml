@@ -9,5 +9,9 @@ paginate_path: "news/page:num"
 
 permalink: pretty
 markdown: kramdown
-kramdown: 
+kramdown:
   parse_block_html: true
+
+collections:
+        members:
+                output: true

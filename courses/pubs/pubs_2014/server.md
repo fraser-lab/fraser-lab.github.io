@@ -40,14 +40,13 @@ group: courses
 - Multiple Sequence Alignment
 	- clustalw
 	- blast2
-	- mafft 
-	- muscle 
+	- mafft
+	- muscle
 - Deep sequence utilities / tools
-	- bcftools 
-	- bowtie2 
+	- bcftools
+	- bowtie2
 	- blat
 	- bwa
 	- gsnap
-	- fastx toolkit 
+	- fastx toolkit
 	- samtools
-

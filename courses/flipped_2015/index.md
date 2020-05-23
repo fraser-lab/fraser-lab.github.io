@@ -23,11 +23,11 @@ How did life evolve?  How can understand the principles of biological systems to
 
 2 students will serve as Discussion Leaders (pre-assigned below) for each class.  Everyone should be prepared for class by having viewed the talks and read the paper carefully.
 
-**Discussion Leaders will need do advance work**.  The goal is to derive a set of questions that can lead to a provocative discussion with your classmates.   Beyond our class, we would like the Discussion Leaders also to invest effort and produce a set of ["Teaching Tools"](/flipped/teaching_tools/) which could be posted on the iBiology web site (with your name listed as having prepared them).  Then, other teachers (mostly undergrad teachers) can benefit and lead discussions or make assignments for their classes on these lectures.  It is also good opportunity for you to learn how to produce useful education material, which might prove useful later in your life.  We can help you with revising your [Teaching Tools](/flipped/teaching_tools/) (which will be part of the learning process) before we post them and have created an online [guide to preparing Teaching Tools](/flipped/teaching_tools/).  Remember, the teaching tools overall are aimed for upper level undergraduate classes.
+**Discussion Leaders will need do advance work**.  The goal is to derive a set of questions that can lead to a provocative discussion with your classmates.   Beyond our class, we would like the Discussion Leaders also to invest effort and produce a set of ["Teaching Tools"](/courses/flipped_2015/teaching_tools/) which could be posted on the iBiology web site (with your name listed as having prepared them).  Then, other teachers (mostly undergrad teachers) can benefit and lead discussions or make assignments for their classes on these lectures.  It is also good opportunity for you to learn how to produce useful education material, which might prove useful later in your life.  We can help you with revising your [Teaching Tools](/courses/flipped_2015/teaching_tools/) (which will be part of the learning process) before we post them and have created an online [guide to preparing Teaching Tools](/courses/flipped_2015/teaching_tools/).  Remember, the teaching tools overall are aimed for upper level undergraduate classes.
 
 ##Course goals/timelines:
-- Prepare a set of Discussion Questions  (e.g. 5 (or a couple more if you want) on each part of the assigned iBioSeminars Talk and on the paper (see instructions on [Teaching Tools](/flipped/teaching_tools/)).  **These questions should be distributed to your classmates 2 days before the assigned discussion**, so you will need to view the material, discuss with your assigned co-leader, and then email to the group.  You can start on this before the class starts (obviously necessary for the first 2 classes).  This is why we are distributing this information in advance.   You do not need to have written answers for the purpose of our mini-course discussion (but will need for the assignment below).
-- Prepare [Teaching Tools](/flipped/teaching_tools/) on your assigned speaker according to guidelines and examples below **by June 1**.  This will include more material (e.g. overview, review questions, etc) for undergrads.  For the Discussion Questions, you can also see what worked or did not work in our session or come up with new questions based upon the class discussion.  If you send us a preliminary version of your Teaching Tools, we will provide you with feedback so that you can revise and also learn from the experience.  Some of the iBiology staff at UCSF will likely help with feedback as well.
+- Prepare a set of Discussion Questions  (e.g. 5 (or a couple more if you want) on each part of the assigned iBioSeminars Talk and on the paper (see instructions on [Teaching Tools](/courses/flipped_2015/teaching_tools/)).  **These questions should be distributed to your classmates 2 days before the assigned discussion**, so you will need to view the material, discuss with your assigned co-leader, and then email to the group.  You can start on this before the class starts (obviously necessary for the first 2 classes).  This is why we are distributing this information in advance.   You do not need to have written answers for the purpose of our mini-course discussion (but will need for the assignment below).
+- Prepare [Teaching Tools](/courses/flipped_2015/teaching_tools/) on your assigned speaker according to guidelines and examples below **by June 1**.  This will include more material (e.g. overview, review questions, etc) for undergrads.  For the Discussion Questions, you can also see what worked or did not work in our session or come up with new questions based upon the class discussion.  If you send us a preliminary version of your Teaching Tools, we will provide you with feedback so that you can revise and also learn from the experience.  Some of the iBiology staff at UCSF will likely help with feedback as well.
 
 For our UCSF class, our discussion time will focus primarily on the Research Lectures (part II and III of the iBiology Talk (or the main talk for Tejal Desai) and on the assigned paper.   However, we also discuss the Introduction Talk from the point of view of the effectiveness of the presentation.  Did you like the talk and the style of the speaker?  What techniques did the speaker use well to engage the viewer or get a point across?  To be successful in science, you will have to become a good communicator, so it is valuable to analyze what you think constitutes a successful talk (and also appreciate that there are various strategies for crafting a good talk).
 
@@ -36,8 +36,8 @@ If you want to talk to us about preparing your discussion session, please feel f
 
 #May 15#
 
-- Leaders: Kelsey Hass, Jasper Williams
-- Primary Faculty:	Ron
+- Leaders: Kelsey Haas, Jasper Williams
+- Primary Faculty: Ron
 
 ##Jack Szostack - The Origins of Life on Earth##
 
@@ -79,12 +79,12 @@ Assigned Paper:
 </div>
 {:/nomarkdown}
 
-- Discussion Questions: [Szostak and Newman](/static/pdf/flipped/szostak_newman.pdf)
+- Discussion Questions: [Szostak and Newman](/static/pdf/courses/flipped_2015/szostak_newman.pdf)
 
 #May 18#
 
-- Leaders:	           Aditya Anand, Lynn Wang
-- Primary Faculty:	Jaime
+- Leaders: Aditya Anand, Lynn Wang
+- Primary Faculty: Jaime
 
 ##David Baker - Protein Design##
 
@@ -103,12 +103,12 @@ Assigned Paper:
 {:/nomarkdown}
 
 
-- Discussion Questions: [David Baker](/static/pdf/flipped/baker.pdf)
+- Discussion Questions: [David Baker](/static/pdf/courses/flipped_2015/baker.pdf)
 
 #May 20#
 
-- Leaders:	           Ben Barsi-Rhyne, Becky Anderson
-- Primary Faculty:	Jaime
+- Leaders: Ben Barsi-Rhyne, Becky Anderson
+- Primary Faculty: Jaime
 
 ##Chaitan Khosla - Polyketide Assembly Lines##
 
@@ -130,13 +130,13 @@ Assigned Paper:
 </div>
 {:/nomarkdown}
 
-- Discussion Questions: [Chaitan Khosla](/static/pdf/flipped/khosla.pdf)
+- Discussion Questions: [Chaitan Khosla](/static/pdf/courses/flipped_2015/khosla.pdf)
 
 
 #May 22#
 
-- Leaders:    	      Karen Cheng
-- Primary Faculty:  Ron
+- Leaders: Karen Cheng
+- Primary Faculty: Ron
 
 ##William Shih - Nanofabrication via Structural DNA##
 
@@ -160,15 +160,15 @@ Assigned Papers:
 </div>
 {:/nomarkdown}
 
-- Discussion Questions: [William Shih](/static/pdf/flipped/shih.pdf)
+- Discussion Questions: [William Shih](/static/pdf/courses/flipped_2015/shih.pdf)
 
 
 #May 26#
 
-- Leaders:	           Elijah Martin, Tess Veuthey
-- Primary Faculty:	Jaime
+- Leaders: Elijah Martin, Tess Veuthey
+- Primary Faculty: Jaime
 
-##Kristala Prather-Jones	Synthetic Biology and Metabolic Engineering##
+##Kristala Prather-Jones Synthetic Biology and Metabolic Engineering##
 
 Assigned Paper:
 - [Sheppard MJ, Kunjapur AM, Wenck SJ, Prather KL. Retro-biosynthetic screening of a modular pathway design achieves selective route for microbial synthesis of 4-methyl-pentanol. Nat Commun. 2014. PMID: 25248664](http://www.nature.com/ncomms/2014/140924/ncomms6031/full/ncomms6031.html)
@@ -183,14 +183,14 @@ Assigned Paper:
 </div>
 {:/nomarkdown}
 
-- Discussion Questions: [Kristala Prather](/static/pdf/flipped/prather.pdf)
+- Discussion Questions: [Kristala Prather](/static/pdf/courses/flipped_2015/prather.pdf)
 
 #May 27#
 
-- Leaders:	           Karina Perlaza, Brian Yang
-- Primary Faculty:	Ron
+- Leaders: Karina Perlaza, Brian Yang
+- Primary Faculty: Ron
 
-##Sangeeta Bhatia		Tissue Engineering##
+##Sangeeta Bhatia  Tissue Engineering##
 
 Assigned Paper:
 
@@ -206,15 +206,15 @@ Assigned Paper:
 </div>
 {:/nomarkdown}
 
-- Discussion Questions: [Sangeeta Bhatia](/static/pdf/flipped/bhatia.pdf)
+- Discussion Questions: [Sangeeta Bhatia](/static/pdf/courses/flipped_2015/bhatia.pdf)
 
 
 #May 29#
 
-- Leaders:		Valentina Garcia, Lindsay Osso
-- Primary Faculty:	Ron
+- Leaders:  Valentina Garcia, Lindsay Osso
+- Primary Faculty: Ron
 
-##Robert Langer		Biomaterials and Delivery Systems##
+##Robert Langer  Biomaterials and Delivery Systems##
 
 Assigned paper:
 - [Timko, B.P., Arruebo, M., Shankarappa, S.A., McAlvin, J.B., Okonkwo, O.S., Mizrahi, B., Stefanescu, C.F., Gomez, L., Zhu, J., Zhu, A., et al. (2014). Near-infrared-actuated devices for remotely controlled drug delivery. Proceedings of the National Academy of Sciences 111, 1349–1354.](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3910641/)
@@ -233,9 +233,9 @@ Assigned paper:
 </div>
 {:/nomarkdown}
 
-- Discussion Questions: [Robert Langer](/static/pdf/flipped/langer.pdf)
+- Discussion Questions: [Robert Langer](/static/pdf/courses/flipped_2015/langer.pdf)
 
-##Desai/Bhisitkul	Advancing the Treatment of Retinal Disease##
+##Desai/Bhisitkul Advancing the Treatment of Retinal Disease##
 
 No paper assigned
 

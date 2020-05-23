@@ -10,7 +10,7 @@ group: courses
 
 ## Fall 2019 Syllabus ##
 
-<img class="img-fluid mx-auto d-block" src="/static/img/pub/methods_wb.JPG" alt="Macro methods whiteboard in the teaching lab"> 
+<img class="img-fluid mx-auto d-block" src="/static/img/pub/methods_wb.JPG" alt="Macro methods whiteboard in the teaching lab">
 
 **Course Title:** Methods in Macromolecular Structure
 
@@ -55,7 +55,7 @@ James Fraser, Stephen Floor, David Bulkley, James Holton, Yifan Cheng, David Aga
 
 **Background:**
 
-Fluency in multiple biophysical methods is often critical for answering mechanistic questions. Traditionally, students are exposed to the fundamentals of multiple techniques through lectures that cover the theory prior to exposure, for some, in analysis or data collection during lab rotations. However, this structure means that only students that rotate in specific labs gain hands-on-exposure, which could limit adventurous experiments in future years.  To train the next generation of biophysicists at UCSF, we have decided to alter this traditional structure by creating a new 6 week “Macromolecular Methods” class that places data collection at the beginning of the course.  Based on our experiences designing the project-based class [Physical Underpinnings of Biological Systems, aka PUBS!](/pubs/), which used deep sequencing to assay the function of a comprehensive set of point mutants to introduce principles of [high-throughput interrogation of biological functions](https://www.ncbi.nlm.nih.gov/pubmed/27111525), we have designed Macromolecular Methods to be a team-based class where students develop their own analysis of real data that they have collected.
+Fluency in multiple biophysical methods is often critical for answering mechanistic questions. Traditionally, students are exposed to the fundamentals of multiple techniques through lectures that cover the theory prior to exposure, for some, in analysis or data collection during lab rotations. However, this structure means that only students that rotate in specific labs gain hands-on-exposure, which could limit adventurous experiments in future years.  To train the next generation of biophysicists at UCSF, we have decided to alter this traditional structure by creating a new 6 week “Macromolecular Methods” class that places data collection at the beginning of the course.  Based on our experiences designing the project-based class [Physical Underpinnings of Biological Systems, aka PUBS!](/courses/pubs/), which used deep sequencing to assay the function of a comprehensive set of point mutants to introduce principles of [high-throughput interrogation of biological functions](https://www.ncbi.nlm.nih.gov/pubmed/27111525), we have designed Macromolecular Methods to be a team-based class where students develop their own analysis of real data that they have collected.
 
 **Course Description:**
 

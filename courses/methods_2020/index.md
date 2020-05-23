@@ -6,7 +6,7 @@ group: courses
 
 # Biophysics 204A: Methods in Macromolecular Structure #
 
-[See 2019 version of the course here](/methods_2019)
+[See 2019 version of the course here](/courses/methods_2019)
 
 Tentative 2020 schedule
 - Oct 19-21 intro (JF out)
