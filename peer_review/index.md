@@ -2,7 +2,7 @@
 title: Peer Review in the Life Sciences
 layout: default
 group: courses
-permalink: /about/
+permalink: /peer_review/
 ---
 
 # Peer Review in the Life Sciences
