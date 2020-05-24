@@ -31,7 +31,7 @@ Each students will serve as Discussion Leaders for one manuscript topic.  Everyo
   - [Michael Eisen](http://eisenlab.org/) - [Editor in Chief of eLife](https://elifesciences.org/about/people)
   - [Andrej Sali](https://salilab.org/) - [Editor of Structure](https://www.cell.com/structure/editors)
 - Writing and receiving peer review:
-    - [Fraser lab how-to-review](how_to/)
+    - [Fraser lab how-to-review](/courses/peer_review/how_to/)
     - [My public reviews as BioRxiv comments](https://disqus.com/by/fraserlab/comments/)
     - [Example from Cell Stem Cell of a review process](https://www.cell.com/cell-stem-cell/fulltext/S1934-5909(19)30221-8)
     - [Universal Principled Review](https://www.cell.com/cell/pdf/S0092-8674(19)31286-3.pdf)
