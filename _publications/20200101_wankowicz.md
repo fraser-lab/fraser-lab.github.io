@@ -1,0 +1,15 @@
+---
+title: "Ensemble refinement produces consistent R-free values but smaller ensemble sizes than previously reported."
+citation: "**Wankowicz SA, Fraser JS.** *Computational Crystallography Newsletter.* 2020."
+date: '2020-01-01'
+image: '/static/img/pub/2020_wankowicz.png'
+# pmid: '########'
+# pmcid: 'PMC#######'
+# biorxiv: 'YYYY.MM.DD.######'
+pdf: '/static/pdf/publications/2020_wankowicz.pdf'
+links:
+- name: PHENIX
+  url: https://www.phenix-online.org
+- name: PHENIX Computational Crystallography Newsletter
+  url: https://www.phenix-online.org/newsletter/
+---

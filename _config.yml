@@ -12,6 +12,20 @@ markdown: kramdown
 kramdown:
   parse_block_html: true
 
+exclude:
+        - .sass-cache/
+        - .jekyll-cache/
+        - gemfiles/
+        - Gemfile
+        - Gemfile.lock
+        - node_modules/
+        - vendor/bundle/
+        - vendor/cache/
+        - vendor/gems/
+        - vendor/ruby/
+
 collections:
         members:
+                output: true
+        publications:
                 output: true
