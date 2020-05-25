@@ -2,6 +2,7 @@
 title: How to review a paper (Fraser lab guide)
 layout: default
 group: courses
+permalink: /peer_review/how_to
 ---
 
 # I wrote this for my lab a while ago. I'm hoping the course will generate feedback that will help to improve it!

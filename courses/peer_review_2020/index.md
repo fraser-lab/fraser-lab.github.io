@@ -2,17 +2,18 @@
 title: Peer Review in the Life Sciences
 layout: default
 group: courses
+permalink: /peer_review/
 ---
 
 # Peer Review in the Life Sciences
 
 ## Spring 2020 Syllabus
 
-**Course Days/Hours:** 4-6PM on April 20, 23; April 27, 30, May 1; May 4, 7, 8
+**Course Days/Hours:** 4-6 PM on April 20, 23, 27, 30, May 1, 4, 7, 8
 
 **Location:** Zoom!
 
-**Instructors:** [James Fraser](mailto:jfraser@fraserlab.com);
+**Instructors:** [James Fraser](mailto:jfraser@fraserlab.com)
 
 ## Course Description:
 
@@ -30,10 +31,10 @@ Each students will serve as Discussion Leaders for one manuscript topic.  Everyo
   - [Michael Eisen](http://eisenlab.org/) - [Editor in Chief of eLife](https://elifesciences.org/about/people)
   - [Andrej Sali](https://salilab.org/) - [Editor of Structure](https://www.cell.com/structure/editors)
 - Writing and receiving peer review:
-    - [Fraser lab how-to-review](/courses/peer_review_2020/how_to)
+    - [Fraser lab how-to-review](/peer_review/how_to)
     - [My public reviews as BioRxiv comments](https://disqus.com/by/fraserlab/comments/)
-    - [Example from Cell Stem Cell of a review process](https://www.cell.com/cell-stem-cell/fulltext/S1934-5909(19)30221-8)
-    - [Universal Principled Review](https://www.cell.com/cell/pdf/S0092-8674(19)31286-3.pdf)
+    - [Example from Cell Stem Cell of a review process](/static/pdf/courses/peer_review_2020/2019_saxe.pdf)
+    - [Universal Principled Review](/static/pdf/courses/peer_review_2020/2019_krummel.pdf)
     - [A thoughtful twitter thread on responding to reviews](https://twitter.com/dsquintana/status/1119956899447889920?s=20) and followup [blog post](https://www.dsquintana.com/post/23_apr_2019_peer-review/)
 
 
@@ -43,21 +44,21 @@ Each students will serve as Discussion Leaders for one manuscript topic.  Everyo
 - [Keeping on top of the literature](https://fraserlab.com/2013/09/28/The-Fraser-Lab-method-of-following-the-scientific-literature/)
 
 ### April 30
-- Presentation 1: [Structural and functional analysis of a potent sarbecovirus neutralizing antibody](https://www.biorxiv.org/content/10.1101/2020.04.07.023903v3.full.pdf)
+- Presentation 1: [Structural and functional analysis of a potent sarbecovirus neutralizing antibody](/static/pdf/courses/peer_review_2020/2020_pinto.pdf)
 
 
 ### May 1
-- Presentation 2: [Visualizing Wnt secretion from Endoplasmic Reticulum to Filopodia ](https://www.biorxiv.org/content/10.1101/271684v2.full.pdf)
-- Presentation 3: [Sulfopin, a selective covalent inhibitor of Pin1, blocks Myc-driven tumor initiation and growth in vivo](https://www.biorxiv.org/content/10.1101/2020.03.20.998443v1.full)
+- Presentation 2: [Visualizing Wnt secretion from Endoplasmic Reticulum to Filopodia ](/static/pdf/courses/peer_review_2020/2018_moti.pdf)
+- Presentation 3: [Sulfopin, a selective covalent inhibitor of Pin1, blocks Myc-driven tumor initiation and growth in vivo](/static/pdf/courses/peer_review_2020/2020_dubiella.pdf)
 
 ### May 4
-- Presentation 4: [Noise-Reducing Negative-Feedback Optogenetic Circuits in Mammalian Cells](https://www.biorxiv.org/content/10.1101/601005v1.full.pdf)
-- Presentation 5: [SETD2 is an actin lysine methyltransferase](https://www.biorxiv.org/content/10.1101/2020.04.13.034629v1.full.pdf)
+- Presentation 4: [Noise-Reducing Negative-Feedback Optogenetic Circuits in Mammalian Cells](/static/pdf/courses/peer_review_2020/2019_guinn.pdf)
+- Presentation 5: [SETD2 is an actin lysine methyltransferase](/static/pdf/courses/peer_review_2020/2020_seervai.pdf)
 
 ### May 7
-- Presentation 6: [Two dynamically distinct circuits driving inhibition in sensory thalamus](https://www.biorxiv.org/content/10.1101/2020.04.16.044487v2)
-- Presentation 7: [Transient “rest” induces functional reinvigoration and epigenetic remodeling in exhausted CAR-T cells](https://www.biorxiv.org/content/10.1101/2020.01.26.920496v1.full)
+- Presentation 6: [Two dynamically distinct circuits driving inhibition in sensory thalamus](/static/pdf/courses/peer_review_2020/2020_martinez_garcia.pdf)
+- Presentation 7: [Transient “rest” induces functional reinvigoration and epigenetic remodeling in exhausted CAR-T cells](/static/pdf/courses/peer_review_2020/2020_weber.pdf)
 
 ### May 8
-- Presentation 8: [Monitoring the production of high diffraction-quality crystals of two enzymes in real time using in situ dynamic light scattering](https://www.biorxiv.org/content/10.1101/2020.01.05.888370v1.full)
-- Presentation 9: [Sensory-evoked extracellular	vesicle	release	and targeting](https://www.biorxiv.org/content/10.1101/2020.04.21.050690v1.full.pdf)
+- Presentation 8: [Monitoring the production of high diffraction-quality crystals of two enzymes in real time using in situ dynamic light scattering](/static/pdf/courses/peer_review_2020/2020_wijn.pdf)
+- Presentation 9: [Sensory-evoked extracellular	vesicle	release	and targeting](/static/pdf/courses/peer_review_2020/2020_wang.pdf)
