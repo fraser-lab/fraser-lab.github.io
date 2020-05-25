@@ -63,7 +63,7 @@ Ultimately, the goal is the synthesis of predictive models that can reveal funda
 
 **Course Description:**
 
-The course is a hands-on, project-based course that integrates proteomics, deep mutational profiling [(Fowler and Fields, _Nature Methods_, 2014)](http://www.ncbi.nlm.nih.gov/pubmed/25075907), and computational biology. The model organism, _Saccharomyces cerevisiae_, will be used as the organismal basis. Our goals are to experimentally determine the kinases responsible for phosphorylating ubiquitin and to measure the fitness of all possible individual point mutants of ubiquitin. Ubiquitin is an essential protein that is a key cellular integrator of stress, under a variety of experimental perturbations. The library of these point mutants was assembled by [Dan Bolon](http://profiles.umassmed.edu/profiles/display/133553) and verified during a summer visit to the Fraser lab. The course is organized around modules, described below. Each hands-on module will be accompanied by lectures (either "chalk talk" or with slides). Students will present short talks to the class covering the assigned protocols or summarizing literature related to the class.   In addition students are expected to conduct their own literature reviews during the course of the project. Students will work in small teams, and each team will be assigned a different set of kinases for initial analysis. Based on the results, the teams will design a perturbation experiment for deep sequencing.  Students are expected to remain in their teams for the duration of the course, although team-team collaboration is highly encouraged. All team members are expected to participate in each activity.
+The course is a hands-on, project-based course that integrates proteomics, deep mutational profiling [Fowler and Fields, _Nature Methods_, 2014](/static/pdf/courses/pubs/2014_fowler.pdf), and computational biology. The model organism, _Saccharomyces cerevisiae_, will be used as the organismal basis. Our goals are to experimentally determine the kinases responsible for phosphorylating ubiquitin and to measure the fitness of all possible individual point mutants of ubiquitin. Ubiquitin is an essential protein that is a key cellular integrator of stress, under a variety of experimental perturbations. The library of these point mutants was assembled by [Dan Bolon](http://profiles.umassmed.edu/profiles/display/133553) and verified during a summer visit to the Fraser lab. The course is organized around modules, described below. Each hands-on module will be accompanied by lectures (either "chalk talk" or with slides). Students will present short talks to the class covering the assigned protocols or summarizing literature related to the class.   In addition students are expected to conduct their own literature reviews during the course of the project. Students will work in small teams, and each team will be assigned a different set of kinases for initial analysis. Based on the results, the teams will design a perturbation experiment for deep sequencing.  Students are expected to remain in their teams for the duration of the course, although team-team collaboration is highly encouraged. All team members are expected to participate in each activity.
 
 At the conclusion of the mass spec module and at the end of the class, each team will orally present their findings to the class and faculty, limited to 15 minutes and 15 slides maximum, with 10 minutes for discussion and questions. All members of the team are expected to speak and describe their contributions. These presentations are currently scheduled for Oct 12th and Nov 24th, the final day of class.
 
@@ -71,7 +71,7 @@ Activities and speakers for each week will be announced at the beginning of each
 
 **Course Goals:**
 
-The goal of the course is to provide an immersive, hands-on experience in the context of genuine research questions. As articulated by [Vale and colleagues](http://www.sciencemag.org/content/338/6114/1542.long), there are tremendous advantages when graduate students work "pursuing a research question with unknown answers and uncertain outcomes, students and faculty combine their wits and skills to design experiments, evaluate progress, and troubleshoot along the way". These advantages are likely to be common accross [all learning levels](http://blogs.kqed.org/mindshift/2014/09/can-project-based-learning-close-gaps-in-science-education/). In our course, teams may use whatever literature, software, and resources that are available publicly, and are encouraged to write their own scripts and software where necessary.
+The goal of the course is to provide an immersive, hands-on experience in the context of genuine research questions. As articulated by [Vale and colleagues](/static/pdf/courses/methods/2012_vale.pdf), there are tremendous advantages when graduate students work "pursuing a research question with unknown answers and uncertain outcomes, students and faculty combine their wits and skills to design experiments, evaluate progress, and troubleshoot along the way". These advantages are likely to be common accross [all learning levels](http://blogs.kqed.org/mindshift/2014/09/can-project-based-learning-close-gaps-in-science-education/). In our course, teams may use whatever literature, software, and resources that are available publicly, and are encouraged to write their own scripts and software where necessary.
 
 The "official" language of the class is [python](https://www.python.org) - beginners should try [Learn Python The Hard Way](http://learnpythonthehardway.org/book/), people with a background in other languages should try [Google's python course](https://developers.google.com/edu/python/). The QB3 Berkeley [intensive python course](http://intro-prog-bioinfo-2014.wikispaces.com/) provides many biological examples.
 
@@ -125,10 +125,9 @@ Lecturers: James Fraser (9/22), Joe DeRisi (9/22), Danielle Swaney (9/23)
 Student Presentations: Yuliya (Transformation Lecture, 9/23)
 
 Recommended reading:
-
-- [(Fowler and Fields, 2014)](http://www.ncbi.nlm.nih.gov/pubmed/25075907)
-- [(Finley et al., 2012)](http://www.ncbi.nlm.nih.gov/pubmed/23028185)
-- [(Herhaus and Dikic, 2015)](http://www.ncbi.nlm.nih.gov/pubmed/26268526)
+- [Deep Mutational Scanning: A New Style of Protein Science. Fowler and Fields, 2014](/static/pdf/courses/pubs/2014_fowler.pdf)
+- [The Ubiquitin-Proteasome System of Saccharomyces Cerevisiae. Finley et al., 2012](/static/pdf/courses/pubs/2012_finley.pdf)
+- [Expanding the Ubiquitin Code Through Post-Translational Modification. Herhaus and Dikic, 2015](/static/pdf/courses/pubs/2015_herhaus.pdf)
 
 Files for Computation:
 
@@ -139,113 +138,93 @@ Files for Computation:
 Other Class Material:
 
 - [Information about the server](/courses/pubs/pubs_2015/server/)
-- [PDF of Lecture 1](https://drive.google.com/file/d/0Bx0d95RwVYufQkxnMmFfS3EzRDQ/view?usp=sharing)
-- [PDF of Lecture 2](https://drive.google.com/file/d/0Bx0d95RwVYufaEpLOVZTSFpuQTQ/view?usp=sharing)
-- [Fred Sherman's "Getting started with Yeast"](https://instruct.uwo.ca/biology/3596a/startedyeast.pdf)
+- [Introduction Lecture by James Fraser](/static/pdf/courses/pubs/2015_Fraser_Intro.pdf)
+- [PDF of Lecture 2](/static/pdf/courses/pubs/2015_Fraser_PhosphoUb.pdf)
+- [Fred Sherman's "Getting started with Yeast"](/static/pdf/courses/pubs/2002_sherman.pdf)
 - [Transformation Protocol](https://docs.google.com/document/d/1-6-rbLosBYkAZI4EOcmwP8C2wDNiLE4OWvXjNS0Yfko/edit?usp=sharing)
 
 Chemical menu:
-
 - [Tunicamycin](http://www.sigmaaldrich.com/MSDS/MSDS/DisplayMSDSPage.do?country=US&language=en&productNumber=93755&brand=FLUKA&PageToGoToURL=http%3A%2F%2Fwww.sigmaaldrich.com%2Fcatalog%2Fproduct%2Ffluka%2F93755%3Flang%3Den)
 - [Spermine](http://www.sigmaaldrich.com/MSDS/MSDS/PleaseWaitMSDSPage.do?language=&country=US&brand=SIGMA&productNumber=S3256&PageToGoToURL=http://www.sigmaaldrich.com/catalog/product/sigma/s3256?lang=en&region=US)
-- [rapamycin](http://www.sigmaaldrich.com/MSDS/MSDS/DisplayMSDSPage.do?country=US&language=en&productNumber=R0395&brand=SIGMA&PageToGoToURL=http%3A%2F%2Fwww.sigmaaldrich.com%2Fcatalog%2Fproduct%2Fsigma%2Fr0395%3Flang%3Den)
-- [hygromycin B](http://www.sigmaaldrich.com/MSDS/MSDS/PleaseWaitMSDSPage.do?language=&country=US&brand=SIGMA&productNumber=H3274&PageToGoToURL=http://www.sigmaaldrich.com/catalog/product/sigma/h3274?lang=en&region=US)
-- [Nickle Chloride](http://www.sigmaaldrich.com/MSDS/MSDS/PleaseWaitMSDSPage.do?language=&country=US&brand=ALDRICH&productNumber=339350&PageToGoToURL=http://www.sigmaaldrich.com/catalog/product/aldrich/339350?lang=en&region=US)
+- [Rapamycin](http://www.sigmaaldrich.com/MSDS/MSDS/DisplayMSDSPage.do?country=US&language=en&productNumber=R0395&brand=SIGMA&PageToGoToURL=http%3A%2F%2Fwww.sigmaaldrich.com%2Fcatalog%2Fproduct%2Fsigma%2Fr0395%3Flang%3Den)
+- [Hygromycin B](http://www.sigmaaldrich.com/MSDS/MSDS/PleaseWaitMSDSPage.do?language=&country=US&brand=SIGMA&productNumber=H3274&PageToGoToURL=http://www.sigmaaldrich.com/catalog/product/sigma/h3274?lang=en&region=US)
+- [Nickel(II) Chloride](http://www.sigmaaldrich.com/MSDS/MSDS/PleaseWaitMSDSPage.do?language=&country=US&brand=ALDRICH&productNumber=339350&PageToGoToURL=http://www.sigmaaldrich.com/catalog/product/aldrich/339350?lang=en&region=US)
 - [3-Amino-1,2,4-triazole](http://www.sigmaaldrich.com/MSDS/MSDS/PleaseWaitMSDSPage.do?language=&country=US&brand=SIGMA&productNumber=A8056&PageToGoToURL=http://www.sigmaaldrich.com/catalog/product/sigma/a8056?lang=en&region=US)
 - [Calcium dichloride](http://www.sigmaaldrich.com/MSDS/MSDS/DisplayMSDSPage.do?country=US&language=en&productNumber=C4901&brand=SIAL&PageToGoToURL=http%3A%2F%2Fwww.sigmaaldrich.com%2Fcatalog%2Fproduct%2Fsial%2Fc4901%3Flang%3Den)
 - [Cerulenin](http://www.sigmaaldrich.com/MSDS/MSDS/PleaseWaitMSDSPage.do?language=&country=US&brand=SIGMA&productNumber=C2389&PageToGoToURL=http://www.sigmaaldrich.com/catalog/product/sigma/c2389?lang=en&region=US)
 - [Cobalt acetate](http://www.sigmaaldrich.com/MSDS/MSDS/PleaseWaitMSDSPage.do?language=&country=US&brand=SIAL&productNumber=403024&PageToGoToURL=http://www.sigmaaldrich.com/catalog/product/sial/403024?lang=en&region=US)
-- [miconazole](http://www.sigmaaldrich.com/MSDS/MSDS/PleaseWaitMSDSPage.do?language=&country=US&brand=SIGMA&productNumber=M3512&PageToGoToURL=http://www.sigmaaldrich.com/catalog/product/sigma/m3512?lang=en&region=US)
+- [Miconazole](http://www.sigmaaldrich.com/MSDS/MSDS/PleaseWaitMSDSPage.do?language=&country=US&brand=SIGMA&productNumber=M3512&PageToGoToURL=http://www.sigmaaldrich.com/catalog/product/sigma/m3512?lang=en&region=US)
 - [p-Fluoro-DL-phenylalanine](http://www.sigmaaldrich.com/MSDS/MSDS/PleaseWaitMSDSPage.do?language=&country=US&brand=SIGMA&productNumber=F5251&PageToGoToURL=http://www.sigmaaldrich.com/catalog/product/sigma/f5251?lang=en&region=US)
-- [tamoxifen](http://www.sigmaaldrich.com/MSDS/MSDS/PleaseWaitMSDSPage.do?language=&country=US&brand=SIGMA&productNumber=T5648&PageToGoToURL=http://www.sigmaaldrich.com/catalog/product/sigma/t5648?lang=en&region=US)
-- [ketoconazole](http://www.sigmaaldrich.com/MSDS/MSDS/PleaseWaitMSDSPage.do?language=&country=US&brand=SIGMA&productNumber=UC280&PageToGoToURL=http://www.sigmaaldrich.com/catalog/product/sigma/uc280?lang=en&region=US)
-- [clotrinazole](http://www.sigmaaldrich.com/MSDS/MSDS/PleaseWaitMSDSPage.do?language=&country=US&brand=SIGMA&productNumber=C6019&PageToGoToURL=http://www.sigmaaldrich.com/catalog/product/sigma/c6019?lang=en&region=US)
-- [menadione](http://www.sigmaaldrich.com/MSDS/MSDS/PleaseWaitMSDSPage.do?language=&country=US&brand=ALDRICH&productNumber=M57405&PageToGoToURL=http://www.sigmaaldrich.com/catalog/product/aldrich/m57405?lang=en&region=US)
+- [Tamoxifen](http://www.sigmaaldrich.com/MSDS/MSDS/PleaseWaitMSDSPage.do?language=&country=US&brand=SIGMA&productNumber=T5648&PageToGoToURL=http://www.sigmaaldrich.com/catalog/product/sigma/t5648?lang=en&region=US)
+- [Ketoconazole](http://www.sigmaaldrich.com/MSDS/MSDS/PleaseWaitMSDSPage.do?language=&country=US&brand=SIGMA&productNumber=UC280&PageToGoToURL=http://www.sigmaaldrich.com/catalog/product/sigma/uc280?lang=en&region=US)
+- [Clotrinazole](http://www.sigmaaldrich.com/MSDS/MSDS/PleaseWaitMSDSPage.do?language=&country=US&brand=SIGMA&productNumber=C6019&PageToGoToURL=http://www.sigmaaldrich.com/catalog/product/sigma/c6019?lang=en&region=US)
+- [Menadione](http://www.sigmaaldrich.com/MSDS/MSDS/PleaseWaitMSDSPage.do?language=&country=US&brand=ALDRICH&productNumber=M57405&PageToGoToURL=http://www.sigmaaldrich.com/catalog/product/aldrich/m57405?lang=en&region=US)
 - [Calcofluor white](http://www.pro-lab.com/msds/stains_pl392_calcofluor_white_reagent%20_msds_eu.pdf)
 - [CuCl2](http://www.sigmaaldrich.com/MSDS/MSDS/PleaseWaitMSDSPage.do?language=&country=US&brand=ALDRICH&productNumber=451665&PageToGoToURL=http://www.sigmaaldrich.com/catalog/product/aldrich/451665?lang=en&region=US)
 - [5-fluorocytosine](http://www.sigmaaldrich.com/MSDS/MSDS/PleaseWaitMSDSPage.do?language=&country=US&brand=SIGMA&productNumber=F7129&PageToGoToURL=http://www.sigmaaldrich.com/catalog/product/sigma/f7129?lang=en&region=US)
-- [acivicin](http://www.sigmaaldrich.com/catalog/product/sigma/sml0312?lang=en&region=US)
-- [amphotericin B](http://www.sigmaaldrich.com/MSDS/MSDS/PleaseWaitMSDSPage.do?language=&country=US&brand=SIGMA&productNumber=A9528&PageToGoToURL=http://www.sigmaaldrich.com/catalog/product/sigma/a9528?lang=en&region=US)
+- [Acivicin](http://www.sigmaaldrich.com/catalog/product/sigma/sml0312?lang=en&region=US)
+- [Amphotericin B](http://www.sigmaaldrich.com/MSDS/MSDS/PleaseWaitMSDSPage.do?language=&country=US&brand=SIGMA&productNumber=A9528&PageToGoToURL=http://www.sigmaaldrich.com/catalog/product/sigma/a9528?lang=en&region=US)
 
 
 **Week 2 – Theme: Mass Spectrometry**
 
 _Lab work: Biochemical enrichment of phosphopeptides_
-
 Lecturers: Hiten Madhani (9/29)
 
-Student Presentations: Sergei (Lab work outline, 9/28), Ryan  (Journal Club on [Wauer et al, 2015](http://www.ncbi.nlm.nih.gov/pubmed/25527291), 9/28), Fatmia (Lab work outline, 9/29), Alex (Lab work outline, 9/30), Nathan (Journal Club on [Peng et al, 2003](http://www.ncbi.nlm.nih.gov/pubmed/12872131), 9/30)
+Student Presentations: Sergei (Lab work outline, 9/28), Ryan  (Journal Club on [Ubiquitin Ser65 Phosphorylation Affects Ubiquitin Structure, Chain Assembly and Hydrolysis. Wauer et al, 2015](/static/pdf/courses/pubs/2015_wauer.pdf), 9/28), Fatmia (Lab work outline, 9/29), Alex (Lab work outline, 9/30), Nathan (Journal Club on [A Proteomics Approach to Understanding Protein Ubiquitination. Peng et al., 2003](/static/pdf/courses/pubs/2003_peng.pdf), 9/30)
 
 Other Class Material:
-
-- [Lysis-Tryptic Digest protocol (9/28), Stop digest-lyophylize protocol (9/29), IMAC-lyophylize protocl (9/30)](https://docs.google.com/document/d/1nmJMwx4d_977X4B_ne_sYiEVDjww12Xr73znOkMZv1Y/edit?usp=sharing)
+- [Lysis-Tryptic Digest protocol (9/28), Stop digest-lyophylize protocol (9/29), IMAC-lyophylize protocl (9/30](https://docs.google.com/document/d/1nmJMwx4d_977X4B_ne_sYiEVDjww12Xr73znOkMZv1Y/edit?usp=sharing)
 
 **Week 3 – Theme: Chemical Petrubations**
-
-
 _Lab work: Growth rate measurements_
-
-
 Lecturers:  David Mavor (10/5), David Morgan (10/6), Martin Kampmann (10/7)
 
-Student Presentations: Emily (Drug Concentration protocol, 10/5), 1 representative per team: Rachel, Pooja, Tamas, Nick, Derek, Charlotte (Growth Rate analysis, 10/7), Daniel (Journal Club on [Hillenmeyer et al, 2009](http://www.ncbi.nlm.nih.gov/pubmed/18420932), 10/7)
+Student Presentations: Emily (Drug Concentration protocol, 10/5), 1 representative per team: Rachel, Pooja, Tamas, Nick, Derek, Charlotte (Growth Rate analysis, 10/7), Daniel (Journal Club on [The Chemical Genomic Portrait of Yeast: Uncovering a Phenotype for All Genes. Hillenmeyer et al, 2009](/static/pdf/courses/pubs/2009_hillenmeyer.pdf), 10/7)
 
 Other Class Material:
-
 - [Drug Concentration Protocol](https://docs.google.com/document/d/12Az3DGJlL4jZ2Rx5Y-xOM5y-EFrUIxhF5lf0DuWwiFE/edit?usp=sharing)
 - [David Morgan's Lecture](https://drive.google.com/file/d/0Bx0d95RwVYufcEkxSV9TcExPTmc/view?usp=sharing)
 
-**Week 4 – Theme:  Mass Spec Bioinformatics **
-
+**Week 4 – Theme:  Mass Spec Bioinformatics**
 _Lab work: Analyze mass spec data_
 
 Recommended reading:
-
-- [MaxQuant software - Cox and Mann, 2008](http://www.ncbi.nlm.nih.gov/pubmed/19029910)
-- [Lundby et al, 2012](http://www.ncbi.nlm.nih.gov/pubmed/22673903)
+- [MaxQuant software. Cox and Mann, 2008](/static/pdf/courses/pubs/2008_cox.pdf)
+- [Quantitative Maps of Protein Phosphorylation Sites Across 14 Different Rat Organs and Tissues. Lundby et al, 2012](/static/pdf/courses/pubs/2012_lundby.pdf)
 
 Lecturers: Danielle Swaney (10/12), Jason Gestwicki (10/13), Eric Chow (10/14)
 
 Student Presentations: Paul (Mass spec pipeline, 10/12 at end of class)
 
 Other Class Material:
-
 - [Sample Evidence File](https://drive.google.com/file/d/0Bx0d95RwVYufb2VNM2E0Vk1pbHM/view?usp=sharing)
 - [Sample Table Guide](https://drive.google.com/file/d/0Bx0d95RwVYufcjFZTnZTQTN1X0U/view?usp=sharing)
 - [Sample Protein Groups](https://drive.google.com/file/d/0Bx0d95RwVYufbDhOM1RzSWkyTjQ/view?usp=sharing)
 - [Sample Phosphosites](https://drive.google.com/file/d/0Bx0d95RwVYufSjF4Z01uZnNIMWc/view?usp=sharing)
-- [Danielle's Lecture 10/12/15](https://drive.google.com/file/d/0B89bAF4_3DdILTR3WVNjZkd6NW8/view?usp=sharing)
-- [Jason's Lecture plus notes (Thanks Sergei!)](https://drive.google.com/folderview?id=0B89bAF4_3DdIbzd1V1JxWkxKTGs&usp=sharing)
+- [Lecture by Danielle Swaney](/static/pdf/courses/pubs/2015_Swaney_MS_DataAnalysis.pdf)
+- [Notes on Lecture by Jason Gestwicki (Thanks Sergei!](https://drive.google.com/folderview?id=0B89bAF4_3DdIbzd1V1JxWkxKTGs&usp=sharing)
 
 The real data:
-
 - [PUBS 2015 MS files.zip](https://drive.google.com/file/d/0Bx0d95RwVYufVThRY1NfQzN5MVE/view?usp=sharing)
 
 **Week 5 – Theme: Growth Competitions**
-
 _Lab work: Harvest library of all Ubiquitin mutants_
-
 Lecturers:
-
-Student Presentations: All students (Mass spec presentation, 10/19), Nadja (Library collection growth protocol, 10/19), Douglas (Journal Club on [Roscoe et al., 2013](http://www.ncbi.nlm.nih.gov/pubmed/23376099), 10/20), Cole (Journal Club on [Roscoe et al, 2014](http://www.ncbi.nlm.nih.gov/pubmed/24862281), 10/21)
+Student Presentations: All students (Mass spec presentation, 10/19), Nadja (Library collection growth protocol, 10/19), Douglas (Journal Club on [Analyses of the Effects of All Ubiquitin Point Mutants on Yeast Growth Rate. Roscoe et al., 2013](/static/pdf/courses/pubs/2013_roscoe.pdf), 10/20), Cole (Journal Club on [Systematic Exploration of Ubiquitin Sequence, E1 Activation Efficiency, and Experimental Fitness in Yeast. Roscoe et al, 2014](/static/pdf/courses/pubs/2014_roscoe.pdf), 10/21)
 
 Other Class Material:
-
 - [Protocol for library growth](https://docs.google.com/document/d/1OIC1oyDUla72RJlt5a6kquhzMdSC1IuGUyPyztDxddc/edit?usp=sharing)
 - [Illustrated Protocol](https://drive.google.com/file/d/0Bx0d95RwVYufNk5palhZYmg0WHM/view?usp=sharing)
 
 **Week 6 – Theme: Preparation for sequencing**
-
 ### NSF GRFP due this week!
-
 _Lab work: Molecular biology to isolate library_
-
 Lecturers: Nadav Ahituv (10/27)
 
 Student Presentations: Rachel (Yeast Miniprep protocol, 10/26), Tamas (Barcode explanation and assigment to teams, 10/27), Pooja (PCR 1, gel extraction, and PCR 2, 10/27), David (PCR cleanup and QBIT, 10/28)
 
 Other Class Material:
-
 - [Yeast Miniprep protocol](https://docs.google.com/document/d/1zk_h_pS1Ikb1VfqSSx_ePHROVGu3dl55mJ_NSeYw3ss/edit?usp=sharing)
 - [Illustrated Yeast Miniprep protocol](https://drive.google.com/file/d/0Bx0d95RwVYufLURGVWdpQnNYeUE/view?usp=sharing)
 - [Team and Time Specific Barcodes](https://docs.google.com/spreadsheets/d/1HyPya8RkLuFGjEq6HjMipmN_kXvoqX34Pae38CJtcLo/edit?usp=sharing)
@@ -257,16 +236,13 @@ Other Class Material:
 - Final Library Hand-off Instructions
 
 **Week 7 – Theme: Sequencing Data**
-
 _Lab work: Begin sequencing pipeline_
-
 Lecturers: Eric Chow (11/2), Joe DeRisi (11/2), Ina Chen+TAs (11/2), Ryan Hernandez (11/3), Bo Huang (11/4)
 
-Student Presentations: Charlotte (Journal Club on [McLaughlin et al, 2012](http://www.ncbi.nlm.nih.gov/pubmed?cmd=search&term=23041932), 11/3)
+Student Presentations: Charlotte (Journal Club on [The Spatial Architecture of Protein Function and Adaptation. McLaughlin Jr et al., 2012](/static/pdf/courses/pubs/2012_mclaughlin.pdf), 11/3)
 
 Other Class Material:
-
-- [Ryan Hernandez's Lecture](https://www.dropbox.com/s/2l6x7mliya56lv1/Hernandez_PUBS.pdf?dl=0)
+- [Lecture by Ryan Hernandez](/static/pdf/courses/pubs/2015_Hernandez_Evolution.pdf)
 - [Ina's Unix101](https://drive.google.com/file/d/0B89bAF4_3DdIUzlUMHhmU1pQRkk/view?usp=sharing)
 - [Command line Refresher](https://external-production.codecademy.com/en/courses/learn-the-command-line/lessons/navigation/exercises/your-first-command?action=resume)
 - [Computation Refresher](https://docs.google.com/presentation/d/1GMJg5oZIrMgenp6726jASmwLrbFJkYwlJRf7B8nM9g8/edit?usp=sharing)
@@ -280,15 +256,12 @@ Other Class Material:
 
 
 **Week 8 – Theme: Team Shuffles**
-
 _Lab work: Unify sequencing pipeline_
-
 Lecturers: Kyle Barlow and Justin Biel (11/10)
 
-Student Presentations: Team 1 minute update: What does the signal look like, what is failing, what do you think you guys have done that is different/innovative/working better than anything? (Sergei, Nat, Fatima, Yuliya, Ryan, Alex) (11/9), Derek (Journal Club on [Pollack et al, 2012](http://www.ncbi.nlm.nih.gov/pubmed/?term=22547823), moved from 11/4 to 11/9) Nick (Journal Club on [Lange et al, 2008](http://www.ncbi.nlm.nih.gov/pubmed/18556554), 11/10)
+Student Presentations: Team 1 minute update: What does the signal look like, what is failing, what do you think you guys have done that is different/innovative/working better than anything? (Sergei, Nat, Fatima, Yuliya, Ryan, Alex) (11/9), Derek (Journal Club on [Amino Acid Coevolution Induces an Evolutionary Stokes Shift. Pollock et al., 2012](/static/pdf/courses/pubs/2012_pollock.pdf), moved from 11/4 to 11/9) Nick (Journal Club on [Lange et al, 2008](/static/pdf/courses/pubs/2008_lange.pdf), 11/10)
 
 Sub-groups:
-
 - Biological inference (Bruk)
 - Data squeezing and scoring (Leanna)
 - Reproducibility and statistics (Ina)
@@ -297,24 +270,20 @@ Sub-groups:
 - Comparing data sets (Evan)
 
 Other Class Material:
-
 - [Hamming Distance](http://en.wikipedia.org/wiki/Hamming_distance)
-- [Kyle's Lecture (ddG)](https://drive.google.com/file/d/0B89bAF4_3DdIX0FibDVhazREeDBJeHNYeHBHVDI1U3NDdVdJ/view?usp=sharing)
+- [Lecture by Kyle Barlow](/static/pdf/courses/pubs/2015_Barlow_ProteinStability.pdf)
 - [Justin's Pymol Demo](https://drive.google.com/folderview?id=0B89bAF4_3DdId0FjdG1yb1pRbWc&usp=sharing)
 
 - Reminder: no class on Nov 11
 
 
 **Week 9 – Theme: Biophysical Calcuations**
-
 _Lab work: Rosetta predictions of protein stability_
-
 Lecturers: Tanja Kortemme (11/16)
 
-Student Presentations: Daniel, Emily, Paul and other representatives from Sub-groups (10/16), Ruilin (Journal Club on [Ye et al, 2012](http://www.ncbi.nlm.nih.gov/pubmed/?term=23201676), 10/17), Peter (Journal Club on [Humphris et al, 2007](http://www.ncbi.nlm.nih.gov/pubmed/?term=17722975), 10/18)
+Student Presentations: Daniel, Emily, Paul and other representatives from Sub-groups (10/16), Ruilin (Journal Club on [Ye et al, 2012](/static/pdf/courses/pubs/2012_ye.pdf), 10/17), Peter (Journal Club on [Humphris et al, 2007](/static/pdf/courses/pubs/2007_humphris.pdf), 10/18)
 
 Other Class Material:
-
 - APUBSCRAWL: K6 linked poly-Ub - 2XK5
 - ONION: K48 linked poly-Ub - 1AAR
 - ET0H: K63 linked poly-Ub - 3H7P
@@ -328,11 +297,10 @@ Other Class Material:
 #15 slide maximum, 15 minutes per team (plus questions)
 
 Schedule:
-
-- 1:10-1:30 - SHMOO: Nadja, Ryan, Daniel, Derek (TA: Leanna)
-- 1:30-1:50 - WHANGEE: Cole, Alex, Emily, Charlotte (TA: Evan)
-- 1:50-2:10 - APUBSCRAWL: Sergei, Rachel, David (TA: Bruk)
-- 2:10-2:30 - ONION: Peter, Pooja, Nathan (TA: Ina)
-- 2:30-2:50 - PYND: Douglas, Yuliya, Paul, Nicholas (TA: Erin)
-- 2:50-3:10 - ET0H: Ruilin, Tamas, Fatima (TA: Lillian)
-- 3:10-... PUBS party
+- 1:10-1:30 PM - SHMOO: Nadja, Ryan, Daniel, Derek (TA: Leanna)
+- 1:30-1:50 PM - WHANGEE: Cole, Alex, Emily, Charlotte (TA: Evan)
+- 1:50-2:10 PM - APUBSCRAWL: Sergei, Rachel, David (TA: Bruk)
+- 2:10-2:30 PM - ONION: Peter, Pooja, Nathan (TA: Ina)
+- 2:30-2:50 PM - PYND: Douglas, Yuliya, Paul, Nicholas (TA: Erin)
+- 2:50-3:10 PM - ET0H: Ruilin, Tamas, Fatima (TA: Lillian)
+- 3:10-... PM - PUBS party

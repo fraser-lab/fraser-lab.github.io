@@ -38,34 +38,34 @@ Structure-based drug design promises to revolutionize drug discovery, yet despit
 ## Schedule ##
 
 **Monday Jan 6 - 2:30-4PM**
-- James Fraser: [Intro to class and contrasting kinase and phosphatase drug discovery](https://www.dropbox.com/s/ly8ivvlml139k8k/inquiry_lecture1.key?dl=0)
-  - [Structural Mechanism for STI-571 Inhibition of Abelson Tyrosine Kinase](https://science.sciencemag.org/content/289/5486/1938.long)
-  - [Allosteric inhibition of SHP2 phosphatase inhibits cancers driven by receptor tyrosine kinases.](https://doi.org/10.1038/nature18621)
+- James Fraser: [Intro to class and contrasting kinase and phosphatase drug discovery](/static/pdf/courses/inquiry_2020/2020_Fraser_Intro.pdf)
+  - [Structural Mechanism for STI-571 Inhibition of Abelson Tyrosine Kinase](/static/pdf/courses/inquiry_2020/2000_schindler.pdf)
+  - [Allosteric inhibition of SHP2 phosphatase inhibits cancers driven by receptor tyrosine kinases.](/static/pdf/courses/inquiry_2020/2016_chen.pdf)
 - install [ChimeraX](https://www.rbvi.ucsf.edu/chimerax/download.html)
 
 **Tuesday Jan 7 - 2:30-4PM**
-- James Fraser: [Fragment-based design and Crystallography 101](https://www.dropbox.com/s/l3bepe4zepmxkgy/inquiry_lecture2.key?dl=0)
-  - [Discovery of a selective inhibitor of oncogenic B-Raf kinase with potent antimelanoma activity.](https://www.pnas.org/content/105/8/3041.long)
-  - [Discovery of a potent and selective Bcl-2 inhibitor using SAR by NMR](https://www.sciencedirect.com/science/article/pii/S0960894X10013247?via%3Dihub)
-  - [An expanded allosteric network in PTP1B by multitemperature crystallography, fragment screening, and covalent tethering](https://elifesciences.org/articles/36307)
+- James Fraser: [Fragment-based design and Crystallography 101](/static/pdf/courses/inquiry_2020/2020_Fraser_Fragments.pdf)
+  - [Discovery of a selective inhibitor of oncogenic B-Raf kinase with potent antimelanoma activity.](/static/pdf/courses/inquiry_2020/2008_tsai.pdf)
+  - [Discovery of a potent and selective Bcl-2 inhibitor using SAR by NMR](/static/pdf/courses/inquiry_2020/2010_petros.pdf)
+  - [An expanded allosteric network in PTP1B by multitemperature crystallography, fragment screening, and covalent tethering](/static/pdf/publications/2018_keedy_hill.pdf)
 - Liam McKay: Tour of Crystallography facility
   - Crystalizing Lysozyme
 
 **Wednesday Jan 8 - 2:30-4PM**
 - Tom Goddard: [ChimeraX demo](https://www.rbvi.ucsf.edu/chimerax/data/delta-opioid-jan2020/binding.html)
-  - [Elucidating the active delta-opioid receptor crystal structure with peptide and small-molecule agonists.](https://advances.sciencemag.org/content/5/11/eaax9115) Claff T, Yu J, Blais V, Patel N, Martin C, Wu L, Han GW, Holleran BJ, Van der Poorten O, White KL, Hanson MA, Sarret P, Gendron L, Cherezov V, Katritch V, Ballet S, Liu ZJ, Muller CE, Stevens RC. Sci Adv. 2019 Nov 27;5(11):eaax9115. doi: 10.1126/sciadv.aax9115.
+  - [Elucidating the active delta-opioid receptor crystal structure with peptide and small-molecule agonists.](/static/pdf/courses/inquiry_2020/2019_claff.pdf)
   - VR experience in Genentech Hall N453
 
 **Thursday Jan 9 - 2:30-4PM**
-- [John Irwin: Docking what works and what doesn't](/static/pdf/inquiry_2020/Irwin_Docking_2020.pdf)
+- [John Irwin: Docking what works and what doesn't](/static/pdf/courses/inquiry_2020/2020_Irwin_Docking.pdf)
   - What docking is, how it works, and why it is hard; a review of some notable success stories "what docking can do for you" and failures; a detailed look at 2 or 3 stories, focusing on how to run a docking campaign, and what to expect from the outcome, with results.
   - resources DOCK Blaster, ZINC, DUDE, and how to use them.
 
 **Tuesday Jan 14 - 2:30-4PM**
-- [Tanja Kortemme: Rosetta and Biologics](/static/pdf/inquiry_2020/Kortemme_Rosetta_2020.pdf)
-  - [De novo design of potent and selective mimics of IL-2 and IL-15](https://www.nature.com/articles/s41586-018-0830-7)
-  - [Proof of principle for epitope-focused vaccine design](https://www.nature.com/articles/nature12966)
-  - [Computational design of a modular protein sense-response system](https://science.sciencemag.org/content/366/6468/1024)
+- [Tanja Kortemme: Rosetta and Biologics](/static/pdf/courses/inquiry_2020/2020_Kortemme_Rosetta.pdf)
+  - [De novo design of potent and selective mimics of IL-2 and IL-15](/static/pdf/courses/inquiry_2020/2019_silva.pdf)
+  - [Proof of principle for epitope-focused vaccine design](/static/pdf/courses/inquiry_2020/2014_correia)
+  - [Computational design of a modular protein sense-response system](/static/pdf/publications/2019_glasgow_huang_mandell)
 
 **Wednesday Jan 15 - 2:30-4PM**
 - David Bulkley: CryoEM facility tour

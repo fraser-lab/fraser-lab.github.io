@@ -24,81 +24,81 @@ Each students will serve as Discussion Leaders (pre-assigned below) for one pape
 
 **Introductory Lectures:**
 - April 2nd [Danica Fujimori](http://fujimorilab.ucsf.edu/)
-  - [RNA methylation by Radical SAM enzymes RlmN and Cfr proceeds via methylene transfer and hydride shift](https://www.pnas.org/content/pnas/108/10/3930.full.pdf?with-ds=yes)
-  - [RlmN and Cfr are Radical SAM Enzymes Involved in Methylation of Ribosomal RNA](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2859901/)
-  - [Covalent Intermediate in the Catalytic Mechanism of the Radical S-Adenosyl-l-methionine Methyl Synthase RlmN Trapped by Mutagenesis](https://pubs.acs.org/doi/abs/10.1021/ja307855d?journalCode=jacsat)
-  - [miCLIP-MaPseq, a Substrate Identification Approach for Radical SAM RNA Methylating Enzymes](https://pubs.acs.org/doi/10.1021/jacs.8b02618)
+  - [RNA methylation by Radical SAM enzymes RlmN and Cfr proceeds via methylene transfer and hydride shift](/static/pdf/courses/amr_2019/2011_yan.pdf)
+  - [RlmN and Cfr are Radical SAM Enzymes Involved in Methylation of Ribosomal RNA](/static/pdf/courses/amr_2019/2010_yan.pdf)
+  - [Covalent Intermediate in the Catalytic Mechanism of the Radical S-Adenosyl-l-methionine Methyl Synthase RlmN Trapped by Mutagenesis](/static/pdf/courses/amr_2019/2012_mccusker)
+  - [miCLIP-MaPseq, a Substrate Identification Approach for Radical SAM RNA Methylating Enzymes](/static/pdf/courses/amr_2019/2018_stojkovic.pdf)
 - April 3rd [Ian Seiple](http://seiplegroup.ucsf.edu/)
-  - [A platform for the discovery of new macrolide antibiotics.](https://www.ncbi.nlm.nih.gov/pubmed/27193679)
-  - [The evolving role of chemical synthesis in antibacterial drug discovery.](https://www.ncbi.nlm.nih.gov/pubmed/24990531)
+  - [A platform for the discovery of new macrolide antibiotics.](/static/pdf/courses/amr_2019/2016_seiple.pdf)
+  - [The evolving role of chemical synthesis in antibacterial drug discovery.](/static/pdf/courses/amr_2019/2014_wright.pdf)
 
 **Good Introductory Resources:**
 
-- [SnapShot: Antibiotic Resistance](https://www.cell.com/cell/pdf/S0092-8674(18)30162-4.pdf)
+- [SnapShot: Antibiotic Resistance](/static/pdf/courses/amr_2019/2018_yelin_kishony.pdf)
 - [Lecture by Gerald Wright](https://www.youtube.com/watch?v=f_TL53iL7BA)
-- [Molecular mechanisms of antibiotic resistance](https://www.nature.com/articles/nrmicro3380)
-- [Assessing evolutionary risks of resistance for new antimicrobial therapies](https://www.nature.com/articles/s41559-019-0854-x)
+- [Molecular mechanisms of antibiotic resistance](/static/pdf/courses/amr_2019/2015_blair_webber.pdf)
+- [Assessing evolutionary risks of resistance for new antimicrobial therapies](/static/pdf/courses/amr_2019/2019_brockhurst.pdf)
  - [A Mysterious Infection, Spanning the Globe in a Climate of Secrecy](https://www.nytimes.com/2019/04/06/health/drug-resistant-candida-auris.html)
 
 **Industry retrospectives on antibiotic development**
 
-- GSK [Drugs for bad bugs: confronting the challenges of antibacterial discovery](https://www.nature.com/articles/nrd2201)
-- AZ [ESKAPEing the labyrinth of antibacterial discovery](https://www.nature.com/articles/nrd4572)
+- GSK [Drugs for bad bugs: confronting the challenges of antibacterial discovery](/static/pdf/courses/amr_2019/2007_payne.pdf)
+- AZ [ESKAPEing the labyrinth of antibacterial discovery](/static/pdf/courses/amr_2019/2015_tommasi.pdf)
 
 # April 8
 
 - Leader: Haley Gause
-- Assigned Paper: [Antibiotic collateral sensitivity is contingent on the repeatability of evolution ](https://www.nature.com/articles/s41467-018-08098-6)
-- Additional/Alternate reading:: [Darwinian Evolution Can Follow Only Very Few Mutational Paths to Fitter Proteins](http://science.sciencemag.org/content/312/5770/111)
+- Assigned Paper: [Antibiotic collateral sensitivity is contingent on the repeatability of evolution ](/static/pdf/courses/amr_2019/2019_nichol.pdf)
+- Additional/Alternate reading:: [Darwinian Evolution Can Follow Only Very Few Mutational Paths to Fitter Proteins](/static/pdf/courses/amr_2019/2006_weinreich.pdf)
 
 - Leader: Joel Finbloom
-- Assigned Paper: [Spatiotemporal microbial evolution on antibiotic landscapes](http://science.sciencemag.org/content/353/6304/1147)
-- Additional/Alternate reading:: [Genetic variation of a bacterial pathogen within individuals with cystic fibrosis provides a record of selective pressures.](https://www.ncbi.nlm.nih.gov/pubmed/24316980)
+- Assigned Paper: [Spatiotemporal microbial evolution on antibiotic landscapes](/static/pdf/courses/amr_2019/2016_baym.pdf)
+- Additional/Alternate reading:: [Genetic variation of a bacterial pathogen within individuals with cystic fibrosis provides a record of selective pressures.](/static/pdf/courses/amr_2019/2014_lieberman.pdf)
 
 # April 9
 
 - Leader: Bryan Faust
-- Assigned Paper: [Heterogeneity in efflux pump expression predisposes antibiotic-resistant cells to mutation](http://science.sciencemag.org/content/362/6415/686)
-- Additional/Alternate reading::[Antibiotic That Inhibits the ATPase Activity of an ATP-Binding Cassette Transporter by Binding to a Remote Extracellular Site.](https://www.ncbi.nlm.nih.gov/pubmed/28727445?dopt=Abstract)
+- Assigned Paper: [Heterogeneity in efflux pump expression predisposes antibiotic-resistant cells to mutation](/static/pdf/courses/amr_2019/2018_el_menouche.pdf)
+- Additional/Alternate reading::[Antibiotic That Inhibits the ATPase Activity of an ATP-Binding Cassette Transporter by Binding to a Remote Extracellular Site.](/static/pdf/courses/amr_2019/2017_matano.pdf)
 
 - Leader: Natasha Puri
-- Assigned Paper: [Bactericidal Antibiotics Induce Toxic Metabolic Perturbations that Lead to Cellular Damage.](https://www.cell.com/cell-reports/fulltext/S2211-1247(15)01101-8)
-- Additional/Alternate reading: [Oxidation of dCTP contributes to antibiotic lethality in stationary-phase mycobacteria](https://www.pnas.org/content/115/9/2210)
+- Assigned Paper: [Bactericidal Antibiotics Induce Toxic Metabolic Perturbations that Lead to Cellular Damage.](/static/pdf/courses/amr_2019/2015_belenky.pdf)
+- Additional/Alternate reading: [Oxidation of dCTP contributes to antibiotic lethality in stationary-phase mycobacteria](/static/pdf/courses/amr_2019/2018_fan.pdf)
 
 # April 10 - start at 3PM
 
 - Leader: Matt Nalley
-- Assigned Paper: [High mutation rates limit evolutionary adaptation in Escherichia coli](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007324)
-- Additional/Alternate reading: [Identifying and exploiting genes that potentiate the evolution of antibiotic resistance](https://www.nature.com/articles/s41559-018-0547-x)
+- Assigned Paper: [High mutation rates limit evolutionary adaptation in Escherichia coli](/static/pdf/courses/amr_2019/2018_sprouffske.pdf)
+- Additional/Alternate reading: [Identifying and exploiting genes that potentiate the evolution of antibiotic resistance](/static/pdf/courses/amr_2019/2018_gifford.pdf)
 
 # April 15
 
 - Leader: Hayarpi Torosyan
-- Assigned Paper: [Inhibiting the Evolution of Antibiotic Resistance](<https://www.cell.com/molecular-cell/fulltext/S1097-2765(18)30847-5>)
-- Additional/Alternate reading:: [Transposase-DNA Complex Structures Reveal Mechanisms for Conjugative Transposition of Antibiotic Resistance](<https://www.cell.com/cell/fulltext/S0092-8674(18)30176-4>), [This Week in Evolution](http://www.microbe.tv/twievo/twievo-38/)
+- Assigned Paper: [Inhibiting the Evolution of Antibiotic Resistance](/static/pdf/courses/amr_2019/2019_ragheb.pdf)
+- Additional/Alternate reading: [Transposase-DNA Complex Structures Reveal Mechanisms for Conjugative Transposition of Antibiotic Resistance](/static/pdf/courses/amr_2019/2018_rubio_cosials.pdf), [This Week in Evolution](http://www.microbe.tv/twievo/twievo-38/)
 
 - Leader: Arthur Tran
-- Assigned Paper: [Optimized arylomycins are a new class of Gram-negative antibiotics](https://www.nature.com/articles/s41586-018-0483-6)
-- Additional/Alternate reading: [A new class of synthetic retinoid antibiotics effective against bacterial persisters](https://www.nature.com/articles/nature26157)
+- Assigned Paper: [Optimized arylomycins are a new class of Gram-negative antibiotics](/static/pdf/courses/amr_2019/2018_smith.pdf)
+- Additional/Alternate reading: [A new class of synthetic retinoid antibiotics effective against bacterial persisters](/static/pdf/courses/amr_2019/2018_kim.pdf)
 
 # April 16
 
 - Leader: Miriam Goldmon
-- Assigned Paper: [Prediction of ultra-high-order antibiotic combinations based on pairwise interactions](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006774)
-- Additional/Alternate reading: [Review on combos](https://www.nature.com/articles/s41579-018-0141-x), [Alternating antibiotic treatments constrain evolutionary paths to multidrug resistance.](https://www.ncbi.nlm.nih.gov/pubmed/25246554), [Accelerated evolution of resistance in multidrug environments.](https://www.ncbi.nlm.nih.gov/pubmed/18779569)
+- Assigned Paper: [Prediction of ultra-high-order antibiotic combinations based on pairwise interactions](/static/pdf/courses/amr_2019/2019_katzir.pdf)
+- Additional/Alternate reading: [Drug combinations: a strategy to extend the life of antibiotics in the 21st century](/static/pdf/courses/amr_2019/2019_tyers.pdf), [Alternating antibiotic treatments constrain evolutionary paths to multidrug resistance.](/static/pdf/courses/amr_2019/2014_kim.pdf), [Accelerated evolution of resistance in multidrug environments.](/static/pdf/courses/amr_2019/2008_hegreness.pdf)
 
 - Leader: Katarina Pance
-- Assigned Paper: [Thermal proteome profiling in bacteria: probing protein state in vivo](http://msb.embopress.org/content/14/7/e8242)
-- Additional/Alternate reading: [Thermal proteome profiling: unbiased assessment of protein state through heat-induced stability changes.](https://www.ncbi.nlm.nih.gov/pubmed/28652855) [Species-specific activity of antibacterial drug combinations.](https://www.ncbi.nlm.nih.gov/pubmed/29973719)
+- Assigned Paper: [Thermal proteome profiling in bacteria: probing protein state in vivo](/static/pdf/courses/amr_2019/2018_mateus.pdf)
+- Additional/Alternate reading: [Thermal proteome profiling: unbiased assessment of protein state through heat-induced stability changes.](/static/pdf/courses/amr_2019/2017_mateus.pdf) [Species-specific activity of antibacterial drug combinations.](/static/pdf/courses/amr_2019/2018_brochado.pdf)
 
 # April 17 - start at 3PM
 
 - Leader: Evelyn Hernandez
-- Assigned Paper: [Resource misallocation as a mediator of fitness costs in antibiotic resistance.](https://www.biorxiv.org/content/biorxiv/early/2018/10/30/456434.full.pdf)
-- Additional/Alternate reading: [Antibiotic resistance and host immune evasion in Staphylococcus aureus mediated by a metabolic adaptation](https://www.pnas.org/content/116/9/3722)
+- Assigned Paper: [Resource misallocation as a mediator of fitness costs in antibiotic resistance.](/static/pdf/courses/amr_2019/2018_trauner.pdf)
+- Additional/Alternate reading: [Antibiotic resistance and host immune evasion in Staphylococcus aureus mediated by a metabolic adaptation](/static/pdf/courses/amr_2019/2019_jh_jiang.pdf)
 
 # if you don't like your paper, maybe one of these would be more fun?
-- [Invertible promoters mediate bacterial phase variation, antibiotic resistance, and host adaptation in the gut](http://science.sciencemag.org/content/363/6423/181.full)
-- [Development and Use of Personalized Bacteriophage-Based Therapeutic Cocktails To Treat a Patient with a Disseminated Resistant Acinetobacter baumannii Infection.](https://www.ncbi.nlm.nih.gov/pubmed/28807909)
-- [Gamblers: An Antibiotic-Induced Evolvable Cell Subpopulation Differentiated by Reactive-Oxygen-Induced General Stress Response](https://www.sciencedirect.com/science/article/pii/S1097276519301480)
-- [The evolution of substrate discrimination in macrolide antibiotic resistance enzymes.](https://www.ncbi.nlm.nih.gov/pubmed/29317655)
+- [Invertible promoters mediate bacterial phase variation, antibiotic resistance, and host adaptation in the gut](/static/pdf/courses/amr_2019/2019_x_jiang.pdf)
+- [Development and Use of Personalized Bacteriophage-Based Therapeutic Cocktails To Treat a Patient with a Disseminated Resistant Acinetobacter baumannii Infection.](/static/pdf/courses/amr_2019/2017_schooley.pdf)
+- [Gamblers: An Antibiotic-Induced Evolvable Cell Subpopulation Differentiated by Reactive-Oxygen-Induced General Stress Response](/static/pdf/courses/amr_2019/2019_pribis.pdf)
+- [The evolution of substrate discrimination in macrolide antibiotic resistance enzymes.](/static/pdf/courses/amr_2019/2018_pawlowski.pdf)
