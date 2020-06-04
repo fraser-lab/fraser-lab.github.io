@@ -97,11 +97,14 @@ group: publications
         			</li>
         			{% endif %}
 
-        			<!--Extra junk-->
-        			<strong>Additional Links</strong>
-        			{% for link in publication.links %}
-        			<li><a href="{{link.url}}" alt="{{link.name}}">{{link.name}}</a></li>
-        			{% endfor %}
+
+        			<!--additional links - optional-->
+                                {% if publication.links %}
+                                <strong>Additional Links</strong>{% if publication.links.size > 1 %}s{% endif %}:
+                                        {% for link in publication.links %}
+                                        <li><a href="{{link.url}}" alt="{{link.name}}">{{link.name}}</a></li>
+                                        {% endfor %}
+                                {% endif %}
         	</ul>
         </div>
         <br>
