@@ -32,6 +32,18 @@ Regardless of how any individual paper is reviewed – and the experience is usu
 
 Nature "masterclass" [Focus on Peer Review](https://masterclasses.nature.com/focus-on-peer-review-online-course/16605550)
 
+## Racism and Bias in Peer review
+
+[Racism in Science: We need to act now](https://elifesciences.org/articles/59636)
+
+[Race, Ethnicity, and NIH Research Awards](https://science.sciencemag.org/content/333/6045/1015)
+
+[Topic choice contributes to the lower rate of NIH awards to African-American/black scientists](https://advances.sciencemag.org/content/5/10/eaaw7238)
+
+[NIH peer review: Criterion scores completely account for racial disparities in overall impact scores](https://advances.sciencemag.org/content/6/23/eaaz4868) and critique by [Drugmonkey](https://twitter.com/drugmonkeyblog/status/1268647041007104001)
+
+[Peer review: a flawed process at the heart of science and journals](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1420798)
+
 ## Course structure
 
 Each students will serve as Discussion Leaders for one manuscript topic.  Everyone should be prepared for class by having read the paper carefully. The Discussion Leader will prepare a talk similar in content and quality to a Tetrad or QBC Journal Club presentation, with an estimated 30-40 minute duration (noting that interruptions and discussion may take us closer to an hour). After, the student will compose a review, reflecting both their original thoughts and what emerged in the discussion, that will be posted (either named or anonymously through James Fraser acting as an "editor") as comments associated with the preprint on BioRxiv or other servers.
