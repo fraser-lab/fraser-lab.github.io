@@ -21,6 +21,17 @@ By far, the most widely accepted means of communication is through publishing pa
 
 We have modeled this class based on [a course at NYU](http://bhabhaekiertlab.org/teaching) organized by Gira Bhabha, Damian Ekiert, Liam Holt & Timothee Lionnet.
 
+## Some material for future years
+
+"At its best, peer review is a slow and careful evaluation of new research by appropriate experts. It involves multiple rounds of revision that removes errors, strengthens analyses, and noticeably improves manuscripts.
+
+At its worst, it is merely window dressing that gives the unwarranted appearance of authority, a cursory process which confers no real value, enforces orthodoxy, and overlooks both obvious analytical problems and outright fraud entirely.
+
+Regardless of how any individual paper is reviewed – and the experience is usually somewhere between the above extremes – the sad truth is peer review in its entirety is struggling, and retractions like this drag its flaws into an incredibly bright spotlight." - from [The Lancet has made one of the biggest retractions in modern history. How could this happen?
+](https://www.theguardian.com/commentisfree/2020/jun/05/lancet-had-to-do-one-of-the-biggest-retractions-in-modern-history-how-could-this-happen)
+
+Nature "masterclass" [Focus on Peer Review](https://masterclasses.nature.com/focus-on-peer-review-online-course/16605550)
+
 ## Course structure
 
 Each students will serve as Discussion Leaders for one manuscript topic.  Everyone should be prepared for class by having read the paper carefully. The Discussion Leader will prepare a talk similar in content and quality to a Tetrad or QBC Journal Club presentation, with an estimated 30-40 minute duration (noting that interruptions and discussion may take us closer to an hour). After, the student will compose a review, reflecting both their original thoughts and what emerged in the discussion, that will be posted (either named or anonymously through James Fraser acting as an "editor") as comments associated with the preprint on BioRxiv or other servers.
