@@ -33,6 +33,7 @@ Regardless of how any individual paper is reviewed – and the experience is usu
 Nature "masterclass" [Focus on Peer Review](https://masterclasses.nature.com/focus-on-peer-review-online-course/16605550)
 
 ## Racism and Bias in Peer review
+[Unprofessional peer reviews disproportionately harm underrepresented groups in STEM](https://peerj.com/articles/8247/)
 
 [Racism in Science: We need to act now](https://elifesciences.org/articles/59636)
 
