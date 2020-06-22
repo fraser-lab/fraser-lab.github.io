@@ -32,6 +32,8 @@ Regardless of how any individual paper is reviewed – and the experience is usu
 
 Nature "masterclass" [Focus on Peer Review](https://masterclasses.nature.com/focus-on-peer-review-online-course/16605550)
 
+[Welcome to the PLOS Reviewer Center](https://plos.org/resources/for-reviewers/?utm_medium=ad&utm_source=twitter&utm_campaign=reviewercenter) 
+
 ## Racism and Bias in Peer review
 [Unprofessional peer reviews disproportionately harm underrepresented groups in STEM](https://peerj.com/articles/8247/)
 
