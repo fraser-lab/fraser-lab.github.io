@@ -9,6 +9,8 @@ permalink: /methods/
 
 [See 2019 version of the course here](/courses/methods_2019)
 
+DEI statement and plan
+
 Tentative 2020 schedule
 - Oct 19-21 intro (JF out)
 - Oct 26-28  method 1 practical
