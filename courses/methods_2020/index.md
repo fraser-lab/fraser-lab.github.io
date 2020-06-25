@@ -28,9 +28,21 @@ Monday, Tuesday, Wednesday - 9AM-11AM on Zoom
 - Nov. 16-18: Method 1
 - Nov. 23-25: Method 2 (Thanksgiving starts Thursday)
 - Nov. 30-Dec 2: Method 3
-- Dec. 7-9: working week 
+- Dec. 7-9: working week
 - Dec. 14: Final presentation
 
+## Youtube videos
+
+- [Thorn lab crystallography](https://www.youtube.com/channel/UCsEfbyZZD49WxUP5iJn6BkQ)
+- [Getting started in CryoEM - Grant Jensen lectures](https://www.youtube.com/playlist?list=PL8_xPU5epJdctoHdQjpfHmd_z9WvGxK8-)
+- [LMB EM Course](https://www2.mrc-lmb.cam.ac.uk/research/scientific-training/electron-microscopy/)
+- [LMB X-ray Course](http://www2.mrc-lmb.cam.ac.uk/research/scientific-training/crystallography-course-2013/)
+- [X-ray crystallography lecture - George Phillips](https://www.youtube.com/watch?v=OeOzLTNHWoM)
+- [Crystallographic Symmetry - Eddie Snell](https://www.youtube.com/watch?v=sIgWFErZ3XU)
+- [X-ray Diffraction Physics - Bob Blessing](https://www.youtube.com/watch?v=UJZF5yPNhIE)
+- [Protein Dynamics by NMR- Dorothee Kern](https://www.youtube.com/watch?v=fzM5V0bbybM)
+- [Ligand binding and drug design-Dorothee Kern](https://www.youtube.com/watch?v=7MuBsYNrypg&t=659s)
+- [NMR Theory Course , James Keeler](https://www.youtube.com/watch?v=nM7jQFhrvR0&index=1&list=PLE20foNk9J6L1dh9X27RaPiaul8_7wrAY)
 <!-- - Oct 19-21 intro (JF out)
 - Oct 26-28  method 1 practical
 - Nov 2-4 method 1 data processing
