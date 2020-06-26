@@ -86,6 +86,8 @@ Examples provided below with brief context from myself and several lab mates acr
 ![010_diaz3](/static/img/news/010_diaz2.3_mfd.jpg){:.img-fluid}
 
 *A colleague of mine died by suicide and it caused me to start thinking about how students in academia feel, especially marginalized students. It prompted me to look at the literature about how we can overcome feelings of burnout and depression.* - **Roberto Efraín (Robbie) Díaz**, Tetrad Graduate Student
+
+
 If you are in need of mental health services or are in crisis, please reach out to [Student Health and Counseling Services](https://studenthealth.ucsf.edu/student-health-and-counseling-services), [Faculty and Staff Assistance Program](https://hr.ucsf.edu/hr.php?org=c&AT=cm&S=Faculty+and+Staff+Assistance), or [Mental Health Board of San Francisco](http://www.mhbsf.org/resources/) for immediate assistance. 
 
 
