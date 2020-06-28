@@ -6,8 +6,10 @@ group: macrodomain
 
 Placeholder for macrodomain fragment post
 
-
-![macrodomain fluid](img/adrp.jpg){:.img-fluid. }
+<figure class="figure">
+  <img data-src="img/adrp.jpg" class="figure-img img-fluid" alt="as a figure">
+  <figcaption class="figure-caption">Testing a caption.</figcaption>
+</figure>
 
 <img class="img-fluid mx-auto d-block" src="img/adrp.jpg" alt="fluid">
 
