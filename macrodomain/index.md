@@ -5,6 +5,7 @@ group: macrodomain
 ---
 
 Placeholder for macrodomain fragment post
+![macrodomain](img/adrp.jpg){:height="36px" }
 
 Will contain:
 - organizational background
