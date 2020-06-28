@@ -7,7 +7,7 @@ group: macrodomain
 Placeholder for macrodomain fragment post
 
 
-![macrodomain](img/adrp.jpg){:class="img-responsive" }
+![macrodomain](img/adrp.jpg){:.img-fluid. }
 
 Will contain:
 - organizational background
