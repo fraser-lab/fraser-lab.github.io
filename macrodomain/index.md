@@ -7,7 +7,7 @@ group: macrodomain
 Placeholder for macrodomain fragment post
 
 <figure class="figure">
-  <img data-src="img/adrp.jpg" class="figure-img img-fluid" alt="as a figure">
+  <img src="img/adrp.jpg" class="figure-img img-fluid" alt="as a figure">
   <figcaption class="figure-caption">Testing a caption.</figcaption>
 </figure>
 
