@@ -7,7 +7,7 @@ group: macrodomain
 Placeholder for macrodomain fragment post
 
 
-<img class="img-fluid mx-auto d-block" src="img/adrp.jpg" alt="fluid" style="max-height: 250px; max-width:75%">
+<img class="img-fluid d-block" src="img/adrp.jpg" alt="fluid" style="max-height: 500px; max-width:75%">
 
 Will contain:
 - organizational background
