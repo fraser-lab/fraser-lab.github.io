@@ -6,12 +6,8 @@ group: macrodomain
 
 Placeholder for macrodomain fragment post
 
-<figure class="figure">
-  <img src="img/adrp.jpg" class="figure-img img-fluid" alt="as a figure" style="max-height: 300px">
-  <figcaption class="figure-caption">Testing a caption.</figcaption>
-</figure>
 
-<img class="img-fluid mx-auto d-block" src="img/adrp.jpg" alt="fluid" style="max-height: 150px">
+<img class="img-fluid mx-auto d-block" src="img/adrp.jpg" alt="fluid" style="max-height: 50px">
 
 Will contain:
 - organizational background
