@@ -6,7 +6,7 @@ title: Contact
 ### Contact the Fraser Lab
 
 James Fraser, Ph.D.
-Associate Professor
+Professor
 Department of Bioengineering and Therapeutic Sciences
 California Institute of Quantitative Biosciences (QB3)
 
