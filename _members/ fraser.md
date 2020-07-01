@@ -19,7 +19,7 @@ There, he worked with [Tom Alber](http://fraserlab.com/2014/04/04/Tom-Alber/) cr
 They applied these techniques to study connections between [conformational dynamics and enzymatic catalysis](/publications#19956261), showing that [room temperature](/publications#21918110), but not standard cryogenic, X-ray data collection could reveal the structural basis for critical functional motions.
 
 
-Near the end of his Ph.D., he was an [EMBO Short-Term Fellow](http://www.embo.org/funding-awards/fellowships/short-term-fellowships) in [Dan Tawfik''s lab](http://www.weizmann.ac.il/Biological_Chemistry/scientist/Tawfik/).
+Near the end of his Ph.D., he was an [EMBO Short-Term Fellow](http://www.embo.org/funding-awards/fellowships/short-term-fellowships) in [Dan Tawfiks lab](http://www.weizmann.ac.il/Biological_Chemistry/scientist/Tawfik/).
 Concurrently, he authored the problems and solutions manual for the physical chemistry textbook [The Molecules of Life](http://www.garlandscience.com/product/isbn/9780815341888) by Kuriyan, Konforti, and Wemmer.
 
 
