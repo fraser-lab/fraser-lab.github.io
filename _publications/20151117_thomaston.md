@@ -6,7 +6,7 @@ date: '2015-11-17'
 image: '/static/img/pub/2015_thomaston.jpg'
 pmid: '26578770'
 pmcid: 'PMC4655559'
-pdf: '/static/pdf/publications/2015_thomaston.pdf'
+pdf: 'http://cdn.fraserlab.com/publications/2015_thomaston.pdf'
 pdbs:
 - 4QK7
 - 4QKC

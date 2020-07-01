@@ -7,7 +7,7 @@ group: news
 It's been over a year since I wrote an update for our lab news section (parenthood has slowed me down a bit). There have been a lot of changes:
 
 - Goodbye David Mavor, PhD!
-  - David (aka Iggy) finished his doctoral work in the lab and moved on to Dan Bolon's lab at UMass Medical. Iggy merged his thesis work with graduate education in the [PUBS](/pubs) course and published a spectacular deep mutational scanning [paper](/static/pdf/mavor_elife_2016.pdf) (with a record number of co-authors!) based on the the first year of the class. The next two years were summarized in a [pre-print](http://dx.doi.org/10.1101/139352). Congratulations Dr. Mavor
+  - David (aka Iggy) finished his doctoral work in the lab and moved on to Dan Bolon's lab at UMass Medical. Iggy merged his thesis work with graduate education in the [PUBS](/pubs) course and published a spectacular deep mutational scanning [paper](http://cdn.fraserlab.com/mavor_elife_2016.pdf) (with a record number of co-authors!) based on the the first year of the class. The next two years were summarized in a [pre-print](http://dx.doi.org/10.1101/139352). Congratulations Dr. Mavor
 
 - Welcome to new postdocs Dr. Brandi Hudson (and soon Dr. John Lee)!
   - Brandi joined us last summer from the Tantillo lab at UC Davis and has been working in collaboration with Relay Therapeutics and Schrodinger on how to account for conformational dynamics in ligand design. John will be joining us later this month from the Burkart lab at UCSD.

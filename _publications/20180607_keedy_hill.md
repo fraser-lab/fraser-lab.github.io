@@ -8,7 +8,7 @@ image: '/static/img/pub/2018_keedy_hill.jpg'
 pmid: '29877794'
 pmcid: 'PMC6039181'
 biorxiv: '218966'
-pdf: '/static/pdf/publications/2018_keedy_hill.pdf'
+pdf: 'http://cdn.fraserlab.com/publications/2018_keedy_hill.pdf'
 pdbs:
 - 6B90
 - 6B8E

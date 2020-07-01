@@ -6,7 +6,7 @@ date: '2013-02-17'
 image: '/static/img/pub/2013_ollikainen.jpg'
 pmid: '23422426'
 pmcid: 'PMC3750959'
-pdf: '/static/pdf/publications/2013_ollikainen.pdf'
+pdf: 'http://cdn.fraserlab.com/publications/2013_ollikainen.pdf'
 links:
 - name: Backrub Server @ Kortemme lab
   url: https://kortemmelab.ucsf.edu/backrub/cgi-bin/rosettaweb.py?query=index

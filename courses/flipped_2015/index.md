@@ -43,7 +43,7 @@ If you want to talk to us about preparing your discussion session, please feel f
 
 Assigned Paper:
 
-- [Adamala, K. and Szostak, J.W. (2013). Nonenzymatic template-directed RNA synthesis inside model protocells.  Science 342: 1098-1100.](/static/pdf/courses/flipped_2015/2013_adamala.pdf)
+- [Adamala, K. and Szostak, J.W. (2013). Nonenzymatic template-directed RNA synthesis inside model protocells.  Science 342: 1098-1100.](http://cdn.fraserlab.com/courses/flipped_2015/2013_adamala.pdf)
 
 {::nomarkdown}
 <div class="video-container">
@@ -63,7 +63,7 @@ Assigned Paper:
 
 Assigned Paper:
 
-- [Wu, C.-H., Bialecka-Fornal, M., and Newman, D.K. (2015). Methylation at the C-2 position of hopanoids increases rigidity in native bacterial membranes. Elife: 4:e05663.](/static/pdf/courses/flipped_2015/2015_wu.pdf)
+- [Wu, C.-H., Bialecka-Fornal, M., and Newman, D.K. (2015). Methylation at the C-2 position of hopanoids increases rigidity in native bacterial membranes. Elife: 4:e05663.](http://cdn.fraserlab.com/courses/flipped_2015/2015_wu.pdf)
 
 {::nomarkdown}
 <div class="video-container">
@@ -79,7 +79,7 @@ Assigned Paper:
 </div>
 {:/nomarkdown}
 
-- Discussion Questions: [Szostak and Newman](/static/pdf/courses/flipped_2015/szostak_newman.pdf)
+- Discussion Questions: [Szostak and Newman](http://cdn.fraserlab.com/courses/flipped_2015/szostak_newman.pdf)
 
 #May 18#
 
@@ -90,7 +90,7 @@ Assigned Paper:
 
 Assigned Paper:
 
-- [Correia BE. et al. Proof of principle for epitope-focused vaccine design. Nature. 2014. 507: 201-206. PMID: 24499818](/static/pdf/courses/flipped_2015/2014_correia.pdf)
+- [Correia BE. et al. Proof of principle for epitope-focused vaccine design. Nature. 2014. 507: 201-206. PMID: 24499818](http://cdn.fraserlab.com/courses/flipped_2015/2014_correia.pdf)
 
 {::nomarkdown}
 <div class="video-container">
@@ -103,7 +103,7 @@ Assigned Paper:
 {:/nomarkdown}
 
 
-- Discussion Questions: [David Baker](/static/pdf/courses/flipped_2015/baker.pdf)
+- Discussion Questions: [David Baker](http://cdn.fraserlab.com/courses/flipped_2015/baker.pdf)
 
 #May 20#
 
@@ -114,7 +114,7 @@ Assigned Paper:
 
 Assigned Paper:
 
-- [Walker MC, Thuronyi BW, Charkoudian LK, Lowry B, Khosla C, Chang MC.Expanding the fluorine chemistry of living systems using engineered polyketide synthase pathways. Science. 2013. 341: 1089-1094.  PMID: 24009388](/static/pdf/courses/flipped_2015/2013_walker.pdf)
+- [Walker MC, Thuronyi BW, Charkoudian LK, Lowry B, Khosla C, Chang MC.Expanding the fluorine chemistry of living systems using engineered polyketide synthase pathways. Science. 2013. 341: 1089-1094.  PMID: 24009388](http://cdn.fraserlab.com/courses/flipped_2015/2013_walker.pdf)
 
 {::nomarkdown}
 <div class="video-container">
@@ -130,7 +130,7 @@ Assigned Paper:
 </div>
 {:/nomarkdown}
 
-- Discussion Questions: [Chaitan Khosla](/static/pdf/courses/flipped_2015/khosla.pdf)
+- Discussion Questions: [Chaitan Khosla](http://cdn.fraserlab.com/courses/flipped_2015/khosla.pdf)
 
 
 #May 22#
@@ -143,8 +143,8 @@ Assigned Paper:
 
 Assigned Papers:
 
-- [Ke, Y., Ong, L.L., Shih, W.M., and Yin, P. (2012). Three-Dimensional Structures Self-Assembled from DNA Bricks. Science 338, 1177–1183.](/static/pdf/courses/flipped_2015/2012_ke.pdf)
-- [Derr, N.D., Goodman, B.S., Jungmann, R., Leschziner, A.E., Shih, W.M., and Reck-Peterson, S.L. (2012). Tug-of-War in Motor Protein Ensembles Revealed with a Programmable DNA Origami Scaffold. Science 338, 662–665.](/static/pdf/courses/flipped_2015/2012_derr.pdf)
+- [Ke, Y., Ong, L.L., Shih, W.M., and Yin, P. (2012). Three-Dimensional Structures Self-Assembled from DNA Bricks. Science 338, 1177–1183.](http://cdn.fraserlab.com/courses/flipped_2015/2012_ke.pdf)
+- [Derr, N.D., Goodman, B.S., Jungmann, R., Leschziner, A.E., Shih, W.M., and Reck-Peterson, S.L. (2012). Tug-of-War in Motor Protein Ensembles Revealed with a Programmable DNA Origami Scaffold. Science 338, 662–665.](http://cdn.fraserlab.com/courses/flipped_2015/2012_derr.pdf)
 
 {::nomarkdown}
 <div class="video-container">
@@ -160,7 +160,7 @@ Assigned Papers:
 </div>
 {:/nomarkdown}
 
-- Discussion Questions: [William Shih](/static/pdf/courses/flipped_2015/shih.pdf)
+- Discussion Questions: [William Shih](http://cdn.fraserlab.com/courses/flipped_2015/shih.pdf)
 
 
 #May 26#
@@ -171,7 +171,7 @@ Assigned Papers:
 ##Kristala Prather-Jones Synthetic Biology and Metabolic Engineering##
 
 Assigned Paper:
-- [Sheppard MJ, Kunjapur AM, Wenck SJ, Prather KL. Retro-biosynthetic screening of a modular pathway design achieves selective route for microbial synthesis of 4-methyl-pentanol. Nat Commun. 2014. PMID: 25248664](/static/pdf/courses/flipped_2015/2014_sheppard.pdf)
+- [Sheppard MJ, Kunjapur AM, Wenck SJ, Prather KL. Retro-biosynthetic screening of a modular pathway design achieves selective route for microbial synthesis of 4-methyl-pentanol. Nat Commun. 2014. PMID: 25248664](http://cdn.fraserlab.com/courses/flipped_2015/2014_sheppard.pdf)
 
 {::nomarkdown}
 <div class="video-container">
@@ -183,7 +183,7 @@ Assigned Paper:
 </div>
 {:/nomarkdown}
 
-- Discussion Questions: [Kristala Prather](/static/pdf/courses/flipped_2015/prather.pdf)
+- Discussion Questions: [Kristala Prather](http://cdn.fraserlab.com/courses/flipped_2015/prather.pdf)
 
 #May 27#
 
@@ -194,7 +194,7 @@ Assigned Paper:
 
 Assigned Paper:
 
-- [Stevens, K.R., Ungrin, M.D., Schwartz, R.E., Ng, S., Carvalho, B., Christine, K.S., Chaturvedi, R.R., Li, C.Y., Zandstra, P.W., Chen, C.S., et al. (2013). InVERT molding for scalable control of tissue microarchitecture. Nature Communications 4, 1847.](/static/pdf/courses/flipped_2015/2013_stevens.pdf)
+- [Stevens, K.R., Ungrin, M.D., Schwartz, R.E., Ng, S., Carvalho, B., Christine, K.S., Chaturvedi, R.R., Li, C.Y., Zandstra, P.W., Chen, C.S., et al. (2013). InVERT molding for scalable control of tissue microarchitecture. Nature Communications 4, 1847.](http://cdn.fraserlab.com/courses/flipped_2015/2013_stevens.pdf)
 
 {::nomarkdown}
 <div class="video-container">
@@ -206,7 +206,7 @@ Assigned Paper:
 </div>
 {:/nomarkdown}
 
-- Discussion Questions: [Sangeeta Bhatia](/static/pdf/courses/flipped_2015/bhatia.pdf)
+- Discussion Questions: [Sangeeta Bhatia](http://cdn.fraserlab.com/courses/flipped_2015/bhatia.pdf)
 
 
 #May 29#
@@ -217,7 +217,7 @@ Assigned Paper:
 ##Robert Langer  Biomaterials and Delivery Systems##
 
 Assigned paper:
-- [Timko, B.P., Arruebo, M., Shankarappa, S.A., McAlvin, J.B., Okonkwo, O.S., Mizrahi, B., Stefanescu, C.F., Gomez, L., Zhu, J., Zhu, A., et al. (2014). Near-infrared-actuated devices for remotely controlled drug delivery. Proceedings of the National Academy of Sciences 111, 1349–1354.](/static/pdf/courses/flipped_2015/2014_timko.pdf)
+- [Timko, B.P., Arruebo, M., Shankarappa, S.A., McAlvin, J.B., Okonkwo, O.S., Mizrahi, B., Stefanescu, C.F., Gomez, L., Zhu, J., Zhu, A., et al. (2014). Near-infrared-actuated devices for remotely controlled drug delivery. Proceedings of the National Academy of Sciences 111, 1349–1354.](http://cdn.fraserlab.com/courses/flipped_2015/2014_timko.pdf)
 
 {::nomarkdown}
 <div class="video-container">
@@ -233,7 +233,7 @@ Assigned paper:
 </div>
 {:/nomarkdown}
 
-- Discussion Questions: [Robert Langer](/static/pdf/courses/flipped_2015/langer.pdf)
+- Discussion Questions: [Robert Langer](http://cdn.fraserlab.com/courses/flipped_2015/langer.pdf)
 
 ##Desai/Bhisitkul Advancing the Treatment of Retinal Disease##
 

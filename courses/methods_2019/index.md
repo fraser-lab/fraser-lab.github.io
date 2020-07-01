@@ -55,7 +55,7 @@ James Fraser, Stephen Floor, David Bulkley, James Holton, Yifan Cheng, David Aga
 
 **Background:**
 
-Fluency in multiple biophysical methods is often critical for answering mechanistic questions. Traditionally, students are exposed to the fundamentals of multiple techniques through lectures that cover the theory prior to exposure, for some, in analysis or data collection during lab rotations. However, this structure means that only students that rotate in specific labs gain hands-on-exposure, which could limit adventurous experiments in future years. To train the next generation of biophysicists at UCSF, we have decided to alter this traditional structure by creating a new 6 week “Macromolecular Methods” class that places data collection at the beginning of the course. Based on our experiences designing the project-based class [Physical Underpinnings of Biological Systems, aka PUBS!](/courses/pubs/), which used deep sequencing to assay the function of a comprehensive set of point mutants to introduce principles of [high-throughput interrogation of biological functions](/static/pdf/publications/2016_mavor.pdf), we have designed Macromolecular Methods to be a team-based class where students develop their own analysis of real data that they have collected.
+Fluency in multiple biophysical methods is often critical for answering mechanistic questions. Traditionally, students are exposed to the fundamentals of multiple techniques through lectures that cover the theory prior to exposure, for some, in analysis or data collection during lab rotations. However, this structure means that only students that rotate in specific labs gain hands-on-exposure, which could limit adventurous experiments in future years. To train the next generation of biophysicists at UCSF, we have decided to alter this traditional structure by creating a new 6 week “Macromolecular Methods” class that places data collection at the beginning of the course. Based on our experiences designing the project-based class [Physical Underpinnings of Biological Systems, aka PUBS!](/courses/pubs/), which used deep sequencing to assay the function of a comprehensive set of point mutants to introduce principles of [high-throughput interrogation of biological functions](http://cdn.fraserlab.com/publications/2016_mavor.pdf), we have designed Macromolecular Methods to be a team-based class where students develop their own analysis of real data that they have collected.
 
 **Course Description:**
 
@@ -63,13 +63,13 @@ This is a team-based class where students work in small groups develop their own
 
 **Recommended reading:**
 
-- [Integrative Structural Biology](/static/pdf/courses/methods/2013_ward.pdf)
-- [SAR by NMR](/static/pdf/courses/methods/1996_shuker.pdf)
-- [Protein crystallography and drug discovery: recollections of knowledge exchange between academia and industry](/static/pdf/courses/methods/2017_blundell.pdf)
-- [Scaffold-based design by X-ray](/static/pdf/courses/methods/2008_tsai.pdf), [PANDDA](/static/pdf/courses/methods/2017_pearce.pdf)
-- [EM for drug discovery](/static/pdf/courses/methods/2016_merk.pdf), [Proteasome example](/static/pdf/courses/methods/2017_morris.pdf)
-- [The maximal affinity of ligands](/static/pdf/courses/methods/1999_kuntz.pdf)
-- [The role of ligand efficiency metrics in drug discovery](/static/pdf/courses/methods/2014_hopkins.pdf)
+- [Integrative Structural Biology](http://cdn.fraserlab.com/courses/methods/2013_ward.pdf)
+- [SAR by NMR](http://cdn.fraserlab.com/courses/methods/1996_shuker.pdf)
+- [Protein crystallography and drug discovery: recollections of knowledge exchange between academia and industry](http://cdn.fraserlab.com/courses/methods/2017_blundell.pdf)
+- [Scaffold-based design by X-ray](http://cdn.fraserlab.com/courses/methods/2008_tsai.pdf), [PANDDA](http://cdn.fraserlab.com/courses/methods/2017_pearce.pdf)
+- [EM for drug discovery](http://cdn.fraserlab.com/courses/methods/2016_merk.pdf), [Proteasome example](http://cdn.fraserlab.com/courses/methods/2017_morris.pdf)
+- [The maximal affinity of ligands](http://cdn.fraserlab.com/courses/methods/1999_kuntz.pdf)
+- [The role of ligand efficiency metrics in drug discovery](http://cdn.fraserlab.com/courses/methods/2014_hopkins.pdf)
 - [Introduction to NMR](https://www.cis.rit.edu/htbooks/nmr/inside.htm)
 
 **Recommended background videos**
@@ -86,7 +86,7 @@ This is a team-based class where students work in small groups develop their own
 
 **Course Goals:**
 
-The goal of the course is to provide an immersive, hands-on experience in the context of genuine research questions. As articulated by [Vale and colleagues](/static/pdf/courses/methods/2012_vale.pdf), there are tremendous advantages when graduate students work "pursuing a research question with unknown answers and uncertain outcomes, students and faculty combine their wits and skills to design experiments, evaluate progress, and troubleshoot along the way". These advantages are likely to be common accross [all learning levels](http://blogs.kqed.org/mindshift/2014/09/can-project-based-learning-close-gaps-in-science-education/). In our course, teams may use whatever literature, software, and resources that are available publicly, and are encouraged to write their own scripts and software where necessary.
+The goal of the course is to provide an immersive, hands-on experience in the context of genuine research questions. As articulated by [Vale and colleagues](http://cdn.fraserlab.com/courses/methods/2012_vale.pdf), there are tremendous advantages when graduate students work "pursuing a research question with unknown answers and uncertain outcomes, students and faculty combine their wits and skills to design experiments, evaluate progress, and troubleshoot along the way". These advantages are likely to be common accross [all learning levels](http://blogs.kqed.org/mindshift/2014/09/can-project-based-learning-close-gaps-in-science-education/). In our course, teams may use whatever literature, software, and resources that are available publicly, and are encouraged to write their own scripts and software where necessary.
 
 This course will introduce students to approaches and methodologies for interrogating macromolecular structure and dynamics, which will require the integration of experiment and computation. In addition to fundamental techniques in X-ray crystallography, NMR and EM, students will learn to interpret datasets, draw original conclusions, and present findings in written and oral formats.
 
@@ -147,7 +147,7 @@ Program issued laptops and a 3 button mouse, or a two button mouse that emulates
 **Week 1 – Welcome**
 
 _Mon Oct 14_
-- 1:00-1:30 PM - [Intro to Macro Methods](/static/pdf/courses/methods/2019_macro_intro.pdf) (Manglik)
+- 1:00-1:30 PM - [Intro to Macro Methods](http://cdn.fraserlab.com/courses/methods/2019_macro_intro.pdf) (Manglik)
 - 1:30-2:30 PM - Why Hsp90 is cool (David Agard)
 - 2:30-3:00 PM - Fourier Transforms 101 (Fraser) and [cool website](http://www.jezzamon.com/fourier/)
 - 3:00 PM - [Software check](https://docs.google.com/document/d/1f8n5oUvlgYjCOk6ybq5GOF5H-riGmoSIo6Yjqa_1RZg/edit?usp=sharing) (Fraser+Tibble+Manglik)
@@ -182,20 +182,20 @@ _Tues Oct 22_
 **Week 3 - EM Data Processing**
 
 _Reading on Rigor and reproducibility in EM:_
-- [FSC](https://en.wikipedia.org/wiki/Fourier_shell_correlation) and [early example in EM](/static/pdf/courses/methods/1982_saxton.pdf)
-- [half maps](/static/pdf/courses/methods/2012_scheres.pdf) and [Optimal Determination of Particle Orientation, Absolute Hand, and Contrast Loss in Single-particle Electron Cryomicroscopy](/static/pdf/courses/methods/2003_rosenthal.pdf)
-- Other Model and Map validation tools (a lot of overlap with X-ray tools but a few examples that don't: [phenix.mtriage](https://www.phenix-online.org/documentation/reference/mtriage.html), [EMRinger](/static/pdf/publications/2015_barad.pdf))
+- [FSC](https://en.wikipedia.org/wiki/Fourier_shell_correlation) and [early example in EM](http://cdn.fraserlab.com/courses/methods/1982_saxton.pdf)
+- [half maps](http://cdn.fraserlab.com/courses/methods/2012_scheres.pdf) and [Optimal Determination of Particle Orientation, Absolute Hand, and Contrast Loss in Single-particle Electron Cryomicroscopy](http://cdn.fraserlab.com/courses/methods/2003_rosenthal.pdf)
+- Other Model and Map validation tools (a lot of overlap with X-ray tools but a few examples that don't: [phenix.mtriage](https://www.phenix-online.org/documentation/reference/mtriage.html), [EMRinger](http://cdn.fraserlab.com/publications/2015_barad.pdf))
 
 _Mon Oct 28_
-- 1-2 PM [Lecture by Yifan Cheng](/static/pdf/courses/methods/2019_cheng_1.pdf)
-- 2-5 PM - EM data processing - Orion Accounts, [cisTEM](https://cistem.org/) introduction and [paper](/static/pdf/courses/methods/2018_grant.pdf), ATP data (Fraser)
+- 1-2 PM [Lecture by Yifan Cheng](http://cdn.fraserlab.com/courses/methods/2019_cheng_1.pdf)
+- 2-5 PM - EM data processing - Orion Accounts, [cisTEM](https://cistem.org/) introduction and [paper](http://cdn.fraserlab.com/courses/methods/2018_grant.pdf), ATP data (Fraser)
 
 _Mon Oct 28_
-- 1-2 PM [Lecture by Yifan Cheng](/static/pdf/courses/methods/2019_cheng_2.pdf)
+- 1-2 PM [Lecture by Yifan Cheng](http://cdn.fraserlab.com/courses/methods/2019_cheng_2.pdf)
 - 2-5 PM - EM data processing - Apo data and using 2D classes to get a rough idea of how ATP alters the conformational equilibrium (Fraser)
 
 _Mon Oct 28_
-- 1-2 PM [Lecture by Yifan Cheng](/static/pdf/courses/methods/2019_cheng_2.pdf)
+- 1-2 PM [Lecture by Yifan Cheng](http://cdn.fraserlab.com/courses/methods/2019_cheng_2.pdf)
 - 2-5 PM - EM data processing - datasets collected by students on inhibitor compounds (Fraser)
  - [ChimeraX EM tutorial by Tom Goddard](http://www.cgl.ucsf.edu/chimera/data/hsp90-em-dec2017/hsp90em.html)
 
@@ -208,9 +208,9 @@ _Mon Oct 28_
 **Week 5 - Crystal Growing and X-ray data processing 1**
 
 _Reading on Rigor and reproducibility in Crystallography:_
-- [R-free](/static/pdf/courses/methods/1992_brunger.pdf)
-- [MolProbity](/static/pdf/courses/methods/2010_chen.pdf)
-- [Data Challenges and synthetic data](/static/pdf/courses/methods/2019_holton.pdf)
+- [R-free](http://cdn.fraserlab.com/courses/methods/1992_brunger.pdf)
+- [MolProbity](http://cdn.fraserlab.com/courses/methods/2010_chen.pdf)
+- [Data Challenges and synthetic data](http://cdn.fraserlab.com/courses/methods/2019_holton.pdf)
 
 _Tues Nov 12_
 The X-ray Facility is in room GH 112 - please show up at the time listed and wait outside the door for Aashish/Bryan to let you in.
@@ -224,7 +224,7 @@ _Weds Nov 13_
 - BREAK
 - 3:00-5:00 PM: Spots to intensities, XDS workup of data in class
 
- - [Slides about Crystal Symmetry](/static/pdf/courses/methods/2018_Symmetry.pdf)
+ - [Slides about Crystal Symmetry](http://cdn.fraserlab.com/courses/methods/2018_Symmetry.pdf)
  - [Box link to ADP images](https://ucsf.box.com/s/i85gxe5prx9z3ov5hdftqgy1skdevca7) - Download
   - [xia2 summary for ADP](/static/adp/xia2.html)
     - [ADP mtz](/static/adp/DataFiles/yHSP90_ADP.mtz)
@@ -252,42 +252,42 @@ Meet Ryan Tibble outside the [NMR suite](https://pharm.ucsf.edu/nmr) (GH-S102)
 **Week 7 - NMR data processing**
 
 _Reading on Rigor and reproducibility in NMR:_
-- [Tools for validating NMR structures](/static/pdf/courses/methods/2014_vuister.pdf)
-- [Q-scores](/static/pdf/courses/methods/2004_clore.pdf)
-- [Integrative modeling](/static/pdf/courses/methods/2019_rout.pdf)
+- [Tools for validating NMR structures](http://cdn.fraserlab.com/courses/methods/2014_vuister.pdf)
+- [Q-scores](http://cdn.fraserlab.com/courses/methods/2004_clore.pdf)
+- [Integrative modeling](http://cdn.fraserlab.com/courses/methods/2019_rout.pdf)
 
 _Mon Dec 2_
-- [from FID to 2D](/static/pdf/courses/methods/2DNMR_Processing_Tutorial.pdf) (Ryan Tibble and John Gross)
-- [Intro to Sparky](/static/pdf/courses/methods/Sparky_tutorial.pdf)
+- [from FID to 2D](http://cdn.fraserlab.com/courses/methods/2DNMR_Processing_Tutorial.pdf) (Ryan Tibble and John Gross)
+- [Intro to Sparky](http://cdn.fraserlab.com/courses/methods/Sparky_tutorial.pdf)
 
 - 1-3, 4-5 PM NMR Data Processing (Ryan Tibble)
-- Work on analyzing NMR titration data to determine Kd (Ryan Tibble and John Gross), [Common Sparky Commands](/static/pdf/courses/methods/Sparky_common_cmds.pdf) and [Sparky Integration Tutorial](/static/pdf/courses/methods/Sparky_Integration.pdf)
- - Supplemental reading: [How does an HSQC work?](/static/pdf/courses/methods/HSQC-Guided-tour.pdf)
- - chemical shift perturbation plot versus primary sequence; mapping onto structure, [CSPs from Sparky Lists](/static/pdf/courses/methods/Sparky_CSP.py)
- - [NMR Screen Compound Structure Gallery](/static/pdf/courses/methods/Macro_NMR_Screen_Cmpd_Structures.pdf)
-- 3-4 PM [Lecture by Stephen Floor](/static/pdf/courses/methods/2019_floor_NMR.pdf)
+- Work on analyzing NMR titration data to determine Kd (Ryan Tibble and John Gross), [Common Sparky Commands](http://cdn.fraserlab.com/courses/methods/Sparky_common_cmds.pdf) and [Sparky Integration Tutorial](http://cdn.fraserlab.com/courses/methods/Sparky_Integration.pdf)
+ - Supplemental reading: [How does an HSQC work?](http://cdn.fraserlab.com/courses/methods/HSQC-Guided-tour.pdf)
+ - chemical shift perturbation plot versus primary sequence; mapping onto structure, [CSPs from Sparky Lists](http://cdn.fraserlab.com/courses/methods/Sparky_CSP.py)
+ - [NMR Screen Compound Structure Gallery](http://cdn.fraserlab.com/courses/methods/Macro_NMR_Screen_Cmpd_Structures.pdf)
+- 3-4 PM [Lecture by Stephen Floor](http://cdn.fraserlab.com/courses/methods/2019_floor_NMR.pdf)
 
 
 _Tues Dec 3_
 - 1-3, 4-5 PM NMR Data Processing (Ryan Tibble)
-- 3-4 PM [Lecture by Stephen Floor](/static/pdf/courses/methods/2019_floor_NMR.pdf)
+- 3-4 PM [Lecture by Stephen Floor](http://cdn.fraserlab.com/courses/methods/2019_floor_NMR.pdf)
 
 _Weds Dec 4_
 - 1-3, 4-5 PM NMR Data Processing (Ryan Tibble)
-- 3-4 PM [Lecture by Stephen Floor](/static/pdf/courses/methods/2019_floor_NMR.pdf)
+- 3-4 PM [Lecture by Stephen Floor](http://cdn.fraserlab.com/courses/methods/2019_floor_NMR.pdf)
 
 
 **Week 8 - X-ray data processing**
 
 _Mon Dec 9_
-- 1-5 PM Processing and [Lecture by Bob Stroud](/static/pdf/courses/methods/2019_Stroud_Fundamentals.pdf)
+- 1-5 PM Processing and [Lecture by Bob Stroud](http://cdn.fraserlab.com/courses/methods/2019_Stroud_Fundamentals.pdf)
 
 _Tues Dec 10_
-- 1-5 PM Processing and [Lecture by Bob Stroud](/static/pdf/courses/methods/2019_Stroud_Fundamentals.pdf)
- - [The R-factor gap](/static/pdf/courses/methods/2014_holton.pdf)
+- 1-5 PM Processing and [Lecture by Bob Stroud](http://cdn.fraserlab.com/courses/methods/2019_Stroud_Fundamentals.pdf)
+ - [The R-factor gap](http://cdn.fraserlab.com/courses/methods/2014_holton.pdf)
 
 _Weds Dec 11_
-- 1-5 PM Processing and [Lecture by Bob Stroud](/static/pdf/courses/methods/2019_Stroud_Fundamentals.pdf)
+- 1-5 PM Processing and [Lecture by Bob Stroud](http://cdn.fraserlab.com/courses/methods/2019_Stroud_Fundamentals.pdf)
   - [Compound Data Sets](https://ucsf.box.com/s/ktk339d97w5p32y7h7noxbsn2ee1soid):
     - Bjorkman: A3, c1, f14, f26, f56, f94, f38, f79
     - Franklin: a44, c23, f16, f33, f65, G8, f53, f63, f83, c2

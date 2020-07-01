@@ -7,10 +7,10 @@ image: '/static/img/pub/2015_urzhumtsev.jpg'
 pmid: '26249348'
 pmcid: 'PMC4528800'
 biorxiv: '012930'
-pdf: '/static/pdf/publications/2015_urzhumtsev.pdf'
+pdf: 'http://cdn.fraserlab.com/publications/2015_urzhumtsev.pdf'
 links:
 - name: Paper Submission Celebration Photo
   url: https://twitter.com/fraser_lab/status/545387123688214528
 - name: Addenda and corrigendum
-  url: '/static/pdf/publications/2015_urzhumtsev_corrigendum.pdf'
+  url: 'http://cdn.fraserlab.com/publications/2015_urzhumtsev_corrigendum.pdf'
 ---

@@ -57,7 +57,7 @@ James Fraser, John Gross, Dan Southworth, David Bulkley, James Holton, Yifan Che
 
 **Background:**
 
-Fluency in multiple biophysical methods is often critical for answering mechanistic questions. Traditionally, students are exposed to the fundamentals of multiple techniques through lectures that cover the theory prior to exposure, for some, in analysis or data collection during lab rotations. However, this structure means that only students that rotate in specific labs gain hands-on-exposure, which could limit adventurous experiments in future years. To train the next generation of biophysicists at UCSF, we have decided to alter this traditional structure by creating a new 6 week “Macromolecular Methods” class that places data collection at the beginning of the course. Based on our experiences designing the project-based class [Physical Underpinnings of Biological Systems, aka PUBS!](/courses/pubs), which used deep sequencing to assay the function of a comprehensive set of point mutants to introduce principles of [high-throughput interrogation of biological functions](/static/pdf/publications/2016_mavor.pdf), we have designed Macromolecular Methods to be a team-based class where students develop their own analysis of real data that they have collected.
+Fluency in multiple biophysical methods is often critical for answering mechanistic questions. Traditionally, students are exposed to the fundamentals of multiple techniques through lectures that cover the theory prior to exposure, for some, in analysis or data collection during lab rotations. However, this structure means that only students that rotate in specific labs gain hands-on-exposure, which could limit adventurous experiments in future years. To train the next generation of biophysicists at UCSF, we have decided to alter this traditional structure by creating a new 6 week “Macromolecular Methods” class that places data collection at the beginning of the course. Based on our experiences designing the project-based class [Physical Underpinnings of Biological Systems, aka PUBS!](/courses/pubs), which used deep sequencing to assay the function of a comprehensive set of point mutants to introduce principles of [high-throughput interrogation of biological functions](http://cdn.fraserlab.com/publications/2016_mavor.pdf), we have designed Macromolecular Methods to be a team-based class where students develop their own analysis of real data that they have collected.
 
 **Course Description:**
 
@@ -65,13 +65,13 @@ This is a team-based class where students work in small groups develop their own
 
 **Recommended reading:**
 
-- [Integrative Structural Biology](/static/pdf/courses/methods/2013_ward.pdf)
-- [SAR by NMR](/static/pdf/courses/methods/1996_shuker.pdf)
-- [Protein crystallography and drug discovery: recollections of knowledge exchange between academia and industry](/static/pdf/courses/methods/2017_blundell.pdf)
-- [Scaffold-based design by X-ray](/static/pdf/courses/methods/2008_tsai.pdf), [PANDDA](/static/pdf/courses/methods/2017_pearce.pdf)
-- [EM for drug discovery](/static/pdf/courses/methods/2016_merk.pdf), [Proteasome example](/static/pdf/courses/methods/2017_morris.pdf)
-- [The maximal affinity of ligands](/static/pdf/courses/methods/1999_kuntz.pdf)
-- [The role of ligand efficiency metrics in drug discovery](/static/pdf/courses/methods/2014_hopkins.pdf)
+- [Integrative Structural Biology](http://cdn.fraserlab.com/courses/methods/2013_ward.pdf)
+- [SAR by NMR](http://cdn.fraserlab.com/courses/methods/1996_shuker.pdf)
+- [Protein crystallography and drug discovery: recollections of knowledge exchange between academia and industry](http://cdn.fraserlab.com/courses/methods/2017_blundell.pdf)
+- [Scaffold-based design by X-ray](http://cdn.fraserlab.com/courses/methods/2008_tsai.pdf), [PANDDA](http://cdn.fraserlab.com/courses/methods/2017_pearce.pdf)
+- [EM for drug discovery](http://cdn.fraserlab.com/courses/methods/2016_merk.pdf), [Proteasome example](http://cdn.fraserlab.com/courses/methods/2017_morris.pdf)
+- [The maximal affinity of ligands](http://cdn.fraserlab.com/courses/methods/1999_kuntz.pdf)
+- [The role of ligand efficiency metrics in drug discovery](http://cdn.fraserlab.com/courses/methods/2014_hopkins.pdf)
 - [Introduction to NMR](https://www.cis.rit.edu/htbooks/nmr/inside.htm)
 
 **Recommended background videos**
@@ -88,7 +88,7 @@ This is a team-based class where students work in small groups develop their own
 
 **Course Goals:**
 
-The goal of the course is to provide an immersive, hands-on experience in the context of genuine research questions. As articulated by [Vale and colleagues](/static/pdf/courses/methods/2012_vale.pdf), there are tremendous advantages when graduate students work "pursuing a research question with unknown answers and uncertain outcomes, students and faculty combine their wits and skills to design experiments, evaluate progress, and troubleshoot along the way". These advantages are likely to be common accross [all learning levels](http://blogs.kqed.org/mindshift/2014/09/can-project-based-learning-close-gaps-in-science-education/). In our course, teams may use whatever literature, software, and resources that are available publicly, and are encouraged to write their own scripts and software where necessary.
+The goal of the course is to provide an immersive, hands-on experience in the context of genuine research questions. As articulated by [Vale and colleagues](http://cdn.fraserlab.com/courses/methods/2012_vale.pdf), there are tremendous advantages when graduate students work "pursuing a research question with unknown answers and uncertain outcomes, students and faculty combine their wits and skills to design experiments, evaluate progress, and troubleshoot along the way". These advantages are likely to be common accross [all learning levels](http://blogs.kqed.org/mindshift/2014/09/can-project-based-learning-close-gaps-in-science-education/). In our course, teams may use whatever literature, software, and resources that are available publicly, and are encouraged to write their own scripts and software where necessary.
 
 This course will introduce students to approaches and methodologies for interrogating macromolecular structure and dynamics, which will require the integration of experiment and computation. In addition to fundamental techniques in X-ray crystallography, NMR and EM, students will learn to interpret datasets, draw original conclusions, and present findings in written and oral formats.
 
@@ -130,22 +130,22 @@ Program issued laptops and a 3 button mouse, or a two button mouse that emulates
 
 **Week 1 – Welcome**
 _Tues Nov 6_
-- 1:00-1:30 PM - [Intro to Macro Methods](/static/pdf/courses/methods/macro_methods_intro-18.pdf) (Gross)
+- 1:00-1:30 PM - [Intro to Macro Methods](http://cdn.fraserlab.com/courses/methods/macro_methods_intro-18.pdf) (Gross)
 - 1:30-2:30 PM - Why Hsp90 is cool (David Agard)
 
 Chalk Talks:
 - 2:30-2:45 PM - Break
 - 2:45-3:00 PM - Why Protein Structural Biology? (Gross)
 - 3:00-3:15 PM - Proteins Thermo/Kinetics 101 (Gross)
-- 3:15-4:00 PM - [FFT 101 (Palovcak)](/static/pdf/courses/methods/2018_palovcak_FFT.pdf)
+- 3:15-4:00 PM - [FFT 101 (Palovcak)](http://cdn.fraserlab.com/courses/methods/2018_palovcak_FFT.pdf)
 
 _Weds Nov 7_
 - 1:00-1:15 PM - X-ray 101 (Manglik)
 - 1:15-1:30 PM - EM 101 (Southworth)
 - 1:30-1:45 PM - NMR 101 (Gross)
 - 1:45-2:00 PM - Break
-- 2:00-3:00 PM - [Theory of Fragments and Role of Structural Biology](/static/pdf/courses/methods/2017_Manglik_Fragments.pdf) (Manglik)
-- 3:00-4:00 PM - [Working with the FFT in Python](/static/pdf/courses/methods/linear_fourier_filter_exercise.py) (Palovcak)
+- 2:00-3:00 PM - [Theory of Fragments and Role of Structural Biology](http://cdn.fraserlab.com/courses/methods/2017_Manglik_Fragments.pdf) (Manglik)
+- 3:00-4:00 PM - [Working with the FFT in Python](http://cdn.fraserlab.com/courses/methods/linear_fourier_filter_exercise.py) (Palovcak)
 
 **NOTE special meeting times for X-ray team**
 _Thurs Nov 8 and Fri Nov 9_
@@ -171,7 +171,7 @@ _NMR_
 - Tuesday Nov 13: 1-2 PM NMR sample loading (teaching lab, Group A and B); NMR data collection: 2-3:30 PM, Group A and 3:30-5 , Group B
 - Wednesday Nov 14: 1-5 PM NMR data collection (titration, Group A )
 - Thursday Nov 15: 1-5 PM NMR data collection (titration, Group B)
-- [500 MHz NMR quick start guide](/static/pdf/courses/methods/UCSF_500_Cheat_Sheet.pdf)
+- [500 MHz NMR quick start guide](http://cdn.fraserlab.com/courses/methods/UCSF_500_Cheat_Sheet.pdf)
 
 _EM_
 - EM Team A: Daniel Barrero, Dyana Kenanova, Hayarpi Torosyan, Lawrence Zhu
@@ -200,7 +200,7 @@ _Groups_
 
 _Mon Nov 19_
 - 10-11:15 AM: X-ray Methods Team Presentation and X-ray data processing: from spots to MTZ (Manglik, Saulo de Oliveira, Michael Thompson)
-  - [Slides about Crystal Symmetry](/static/pdf/courses/methods/2018_Symmetry.pdf)
+  - [Slides about Crystal Symmetry](http://cdn.fraserlab.com/courses/methods/2018_Symmetry.pdf)
   - [Box link to ADP images](https://ucsf.box.com/s/i85gxe5prx9z3ov5hdftqgy1skdevca7) - Download
     - [xia2 summary for APO](/static/apo/xia2.html)
       - [APO mtz](/static/apo/DataFiles/yHSP90_APO.mtz)
@@ -208,17 +208,17 @@ _Mon Nov 19_
       - [ADP mtz](/static/adp/DataFiles/yHSP90_ADP.mtz)
 - 11:15 AM-12 PM: X-ray data processing from MTZ to density, molecular replacement, difference maps (Manglik, Saulo de Oliveira, Michael Thompson)
 - 1:00-1:30 PM: X-ray Journal Club
-  - Aji Palar - [Free R value: a novel statistical quantity for assessing the accuracy of crystal structures](/static/pdf/courses/methods/1992_brunger.pdf)
-  - Lawrence Zhu - [MolProbity](/static/pdf/courses/methods/2010_chen.pdf)
+  - Aji Palar - [Free R value: a novel statistical quantity for assessing the accuracy of crystal structures](http://cdn.fraserlab.com/courses/methods/1992_brunger.pdf)
+  - Lawrence Zhu - [MolProbity](http://cdn.fraserlab.com/courses/methods/2010_chen.pdf)
 - 1:30-3:00 PM: X-ray data processing: identifying ligands, ligand restraints and refinement (Manglik, Saulo de Oliveira, Michael Thompson)
-- 3:00-5:00 PM: NMR Methods Team Presentation and NMR data processing: : [from FID to 2D](/static/pdf/courses/methods/2DNMR_Processing_Tutorial.pdf) (Ryan Tibble and John Gross)
+- 3:00-5:00 PM: NMR Methods Team Presentation and NMR data processing: : [from FID to 2D](http://cdn.fraserlab.com/courses/methods/2DNMR_Processing_Tutorial.pdf) (Ryan Tibble and John Gross)
 
 _Tues Nov 20_
 - 10-10:30 AM NMR Journal Club
-  - Maria Garza - [Asymmetric activation of the hsp90 dimer by its cochaperone aha1.](/static/pdf/courses/methods/2010_retzlaff.pdf)
-    - Background: [Localization of the NADPH binding site on MurB by NMR](/static/pdf/courses/methods/1996_farmer.pdf)
+  - Maria Garza - [Asymmetric activation of the hsp90 dimer by its cochaperone aha1.](http://cdn.fraserlab.com/courses/methods/2010_retzlaff.pdf)
+    - Background: [Localization of the NADPH binding site on MurB by NMR](http://cdn.fraserlab.com/courses/methods/1996_farmer.pdf)
 - 10:30 AM-12 PM NMR Journal Club, NMR data processing: measuring chemical shift perturbations (Ryan Tibble and John Gross)
-  - [Intro to Sparky](/static/pdf/courses/methods/Sparky_tutorial.pdf)
+  - [Intro to Sparky](http://cdn.fraserlab.com/courses/methods/Sparky_tutorial.pdf)
   - Compound Assignments (23=APO, 24=APO+DMSO):
     - 1: 1, 6, 8, 13
     - 2: 2,7, 10, 14,15
@@ -237,24 +237,24 @@ _Tues Nov 20_
 **Week 4 - NMR**
 _Mon Nov 26_
 - Journal Club:
-  - Jack Strickland - [Substrate binding drives large-scale conformational changes in the Hsp90 molecular chaperone.](/static/pdf/courses/methods/2011_street.pdf)
-- 1-2:30 PM [Lecture by John Gross on fundamentals of NMR theory to HSQC](/static/pdf/courses/methods/2017_Gross_NMR.pdf)
-- 2:30-5 PM work on analyzing NMR titration data to determine Kd (Ryan Tibble and John Gross), [Common Sparky Commands](/static/pdf/courses/methods/Sparky_common_cmds.pdf) and [Sparky Integration Tutorial](/static/pdf/courses/methods/Sparky_Integration.pdf)
-- Supplemental reading: [How does an HSQC work?](/static/pdf/courses/methods/HSQC-Guided-tour.pdf)
+  - Jack Strickland - [Substrate binding drives large-scale conformational changes in the Hsp90 molecular chaperone.](http://cdn.fraserlab.com/courses/methods/2011_street.pdf)
+- 1-2:30 PM [Lecture by John Gross on fundamentals of NMR theory to HSQC](http://cdn.fraserlab.com/courses/methods/2017_Gross_NMR.pdf)
+- 2:30-5 PM work on analyzing NMR titration data to determine Kd (Ryan Tibble and John Gross), [Common Sparky Commands](http://cdn.fraserlab.com/courses/methods/Sparky_common_cmds.pdf) and [Sparky Integration Tutorial](http://cdn.fraserlab.com/courses/methods/Sparky_Integration.pdf)
+- Supplemental reading: [How does an HSQC work?](http://cdn.fraserlab.com/courses/methods/HSQC-Guided-tour.pdf)
 
 _Tues Nov 27_
 - 1-2:30 PM Lecture by John Gross on detecting protein-ligand interactions by NMR.
-- 2:30-5 PM work on generating chemical shift perturbation plot versus primary sequence; mapping onto structure, [CSPs from Sparky Lists](/static/pdf/courses/methods/Sparky_CSP.py)
+- 2:30-5 PM work on generating chemical shift perturbation plot versus primary sequence; mapping onto structure, [CSPs from Sparky Lists](http://cdn.fraserlab.com/courses/methods/Sparky_CSP.py)
 
 _Weds Nov 28_
 - Journal Club:
-  - Katarina Pance - [Mechanistic basis for the recognition of a misfolded protein by the molecular chaperone Hsp90.](/static/pdf/courses/methods/2017_oroz.pdf)
-  - Christina Stephens - [Weak alignment NMR: a hawk-eyed view of biomolecular structure](/static/pdf/courses/methods/2005_bax.pdf)
-    - Background: [Direct measurement of distances and angles in biomolecules by NMR dilute liquid crystalline medium](/static/pdf/courses/methods/1997_tjandra.pdf)
+  - Katarina Pance - [Mechanistic basis for the recognition of a misfolded protein by the molecular chaperone Hsp90.](http://cdn.fraserlab.com/courses/methods/2017_oroz.pdf)
+  - Christina Stephens - [Weak alignment NMR: a hawk-eyed view of biomolecular structure](http://cdn.fraserlab.com/courses/methods/2005_bax.pdf)
+    - Background: [Direct measurement of distances and angles in biomolecules by NMR dilute liquid crystalline medium](http://cdn.fraserlab.com/courses/methods/1997_tjandra.pdf)
 - 1-2:30 PM Lecture by John Gross on dynamic NMR spectroscopy (Ryan Tibble and John Gross)
 - 2:30-5 PM mapping NMR shift perturbations onto structure using Chimera (John Gross, Ryan Tibble, Tom Goddard)
 - [ChimeraX tutorial by Tom Goddard](http://www.cgl.ucsf.edu/chimera/data/nmrcolor-nov2017/nmrcolor.html)
-- [NMR Screen Compound Structure Gallery](/static/pdf/courses/methods/Macro_NMR_Screen_Cmpd_Structures.pdf)
+- [NMR Screen Compound Structure Gallery](http://cdn.fraserlab.com/courses/methods/Macro_NMR_Screen_Cmpd_Structures.pdf)
 
 **Week 5 - X-ray**
 - Compound Data Processing Logs, MTZs, CIFs, PDBs:
@@ -268,47 +268,47 @@ _Weds Nov 28_
 - [Some advice on how to proceed](https://docs.google.com/document/d/1eQfOtSrB2gyF1BJQYWLI-mSoYsENyg4xP8Fsi5ZqsfM/edit?usp=sharing)
 
 _Mon Dec 3_
-- 1-2:30 PM [Lecture by Bob Stroud on fundamentals of X-ray diffraction](/static/pdf/courses/methods/2017_Stroud_Fundamentals.pdf)
+- 1-2:30 PM [Lecture by Bob Stroud on fundamentals of X-ray diffraction](http://cdn.fraserlab.com/courses/methods/2017_Stroud_Fundamentals.pdf)
 - 2:30-5 PM Work on X-ray data (Aashish Manglik, Saulo de Oliveira, Michael Thompson)
 - 4 PM Journal Club:
-  - Nicholas Hoppe - [High-Throughput Crystallography: Reliable and Efficient Identification of Fragment Hits](/static/pdf/courses/methods/2016_schiebel.pdf)
+  - Nicholas Hoppe - [High-Throughput Crystallography: Reliable and Efficient Identification of Fragment Hits](http://cdn.fraserlab.com/courses/methods/2016_schiebel.pdf)
 
 _Tues Dec 4_
-- 1-2:30 PM [Lecture by Bob Stroud on relationship between data quality and model interpretation](/static/pdf/courses/methods/2017_holton.pdf)
+- 1-2:30 PM [Lecture by Bob Stroud on relationship between data quality and model interpretation](http://cdn.fraserlab.com/courses/methods/2017_holton.pdf)
 - 2:30-5 PM Work on X-ray data (Manglik, Saulo de Oliveira, Michael Thompson)
 - 4 PM Journal Club:
-  - Matthew Callahan - [Protein conformational flexibility modulates kinetics and thermodynamics of drug binding.](/static/pdf/courses/methods/2017_amaral.pdf)
-  - Sarah Williams - [Modelling dynamics in protein crystal structures by ensemble refinement.](/static/pdf/courses/methods/2012_burnley.pdf)
+  - Matthew Callahan - [Protein conformational flexibility modulates kinetics and thermodynamics of drug binding.](http://cdn.fraserlab.com/courses/methods/2017_amaral.pdf)
+  - Sarah Williams - [Modelling dynamics in protein crystal structures by ensemble refinement.](http://cdn.fraserlab.com/courses/methods/2012_burnley.pdf)
 
 _Weds Dec 5_
 - 1-2 PM Presentation by Sali on Rigor and Reproducibility
 - 2:30-4 PM Final work on X-ray data (Manglik, Saulo de Oliveira, Michael Thompson)
 - 4 PM Journal Club:
-  - Julian Braxton - [Why protein crystals favour some space-groups over others.](/static/pdf/courses/methods/1995_wukovitz.pdf)
-  - Mathew Klope - [Symmetry broken and rebroken during the ATP hydrolysis cycle of the mitochondrial Hsp90 TRAP1.](/static/pdf/courses/methods/2017_elnatan.pdf)
+  - Julian Braxton - [Why protein crystals favour some space-groups over others.](http://cdn.fraserlab.com/courses/methods/1995_wukovitz.pdf)
+  - Mathew Klope - [Symmetry broken and rebroken during the ATP hydrolysis cycle of the mitochondrial Hsp90 TRAP1.](http://cdn.fraserlab.com/courses/methods/2017_elnatan.pdf)
 - 4-5 PM Final Q/A with Stroud and Fraser: what we still don't understand about X-ray crystallography
 
 **Week 6 - EM**
 _Mon Dec 10_
-- 1-2:30 PM [Lecture by Yifan Cheng](/static/pdf/courses/methods/2017_Yifan_Frost.pdf)
+- 1-2:30 PM [Lecture by Yifan Cheng](http://cdn.fraserlab.com/courses/methods/2017_Yifan_Frost.pdf)
 - 2:30-4 PM Work on [EM data](https://ucsf.box.com/s/5miwi4zdzuxagx0b9x6mekkaby9v3gh1)
 - 4 PM Journal Club:
-  - Daniel Barrero - [Prevention of overfitting in cryo-EM structure determination.](/static/pdf/courses/methods/2012_scheres.pdf)
-    - Background: [Optimal Determination of Particle Orientation, Absolute Hand, and Contrast Loss in Single-particle Electron Cryomicroscopy](/static/pdf/courses/methods/2003_rosenthal.pdf)
+  - Daniel Barrero - [Prevention of overfitting in cryo-EM structure determination.](http://cdn.fraserlab.com/courses/methods/2012_scheres.pdf)
+    - Background: [Optimal Determination of Particle Orientation, Absolute Hand, and Contrast Loss in Single-particle Electron Cryomicroscopy](http://cdn.fraserlab.com/courses/methods/2003_rosenthal.pdf)
 - [ChimeraX EM tutorial by Tom Goddard](http://www.cgl.ucsf.edu/chimera/data/hsp90-em-dec2017/hsp90em.html)
 - [ChimeraX Ligand Comparison tutorial by Tom Goddard](http://www.cgl.ucsf.edu/chimera/data/hsp90-ligands-dec2017/ligandview.html)
 
 _Tues Dec 11_
-- 1-2:30 PM [Lecture by Yifan Cheng](/static/pdf/courses/methods/2017_Yifan_Frost.pdf)
+- 1-2:30 PM [Lecture by Yifan Cheng](http://cdn.fraserlab.com/courses/methods/2017_Yifan_Frost.pdf)
 - 4 PM Journal Club:
-  - Quinn Edmonson - [Glucocorticoid receptor function regulated by coordinated action of the Hsp90 and Hsp70 chaperone cycles](/static/pdf/courses/methods/2014_kirschke.pdf)
-  - Holly Vickery - [Visualization of ligand-induced transmembrane signalling in the full-length human insulin receptor](/static/pdf/courses/methods/2018_gutmann.pdf)
+  - Quinn Edmonson - [Glucocorticoid receptor function regulated by coordinated action of the Hsp90 and Hsp70 chaperone cycles](http://cdn.fraserlab.com/courses/methods/2014_kirschke.pdf)
+  - Holly Vickery - [Visualization of ligand-induced transmembrane signalling in the full-length human insulin receptor](http://cdn.fraserlab.com/courses/methods/2018_gutmann.pdf)
 - 2:30-5 PM Work on projection matching with Eugene/Daniel
 
 _Weds Dec 12_
-- 1-2 PM [Lecture by Yifan Cheng](/static/pdf/courses/methods/2017_Yifan_Frost.pdf)
+- 1-2 PM [Lecture by Yifan Cheng](http://cdn.fraserlab.com/courses/methods/2017_Yifan_Frost.pdf)
 - 4 PM Journal Club:
-  - Dyana Kenanova - [Ratchet-like polypeptide translocation mechanism of the AAA+ disaggregase Hsp104.](/static/pdf/courses/methods/2017_gates.pdf)
+  - Dyana Kenanova - [Ratchet-like polypeptide translocation mechanism of the AAA+ disaggregase Hsp104.](http://cdn.fraserlab.com/courses/methods/2017_gates.pdf)
 - 2:30-5 PM Finalize work on all projects!
 
 **FINAL PRESENTATIONS: Mon Dec 17**

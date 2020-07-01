@@ -6,7 +6,7 @@ image: '/static/img/pub/2020_broom_rakotoharisoa.jpg'
 # pmid:
 # pmcid:
 biorxiv: '2020.03.19.999235'
-pdf: '/static/pdf/publications/2020_broom_rakotoharisoa.pdf'
+pdf: 'http://cdn.fraserlab.com/publications/2020_broom_rakotoharisoa.pdf'
 links:
 - name: Chica lab @ University of Ottawa
   url: https://mysite.science.uottawa.ca/rchica/

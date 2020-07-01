@@ -7,7 +7,7 @@ image: '/static/img/pub/2019_eshun-wilson.jpg'
 pmid: '31072936'
 pmcid: 'PMC6535015'
 biorxiv: '516591'
-pdf: '/static/pdf/publications/2019_eshun-wilson.pdf'
+pdf: 'http://cdn.fraserlab.com/publications/2019_eshun-wilson.pdf'
 paired_maps_and_models:
 - pdb: 6O2Q
   emdb: '0612'
