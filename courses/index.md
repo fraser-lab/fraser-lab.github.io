@@ -19,13 +19,13 @@ Fluency in multiple biophysical methods is often critical for answering mechanis
 
 
 ## Biophysics 205A: Physical Underpinnings of Biological Systems (PUBS)
-The PUBS course is a hands-on, project-based course that integrates proteomics, deep mutational profiling [Fowler and Fields, 2014](/static/pdf/courses/pubs/2014_fowler.pdf), and computational biology.
+The PUBS course is a hands-on, project-based course that integrates proteomics, deep mutational profiling [Fowler and Fields, 2014](http://cdn.fraserlab.com/courses/pubs/2014_fowler.pdf), and computational biology.
 - [PUBS 2014](/courses/pubs/pubs_2014/)
-  - [Paper in eLife](/static/pdf/publications/2016_mavor.pdf)
+  - [Paper in eLife](http://cdn.fraserlab.com/publications/2016_mavor.pdf)
   - [eLIFEdigest: Yeast in a class of their own](https://medium.com/lifes-building-blocks/yeast-in-a-class-of-their-own-4dabb27653eb#.tcf71ly8z)
 - [PUBS 2015](/courses/pubs/pubs_2015/)
 - [PUBS 2016](http://kampmannlab.ucsf.edu/pubs-2016)
-  - [Paper in Biology Open](/static/pdf/publications/2018_mavor.pdf)
+  - [Paper in Biology Open](http://cdn.fraserlab.com/publications/2018_mavor.pdf)
 
 PUBS is now run by Martin Kampmann and examines alpha synuclein!
 - [PUBS 2017](https://kampmannlab.ucsf.edu/pubs-2017)

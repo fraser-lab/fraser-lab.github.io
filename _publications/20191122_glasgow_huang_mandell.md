@@ -8,7 +8,7 @@ image: '/static/img/pub/2019_glasgow_huang_mandell.jpg'
 pmid: '31754004'
 # pmcid:
 biorxiv: '648485'
-pdf: '/static/pdf/publications/2019_glasgow_huang_mandell.pdf'
+pdf: 'http://cdn.fraserlab.com/publications/2019_glasgow_huang_mandell.pdf'
 pdbs:
 - 6OB5
 links:

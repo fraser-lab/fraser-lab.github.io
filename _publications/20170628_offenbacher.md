@@ -7,7 +7,7 @@ date: '2017-06-28'
 image: '/static/img/pub/2017_offenbacher.jpg'
 pmid: '28691068'
 pmcid: 'PMC5492416'
-pdf: '/static/pdf/publications/2017_offenbacher.pdf'
+pdf: 'http://cdn.fraserlab.com/publications/2017_offenbacher.pdf'
 pdbs:
 - 5TQO
 - 5TQP

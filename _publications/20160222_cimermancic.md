@@ -7,7 +7,7 @@ date: '2016-02-22'
 image: '/static/img/pub/2016_cimermancic.jpg'
 pmid: '26854760'
 pmcid: 'PMC4794384'
-pdf: '/static/pdf/publications/2016_cimermancic.pdf'
+pdf: 'http://cdn.fraserlab.com/publications/2016_cimermancic.pdf'
 links:
 - name: CryptoSite
   url: https://modbase.compbio.ucsf.edu/cryptosite/

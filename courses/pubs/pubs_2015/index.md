@@ -63,7 +63,7 @@ Ultimately, the goal is the synthesis of predictive models that can reveal funda
 
 **Course Description:**
 
-The course is a hands-on, project-based course that integrates proteomics, deep mutational profiling [Fowler and Fields, _Nature Methods_, 2014](/static/pdf/courses/pubs/2014_fowler.pdf), and computational biology. The model organism, _Saccharomyces cerevisiae_, will be used as the organismal basis. Our goals are to experimentally determine the kinases responsible for phosphorylating ubiquitin and to measure the fitness of all possible individual point mutants of ubiquitin. Ubiquitin is an essential protein that is a key cellular integrator of stress, under a variety of experimental perturbations. The library of these point mutants was assembled by [Dan Bolon](http://profiles.umassmed.edu/profiles/display/133553) and verified during a summer visit to the Fraser lab. The course is organized around modules, described below. Each hands-on module will be accompanied by lectures (either "chalk talk" or with slides). Students will present short talks to the class covering the assigned protocols or summarizing literature related to the class.   In addition students are expected to conduct their own literature reviews during the course of the project. Students will work in small teams, and each team will be assigned a different set of kinases for initial analysis. Based on the results, the teams will design a perturbation experiment for deep sequencing.  Students are expected to remain in their teams for the duration of the course, although team-team collaboration is highly encouraged. All team members are expected to participate in each activity.
+The course is a hands-on, project-based course that integrates proteomics, deep mutational profiling [Fowler and Fields, _Nature Methods_, 2014](http://cdn.fraserlab.com/courses/pubs/2014_fowler.pdf), and computational biology. The model organism, _Saccharomyces cerevisiae_, will be used as the organismal basis. Our goals are to experimentally determine the kinases responsible for phosphorylating ubiquitin and to measure the fitness of all possible individual point mutants of ubiquitin. Ubiquitin is an essential protein that is a key cellular integrator of stress, under a variety of experimental perturbations. The library of these point mutants was assembled by [Dan Bolon](http://profiles.umassmed.edu/profiles/display/133553) and verified during a summer visit to the Fraser lab. The course is organized around modules, described below. Each hands-on module will be accompanied by lectures (either "chalk talk" or with slides). Students will present short talks to the class covering the assigned protocols or summarizing literature related to the class.   In addition students are expected to conduct their own literature reviews during the course of the project. Students will work in small teams, and each team will be assigned a different set of kinases for initial analysis. Based on the results, the teams will design a perturbation experiment for deep sequencing.  Students are expected to remain in their teams for the duration of the course, although team-team collaboration is highly encouraged. All team members are expected to participate in each activity.
 
 At the conclusion of the mass spec module and at the end of the class, each team will orally present their findings to the class and faculty, limited to 15 minutes and 15 slides maximum, with 10 minutes for discussion and questions. All members of the team are expected to speak and describe their contributions. These presentations are currently scheduled for Oct 12th and Nov 24th, the final day of class.
 
@@ -71,7 +71,7 @@ Activities and speakers for each week will be announced at the beginning of each
 
 **Course Goals:**
 
-The goal of the course is to provide an immersive, hands-on experience in the context of genuine research questions. As articulated by [Vale and colleagues](/static/pdf/courses/methods/2012_vale.pdf), there are tremendous advantages when graduate students work "pursuing a research question with unknown answers and uncertain outcomes, students and faculty combine their wits and skills to design experiments, evaluate progress, and troubleshoot along the way". These advantages are likely to be common accross [all learning levels](http://blogs.kqed.org/mindshift/2014/09/can-project-based-learning-close-gaps-in-science-education/). In our course, teams may use whatever literature, software, and resources that are available publicly, and are encouraged to write their own scripts and software where necessary.
+The goal of the course is to provide an immersive, hands-on experience in the context of genuine research questions. As articulated by [Vale and colleagues](http://cdn.fraserlab.com/courses/methods/2012_vale.pdf), there are tremendous advantages when graduate students work "pursuing a research question with unknown answers and uncertain outcomes, students and faculty combine their wits and skills to design experiments, evaluate progress, and troubleshoot along the way". These advantages are likely to be common accross [all learning levels](http://blogs.kqed.org/mindshift/2014/09/can-project-based-learning-close-gaps-in-science-education/). In our course, teams may use whatever literature, software, and resources that are available publicly, and are encouraged to write their own scripts and software where necessary.
 
 The "official" language of the class is [python](https://www.python.org) - beginners should try [Learn Python The Hard Way](http://learnpythonthehardway.org/book/), people with a background in other languages should try [Google's python course](https://developers.google.com/edu/python/). The QB3 Berkeley [intensive python course](http://intro-prog-bioinfo-2014.wikispaces.com/) provides many biological examples.
 
@@ -125,9 +125,9 @@ Lecturers: James Fraser (9/22), Joe DeRisi (9/22), Danielle Swaney (9/23)
 Student Presentations: Yuliya (Transformation Lecture, 9/23)
 
 Recommended reading:
-- [Deep Mutational Scanning: A New Style of Protein Science. Fowler and Fields, 2014](/static/pdf/courses/pubs/2014_fowler.pdf)
-- [The Ubiquitin-Proteasome System of Saccharomyces Cerevisiae. Finley et al., 2012](/static/pdf/courses/pubs/2012_finley.pdf)
-- [Expanding the Ubiquitin Code Through Post-Translational Modification. Herhaus and Dikic, 2015](/static/pdf/courses/pubs/2015_herhaus.pdf)
+- [Deep Mutational Scanning: A New Style of Protein Science. Fowler and Fields, 2014](http://cdn.fraserlab.com/courses/pubs/2014_fowler.pdf)
+- [The Ubiquitin-Proteasome System of Saccharomyces Cerevisiae. Finley et al., 2012](http://cdn.fraserlab.com/courses/pubs/2012_finley.pdf)
+- [Expanding the Ubiquitin Code Through Post-Translational Modification. Herhaus and Dikic, 2015](http://cdn.fraserlab.com/courses/pubs/2015_herhaus.pdf)
 
 Files for Computation:
 
@@ -138,9 +138,9 @@ Files for Computation:
 Other Class Material:
 
 - [Information about the server](/courses/pubs/pubs_2015/server/)
-- [Introduction Lecture by James Fraser](/static/pdf/courses/pubs/2015_Fraser_Intro.pdf)
-- [PDF of Lecture 2](/static/pdf/courses/pubs/2015_Fraser_PhosphoUb.pdf)
-- [Fred Sherman's "Getting started with Yeast"](/static/pdf/courses/pubs/2002_sherman.pdf)
+- [Introduction Lecture by James Fraser](http://cdn.fraserlab.com/courses/pubs/2015_Fraser_Intro.pdf)
+- [PDF of Lecture 2](http://cdn.fraserlab.com/courses/pubs/2015_Fraser_PhosphoUb.pdf)
+- [Fred Sherman's "Getting started with Yeast"](http://cdn.fraserlab.com/courses/pubs/2002_sherman.pdf)
 - [Transformation Protocol](https://docs.google.com/document/d/1-6-rbLosBYkAZI4EOcmwP8C2wDNiLE4OWvXjNS0Yfko/edit?usp=sharing)
 
 Chemical menu:
@@ -171,7 +171,7 @@ Chemical menu:
 _Lab work: Biochemical enrichment of phosphopeptides_
 Lecturers: Hiten Madhani (9/29)
 
-Student Presentations: Sergei (Lab work outline, 9/28), Ryan  (Journal Club on [Ubiquitin Ser65 Phosphorylation Affects Ubiquitin Structure, Chain Assembly and Hydrolysis. Wauer et al, 2015](/static/pdf/courses/pubs/2015_wauer.pdf), 9/28), Fatmia (Lab work outline, 9/29), Alex (Lab work outline, 9/30), Nathan (Journal Club on [A Proteomics Approach to Understanding Protein Ubiquitination. Peng et al., 2003](/static/pdf/courses/pubs/2003_peng.pdf), 9/30)
+Student Presentations: Sergei (Lab work outline, 9/28), Ryan  (Journal Club on [Ubiquitin Ser65 Phosphorylation Affects Ubiquitin Structure, Chain Assembly and Hydrolysis. Wauer et al, 2015](http://cdn.fraserlab.com/courses/pubs/2015_wauer.pdf), 9/28), Fatmia (Lab work outline, 9/29), Alex (Lab work outline, 9/30), Nathan (Journal Club on [A Proteomics Approach to Understanding Protein Ubiquitination. Peng et al., 2003](http://cdn.fraserlab.com/courses/pubs/2003_peng.pdf), 9/30)
 
 Other Class Material:
 - [Lysis-Tryptic Digest protocol (9/28), Stop digest-lyophylize protocol (9/29), IMAC-lyophylize protocl (9/30](https://docs.google.com/document/d/1nmJMwx4d_977X4B_ne_sYiEVDjww12Xr73znOkMZv1Y/edit?usp=sharing)
@@ -180,7 +180,7 @@ Other Class Material:
 _Lab work: Growth rate measurements_
 Lecturers:  David Mavor (10/5), David Morgan (10/6), Martin Kampmann (10/7)
 
-Student Presentations: Emily (Drug Concentration protocol, 10/5), 1 representative per team: Rachel, Pooja, Tamas, Nick, Derek, Charlotte (Growth Rate analysis, 10/7), Daniel (Journal Club on [The Chemical Genomic Portrait of Yeast: Uncovering a Phenotype for All Genes. Hillenmeyer et al, 2009](/static/pdf/courses/pubs/2009_hillenmeyer.pdf), 10/7)
+Student Presentations: Emily (Drug Concentration protocol, 10/5), 1 representative per team: Rachel, Pooja, Tamas, Nick, Derek, Charlotte (Growth Rate analysis, 10/7), Daniel (Journal Club on [The Chemical Genomic Portrait of Yeast: Uncovering a Phenotype for All Genes. Hillenmeyer et al, 2009](http://cdn.fraserlab.com/courses/pubs/2009_hillenmeyer.pdf), 10/7)
 
 Other Class Material:
 - [Drug Concentration Protocol](https://docs.google.com/document/d/12Az3DGJlL4jZ2Rx5Y-xOM5y-EFrUIxhF5lf0DuWwiFE/edit?usp=sharing)
@@ -190,8 +190,8 @@ Other Class Material:
 _Lab work: Analyze mass spec data_
 
 Recommended reading:
-- [MaxQuant software. Cox and Mann, 2008](/static/pdf/courses/pubs/2008_cox.pdf)
-- [Quantitative Maps of Protein Phosphorylation Sites Across 14 Different Rat Organs and Tissues. Lundby et al, 2012](/static/pdf/courses/pubs/2012_lundby.pdf)
+- [MaxQuant software. Cox and Mann, 2008](http://cdn.fraserlab.com/courses/pubs/2008_cox.pdf)
+- [Quantitative Maps of Protein Phosphorylation Sites Across 14 Different Rat Organs and Tissues. Lundby et al, 2012](http://cdn.fraserlab.com/courses/pubs/2012_lundby.pdf)
 
 Lecturers: Danielle Swaney (10/12), Jason Gestwicki (10/13), Eric Chow (10/14)
 
@@ -202,7 +202,7 @@ Other Class Material:
 - [Sample Table Guide](https://drive.google.com/file/d/0Bx0d95RwVYufcjFZTnZTQTN1X0U/view?usp=sharing)
 - [Sample Protein Groups](https://drive.google.com/file/d/0Bx0d95RwVYufbDhOM1RzSWkyTjQ/view?usp=sharing)
 - [Sample Phosphosites](https://drive.google.com/file/d/0Bx0d95RwVYufSjF4Z01uZnNIMWc/view?usp=sharing)
-- [Lecture by Danielle Swaney](/static/pdf/courses/pubs/2015_Swaney_MS_DataAnalysis.pdf)
+- [Lecture by Danielle Swaney](http://cdn.fraserlab.com/courses/pubs/2015_Swaney_MS_DataAnalysis.pdf)
 - [Notes on Lecture by Jason Gestwicki (Thanks Sergei!](https://drive.google.com/folderview?id=0B89bAF4_3DdIbzd1V1JxWkxKTGs&usp=sharing)
 
 The real data:
@@ -211,7 +211,7 @@ The real data:
 **Week 5 – Theme: Growth Competitions**
 _Lab work: Harvest library of all Ubiquitin mutants_
 Lecturers:
-Student Presentations: All students (Mass spec presentation, 10/19), Nadja (Library collection growth protocol, 10/19), Douglas (Journal Club on [Analyses of the Effects of All Ubiquitin Point Mutants on Yeast Growth Rate. Roscoe et al., 2013](/static/pdf/courses/pubs/2013_roscoe.pdf), 10/20), Cole (Journal Club on [Systematic Exploration of Ubiquitin Sequence, E1 Activation Efficiency, and Experimental Fitness in Yeast. Roscoe et al, 2014](/static/pdf/courses/pubs/2014_roscoe.pdf), 10/21)
+Student Presentations: All students (Mass spec presentation, 10/19), Nadja (Library collection growth protocol, 10/19), Douglas (Journal Club on [Analyses of the Effects of All Ubiquitin Point Mutants on Yeast Growth Rate. Roscoe et al., 2013](http://cdn.fraserlab.com/courses/pubs/2013_roscoe.pdf), 10/20), Cole (Journal Club on [Systematic Exploration of Ubiquitin Sequence, E1 Activation Efficiency, and Experimental Fitness in Yeast. Roscoe et al, 2014](http://cdn.fraserlab.com/courses/pubs/2014_roscoe.pdf), 10/21)
 
 Other Class Material:
 - [Protocol for library growth](https://docs.google.com/document/d/1OIC1oyDUla72RJlt5a6kquhzMdSC1IuGUyPyztDxddc/edit?usp=sharing)
@@ -239,10 +239,10 @@ Other Class Material:
 _Lab work: Begin sequencing pipeline_
 Lecturers: Eric Chow (11/2), Joe DeRisi (11/2), Ina Chen+TAs (11/2), Ryan Hernandez (11/3), Bo Huang (11/4)
 
-Student Presentations: Charlotte (Journal Club on [The Spatial Architecture of Protein Function and Adaptation. McLaughlin Jr et al., 2012](/static/pdf/courses/pubs/2012_mclaughlin.pdf), 11/3)
+Student Presentations: Charlotte (Journal Club on [The Spatial Architecture of Protein Function and Adaptation. McLaughlin Jr et al., 2012](http://cdn.fraserlab.com/courses/pubs/2012_mclaughlin.pdf), 11/3)
 
 Other Class Material:
-- [Lecture by Ryan Hernandez](/static/pdf/courses/pubs/2015_Hernandez_Evolution.pdf)
+- [Lecture by Ryan Hernandez](http://cdn.fraserlab.com/courses/pubs/2015_Hernandez_Evolution.pdf)
 - [Ina's Unix101](https://drive.google.com/file/d/0B89bAF4_3DdIUzlUMHhmU1pQRkk/view?usp=sharing)
 - [Command line Refresher](https://external-production.codecademy.com/en/courses/learn-the-command-line/lessons/navigation/exercises/your-first-command?action=resume)
 - [Computation Refresher](https://docs.google.com/presentation/d/1GMJg5oZIrMgenp6726jASmwLrbFJkYwlJRf7B8nM9g8/edit?usp=sharing)
@@ -259,7 +259,7 @@ Other Class Material:
 _Lab work: Unify sequencing pipeline_
 Lecturers: Kyle Barlow and Justin Biel (11/10)
 
-Student Presentations: Team 1 minute update: What does the signal look like, what is failing, what do you think you guys have done that is different/innovative/working better than anything? (Sergei, Nat, Fatima, Yuliya, Ryan, Alex) (11/9), Derek (Journal Club on [Amino Acid Coevolution Induces an Evolutionary Stokes Shift. Pollock et al., 2012](/static/pdf/courses/pubs/2012_pollock.pdf), moved from 11/4 to 11/9) Nick (Journal Club on [Lange et al, 2008](/static/pdf/courses/pubs/2008_lange.pdf), 11/10)
+Student Presentations: Team 1 minute update: What does the signal look like, what is failing, what do you think you guys have done that is different/innovative/working better than anything? (Sergei, Nat, Fatima, Yuliya, Ryan, Alex) (11/9), Derek (Journal Club on [Amino Acid Coevolution Induces an Evolutionary Stokes Shift. Pollock et al., 2012](http://cdn.fraserlab.com/courses/pubs/2012_pollock.pdf), moved from 11/4 to 11/9) Nick (Journal Club on [Lange et al, 2008](http://cdn.fraserlab.com/courses/pubs/2008_lange.pdf), 11/10)
 
 Sub-groups:
 - Biological inference (Bruk)
@@ -271,7 +271,7 @@ Sub-groups:
 
 Other Class Material:
 - [Hamming Distance](http://en.wikipedia.org/wiki/Hamming_distance)
-- [Lecture by Kyle Barlow](/static/pdf/courses/pubs/2015_Barlow_ProteinStability.pdf)
+- [Lecture by Kyle Barlow](http://cdn.fraserlab.com/courses/pubs/2015_Barlow_ProteinStability.pdf)
 - [Justin's Pymol Demo](https://drive.google.com/folderview?id=0B89bAF4_3DdId0FjdG1yb1pRbWc&usp=sharing)
 
 - Reminder: no class on Nov 11
@@ -281,7 +281,7 @@ Other Class Material:
 _Lab work: Rosetta predictions of protein stability_
 Lecturers: Tanja Kortemme (11/16)
 
-Student Presentations: Daniel, Emily, Paul and other representatives from Sub-groups (10/16), Ruilin (Journal Club on [Ye et al, 2012](/static/pdf/courses/pubs/2012_ye.pdf), 10/17), Peter (Journal Club on [Humphris et al, 2007](/static/pdf/courses/pubs/2007_humphris.pdf), 10/18)
+Student Presentations: Daniel, Emily, Paul and other representatives from Sub-groups (10/16), Ruilin (Journal Club on [Ye et al, 2012](http://cdn.fraserlab.com/courses/pubs/2012_ye.pdf), 10/17), Peter (Journal Club on [Humphris et al, 2007](http://cdn.fraserlab.com/courses/pubs/2007_humphris.pdf), 10/18)
 
 Other Class Material:
 - APUBSCRAWL: K6 linked poly-Ub - 2XK5

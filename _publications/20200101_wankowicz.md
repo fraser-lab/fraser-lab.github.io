@@ -6,7 +6,7 @@ image: '/static/img/pub/2020_wankowicz.png'
 # pmid: '########'
 # pmcid: 'PMC#######'
 # biorxiv: 'YYYY.MM.DD.######'
-pdf: '/static/pdf/publications/2020_wankowicz.pdf'
+pdf: 'http://cdn.fraserlab.com/publications/2020_wankowicz.pdf'
 links:
 - name: PHENIX
   url: https://www.phenix-online.org

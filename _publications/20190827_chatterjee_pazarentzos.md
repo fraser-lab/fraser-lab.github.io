@@ -9,7 +9,7 @@ image: '/static/img/pub/2019_chatterjee_pazarentzos.jpg'
 pmid: '31461649'
 pmcid: 'PMC6728083'
 biorxiv: '441295'
-pdf: '/static/pdf/publications/2019_chatterjee_pazarentzos.pdf'
+pdf: 'http://cdn.fraserlab.com/publications/2019_chatterjee_pazarentzos.pdf'
 links:
 - name: Bivona lab @ UC San Francisco
   url: https://www.bivonalab.net/

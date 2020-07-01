@@ -62,7 +62,7 @@ Ultimately, the goal is the synthesis of predictive models that can reveal funda
 
 **Course Description:**
 
-The course is a hands-on, project-based course that integrates deep mutational profiling [Fowler and Fields, _Nature Methods_, 2014](/static/pdf/courses/pubs/2014_fowler.pdf), automated microscopy, and computational biology. The model organism, _Saccharomyces cerevisiae_, will be used as the organismal basis. Our goal is to experimentally determine the fitness of all possible individual point mutants of ubiquitin, an essential protein that is a key cellular integrator of stress, under a variety of experimental perturbations. The library of these point mutants was assembled by [Dan Bolon](http://profiles.umassmed.edu/profiles/display/133553) and verified during a summer visit to the Fraser lab. The course is organized around three modules, described below. Each hands-on module will be accompanied by lectures (either "chalk talk" or with slides). The course director and/or each lecturer will assign research papers, literature reviews, or other reading material in advance. In addition students are expected to conduct their own literature reviews during the course of the project. Students will work in small teams, and each team will be assigned a different perturbation for initial analysis. Students are expected to remain in their teams for the duration of the course, although team-team collaboration is highly encouraged. All team members are expected to participate in each activity.
+The course is a hands-on, project-based course that integrates deep mutational profiling [Fowler and Fields, _Nature Methods_, 2014](http://cdn.fraserlab.com/courses/pubs/2014_fowler.pdf), automated microscopy, and computational biology. The model organism, _Saccharomyces cerevisiae_, will be used as the organismal basis. Our goal is to experimentally determine the fitness of all possible individual point mutants of ubiquitin, an essential protein that is a key cellular integrator of stress, under a variety of experimental perturbations. The library of these point mutants was assembled by [Dan Bolon](http://profiles.umassmed.edu/profiles/display/133553) and verified during a summer visit to the Fraser lab. The course is organized around three modules, described below. Each hands-on module will be accompanied by lectures (either "chalk talk" or with slides). The course director and/or each lecturer will assign research papers, literature reviews, or other reading material in advance. In addition students are expected to conduct their own literature reviews during the course of the project. Students will work in small teams, and each team will be assigned a different perturbation for initial analysis. Students are expected to remain in their teams for the duration of the course, although team-team collaboration is highly encouraged. All team members are expected to participate in each activity.
 
 After **module 1** and **module 3**, each team will orally present their findings to the class and faculty, limited to 15 minutes and 15 slides maximum, with 10 minutes for discussion and questions. All members of the team are expected to speak and describe their contributions. These presentations are currently scheduled for Oct 27th and Nov 24th, the final day of class.
 
@@ -78,7 +78,7 @@ Activities and speakers for each week will be announced at the beginning of each
 
 **Course Goals:**
 
-The goal of the course is to provide an immersive, hands-on experience in the context of genuine research questions. As articulated by [Vale and colleagues](/static/pdf/courses/methods/2012_vale.pdf), there are tremendous advantages when graduate students work "pursuing a research question with unknown answers and uncertain outcomes, students and faculty combine their wits and skills to design experiments, evaluate progress, and troubleshoot along the way". These advantages are likely to be common accross [all learning levels](http://blogs.kqed.org/mindshift/2014/09/can-project-based-learning-close-gaps-in-science-education/). In our course, teams may use whatever literature, software, and resources that are available publicly, and are encouraged to write their own scripts and software where necessary. The "official" language of the class is [python](https://www.python.org) - beginners should try [Learn Python The Hard Way](http://learnpythonthehardway.org/book/), people with a background in other languages should try [Google's python course](https://developers.google.com/edu/python/). The QB3 Berkeley [intensive python course](http://intro-prog-bioinfo-2014.wikispaces.com/) provides many biological examples. Students should be comfortable with basic syntax and scripting prior to the start of instruction.
+The goal of the course is to provide an immersive, hands-on experience in the context of genuine research questions. As articulated by [Vale and colleagues](http://cdn.fraserlab.com/courses/methods/2012_vale.pdf), there are tremendous advantages when graduate students work "pursuing a research question with unknown answers and uncertain outcomes, students and faculty combine their wits and skills to design experiments, evaluate progress, and troubleshoot along the way". These advantages are likely to be common accross [all learning levels](http://blogs.kqed.org/mindshift/2014/09/can-project-based-learning-close-gaps-in-science-education/). In our course, teams may use whatever literature, software, and resources that are available publicly, and are encouraged to write their own scripts and software where necessary. The "official" language of the class is [python](https://www.python.org) - beginners should try [Learn Python The Hard Way](http://learnpythonthehardway.org/book/), people with a background in other languages should try [Google's python course](https://developers.google.com/edu/python/). The QB3 Berkeley [intensive python course](http://intro-prog-bioinfo-2014.wikispaces.com/) provides many biological examples. Students should be comfortable with basic syntax and scripting prior to the start of instruction.
 
 In **module 1**, each team will be provided an "unknown" chemical perturbation. Using deep mutational profiling, each team will measure the fitness of all possible individual point mutants of ubiquitin, an essential protein that is a key cellular integrator of stress. Upon processing the sequencing data, each team will perform comparisons against a reference dataset.
 
@@ -111,9 +111,9 @@ _Lab work: Measure doubling times as a function of small molecule perturbation c
 Lecturers: James Fraser (9/29,9/30), Joe DeRisi (9/29), Hiten Madhani (10/1)  
 
 Recommended reading:
-- [Deep Mutational Scanning: A New Style of Protein Science. Fowler and Fields, 2014](/static/pdf/courses/pubs/2014_fowler.pdf)
-- [The Ubiquitin-Proteasome System of Saccharomyces Cerevisiae. Finley et al., 2012](/static/pdf/courses/pubs/2012_finley.pdf)
-- [Analyses of the Effects of All Ubiquitin Point Mutants on Yeast Growth Rate. Roscoe et al., 2013](/static/pdf/courses/pubs/2013_roscoe.pdf)
+- [Deep Mutational Scanning: A New Style of Protein Science. Fowler and Fields, 2014](http://cdn.fraserlab.com/courses/pubs/2014_fowler.pdf)
+- [The Ubiquitin-Proteasome System of Saccharomyces Cerevisiae. Finley et al., 2012](http://cdn.fraserlab.com/courses/pubs/2012_finley.pdf)
+- [Analyses of the Effects of All Ubiquitin Point Mutants on Yeast Growth Rate. Roscoe et al., 2013](http://cdn.fraserlab.com/courses/pubs/2013_roscoe.pdf)
 
 Files for Computation:
 - [Allele_dic.pkl](https://drive.google.com/file/d/0Bz5C8aG_xj4sc3g5V29LcXluSE0/edit?usp=sharing)
@@ -122,10 +122,10 @@ Files for Computation:
 
 Other Class Material:
 - [Information about the server](/courses/pubs_2014/server/)
-- [Introduction Lecture by James Fraser](/static/pdf/courses/pubs/2014_Fraser_Intro.pdf)
-- [Fred Sherman's "Getting started with Yeast"](/static/pdf/courses/pubs/2002_sherman.pdf)
+- [Introduction Lecture by James Fraser](http://cdn.fraserlab.com/courses/pubs/2014_Fraser_Intro.pdf)
+- [Fred Sherman's "Getting started with Yeast"](http://cdn.fraserlab.com/courses/pubs/2002_sherman.pdf)
 - [Transformation Protocol](https://docs.google.com/document/d/1-6-rbLosBYkAZI4EOcmwP8C2wDNiLE4OWvXjNS0Yfko/edit?usp=sharing)
-- [Yeast Handout by Hiten Madhani](/static/pdf/courses/pubs/2013_Madhani_Yeast.pdf)
+- [Yeast Handout by Hiten Madhani](http://cdn.fraserlab.com/courses/pubs/2013_Madhani_Yeast.pdf)
 - [Drug Concentration Protocol](https://docs.google.com/document/d/12Az3DGJlL4jZ2Rx5Y-xOM5y-EFrUIxhF5lf0DuWwiFE/edit?usp=sharing)
 
 **Week 2 – Theme: Chemical Genetics**
@@ -134,9 +134,9 @@ _Lab work: Performing selection experiments under chemical stresses_
 Lecturers: Michael Keiser (10/6), Sourav Bandyopadhyay (10/7), Eric Chow (10/8)
 
 Recommended reading:
-- [In Silico Molecular Comparisons of C. elegans and Mammalian Pharmacology Identify Distinct Targets That Regulate Feeding. Lemieux et al., 2013](/static/pdf/courses/pubs/2013_lemieux.pdf)
-- [Rewiring of Genetic Networks in Response to DNA Damage. Bandyopadhyay et al., 2010](/static/pdf/courses/pubs/2010_bandyopadhyay.pdf)
-- [Chemical Genetics Screen for Enhancers of Rapamycin Identifies a Specific Inhibitor of an SCF Family E3 Ubiquitin Ligase. Aghajan et al., 2010](/static/pdf/courses/pubs/2010_aghajan.pdf)
+- [In Silico Molecular Comparisons of C. elegans and Mammalian Pharmacology Identify Distinct Targets That Regulate Feeding. Lemieux et al., 2013](http://cdn.fraserlab.com/courses/pubs/2013_lemieux.pdf)
+- [Rewiring of Genetic Networks in Response to DNA Damage. Bandyopadhyay et al., 2010](http://cdn.fraserlab.com/courses/pubs/2010_bandyopadhyay.pdf)
+- [Chemical Genetics Screen for Enhancers of Rapamycin Identifies a Specific Inhibitor of an SCF Family E3 Ubiquitin Ligase. Aghajan et al., 2010](http://cdn.fraserlab.com/courses/pubs/2010_aghajan.pdf)
 
 Other Class Material:
 - [Sign up for CAT access](https://docs.google.com/forms/d/1Yr9Sv5713ntGnR-yAWfG_yWP4jkJ0UInIjwWlXz0b7U/viewform?c=0&w=1)
@@ -144,7 +144,7 @@ Other Class Material:
 - [Illustrated Protocol](https://drive.google.com/file/d/0Bx0d95RwVYufNk5palhZYmg0WHM/view?usp=sharing)
 - [Promega Colony Counting App](http://www.promega.com/resources/mobile-apps/)
 - [Zappy Lab Bench Tools](https://itunes.apple.com/us/app/zappylab-bench-tools/id731295151?mt=8)
-- [Lecture by Eric Chow](/static/pdf/courses/pubs/2014_Chow_NGS.pdf)
+- [Lecture by Eric Chow](http://cdn.fraserlab.com/courses/pubs/2014_Chow_NGS.pdf)
 
 **Week 3 – Theme: Massive Functional Profiling**
 
@@ -152,19 +152,19 @@ _Lab work: Deep sequencing library preparation_
 Lecturers: Nadav Ahituv (10/13), Journal Club (10/14), Ryan Hernandez (10/15)
 
 Journal Club Assignments:
-- [Chemical Genetics Screen for Enhancers of Rapamycin Identifies a Specific Inhibitor of an SCF Family E3 Ubiquitin Ligase. Aghajan et al., 2010](/static/pdf/courses/pubs/2010_aghajan.pdf) - UBCELß
-- [A Fundamental Protein Property, Thermodynamic Stability, Revealed Solely From Large-Scale Measurements of Protein Function. Araya et al., 2012](/static/pdf/courses/pubs/2012_araya.pdf) - DUBSTEP
-- [The Spatial Architecture of Protein Function and Adaptation. McLaughlin Jr et al., 2012](/static/pdf/courses/pubs/2012_mclaughlin.pdf) - KRATE
-- [Recognition Dynamics Up to Microseconds Revealed From an RDC-derived Ubiquitin Ensemble in Solution. Lange et al., 2008](/static/pdf/courses/pubs/2008_lange.pdf) - ATG
-- [A Proteomics Approach to Understanding Protein Ubiquitination. Peng et al., 2003](/static/pdf/courses/pubs/2003_peng.pdf) - YBUB
+- [Chemical Genetics Screen for Enhancers of Rapamycin Identifies a Specific Inhibitor of an SCF Family E3 Ubiquitin Ligase. Aghajan et al., 2010](http://cdn.fraserlab.com/courses/pubs/2010_aghajan.pdf) - UBCELß
+- [A Fundamental Protein Property, Thermodynamic Stability, Revealed Solely From Large-Scale Measurements of Protein Function. Araya et al., 2012](http://cdn.fraserlab.com/courses/pubs/2012_araya.pdf) - DUBSTEP
+- [The Spatial Architecture of Protein Function and Adaptation. McLaughlin Jr et al., 2012](http://cdn.fraserlab.com/courses/pubs/2012_mclaughlin.pdf) - KRATE
+- [Recognition Dynamics Up to Microseconds Revealed From an RDC-derived Ubiquitin Ensemble in Solution. Lange et al., 2008](http://cdn.fraserlab.com/courses/pubs/2008_lange.pdf) - ATG
+- [A Proteomics Approach to Understanding Protein Ubiquitination. Peng et al., 2003](http://cdn.fraserlab.com/courses/pubs/2003_peng.pdf) - YBUB
 
 Recommended reading:
-- [A Method and Server for Predicting Damaging Missense Mutations. Adzhubei et al., 2010](/static/pdf/courses/pubs/2010_adzhubei.pdf)
-- [A Fundamental Protein Property, Thermodynamic Stability, Revealed Solely From Large-Scale Measurements of Protein Function. Araya et al., 2012](/static/pdf/courses/pubs/2012_araya.pdf)
-- [Massively parallel decoding of mammalian regulatory sequences supports a flexible organizational model. Smith et al., 2013](/static/pdf/courses/pubs/2013_smith.pdf)
+- [A Method and Server for Predicting Damaging Missense Mutations. Adzhubei et al., 2010](http://cdn.fraserlab.com/courses/pubs/2010_adzhubei.pdf)
+- [A Fundamental Protein Property, Thermodynamic Stability, Revealed Solely From Large-Scale Measurements of Protein Function. Araya et al., 2012](http://cdn.fraserlab.com/courses/pubs/2012_araya.pdf)
+- [Massively parallel decoding of mammalian regulatory sequences supports a flexible organizational model. Smith et al., 2013](http://cdn.fraserlab.com/courses/pubs/2013_smith.pdf)
 
 Other Class Material:
-- [Lecture by Ryan Hernandez](/static/pdf/courses/pubs/2014_Hernandez_Selection.pdf)
+- [Lecture by Ryan Hernandez](http://cdn.fraserlab.com/courses/pubs/2014_Hernandez_Selection.pdf)
 - [Yeast Miniprep protocol](https://docs.google.com/document/d/1zk_h_pS1Ikb1VfqSSx_ePHROVGu3dl55mJ_NSeYw3ss/edit?usp=sharing)
 - [Illustrated Yeast Miniprep protocol](https://drive.google.com/file/d/0Bx0d95RwVYufLURGVWdpQnNYeUE/view?usp=sharing)
 - [Library PCR protocol](https://docs.google.com/document/d/1KUXhrxh-QxumFcgfjUVXTdYNZq_956ZQ11zpUSxtGR0/edit?usp=sharing)
@@ -182,10 +182,10 @@ _Lab Work: Computational analysis of sequencing data_
 Lecturers: Joe DeRisi (10/20), Elaine Meng (10/21), Bo Huang (10/22)
 
 Recommended reading:
-- [Generalized DNA Barcode Design Based on Hamming Codes. Bystrykh, 2012](/static/pdf/courses/pubs/2012_bystrykh.pdf)
-- [The Spatial Architecture of Protein Function and Adaptation. McLaughlin Jr et al., 2012](/static/pdf/courses/pubs/2012_mclaughlin.pdf)
-- [AL2CO: Calculation of Positional Conservation in a Protein Sequence Alignment. Pei and Grishin, 2001](/static/pdf/courses/pubs/2001_pei.pdf)
-- [Amino Acid Coevolution Induces an Evolutionary Stokes Shift. Pollock et al., 2012](/static/pdf/courses/pubs/2012_pollock.pdf)
+- [Generalized DNA Barcode Design Based on Hamming Codes. Bystrykh, 2012](http://cdn.fraserlab.com/courses/pubs/2012_bystrykh.pdf)
+- [The Spatial Architecture of Protein Function and Adaptation. McLaughlin Jr et al., 2012](http://cdn.fraserlab.com/courses/pubs/2012_mclaughlin.pdf)
+- [AL2CO: Calculation of Positional Conservation in a Protein Sequence Alignment. Pei and Grishin, 2001](http://cdn.fraserlab.com/courses/pubs/2001_pei.pdf)
+- [Amino Acid Coevolution Induces an Evolutionary Stokes Shift. Pollock et al., 2012](http://cdn.fraserlab.com/courses/pubs/2012_pollock.pdf)
 
 Other Class Material:
 - [Chimera Tutorial by Elaine Meng](http://www.rbvi.ucsf.edu/chimera/data/tutorials/systems/index.html)
@@ -207,9 +207,9 @@ _Lab Work: Comparisons of perturbations between teams_
 Lecturers: Student Presentations (10/27), David Morgan (10/28), Jason Gestwicki (10/29)
 
 Recommended reading:
-- [Catalysis of Lysine 48-specific Ubiquitin Chain Assembly by Residues in E2 and Ubiquitin. Rodrigo-Brenni et al., 2010](/static/pdf/courses/pubs/2010_rodrigo_brenni.pdf)
-- [Chapter 10 - Protein Quality Control in Neurodegenerative Disease. Gestwicki and Garza, 2012](/static/pdf/courses/pubs/2010_gestwicki_garza.pdf)
-- [Defining the Human Deubiquitinating Enzyme Interaction Landscape. Sowa et al., 2009](/static/pdf/courses/pubs/2009_sowa.pdf)
+- [Catalysis of Lysine 48-specific Ubiquitin Chain Assembly by Residues in E2 and Ubiquitin. Rodrigo-Brenni et al., 2010](http://cdn.fraserlab.com/courses/pubs/2010_rodrigo_brenni.pdf)
+- [Chapter 10 - Protein Quality Control in Neurodegenerative Disease. Gestwicki and Garza, 2012](http://cdn.fraserlab.com/courses/pubs/2010_gestwicki_garza.pdf)
+- [Defining the Human Deubiquitinating Enzyme Interaction Landscape. Sowa et al., 2009](http://cdn.fraserlab.com/courses/pubs/2009_sowa.pdf)
 
 Other Class Material:
 - [Unperturbed Dataset - Raw Data for Fig 2b of Roscoe...Bolon JMB, 2012](https://drive.google.com/file/d/0Bx0d95RwVYufaEZOREZiTnVBRmM/view?usp=sharing)
@@ -232,10 +232,10 @@ _Lab Work: Growth rates via microscopy and bulk measurements_
 Lecturers: Kurt Thorn (11/3), Steven Altschuler and Lani Wu (11/4), Tanja Kortemme (11/5), Wendell Lim Kilobot Demo (11/5)
 
 Recommended reading:
-- [Ubiquitin Chain Conformation Regulates Recognition and Activity of Interacting Proteins. Ye et al., 2012](/static/pdf/courses/pubs/2012_ye.pdf)
-- [Biological Mechanisms, One Molecule at a Time. Tinoco and Gonzalez, 2011](/static/pdf/courses/pubs/2011_tinoco.pdf)
-- [PhenoRipper: Software for Rapidly Profiling Microscopy Images. Rajaram et al., 2012](/static/pdf/courses/pubs/2012_rajaram.pdf)
-- [Fluorescence-Based Sensors to Monitor Localization and Functions of Linear and K63-Linked Ubiquitin Chains in Cells. van Wijk et al., 2012](/static/pdf/courses/pubs/2012_wijk.pdf)
+- [Ubiquitin Chain Conformation Regulates Recognition and Activity of Interacting Proteins. Ye et al., 2012](http://cdn.fraserlab.com/courses/pubs/2012_ye.pdf)
+- [Biological Mechanisms, One Molecule at a Time. Tinoco and Gonzalez, 2011](http://cdn.fraserlab.com/courses/pubs/2011_tinoco.pdf)
+- [PhenoRipper: Software for Rapidly Profiling Microscopy Images. Rajaram et al., 2012](http://cdn.fraserlab.com/courses/pubs/2012_rajaram.pdf)
+- [Fluorescence-Based Sensors to Monitor Localization and Functions of Linear and K63-Linked Ubiquitin Chains in Cells. van Wijk et al., 2012](http://cdn.fraserlab.com/courses/pubs/2012_wijk.pdf)
 
 Other Class Material:
 - [Microscopy protocol](https://docs.google.com/document/d/1Doupn7DB_Igeb8Bm7W7g7PEi9HufYAtf82qySTvqUK4/edit?usp=sharing)
@@ -248,16 +248,16 @@ _Lab Work: Computational protein design_
 Lecturers: Kyle Barlow (11/10), Samuel Thompson (11/12)
 
 Recommended reading:
-- [Computer-aided Design of Functional Protein Interactions. Mandell and Kortemme, 2009](/static/pdf/courses/pubs/2009_mandell.pdf)
-- [Design of Multi-Specificity in Protein Interfaces. Humphris and Kortemme, 2007](/static/pdf/courses/pubs/2007_humphris.pdf)
-- [Role of Conformational Sampling in Computing Mutation-Induced Changes in Protein Structure and Stability. Kellogg et al., 2011](/static/pdf/courses/pubs/2011_kellog.pdf)
-- [Flexible Backbone Sampling Methods to Model and Design Protein Alternative Conformations. Ollikainen et al., 2013](/static/pdf/publications/2013_ollikainen.pdf)
-- [Conformational Dynamics Control Ubiquitin-Deubiquitinase Interactions and Influence in Vivo Signaling. Phillips et al., 2013](/static/pdf/courses/pubs/2013_phillips.pdf)
+- [Computer-aided Design of Functional Protein Interactions. Mandell and Kortemme, 2009](http://cdn.fraserlab.com/courses/pubs/2009_mandell.pdf)
+- [Design of Multi-Specificity in Protein Interfaces. Humphris and Kortemme, 2007](http://cdn.fraserlab.com/courses/pubs/2007_humphris.pdf)
+- [Role of Conformational Sampling in Computing Mutation-Induced Changes in Protein Structure and Stability. Kellogg et al., 2011](http://cdn.fraserlab.com/courses/pubs/2011_kellog.pdf)
+- [Flexible Backbone Sampling Methods to Model and Design Protein Alternative Conformations. Ollikainen et al., 2013](http://cdn.fraserlab.com/publications/2013_ollikainen.pdf)
+- [Conformational Dynamics Control Ubiquitin-Deubiquitinase Interactions and Influence in Vivo Signaling. Phillips et al., 2013](http://cdn.fraserlab.com/courses/pubs/2013_phillips.pdf)
 
 Other Class Material:
 - [Lecture by Tanja Kortemme](https://drive.google.com/file/d/0Bz5C8aG_xj4sbGFERC1kWUJpZDR1RHlIZ29QcWJXSXU5MWd3/view?usp=sharing)
-- [Lecture by Kyle Barlow](/static/pdf/courses/pubs/2014_Barlow_ProteinStability.pdf)
-- [Lecture by Samuel Thompson](/static/pdf/courses/pubs/2014_Thompson_Rosetta.pdf)
+- [Lecture by Kyle Barlow](http://cdn.fraserlab.com/courses/pubs/2014_Barlow_ProteinStability.pdf)
+- [Lecture by Samuel Thompson](http://cdn.fraserlab.com/courses/pubs/2014_Thompson_Rosetta.pdf)
 - [DDG data website](https://guybrush.ucsf.edu/local/DDG/ubiquitin)
 - [Backup JSON](/courses/pubs_2014/ubiquitin.json)
 - [Student Fitness Data](https://drive.google.com/folderview?id=0Bz5C8aG_xj4sdDZiTzdGSVdZdDg&usp=sharing)
@@ -297,10 +297,10 @@ Other Class Material:
     - the limitations and extensions of the design methodology to explain the sequencing results
 
 Recommended reading:
-- [Ultrahigh-throughput Screening in Drop-Based Microfluidics for Directed Evolution. Agresti et al., 2010](/static/pdf/courses/pubs/2010_agresti.pdf)
-- [Diet Rapidly and Reproducibly Alters the Human Gut Microbiome. David et al., 2013](/static/pdf/courses/pubs/2013_david.pdf)
-- [Predicting and Manipulating Cardiac Drug Inactivation by the Human Gut Bacterium Eggerthella Lenta. Haiser et al., 2013](/static/pdf/courses/pubs/)
-- [Control of Spontaneous and Damage-Induced Mutagenesis by SUMO and Ubiquitin Conjugation. Stelter and Ulrich, 2003](/static/pdf/courses/pubs/2003_stelter.pdf)
+- [Ultrahigh-throughput Screening in Drop-Based Microfluidics for Directed Evolution. Agresti et al., 2010](http://cdn.fraserlab.com/courses/pubs/2010_agresti.pdf)
+- [Diet Rapidly and Reproducibly Alters the Human Gut Microbiome. David et al., 2013](http://cdn.fraserlab.com/courses/pubs/2013_david.pdf)
+- [Predicting and Manipulating Cardiac Drug Inactivation by the Human Gut Bacterium Eggerthella Lenta. Haiser et al., 2013](http://cdn.fraserlab.com/courses/pubs/)
+- [Control of Spontaneous and Damage-Induced Mutagenesis by SUMO and Ubiquitin Conjugation. Stelter and Ulrich, 2003](http://cdn.fraserlab.com/courses/pubs/2003_stelter.pdf)
 
 **References:**
 

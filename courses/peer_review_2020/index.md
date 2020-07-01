@@ -64,8 +64,8 @@ Each students will serve as Discussion Leaders for one manuscript topic.  Everyo
 - Writing and receiving peer review:
     - [Fraser lab how-to-review](/peer_review/how_to)
     - [My public reviews as BioRxiv comments](https://disqus.com/by/fraserlab/comments/)
-    - [Example from Cell Stem Cell of a review process](/static/pdf/courses/peer_review_2020/2019_saxe.pdf)
-    - [Universal Principled Review](/static/pdf/courses/peer_review_2020/2019_krummel.pdf)
+    - [Example from Cell Stem Cell of a review process](http://cdn.fraserlab.com/courses/peer_review_2020/2019_saxe.pdf)
+    - [Universal Principled Review](http://cdn.fraserlab.com/courses/peer_review_2020/2019_krummel.pdf)
     - [A thoughtful twitter thread on responding to reviews](https://twitter.com/dsquintana/status/1119956899447889920?s=20) and followup [blog post](https://www.dsquintana.com/post/23_apr_2019_peer-review/)
 
 
@@ -75,21 +75,21 @@ Each students will serve as Discussion Leaders for one manuscript topic.  Everyo
 - [Keeping on top of the literature](https://fraserlab.com/2013/09/28/The-Fraser-Lab-method-of-following-the-scientific-literature/)
 
 ### April 30
-- Presentation 1: [Structural and functional analysis of a potent sarbecovirus neutralizing antibody](/static/pdf/courses/peer_review_2020/2020_pinto.pdf)
+- Presentation 1: [Structural and functional analysis of a potent sarbecovirus neutralizing antibody](http://cdn.fraserlab.com/courses/peer_review_2020/2020_pinto.pdf)
 
 
 ### May 1
-- Presentation 2: [Visualizing Wnt secretion from Endoplasmic Reticulum to Filopodia ](/static/pdf/courses/peer_review_2020/2018_moti.pdf)
-- Presentation 3: [Sulfopin, a selective covalent inhibitor of Pin1, blocks Myc-driven tumor initiation and growth in vivo](/static/pdf/courses/peer_review_2020/2020_dubiella.pdf)
+- Presentation 2: [Visualizing Wnt secretion from Endoplasmic Reticulum to Filopodia ](http://cdn.fraserlab.com/courses/peer_review_2020/2018_moti.pdf)
+- Presentation 3: [Sulfopin, a selective covalent inhibitor of Pin1, blocks Myc-driven tumor initiation and growth in vivo](http://cdn.fraserlab.com/courses/peer_review_2020/2020_dubiella.pdf)
 
 ### May 4
-- Presentation 4: [Noise-Reducing Negative-Feedback Optogenetic Circuits in Mammalian Cells](/static/pdf/courses/peer_review_2020/2019_guinn.pdf)
-- Presentation 5: [SETD2 is an actin lysine methyltransferase](/static/pdf/courses/peer_review_2020/2020_seervai.pdf)
+- Presentation 4: [Noise-Reducing Negative-Feedback Optogenetic Circuits in Mammalian Cells](http://cdn.fraserlab.com/courses/peer_review_2020/2019_guinn.pdf)
+- Presentation 5: [SETD2 is an actin lysine methyltransferase](http://cdn.fraserlab.com/courses/peer_review_2020/2020_seervai.pdf)
 
 ### May 7
-- Presentation 6: [Two dynamically distinct circuits driving inhibition in sensory thalamus](/static/pdf/courses/peer_review_2020/2020_martinez_garcia.pdf)
-- Presentation 7: [Transient “rest” induces functional reinvigoration and epigenetic remodeling in exhausted CAR-T cells](/static/pdf/courses/peer_review_2020/2020_weber.pdf)
+- Presentation 6: [Two dynamically distinct circuits driving inhibition in sensory thalamus](http://cdn.fraserlab.com/courses/peer_review_2020/2020_martinez_garcia.pdf)
+- Presentation 7: [Transient “rest” induces functional reinvigoration and epigenetic remodeling in exhausted CAR-T cells](http://cdn.fraserlab.com/courses/peer_review_2020/2020_weber.pdf)
 
 ### May 8
-- Presentation 8: [Monitoring the production of high diffraction-quality crystals of two enzymes in real time using in situ dynamic light scattering](/static/pdf/courses/peer_review_2020/2020_wijn.pdf)
-- Presentation 9: [Sensory-evoked extracellular	vesicle	release	and targeting](/static/pdf/courses/peer_review_2020/2020_wang.pdf)
+- Presentation 8: [Monitoring the production of high diffraction-quality crystals of two enzymes in real time using in situ dynamic light scattering](http://cdn.fraserlab.com/courses/peer_review_2020/2020_wijn.pdf)
+- Presentation 9: [Sensory-evoked extracellular	vesicle	release	and targeting](http://cdn.fraserlab.com/courses/peer_review_2020/2020_wang.pdf)

@@ -7,7 +7,7 @@ image: '/static/img/pub/2019_yabukarski.jpg'
 # pmid: Submitted
 # pmcid: Submitted
 biorxiv: '786327'
-pdf: '/static/pdf/publications/2019_yabukarski.pdf'
+pdf: 'http://cdn.fraserlab.com/publications/2019_yabukarski.pdf'
 links:
 - name: Herschlag lab @ Stanford University
   url: http://herschlaglab.stanford.edu/

@@ -8,7 +8,7 @@ date: '2017-12-19'
 image: '/static/img/pub/2017_thomaston.jpg'
 pmid: '28835537'
 pmcid: 'PMC5754760'
-pdf: '/static/pdf/publications/2017_thomaston.pdf'
+pdf: 'http://cdn.fraserlab.com/publications/2017_thomaston.pdf'
 pdbs:
 - 5JOO
 - 5UM1
