@@ -1,16 +1,16 @@
 ---
 name: Iris Young, Ph.D.
-startdate: YYYY-MM-DD
+startdate: 2018-08-09
 enddate: YYYY-MM-DD
 image: /static/img/members/Young.jpg
 altimage: /static/img/members/Young_pb.jpg
 position: Postdoctoral Fellow
-current:
+#current:  update once you become an alumnus
 pronouns: he/him/his
 email: irisdyoung (at) gmail.com
 scholar: iSv5YCUAAAAJ
 website:
-UCSF: 26591231
+UCSF: iris.young
 twitter: irisdyoung
 github: idyoung
 orcid: 0000-0003-4713-9504

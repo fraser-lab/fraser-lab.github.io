@@ -1,11 +1,11 @@
 ---
 name: Gabriella Estevam
-startdate: YYYY-MM-DD
+startdate: 2019-07-19
 enddate: YYYY-MM-DD
 image: /static/img/members/Estevam.jpg
 altimage: /static/img/members/Estevam_pb.jpg
 position: Graduate Student, Tetrad
-current:
+#current:  update once you become an alumnus
 pronouns: she/her/hers
 email: gabriella.estevam (at) ucsf.edu
 scholar:

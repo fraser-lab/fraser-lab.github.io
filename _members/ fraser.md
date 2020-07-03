@@ -5,12 +5,12 @@ enddate: YYYY-MM-DD
 image: /static/img/members/Fraser.jpg
 # altimage: /static/img/members/Fraser_pb.jpg
 position: Principal Investigator
-current:
+#current:
 pronouns: he/him/his
 email: jfraser (at) fraserlab.com
 scholar: j3iaoR8AAAAJ
 website:
-UCSF: 186628
+UCSF: james.fraser
 twitter: fraser_lab
 github: fraserlab
 orcid: 0000-0002-5080-2859

@@ -5,7 +5,7 @@ enddate: YYYY-MM-DD
 image: /static/img/members/Wankowicz.jpg
 altimage: /static/img/members/Wankowicz_pb.jpg
 position: Graduate Student, Biophysics
-current:
+#current:  update once you become an alumnus
 pronouns: she/her/hers
 email: stephanie.wankowicz (at) ucsf.edu
 scholar: WJ9lxYMAAAAJ

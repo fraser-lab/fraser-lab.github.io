@@ -1,11 +1,11 @@
 ---
 name: Jenna Pellegrino
-startdate: YYYY-MM-DD
+startdate: 2018-06-13
 enddate: YYYY-MM-DD
 image: /static/img/members/Pellegrino.jpg
 altimage: /static/img/members/Pellegrino_pb.jpg
 position: Graduate Student, Biophysics
-current:
+#current:  update once you become an alumnus
 pronouns: she/her/hers
 email: jenna.pellegrino (at) ucsf.edu
 scholar:

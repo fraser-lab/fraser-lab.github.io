@@ -5,7 +5,7 @@ enddate: YYYY-MM-DD
 image: /static/img/members/Michaud.jpg
 altimage: /static/img/members/Michaud_pb.jpg
 position: Associate Specialist
-current:
+#current:  update once you become an alumnus
 pronouns: she/her/hers
 email: jennifer.michaud (at) ucsf.edu
 scholar: X7mvTacAAAAJ

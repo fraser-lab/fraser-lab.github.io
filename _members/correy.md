@@ -1,16 +1,16 @@
 ---
 name: Galen Correy, Ph.D.
-startdate: YYYY-MM-DD
+startdate: 2020-05-20
 enddate: YYYY-MM-DD
 image: /static/img/members/Correy.jpg
 altimage: /static/img/members/Correy_pb.jpg
 position: Postdoctoral Fellow
-current:
+#current:  update once you become an alumnus
 pronouns: he/him/his
 email: galen.correy (at) ucsf.edu
 scholar:
 website:
-UCSF:
+UCSF: galen.correy
 twitter:
 github: gcorrey
 orcid:

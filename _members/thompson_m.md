@@ -1,16 +1,16 @@
 ---
 name: Michael Thompson, Ph.D.
-startdate: 2013
+startdate: 2013-MM-YY
 enddate: 2020-08-01
 image: /static/img/members/MThompson.jpg
 altimage: /static/img/members/MThompson_pb.jpg
 position: Postdoctoral Fellow
-current: Assistant Professor @ UC Merced
+current: (Assistant Professor @ UC Merced)[https://thompsonlab.science]
 pronouns: he/him/his
 email: mct.ucsf (at) gmail.com
 scholar: KDvVpWYAAAAJ
 website:
-UCSF:
+UCSF: michael.c.thompson
 twitter: mctucsf
 github: miket928
 orcid: 0000-0002-6099-2027

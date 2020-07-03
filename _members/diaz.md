@@ -1,11 +1,11 @@
 ---
 name: Roberto Efraín (Robbie) Díaz
-startdate: 2017-09-01
+startdate: 2018-06-25
 enddate: YYYY-MM-DD
 image: /static/img/members/Diaz.jpg
 altimage: /static/img/members/Diaz_pb.jpg
-position: Graduate Student
-current:
+position: Graduate Student, Tetrad
+#current:  update once you become an alumnus
 pronouns: he/him/his
 email: roberto.diaz (at) ucsf.edu
 scholar: L_OCeG4AAAAJ
