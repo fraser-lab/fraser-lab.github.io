@@ -12,7 +12,7 @@ scholar: XDH9FrwAAAAJ
 website: "http://benjaminbarad.com"
 UCSF:
 twitter: benjaminbarad
-github:
+github: bbarad
 orcid: 0000-0002-1016-862X
 description: "Ben is interested in understanding the role that protein dynamics play in the regulation of biological function. As an undergraduate in Elizabeth Sattely’s lab at Stanford University, he investigated bacterial degradation of the polymer lignin. He is currently a graduate student in James Fraser’s lab at UCSF. His first project involved developing methods for validation of atomic structures solved by high-resolution electron cryomicroscopy. Currently, he is investigating the mechanisms of proteins involved in the allergic immune response to chitin. Outside of research, he is obsessed with finding the perfect cup of coffee, a quest that has included learning to roast his own coffee beans.
 

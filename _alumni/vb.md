@@ -12,7 +12,7 @@ scholar: 6YlS0rQAAAAJ
 website:
 UCSF:
 twitter: vanben11
-github:
-orcid:
+github: vanbenschoten
+orcid: 0000-0002-7944-6237
 description: "Andrew completed his undergraduate studies in biology at MIT. While there, he worked with Cathy Drennan on determining the structure of metalloenzymes via X-ray crystallography. Andrew started at UCSF in the fall of 2011 and is investigating the features of diffuse X-ray scatter in several model protein systems and molecular machines."
 ---

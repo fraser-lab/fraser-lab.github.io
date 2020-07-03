@@ -12,7 +12,7 @@ scholar: UQ7FMs8AAAAJ
 website: "http://brandimhudson.com"
 UCSF:
 twitter:
-github:
+github: bmhudson
 orcid: 0000-0003-2288-9157
 description: "Brandi received her Ph.D. from UC Davis with Dean Tantillo, where she applied computational chemistry to explain complex reaction mechanisms, conformation-activity relationships of potential pharmaceuticals, and non-covalent interactions in small organic molecules. In the Fraser lab,  she will use computational and experimental techniques to develop methods to account for conformational ligand heterogeneity and allosteric binding sites."
 ---
