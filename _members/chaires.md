@@ -1,11 +1,19 @@
 ---
 name: Hector Chaires
+startdate: YYYY-MM-DD
+enddate: YYYY-MM-DD
 image: /static/img/members/Chaires.jpg
 altimage: /static/img/members/Chaires_pb.jpg
-pronouns: he/him/his
 position: Junior Specialist
-github: hcaires
+current:
+pronouns: he/him/his
 email: hchaires (at) fraserlab.com
+scholar:
+website:
+UCSF:
+twitter:
+github: hchaires
+orcid:
 description: "Hector graduated from Rice University with a degree in Biochemistry and Cell Biology. Under the guidance of Dr. George Phillips, he studied the kinetics of BlaC, an enzyme that confers on bacterial pathogens a resistance to a wide range of antibiotics. As an [HHMI EXROP](https://www.hhmi.org/science-education/programs/exceptional-research-opportunities-program-exrop/) fellow, he studied antibody affinity maturation in the Harrison lab at HMS.
 
 

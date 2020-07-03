@@ -29,3 +29,10 @@ collections:
                 output: true
         publications:
                 output: true
+        alumni:
+                sort_by: enddate
+                output: true
+        sep:
+                output: true
+        visitors:
+                output: true

@@ -1,15 +1,19 @@
 ---
 name: James Fraser, Ph.D.
+startdate: YYYY-MM-DD
+enddate: YYYY-MM-DD
 image: /static/img/members/Fraser.jpg
 # altimage: /static/img/members/Fraser_pb.jpg
-pronouns: he/him/his
 position: Principal Investigator
+current:
+pronouns: he/him/his
 email: jfraser (at) fraserlab.com
 scholar: j3iaoR8AAAAJ
-twitter: fraser_lab
+website:
 UCSF: 186628
-orcid: 0000-0002-5080-2859
+twitter: fraser_lab
 github: fraserlab
+orcid: 0000-0002-5080-2859
 description: "James was an undergraduate at McGill University, where he worked in the lab of Francois Fagotto on [Xenopus developmental biology](/publications#20974811).
 During the summers, he returned to his hometown of Toronto and worked in [Alan Davidson's lab](http://individual.utoronto.ca/Davidsonlab/) on TetR repressor biophysics and [bacteriophage genomics](/publications#16631788).
 
