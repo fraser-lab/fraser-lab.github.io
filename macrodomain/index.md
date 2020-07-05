@@ -62,7 +62,7 @@ Using the data processed by Iris, Galen used PanDDA to search for fragments in t
 
 <img class="img-fluid d-block" src="img/fragments.jpg" alt="fluid" style="max-height: 600px; max-width:100%">
 
-**You can interactively explore fragments uncovered by both our effort and the Ahel/X-Chem effort at [Fragalysis]((https://fragalysis.diamond.ac.uk/viewer/react/preview/target/mArh)**
+**You can interactively explore fragments uncovered by both our effort and the Ahel/X-Chem effort at [Fragalysis](https://fragalysis.diamond.ac.uk/viewer/react/preview/target/mArh)**
 
 ### Fragments in the adenine binding site
 
