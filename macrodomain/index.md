@@ -122,4 +122,4 @@ In the wetlab, we will be using the Ahel lab crystal form to re-screen our fragm
 * [Google Spreadsheet of all ligands soaked with smiles strings](https://docs.google.com/spreadsheets/d/1CesOLzheW0tuBXSQTmR61axZwZi7-d98CRVBHs9tVKI/edit?usp=sharing)
 * [UCSF BOX Folder of PDBs, MTZs and Event/Z Maps of hits](https://ucsf.box.com/s/qjydo8sg2pdjhazekcj3fpud7lh3bo90)
 * [UCSF BOX Folder of MTZs of non-hits](https://ucsf.box.com/s/78z31gag8rysikha23e52c13zle5git8)
-* [Post describing the Ahel/X-Chem data](https://www.diamond.ac.uk/covid-19/for-scientists/SARS-CoV-2-macrodomain.html)=
+* [Post describing the Ahel/X-Chem data](https://www.diamond.ac.uk/covid-19/for-scientists/SARS-CoV-2-macrodomain.html)
