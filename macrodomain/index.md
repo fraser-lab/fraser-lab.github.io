@@ -38,7 +38,7 @@ As we were finalizing our data, we got in touch with [Frank von Delft and the X-
 
 <img class="img-fluid d-block" src="img/xtal_contact.jpg" alt="fluid" style="max-height: 500px; max-width:100%">
 
-Our construct has several additional residues at both termini, precluding formation of those contacts. Their crystal form has a higher DMSO tolerance, is more reproducibly isomorphous, and most importantly, has a more accessible active site for soaking. They performed a larger experiment than we did (~1200 soaks) and generated more hits overall and bound to the active site. We are excited to learn from them and to keep the communication open between our groups for the followup experiments, and to keep crystallography and computational chemistry efforts going on both continents — international science for the win!
+Our construct has several additional residues at both termini, precluding formation of those contacts. Their crystal form has a higher DMSO tolerance, is more reproducibly isomorphous, and most importantly, has a more accessible active site for soaking. They performed a larger experiment than we did (~1200 soaks) and generated more hits overall (80) and bound to the active site (54!!!). We are excited to learn from them and to keep the communication open between our groups for the followup experiments, and to keep crystallography and computational chemistry efforts going on both continents — international science for the win!
 
 
 ## Summary of the fragment screening results
@@ -66,7 +66,7 @@ Using the data processed by Iris, Galen used PanDDA to search for fragments in t
 
 ### Fragments in the adenine binding site
 
-The three active-site fragments were located in the adenine-binding pocket. The amino isoquinoline engages the protein in the same way as adenine: the aromatic nitrogen forms a 2.8 Å hydrogen bond with the backbone nitrogen of Ile23, and the primary amine forms a 2.7 Å hydrogen bond with the Asp22 side-chain. The remaining two active site fragments bind in the same plane as the isoquinoline, but with different hydrogen bonding to Asp22. The Ahel/X-Chem effort has 55 fragments bound in the active site. Collectively, these are a lot of great starting points for structure-based design.
+The three active-site fragments were located in the adenine-binding pocket. The amino isoquinoline engages the protein in the same way as adenine: the aromatic nitrogen forms a 2.8 Å hydrogen bond with the backbone nitrogen of Ile23, and the primary amine forms a 2.7 Å hydrogen bond with the Asp22 side-chain. The remaining two active site fragments bind in the same plane as the isoquinoline, but with different hydrogen bonding to Asp22. The Ahel/X-Chem effort has 54 fragments bound in the active site. Collectively, these are a lot of great starting points for structure-based design.
 
 ### Fragments in the K90 site
 
