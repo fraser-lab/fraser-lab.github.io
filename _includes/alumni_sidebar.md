@@ -5,7 +5,7 @@
 <div id = "{{alum.name}}" style="padding-top: 60px; margin-top: -60px;">
 <p><strong>{{alum.name}}</strong> - <em>{{alum.position}}</em><br>
 {% if alum.startdate %} {{alum.startdate | date:"%Y"}} - {% endif %}{{alum.enddate | date:"%Y"}} <br>
-Currently: {{alum.current}} </p>
+Subsequently: {{alum.subsequent}} </p>
 </div>
 {% endfor %}
 
@@ -18,7 +18,7 @@ Currently: {{alum.current}} </p>
 <p><strong>{{student.name}}</strong><br>
 {% if student.startdate %} {{student.startdate | date:"%Y"}} - {% endif %}{{student.enddate | date:"%Y"}} <br>
 {% if student.current %}
-Currently: {{student.current}}<br>
+Subsequently: {{student.subsequent}}<br>
 {% endif %}
 </p>
 </div> {% endfor %}

@@ -5,7 +5,7 @@ enddate: 2017-02-09
 image: /static/img/members/woldeyes.jpg
 altimage: /static/img/members/woldeyes_pb.jpg
 position: Graduate Student, Chemistry and Chemical Biology (NSF Fellow)
-current: Postdoctoral Fellow - Chiu Lab @ SLAC/Stanford
+subsequent: Postdoctoral Fellow - Chiu Lab @ SLAC/Stanford
 pronouns:
 email: rahel.woldeyes (at) ucsf.edu
 scholar: kFoaho8AAAAJ
