@@ -12,7 +12,7 @@ group: macrodomain
 
 Macrodomain is a compelling target for SARS-CoV-2, but there are no inhibitors (or even starting points for inhibitors). The QCRG Structural Biology Consortium performed a crystallographic fragments screen, identifying a few small molecules to kick-start our work to develop an inhibitor. Our friends in the UK, Ivan Ahel's lab and X-Chem, [did something similar](https://www.diamond.ac.uk/covid-19/for-scientists/SARS-CoV-2-macrodomain.html) and found even more fragment starting points. We are releasing [the data together](https://fragalysis.diamond.ac.uk/viewer/react/preview/target/mArh)!
 
-[Zenodo Snapshot](https://doi.org/10.5281/zenodo.3932380)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3932380.svg)](https://doi.org/10.5281/zenodo.3932380)
 
 ## Context
 
