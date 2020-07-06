@@ -1,7 +1,7 @@
 ---
 name: Roberto Chica, Ph.D.
-startdate: 2018-01-DD
-enddate: 2018-05-DD
+startdate: 2018-01-01
+enddate: 2018-05-01
 position: Sabbatical Professor
 current: University of Ottawa
 ---
