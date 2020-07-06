@@ -11,7 +11,7 @@ group: contact
 
 <div class="col-md-4">
 
-  <h4>Fraser Lab</h4>
+  <h4>Lab Area </h4>
   tel: 415 502 3488
 
 </div>
@@ -32,8 +32,8 @@ group: contact
   <h4> Hilary Smith Mahon</h4>
   Administrative Assistant to Dr. James Fraser and  others<br>
   Department of Bioengineering and Therapeutic Sciences  <br>
-  email:  Hilary.SmithMahon (at) ucsf.edu  <br>
-  tel: 415 476 1947   <br>
+  Email:  Hilary.SmithMahon (at) ucsf.edu  <br>
+  Phone: 415 476-1947   <br>
 
 </div>
 
@@ -47,11 +47,9 @@ group: contact
 
 <h4>Office Address</h4>
 
-600 16th Street <br>
-Genentech Hall S472E <br>
-UCSF Mail Code 2240 <br>
-San Francisco, CA 94158 <br>
-
+Department of Bioengineering and Therapeutic Sciences Box #2240<br>
+600 16th Street, Genentech Hall Room S472E<br>
+San Francisco, CA 94143
 
 
 </div>
@@ -60,10 +58,9 @@ San Francisco, CA 94158 <br>
 
 <h4>Lab Address</h4>
 
-600 16th Street <br>
-Genentech Hall S476 <br>
-UCSF Mail Code 2240 <br>
-San Francisco, CA 94158 <br>
+Department of Bioengineering and Therapeutic Sciences Box #2240<br>
+600 16th Street, Genentech Hall Room S476<br>
+San Francisco, CA 94143
 
 </div>
 

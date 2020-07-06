@@ -1,12 +1,19 @@
 ---
 name: Gabriella Estevam
+startdate: 2019-07-19
+enddate: YYYY-MM-DD
 image: /static/img/members/Estevam.jpg
 altimage: /static/img/members/Estevam_pb.jpg
+position: Graduate Student, Tetrad
+#current:  update once you become an alumnus
 pronouns: she/her/hers
-position: Graduate Student
 email: gabriella.estevam (at) ucsf.edu
-github: gestevam
+scholar:
+website:
+UCSF:
 twitter: GabbyEstevam
+github: gestevam
+orcid:
 description: "Gabby graduated from UC Santa Cruz with a degree in Biochemistry and Molecular Biology. As an undergraduate, she studied the structure and dynamics of telomeres and telomerase under the mentorship of Dr. Michael Stone, where her focus was on developing a high-throughput platform to study telomere lengthening.
 
 
