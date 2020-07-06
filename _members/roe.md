@@ -16,5 +16,6 @@ github:
 orcid: 0000-0002-2487-5587
 description: "Leah graduated from UC Berkeley with a degree Molecular Cell Biology with emphasis in Biochemistry and Molecular Biology. During undergrad, Leah worked under the guidance of Dr. Ron Zuckermann at LBNL studying peptoids, a class of peptide mimics. Her research focused on controlling structure through side chain to main chain hydrogen bonding.
 
+
 At UCSF, Leah is working collaboratively with the Fraser and Bondy-Denomy Labs on crystallography of anti-CRISPR proteins.  When not in lab, Leah enjoys hikes and exploring the city."
 ---
