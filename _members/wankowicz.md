@@ -1,5 +1,10 @@
 ---
 name: Stephanie Wankowicz
+<<<<<<< Updated upstream
+=======
+startdate: 2019-06-01
+enddate: YYYY-MM-DD
+>>>>>>> Stashed changes
 image: /static/img/members/Wankowicz.jpg
 altimage: /static/img/members/Wankowicz_pb.jpg
 pronouns: she/her/hers
