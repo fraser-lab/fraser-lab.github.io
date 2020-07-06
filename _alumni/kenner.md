@@ -5,7 +5,7 @@ enddate: 2014-09-01
 image:
 altimage:
 position: Specialist
-current: Postdoctoral Fellow - Dueber Lab @ Genentech
+subsequent: Graduate Student, Biophysics - Frost Lab @ UCSF; now Postdoctoral Fellow - Dueber Lab @ Genentech
 pronouns:
 email:
 scholar: UrlSRv0AAAAJ

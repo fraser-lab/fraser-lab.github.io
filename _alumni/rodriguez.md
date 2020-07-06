@@ -5,7 +5,7 @@ enddate: 2019-07-26
 image:
 altimage:
 position: SRTP Undergraduate
-current: Graduate Student @ Scripps
+subsequent: Graduate Student @ Scripps
 pronouns:
 email:
 scholar:

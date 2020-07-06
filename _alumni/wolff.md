@@ -5,7 +5,7 @@ enddate: 2020-03-24
 image: /static/img/members/Wolff.jpg
 altimage: /static/img/members/Wolff_pb.jpg
 position: Graduate Student, Biophysics
-current: Medical Writer @ Health Interactions
+subsequent: Medical Writer @ Health Interactions
 pronouns: he/him/his
 email: LifeHasOrder (at) gmail.com
 scholar: EqoaChsAAAAJ

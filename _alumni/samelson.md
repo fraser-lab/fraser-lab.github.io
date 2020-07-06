@@ -5,7 +5,7 @@ enddate: 2011-08-01
 image:
 altimage:
 position: Technician
-current: Postdoctoral Fellow - Kampmann Lab @ UCSF
+subsequent: Graduate Student, MCB - Marqussee Lab @ UC Berkeley; now Postdoctoral Fellow - Kampmann Lab @ UCSF
 pronouns:
 email:
 scholar:

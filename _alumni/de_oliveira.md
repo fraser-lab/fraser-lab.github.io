@@ -5,7 +5,7 @@ enddate: 2019-08-14
 image: /static/img/members/de_oliveira.jpg
 altimage: /static/img/members/de_oliveira_pb.jpg
 position: Postdoctoral Fellow
-current: Bioinformatics Scientist @ Frontier Medicines
+subsequent: Bioinformatics Scientist @ Frontier Medicines
 pronouns:
 email: saulo (at) stanford.edu
 scholar: Lxeg6mwAAAAJ
