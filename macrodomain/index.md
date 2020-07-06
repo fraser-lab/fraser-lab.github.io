@@ -12,6 +12,8 @@ group: macrodomain
 
 Macrodomain is a compelling target for SARS-CoV-2, but there are no inhibitors (or even starting points for inhibitors). The QCRG Structural Biology Consortium performed a crystallographic fragments screen, identifying a few small molecules to kick-start our work to develop an inhibitor. Our friends in the UK, Ivan Ahel's lab and X-Chem, [did something similar](https://www.diamond.ac.uk/covid-19/for-scientists/SARS-CoV-2-macrodomain.html) and found even more fragment starting points. We are releasing [the data together](https://fragalysis.diamond.ac.uk/viewer/react/preview/target/mArh)!
 
+[Zenodo Snapshot](https://doi.org/10.5281/zenodo.3932380)
+
 ## Context
 
 The [QBI Coronavirus Research Group](http://qbi.ucsf.edu/QCRG/overview) is a group of UCSF scientists who came together to work on COVID-19. Initially, this work was centered around creating and analyzing the host-viral protein-protein interactome and drug repurposing efforts, recently published by the [Krogan group and a large team of collaborators](https://doi.org/10.1038/s41586-020-2286-9).  Stemming from that initial work, the [QCRG Structural Biology Consortium](http://qbi.ucsf.edu/qcrg/structuralbiology) was formed, with three major goals:
