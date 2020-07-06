@@ -2,7 +2,7 @@
 name: Saulo de Oliveira, Ph.D.
 startdate: 2018-07-01
 enddate: 2019-08-14
-image: /static/img/members/de_oliveira.png
+image: /static/img/members/de_oliveira.jpg
 altimage: /static/img/members/de_oliveira_pb.jpg
 position: Postdoctoral Fellow
 current: Bioinformatics Scientist @ Frontier Medicines
