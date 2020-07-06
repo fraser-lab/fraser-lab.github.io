@@ -17,7 +17,7 @@ Subsequently: {{alum.subsequent}} </p>
 <div id = "{{student.name}}" style="padding-top: 60px; margin-top: -60px;">
 <p><strong>{{student.name}}</strong><br>
 {% if student.startdate %} {{student.startdate | date:"%Y"}} - {% endif %}{{student.enddate | date:"%Y"}} <br>
-{% if student.current %}
+{% if student.subsequent %}
 Subsequently: {{student.subsequent}}<br>
 {% endif %}
 </p>
