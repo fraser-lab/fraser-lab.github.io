@@ -1,5 +1,10 @@
 ---
 name: Michael Thompson, Ph.D.
+<<<<<<< Updated upstream
+=======
+startdate: 2014-09-01
+enddate: 2020-08-01
+>>>>>>> Stashed changes
 image: /static/img/members/MThompson.jpg
 altimage: /static/img/members/MThompson_pb.jpg
 position: Postdoc

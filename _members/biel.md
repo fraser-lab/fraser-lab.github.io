@@ -1,5 +1,10 @@
 ---
 name: Justin Biel, Ph.D.
+<<<<<<< Updated upstream
+=======
+startdate: 2014-07-01
+enddate: YYYY-MM-DD
+>>>>>>> Stashed changes
 image: /static/img/members/Biel.jpg
 altimage: /static/img/members/Biel_pb.jpg
 pronouns: he/him/his

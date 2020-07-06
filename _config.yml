@@ -29,3 +29,12 @@ collections:
                 output: true
         publications:
                 output: true
+<<<<<<< Updated upstream
+=======
+        alumni:
+                output: true
+        sep:
+                output: true
+        visitors:
+                output: true
+>>>>>>> Stashed changes
