@@ -30,7 +30,6 @@ collections:
         publications:
                 output: true
         alumni:
-                sort_by: enddate
                 output: true
         sep:
                 output: true
