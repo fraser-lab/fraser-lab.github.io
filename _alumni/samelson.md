@@ -1,7 +1,7 @@
 ---
 name: Avi Samelson, Ph.D.
-startdate: YYYY-MM-DD
-enddate: 2011-MM-DD
+startdate: 2011-01-01
+enddate: 2011-01-01
 image:
 altimage:
 position: Technician

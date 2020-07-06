@@ -1,11 +1,12 @@
 ---
 name: Daniel Keedy, Ph.D.
-startdate: 2012-MM-DD
+startdate: 2012-01-01
 enddate: 2017-11-01
 image: /static/img/members/keedy.jpg
 altimage: /static/img/members/keedy_pb.jpg
 position: Postdoctoral Fellow (A.P. Giannini Foundation)
-current: [Assistant Professor @ CUNY](http://keedylab.org)
+#current: [Assistant Professor @ CUNY](http://keedylab.org)
+current: Assistant Professor @ CUNY - http://keedylab.org
 pronouns:
 email: daniel.keedy (at) gmail.com
 scholar: TVaqcVwAAAAJ
