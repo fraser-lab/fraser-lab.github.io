@@ -1,6 +1,6 @@
 ### Fraser Lab Alumni
-
-{% for alum in site.alumni %}
+{% assign sorted = (site.alumni | sort: "enddate") | reverse %}
+{% for alum in sorted %}
 <hr>
 <div id = "{{alum.name}}" style="padding-top: 60px; margin-top: -60px;">
 <p><strong>{{alum.name}}</strong> - <em>{{alum.position}}</em><br>
@@ -12,7 +12,8 @@ Subsequently: {{alum.subsequent}} </p>
 
 <br>
 ## [SEP High School Interns](http://sep.ucsf.edu/hs_programs/high-school-intern-program/)
-{% for student in site.sep %}
+{% assign sep_sorted = (site.sep | sort: "enddate") | reverse %}
+{% for student in sep_sorted %}
 <hr>
 <div id = "{{student.name}}" style="padding-top: 60px; margin-top: -60px;">
 <p><strong>{{student.name}}</strong><br>
@@ -26,7 +27,8 @@ Subsequently: {{student.subsequent}}<br>
 
 <br>
 ## Fraser Lab Visitors
-{% for visitor in site.visitors %}
+{% assign visitor_sorted = (site.visitors | sort: "enddate") | reverse %}
+{% for visitor in visitor_sorted %}
 <hr>
 <div id = "{{visitor.name}}" style="padding-top: 60px; margin-top: -60px;">
 <p><strong>{{visitor.name}}</strong> - <em>{{visitor.position}} from {{visitor.current}}</em><br>
