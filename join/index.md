@@ -5,7 +5,7 @@ group: join
 ---
 
 # Join the Fraser Lab
-Our lab welcomes applicants of any race, religion, national origin, gender identity, caregiver and family commitments, political affiliation, sexual orientation, and eligible age or ability. Furthermore, we are committed to maintaining a supportive and collaborative lab environment. We encourage exploratory inquiries!
+Our lab welcomes applicants from any race, ethnicity, religion, national origin, gender identity, gender expression, caregiver and family commitments, political affiliation, sexual orientation, and eligible age or ability. Furthermore, we are committed to maintaining a supportive and collaborative lab environment. We encourage exploratory inquiries!
 ##### See more about [our lab compact and philosophy.](/compact/)
 
 Our lab doesn’t generally post for specific positions, so please reach out! We are interested in engaging you in a conversation about your scientific background and goals for your future career (in academia, industry, or other ventures). We strive to provide excellent training across a wide range of computational and experimental techniques.
