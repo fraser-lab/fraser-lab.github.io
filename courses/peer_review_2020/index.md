@@ -67,6 +67,7 @@ Each students will serve as Discussion Leaders for one manuscript topic.  Everyo
     - [Example from Cell Stem Cell of a review process](http://cdn.fraserlab.com/courses/peer_review_2020/2019_saxe.pdf)
     - [Universal Principled Review](http://cdn.fraserlab.com/courses/peer_review_2020/2019_krummel.pdf)
     - [A thoughtful twitter thread on responding to reviews](https://twitter.com/dsquintana/status/1119956899447889920?s=20) and followup [blog post](https://www.dsquintana.com/post/23_apr_2019_peer-review/)
+    - [How to Write a Response to Reviewers in Ten Easy Steps](https://telliamedrevisited.wordpress.com/2020/07/15/how-to-write-a-response-to-reviewers-in-ten-easy-steps/)
 
 
 ### April 23
