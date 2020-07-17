@@ -12,6 +12,7 @@ scholar: 8fQ9bpIAAAAJ
 website:
 UCSF:
 twitter: leahtangroe
+linkedin: leahroe
 github:
 orcid: 0000-0002-2487-5587
 description: "Leah graduated from UC Berkeley with a degree Molecular Cell Biology with emphasis in Biochemistry and Molecular Biology. During undergrad, Leah worked under the guidance of Dr. Ron Zuckermann at LBNL studying peptoids, a class of peptide mimics. Her research focused on controlling structure through side chain to main chain hydrogen bonding.

@@ -10,6 +10,7 @@ pronouns: he/him/his
 email: jfraser (at) fraserlab.com
 scholar: j3iaoR8AAAAJ
 website:
+linkedin: jamesSfraser
 UCSF: james.fraser
 twitter: fraser_lab
 github: fraserlab

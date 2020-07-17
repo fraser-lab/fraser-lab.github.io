@@ -11,6 +11,7 @@ email: jennifer.michaud (at) ucsf.edu
 scholar: X7mvTacAAAAJ
 website:
 UCSF:
+linkedin: jennifermmichaud
 twitter: jmmichaud
 github: jmmichaud
 orcid: 0000-0002-0872-0825

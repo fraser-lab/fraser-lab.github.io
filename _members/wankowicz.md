@@ -11,6 +11,7 @@ email: stephanie.wankowicz (at) ucsf.edu
 scholar: WJ9lxYMAAAAJ
 website:
 UCSF:
+linkedin: stephanie-mullane-wankowicz-2657a726
 twitter: stephanie_mul
 github: stephaniewanko
 orcid: 0000-0002-4225-7459
