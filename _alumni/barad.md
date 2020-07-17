@@ -11,6 +11,7 @@ email: benjamin.barad (at) gmail.com
 scholar: XDH9FrwAAAAJ
 website: "http://benjaminbarad.com"
 UCSF:
+linkedin: bbarad
 twitter: benjaminbarad
 github: bbarad
 orcid: 0000-0002-1016-862X

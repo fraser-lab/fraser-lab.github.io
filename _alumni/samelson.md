@@ -7,6 +7,7 @@ altimage:
 position: Technician
 subsequent: Graduate Student, MCB - Marqussee Lab @ UC Berkeley; now Postdoctoral Fellow - Kampmann Lab @ UCSF
 pronouns:
+linkedin: avi-s-39081a39
 email:
 scholar:
 website:

@@ -11,6 +11,7 @@ email: andrew.vanbenschoten (at) ucsf.edu
 scholar: 6YlS0rQAAAAJ
 website:
 UCSF:
+linkedin: andrewhvbs
 twitter: vanben11
 github: vanbenschoten
 orcid: 0000-0002-7944-6237
