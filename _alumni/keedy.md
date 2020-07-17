@@ -10,7 +10,8 @@ subsequent: Assistant Professor @ CUNY - http://keedylab.org
 pronouns:
 email: daniel.keedy (at) gmail.com
 scholar: TVaqcVwAAAAJ
-website:
+website: https://keedylab.org/
+linkedin: danielkeedy
 UCSF:
 twitter: DanielKeedy
 github: dkeedy

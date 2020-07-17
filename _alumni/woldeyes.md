@@ -11,6 +11,7 @@ email: rahel.woldeyes (at) ucsf.edu
 scholar: kFoaho8AAAAJ
 website:
 UCSF:
+linkedin: rahel-woldeyes-1178773a
 twitter: rahelwoldeyes
 github: rahelwoldeyes
 orcid: 0000-0003-0737-8383
