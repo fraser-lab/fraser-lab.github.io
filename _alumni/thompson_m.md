@@ -4,7 +4,7 @@ startdate: 2014-09-01
 enddate: 2020-08-01
 image: /static/img/members/MThompson.jpg
 altimage: /static/img/members/MThompson_pb.jpg
-position: Postdoctoral Fellow
+position: Postdoctoral Fellow (BioXFEL, F32 NRSA, PBBR Fellow)
 subsequent: Assistant Professor @ UC Merced
 pronouns: he/him/his
 email: mct.ucsf (at) gmail.com
