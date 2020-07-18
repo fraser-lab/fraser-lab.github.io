@@ -5,13 +5,14 @@ enddate: YYYY-MM-DD
 image: /static/img/members/Liu.jpg
 altimage: /static/img/members/Liu_pb.jpg
 position: Staff Scientist
-#current:  update once you become an alumnus
+#subsequent:  update once you become an alumnus
 pronouns: she/her/hers
 email: lin.liu (at) ucsf.edu
 scholar: 5kUDcJ0AAAAJ
 website:
 UCSF: lin.liu
 twitter:
+linkedin:
 github: lliu1234
 orcid:
 description: "Lin was a graduate student at University of Pittsburgh with Dr. Angela Gronenborn and Dr. Ivet Bahar. Next, Lin was a joint post-doc and Li Foundation fellow between the Kortemme and Fraser labs, using computational and experimental techniques to study the evolution of protein dynamics.

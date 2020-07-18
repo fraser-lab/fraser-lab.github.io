@@ -5,13 +5,14 @@ enddate: YYYY-MM-DD
 image: /static/img/members/Correy.jpg
 altimage: /static/img/members/Correy_pb.jpg
 position: Postdoctoral Fellow
-#current:  update once you become an alumnus
+#subsequent:  update once you become an alumnus
 pronouns: he/him/his
 email: galen.correy (at) ucsf.edu
 scholar:
 website:
 UCSF: galen.correy
 twitter:
+linkedin:
 github: gcorrey
 orcid:
 description: "Galen’s research interest lies in using structural biology to tackle problems in protein engineering and drug design. He earned his , Ph.D. from the Australian National University, where he worked with Dr. Colin Jackson on the structure, function and evolution of insect enzymes that detoxify organophosphate nerve agents.

@@ -5,7 +5,7 @@ enddate: YYYY-MM-DD
 image: /static/img/members/Hogan.jpg
 altimage: /static/img/members/Hogan_pb.jpg
 position: Postdoctoral Fellow
-#current:  update once you become an alumnus
+#subsequent:  update once you become an alumnus
 pronouns: he/him/his
 email: daniel.hogan (at) ucsf.edu
 scholar:

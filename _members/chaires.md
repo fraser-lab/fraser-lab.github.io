@@ -5,7 +5,7 @@ enddate: 2020-07-31
 image: /static/img/members/Chaires.jpg
 altimage: /static/img/members/Chaires_pb.jpg
 position: Junior Specialist
-current: Medical Student @ UT Southwestern
+subsequent: Medical Student @ UT Southwestern
 pronouns: he/him/his
 email: hchaires (at) fraserlab.com
 scholar:

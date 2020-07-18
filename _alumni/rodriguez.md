@@ -6,12 +6,13 @@ image:
 altimage:
 position: SRTP Undergraduate
 subsequent: Graduate Student @ Scripps
-pronouns:
+pronouns: he/him/his
 email:
 scholar:
 website:
 UCSF:
 twitter:
+linkedin:
 github:
 orcid:
 description:

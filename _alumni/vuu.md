@@ -6,12 +6,13 @@ image:
 altimage:
 position: Assistant Specialist
 subsequent: Research Associate @ JBEI/LBL
-pronouns:
+pronouns: she/her/hers
 email:
 scholar:
 website:
 UCSF:
 twitter:
+linkedin:
 github:
 orcid:
 description:
