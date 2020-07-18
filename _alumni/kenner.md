@@ -9,6 +9,7 @@ subsequent: Graduate Student, Biophysics - Frost Lab @ UCSF; now Postdoctoral Fe
 pronouns:
 email:
 scholar: UrlSRv0AAAAJ
+linkedin: lillian-kenner-707846b8
 website:
 UCSF:
 twitter:

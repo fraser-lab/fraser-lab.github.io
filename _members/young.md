@@ -11,6 +11,7 @@ email: irisdyoung (at) gmail.com
 scholar: iSv5YCUAAAAJ
 website:
 UCSF: iris.young
+linkedin: iris-young-1b884a114
 twitter: irisdyoung
 github: idyoung
 orcid: 0000-0003-4713-9504
