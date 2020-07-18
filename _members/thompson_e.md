@@ -12,6 +12,7 @@ scholar: PmKVLg8AAAAJ
 website:
 UCSF:
 twitter: ernpossible
+linkedin: erin-thompson-6700a836
 github: eposs
 orcid: 0000-0002-6085-3051
 description: "Erin graduated from Drake University with a degree in Biochemistry and Chemistry.  As an undergraduate, Erin worked in several labs ranging from exercise physiology to biophysics. In her free time, she enjoys running, hiking, and exploring San Francisco.

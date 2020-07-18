@@ -13,6 +13,7 @@ website:
 UCSF:
 twitter: LifeHasOrder
 github: LifeHasOrder
+linkedin: lifehasorder
 orcid: 0000-0003-0474-7673
 description: "Alex earned a B.S. in Kinesiology & Health Promotion, and a M.S. in Molecular Biology, from the University of Wyoming. During his time there, he became fascinated with the role that protein structural dynamics play in molecular mechanisms. Thus, Alex’s work in the Fraser Lab seeks to understand how proteins move, and to what degree these movements are altered in the context of human disease. He has been fortunate to receive a [Matilda Edlund Scholarship](http://graduate.ucsf.edu/edlund-scholarship),  a [UCSF Discovery Fellowship](http://support.ucsf.edu/discoveryfellows), and an [ARCS Foundation Scholar Award](http://www.arcsfoundation.org/) to support this work.
 
