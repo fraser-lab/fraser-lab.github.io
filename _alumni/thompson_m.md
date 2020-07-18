@@ -1,6 +1,6 @@
 ---
 name: Michael Thompson, Ph.D.
-startdate: 2013-MM-YY
+startdate: 2014-09-01
 enddate: 2020-08-01
 image: /static/img/members/MThompson.jpg
 altimage: /static/img/members/MThompson_pb.jpg
