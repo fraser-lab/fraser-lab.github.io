@@ -5,13 +5,14 @@ enddate: YYYY-MM-DD
 image: /static/img/members/Lee.jpg
 altimage: /static/img/members/Lee_pb.jpg
 position: Postdoctoral Fellow
-#current:  update once you become an alumnus
+#subsequent:  update once you become an alumnus
 pronouns: he/him/his
 email: djohnlee (at) fraserlab.com
 scholar: vJBNuDUAAAAJ
-linkedin: djohnlee
+website:
 UCSF: john.lee.2
 twitter:
+linkedin: djohnlee
 github: djohnlee
 orcid: 0000-0002-5132-3243
 description: "John earned his Ph.D. working with Dr. Michael Burkart at the University of California, San Diego. His primary focus was the application of protein NMR to the carrier proteins central to fatty acid, polyketide, and non-ribosomal peptide synthetic pathways.

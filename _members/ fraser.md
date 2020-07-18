@@ -10,9 +10,9 @@ pronouns: he/him/his
 email: jfraser (at) fraserlab.com
 scholar: j3iaoR8AAAAJ
 website:
-linkedin: jamesSfraser
 UCSF: james.fraser
 twitter: fraser_lab
+linkedin: jamesSfraser
 github: fraserlab
 orcid: 0000-0002-5080-2859
 description: "James was an undergraduate at McGill University, where he worked in the lab of Francois Fagotto on [Xenopus developmental biology](/publications#20974811).

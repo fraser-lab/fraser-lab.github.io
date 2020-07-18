@@ -5,13 +5,14 @@ enddate: YYYY-MM-DD
 image: /static/img/members/Diaz.jpg
 altimage: /static/img/members/Diaz_pb.jpg
 position: Graduate Student, Tetrad
-#current:  update once you become an alumnus
+#subsequent:  update once you become an alumnus
 pronouns: he/him/his
 email: roberto.diaz (at) ucsf.edu
 scholar: L_OCeG4AAAAJ
 website: https://rediaz.science/
 UCSF:
 twitter: robbiediaz_ucsf
+linkedin:
 github: rediaz111
 orcid: 0000-0002-1172-9919
 description: "Robbie graduated from the University of Miami with a degree in Neuroscience. He studied how transcription factors regulate axon regeneration in the central nervous system as an undergraduate in Dr. Vance Lemmon's lab.

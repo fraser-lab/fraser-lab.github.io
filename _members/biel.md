@@ -5,13 +5,14 @@ enddate: YYYY-MM-DD
 image: /static/img/members/Biel.jpg
 altimage: /static/img/members/Biel_pb.jpg
 position: Staff Scientist
-current:
+subsequent:
 pronouns: he/him/his
 email: justin.biel (at) ucsf.edu
 scholar: FatB6VQAAAAJ
 website:
 UCSF:
 twitter: thebieldeal
+linkedin:
 github: bielj
 orcid: 0000-0002-0935-8362
 description: "Justin graduated from Oregon State University with a degree in Biochemistry and Biophysics. He conducted research in both the laboratories of Dr. Elisar Barbar studying dynein protein interactions, and Dr. P. Andrew Karplus conducting structural bioinformatic research on protein structural components from ultra-high resolution protein crystal structures.

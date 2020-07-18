@@ -6,8 +6,8 @@ image: /static/img/members/de_oliveira.jpg
 altimage: /static/img/members/de_oliveira_pb.jpg
 position: Postdoctoral Fellow
 subsequent: Bioinformatics Scientist @ Frontier Medicines
-pronouns:
-email: saulo (at) stanford.edu
+pronouns: he/him/his
+email: #saulo (at) stanford.edu
 scholar: Lxeg6mwAAAAJ
 website:
 UCSF:

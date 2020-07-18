@@ -5,11 +5,11 @@ enddate: 2020-08-01
 image: /static/img/members/MThompson.jpg
 altimage: /static/img/members/MThompson_pb.jpg
 position: Postdoctoral Fellow
-current: (Assistant Professor @ UC Merced)[https://thompsonlab.science]
+subsequent: Assistant Professor @ UC Merced
 pronouns: he/him/his
 email: mct.ucsf (at) gmail.com
 scholar: KDvVpWYAAAAJ
-website:
+website: https://thompsonlab.science
 UCSF: michael.c.thompson
 twitter: mctucsf
 linkedin: michael-thompson-612796ab

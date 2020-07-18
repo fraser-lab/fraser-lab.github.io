@@ -5,7 +5,7 @@ enddate: YYYY-MM-DD
 image: /static/img/members/EThompson.jpg
 altimage: /static/img/members/EThompson_pb.jpg
 position: Graduate Student, Chemistry and Chemical Biology
-#current:  update once you become an alumnus
+#subsequent:  update once you become an alumnus
 pronouns: she/her/hers
 email: eposs (at) fraserlab.com
 scholar: PmKVLg8AAAAJ
