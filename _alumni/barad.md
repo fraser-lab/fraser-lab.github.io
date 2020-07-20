@@ -4,7 +4,7 @@ startdate: 2014-09-01
 enddate: 2019-07-29
 image: /static/img/members/barad.jpg
 altimage: /static/img/members/barad_pb.jpg
-position: Graduate Student, Biophysics (ARCS Fellow)
+position: Graduate Student, Biophysics (Discovery Fellow, ARCS Scholar)
 subsequent: Postdoctoral Fellow - Grotjahn Lab @ Scripps
 pronouns: he/him/his
 email: benjamin.barad (at) gmail.com
