@@ -3,7 +3,7 @@ name: José Luis Olmos, Jr., Ph.D.
 startdate: 2020-06-15
 enddate: YYYY-MM-DD
 image: /static/img/members/olmos.jpg
-altimage: /static/img/members/olmos_pb.jpg
+altimage: #/static/img/members/olmos_pb.jpg
 position: Postdoctoral Fellow
 #subsequent:  update once you become an alumnus
 pronouns: he/him/his
