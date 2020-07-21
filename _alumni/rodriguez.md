@@ -7,7 +7,7 @@ altimage:
 position: SRTP Undergraduate
 subsequent: Graduate Student @ Scripps
 pronouns: he/him/his
-email:
+email: mbenzeno001@gmail.com
 scholar:
 website:
 UCSF:
