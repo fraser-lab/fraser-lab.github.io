@@ -19,10 +19,9 @@ The long-term goals of our research are to understand how protein conformational
 
 <div class="row">
 
-<div class="col-md-7">
-
-
 ### Identifying hidden alternative conformations of proteins and ligands in biophysical data
+
+<div class="col-md-7 order-md-1">
 
 We study proteins as conformational ensembles.
 Although X-ray crystallography is an ensemble experiment, the results are typically summarized with a single static structure.
@@ -33,52 +32,58 @@ We are expanding, this direction to include modeling and validating protein stru
 These methods development efforts are central to discovering new allosteric ligands, through high throughput crystallographic fragment screening efforts.
 
 </div>
-<div class="col-md-5">
+<div class="col-md-5 order-md-2 align-self-center">
 <img class="img-fluid" src="/static/img/pub/2017_biel.jpg" alt="qFit">
 </div>
-
-<div class="col-md-7">
-
+</div>
+<div class="row">
 
 ### Using multi-temperature X-ray data collection methods in mechanistic studies and ligand discovery campaigns
+
+<div class="col-md-7 order-md-2">
 
 We recognized that the standard practice of cryocooling crystals could distort protein conformations.
 In both larger surveys and isolated mechanistic studies, we have demonstrated the value of room temperature data collection for revealing the structural basis of protein conformational dynamics, leading to new insights into enzymes, and increasing connections to dynamics studies from NMR and simulations.
 Additionally, we have identified how temperature can bias small molecule discovery, leading some fragment sites inaccessible at cryogenic temperatures and repositioning critical water molecules.
 </div>
 
-<div class="col-md-5">
+<div class="col-md-5 order-md-1 align-self-center">
 <img class="img-fluid" src="/static/img/pub/2018_keedy_hill.jpg" alt="ptp1b">
 </div>
-
-<div class="col-md-7">
-
+</div>
+<div class="row">
 
 ### Determining structures that influence microbial-host interactions
+
+<div class="col-md-7 order-md-1 ">
 
 We are interested in the structural enzymology and potential therapeutic applications of the human enzymes that degrade chitin, the pervasive polymer that can cause inflammation in the context of allergy and asthma. Using high resolution cryo electron microscopy, we are studying the mechanisms of action to newly synthesized antibiotics (in collaboration with the Seiple and Fujimori labs). With this platform, we are also pushing on cryoEM data processing and refinement methods to enable structure-based drug design, now acheiving resolutions better than 2.0 Å. With the improved molecules we generate, we are defining potential resistance mechanisms to these antibiotics using a combination of structural biology and deep mutational scanning experiments. In recent work, we are collaborating with the Bondy-Denomy lab to define the structural basis of anti-CRISPR proteins using a combination of X-ray crystallography, cryoEM, and NMR. The mechanism of action for many of these proteins remains mysterious.
 </div>
 
-<div class="col-md-5">
+<div class="col-md-3 order-md-2 align-self-center">
+
 <img class="img-fluid" src="/static/img/pub/2019_li_pellegrino.jpg" alt="antibiotic">
 </div>
-
-<div class="col-md-7">
-
+</div>
+<div class="row">
 
 ### Identifying unifying concepts between systems and structural biology
+
+<div class="col-md-7 order-md-2">
+
 
 We are intrigued by the similarities in genetic epistasis and thermodynamic measurements and are applying these insights to large-scale studies of point mutants and posttranslational modifications. We attempt to connect the response to genetic (mutation), chemical (ligands), and physical (temperature) in experiments to define the basis of allosteric regulation and function. We like to bring an evolutionary biology perspective to the table to understand the relative importance of these different perturbations in shaping the proteins we see today.
 </div>
 
-<div class="col-md-5">
+<div class="col-md-5 order-md-1 align-self-center">
 <img class="img-fluid" src="/static/img/pub/2020_gordon_jang_bouhaddou_xu_obernier_white_omeara_rezelj.png" alt="hairball">
 </div>
-
-<div class="col-md-7">
-
+</div>
+<div class="row">
 
 ### Creating new time-resolved experiments to probe correlated motions in proteins
+
+<div class="col-md-7 order-md-1">
 
 A major limitation of most biophysical techniques is the inability to directly reveal correlations in motions between distinct regions of macromolecules.
 We are taking advantage of the new capabilities of next-generation X-ray free electron laser (X-FEL) light sources to perform radiation damage-free imaging of proteins and to watch how protein ensembles respond when perturbed by rapid temperature jumps using the X-FEL.
@@ -86,7 +91,7 @@ At equilibrium, X-ray diffuse scattering has the potential to reveal these motio
 Our long-term goal is to increase the information content of every X-ray diffraction experiment to reveal atomic level coupling at high resolution and improved models of grouped flexibility at low resolution.
 </div>
 
-<div class="col-md-5">
+<div class="col-md-5 order-md-2 align-self-center ">
 <img class="img-fluid" src="/static/img/pub/2019_thompson.jpg" alt="tjump">
 </div>
 
