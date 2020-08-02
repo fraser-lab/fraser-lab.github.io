@@ -18,6 +18,10 @@
   link: "/courses"
   group: courses
 
+- name: philosophy
+  link: "/compact"
+  group: compact
+
 - name: news
   link: "/news"
   group: news
