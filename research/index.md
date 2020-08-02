@@ -19,6 +19,7 @@ The long-term goals of our research are to understand how protein conformational
 
 <div class="row">
 <div class="col-md-7">
+<hr>
 
 ### Identifying hidden alternative conformations of proteins and ligands in biophysical data
 
@@ -36,6 +37,7 @@ These methods development efforts are central to discovering new allosteric liga
 </div>
 
 <div class="col-md-7">
+<hr>
 
 ### Using multi-temperature X-ray data collection methods in mechanistic studies and ligand discovery campaigns
 
@@ -49,6 +51,7 @@ Additionally, we have identified how temperature can bias small molecule discove
 </div>
 
 <div class="col-md-7">
+<hr>
 
 ### Determining structures that influence microbial-host interactions
 
@@ -60,6 +63,7 @@ We are interested in the structural enzymology and potential therapeutic applica
 </div>
 
 <div class="col-md-7">
+<hr>
 
 ### Identifying unifying concepts between systems and structural biology
 
@@ -71,6 +75,7 @@ We are intrigued by the similarities in genetic epistasis and thermodynamic meas
 </div>
 
 <div class="col-md-7">
+<hr>
 
 ### Creating new time-resolved experiments to probe correlated motions in proteins
 
