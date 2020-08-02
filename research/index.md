@@ -18,7 +18,7 @@ The long-term goals of our research are to understand how protein conformational
 </div>
 
 <div class="row">
-<hr>
+
 <div class="col-md-7">
 
 
@@ -36,7 +36,7 @@ These methods development efforts are central to discovering new allosteric liga
 <div class="col-md-5">
 <img class="img-fluid" src="/static/img/pub/2017_biel.jpg" alt="qFit">
 </div>
-<hr>
+
 <div class="col-md-7">
 
 
@@ -50,7 +50,7 @@ Additionally, we have identified how temperature can bias small molecule discove
 <div class="col-md-5">
 <img class="img-fluid" src="/static/img/pub/2018_keedy_hill.jpg" alt="ptp1b">
 </div>
-<hr>
+
 <div class="col-md-7">
 
 
@@ -62,7 +62,7 @@ We are interested in the structural enzymology and potential therapeutic applica
 <div class="col-md-5">
 <img class="img-fluid" src="/static/img/pub/2019_li_pellegrino.jpg" alt="antibiotic">
 </div>
-<hr>
+
 <div class="col-md-7">
 
 
@@ -74,7 +74,7 @@ We are intrigued by the similarities in genetic epistasis and thermodynamic meas
 <div class="col-md-5">
 <img class="img-fluid" src="/static/img/pub/2020_gordon_jang_bouhaddou_xu_obernier_white_omeara_rezelj.png" alt="hairball">
 </div>
-<hr>
+
 <div class="col-md-7">
 
 
