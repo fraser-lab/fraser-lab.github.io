@@ -11,7 +11,7 @@ email: mct.ucsf (at) gmail.com
 scholar: KDvVpWYAAAAJ
 website: https://thompsonlab.science
 UCSF: michael.c.thompson
-twitter: mctucsf
+twitter: MThompsonLab
 linkedin: michael-thompson-612796ab
 github: miket928
 orcid: 0000-0002-6099-2027
