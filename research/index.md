@@ -4,20 +4,95 @@ layout: default
 group: research
 ---
 
-<img class="img-fluid mx-auto d-block" src="/static/img/fraseratucsf.jpg" alt="Fraser at UCSF, in molecular form">
+<!-- <img class="img-fluid mx-auto d-block" src="/static/img/fraseratucsf.jpg" alt="Fraser at UCSF, in molecular form">
+ -->
+<div class="row">
 
-# The Fraser lab is focused on answering some of the central questions in protein biophysics and structural biology: 
+# Our research
+The long-term goals of our research are to understand how protein conformational ensembles are reshaped by chemical, genetic, and physical perturbations. We seek to quantify how these perturbations impact protein function and organismal fitness. We are best known for creating multitemperature X-ray data collection approaches, which are especially powerful when paired with multiconformer computational modeling to reveal otherwise inaccessible features of conformational ensembles. Our group integrates high resolution structural biology (X-ray, EM, NMR), functional studies (deep mutational scanning, enzymology), and computation to study biological mechanisms and to improve protein engineering and small molecule discovery. Group members move fluidly between computation and experiment, often inventing new methods to answer their questions. 
 
-## What are the “structures” of proteins?
+#### We work on many different systems and proteins as we find ourselves drawn, again and again, to the tension of high resolution data in structural biology: as resolution gets better, modeling becomes easier... until the resolution gets too good... and then the ensemble begins to reveal itself and the fun challenges begin.
+<br>
+<br>
 
-X-ray crystallography is traditionally used to define a single, static macromolecular structure. However, these “structures” are based on fitting atomic models into electron density maps that portray an ensemble average of the billions and billions of molecules in the crystal. By mining these maps using the electron density sampling program Ringer (developed in the Alber Lab at UC Berkeley), we have shown that ensemble features can reliably detected and that noise levels are much lower than commonly thought. Features at low-levels of electron density can reveal ligand, protein and solvent flexibility that can be exploited in inhibitor optimization. We are testing how ensemble (e.g. phenix.ensemble_refinement developed by the Phenix consortium at LBL) and multi-conformer (e.g. qFit developed by our collaborator Henry van den Bedem at SSRL/SLAC) modeling methods can improve both the statistical fit to experimental data and the ability to generate novel biological hypotheses.  The next major challenge is to determine the extent to which distant parts of the protein are conformationally coupled. 
+</div>
 
-## What are the key barriers and motions between these structures?
+<div class="row">
 
-Proteins often move between different conformations. NMR spectroscopy is well suited to determining the existence of multiple states and the rates of transitions between them.  However, the atomic details of these transitions remain difficult to ascertain and interrogate. To address these challenges, we have found that the conformational distributions of proteins in the crystal are remarkably sensitive to temperature perturbations. Previously we, in collaboration with Dorothee Kern’s lab at Brandeis, used these strategies to define catalytically essential conformations of the proline isomerase CypA. Residues that shift above and below the glass transition often overlap with the regions implicated by dynamic NMR studies. To build on these synergies between X-ray crystallography, computation, and NMR, we are refining room temperature diffraction techniques to minimize radiation damage. In addition, we are developing new X-ray scattering techniques to define collective protein motions.
+### Identifying hidden alternative conformations of proteins and ligands in biophysical data
 
-## ...and what matters?
+<div class="col-md-7 order-md-1">
 
-Finally, although these biophysical techniques generate beautiful images of electron density maps and NMR spectra, we use a variety of assays to test the importance of alternative conformations and protein motions. We study the role of protein motions in enzyme catalysis using directed evolution screens and selections.  In collaboration with Tanja Kortemme’s lab, we test the ability of protein design approaches to generate rescue mutants and create novel functions. We investigate the consequences of altering biophysical parameters in the context of living systems using high-throughput genetic screens pioneered by our collaborator Nevan Krogan.  These approaches reveal extensive parallels that scale from systems biology to atomic mechanisms in how we understand genetic non-additivity, buffering, and robustness.  We believe this “systems to structure” approach will be essential for elucidating disease mechanisms in the age of personal genomics.  
+We study proteins as conformational ensembles.
+Although X-ray crystallography is an ensemble experiment, the results are typically summarized with a single static structure.
+We develop [software](https://github.com/ExcitedStates/qfit-3.0) to discover the structural ensembles present in the crystal (or on the EM grid).
+The ensemble nature of proteins highlighted by this work feeds into all of our mechanistic studies that interpret the functional effects of mutations, that characterize designed and artificially-evolved proteins, or that seek to modulate protein function with small molecules.
+These methods development efforts are central to discovering new allosteric ligands, through high throughput crystallographic fragment screening efforts.
+We are expanding, this direction to include modeling and validating protein structural data generated by cryoelectron microscopy (using EMRinger and ensemble modeling) and through integrative approaches to discover cryptic ligand binding sites. 
+These methods development efforts are central to discovering new allosteric ligands, through high throughput crystallographic fragment screening efforts.
 
-The long-term goals of our research are: 1) to develop fundamental biophysical methods and 2) to apply these methods to define the role of protein conformational dynamics in interaction specificity, allostery, and catalysis.
+</div>
+<div class="col-md-5 order-md-2 align-self-center">
+<img class="img-fluid" src="/static/img/pub/2017_biel.jpg" alt="qFit">
+</div>
+</div>
+<div class="row">
+
+### Using multi-temperature X-ray data collection methods in mechanistic studies and ligand discovery campaigns
+
+<div class="col-md-7 order-md-2">
+
+We recognized that the standard practice of cryocooling crystals could distort protein conformations.
+In both larger surveys and isolated mechanistic studies, we have demonstrated the value of room temperature data collection for revealing the structural basis of protein conformational dynamics, leading to new insights into enzymes, and increasing connections to dynamics studies from NMR and simulations.
+Additionally, we have identified how temperature can bias small molecule discovery, leading some fragment sites inaccessible at cryogenic temperatures and repositioning critical water molecules.
+</div>
+
+<div class="col-md-5 order-md-1 align-self-center">
+<img class="img-fluid" src="/static/img/pub/2018_keedy_hill.jpg" alt="ptp1b">
+</div>
+</div>
+<div class="row">
+
+### Determining structures that influence microbial-host interactions
+
+<div class="col-md-7 order-md-1 ">
+
+We are interested in the structural enzymology and potential therapeutic applications of the human enzymes that degrade chitin, the pervasive polymer that can cause inflammation in the context of allergy and asthma. Using high resolution cryo electron microscopy, we are studying the mechanisms of action to newly synthesized antibiotics (in collaboration with the Seiple and Fujimori labs). With this platform, we are also pushing on cryoEM data processing and refinement methods to enable structure-based drug design, now acheiving resolutions better than 2.0 Å. With the improved molecules we generate, we are defining potential resistance mechanisms to these antibiotics using a combination of structural biology and deep mutational scanning experiments. In recent work, we are collaborating with the Bondy-Denomy lab to define the structural basis of anti-CRISPR proteins using a combination of X-ray crystallography, cryoEM, and NMR. The mechanism of action for many of these proteins remains mysterious.
+</div>
+
+<div class="col-md-3 order-md-2 align-self-center">
+
+<img class="img-fluid" src="/static/img/pub/2019_li_pellegrino.jpg" alt="antibiotic">
+</div>
+</div>
+<div class="row">
+
+### Identifying unifying concepts between systems and structural biology
+
+<div class="col-md-7 order-md-2">
+
+
+We are intrigued by the similarities in genetic epistasis and thermodynamic measurements and are applying these insights to large-scale studies of point mutants and posttranslational modifications. We attempt to connect the response to genetic (mutation), chemical (ligands), and physical (temperature) in experiments to define the basis of allosteric regulation and function. We like to bring an evolutionary biology perspective to the table to understand the relative importance of these different perturbations in shaping the proteins we see today.
+</div>
+
+<div class="col-md-5 order-md-1 align-self-center">
+<img class="img-fluid" src="/static/img/pub/2020_gordon_jang_bouhaddou_xu_obernier_white_omeara_rezelj.png" alt="hairball">
+</div>
+</div>
+<div class="row">
+
+### Creating new time-resolved experiments to probe correlated motions in proteins
+
+<div class="col-md-7 order-md-1">
+
+A major limitation of most biophysical techniques is the inability to directly reveal correlations in motions between distinct regions of macromolecules.
+We are taking advantage of the new capabilities of next-generation X-ray free electron laser (X-FEL) light sources to perform radiation damage-free imaging of proteins and to watch how protein ensembles respond when perturbed by rapid temperature jumps using the X-FEL.
+At equilibrium, X-ray diffuse scattering has the potential to reveal these motions; however, we currently lack the ability to collect, integrate, and refine diffuse scattering data.
+Our long-term goal is to increase the information content of every X-ray diffraction experiment to reveal atomic level coupling at high resolution and improved models of grouped flexibility at low resolution.
+</div>
+
+<div class="col-md-5 order-md-2 align-self-center ">
+<img class="img-fluid" src="/static/img/pub/2019_thompson.jpg" alt="tjump">
+</div>
+
+</div>
