@@ -2,8 +2,8 @@
 name: FirstName LastName
 startdate: YYYY-MM-DD
 enddate: YYYY-MM-DD
-image: /static/img/members/LastName.jpg
-altimage: /static/img/members/LastName_pb.jpg
+image: /static/img/members/LastName.jpg #365 x 365 pixels, 72 dpi
+altimage: /static/img/members/LastName_pb.jpg #365 x 365 pixels, 72 dpi
 position: Role in Fraser Lab
 #subsequent:  update once you become an alumnus
 pronouns: they/them/theirs #personal pronouns
