@@ -1,8 +1,7 @@
 ---
-title: "Synthesis and Mechanism of
-Action of Group a Streptogramin Antibiotics That Overcome Resistance."
-citation: "Li Q&#42;, **Pellegrino J&#42;, Lee DJ**, Tran AA, Wang R, **Park JE**, Ji K, Chow D, Zhang N, Brilot AF, **Biel JT**,
-van Zundert G, Borrelli K, Shinabarger D, Wolfe C, Murray B, Jacobson MP, **Fraser JS**, Seiple IB.  *Submitted - Preprint on ChemRxiv*. 2019."
+title: "Synthetic group A streptogramin antibiotics that overcome Vat resistance."
+citation: "Li Q&#42;, **Pellegrino J&#42;, Lee DJ**, Tran AA, **Chaires HC**, Wang R, **Park JE**, Ji K, Chow D, Zhang N, Brilot AF, **Biel JT**,
+van Zundert G, Borrelli K, Shinabarger D, Wolfe C, Murray B, Jacobson MP, Mühle E, Chesneau O, **Fraser JS**, Seiple IB.  *Submitted - Preprint on ChemRxiv*. 2019."
 date: '2019-07-01'
 image: '/static/img/pub/2019_li_pellegrino.jpg'
 # pmid: Submitted
