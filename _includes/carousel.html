@@ -1,0 +1,48 @@
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+
+<div id="myCarousel" class="carousel slide" data-ride="carousel">
+<!-- Indicators -->
+<ol class="carousel-indicators">
+{% assign first = true %}
+{% for image in site.static_files %}
+{% if image.path contains 'img/members/drawings/members/' %}
+{% if first %}
+<li data-target="#myCarousel" data-slide-to="{% increment i %}" class="active"></li>
+{% assign first = false %}
+{% else %}
+<li data-target="#myCarousel" data-slide-to="{% increment i %}"></li>
+{% endif %}
+{% endif %}
+{% endfor %}
+</ol>
+
+<!-- Wrapper for slides -->
+<div class="carousel-inner" style="height: 480px;">
+{% assign first = true %}
+{% for image in site.static_files %}
+{% if image.path contains 'img/members/drawings/members/' %}
+{% if first %}
+<div class="item active">
+{% assign first = false %}
+{% else %}
+<div class="item">
+{% endif %}
+<img src="{{image.path}}" class="img-fluid">
+</div>
+{% endif %}
+{% endfor %}
+
+</div>
+
+<!-- Left and right controls -->
+<a class="left carousel-control" href="#myCarousel" data-slide="prev">
+<span class="glyphicon glyphicon-chevron-left"></span>
+<span class="sr-only">Previous</span>
+</a>
+<a class="right carousel-control" href="#myCarousel" data-slide="next">
+<span class="glyphicon glyphicon-chevron-right"></span>
+<span class="sr-only">Next</span>
+</a>
+</div>
