@@ -4,7 +4,7 @@ layout: default
 group: compact
 ---
 
-<img class="img-fluid mx-auto d-block" src="/static/img/fraseratucsf.jpg" alt="Fraser at UCSF, in molecular form">
+{% include carousel.html %}
 
 # Lab Compact and Philosophy
 <br/>
