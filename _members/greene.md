@@ -3,7 +3,7 @@ name: Eric Greene
 startdate: 2020-08-01
 enddate: #YYYY-MM-DD
 image: /static/img/members/greene.jpg
-altimage: #/static/img/members/greene_pb.jpg
+altimage: /static/img/members/greene_pb.jpg
 position: Postdoctoral Fellow
 #subsequent: update once you become an alumnus
 pronouns: he/him/his #personal pronouns
