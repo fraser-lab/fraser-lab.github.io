@@ -23,13 +23,30 @@ permalink: /methods/
 
 Monday, Tuesday, Wednesday - 9AM-11AM on Zoom
 
-- Nov 2-5: Class intro, command line basics, Visualization
-- Nov. 9, 10, 12 (no class Nov 11, Veteran's Day):	RETREAT???
-- Nov. 16-18: Method 1
-- Nov. 23-25: Method 2 (Thanksgiving starts Thursday)
-- Nov. 30-Dec 2: Method 3
-- Dec. 7-9: working week
-- Dec. 14: Final presentation
+Fall - Macro pt 1 (6 weeks)
+- Nov 2-5
+- Nov. 9, 10, 12 (no class Nov 11, Veteran’s Day)
+- Nov. 16-18
+- Nov. 23-25
+- Nov. 30-Dec 2
+- Dec. 7-9
+- Dec. 14 chalk talk 1
+
+Winter - Macro pt 2 (6 weeks)
+- Jan 4-6
+- Jan 11-13
+- Jan 19,20 (18th is MLK day, 21st starts BP recruitment)
+- Jan 25-27
+- Feb 1-3
+- Feb 8-10
+
+Winter - Methods (6 weeks)
+- Feb 16/17 - Class intro
+- Feb 22-24 - Method 1
+- Mar 1-3 - Method 2
+- Mar 8-10 - Method 3
+- Mar 15-17 - final working week on data
+- Mar 22-24 - Mini Quals (which is continuously developed through Macro)
 
 ## Youtube videos
 
