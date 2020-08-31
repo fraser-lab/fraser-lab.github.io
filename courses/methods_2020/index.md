@@ -5,14 +5,14 @@ group: courses
 permalink: /methods/
 ---
 
-# Biophysics 204A: Methods in Macromolecular Structure #
+# Biophysics 204B: Methods in Macromolecular Structure #
 
 [See 2019 version of the course here](/courses/methods_2019)
 
-## DEI statement and plan
-The course instructors and teaching assistants value the contributions, ideas and perspective of all students. It is our intent that students from diverse backgrounds be well-served by this course, that students' learning needs be addressed both in and out of class, and that the diversity that the students bring to this class be viewed as a resource, strength and benefit. It is our intent to present materials and activities that are respectful of diversity: gender identity, sexuality, disability, age, socioeconomic status, ethnicity, race, nationality, religion, and culture. However, we also acknowledge that many of the literature examples used in this course were authored by white males. Integrating a diverse set of experiences is important for a more comprehensive understanding of science and we strive towards that goal. Although the instructors are committed to continuous improvement of our practices and our learning environment, we value input from students and your suggestions are encouraged and appreciated. Please let the course director or program leadership know ways to improve the effectiveness of the course for you personally, or for other students or student groups. 
 
 *Equity in structural biology*: Historical inequities. Contributions of BIPOC and female scientists. Current inequities due to access and instrumentation.
+
+The course instructors and teaching assistants value the contributions, ideas and perspective of all students. It is our intent that students from diverse backgrounds be well-served by this course, that students' learning needs be addressed both in and out of class, and that the diversity that the students bring to this class be viewed as a resource, strength and benefit. It is our intent to present materials and activities that are respectful of diversity: gender identity, sexuality, disability, age, socioeconomic status, ethnicity, race, nationality, religion, and culture. However, we also acknowledge that many of the literature examples used in this course were authored by white males. Integrating a diverse set of experiences is important for a more comprehensive understanding of science and we strive towards that goal. Although the instructors are committed to continuous improvement of our practices and our learning environment, we value input from students and your suggestions are encouraged and appreciated. Please let the course director or program leadership know ways to improve the effectiveness of the course for you personally, or for other students or student groups. 
 
 *Ethics*: This course is more than a training experience; it is an active research project whose results will be published to the broader scientific community. The community must be able to understand our work, replicate it, and have confidence in its findings. We must therefore ensure the integrity of the information we disseminate. To do so, it is essential that students perform and document their experiments and analyses as faithfully as possible. Mistakes and oversights are normal and to be expected, but they must not be ignored, concealed, or disguised. In addition, to merit authorship, students must contribute to three aspects of the project: intellectual conception or interpretation of the methods or data, technical execution of the experiments and/or analyses, and documentation or dissemination of the results. We fully expect that by actively participating in the course and working toward the course objectives, all students will merit authorship.
 
@@ -33,7 +33,7 @@ Fall Macro pt 1 (6 weeks)
 - Nov. 30-Dec 2
 - Dec. 7-9
 - Dec. 14-16 chalk talk 1
-Grade based on that 6 weeks and chalk talk 1
+- Grade based on that 6 weeks and chalk talk 1
 
 Winter - Macro pt 2 (6 weeks)
 
@@ -52,6 +52,7 @@ Winter - Methods (6 weeks)
 - Mar 8-10 - Method 3
 - Mar 15-17 - final working week on data
 - Mar 22-24 - Mini Quals (which is continuously developed through Macro)
+- Grade for the entire winter combining performance in Macro pt 2, Methods, and miniquals
 
 ## Youtube videos
 
