@@ -4,7 +4,7 @@ layout: default
 group: compact
 ---
 
-{% include carousel.html %}
+{% include carousel.html height="40" unit="%" duration="5" filter="img/members/drawings/members/" controlposition="90%" indicatorposition="90%" %}
 
 # Lab Compact and Philosophy
 <br/>
