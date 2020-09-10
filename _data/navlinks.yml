@@ -34,10 +34,6 @@
   link: "/contact"
   group: contact
 
-# - name: links
-#   link: "/links"
-#   group: links
-
 - name: private
-  link: "https://sites.google.com/fraserlab.com/fraserlab-private/" #"https://sites.google.com/a/fraserlab.com/ucsf-private/"
+  link: "https://sites.google.com/fraserlab.com/fraserlab-private/"
   group: private
