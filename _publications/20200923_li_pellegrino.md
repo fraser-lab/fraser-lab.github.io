@@ -7,7 +7,7 @@ image: '/static/img/pub/2019_li_pellegrino.jpg'
 # pmid: Submitted
 # pmcid: Submitted
 chemrxiv: '8346107'
-pdf: 'http://cdn.fraserlab.com/publications/2019_li_pellegrino.pdf'
+pdf: 'http://cdn.fraserlab.com/publications/2020_li_pellegrino.pdf'
 paired_maps_and_models:
 - pdb: 6PCQ
   emdb: '20304'
