@@ -1,7 +1,7 @@
 ---
-title: "Evolution of an enzyme conformational ensemble guides design of an efficient biocatalyst."
-citation: "Broom A&#42;, Rakotoharisoa RV&#42;, **Thompson MC**, Zarifi N, Nguyen E, Mukhametzhanov N, **Liu L, Fraser JS**, Chica RA. *Submitted - Preprint on BioRxiv*. 2020."
-date: '2020-03-20'
+title: "Ensemble-based enzyme design can recapitulate the effects of laboratory directed evolution in silico"
+citation: "Broom A&#42;, Rakotoharisoa RV&#42;, **Thompson MC**, Zarifi N, Nguyen E, Mukhametzhanov N, **Liu L, Fraser JS**, Chica RA. *Nature Communications*. 2020."
+date: '2020-09-23'
 image: '/static/img/pub/2020_broom_rakotoharisoa.jpg'
 # pmid:
 # pmcid:
