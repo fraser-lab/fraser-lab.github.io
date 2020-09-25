@@ -4,7 +4,7 @@ citation: "Li Q&#42;, **Pellegrino J&#42;, Lee DJ**, Tran AA, **Chaires HC**, Wa
 van Zundert G, Borrelli K, Shinabarger D, Wolfe C, Murray B, Jacobson MP, Mühle E, Chesneau O, **Fraser JS**, Seiple IB.  *Nature*. 2020."
 date: '2020-09-23'
 image: '/static/img/pub/2019_li_pellegrino.jpg'
-# pmid: Submitted
+pmid: 32968273
 # pmcid: Submitted
 chemrxiv: '8346107'
 pdf: 'http://cdn.fraserlab.com/publications/2020_li_pellegrino.pdf'
