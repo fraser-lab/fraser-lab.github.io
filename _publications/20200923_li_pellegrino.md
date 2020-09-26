@@ -30,6 +30,8 @@ paired_maps_and_models:
 links:
 - name: News and Views - Modular synthesis enables molecular ju-jitsu in the fight against antibiotic resistance
   url: https://www.nature.com/articles/d41586-020-02565-1
+- name: C&EN - How to outwit antibiotic resistance with chemical know-how
+  url: https://cen.acs.org/pharmaceuticals/antibiotics/outwit-antiobiotic-resistance-chemical-know/98/i37 
 - name: UCSF Press Release - Customizable Synthetic Antibiotic Outmaneuvers Resistant Bacteria
   url: https://www.ucsf.edu/news/2020/09/418566/customizable-synthetic-antibiotic-outmaneuvers-resistant-bacteria
 - name: Seiple lab @ UC San Francisco
