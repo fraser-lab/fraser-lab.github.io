@@ -10,4 +10,6 @@ pdf: 'http://cdn.fraserlab.com/publications/2020_broom_rakotoharisoa.pdf'
 links:
 - name: Chica lab @ University of Ottawa
   url: https://mysite.science.uottawa.ca/rchica/
+- name: Faculty Opinions 
+  url: https://facultyopinions.com/prime/738383611?key=Haf6Uk0a5GMsOiz
 ---
