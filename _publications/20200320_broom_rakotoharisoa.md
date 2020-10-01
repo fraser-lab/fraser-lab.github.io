@@ -11,5 +11,7 @@ links:
 - name: Chica lab @ University of Ottawa
   url: https://mysite.science.uottawa.ca/rchica/
 - name: Faculty Opinions 
-  url: https://facultyopinions.com/prime/738383611?key=Haf6Uk0a5GMsOiz
+  url: https://facultyopinions.com/prime/738383611?key=Haf6Uk0a5GMsOizm
+- name: Rise of the mutants - New uOttawa-led research to improve enzyme design methodologies
+  url: https://www.eurekalert.org/pub_releases/2020-10/uoo-rot100120.php
 ---
