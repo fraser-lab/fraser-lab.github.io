@@ -14,7 +14,7 @@ UCSF: lin.liu
 twitter:
 linkedin:
 github: lliu1234
-orcid:
+orcid: 0000-0003-1283-1410
 description: "Lin was a graduate student at University of Pittsburgh with Dr. Angela Gronenborn and Dr. Ivet Bahar. Next, Lin was a joint post-doc and Li Foundation fellow between the Kortemme and Fraser labs, using computational and experimental techniques to study the evolution of protein dynamics.
 
 
