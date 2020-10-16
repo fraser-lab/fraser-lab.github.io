@@ -11,7 +11,7 @@ pdf: 'http://cdn.fraserlab.com/publications/2020_li_pellegrino.pdf'
 paired_maps_and_models_and_data:
 - pdb: 6PCH
   emdb: '20300'
-  empiar: 'pending'
+  empiar: '10522'
 - pdb: 6PCQ
   emdb: '20304'
   empiar: '10521'
@@ -20,7 +20,7 @@ paired_maps_and_models_and_data:
   empiar: '10524'
 - pdb: 6PCS
   emdb: '20306'
-  empiar: 'pending'
+  empiar: '10523'
 - pdb: 6PCT
   emdb: '20307'
   empiar: '10526'
@@ -29,7 +29,7 @@ paired_maps_and_models_and_data:
   empiar: '10530'
 - pdb: 6PC6
   emdb: '20297'
-  empiar: pending
+  empiar: '10529'
 - pdb: 6PC7
   emdb: '20298'
   empiar: '10527'
