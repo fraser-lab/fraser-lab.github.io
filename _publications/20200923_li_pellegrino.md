@@ -8,25 +8,36 @@ pmid: 32968273
 # pmcid: Submitted
 chemrxiv: '8346107'
 pdf: 'http://cdn.fraserlab.com/publications/2020_li_pellegrino.pdf'
-paired_maps_and_models:
+paired_maps_and_models_and_data:
 - pdb: 6PCQ
   emdb: '20304'
+  empiar: '10521'
 - pdb: 6PCH
   emdb: '20300'
+  empiar: 'pending'
 - pdb: 6PCS
   emdb: '20306'
+  empiar: 'pending'
 - pdb: 6PCR
   emdb: '20305'
+  empiar: '10524'
 - pdb: 6PC8
   emdb: '20299'
+  empiar: '10525'
 - pdb: 6PCT
   emdb: '20307'
+  empiar: '10526'
 - pdb: 6PC7
   emdb: '20298'
+  empiar: '10527'
 - pdb: 6PC6
   emdb: '20297'
 - pdb: 6PC5
   emdb: '20296'
+  empiar: '10530'
+- pdb: 6WYV
+  emdb: '21969'
+  empiar: '10528'
 links:
 - name: News and Views - Modular synthesis enables molecular ju-jitsu in the fight against antibiotic resistance
   url: https://www.nature.com/articles/d41586-020-02565-1
