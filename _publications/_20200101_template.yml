@@ -32,6 +32,10 @@
 #   paired_maps_and_models:
 #     - pdb: PDB_ID
 #       emdb: '#####'
+#   paired_maps_and_models_and_data:
+#     - pdb: PDB_ID
+#       emdb: '#####'
+#       empiar: '#####'
 #   data:
 #     - '10.11577/1602169'
 #   zenodo:
