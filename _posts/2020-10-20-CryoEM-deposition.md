@@ -114,7 +114,7 @@ EMPIAR, or the Electron Microscopy Public Image Archive, is a public resource fo
 
 #### Opening an EMPIAR deposition instance
 
-Go to EMPIAR’s [deposition home page](https://www.ebi.ac.uk/pdbe/emdb/empiar/deposition/login/?next=/pdbe/emdb/empiar/deposition/) to register your user account or to log in. Unlike the PDB, where you need to make a new deposition login for each structure you want to deposition, everything in EMPIAR is connected to one login. Once logged in, you can click the link aptly called “Create a new deposition” to get started. Note that EMPIAR has an [extremely helpful pictoral deposition manual](https://www.ebi.ac.uk/pdbe/emdb/empiar/deposition/manual/) available to you. I found it exceedingly useful and clear.
+Go to EMPIAR’s [deposition home page](https://www.ebi.ac.uk/pdbe/emdb/empiar/deposition/login/?next=/pdbe/emdb/empiar/deposition/) to register your user account or to log in. Unlike the PDB, where you need to make a new deposition login for each structure you want to deposit, everything in EMPIAR is connected to one login. Once logged in, you can click the link aptly called “Create a new deposition” to get started. Note that EMPIAR has an [extremely helpful pictoral deposition manual](https://www.ebi.ac.uk/pdbe/emdb/empiar/deposition/manual/) available to you. I found it exceedingly useful and clear.
 
 Once you’ve created a deposition instance, you have 3 main jobs:
 
