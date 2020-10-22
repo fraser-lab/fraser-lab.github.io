@@ -11,6 +11,6 @@ paired_maps_and_models:
 links:
   - name: QBI Coronavirus Research Group @ UC San Francisco
     url: http://qbi.ucsf.edu/COVID-19
-  - name: UCSF Press Release - International Team of Scientists Identifies Common Vulnerabilities Across Coronaviruses
+  - name: 'UCSF Press Release - International Team of Scientists Identifies Common Vulnerabilities Across Coronaviruses'
   	url: https://www.ucsf.edu/news/2020/10/418796/international-team-scientists-identifies-common-vulnerabilities-across
 ---
