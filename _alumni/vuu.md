@@ -12,7 +12,7 @@ scholar:
 website:
 UCSF:
 twitter:
-linkedin:
+linkedin: https://www.linkedin.com/in/khanh-charlee-vuu-80407230/
 github:
 orcid:
 description:
