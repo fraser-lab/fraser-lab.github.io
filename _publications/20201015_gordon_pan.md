@@ -9,6 +9,8 @@ paired_maps_and_models:
   - pdb: 7KDT
     emdb: '22829'
 links:
+  - name: NIH Director's Blog - Protein Mapping Study Reveals Valuable Clues for COVID-19 Drug Development
+    url: https://directorsblog.nih.gov/2020/10/27/protein-mapping-study-reveals-valuable-clues-for-covid-19-drug-development/
   - name: QBI Coronavirus Research Group @ UC San Francisco
     url: http://qbi.ucsf.edu/COVID-19
 ---
