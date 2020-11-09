@@ -5,7 +5,7 @@ van Zundert G, Borrelli K, Shinabarger D, Wolfe C, Murray B, Jacobson MP, Mühle
 date: '2020-09-23'
 image: '/static/img/pub/2019_li_pellegrino.jpg'
 pmid: 32968273
-# pmcid: Submitted
+pmcid: PMC7546582
 chemrxiv: '8346107'
 pdf: 'http://cdn.fraserlab.com/publications/2020_li_pellegrino.pdf'
 paired_maps_and_models_and_data:
@@ -39,6 +39,9 @@ paired_maps_and_models_and_data:
 - pdb: 6WYV
   emdb: '21969'
   empiar: '10528'
+pdbs:
+- 6X3C
+- 6X3J
 links:
 - name: News and Views - Modular synthesis enables molecular ju-jitsu in the fight against antibiotic resistance
   url: https://www.nature.com/articles/d41586-020-02565-1

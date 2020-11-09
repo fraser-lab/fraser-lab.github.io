@@ -12,7 +12,7 @@ Beltrao P, Vignuzzi M, García-Sastre A, Shokat KM, Shoichet BK, Krogan NJ. *Nat
 date: '2020-04-30'
 image: '/static/img/pub/2020_gordon_jang_bouhaddou_xu_obernier_white_omeara_rezelj.png'
 pmid: '32353859'
-# pmcid: ''
+pmcid: PMC7431030
 biorxiv: '2020.03.22.002386'
 pdf: 'http://cdn.fraserlab.com/publications/2020_gordon_jang_bouhaddou_xu_obernier_white_omeara_rezelj.pdf'
 links:
