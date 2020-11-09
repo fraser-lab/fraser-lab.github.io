@@ -11,7 +11,7 @@ permalink: /inquiry/
 - [James Fraser](mailto:jfraser@fraserlab.com) (Lead Instructor)
 - [Tom Goddard](mailto:goddard@sonic.net) (Chimera tutorial?)
 - [John Irwin](mailto:John.Irwin@ucsf.edu) (Docking lecture?)
-- [Tanja Kortemme](mailto:kortemme@cgl.ucsf.edu) (Protein Design lecture?)
+- [Tanja Kortemme](mailto:kortemme@cgl.ucsf.edu) (Protein Design lecture)
 
 **FACILITY MANAGERS**
 - [Liam McKay](mailto:lmckay@msg.ucsf.edu) [MSG Crystallography Facility - tour](https://msg.ucsf.edu/)
@@ -71,8 +71,8 @@ Structure-based drug design promises to revolutionize drug discovery, yet despit
 **Friday Jan 8 - 2:30-4PM**
 - [Tanja Kortemme: Rosetta and Biologics](http://cdn.fraserlab.com/courses/inquiry_2020/2020_Kortemme_Rosetta.pdf)
   - [De novo design of potent and selective mimics of IL-2 and IL-15](http://cdn.fraserlab.com/courses/inquiry_2020/2019_silva.pdf)
-  - [Proof of principle for epitope-focused vaccine design](http://cdn.fraserlab.com/courses/inquiry_2020/2014_correia)
-  - [Computational design of a modular protein sense-response system](http://cdn.fraserlab.com/publications/2019_glasgow_huang_mandell)
+  - [Engineered ACE2 receptor traps potently neutralize SARS-CoV-2](https://www.pnas.org/content/early/2020/10/21/2016093117)
+  - [De novo design of picomolar SARS-CoV-2 miniprotein inhibitors.](https://science.sciencemag.org/content/370/6515/426)
 
 **Monday Jan 11 - 2:30-4PM**
 - David Bulkley: CryoEM facility tour
