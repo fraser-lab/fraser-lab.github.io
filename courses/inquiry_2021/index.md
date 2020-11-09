@@ -50,12 +50,10 @@ Structure-based drug design promises to revolutionize drug discovery, yet despit
 - install [ChimeraX](https://www.rbvi.ucsf.edu/chimerax/download.html)
 
 **Tuesday Jan 5 - 2:30-4PM**
-- James Fraser: [Fragment-based design and Crystallography 101](http://cdn.fraserlab.com/courses/inquiry_2020/2020_Fraser_Fragments.pdf)
-  - [Discovery of a selective inhibitor of oncogenic B-Raf kinase with potent antimelanoma activity.](http://cdn.fraserlab.com/courses/inquiry_2020/2008_tsai.pdf)
-  - [Discovery of a potent and selective Bcl-2 inhibitor using SAR by NMR](http://cdn.fraserlab.com/courses/inquiry_2020/2010_petros.pdf)
-  - [An expanded allosteric network in PTP1B by multitemperature crystallography, fragment screening, and covalent tethering](http://cdn.fraserlab.com/publications/2018_keedy_hill.pdf)
-- Liam McKay: Tour of Crystallography facility
-  - Crystalizing Lysozyme
+- [John Irwin: Docking what works and what doesn't](http://cdn.fraserlab.com/courses/inquiry_2020/2020_Irwin_Docking.pdf)
+  - What docking is, how it works, and why it is hard; a review of some notable success stories "what docking can do for you" and failures; a detailed look at 2 or 3 stories, focusing on how to run a docking campaign, and what to expect from the outcome, with results.
+  - resources DOCK Blaster, ZINC, DUDE, and how to use them.
+
 
 **Wednesday Jan 6 - 2:30-4PM**
 - Tom Goddard: [ChimeraX demo](https://www.rbvi.ucsf.edu/chimerax/data/delta-opioid-jan2020/binding.html)
@@ -63,9 +61,12 @@ Structure-based drug design promises to revolutionize drug discovery, yet despit
   - VR experience in Genentech Hall N453
 
 **Thursday Jan 7 - 2:30-4PM**
-- [John Irwin: Docking what works and what doesn't](http://cdn.fraserlab.com/courses/inquiry_2020/2020_Irwin_Docking.pdf)
-  - What docking is, how it works, and why it is hard; a review of some notable success stories "what docking can do for you" and failures; a detailed look at 2 or 3 stories, focusing on how to run a docking campaign, and what to expect from the outcome, with results.
-  - resources DOCK Blaster, ZINC, DUDE, and how to use them.
+- James Fraser: [Fragment-based design and Crystallography 101](http://cdn.fraserlab.com/courses/inquiry_2020/2020_Fraser_Fragments.pdf)
+  - [Discovery of a selective inhibitor of oncogenic B-Raf kinase with potent antimelanoma activity.](http://cdn.fraserlab.com/courses/inquiry_2020/2008_tsai.pdf)
+  - [Discovery of a potent and selective Bcl-2 inhibitor using SAR by NMR](http://cdn.fraserlab.com/courses/inquiry_2020/2010_petros.pdf)
+  - [An expanded allosteric network in PTP1B by multitemperature crystallography, fragment screening, and covalent tethering](http://cdn.fraserlab.com/publications/2018_keedy_hill.pdf)
+- Liam McKay: Tour of Crystallography facility
+  - Crystalizing Lysozyme
 
 **Friday Jan 8 - 2:30-4PM**
 - [Tanja Kortemme: Rosetta and Biologics](http://cdn.fraserlab.com/courses/inquiry_2020/2020_Kortemme_Rosetta.pdf)
@@ -75,7 +76,8 @@ Structure-based drug design promises to revolutionize drug discovery, yet despit
 
 **Monday Jan 11 - 2:30-4PM**
 - David Bulkley: CryoEM facility tour
-- James Fraser: Discussion of new themes in drug discovery - DELs, PROTAC, covalent inhibition, cryoEM
+- James Fraser:  cryoEM in drug discovery and antibiotics talk [Synthetic group A streptogramin antibiotics
+that overcome Vat resistance](http://cdn.fraserlab.com/publications/2020_li_pellegrino.pdf)
 
 **Tuesday Jan 12 - 2:30-4PM**
 - Class time to work on final presentation
