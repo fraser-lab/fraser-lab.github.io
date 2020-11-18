@@ -18,9 +18,9 @@ Equity:
 
 Consulting/speaker fees/travel within last 2 years:
 * Relay Therapeutics
-* MoMa
+* MoMa Therapeutics
 * Novartis
-* Past: Genentech, GSK, Schrodinger, CCG, OpenEye
+* Past: Genentech, GSK, Schrodinger, CCG, OpenEye, Roche
 
 Sponsored Research:
 * Relay Therapeutics
