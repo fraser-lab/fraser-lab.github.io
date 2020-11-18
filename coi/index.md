@@ -12,7 +12,7 @@ Appointments:
 * Associate Director of Biophysics Graduate Program
 * Board Member and Vice President, ASAPbio
 
-Equity
+Equity:
 * Relay Therapeutics
 * Impossible Foods (through spouse)
 
