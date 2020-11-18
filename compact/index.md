@@ -40,7 +40,7 @@ I like to take an active role in the preparation of all our manuscripts, and I h
 <br/>
 
 ## Conflicts of Interest
-As an advisor, there are often conflicts of interests between what's best for me and the lab and what’s best for my lab members and their careers. There is opposition between wanting to keep the talent you’ve fostered and helping people to move on with their careers. I am constantly trying to prioritize the aspirations of people. In the end, if I am aligned with people's long-term goals, most things fall into place.
+As an advisor, there are often [conflicts of interest](/coi) between what's best for me and the lab and what’s best for my lab members and their careers. There is opposition between wanting to keep the talent you’ve fostered and helping people to move on with their careers. I am constantly trying to prioritize the aspirations of people. In the end, if I am aligned with people's long-term goals, most things fall into place.
 
 We occasionally also do sponsored research in the lab and I consult for companies to the extent my primary responsibilities allow. These activities can create potential financial conflicts of interest. I’m as transparent as possible about this work and relationships while honoring confidentiality agreements. If these financial conflicts cause an issue with the work or working relationship between me and a lab member, I want people to feel like they can have those conversations with me early, and I am happy to talk about it.
 <br/>
