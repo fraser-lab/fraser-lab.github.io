@@ -14,6 +14,7 @@ Appointments:
 
 Equity:
 * Relay Therapeutics
+* Keyhole Therapeutics (co-founder)
 * Impossible Foods (through spouse)
 
 Consulting/speaker fees/travel within last 2 years:

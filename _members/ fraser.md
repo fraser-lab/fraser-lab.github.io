@@ -35,5 +35,5 @@ We maintain a deep connection with [Beamline 8.3.1.](http://bl831.als.lbl.gov/~m
 
 In addition to all the exciting developments in the lab, James is on the board of [ASAPbio](http://asapbio.org) and has a long standing interest in [teaching](/courses) computational biology, [baseball statistics](http://ibiomagazine.org/issues/november-2011-issue/james-fraser-a-michael-eisen.html), and project-based courses. The lab is committed to publishing our code, disseminating our datasets, and posting manuscripts on preprint servers.
 
-His full conflicts of interest are available [here](/coi)"
+His full conflicts of interest are available [here](/coi)."
 ---
