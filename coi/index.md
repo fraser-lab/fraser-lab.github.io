@@ -21,6 +21,7 @@ Consulting/speaker fees/travel within last 2 years:
 * Relay Therapeutics
 * MoMa Therapeutics
 * Novartis
+* Olema Pharmaceuticals
 * Past: Genentech, GSK, Schrodinger, CCG, OpenEye, Roche
 
 Sponsored Research:
