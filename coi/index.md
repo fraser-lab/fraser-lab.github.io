@@ -9,7 +9,7 @@ Appointments:
 , University of California San Francisco
 * Faculty Scientist, Molecular Biophysics and Integrated Bioimaging, Lawrence Berkeley National Laboratory
 * Associate Director and Member, Quantitative Biosciences Institute, University of California San Francisco
-* Associate Director of Biophysics Graduate Program
+* Associate Director, Biophysics Graduate Program, University of California San Francisco
 * Board Member and Vice President, ASAPbio
 
 Equity:
@@ -22,7 +22,7 @@ Consulting/speaker fees/travel within last 2 years:
 * MoMa Therapeutics
 * Novartis
 * Olema Pharmaceuticals
-* Past: Genentech, GSK, Schrodinger, CCG, OpenEye, Roche
+* Past: Genentech, Revolution Medicines, Third Rock Ventures, GSK, Schrodinger, CCG, OpenEye, Roche, AstraZeneca
 
 Sponsored Research:
 * Relay Therapeutics
