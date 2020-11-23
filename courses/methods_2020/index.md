@@ -22,7 +22,7 @@ The course instructors and teaching assistants value the contributions, ideas an
 
 ## Tentative 2020 schedule
 
-Monday, Tuesday, Wednesday - 9AM-11AM on Zoom
+Monday, Tuesday, Wednesday - 9AM-11AM on [Zoom](https://ucsf.zoom.us/j/98506921235?pwd=NDI0RWF0eUhpQ1FVbWdCME5oeWVzQT09)
 
 Fall Macro pt 1 (6 weeks)
 
