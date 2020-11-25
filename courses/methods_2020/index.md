@@ -47,7 +47,7 @@ Fluency in multiple biophysical methods is often critical for answering mechanis
 
 **Course Description:**
 
-This is a team-based class where students work in small groups develop their own analysis of real data. Statistical aspects of rigor and reproducibility in structural biology will be emphasized throughout lectures, journal club presentations, and hands-on activities. The website for the 2017 version of the course can be accessed [here](/methods_2017/),  the 2018 version of the course can be accessed [here](/methods_2018/) and 2019 version of the course can be accessed[here](/courses/methods_2019).
+This is a team-based class where students work in small groups develop their own analysis of real data. Statistical aspects of rigor and reproducibility in structural biology will be emphasized throughout lectures, journal club presentations, and hands-on activities. The website for the [2017](/methods_2017/),  [2018](/methods_2018/), and [2019](/courses/methods_2019) editions are available online.
 
 The course instructors and teaching assistants value the contributions, ideas and perspective of all students. It is our intent that students from diverse backgrounds be well-served by this course, that students' learning needs be addressed both in and out of class, and that the diversity that the students bring to this class be viewed as a resource, strength and benefit. It is our intent to present materials and activities that are respectful of diversity: gender identity, sexuality, disability, age, socioeconomic status, ethnicity, race, nationality, religion, and culture. However, we also acknowledge that many of the literature examples used in this course were authored by white males. Integrating a diverse set of experiences is important for a more comprehensive understanding of science and we strive towards that goal. Although the instructors are committed to continuous improvement of our practices and our learning environment, we value input from students and your suggestions are encouraged and appreciated. Please let the course director or program leadership know ways to improve the effectiveness of the course for you personally, or for other students or student groups. 
 
@@ -86,24 +86,45 @@ Winter - Methods
 
 - Feb 16/17 - Class intro
 * Why structural biology/Intro to Pchem (JG)
-* FFT 101 (JF)
+* [FFT 101](http://www.jezzamon.com/fourier/) (JF)
 * Aeronabs and What Aashish's miniquals might look like (AM)
 	* [Aeronab paper](https://science.sciencemag.org/content/early/2020/11/04/science.abe3255.long)
 * Equity in structural biology: Historical inequities. Contributions of BIPOC and female scientists. Current inequities due to access and instrumentation. 
+* Software check
+* [ChimeraX EM tutorial by Tom Goddard](http://www.cgl.ucsf.edu/chimera/data/hsp90-em-dec2017/hsp90em.html)
 
 
 Class structure - 45 min lecture, 10 min break, 1 hour tutorial:
 - Feb 22-24 - Method 1 - EM Lectures Yifan Cheng, Tutorials James Fraser
 	- Data incoming from Bryan Faust
-	- AWS tutorial to be written by Daniel Hogan/JF
+	- AWS tutorial to be written by Daniel Hogan/JF, [cisTEM](https://cistem.org/) introduction and [paper](http://cdn.fraserlab.com/courses/methods/2018_grant.pdf)
+		- _Reading on Rigor and reproducibility in EM:_
+			- [FSC](https://en.wikipedia.org/wiki/Fourier_shell_correlation) and [early example in EM](http://cdn.fraserlab.com/courses/methods/1982_saxton.pdf)
+			- [half maps](http://cdn.fraserlab.com/courses/methods/2012_scheres.pdf) and [Optimal Determination of Particle Orientation, Absolute Hand, and Contrast Loss in Single-particle Electron Cryomicroscopy](http://cdn.fraserlab.com/courses/methods/2003_rosenthal.pdf)
+			- Other Model and Map validation tools (a lot of overlap with X-ray tools but a few examples that don't: [phenix.mtriage](https://www.phenix-online.org/documentation/reference/mtriage.html), [EMRinger](http://cdn.fraserlab.com/publications/2015_barad.pdf))
+
 - Mar 1-3 - Method 2 - X-ray Lectures Bob Stroud, Tutorials Aashish Manglik
-	- Data incoming from 
+	- Data incoming from Huong
+		- _Reading on Rigor and reproducibility in Crystallography:_
+			- [R-free](http://cdn.fraserlab.com/courses/methods/1992_brunger.pdf)
+			- [MolProbity](http://cdn.fraserlab.com/courses/methods/2010_chen.pdf)
+			- [Data Challenges and synthetic data](http://cdn.fraserlab.com/courses/methods/2019_holton.pdf)
 - Mar 8-10 - Method 3 - NMR Lectures John Gross, Tutorials Ryan Tibble
+	- _Reading on Rigor and reproducibility in NMR:_
+		- [Tools for validating NMR structures](http://cdn.fraserlab.com/courses/methods/2014_vuister.pdf)
+		- [Q-scores](http://cdn.fraserlab.com/courses/methods/2004_clore.pdf)
+		- [Integrative modeling](http://cdn.fraserlab.com/courses/methods/2019_rout.pdf)
+	- [from FID to 2D](http://cdn.fraserlab.com/courses/methods/2DNMR_Processing_Tutorial.pdf) (Ryan Tibble and John Gross)
+	- [Intro to Sparky](http://cdn.fraserlab.com/courses/methods/Sparky_tutorial.pdf)
+	- [Common Sparky Commands](http://cdn.fraserlab.com/courses/methods/Sparky_common_cmds.pdf) 
+	-  [Sparky Integration Tutorial](http://cdn.fraserlab.com/courses/methods/Sparky_Integration.pdf)
+	- Supplemental reading: [How does an HSQC work?](http://cdn.fraserlab.com/courses/methods/HSQC-Guided-tour.pdf)
+	- chemical shift perturbation plot versus primary sequence; mapping onto structure, [CSPs from Sparky Lists](http://cdn.fraserlab.com/courses/methods/Sparky_CSP.py)
 - Mar 15-16 - final working week on data
 - Mar 17 - final presentations, including - what is one more experiment you'd do...
 
 
-## Youtube videos
+## Supplemental material and tutorial videos
 
 - [Getting started in CryoEM - Grant Jensen lectures](https://www.youtube.com/playlist?list=PL8_xPU5epJdctoHdQjpfHmd_z9WvGxK8-)
 - [LMB EM Course](https://www2.mrc-lmb.cam.ac.uk/research/scientific-training/electron-microscopy/)
