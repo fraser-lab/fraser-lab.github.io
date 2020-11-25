@@ -85,13 +85,13 @@ Winter - Macro pt 2 (6 weeks)
 Winter - Methods
 
 - Feb 16/17 - Class intro
-* Why structural biology/Intro to Pchem (JG)
-* [FFT 101](http://www.jezzamon.com/fourier/) (JF)
-* Aeronabs and What Aashish's miniquals might look like (AM)
-	* [Aeronab paper](https://science.sciencemag.org/content/early/2020/11/04/science.abe3255.long)
-* Equity in structural biology: Historical inequities. Contributions of BIPOC and female scientists. Current inequities due to access and instrumentation. 
-* Software check
-* [ChimeraX EM tutorial by Tom Goddard](http://www.cgl.ucsf.edu/chimera/data/hsp90-em-dec2017/hsp90em.html)
+	* Why structural biology/Intro to Pchem (JG)
+	* [FFT 101](http://www.jezzamon.com/fourier/) (JF)
+	* Aeronabs and What Aashish's miniquals might look like (AM)
+		* [Aeronab paper](https://science.sciencemag.org/content/early/2020/11/04/science.abe3255.long)
+	* Equity in structural biology: Historical inequities. Contributions of BIPOC and female scientists. Current inequities due to access and instrumentation. 
+	* Software check
+	* [ChimeraX EM tutorial by Tom Goddard](http://www.cgl.ucsf.edu/chimera/data/hsp90-em-dec2017/hsp90em.html)
 
 
 Class structure - 45 min lecture, 10 min break, 1 hour tutorial:
