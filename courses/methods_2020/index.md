@@ -7,10 +7,47 @@ permalink: /methods/
 
 # Biophysics 204B: Methods in Macromolecular Structure #
 
-[See 2019 version of the course here](/courses/methods_2019)
+
+## Winter 2020 Syllabus ##
+
+<img class="img-fluid mx-auto d-block" src="/static/img/aeronab.jpg" alt="What is the next experiment?">
+
+**Course Title:** Methods in Macromolecular Structure
+
+**Course Format:** 6 hours of lecture/group work per week in class, substantial group work outside of class
+
+**Location and Date/Hours:** Monday, Tuesday, Wednesday - 9AM-11AM on [Zoom](https://ucsf.zoom.us/j/98506921235?pwd=NDI0RWF0eUhpQ1FVbWdCME5oeWVzQT09)
+
+**Prerequisites:** All incoming first year BP and CCB graduate students are required to enroll in this course.
+
+**Grading:** Letter grade
+
+**Textbook:** None. Lab protocols and course materials will be available in class or online
 
 
-*Equity in structural biology*: Historical inequities. Contributions of BIPOC and female scientists. Current inequities due to access and instrumentation.
+**Instructors:** [John Gross](mailto:jdgross@cgl.ucsf.edu), [Aashish Manglik](mailto:Aashish.Manglik@ucsf.edu), [James Fraser](mailto:jfraser@fraserlab.com)
+
+**NMR guru:** [Ryan Tibble](mailto:Ryan.Tibble@ucsf.edu) (Gross lab)
+
+
+**TAs:**
+- [Hersh Bhargava](mailto:Hersh.Bhargava@ucsf.edu)
+- [Matthew Hancock](mailto:Matthew.Hancock@ucsf.edu)
+- [Jacqueline Weaver@ucsf.edu](mailto:acqueline.Weaver@ucsf.edu)
+
+
+**Lecturers/Facilitators:**
+
+James Fraser, Yifan Cheng, Aashish Manglik, Robert Stroud, John Gross, Ryan Tibble
+
+
+**Background:**
+
+Fluency in multiple biophysical methods is often critical for answering mechanistic questions. Traditionally, students are exposed to the fundamentals of multiple techniques through lectures that cover the theory prior to exposure, for some, in analysis or data collection during lab rotations. However, this structure means that only students that rotate in specific labs gain hands-on-exposure, which could limit adventurous experiments in future years. To train the next generation of biophysicists at UCSF, we have decided to alter this traditional structure by creating  “Macromolecular Methods”, a class that places emphasis on playing with data. Based on our experiences designing the project-based class [Physical Underpinnings of Biological Systems, aka PUBS!](/courses/pubs/), which used deep sequencing to assay the function of a comprehensive set of point mutants to introduce principles of [high-throughput interrogation of biological functions](http://cdn.fraserlab.com/publications/2016_mavor.pdf), we have designed Macromolecular Methods to be a team-based class where students develop their own analysis of real data that, in non-pandemic years, they have collected.
+
+**Course Description:**
+
+This is a team-based class where students work in small groups develop their own analysis of real data. Statistical aspects of rigor and reproducibility in structural biology will be emphasized throughout lectures, journal club presentations, and hands-on activities. The website for the 2017 version of the course can be accessed [here](/methods_2017/),  the 2018 version of the course can be accessed [here](/methods_2018/) and 2019 version of the course can be accessed[here](/courses/methods_2019).
 
 The course instructors and teaching assistants value the contributions, ideas and perspective of all students. It is our intent that students from diverse backgrounds be well-served by this course, that students' learning needs be addressed both in and out of class, and that the diversity that the students bring to this class be viewed as a resource, strength and benefit. It is our intent to present materials and activities that are respectful of diversity: gender identity, sexuality, disability, age, socioeconomic status, ethnicity, race, nationality, religion, and culture. However, we also acknowledge that many of the literature examples used in this course were authored by white males. Integrating a diverse set of experiences is important for a more comprehensive understanding of science and we strive towards that goal. Although the instructors are committed to continuous improvement of our practices and our learning environment, we value input from students and your suggestions are encouraged and appreciated. Please let the course director or program leadership know ways to improve the effectiveness of the course for you personally, or for other students or student groups. 
 
@@ -22,9 +59,9 @@ The course instructors and teaching assistants value the contributions, ideas an
 
 ## Tentative 2020 schedule
 
-Monday, Tuesday, Wednesday - 9AM-11AM on [Zoom](https://ucsf.zoom.us/j/98506921235?pwd=NDI0RWF0eUhpQ1FVbWdCME5oeWVzQT09)
 
-Fall Macro pt 1 (6 weeks)
+
+<!-- Fall Macro pt 1 (6 weeks)
 
 - Nov 2-4
 - Nov. 9, 10,(no class Nov 11, Veteran’s Day)
@@ -44,25 +81,38 @@ Winter - Macro pt 2 (6 weeks)
 - Feb 1-3
 - Feb 8-10 (chalk talk 2?)
 
-Winter - Methods (6 weeks)
+ -->
+Winter - Methods
 
 - Feb 16/17 - Class intro
-- Feb 22-24 - Method 1
-- Mar 1-3 - Method 2
-- Mar 8-10 - Method 3
-- Mar 15-17 - final working week on data
-- Mar 22-24 - Mini Quals (which is continuously developed through Macro)
-- Grade for the entire winter combining performance in Macro pt 2, Methods, and miniquals
+* Why structural biology/Intro to Pchem (JG)
+* FFT 101 (JF)
+* Aeronabs and What Aashish's miniquals might look like (AM)
+	* [Aeronab paper](https://science.sciencemag.org/content/early/2020/11/04/science.abe3255.long)
+* Equity in structural biology: Historical inequities. Contributions of BIPOC and female scientists. Current inequities due to access and instrumentation. 
+
+
+Class structure - 45 min lecture, 10 min break, 1 hour tutorial:
+- Feb 22-24 - Method 1 - EM Lectures Yifan Cheng, Tutorials James Fraser
+	- Data incoming from Bryan Faust
+	- AWS tutorial to be written by Daniel Hogan/JF
+- Mar 1-3 - Method 2 - X-ray Lectures Bob Stroud, Tutorials Aashish Manglik
+	- Data incoming from 
+- Mar 8-10 - Method 3 - NMR Lectures John Gross, Tutorials Ryan Tibble
+- Mar 15-16 - final working week on data
+- Mar 17 - final presentations, including - what is one more experiment you'd do...
+
 
 ## Youtube videos
 
-- [Thorn lab crystallography](https://www.youtube.com/channel/UCsEfbyZZD49WxUP5iJn6BkQ)
 - [Getting started in CryoEM - Grant Jensen lectures](https://www.youtube.com/playlist?list=PL8_xPU5epJdctoHdQjpfHmd_z9WvGxK8-)
 - [LMB EM Course](https://www2.mrc-lmb.cam.ac.uk/research/scientific-training/electron-microscopy/)
 - [LMB X-ray Course](http://www2.mrc-lmb.cam.ac.uk/research/scientific-training/crystallography-course-2013/)
+- [Thorn lab crystallography](https://www.youtube.com/channel/UCsEfbyZZD49WxUP5iJn6BkQ)
 - [X-ray crystallography lecture - George Phillips](https://www.youtube.com/watch?v=OeOzLTNHWoM)
 - [Crystallographic Symmetry - Eddie Snell](https://www.youtube.com/watch?v=sIgWFErZ3XU)
 - [X-ray Diffraction Physics - Bob Blessing](https://www.youtube.com/watch?v=UJZF5yPNhIE)
+- [X-ray diffraction resources](https://www.ccdc.cam.ac.uk/Community/educationalresources/database-of-educational-crystallographic-online-resources/resources-by-type/)
 - [Protein Dynamics by NMR- Dorothee Kern](https://www.youtube.com/watch?v=fzM5V0bbybM)
 - [Ligand binding and drug design-Dorothee Kern](https://www.youtube.com/watch?v=7MuBsYNrypg&t=659s)
 - [NMR Theory Course , James Keeler](https://www.youtube.com/watch?v=nM7jQFhrvR0&index=1&list=PLE20foNk9J6L1dh9X27RaPiaul8_7wrAY)
