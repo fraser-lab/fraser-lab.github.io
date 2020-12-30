@@ -11,7 +11,7 @@ email: roberto.diaz (at) ucsf.edu
 scholar: L_OCeG4AAAAJ
 website: https://rediaz.science/
 UCSF:
-twitter: robbiediaz_ucsf
+twitter: robbiediaz_
 linkedin: rediaz111
 github: rediaz111
 orcid: 0000-0002-1172-9919
