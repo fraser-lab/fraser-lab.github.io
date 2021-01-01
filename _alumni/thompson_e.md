@@ -1,7 +1,7 @@
 ---
 name: Erin Thompson
 startdate: 2015-06-01
-enddate: YYYY-MM-DD
+enddate: 2020-12-31
 image: /static/img/members/EThompson.jpg
 altimage: /static/img/members/EThompson_pb.jpg
 position: Graduate Student, Chemistry and Chemical Biology
