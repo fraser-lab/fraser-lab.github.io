@@ -5,7 +5,7 @@ enddate: 2020-08-01
 image: /static/img/members/Roe.jpg
 altimage: /static/img/members/Roe_pb.jpg
 position: Junior Specialist
-subsequent:  Graduate Student - UC Berkeley #Schepartz Lab
+subsequent:  Graduate Student - UC Berkeley Schepartz Lab
 pronouns: she/her/hers
 email: leah.roe (at) ucsf.edu
 scholar: 8fQ9bpIAAAAJ
