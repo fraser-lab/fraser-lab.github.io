@@ -27,6 +27,11 @@ These values are ideals and we're all growing towards embodying them. I want peo
 <br/>
 <br/>
 
+## Land Acknowledgment Statement
+The Fraser lab recognizes that the University of California San Francisco sits on the unceded land of the Ramaytush Ohlone (pronounced Rah-mah-tush O-lone-ee) peoples, the original inhabitants of the San Francisco Peninsula. As settlers on this land, we want to recognize the historic, and ongoing, discrimination and violence inflicted upon Indigenous people in North America. Please read our full statement [here](/land).
+<br/>
+<br/>
+
 ## Resources 
 A comprehensive collection of resources for all of the topics listed in this compact has been compiled to support our development and health. This list grows as we do and can be found [here](https://bit.ly/39oX74c).
 <br/>
