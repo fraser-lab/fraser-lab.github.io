@@ -96,25 +96,43 @@ Winter - Methods
 
 Class structure - 45 min lecture, 10 min break, 1 hour tutorial
 
-- # Week 1 Feb 22-24 - CryoEM - EM Lectures Yifan Cheng, Tutorials James Fraser
-	- ## Monday February 22
-		- ### Lecture 1 from Yifan Cheng
-		- ### Tutorial 1 - Connecting to AWS, CTF, Symmetry, 2D classifications
+# Week 1 Feb 22-24 - CryoEM - EM Lectures Yifan Cheng, Tutorials James Fraser
 
-	- ## Tuesday February 23
-		- ### Lecture 2 from Yifan Cheng
-		- ### Tutorial 2 - Examining 2D classes, Ab initio vs. references, 3D map refinement
+## Monday February 22
 
-	- ## Wednesday February 24
-		- ### Lecture 3 from Yifan Cheng
-		- ### Tutorial 3 - Moving files off of AWS, 3D map classification, map sharpening, model refinement
+### Lecture 1 from Yifan Cheng
 
-	- ## CryoEM References:
-		- [cisTEM](https://cistem.org/) introduction and [paper](http://cdn.fraserlab.com/courses/methods/2018_grant.pdf)
-		- _Reading on Rigor and reproducibility in EM:_
-			- [FSC](https://en.wikipedia.org/wiki/Fourier_shell_correlation) and [early example in EM](http://cdn.fraserlab.com/courses/methods/1982_saxton.pdf)
-			- [half maps](http://cdn.fraserlab.com/courses/methods/2012_scheres.pdf) and [Optimal Determination of Particle Orientation, Absolute Hand, and Contrast Loss in Single-particle Electron Cryomicroscopy](http://cdn.fraserlab.com/courses/methods/2003_rosenthal.pdf)
-			- Other Model and Map validation tools (a lot of overlap with X-ray tools but a few examples that don't: [phenix.mtriage](https://www.phenix-online.org/documentation/reference/mtriage.html), [EMRinger](http://cdn.fraserlab.com/publications/2015_barad.pdf))
+### Tutorial 1:
+ - Connecting to AWS
+ - CTF
+ - Symmetry
+ - 2D classifications
+
+## Tuesday February 23
+
+### Lecture 2 from Yifan Cheng
+
+### Tutorial 2: 
+- Examining 2D classes
+- Ab initio vs. references
+- 3D map refinement
+
+## Wednesday February 24
+
+### Lecture 3 from Yifan Cheng
+### Tutorial 3: 
+- Moving files off of AWS
+- 3D map classification
+- map sharpening
+- model refinement
+
+## CryoEM References:
+
+- [cisTEM](https://cistem.org/) introduction and [paper](http://cdn.fraserlab.com/courses/methods/2018_grant.pdf)
+- _Reading on Rigor and reproducibility in EM:_
+	- [FSC](https://en.wikipedia.org/wiki/Fourier_shell_correlation) and [early example in EM](http://cdn.fraserlab.com/courses/methods/1982_saxton.pdf)
+	- [half maps](http://cdn.fraserlab.com/courses/methods/2012_scheres.pdf) and [Optimal Determination of Particle Orientation, Absolute Hand, and Contrast Loss in Single-particle Electron Cryomicroscopy](http://cdn.fraserlab.com/courses/methods/2003_rosenthal.pdf)
+	- Other Model and Map validation tools (a lot of overlap with X-ray tools but a few examples that don't: [phenix.mtriage](https://www.phenix-online.org/documentation/reference/mtriage.html), [EMRinger](http://cdn.fraserlab.com/publications/2015_barad.pdf))
 
 - Mar 1-3 - Method 2 - X-ray Lectures Bob Stroud, Tutorials Aashish Manglik
 	- Data incoming from Huong
