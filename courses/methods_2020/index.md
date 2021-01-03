@@ -104,9 +104,11 @@ Class structure - 45 min lecture, 10 min break, 1 hour tutorial
 
 ### Tutorial 1:
  - Connecting to AWS
- - CTF
- - Symmetry
- - 2D classifications
+ - [cisTEM](https://cistem.org/) GUI and importing images (300kV, 2.7mm, 0.834 A/pix)
+ - CTF 
+ - particle picking ()
+ - Symmetry (C1 vs. C3)
+ - 2D classifications (box size 512)
 
 ## Tuesday February 23
 
@@ -114,22 +116,20 @@ Class structure - 45 min lecture, 10 min break, 1 hour tutorial
 
 ### Tutorial 2: 
 - Examining 2D classes
-- Ab initio vs. references
+- Ab initio vs. starting 3D references (low pass filtered from [7KKK](https://www.rcsb.org/structure/7KKK))
 - 3D map refinement
 
 ## Wednesday February 24
 
 ### Lecture 3 from Yifan Cheng
 ### Tutorial 3: 
-- Moving files off of AWS
+- Moving files off of AWS with scp
 - 3D map classification
-- map sharpening
-- model refinement
+- [map sharpening](https://www.phenix-online.org/documentation/reference/auto_sharpen.html)
+- [model refinement](https://www.phenix-online.org/documentation/reference/real_space_refine.html)
 
-## CryoEM References:
-
-- [cisTEM](https://cistem.org/) introduction and [paper](http://cdn.fraserlab.com/courses/methods/2018_grant.pdf)
-- _Reading on Rigor and reproducibility in EM:_
+## Reading on Rigor and reproducibility in EM:
+	- [cisTEM paper](http://cdn.fraserlab.com/courses/methods/2018_grant.pdf)
 	- [FSC](https://en.wikipedia.org/wiki/Fourier_shell_correlation) and [early example in EM](http://cdn.fraserlab.com/courses/methods/1982_saxton.pdf)
 	- [half maps](http://cdn.fraserlab.com/courses/methods/2012_scheres.pdf) and [Optimal Determination of Particle Orientation, Absolute Hand, and Contrast Loss in Single-particle Electron Cryomicroscopy](http://cdn.fraserlab.com/courses/methods/2003_rosenthal.pdf)
 	- Other Model and Map validation tools (a lot of overlap with X-ray tools but a few examples that don't: [phenix.mtriage](https://www.phenix-online.org/documentation/reference/mtriage.html), [EMRinger](http://cdn.fraserlab.com/publications/2015_barad.pdf))
