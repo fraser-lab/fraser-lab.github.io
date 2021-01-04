@@ -44,7 +44,7 @@ Structure-based drug design promises to revolutionize drug discovery, yet despit
 ## Schedule ##
 
 **Monday Jan 4 - 2:30-4PM**
-- James Fraser: [Intro to class and contrasting kinase and phosphatase drug discovery](http://cdn.fraserlab.com/courses/inquiry_2020/2020_Fraser_Intro.pdf)
+- James Fraser: [Intro to class and contrasting kinase and phosphatase drug discovery](http://cdn.fraserlab.com/courses/inquiry_2021/lecture1.pdf)
   - [Structural Mechanism for STI-571 Inhibition of Abelson Tyrosine Kinase](http://cdn.fraserlab.com/courses/inquiry_2020/2000_schindler.pdf)
   - [Allosteric inhibition of SHP2 phosphatase inhibits cancers driven by receptor tyrosine kinases.](http://cdn.fraserlab.com/courses/inquiry_2020/2016_chen.pdf)
 - install [ChimeraX](https://www.rbvi.ucsf.edu/chimerax/download.html)
@@ -65,6 +65,7 @@ Structure-based drug design promises to revolutionize drug discovery, yet despit
   - [Discovery of a selective inhibitor of oncogenic B-Raf kinase with potent antimelanoma activity.](http://cdn.fraserlab.com/courses/inquiry_2020/2008_tsai.pdf)
   - [Discovery of a potent and selective Bcl-2 inhibitor using SAR by NMR](http://cdn.fraserlab.com/courses/inquiry_2020/2010_petros.pdf)
   - [An expanded allosteric network in PTP1B by multitemperature crystallography, fragment screening, and covalent tethering](http://cdn.fraserlab.com/publications/2018_keedy_hill.pdf)
+  - [Fragment binding to the Nsp3 macrodomain of SARS-CoV-2 identified through crystallographic screening and computational docking](http://cdn.fraserlab.com/publications/20201124_schuller_correy_gahbauer_fearon.pdf)
 - Liam McKay: Tour of Crystallography facility
   - Crystalizing Lysozyme
 
@@ -76,7 +77,7 @@ Structure-based drug design promises to revolutionize drug discovery, yet despit
 
 **Monday Jan 11 - 2:30-4PM**
 - David Bulkley: CryoEM facility tour
-- James Fraser:  cryoEM in drug discovery and antibiotics talk [Synthetic group A streptogramin antibiotics
+- James Fraser:  Free enegy calculations and COVID, CryoEM in drug discovery and antibiotics  [Synthetic group A streptogramin antibiotics
 that overcome Vat resistance](http://cdn.fraserlab.com/publications/2020_li_pellegrino.pdf)
 
 **Tuesday Jan 12 - 2:30-4PM**
