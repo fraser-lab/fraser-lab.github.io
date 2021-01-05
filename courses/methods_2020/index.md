@@ -96,7 +96,7 @@ Winter - Methods
 
 Class structure - 45 min lecture, 10 min break, 1 hour tutorial
 
-# Week 1 Feb 22-24 - CryoEM - EM Lectures Yifan Cheng, Tutorials James Fraser
+# Feb 22-24 - CryoEM - Lectures Yifan Cheng, Tutorials James Fraser
 
 ## Monday February 22
 
@@ -134,25 +134,31 @@ Class structure - 45 min lecture, 10 min break, 1 hour tutorial
 - [half maps](http://cdn.fraserlab.com/courses/methods/2012_scheres.pdf) and [Optimal Determination of Particle Orientation, Absolute Hand, and Contrast Loss in Single-particle Electron Cryomicroscopy](http://cdn.fraserlab.com/courses/methods/2003_rosenthal.pdf)
 - Other Model and Map validation tools (a lot of overlap with X-ray tools but a few examples that don't: [phenix.mtriage](https://www.phenix-online.org/documentation/reference/mtriage.html), [EMRinger](http://cdn.fraserlab.com/publications/2015_barad.pdf))
 
-- Mar 1-3 - Method 2 - X-ray Lectures Bob Stroud, Tutorials Aashish Manglik
-	- Data incoming from Huong
-		- _Reading on Rigor and reproducibility in Crystallography:_
-			- [R-free](http://cdn.fraserlab.com/courses/methods/1992_brunger.pdf)
-			- [MolProbity](http://cdn.fraserlab.com/courses/methods/2010_chen.pdf)
-			- [Data Challenges and synthetic data](http://cdn.fraserlab.com/courses/methods/2019_holton.pdf)
-- Mar 8-10 - Method 3 - NMR Lectures John Gross, Tutorials Ryan Tibble
-	- _Reading on Rigor and reproducibility in NMR:_
-		- [Tools for validating NMR structures](http://cdn.fraserlab.com/courses/methods/2014_vuister.pdf)
-		- [Q-scores](http://cdn.fraserlab.com/courses/methods/2004_clore.pdf)
-		- [Integrative modeling](http://cdn.fraserlab.com/courses/methods/2019_rout.pdf)
-	- [from FID to 2D](http://cdn.fraserlab.com/courses/methods/2DNMR_Processing_Tutorial.pdf) (Ryan Tibble and John Gross)
-	- [Intro to Sparky](http://cdn.fraserlab.com/courses/methods/Sparky_tutorial.pdf)
-	- [Common Sparky Commands](http://cdn.fraserlab.com/courses/methods/Sparky_common_cmds.pdf) 
-	-  [Sparky Integration Tutorial](http://cdn.fraserlab.com/courses/methods/Sparky_Integration.pdf)
-	- Supplemental reading: [How does an HSQC work?](http://cdn.fraserlab.com/courses/methods/HSQC-Guided-tour.pdf)
-	- chemical shift perturbation plot versus primary sequence; mapping onto structure, [CSPs from Sparky Lists](http://cdn.fraserlab.com/courses/methods/Sparky_CSP.py)
-- Mar 15-16 - final working week on data
-- Mar 17 - final presentations, including - what is one more experiment you'd do...
+# Mar 1-3 - X-ray Crystallography - Lectures Bob Stroud, Tutorials Aashish Manglik
+
+- Data incoming from Huong
+
+## Reading on Rigor and reproducibility in Crystallography:
+- [R-free](http://cdn.fraserlab.com/courses/methods/1992_brunger.pdf)
+- [MolProbity](http://cdn.fraserlab.com/courses/methods/2010_chen.pdf)
+- [Data Challenges and synthetic data](http://cdn.fraserlab.com/courses/methods/2019_holton.pdf)
+
+# Mar 8-10 - NMR - Lectures John Gross, Tutorials Ryan Tibble
+
+- [from FID to 2D](http://cdn.fraserlab.com/courses/methods/2DNMR_Processing_Tutorial.pdf) (Ryan Tibble and John Gross)
+- [Intro to Sparky](http://cdn.fraserlab.com/courses/methods/Sparky_tutorial.pdf)
+- [Common Sparky Commands](http://cdn.fraserlab.com/courses/methods/Sparky_common_cmds.pdf) 
+-  [Sparky Integration Tutorial](http://cdn.fraserlab.com/courses/methods/Sparky_Integration.pdf)
+- Supplemental reading: [How does an HSQC work?](http://cdn.fraserlab.com/courses/methods/HSQC-Guided-tour.pdf)
+- chemical shift perturbation plot versus primary sequence; mapping onto structure, [CSPs from Sparky Lists](http://cdn.fraserlab.com/courses/methods/Sparky_CSP.py)
+
+## Reading on Rigor and reproducibility in NMR:_
+- [Tools for validating NMR structures](http://cdn.fraserlab.com/courses/methods/2014_vuister.pdf)
+- [Q-scores](http://cdn.fraserlab.com/courses/methods/2004_clore.pdf)
+- [Integrative modeling](http://cdn.fraserlab.com/courses/methods/2019_rout.pdf)
+
+# Mar 15-16 - final working week on data
+# Mar 17 - final presentations, including - what is one more experiment you'd do...
 
 
 ## Supplemental material and tutorial videos
