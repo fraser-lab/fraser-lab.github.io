@@ -1,5 +1,5 @@
 ---
-name: Erin Thompson
+name: Erin Thompson, Ph.D.
 startdate: 2015-06-01
 enddate: 2020-12-31
 image: /static/img/members/EThompson.jpg
