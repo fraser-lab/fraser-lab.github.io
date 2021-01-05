@@ -2,7 +2,7 @@
 title: "Assessment of enzyme active site positioning and tests of catalytic mechanisms through X-ray–derived conformational ensembles"
 citation: "Yabukarski F, **Biel JT**, Pinney MM, Doukov T, Powers AS, **Fraser JS**, Herschlag D. *PNAS*. 2020."
 date: '2020-12-29'
-image: '/static/img/pub/2019_yabukarski.jpg'
+image: '/static/img/pub/2020_yabukarski.jpg'
 pmid: 33376217
 # pmcid: Submitted
 biorxiv: '786327'
