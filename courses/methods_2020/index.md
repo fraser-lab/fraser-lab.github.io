@@ -10,7 +10,7 @@ permalink: /methods/
 
 ## Winter 2021 Syllabus ##
 
-<img class="img-fluid mx-auto d-block" src="/static/img/aeronab.jpg" style="height: 100px" alt="What is the next experiment?">
+<img class="img-fluid mx-auto d-block" src="/static/img/aeronab.jpg" style="height: 300px" alt="What is the next experiment?">
 
 **Course Title:** Methods in Macromolecular Structure
 
