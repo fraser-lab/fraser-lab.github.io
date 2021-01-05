@@ -10,7 +10,7 @@ permalink: /methods/
 
 ## Winter 2021 Syllabus ##
 
-<img class="img-fluid mx-auto d-block" src="/static/img/aeronab.jpg" style="height: 300px" alt="What is the next experiment?">
+<img class="img-fluid mx-auto d-block" src="/static/img/courses/aeronab.jpg" style="height: 300px" alt="What is the next experiment?">
 
 **Course Title:** Methods in Macromolecular Structure
 
@@ -49,7 +49,7 @@ Fluency in multiple biophysical methods is often critical for answering mechanis
 
 This is a team-based class where students work in small groups develop their own analysis of real data. Statistical aspects of rigor and reproducibility in structural biology will be emphasized throughout lectures, journal club presentations, and hands-on activities. The website for the [2017](/methods_2017/),  [2018](/methods_2018/), and [2019](/courses/methods_2019) editions are available online.
 
-The course instructors and teaching assistants value the contributions, ideas and perspective of all students. It is our intent that students from diverse backgrounds be well-served by this course, that students' learning needs be addressed both in and out of class, and that the diversity that the students bring to this class be viewed as a resource, strength and benefit. It is our intent to present materials and activities that are respectful of diversity: gender identity, sexuality, disability, age, socioeconomic status, ethnicity, race, nationality, religion, and culture. However, we also acknowledge that many of the literature examples used in this course were authored by white males. Integrating a diverse set of experiences is important for a more comprehensive understanding of science and we strive towards that goal. Although the instructors are committed to continuous improvement of our practices and our learning environment, we value input from students and your suggestions are encouraged and appreciated. Please let the course director or program leadership know ways to improve the effectiveness of the course for you personally, or for other students or student groups. 
+The course instructors and teaching assistants value the contributions, ideas and perspective of all students. It is our intent that students from diverse backgrounds be well-served by this course, that students' learning needs be addressed both in and out of class, and that the diversity that the students bring to this class be viewed as a resource, strength and benefit. It is our intent to present materials and activities that are respectful of diversity: gender identity, sexuality, disability, age, socioeconomic status, ethnicity, race, nationality, religion, and culture. However, we also acknowledge that many of the literature examples used in this course were authored by white males. Integrating a diverse set of experiences is important for a more comprehensive understanding of science and we strive towards that goal. Although the instructors are committed to continuous improvement of our practices and our learning environment, we value input from students and your suggestions are encouraged and appreciated. Please let the course director or program leadership know ways to improve the effectiveness of the course for you personally, or for other students or student groups.
 
 *Ethics*: This course is more than a training experience; it is an active research project whose results will be published to the broader scientific community. The community must be able to understand our work, replicate it, and have confidence in its findings. We must therefore ensure the integrity of the information we disseminate. To do so, it is essential that students perform and document their experiments and analyses as faithfully as possible. Mistakes and oversights are normal and to be expected, but they must not be ignored, concealed, or disguised. In addition, to merit authorship, students must contribute to three aspects of the project: intellectual conception or interpretation of the methods or data, technical execution of the experiments and/or analyses, and documentation or dissemination of the results. We fully expect that by actively participating in the course and working toward the course objectives, all students will merit authorship.
 
@@ -89,7 +89,7 @@ Winter - Methods
 	* [FFT 101](http://www.jezzamon.com/fourier/) (JF)
 	* Aeronabs and What Aashish's miniquals might look like (AM)
 		* [Aeronab paper](https://science.sciencemag.org/content/early/2020/11/04/science.abe3255.long)
-	* Equity in structural biology: Historical inequities. Contributions of BIPOC and female scientists. Current inequities due to access and instrumentation. 
+	* Equity in structural biology: Historical inequities. Contributions of BIPOC and female scientists. Current inequities due to access and instrumentation.
 	* Software check
 	* [ChimeraX EM tutorial by Tom Goddard](http://www.cgl.ucsf.edu/chimera/data/hsp90-em-dec2017/hsp90em.html)
 
@@ -105,7 +105,7 @@ Class structure - 45 min lecture, 10 min break, 1 hour tutorial
 ### Tutorial 1:
  - Connecting to AWS
  - [cisTEM](https://cistem.org/) GUI and importing images (300kV, 2.7mm, 0.834 A/pix)
- - CTF 
+ - CTF
  - particle picking ()
  - Symmetry (C1 vs. C3)
  - 2D classifications (box size 512)
@@ -114,7 +114,7 @@ Class structure - 45 min lecture, 10 min break, 1 hour tutorial
 
 ### Lecture 2 from Yifan Cheng
 
-### Tutorial 2: 
+### Tutorial 2:
 - Examining 2D classes
 - Ab initio vs. starting 3D references (low pass filtered from [7KKK](https://www.rcsb.org/structure/7KKK))
 - 3D map refinement
@@ -122,7 +122,7 @@ Class structure - 45 min lecture, 10 min break, 1 hour tutorial
 ## Wednesday February 24
 
 ### Lecture 3 from Yifan Cheng
-### Tutorial 3: 
+### Tutorial 3:
 - Moving files off of AWS with scp
 - 3D map classification
 - [map sharpening](https://www.phenix-online.org/documentation/reference/auto_sharpen.html)
@@ -147,7 +147,7 @@ Class structure - 45 min lecture, 10 min break, 1 hour tutorial
 
 - [from FID to 2D](http://cdn.fraserlab.com/courses/methods/2DNMR_Processing_Tutorial.pdf) (Ryan Tibble and John Gross)
 - [Intro to Sparky](http://cdn.fraserlab.com/courses/methods/Sparky_tutorial.pdf)
-- [Common Sparky Commands](http://cdn.fraserlab.com/courses/methods/Sparky_common_cmds.pdf) 
+- [Common Sparky Commands](http://cdn.fraserlab.com/courses/methods/Sparky_common_cmds.pdf)
 -  [Sparky Integration Tutorial](http://cdn.fraserlab.com/courses/methods/Sparky_Integration.pdf)
 - Supplemental reading: [How does an HSQC work?](http://cdn.fraserlab.com/courses/methods/HSQC-Guided-tour.pdf)
 - chemical shift perturbation plot versus primary sequence; mapping onto structure, [CSPs from Sparky Lists](http://cdn.fraserlab.com/courses/methods/Sparky_CSP.py)
