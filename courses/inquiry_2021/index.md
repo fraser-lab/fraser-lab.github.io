@@ -79,8 +79,7 @@ Structure-based drug design promises to revolutionize drug discovery, yet despit
 
 **Monday Jan 11 - 2:30-4PM**
 - David Bulkley: CryoEM facility tour
-- James Fraser:  Free enegy calculations and COVID, CryoEM in drug discovery and antibiotics  [Synthetic group A streptogramin antibiotics
-that overcome Vat resistance](http://cdn.fraserlab.com/publications/2020_li_pellegrino.pdf)
+- [Watch this video ahead of time - and we will have a discussion](https://www.youtube.com/watch?v=fkQwDltGDfU&t=1s)
 
 **Tuesday Jan 12 - 2:30-4PM**
 - Class time to work on final presentation
