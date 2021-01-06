@@ -56,7 +56,7 @@ Structure-based drug design promises to revolutionize drug discovery, yet despit
 
 
 **Wednesday Jan 6 - 2:30-4PM**
-- Install ChimeraX before class [link](https://www.rbvi.ucsf.edu/chimerax/download.html")
+- Install ChimeraX before class [link](https://www.rbvi.ucsf.edu/chimerax/download.html)
 - Tom Goddard: [ChimeraX demo](https://www.rbvi.ucsf.edu/chimerax/data/delta-opioid-jan2020/binding.html)
   - [Elucidating the active delta-opioid receptor crystal structure with peptide and small-molecule agonists.](http://cdn.fraserlab.com/courses/inquiry_2020/2019_claff.pdf)
   - VR links:
