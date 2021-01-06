@@ -50,7 +50,7 @@ Structure-based drug design promises to revolutionize drug discovery, yet despit
 - install [ChimeraX](https://www.rbvi.ucsf.edu/chimerax/download.html)
 
 **Tuesday Jan 5 - 2:30-4PM**
-- [John Irwin: Docking what works and what doesn't](http://cdn.fraserlab.com/courses/inquiry_2020/2020_Irwin_Docking.pdf)
+- [John Irwin: Docking what works and what doesn't](http://cdn.fraserlab.com/courses/inquiry_2021/2021_Irwin_Docking.pdf)
   - What docking is, how it works, and why it is hard; a review of some notable success stories "what docking can do for you" and failures; a detailed look at 2 or 3 stories, focusing on how to run a docking campaign, and what to expect from the outcome, with results.
   - resources DOCK Blaster, ZINC, DUDE, and how to use them.
 
