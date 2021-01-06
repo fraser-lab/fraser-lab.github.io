@@ -56,6 +56,9 @@ Structure-based drug design promises to revolutionize drug discovery, yet despit
 
 
 **Wednesday Jan 6 - 2:30-4PM**
+- CANCELLED
+
+**Thursday Jan 7 - 2:30-4PM**
 - Install ChimeraX before class [link](https://www.rbvi.ucsf.edu/chimerax/download.html)
 - Tom Goddard: [ChimeraX demo](https://www.rbvi.ucsf.edu/chimerax/data/delta-opioid-jan2020/binding.html)
   - [Elucidating the active delta-opioid receptor crystal structure with peptide and small-molecule agonists.](http://cdn.fraserlab.com/courses/inquiry_2020/2019_claff.pdf)
@@ -63,13 +66,6 @@ Structure-based drug design promises to revolutionize drug discovery, yet despit
     - [Opiod](https://youtu.be/FCotNi6213w)
     - [Coronavirus](https://youtu.be/dKNbRRRFhqY)
 
-**Thursday Jan 7 - 2:30-4PM**
-- Liam McKay: Tour of Crystallography facility
-- James Fraser: [Fragment-based design and Crystallography 101](http://cdn.fraserlab.com/courses/inquiry_2020/2020_Fraser_Fragments.pdf)
-  - [Discovery of a selective inhibitor of oncogenic B-Raf kinase with potent antimelanoma activity.](http://cdn.fraserlab.com/courses/inquiry_2020/2008_tsai.pdf)
-  - [Discovery of a potent and selective Bcl-2 inhibitor using SAR by NMR](http://cdn.fraserlab.com/courses/inquiry_2020/2010_petros.pdf)
-  - [An expanded allosteric network in PTP1B by multitemperature crystallography, fragment screening, and covalent tethering](http://cdn.fraserlab.com/publications/2018_keedy_hill.pdf)
-  - [Fragment binding to the Nsp3 macrodomain of SARS-CoV-2 identified through crystallographic screening and computational docking](http://cdn.fraserlab.com/publications/20201124_schuller_correy_gahbauer_fearon.pdf)
 
 **Friday Jan 8 - 2:30-4PM**
 - [Tanja Kortemme: Rosetta and Biologics](http://cdn.fraserlab.com/courses/inquiry_2020/2020_Kortemme_Rosetta.pdf)
@@ -79,6 +75,8 @@ Structure-based drug design promises to revolutionize drug discovery, yet despit
 
 **Monday Jan 11 - 2:30-4PM**
 - David Bulkley: CryoEM facility tour
+- Liam McKay: Tour of Crystallography facility
+- [Fragment binding to the Nsp3 macrodomain of SARS-CoV-2 identified through crystallographic screening and computational docking](http://cdn.fraserlab.com/publications/20201124_schuller_correy_gahbauer_fearon.pdf)
 - [Watch this video ahead of time - and we will have a discussion](https://www.youtube.com/watch?v=fkQwDltGDfU&t=1s)
 
 **Tuesday Jan 12 - 2:30-4PM**
