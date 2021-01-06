@@ -105,8 +105,8 @@ Class structure - 45 min lecture, 10 min break, 1 hour tutorial
 ### Tutorial 1:
  - Connecting to AWS
  - [cisTEM](https://cistem.org/) GUI and importing images (300kV, 2.7mm, 0.834 A/pix)
- - CTF
- - particle picking ()
+ - CTF (fit res better than 4A)
+ - particle picking (150, 120, 2)
  - Symmetry (C1 vs. C3)
  - 2D classifications (box size 512)
 
