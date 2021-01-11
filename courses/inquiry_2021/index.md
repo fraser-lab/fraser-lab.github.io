@@ -73,15 +73,13 @@ Structure-based drug design promises to revolutionize drug discovery, yet despit
   - [Engineered ACE2 receptor traps potently neutralize SARS-CoV-2](https://www.pnas.org/content/early/2020/10/21/2016093117)
   - [De novo design of picomolar SARS-CoV-2 miniprotein inhibitors.](https://science.sciencemag.org/content/370/6515/426)
 
-**Monday Jan 11 - 2:30-4PM**
+**Tuesday Jan 12 - 2:30-4PM**
 - David Bulkley: CryoEM facility tour
 - Liam McKay: Tour of Crystallography facility
 - Equity in topic choice, instrument access, financial incentives. 
 - [Fragment binding to the Nsp3 macrodomain of SARS-CoV-2 identified through crystallographic screening and computational docking](http://cdn.fraserlab.com/publications/20201124_schuller_correy_gahbauer_fearon.pdf)
 - [Watch this video ahead of time - and we will have a discussion](https://www.youtube.com/watch?v=fkQwDltGDfU&t=1s)
 
-**Tuesday Jan 12 - 2:30-4PM**
-- Class time to work on final presentation
 
 **Thursday Jan 14 - 11AM-12PM**
 - final presentation!
