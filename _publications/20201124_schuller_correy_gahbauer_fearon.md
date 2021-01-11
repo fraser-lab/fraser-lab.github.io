@@ -266,4 +266,6 @@ links:
   url: https://twitter.com/MThompsonLab/status/1281265307684749315
 - name: UCSF Press Release - Building Blocks for COVID-19 Antiviral Drugs Identified in Rapid Study
   url: https://www.ucsf.edu/news/2020/07/418056/building-blocks-covid-19-antiviral-drugs-identified-rapid-study
+- name: Practical Fragments - Hundreds of fragments hits for the SARS-CoV-2 Nsp3 Macrodomain
+  url: http://practicalfragments.blogspot.com/2021/01/hundreds-of-fragments-hits-for-sars-cov.html
 ---
