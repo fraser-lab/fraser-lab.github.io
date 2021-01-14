@@ -82,5 +82,5 @@ Structure-based drug design promises to revolutionize drug discovery, yet despit
 
 
 **Thursday Jan 14 - 11AM-12PM**
-- final presentation!
+- [final presentation!](http://cdn.fraserlab.com/courses/inquiry_2021/presentation.mp4)
 
