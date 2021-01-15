@@ -5,7 +5,7 @@ enddate: 2017-04-01
 image: /static/img/members/mavor.jpg
 altimage: /static/img/members/mavor_pb.jpg
 position: Graduate Student, Biophysics
-subsequent: Postdoctoral Fellow - Bolon Lab @ UMass Medical School
+subsequent: Postdoctoral Fellow - Bolon Lab @ UMass Medical School; now Adjunct Teaching Professor @ Worcester Polytechnic Institute	
 pronouns: he/him/his
 email: david.mavor (at) ucsf.edu
 scholar: 1XSLcWkAAAAJ
