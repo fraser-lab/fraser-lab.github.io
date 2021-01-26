@@ -24,7 +24,6 @@ permalink: /methods/
 
 **Textbook:** None. Lab protocols and course materials will be available in class or online
 
-
 **Instructors:** [John Gross](mailto:jdgross@cgl.ucsf.edu), [Aashish Manglik](mailto:Aashish.Manglik@ucsf.edu), [James Fraser](mailto:jfraser@fraserlab.com)
 
 **NMR guru:** [Ryan Tibble](mailto:Ryan.Tibble@ucsf.edu) (Gross lab)
@@ -59,39 +58,19 @@ The course instructors and teaching assistants value the contributions, ideas an
 
 ## Tentative 2021 schedule
 
-
-
-<!-- Fall Macro pt 1 (6 weeks)
-
-- Nov 2-4
-- Nov. 9, 10,(no class Nov 11, Veteran’s Day)
-- Nov. 16-18
-- Nov. 23-25
-- Nov. 30-Dec 2
-- Dec. 7-9
-- Dec. 14-16 chalk talk 1
-- Grade based on that 6 weeks and chalk talk 1
-
-Winter - Macro pt 2 (6 weeks)
-
-- Jan 4-6
-- Jan 11-13
-- Jan 19,20 (18th is MLK day, 21st starts BP recruitment)
-- Jan 25-27
-- Feb 1-3
-- Feb 8-10 (chalk talk 2?)
-
- -->
 Winter - Methods
 
-- Feb 16/17 - Class intro
+- Feb 16 - Class intro
 	* Why structural biology/Intro to Pchem (JG)
-	* [FFT 101](http://www.jezzamon.com/fourier/) (JF)
+	* [FFT 101](http://www.jezzamon.com/fourier/) (JF)	
 	* Aeronabs and What Aashish's miniquals might look like (AM)
 		* [Aeronab paper](https://science.sciencemag.org/content/early/2020/11/04/science.abe3255.long)
-	* Equity in structural biology: Historical inequities. Contributions of BIPOC and female scientists. Current inequities due to access and instrumentation.
+
+- Feb 17 - 
+	* Equity in structural biology - who is in the room, who has access to instrumentation, and who gets credit. (JF)
+		* Guest lecture by [Prof. Cynthia Wolberger of Johns Hopkins](http://wolberger.med.jhmi.edu/)
 	* Software check
-	* [ChimeraX EM tutorial by Tom Goddard](http://www.cgl.ucsf.edu/chimera/data/hsp90-em-dec2017/hsp90em.html)
+	* [ChimeraX EM, X-ray density, NMR tutorial by Tom Goddard](http://www.cgl.ucsf.edu/chimera/data/hsp90-em-dec2017/hsp90em.html)
 
 
 Class structure - 45 min lecture, 10 min break, 1 hour tutorial
