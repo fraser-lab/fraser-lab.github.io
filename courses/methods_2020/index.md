@@ -68,7 +68,8 @@ Winter - Methods
 
 - Feb 17 - 
 	* Equity in structural biology - who is in the room, who has access to instrumentation, and who gets credit. (JF)
-		* Guest lecture by [Prof. Cynthia Wolberger of Johns Hopkins](http://wolberger.med.jhmi.edu/)
+		* Before class, watch the first 14 minutes of [this video](https://www.mskcc.org/videos/kravis-wise-life-and-legacy-dr-rosalind-franklin-november-23-2020) for the history of Rosalind Franklin (stop when Cynthia Wolberger starts her lecture!)
+		* Guest lecture on Rosalind Franklin's Scientific Legacy by [Prof. Cynthia Wolberger of Johns Hopkins](http://wolberger.med.jhmi.edu/)
 	* Software check
 	* [ChimeraX EM, X-ray density, NMR tutorial by Tom Goddard](http://www.cgl.ucsf.edu/chimera/data/hsp90-em-dec2017/hsp90em.html)
 
