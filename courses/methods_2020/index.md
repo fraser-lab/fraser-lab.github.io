@@ -60,21 +60,19 @@ The course instructors and teaching assistants value the contributions, ideas an
 
 Winter - Methods
 
-- Feb 16 - Class intro
+# Feb 16 - Class intro
 	* Why structural biology/Intro to Pchem (JG)
 	* [FFT 101](http://www.jezzamon.com/fourier/) (JF)	
 	* Aeronabs and What Aashish's miniquals might look like (AM)
 		* [Aeronab paper](https://science.sciencemag.org/content/early/2020/11/04/science.abe3255.long)
 
-- Feb 17 - 
+# Feb 17 - 
 	* Equity in structural biology - who is in the room, who has access to instrumentation, and who gets credit. (JF)
 		* Before class, watch the first 14 minutes of [this video](https://www.mskcc.org/videos/kravis-wise-life-and-legacy-dr-rosalind-franklin-november-23-2020) for the history of Rosalind Franklin (stop when Cynthia Wolberger starts her lecture!)
 		* Guest lecture on Rosalind Franklin's Scientific Legacy by [Prof. Cynthia Wolberger of Johns Hopkins](http://wolberger.med.jhmi.edu/)
 	* Software check
 	* [ChimeraX EM, X-ray density, NMR tutorial by Tom Goddard](http://www.cgl.ucsf.edu/chimera/data/hsp90-em-dec2017/hsp90em.html)
 
-
-Class structure - 45 min lecture, 10 min break, 1 hour tutorial
 
 # Feb 22-24 - CryoEM - Lectures Yifan Cheng, Tutorials James Fraser
 
