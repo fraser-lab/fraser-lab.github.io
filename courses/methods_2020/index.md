@@ -32,12 +32,12 @@ permalink: /methods/
 **TAs:**
 - [Hersh Bhargava](mailto:Hersh.Bhargava@ucsf.edu)
 - [Matthew Hancock](mailto:Matthew.Hancock@ucsf.edu)
-- [Jacqueline Weaver@ucsf.edu](mailto:acqueline.Weaver@ucsf.edu)
+- [Jacqueline Weaver](mailto:Jacqueline.Weaver@ucsf.edu)
 
 
 **Lecturers/Facilitators:**
 
-James Fraser, Yifan Cheng, Aashish Manglik, Robert Stroud, John Gross, Ryan Tibble
+James Fraser, Yifan Cheng, Aashish Manglik, Robert Stroud, John Gross, Ryan Tibble, Tom Goddard, Cynthia Wolberger (JHU)
 
 
 **Background:**
