@@ -19,7 +19,7 @@ San Francisco, CA 94158 <br>
 </p>
 
 <p>
- <h3> See our <a href="{{ site.url }}/compact/">lab compact and philosophy</a> </h3>
+ <h3> See our <a href="{{ site.url }}/compact/">lab compact and philosophy</a></h3>
 
 </p>
 
@@ -27,6 +27,6 @@ San Francisco, CA 94158 <br>
 <h3> Recent Posts </h3>
 <ul>
   {% for post in site.posts limit: 5 %}
-    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    <li><a href="{{ post.url }}"><b>{{ post.title }}</b></a></li>
   {% endfor %}
 </ul>
