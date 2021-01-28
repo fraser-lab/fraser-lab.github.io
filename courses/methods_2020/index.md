@@ -56,9 +56,15 @@ The course instructors and teaching assistants value the contributions, ideas an
 
 *Accommodations for students with disabilities*: The Graduate Division embraces all students, including students with documented disabilities. UCSF is committed to providing all students equal access to all of its programs, services, and activities. Student Disability Services (SDS) is the campus office that works with students who have disabilities to determine and coordinate reasonable accommodations. Students who have, or think they may have, a disability are invited to contact SDS (StudentDisability@ucsf.edu); or 415-476-6595) for a confidential discussion and to review the process for requesting accommodations in classroom and clinical settings. More information is available online at http://sds.ucsf.edu. Accommodations are never retroactive; therefore students are encouraged to register with Student Disability Services (http://sds.ucsf.edu/) as soon as they begin their programs. UCSF encourages students to engage in support seeking behavior via all of the resources available through Student Life, for consistent support and access to their programs.
 
-## Tentative 2021 schedule
+## 2021 schedule
 
-Winter - Methods
+Team 1: TA - Hersh: Jayso'n Davidson, Kevin (Chuankai) Nie, Daphne Chen, Lieza Chan, Jesus Madrigal
+Team 2: TA - Hersh: Paul Burroughs, Kyle Anderson, Leo Chen, Dominic Grisingher, Siyi Wang
+Team 3: TA - Matthew: Benjamin Orr, Andrew Alamban, Upneet Kaur, Grant Burley, Berliza Soriano
+Team 4: TA - Matthew: Kaan Kumru, Alina Arzamassky, Hailey Wallace, Jose Montano, Seth Vigneron
+Team 5: TA - Jacqueline: Linh Tram, Maxine Bi, Arka Rao, Patrick Zager, Brian Wang
+Team 6: TA - Jacqueline: Rian Kormos, Simone Harrison, Virginia Grada, Johanna Virta
+
 
 # Feb 16/17 - Class intro
 
@@ -134,7 +140,7 @@ Winter - Methods
 - Supplemental reading: [How does an HSQC work?](http://cdn.fraserlab.com/courses/methods/HSQC-Guided-tour.pdf)
 - chemical shift perturbation plot versus primary sequence; mapping onto structure, [CSPs from Sparky Lists](http://cdn.fraserlab.com/courses/methods/Sparky_CSP.py)
 
-## Reading on Rigor and reproducibility in NMR:_
+## Reading on Rigor and reproducibility in NMR:
 - [Tools for validating NMR structures](http://cdn.fraserlab.com/courses/methods/2014_vuister.pdf)
 - [Q-scores](http://cdn.fraserlab.com/courses/methods/2004_clore.pdf)
 - [Integrative modeling](http://cdn.fraserlab.com/courses/methods/2019_rout.pdf)
