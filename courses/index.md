@@ -15,7 +15,7 @@ Fluency in multiple biophysical methods is often critical for answering mechanis
 - [Macro Methods 2017](/courses/methods_2017/)
 - [Macro Methods 2018](/courses/methods_2018/)
 - [Macro Methods 2019](/courses/methods_2019/)
-- [Macro Methods 2020](/methods/)
+- [Macro Methods 2020/21](/methods/)
 
 
 ## Biophysics 205A: Physical Underpinnings of Biological Systems (PUBS)
