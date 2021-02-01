@@ -16,7 +16,7 @@ permalink: /methods/
 
 **Course Format:** 6 hours of lecture/group work per week in class, substantial group work outside of class
 
-**Location and Date/Hours:** Monday, Tuesday, Wednesday - 9AM-11AM on [Zoom](https://ucsf.zoom.us/j/98506921235?pwd=NDI0RWF0eUhpQ1FVbWdCME5oeWVzQT09)
+**Location and Date/Hours:** Monday, Tuesday, Wednesday - 9AM-11AM on The Zoom where it happens!
 
 **Prerequisites:** All incoming first year BP and CCB graduate students are required to enroll in this course.
 
@@ -58,12 +58,12 @@ The course instructors and teaching assistants value the contributions, ideas an
 
 ## 2021 schedule
 
-Team 1: TA - Hersh: Jayso'n Davidson, Kevin (Chuankai) Nie, Daphne Chen, Lieza Chan, Jesus Madrigal
-Team 2: TA - Hersh: Paul Burroughs, Kyle Anderson, Leo Chen, Dominic Grisingher, Siyi Wang
-Team 3: TA - Matthew: Benjamin Orr, Andrew Alamban, Upneet Kaur, Grant Burley, Berliza Soriano
-Team 4: TA - Matthew: Kaan Kumru, Alina Arzamassky, Hailey Wallace, Jose Montano, Seth Vigneron
-Team 5: TA - Jacqueline: Linh Tram, Maxine Bi, Arka Rao, Patrick Zager, Brian Wang
-Team 6: TA - Jacqueline: Rian Kormos, Simone Harrison, Virginia Grada, Johanna Virta
+- Team 1: TA - Hersh: Jayso'n Davidson, Kevin (Chuankai) Nie, Daphne Chen, Lieza Chan, Jesus Madrigal
+- Team 2: TA - Hersh: Paul Burroughs, Kyle Anderson, Leo Chen, Dominic Grisingher, Siyi Wang
+- Team 3: TA - Matthew: Benjamin Orr, Andrew Alamban, Upneet Kaur, Grant Burley, Berliza Soriano
+- Team 4: TA - Matthew: Kaan Kumru, Alina Arzamassky, Hailey Wallace, Jose Montano, Seth Vigneron
+- Team 5: TA - Jacqueline: Linh Tram, Maxine Bi, Arka Rao, Patrick Zager, Brian Wang
+- Team 6: TA - Jacqueline: Rian Kormos, Simone Harrison, Virginia Grada, Johanna Virta
 
 
 # Feb 16/17 - Class intro
