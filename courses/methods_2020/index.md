@@ -132,19 +132,22 @@ The course instructors and teaching assistants value the contributions, ideas an
 - [Data Challenges and synthetic data](http://cdn.fraserlab.com/courses/methods/2019_holton.pdf)
 
 # Mar 8-10 - NMR - Lectures John Gross, Tutorials Ryan Tibble
+
 ## Monday March 8
 ### Lecture 1 from John Gross, Introduction to multidimensional NMR
--Process Nanobody HSQC spectra
+- Process Nanobody HSQC spectra
 - [from FID to 2D](http://cdn.fraserlab.com/courses/methods/2DNMR_Processing_Tutorial.pdf) (Ryan Tibble and John Gross)
 - Supplemental reading: [How does an HSQC work?](http://cdn.fraserlab.com/courses/methods/HSQC-Guided-tour.pdf)
+
 ## Tuesday March 9
 ### Lecture 2 from John Gross, Introduction to Dynamic NMR
--Overlay Nanobody HSQC and preliminary analysis of dynamics using cross-peak book keeping
+- Overlay Nanobody HSQC and preliminary analysis of dynamics using cross-peak book keeping
 - [Intro to Sparky](http://cdn.fraserlab.com/courses/methods/Sparky_tutorial.pdf)
 - [Common Sparky Commands](http://cdn.fraserlab.com/courses/methods/Sparky_common_cmds.pdf)
+
 ## Wednesday March 10
 ### Lecture 3 from John Gross, Introduction to chemical shift perturbation mapping
--Processing and overlay of HSQC spectra of nanobody-spike RBD complexes
+- Processing and overlay of HSQC spectra of nanobody-spike RBD complexes
 - chemical shift perturbation plot versus primary sequence; mapping onto structure, [CSPs from Sparky Lists](http://cdn.fraserlab.com/courses/methods/Sparky_CSP.py)
 -  [Sparky Integration Tutorial](http://cdn.fraserlab.com/courses/methods/Sparky_Integration.pdf)
 
