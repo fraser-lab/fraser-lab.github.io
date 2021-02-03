@@ -81,7 +81,7 @@ The course instructors and teaching assistants value the contributions, ideas an
 	- Before class, watch the first 14 minutes of [this video](https://www.mskcc.org/videos/kravis-wise-life-and-legacy-dr-rosalind-franklin-november-23-2020) for the history of Rosalind Franklin (stop when Cynthia Wolberger starts her lecture!)
 	- Guest lecture on Rosalind Franklin's Scientific Legacy by [Prof. Cynthia Wolberger of Johns Hopkins](http://wolberger.med.jhmi.edu/)
 - Software check (Phenix, XDS/XDSGUI, NMRPIPE, SPARKY)
-- [ChimeraX tutorial by Tom Goddard](http://www.cgl.ucsf.edu/chimera/data/hsp90-em-dec2017/hsp90em.html)
+- [ChimeraX tutorial by Tom Goddard](https://www.rbvi.ucsf.edu/chimerax/data/nanobody-feb2021/nanobody.html)
 
 
 # Feb 22-24 - CryoEM - Lectures Yifan Cheng, Tutorials James Fraser
