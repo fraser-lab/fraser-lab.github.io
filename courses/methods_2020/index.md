@@ -157,11 +157,16 @@ The course instructors and teaching assistants value the contributions, ideas an
 - [Integrative modeling](http://cdn.fraserlab.com/courses/methods/2019_rout.pdf)
 
 # Mar 15-16 - Work in teams
-# Mar 17 - Final presentations (in teams what you did, what you learned and what is one more experiment you'd like to do..)
-# After March 17 - self schedule Macro mini-quals with 2 faculty (on consultation with your TAs who will report the grades back to Oren)
+# Mar 17 - Final presentations 
+
+## Presenting as a team. In 15 minutes tell us what you did, what you learned, and what is one more experiment you'd like to do... Followed by 5-10 minutes of questions.
+
+# After March 17 
+
+## self schedule Macro mini-quals with 2 faculty (in consultation with your TAs who will report the grades back to Oren)
 
 
-## Supplemental material and tutorial videos
+# Supplemental material and tutorial videos
 
 - [Getting started in CryoEM - Grant Jensen lectures](https://www.youtube.com/playlist?list=PL8_xPU5epJdctoHdQjpfHmd_z9WvGxK8-)
 - [LMB EM Course](https://www2.mrc-lmb.cam.ac.uk/research/scientific-training/electron-microscopy/)
