@@ -156,8 +156,9 @@ The course instructors and teaching assistants value the contributions, ideas an
 - [Q-scores](http://cdn.fraserlab.com/courses/methods/2004_clore.pdf)
 - [Integrative modeling](http://cdn.fraserlab.com/courses/methods/2019_rout.pdf)
 
-# Mar 15-16 - final working week on data
-# Mar 17 - final presentations, including - what is one more experiment you'd do...
+# Mar 15-16 - Work in teams
+# Mar 17 - Final presentations (in teams what you did, what you learned and what is one more experiment you'd like to do..)
+# After March 17 - self schedule Macro mini-quals with 2 faculty (on consultation with your TAs who will report the grades back to Oren)
 
 
 ## Supplemental material and tutorial videos
