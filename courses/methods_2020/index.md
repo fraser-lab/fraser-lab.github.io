@@ -71,7 +71,14 @@ This is a team-based class where students work in small groups develop their own
 ## Tuesday February 16
 
 - Why structural biology/Intro to Pchem (JG)
-- [FFT 101](http://www.jezzamon.com/fourier/) (JF)	
+	- [Forces contributing to the conformational stability of proteins](https://faseb.onlinelibrary.wiley.com/doi/pdfdirect/10.1096/fasebj.10.1.8566551)
+- FFT 101 (JF)
+	- Waves: amplitude/intensity, phase, frequency/wavelength (and in multiple dimensions: direction/index)
+	- How to sum sine waves together: weights/amplitude - can make any periodic function!
+	- Intuitively decomposing a complex function into sine waves (Fourier transform!)
+	- [Resolution](https://bl831.als.lbl.gov/~jamesh/movies/resolution.mpeg): start thinking about 3D objects like an X-ray or EM map, building intuition of more waves measured giving higher resolution
+	- Building up the MTZ (index = frequency and direction, amplitude/intensity, phase) and the concept of Nyquist frequency (why pixel size, changing values across pixels, and maximum resolution are related in EM)
+	-[interactive website](http://www.jezzamon.com/fourier/) 	
 - [Aeronabs](https://science.sciencemag.org/content/early/2020/11/04/science.abe3255.long) and What Aashish's miniquals might look like (AM)
 
 
