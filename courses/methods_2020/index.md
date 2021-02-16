@@ -81,6 +81,7 @@ This is a team-based class where students work in small groups develop their own
 	- Building up the MTZ (index = frequency and direction, amplitude/intensity, phase) and the concept of Nyquist frequency (why pixel size, changing values across pixels, and maximum resolution are related in EM)
 	-[interactive website](http://www.jezzamon.com/fourier/) 	
 - [Aeronabs](https://science.sciencemag.org/content/early/2020/11/04/science.abe3255.long) and What Aashish's miniquals might look like (AM)
+	- Review: [Dynamic personalities of proteins](https://www.nature.com/articles/nature06522)
 
 
 ## Wednesday February 17
