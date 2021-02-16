@@ -62,7 +62,7 @@ This is a team-based class where students work in small groups develop their own
 - Team 2: TA - Hersh: Paul Burroughs, Kyle Anderson, Leo Chen, Dominic Grisingher, Siyi Wang
 - Team 3: TA - Matthew: Benjamin Orr, Andrew Alamban, Upneet Kaur, Grant Burley, Berliza Soriano
 - Team 4: TA - Matthew: Kaan Kumru, Alina Arzamassky, Hailey Wallace, Jose Montano, Seth Vigneron
-- Team 5: TA - Jacqueline: Linh Tram, Maxine Bi, Arka Rao, Patrick Zager, Brian Wang
+- [Team Daly](https://en.wikipedia.org/wiki/Marie_Maynard_Daly): TA - Jacqueline: Linh Tram, Maxine Bi, Arka Rao, Patrick Zager, Brian Wang
 - Team 6: TA - Jacqueline: Rian Kormos, Simone Harrison, Virginia Grada, Johanna Virta
 
 
@@ -70,7 +70,7 @@ This is a team-based class where students work in small groups develop their own
 
 ## Tuesday February 16
 
-- Welcome: structure of the class, zoom norms, teams and work-together recommendations, relationship to Macro mini-quals, final presentations for this class (JFs)
+- Welcome: structure of the class, zoom norms, teams and work-together recommendations, relationship to Macro mini-quals, final presentations for this class (JF)
 - Why structural biology/Intro to Pchem (JG)
 	- [Forces contributing to the conformational stability of proteins](https://faseb.onlinelibrary.wiley.com/doi/pdfdirect/10.1096/fasebj.10.1.8566551)
 - FFT 101 (JF)
@@ -79,7 +79,7 @@ This is a team-based class where students work in small groups develop their own
 	- Intuitively decomposing a complex function into sine waves (Fourier transform!)
 	- [Resolution](https://bl831.als.lbl.gov/~jamesh/movies/resolution.mpeg): start thinking about 3D objects like an X-ray or EM map, building intuition of more waves measured giving higher resolution
 	- Building up the MTZ (index = frequency and direction, amplitude/intensity, phase) and the concept of Nyquist frequency (why pixel size, changing values across pixels, and maximum resolution are related in EM)
-	-[interactive website](http://www.jezzamon.com/fourier/) 	
+	- [interactive websit used in class for demo](http://www.jezzamon.com/fourier/) 	
 - [Aeronabs](https://science.sciencemag.org/content/early/2020/11/04/science.abe3255.long) and What Aashish's miniquals might look like (AM)
 	- Review: [Dynamic personalities of proteins](https://www.nature.com/articles/nature06522)
 
