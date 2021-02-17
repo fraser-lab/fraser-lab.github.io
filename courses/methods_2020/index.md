@@ -166,6 +166,10 @@ This is a team-based class where students work in small groups develop their own
 - [Integrative modeling](http://cdn.fraserlab.com/courses/methods/2019_rout.pdf)
 
 # Mar 15-16 - Work in teams
+
+## Monday March 15
+- [ChimeraX tutorial part II and Q/A by Tom Goddard](https://www.rbvi.ucsf.edu/chimerax/data/nanobody-feb2021/nanobody.html)
+
 # Mar 17 - Final presentations 
 
 ## Presenting as a team. In 15 minutes tell us what you did, what you learned, and what is one more experiment you'd like to do... Followed by 5-10 minutes of questions.
