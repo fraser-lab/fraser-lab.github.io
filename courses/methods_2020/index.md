@@ -80,7 +80,7 @@ This is a team-based class where students work in small groups develop their own
 	- [Resolution](https://bl831.als.lbl.gov/~jamesh/movies/resolution.mpeg): start thinking about 3D objects like an X-ray or EM map, building intuition of more waves measured giving higher resolution
 	- Building up the MTZ (index = frequency and direction, amplitude/intensity, phase) and the concept of Nyquist frequency (why pixel size, changing values across pixels, and maximum resolution are related in EM)
 	- [interactive websit used in class for demo](http://www.jezzamon.com/fourier/) 	
-- [Aeronabs](https://science.sciencemag.org/content/early/2020/11/04/science.abe3255.long) and What Aashish's miniquals might look like (AM)
+- [Aeronabs](https://science.sciencemag.org/content/early/2020/11/04/science.abe3255.long) and [What Aashish's miniquals might look like](https://cdn.fraserlab.com/courses/methods/20210215_MacroMethods.pdf) (AM)
 	- Review: [Dynamic personalities of proteins](https://www.nature.com/articles/nature06522)
 
 
