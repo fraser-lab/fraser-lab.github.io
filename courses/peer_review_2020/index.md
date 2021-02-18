@@ -2,7 +2,6 @@
 title: Peer Review in the Life Sciences
 layout: default
 group: courses
-permalink: /peer_review/
 ---
 
 # Peer Review in the Life Sciences
@@ -21,36 +20,6 @@ By far, the most widely accepted means of communication is through publishing pa
 
 We have modeled this class based on [a course at NYU](http://bhabhaekiertlab.org/teaching) organized by Gira Bhabha, Damian Ekiert, Liam Holt & Timothee Lionnet.
 
-## Some material for future years
-
-"At its best, peer review is a slow and careful evaluation of new research by appropriate experts. It involves multiple rounds of revision that removes errors, strengthens analyses, and noticeably improves manuscripts.
-
-At its worst, it is merely window dressing that gives the unwarranted appearance of authority, a cursory process which confers no real value, enforces orthodoxy, and overlooks both obvious analytical problems and outright fraud entirely.
-
-Regardless of how any individual paper is reviewed – and the experience is usually somewhere between the above extremes – the sad truth is peer review in its entirety is struggling, and retractions like this drag its flaws into an incredibly bright spotlight." - from [The Lancet has made one of the biggest retractions in modern history. How could this happen?
-](https://www.theguardian.com/commentisfree/2020/jun/05/lancet-had-to-do-one-of-the-biggest-retractions-in-modern-history-how-could-this-happen)
-
-Nature "masterclass" [Focus on Peer Review](https://masterclasses.nature.com/focus-on-peer-review-online-course/16605550)
-
-[Welcome to the PLOS Reviewer Center](https://plos.org/resources/for-reviewers/?utm_medium=ad&utm_source=twitter&utm_campaign=reviewercenter) 
-
-[Published Peer Review: True or False Answers](Published Peer Review: True or False Answers)
-
-[Published Peer Review: True or False Answers](https://elifesciences.org/articles/12708)
-
-
-## Racism and Bias in Peer review
-[Unprofessional peer reviews disproportionately harm underrepresented groups in STEM](https://peerj.com/articles/8247/)
-
-[Racism in Science: We need to act now](https://elifesciences.org/articles/59636)
-
-[Race, Ethnicity, and NIH Research Awards](https://science.sciencemag.org/content/333/6045/1015)
-
-[Topic choice contributes to the lower rate of NIH awards to African-American/black scientists](https://advances.sciencemag.org/content/5/10/eaaw7238)
-
-[NIH peer review: Criterion scores completely account for racial disparities in overall impact scores](https://advances.sciencemag.org/content/6/23/eaaz4868) and critique by [Drugmonkey](https://twitter.com/drugmonkeyblog/status/1268647041007104001)
-
-[Peer review: a flawed process at the heart of science and journals](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1420798)
 
 ## Course structure
 
