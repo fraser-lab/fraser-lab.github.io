@@ -21,7 +21,7 @@ By far, the most widely accepted means of communication is through publishing pa
 
 We have modeled this class based on [a course at NYU](http://bhabhaekiertlab.org/teaching) organized by Gira Bhabha, Damian Ekiert, Liam Holt & Timothee Lionnet.
 
-## Some material for future years
+## Background
 
 "At its best, peer review is a slow and careful evaluation of new research by appropriate experts. It involves multiple rounds of revision that removes errors, strengthens analyses, and noticeably improves manuscripts.
 
@@ -29,12 +29,6 @@ At its worst, it is merely window dressing that gives the unwarranted appearance
 
 Regardless of how any individual paper is reviewed – and the experience is usually somewhere between the above extremes – the sad truth is peer review in its entirety is struggling, and retractions like this drag its flaws into an incredibly bright spotlight." - from [The Lancet has made one of the biggest retractions in modern history. How could this happen?
 ](https://www.theguardian.com/commentisfree/2020/jun/05/lancet-had-to-do-one-of-the-biggest-retractions-in-modern-history-how-could-this-happen)
-
-Nature "masterclass" [Focus on Peer Review](https://masterclasses.nature.com/focus-on-peer-review-online-course/16605550)
-
-[Welcome to the PLOS Reviewer Center](https://plos.org/resources/for-reviewers/?utm_medium=ad&utm_source=twitter&utm_campaign=reviewercenter) 
-
-[Published Peer Review: True or False Answers](https://elifesciences.org/articles/12708)
 
 
 ## Racism and Bias in Peer review
@@ -63,8 +57,11 @@ Prior to the presentation, the Discussion Leaders will compose a review, reflect
     - [Universal Principled Review](http://cdn.fraserlab.com/courses/peer_review_2020/2019_krummel.pdf)
     - [A thoughtful twitter thread on responding to reviews](https://twitter.com/dsquintana/status/1119956899447889920?s=20) and followup [blog post](https://www.dsquintana.com/post/23_apr_2019_peer-review/)
     - [How to Write a Response to Reviewers in Ten Easy Steps](https://telliamedrevisited.wordpress.com/2020/07/15/how-to-write-a-response-to-reviewers-in-ten-easy-steps/)
+	- Nature "masterclass" [Focus on Peer Review](https://masterclasses.nature.com/focus-on-peer-review-online-course/16605550)
+	- [Welcome to the PLOS Reviewer Center](https://plos.org/resources/for-reviewers/?utm_medium=ad&utm_source=twitter&utm_campaign=reviewercenter) 
+	- [Published Peer Review: True or False Answers](https://elifesciences.org/articles/12708)
 
-- [Keeping on top of the literature](https://fraserlab.com/2013/09/28/The-Fraser-Lab-method-of-following-the-scientific-literature/)
+- [Advice for keeping on top of the literature](https://fraserlab.com/2013/09/28/The-Fraser-Lab-method-of-following-the-scientific-literature/)
 
 <!-- ### April 20
 - Intro to class, guidelines for selecting your preprint to review, sign-up for presentations
