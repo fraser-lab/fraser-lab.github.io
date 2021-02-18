@@ -9,7 +9,7 @@ permalink: /peer_review/
 
 ## Spring 2021 Syllabus
 
-**Course Days/Hours:** May 10, 12, 14, 17, 19 and 21, 24, 28 from: 9-10AM
+**Course Days/Hours:** May 10, 12, 14, 17, 21, 24, 26, 28 from: 9-10AM
 
 **Location:** Zoom!
 
