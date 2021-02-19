@@ -100,7 +100,7 @@ This is a team-based class where students work in small groups develop their own
 ### Lecture 1 from Yifan Cheng
 
 ### Tutorial 1:
- - Connecting to AWS
+ - Connecting to AWS - Thanks to Amazon Web Services Educate for computing credits
  - [cisTEM](https://cistem.org/) GUI and importing images (300kV, 2.7mm, 0.834 A/pix)
  - CTF (fit res better than 4A)
  - particle picking (150, 120, 2)
