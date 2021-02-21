@@ -61,7 +61,7 @@ This is a team-based class where students work in small groups develop their own
 - Team 1: TA - Hersh: Jayso'n Davidson, Kevin (Chuankai) Nie, Daphne Chen, Lieza Chan, Jesus Madrigal
 - [Team Amos](https://en.wikipedia.org/wiki/Harold_Amos): TA - Hersh: Paul Burroughs, Kyle Anderson, Leo Chen, Dominic Grisingher, Siyi Wang
 - [Team Cintrón](https://en.m.wikipedia.org/wiki/Nitza_Margarita_Cintr%C3%B3n): TA - Matthew: Benjamin Orr, Andrew Alamban, Upneet Kaur, Grant Burley, Berliza Soriano
-- Team 4: TA - Matthew: Kaan Kumru, Alina Arzamassky, Hailey Wallace, Jose Montano, Seth Vigneron
+- [Team Goeppert Mayer](https://en.wikipedia.org/wiki/Maria_Goeppert_Mayer): TA - Matthew: Kaan Kumru, Alina Arzamassky, Hailey Wallace, Jose Montano, Seth Vigneron
 - [Team Daly](https://en.wikipedia.org/wiki/Marie_Maynard_Daly): TA - Jacqueline: Linh Tram, Maxine Bi, Arka Rao, Patrick Zager, Brian Wang
 - [Team Yonath](https://en.wikipedia.org/wiki/Ada_Yonath): TA - Jacqueline: Rian Kormos, Simone Harrison, Virginia Grada, Johanna Virta
 
