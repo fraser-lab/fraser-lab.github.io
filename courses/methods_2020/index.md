@@ -58,7 +58,7 @@ This is a team-based class where students work in small groups develop their own
 
 ## 2021 schedule
 
-- Team 1: TA - Hersh: Jayso'n Davidson, Kevin (Chuankai) Nie, Daphne Chen, Lieza Chan, Jesus Madrigal
+- [Team Just](https://en.wikipedia.org/wiki/Ernest_Everett_Just): TA - Hersh: Jayso'n Davidson, Kevin (Chuankai) Nie, Daphne Chen, Lieza Chan, Jesus Madrigal
 - [Team Amos](https://en.wikipedia.org/wiki/Harold_Amos): TA - Hersh: Paul Burroughs, Kyle Anderson, Leo Chen, Dominic Grisingher, Siyi Wang
 - [Team Cintrón](https://en.m.wikipedia.org/wiki/Nitza_Margarita_Cintr%C3%B3n): TA - Matthew: Benjamin Orr, Andrew Alamban, Upneet Kaur, Grant Burley, Berliza Soriano
 - [Team Goeppert Mayer](https://en.wikipedia.org/wiki/Maria_Goeppert_Mayer): TA - Matthew: Kaan Kumru, Alina Arzamassky, Hailey Wallace, Jose Montano, Seth Vigneron
