@@ -97,7 +97,7 @@ This is a team-based class where students work in small groups develop their own
 
 ## Monday February 22
 
-### Lecture 1 from Yifan Cheng
+### [Lecture 1 from Yifan Cheng](http://cdn.fraserlab.com/courses/methods/yc2021_1.pdf)
 
 ### Tutorial 1:
  - Connecting to AWS - Thanks to Amazon Web Services Educate for computing credits
@@ -109,7 +109,7 @@ This is a team-based class where students work in small groups develop their own
 
 ## Tuesday February 23
 
-### Lecture 2 from Yifan Cheng
+### [Lecture 2 from Yifan Cheng](http://cdn.fraserlab.com/courses/methods/yc2021_2.pdf)
 
 ### Tutorial 2:
 - Examining 2D classes
@@ -118,7 +118,7 @@ This is a team-based class where students work in small groups develop their own
 
 ## Wednesday February 24
 
-### Lecture 3 from Yifan Cheng
+### [Lecture 3 from Yifan Cheng](http://cdn.fraserlab.com/courses/methods/yc2021_3.pdf)
 ### Tutorial 3:
 - Moving files off of AWS with scp
 - 3D map classification
