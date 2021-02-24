@@ -124,6 +124,7 @@ This is a team-based class where students work in small groups develop their own
 - 3D map classification
 - [map sharpening](https://www.phenix-online.org/documentation/reference/auto_sharpen.html)
 - [model refinement](https://www.phenix-online.org/documentation/reference/real_space_refine.html)
+- Expectations for presentations: decision tree, summary of results, comparisons within decisions/to published, conformational analysis of Nb and confidence in that assessment.
 
 ## Reading on Rigor and reproducibility in EM:
 - [cisTEM paper](http://cdn.fraserlab.com/courses/methods/2018_grant.pdf)
