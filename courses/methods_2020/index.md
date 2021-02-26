@@ -126,7 +126,7 @@ This is a team-based class where students work in small groups develop their own
 - [model refinement](https://www.phenix-online.org/documentation/reference/real_space_refine.html)
 - Expectations for presentations: decision tree, summary of results, comparisons within decisions/to published, conformational analysis of Nb and confidence in that assessment.
 
-## Reading on Rigor and reproducibility in EM:
+## Reading on rigor and reproducibility in EM:
 - [cisTEM paper](http://cdn.fraserlab.com/courses/methods/2018_grant.pdf)
 - [FSC](https://en.wikipedia.org/wiki/Fourier_shell_correlation) and [early example in EM](http://cdn.fraserlab.com/courses/methods/1982_saxton.pdf)
 - [half maps](http://cdn.fraserlab.com/courses/methods/2012_scheres.pdf) and [Optimal Determination of Particle Orientation, Absolute Hand, and Contrast Loss in Single-particle Electron Cryomicroscopy](http://cdn.fraserlab.com/courses/methods/2003_rosenthal.pdf)
@@ -162,7 +162,7 @@ This is a team-based class where students work in small groups develop their own
 - B factors and what they might mean
 - Ensemble refinement
 
-## Reading on Rigor and reproducibility in Crystallography:
+## Reading on rigor and reproducibility in Crystallography:
 - [R-free](http://cdn.fraserlab.com/courses/methods/1992_brunger.pdf)
 - [MolProbity](http://cdn.fraserlab.com/courses/methods/2010_chen.pdf)
 - [Data Challenges and synthetic data](http://cdn.fraserlab.com/courses/methods/2019_holton.pdf)
@@ -187,7 +187,7 @@ This is a team-based class where students work in small groups develop their own
 - chemical shift perturbation plot versus primary sequence; mapping onto structure, [CSPs from Sparky Lists](http://cdn.fraserlab.com/courses/methods/Sparky_CSP.py)
 -  [Sparky Integration Tutorial](http://cdn.fraserlab.com/courses/methods/Sparky_Integration.pdf)
 
-## Reading on Rigor and reproducibility in NMR:
+## Reading on rigor and reproducibility in NMR:
 - [Tools for validating NMR structures](http://cdn.fraserlab.com/courses/methods/2014_vuister.pdf)
 - [Q-scores](http://cdn.fraserlab.com/courses/methods/2004_clore.pdf)
 - [Integrative modeling](http://cdn.fraserlab.com/courses/methods/2019_rout.pdf)
