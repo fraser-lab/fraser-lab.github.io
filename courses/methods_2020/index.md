@@ -137,7 +137,7 @@ This is a team-based class where students work in small groups develop their own
 ## Monday March 1
 
 ### Lecture 1 from Bob Stroud
-### Tutorial 1 : What's the deal with the spots
+### [Tutorial 1 : What's the deal with the spots](https://docs.google.com/document/d/1nr4IIDVqjRautGy_CnyPHrNbdGwbgTnKjGznl6ZQPII/edit?usp=sharing)
 - Examine diffraction data in adxv
 - Use xia2 to process diffraction data
 - Understand various metrics for data reduction
@@ -146,7 +146,7 @@ This is a team-based class where students work in small groups develop their own
 ##Tuesday March 2
 
 ### Lecture 2 from Bob Stroud
-### Tutorial 2: Molecular Replacement
+### [Tutorial 2: Molecular Replacement](https://docs.google.com/document/d/1nr4IIDVqjRautGy_CnyPHrNbdGwbgTnKjGznl6ZQPII/edit#)
 - Prepare a model from a different nanobody for phasing by molecular replacement
 - Run Phaser, analyze output in Coot
 - Use the mNb6 itself to solve the structure
@@ -154,7 +154,7 @@ This is a team-based class where students work in small groups develop their own
 ## Wednesday March 3
 
 ### Lecture 3 from Bob Stroud
-### Tutorial 3: Model refinement
+### [Tutorial 3: Model refinement](https://docs.google.com/document/d/1nr4IIDVqjRautGy_CnyPHrNbdGwbgTnKjGznl6ZQPII/edit?usp=sharing)
 - Manual model building in Coot
 - Reciprocal space refinement in Phenix
 - Rfree and what that means
