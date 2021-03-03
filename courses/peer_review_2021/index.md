@@ -63,19 +63,19 @@ Prior to the presentation, the Discussion Leaders will compose a review, reflect
 
 - [Advice for keeping on top of the literature](https://fraserlab.com/2013/09/28/The-Fraser-Lab-method-of-following-the-scientific-literature/)
 
-<!-- ### April 20
+### May 10
 - Intro to class, guidelines for selecting your preprint to review, sign-up for presentations
 - Panel:
-  - [Michael Eisen](http://eisenlab.org/) - [Editor in Chief of eLife](https://elifesciences.org/about/people)
+<!--   - [Michael Eisen](http://eisenlab.org/) - [Editor in Chief of eLife](https://elifesciences.org/about/people) -->
   - [Andrej Sali](https://salilab.org/) - [Editor of Structure](https://www.cell.com/structure/editors)
 
 
 
-### April 23
+### May 12
 - New developments in peer review:
   - [Jessica Polka](https://en.wikipedia.org/wiki/Jessica_Polka) - [Executive Director of ASAPbio](https://asapbio.org/dt_team/jessica-polka)
 
-### April 30
+<!-- ### April 30
 - Presentation 1: [Structural and functional analysis of a potent sarbecovirus neutralizing antibody](http://cdn.fraserlab.com/courses/peer_review_2020/2020_pinto.pdf)
 
 
@@ -93,4 +93,5 @@ Prior to the presentation, the Discussion Leaders will compose a review, reflect
 
 ### May 8
 - Presentation 8: [Monitoring the production of high diffraction-quality crystals of two enzymes in real time using in situ dynamic light scattering](http://cdn.fraserlab.com/courses/peer_review_2020/2020_wijn.pdf)
-- Presentation 9: [Sensory-evoked extracellular	vesicle	release	and targeting](http://cdn.fraserlab.com/courses/peer_review_2020/2020_wang.pdf) -->
+- Presentation 9: [Sensory-evoked extracellular	vesicle	release	and targeting](http://cdn.fraserlab.com/courses/peer_review_2020/2020_wang.pdf)
+ -->
