@@ -25,6 +25,14 @@ We have modeled this class based on [a course at NYU](http://bhabhaekiertlab.org
 
 Each students will serve as Discussion Leaders for one manuscript topic.  Everyone should be prepared for class by having read the paper carefully. The Discussion Leader will prepare a talk similar in content and quality to a Tetrad or QBC Journal Club presentation, with an estimated 30-40 minute duration (noting that interruptions and discussion may take us closer to an hour). After, the student will compose a review, reflecting both their original thoughts and what emerged in the discussion, that will be posted (either named or anonymously through James Fraser acting as an "editor") as comments associated with the preprint on BioRxiv or other servers.
 
+
+# Some good guidelines for reviewing
+
+- Don't be an a$$hole
+- Consider that you may have misunderstood something and ask for clarification
+- Be constructive
+- Don't be an a$$hole
+
 ### April 20
 - Intro to class, guidelines for selecting your preprint to review, sign-up for presentations
 - Panel:
