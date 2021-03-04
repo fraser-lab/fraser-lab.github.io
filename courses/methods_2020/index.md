@@ -176,13 +176,13 @@ This is a team-based class where students work in small groups develop their own
 - Supplemental reading: [How does an HSQC work?](http://cdn.fraserlab.com/courses/methods/HSQC-Guided-tour.pdf)
 
 ## Tuesday March 9
-### Lecture 2 from John Gross, Introduction to Dynamic NMR
+### Lecture 2 from John Gross, Introduction to chemical shift perturbation mapping
 - Overlay HSQCs using Sparky; generate peak lists for CSP analyses
 - [Intro to Sparky](http://cdn.fraserlab.com/courses/methods/Sparky_tutorial.pdf)
 - [Common Sparky Commands](http://cdn.fraserlab.com/courses/methods/Sparky_common_cmds.pdf)
 
 ## Wednesday March 10
-### Lecture 3 from John Gross, Introduction to chemical shift perturbation mapping
+### Lecture 3 from John Gross, Introduction to Dynamic NMR
 - Analyze CSPs to infer dynamics and binding modes of Nanobody-Spike RBD complexes
 - chemical shift perturbation plot versus primary sequence; mapping onto structure, [CSPs from Sparky Lists](http://cdn.fraserlab.com/courses/methods/Sparky_CSP.py)
 -  [Sparky Integration Tutorial](http://cdn.fraserlab.com/courses/methods/Sparky_Integration.pdf)
