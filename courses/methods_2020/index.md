@@ -191,6 +191,7 @@ This is a team-based class where students work in small groups develop their own
 - [Tools for validating NMR structures](http://cdn.fraserlab.com/courses/methods/2014_vuister.pdf)
 - [Q-scores](http://cdn.fraserlab.com/courses/methods/2004_clore.pdf)
 - [Integrative modeling](http://cdn.fraserlab.com/courses/methods/2019_rout.pdf)
+- [CSP mapping by NMR when resonance asignments of the bound state are unknown](http://cdn.fraserlab.com/courses/methods/1996_farmer.pdf)
 
 # Mar 15-16 - Work in teams
 
