@@ -143,7 +143,7 @@ This is a team-based class where students work in small groups develop their own
 - Understand various metrics for data reduction
 - What do we have at the end?
 
-##Tuesday March 2
+## Tuesday March 2
 
 ### [Lecture 2 from Bob Stroud](http://cdn.fraserlab.com/methods/rs2021.pdf)
 ### [Tutorial 2: Molecular Replacement](https://docs.google.com/document/d/1nr4IIDVqjRautGy_CnyPHrNbdGwbgTnKjGznl6ZQPII/edit#)
