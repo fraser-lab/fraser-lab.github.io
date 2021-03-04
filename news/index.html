@@ -22,26 +22,18 @@ group: news
 <!-- This makes links to other paginator pages -->
 {% if paginator.total_pages > 1 %}
 <ul class="pagination">
-  {% if paginator.previous_page %}
-    <li><a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Prev</a></li>
-  {% else %}
-    <li><span>&laquo; Prev</span></li>
-  {% endif %}
+    <li> {% if paginator.previous_page %} <a href="{{ paginator.previous_page_path }}"> {% endif %} Prev</a>&nbsp;</li>
 
   {% for page in (1..paginator.total_pages) %}
     {% if page == paginator.page %}
-      <li class="active"><span>{{ page }}</span></li>
+      <li class="active">{{ page }}&nbsp;</li>
     {% elsif page == 1 %}
-      <li><a href="{{ '/news' | prepend: site.baseurl | replace: '//', '/' }}">{{ page }}</a></li>
+      <li><a href="/news/">{{ page }}</a>&nbsp;</li>
     {% else %}
-      <li><a href="{{ '/news/page:num' | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a></li>
+      <li><a href="/news/page{{ page }}">{{ page }}</a>&nbsp;</li>
     {% endif %}
   {% endfor %}
 
-  {% if paginator.next_page %}
-    <li><a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next &raquo;</a></li>
-  {% else %}
-    <li><span>Next &raquo;</span></li>
-  {% endif %}
+    <li> {% if paginator.next_page %} <a href="{{ paginator.next_page_path }}"> {% endif %} Next</a></li>
 </ul>
 {% endif %}
