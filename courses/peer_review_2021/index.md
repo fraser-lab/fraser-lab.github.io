@@ -63,6 +63,13 @@ Prior to the presentation, the Discussion Leaders will compose a review, reflect
 
 - [Advice for keeping on top of the literature](https://fraserlab.com/2013/09/28/The-Fraser-Lab-method-of-following-the-scientific-literature/)
 
+# Some good guidelines for reviewing
+
+- Don't be an a$$hole
+- Consider that you may have misunderstood something and ask for clarification
+- Be constructive
+- Don't be an a$$hole
+
 ### May 10
 - Intro to class, guidelines for selecting your preprint to review, sign-up for presentations
 - Panel:
