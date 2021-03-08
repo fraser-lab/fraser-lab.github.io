@@ -172,13 +172,13 @@ This is a team-based class where students work in small groups develop their own
 ## Monday March 8
 ### Lecture 1 from John Gross, Introduction to multidimensional NMR
 - Process HSQC spectra of Nanobody-Spike RBD complexes
-- [from FID to 2D](http://cdn.fraserlab.com/courses/methods/2DNMR_Processing_Tutorial.pdf) (Ryan Tibble and John Gross)
+- [from FID to 2D](http://cdn.fraserlab.com/courses/methods/2021_2DNMR_Processing_Tutorial.pdf) (Ryan Tibble and John Gross)
 - Supplemental reading: [How does an HSQC work?](http://cdn.fraserlab.com/courses/methods/HSQC-Guided-tour.pdf)
 
 ## Tuesday March 9
 ### Lecture 2 from John Gross, Introduction to chemical shift perturbation mapping
 - Overlay HSQCs using Sparky; generate peak lists for CSP analyses
-- [Intro to Sparky](http://cdn.fraserlab.com/courses/methods/Sparky_tutorial.pdf)
+- [Intro to Sparky](http://cdn.fraserlab.com/courses/methods/2021_Sparky_tutorial.pdf)
 - [Common Sparky Commands](http://cdn.fraserlab.com/courses/methods/Sparky_common_cmds.pdf)
 
 ## Wednesday March 10
