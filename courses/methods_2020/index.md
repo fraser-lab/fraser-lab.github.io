@@ -161,6 +161,7 @@ This is a team-based class where students work in small groups develop their own
 - Molprobity to assess structure
 - B factors and what they might mean
 - Ensemble refinement
+- [Coot tutorial video](https://www.youtube.com/watch?v=6RxvOFNu_rA)
 
 ## Reading on rigor and reproducibility in Crystallography:
 - [R-free](http://cdn.fraserlab.com/courses/methods/1992_brunger.pdf)
