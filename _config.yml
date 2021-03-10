@@ -25,6 +25,8 @@ exclude:
         - vendor/ruby/
 
 collections:
+        affiliates:
+                output: true
         members:
                 output: true
         publications:
