@@ -46,9 +46,9 @@ Regardless of how any individual paper is reviewed – and the experience is usu
 
 ## Course structure
 
-Students will be paired to serve as Discussion Leaders for one manuscript they select that is posted on BioRxiv.  For each class, everyone should be prepared by having read each paper carefully. The Discussion Leader will prepare a talk similar in content and quality to a Tetrad or QBC Journal Club presentation, with an estimated 30-40 minute duration (noting that interruptions and discussion may take us closer to an hour). 
+Students will be paired to serve as co-Discussion Leaders for one manuscript they select that is posted on BioRxiv.  For each class, everyone should be prepared by having read each paper carefully. The Discussion Leaders will prepare a joint talk similar in content and quality to a Tetrad or QBC Journal Club presentation, with an estimated 30-40 minute duration (noting that interruptions and discussion may take us closer to an hour). 
 
-Prior to the presentation, the Discussion Leaders will compose a review, reflecting their original thoughts on the manuscript. After the group discussion, the students will edit their review to reflect what emerged in the discussion. The review will be posted (either named or anonymously through James Fraser acting as an "editor") as comments associated with the preprint on BioRxiv or other servers.
+Prior to the presentation, the co-Discussion Leaders will compose one joint review, reflecting their original thoughts on the manuscript. After the group discussion, the pair will edit their review to reflect what emerged in the discussion. The review will be posted (either named or anonymously through James Fraser acting as an "editor") as comments associated with the preprint on BioRxiv or other servers.
 
 - Writing and receiving peer review:
     - [Fraser lab how-to-review](/peer_review/how_to)
@@ -71,34 +71,15 @@ Prior to the presentation, the Discussion Leaders will compose a review, reflect
 - Don't be an a$$hole
 
 ### May 10
-- Intro to class, guidelines for selecting your preprint to review, sign-up for presentations
+- Intro to class, guidelines for selecting your preprint to review, expectations for presentations
 - Panel:
 <!--   - [Michael Eisen](http://eisenlab.org/) - [Editor in Chief of eLife](https://elifesciences.org/about/people) -->
   - [Andrej Sali](https://salilab.org/) - [Editor of Structure](https://www.cell.com/structure/editors)
-
+  - Someone from eLife
 
 
 ### May 12
 - New developments in peer review:
   - [Jessica Polka](https://en.wikipedia.org/wiki/Jessica_Polka) - [Executive Director of ASAPbio](https://asapbio.org/dt_team/jessica-polka)
+- Writing and Receiving Peer Review and expecations for written reviews
 
-<!-- ### April 30
-- Presentation 1: [Structural and functional analysis of a potent sarbecovirus neutralizing antibody](http://cdn.fraserlab.com/courses/peer_review_2020/2020_pinto.pdf)
-
-
-### May 1
-- Presentation 2: [Visualizing Wnt secretion from Endoplasmic Reticulum to Filopodia ](http://cdn.fraserlab.com/courses/peer_review_2020/2018_moti.pdf)
-- Presentation 3: [Sulfopin, a selective covalent inhibitor of Pin1, blocks Myc-driven tumor initiation and growth in vivo](http://cdn.fraserlab.com/courses/peer_review_2020/2020_dubiella.pdf)
-
-### May 4
-- Presentation 4: [Noise-Reducing Negative-Feedback Optogenetic Circuits in Mammalian Cells](http://cdn.fraserlab.com/courses/peer_review_2020/2019_guinn.pdf)
-- Presentation 5: [SETD2 is an actin lysine methyltransferase](http://cdn.fraserlab.com/courses/peer_review_2020/2020_seervai.pdf)
-
-### May 7
-- Presentation 6: [Two dynamically distinct circuits driving inhibition in sensory thalamus](http://cdn.fraserlab.com/courses/peer_review_2020/2020_martinez_garcia.pdf)
-- Presentation 7: [Transient “rest” induces functional reinvigoration and epigenetic remodeling in exhausted CAR-T cells](http://cdn.fraserlab.com/courses/peer_review_2020/2020_weber.pdf)
-
-### May 8
-- Presentation 8: [Monitoring the production of high diffraction-quality crystals of two enzymes in real time using in situ dynamic light scattering](http://cdn.fraserlab.com/courses/peer_review_2020/2020_wijn.pdf)
-- Presentation 9: [Sensory-evoked extracellular	vesicle	release	and targeting](http://cdn.fraserlab.com/courses/peer_review_2020/2020_wang.pdf)
- -->
