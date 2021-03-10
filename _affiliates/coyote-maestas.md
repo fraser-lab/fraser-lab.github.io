@@ -3,7 +3,7 @@ name: Willow Coyote-Maestas
 startdate: 2021-02-01
 #enddate: YYYY-MM-DD
 image: /static/img/members/Coyote-Maestas.jpg #365 x 365 pixels, 72 dpi
-altimage: /static/img/members/LastName_pb.jpg #365 x 365 pixels, 72 dpi
+altimage: /static/img/members/Coyote-Maestas_pb.jpg  #365 x 365 pixels, 72 dpi
 position: HHMI Hanna Gray and QBI Fellow
 #subsequent:  update once you become an alumnus
 pronouns: he/him/his #personal pronouns
