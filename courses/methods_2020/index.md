@@ -198,6 +198,7 @@ This is a team-based class where students work in small groups develop their own
 
 ## Monday March 15
 - [ChimeraX tutorial part II and Q/A by Tom Goddard](https://www.rbvi.ucsf.edu/chimerax/data/nanobody-feb2021/nanobody.html)
+- James Lincoff (Grabe lab) on simulations of AeroNabs
 
 # Mar 17 - Final presentations 
 
