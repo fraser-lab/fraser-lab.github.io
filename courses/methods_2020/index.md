@@ -202,7 +202,18 @@ This is a team-based class where students work in small groups develop their own
 
 # Mar 17 - Final presentations 
 
-## Presenting as a team. In 15 minutes tell us what you did, what you learned, and what is one more experiment you'd like to do... Followed by 5-10 minutes of questions.
+## Presenting as a team, in 15 minutes (we will stop you at 15 minutes sharp!) tell us about the scientist your team is named after, what you did, what you learned, and what is one more experiment you'd like to do! Followed by 5 minutes of questions. 
+
+### Email your slides to James Fraser by 8:30AM that morning!
+
+### Presentation times (an invididual zoom link will be emailed to you):
+
+* 8:30-8:50: Team Amos
+* 8:55-9:15: Team Cintrón
+* 9:20-9:40: Team Daly
+* 9:45-10:05: Team Goeppert Mayer
+* 10:10-10:30: Team Just
+* 10:35-10:55: Team Yonath
 
 # After March 17 
 
