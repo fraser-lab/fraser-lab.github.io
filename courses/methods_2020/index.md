@@ -199,7 +199,7 @@ This is a team-based class where students work in small groups develop their own
 ## Monday March 15
 - [ChimeraX tutorial part II and Q/A by Tom Goddard](https://www.rbvi.ucsf.edu/chimerax/data/nanobody-feb2021/nanobody.html)
 - James Lincoff (Grabe lab) on simulations of AeroNabs
-	- [Trajectory data](https://ucsfonline-my.sharepoint.com/:f:/g/personal/james_lincoff_ucsf_edu/En-_w_GCE55Ep8IHS4QnYJUBWGEN1NgyfmgPqygrs29TDg?e=z79mHg)
+	- [Trajectory data](https://ucsf.box.com/s/xtx3jm8esx2c15zyz1z97jy0mlbbgswe)
 	- [Pymol install instructions](https://pymolwiki.org/index.php/MAC_Install)
 
 # Mar 17 - Final presentations 
