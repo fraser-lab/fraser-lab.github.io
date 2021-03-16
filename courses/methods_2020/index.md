@@ -167,6 +167,7 @@ This is a team-based class where students work in small groups develop their own
 - [R-free](http://cdn.fraserlab.com/courses/methods/1992_brunger.pdf)
 - [MolProbity](http://cdn.fraserlab.com/courses/methods/2010_chen.pdf)
 - [Data Challenges and synthetic data](http://cdn.fraserlab.com/courses/methods/2019_holton.pdf)
+- [Protein crystallography for non‐crystallographers, or how to get the best (but not more) from published macromolecular structures](https://febs.onlinelibrary.wiley.com/doi/full/10.1111/j.1742-4658.2007.06178.x)
 
 # Mar 8-10 - NMR - Lectures John Gross, Tutorials Ryan Tibble
 
