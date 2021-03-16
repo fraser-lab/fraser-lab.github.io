@@ -194,10 +194,13 @@ This is a team-based class where students work in small groups develop their own
 - [Integrative modeling](http://cdn.fraserlab.com/courses/methods/2019_rout.pdf)
 - [CSP mapping by NMR when resonance asignments of the bound state are unknown](http://cdn.fraserlab.com/courses/methods/1996_farmer.pdf)
 
+
 # Mar 15-16 - Work in teams
 
 ## Monday March 15
 - [ChimeraX tutorial part II and Q/A by Tom Goddard](https://www.rbvi.ucsf.edu/chimerax/data/nanobody-feb2021/nanobody.html)
+	- [Color by Chemical Shift Perturbations](https://www.rbvi.ucsf.edu/chimerax/data/nanobody-feb2021/chemshift.html)
+	- [How to View Nanobody Molecular Dynamics in ChimeraX](https://www.rbvi.ucsf.edu/chimerax/data/nanobody-feb2021/nanobody_md.html)
 - James Lincoff (Grabe lab) on simulations of AeroNabs
 	- [Trajectory data](https://ucsf.box.com/s/xtx3jm8esx2c15zyz1z97jy0mlbbgswe)
 	- [Pymol install instructions](https://pymolwiki.org/index.php/MAC_Install)
