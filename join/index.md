@@ -23,7 +23,7 @@ At UCSF, students can apply to a single [graduate program](https://graduate.ucsf
 
 ## Postdoctoral Fellows
 
-Inquiries about Postdoctoral positions should be emailed directly to James Fraser. Candidates will be encouraged to explore applying for extramural fellowships to support their research.
+Inquiries about Postdoctoral positions should be emailed directly to James Fraser. Candidates will be encouraged to explore applying for extramural fellowships to support their research, but we set our postdoctoral fellow compensation to the [Stanford rates](https://postdocs.stanford.edu/funding-levels-and-guidelines) at minimum.
 
 ## Other Visitors
 
