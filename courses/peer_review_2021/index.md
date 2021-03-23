@@ -74,7 +74,7 @@ Prior to the presentation, the co-Discussion Leaders will compose one joint revi
 ### May 10
 - Intro to class, guidelines for selecting your preprint to review, expectations for presentations
 - Panel:
-<!--   - [Michael Eisen](http://eisenlab.org/) - [Editor in Chief of eLife](https://elifesciences.org/about/people) -->
+  - [Michael Eisen](http://eisenlab.org/) - [Editor in Chief of eLife](https://elifesciences.org/about/people)
   - [Andrej Sali](https://salilab.org/) - [Editor of Structure](https://www.cell.com/structure/editors)
   - Someone from eLife
 
