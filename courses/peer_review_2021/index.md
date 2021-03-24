@@ -46,19 +46,19 @@ Regardless of how any individual paper is reviewed – and the experience is usu
 
 ## Course structure
 
-Students will be paired to serve as co-Discussion Leaders for one manuscript they select that is posted on BioRxiv.  For each class, everyone should be prepared by having read each paper carefully. The Discussion Leaders will prepare a joint talk similar in content and quality to a Tetrad or QBC Journal Club presentation, with an estimated 30-40 minute duration (noting that interruptions and discussion may take us closer to an hour). 
+Students will be paired to serve as co-Discussion Leaders for one manuscript they select that is posted on BioRxiv.  For each class, everyone should be prepared by having read each paper carefully. The Discussion Leaders will prepare a joint talk similar in content and quality to a Tetrad or QBC Journal Club presentation, with an estimated 30-40 minute duration (noting that interruptions and discussion may take us closer to an hour).
 
 Prior to the presentation, the co-Discussion Leaders will compose one joint review, reflecting their original thoughts on the manuscript. After the group discussion, the pair will edit their review to reflect what emerged in the discussion. The review will be posted (either named or anonymously through James Fraser acting as an "editor") as comments associated with the preprint on BioRxiv or other servers.
 
 - Writing and receiving peer review:
-    - [Fraser lab how-to-review](/peer_review/how_to)
+    - [Fraser lab how-to-review](/compact/#peer_review)
     - [My public reviews as BioRxiv comments](https://disqus.com/by/fraserlab/comments/)
     - [Example from Cell Stem Cell of a review process](http://cdn.fraserlab.com/courses/peer_review_2020/2019_saxe.pdf)
     - [Universal Principled Review](http://cdn.fraserlab.com/courses/peer_review_2020/2019_krummel.pdf)
     - [A thoughtful twitter thread on responding to reviews](https://twitter.com/dsquintana/status/1119956899447889920?s=20) and followup [blog post](https://www.dsquintana.com/post/23_apr_2019_peer-review/)
     - [How to Write a Response to Reviewers in Ten Easy Steps](https://telliamedrevisited.wordpress.com/2020/07/15/how-to-write-a-response-to-reviewers-in-ten-easy-steps/)
 	- Nature "masterclass" [Focus on Peer Review](https://masterclasses.nature.com/focus-on-peer-review-online-course/16605550)
-	- [Welcome to the PLOS Reviewer Center](https://plos.org/resources/for-reviewers/?utm_medium=ad&utm_source=twitter&utm_campaign=reviewercenter) 
+	- [Welcome to the PLOS Reviewer Center](https://plos.org/resources/for-reviewers/?utm_medium=ad&utm_source=twitter&utm_campaign=reviewercenter)
 	- [Published Peer Review: True or False Answers](https://elifesciences.org/articles/12708)
   - [Peer Review: reviewing as an early career researcher](https://www.blopig.com/blog/2021/03/peer-review-reviewing-as-an-early-career-researcher/)
   - [How to bring peer review ghostwriters out of the dark](https://www.molbiolcell.org/doi/full/10.1091/mbc.E20-10-0642)
@@ -83,4 +83,3 @@ Prior to the presentation, the co-Discussion Leaders will compose one joint revi
 - New developments in peer review:
   - [Jessica Polka](https://en.wikipedia.org/wiki/Jessica_Polka) - [Executive Director of ASAPbio](https://asapbio.org/dt_team/jessica-polka)
 - Writing and Receiving Peer Review and expecations for written reviews
-
