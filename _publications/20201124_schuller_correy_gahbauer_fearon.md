@@ -9,7 +9,11 @@ pmcid: 'PMC7709169'
 biorxiv: 2020.11.24.393405
 pdf: 'http://cdn.fraserlab.com/publications/20201124_schuller_correy_gahbauer_fearon.pdf'
 zenodo:
-- code: '3932380'
+- code: '3932380' - Initial UCSF C2 crystal form screen
+<!-- - code: '4606901' - Docking Fragment Screen
+- code: '4609301' - PanDDA Dataset
+- code: '4628855' - Differential Scanning Fluorimetry
+- code: '4628875' - Isothermal Titration Calorimetry -->
 description: v1.0 snapshot of blog post
 pdbs:
 - 7KR0
