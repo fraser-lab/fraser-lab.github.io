@@ -10,7 +10,7 @@ group: compact
 <br/>
 
 ## Overview (with links to sections)
-The <a href="#mission">Fraser Lab Mission</a> is to do fantastic open science. We engage in a lot of <a href="#collaboration">collaborative</a> projects and strive for transparency in all things (see also our potential <a href="#coi">conflicts of interest</a>), but especially in our <a href="#publishing">publishing</a> practices. We believe great science is made possible by our <a href="#values">lab values</a> that heavily emphasize <a href="#mentorship">mentorship</a> and the <a href="#wellbeing">well-being</a> of every member of the lab. Sustaining a positive working environment involves conscientious <a href="#communication">communication</a> and bidirectional <a href="#feedback">feedback</a>, among other <a href="#expectations">general lab expectations</a>. These values also prompt us to <a href="#land_ackn">acknowledge</a> that our institution was built on unceded Ohlone land. We take <a href="#career_dev">career development</a> seriously, which includes not only regular attendance at <a href="#conferences">conferences</a> but also making use of all the resources available to us both at UCSF and more broadly. We are very fortunate to have access to an incredible wealth of scientific <a href="#literature">literature</a>, a strong track record of <a href="#grants">grant and fellowship funding</a>, and our amazing colleagues and core facilities at UCSF. Finally, this is a living document informed by a growing collection of external <a href="#resources">resources</a> — we aim to iteratively improve upon everything described here!
+The <a href="#mission">Fraser Lab Mission</a> is to do fantastic open science. We engage in a lot of <a href="#collaboration">collaborative</a> projects and strive for transparency in all things (see also our potential <a href="#coi">conflicts of interest</a>), but especially in our <a href="#publishing">publishing</a> practices. We believe great science is made possible by our <a href="#values">lab values</a> that heavily emphasize <a href="#mentorship">mentorship</a> and the <a href="#wellbeing">well-being</a> of every member of the lab. Sustaining a positive working environment involves conscientious <a href="#communication">communication</a> and bidirectional <a href="#feedback">feedback</a>, among other <a href="#expectations">general lab expectations</a>. These values also prompt us to <a href="#land_ackn">acknowledge</a> that our institution was built on unceded Ohlone land. We take <a href="#career_dev">career development</a> seriously, which includes not only regular attendance at <a href="#conferences">conferences</a> but also making use of all the resources available to us both at UCSF and more broadly. In return, we take tracking and sharaing our <a href="#data">data</a> very seriously.We are very fortunate to have access to an incredible wealth of scientific <a href="#literature">literature</a>, a strong track record of <a href="#grants">grant and fellowship funding</a>, and our amazing colleagues and core facilities at UCSF. Finally, this is a living document informed by a growing collection of external <a href="#resources">resources</a> — we aim to iteratively improve upon everything described here!
 <br/>
 <br/>
 
@@ -154,6 +154,28 @@ I try to be mindful of the fact that people have different preferred communicati
 <br/>
 <br/>
 
+## <a id="data">Lab Notebooks/Data deposition</a>
+As transparency and openness are key values to the lab, sharing our information both within the lab and externally to the scientific community is a top priority.
+##### Internal-
+Lab members are expected to document all of their work in a lab notebook, and this information should be accessible to other members of the lab. Currently, the lab uses the online electronic lab notebook, Benchling (benchling.com). Guides for using Benchling and for keeping lab notebooks are located on the [internal website] (https://sites.google.com/fraserlab.com/fraserlab-private/lab-administration/lab-notebook-guide?authuser=0). Read these guides thoroughly as it details how to format your notebook and how we keep our lab data organized. Additionally, members are expected to keep the shared lab protocols up-to-date and to contribute new protocols as they become relevant to the lab. Lab notebooks are backed up biannually. 
+
+Benchling also allows us to keep track of our samples and data through a registry/collection.  While it is highly recommended you take advantage of the registry to organize your samples, especially for samples that should be made accessible to the rest of the lab, it is your choice how to organize your samples while a member of the lab. However, when you leave the lab it is required that you clean out all superfluous samples and log the samples you keep in the lab’s collection so other lab members are able to locate them. Directions for using registry and conventions for labelling the location are also in the Lab Notebook Guide.
+##### External-
+Lab members always make their data, materials, processing details available to the public through deposition to various public repositories. Lab code is made accessible through [github](https://github.com/fraser-lab). Data and information are regularly deposited to the repositories listed below as well as others. We happily share our plasmids and other materials freely by request.
+
+As data deposition to some repositories can be involved, current lab efforts include making guides that will assist people through the process. A guide for depositing cryoEM structures by Jenna Pellegrino is posted on [our blog](https://fraserlab.com/2020/10/20/CryoEM-deposition/), and more will be added as they become available. Internally, these guides are located on our shared protocols in Benchling.
+
+###### List of repositories:
+**Addgene** - Plasmids
+**Zenodo** - datasets
+**Diffraction Pattern** - XRD data
+**PDB** - Protein structures
+**GenBank** - Raw sequencing data
+**MaveDB** - Deep mutational scanning (DMS) data
+**Mave Registry** - DMS experiments
+<br/>
+<br/>
+
 ## <a id="literature">Literature</a>
 As a scientist, it should be a pleasure to keep up with current literature. You should dedicate a few hours each week to scanning and reading new papers. A [blog post](/2013/09/28/The-Fraser-Lab-method-of-following-the-scientific-literature/) on our website  describes a good method of how to keep on top of literature. As a part of weekly group meetings we have a mini journal club where we share interesting papers we’ve read. We also post these papers to twitter with #fljcnlt and to a slack channel with the same name. Additionally, we have journal clubs jointly with other labs several times a year to encourage in depth conversations about current papers and methods.
 <br/>
@@ -166,6 +188,7 @@ In addition to myself, all of your lab members are a resource. It is expected th
 The diverse nature of work in the lab encourages a lot of collaboration with partner labs both within UCSF, at other universities, and in industry. We seek to collaborate with labs who share a positive environment and a committment to open science. Lab members are expected to foster relationships with our collaborators inline with our values of transparency and cooperativity. In other environments collaborations have been tricky for some people. However, our collaborations have been very positive, and I try to do my part to ensure that continues to be the case. Lab members can expect me to be actively involved in both the details of the project as well as communication with the partner labs. I will have my lab members’ backs and manage difficult conversations such as authorship. I also feel an important factor to fruitful partnership is to all actually be in the same place from time to time and so I encourage travel for scientific collaborations. I’m happy to provide funding to facilitate these visits and meetings.
 <br/>
 <br/>
+
 
 ## <a id="grants">Grant Writing/Funding</a>
 For all science career paths, being able to explain yourself and the value of your work is an invaluable skill. Funding our research is vital to keeping the lab running and grant/proposal writing is the responsibility of the entire lab. My lab members and I collaborate together to write grants and proposals to fund themselves, to fund lab research and equipment, and to request use of scientific facilities outside of UCSF.  There are resources on the internal website to assist with this.
