@@ -106,7 +106,16 @@ group: publications
         			</li>
         			{% endif %}
 
-                                <!--addgene plasmid - optional-->
+                                <!--Github - optional-->
+        			{% if publication.github %}
+        			<li>github repository{% if publication.github.size > 1 %}s{% endif %}:
+        				{% for record in publication.github %}
+        				<a href="https://www.github.com/{{link.url}}/">{{link.url}}</a>{% endif %}{% unless forloop.last %}, {% endunless %}
+        				{% endfor %}
+        			</li>
+        			{% endif %}
+
+                                <!-- addgene plasmid - optional -->
         			{% if publication.addgene %}
         			<li>Addgene Plasmid{% if publication.addgene.size > 1 %}s{% endif %}:
         				{% for record in publication.addgene %}
