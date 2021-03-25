@@ -14,6 +14,9 @@ zenodo:
 - code: '4609301' - PanDDA Dataset
 - code: '4628855' - Differential Scanning Fluorimetry
 - code: '4628875' - Isothermal Titration Calorimetry -->
+addgene:
+- plasmid: '169209' - C2 crystal form
+- plasmid: '169210' - P43 crystal form
 description: v1.0 snapshot of blog post
 pdbs:
 - 7KR0
