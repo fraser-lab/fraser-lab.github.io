@@ -157,7 +157,7 @@ I try to be mindful of the fact that people have different preferred communicati
 ## <a id="data">Lab Notebooks/Data deposition</a>
 As transparency and openness are key values to the lab, sharing our information both within the lab and externally to the scientific community is a top priority.
 ##### Internal-
-Lab members are expected to document all of their work in a lab notebook, and this information should be accessible to other members of the lab. Currently, the lab uses the online electronic lab notebook, Benchling (benchling.com). Guides for using Benchling and for keeping lab notebooks are located on the [internal website] (https://sites.google.com/fraserlab.com/fraserlab-private/lab-administration/lab-notebook-guide?authuser=0). Read these guides thoroughly as it details how to format your notebook and how we keep our lab data organized. Additionally, members are expected to keep the shared lab protocols up-to-date and to contribute new protocols as they become relevant to the lab. Lab notebooks are backed up biannually. 
+Lab members are expected to document all of their work in a lab notebook, and this information should be accessible to other members of the lab. Currently, the lab uses the online electronic lab notebook, [Benchling](benchling.com). Guides for using Benchling and for keeping lab notebooks are located on the [internal website] (https://sites.google.com/fraserlab.com/fraserlab-private/lab-administration/lab-notebook-guide?authuser=0). Read these guides thoroughly as it details how to format your notebook and how we keep our lab data organized. Additionally, members are expected to keep the shared lab protocols up-to-date and to contribute new protocols as they become relevant to the lab. Lab notebooks are backed up biannually. 
 
 Benchling also allows us to keep track of our samples and data through a registry/collection.  While it is highly recommended you take advantage of the registry to organize your samples, especially for samples that should be made accessible to the rest of the lab, it is your choice how to organize your samples while a member of the lab. However, when you leave the lab it is required that you clean out all superfluous samples and log the samples you keep in the lab’s collection so other lab members are able to locate them. Directions for using registry and conventions for labelling the location are also in the Lab Notebook Guide.
 ##### External-
@@ -166,13 +166,13 @@ Lab members always make their data, materials, processing details available to t
 As data deposition to some repositories can be involved, current lab efforts include making guides that will assist people through the process. A guide for depositing cryoEM structures by Jenna Pellegrino is posted on [our blog](https://fraserlab.com/2020/10/20/CryoEM-deposition/), and more will be added as they become available. Internally, these guides are located on our shared protocols in Benchling.
 
 ###### List of repositories:
-**Addgene** - Plasmids
-**Zenodo** - datasets
-**Diffraction Pattern** - XRD data
-**PDB** - Protein structures
-**GenBank** - Raw sequencing data
-**MaveDB** - Deep mutational scanning (DMS) data
-**Mave Registry** - DMS experiments
+**Addgene** - Plasmids  
+**Zenodo** - datasets  
+**Diffraction Pattern** - XRD data  
+**PDB** - Protein structures  
+**GenBank** - Raw sequencing data  
+**MaveDB** - Deep mutational scanning (DMS) data  
+**Mave Registry** - DMS experiments  
 <br/>
 <br/>
 
