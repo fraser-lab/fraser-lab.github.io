@@ -211,3 +211,4 @@ This development of this compact was guided by similar compacts and philosophies
 [Heemstra Lab, Emory University](https://docs.google.com/document/d/1a8ecjUWVbXR1JqgbzqRwKmqaNK2cvBsysNFVXk56Lpo/edit)  
 [Mentoring resources, University of Wisconsin-Madison ICTR](https://ictr.wisc.edu/mentoring/mentors-alignment-phase-resources/)  
 [Moghe Lab, Cornell](https://www.moghelab.org/lab-philosophy)  
+[Avasthi Lab, Dartmouth](http://www.avasthilab.org/lab-policies-and-tips/)
