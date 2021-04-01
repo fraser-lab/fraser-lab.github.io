@@ -13,10 +13,10 @@ paired_maps_and_models:
   emdb: '20353'
 zenodo:
 - code: '3555658'
+  description: QPTxM code at time of publication
 github:
 - code: qPTxM
   url: fraser-lab/qptm
-  description: QPTxM code at time of publication
 links:
 - name: Frost lab @ UC San Francisco
   url: https://frostlab.org/
