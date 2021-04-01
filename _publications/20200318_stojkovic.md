@@ -15,7 +15,7 @@ zenodo:
 - code: '3555658'
   description: QPTxM code at time of publication
 github:
-- code: qPTxM
+- description: qPTxM
   url: fraser-lab/qptm
 links:
 - name: Frost lab @ UC San Francisco
