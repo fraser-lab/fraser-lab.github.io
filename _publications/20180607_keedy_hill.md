@@ -127,6 +127,9 @@ pdbs:
 - 5QGD
 - 5QGE
 - 5QGF
+zenodo:
+- code: '1044103'
+description: 'PanDDA analysis of PTP1B screened against fragment libraries'
 links:
 - name: XChem - Fragment Screening @ Diamond Light Source
   url: http://www.diamond.ac.uk/Beamlines/Mx/Fragment-Screening.html
@@ -138,7 +141,4 @@ links:
   url: https://www.blopig.com/blog/2019/03/journal-club-investigating-allostery-with-a-lot-of-crystals/
 - name: Paper Submission Celebration Photo
   url: https://twitter.com/fraser_lab/status/928125440014745600
-zenodo:
-- code: '1044103'
-description: dataset
 ---

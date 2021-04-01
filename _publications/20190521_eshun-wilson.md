@@ -17,9 +17,10 @@ paired_maps_and_models:
   emdb: '0614'
 - pdb: 6O2T
   emdb: '0615'
+github:
+- code: PLUMED-EM
+  url: fraser-lab/plumed_em_md
 links:
-- name: PLUMED-EM Scripts on GitHub
-  url: https://github.com/fraser-lab/plumed_em_md
 - name: PLUMED-NEST files
   url: https://www.plumed-nest.org/eggs/19/007/
 - name: Nogales lab  @ UC Berkeley
