@@ -18,7 +18,7 @@ paired_maps_and_models:
 - pdb: 6O2T
   emdb: '0615'
 github:
-- code: PLUMED-EM
+- description: PLUMED-EM
   url: fraser-lab/plumed_em_md
 links:
 - name: PLUMED-NEST files
