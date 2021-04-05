@@ -108,7 +108,8 @@ group: publications
 
                                 <!--Github - optional-->
 				{% if publication.github %}
-				<li>GitHub Repository{% if publication.github.size > 1 %}s{% endif %}:
+				<li>{% if publication.github.size = 1 %}GitHub Repository{% endif %}
+                                        {% if publication.github.size > 1 %}GitHub Repositories{% endif %}:
 				{% for record in publication.github %}
 				<a href="https://www.github.com/{{record.url}}/">{{record.url}}</a>{% if record.description %} ({{record.description}}){% endif %}{% unless forloop.last %}, {% endunless %}
         				{% endfor %}
