@@ -49,9 +49,9 @@ I like to take an active role in the preparation of all our manuscripts, and I h
 <br/>
 <br/>
 
-## <a id="peer_review">Peer Review</a>
+>## <a id="peer_review">Peer Review</a>
 We believe that transparency in peer review is critical to improving the quality and  professionalism of reviews. This is also viewed as a training opportunity and all co-reviewers are credited for their contribution to the review.
-
+>
 When reviewing a paper, we try to keep the following in mind:
 Read the paper fully, making notes about what is clear and what is not.
 Note technical issues:
@@ -86,6 +86,7 @@ If the conclusions are not original, it would be helpful if you could provide re
 Is the work convincing, and if not, what further evidence would be required to strengthen the conclusions?
 On a more subjective note, do you feel that the paper will influence thinking in the field? (this addresses points 1-4 of my guide)
 
+>
 We would also be grateful if you could pay particular attention to the statistics, if applicable.
 All error bars should be defined in the corresponding figure legends.
 Please include in your report a specific comment on the appropriateness of any statistical tests, and the accuracy of the description of any error bars and probability values. (this falls under 5)
@@ -102,9 +103,9 @@ We occasionally also do sponsored research in the lab and I consult for companie
 ## <a id="mentorship">Mentorship</a>
 The most important things I can do are to give people the resources to accomplish what they want to accomplish in the lab, and to make sure what they’re doing is setting them up to grow for the position they want next. I believe that a mentorship relationship is a two way relationship. This means I expect lab members to mentor up, defined as [‘the mentee’s proactive engagement in the mentor-mentee relationship, so that both parties mutually benefit from the relationship and move forward towards an agreed-upon purpose or vision’](https://tomprof.stanford.edu/posting/1525).
 >
-The kinetics of career transitions are more determined by their personal desires for what they want to do in their career and less on my desires to keep them in the lab longer (see Conflicts of Interest). I recognize the itinerant nature of their time in the lab and so I try to push people to consistently revisit the question: what’s next? I expect lab members to critically think about their next step and what they need to get there on both a short term and long term basis.  I try to work as hard as I can to give my lab the resources, including my time and my guidance, towards their goals. 
+The kinetics of career transitions are more determined by their personal desires for what they want to do in their career and less on my desires to keep them in the lab longer (see Conflicts of Interest). I recognize the itinerant nature of their time in the lab and so I try to push people to consistently revisit the question: what’s next? I expect lab members to critically think about their next step and what they need to get there on both a short term and long term basis.  I try to work as hard as I can to give my lab the resources, including my time and my guidance, towards their goals.
 >
-In terms of project work, I believe in supporting lab members to become independent leaders in their specific subjects. This means I stay engaged in the project and provide critical feedback while guiding members to follow their ideas and directions. To get the best out of both of our time when meeting, I encourage members to follow [this guide](https://fraserlab.com/2021/03/29/one-on-one-meetings/) on one-on-one meetings and to [read advice on how to get the most out of meeting together](http://www.avasthilab.org/2017/03/14/what-to-bring-to-a-meeting-with-your-advisor/). I expect members to recognize and ask for additional feedback and support when needed. This means that members should demand my time and attention as much as they feel is necessary, for example asking for additional meetings for projects or careers, one-on-one journal clubs, or feedback on writing. 
+In terms of project work, I believe in supporting lab members to become independent leaders in their specific subjects. This means I stay engaged in the project and provide critical feedback while guiding members to follow their ideas and directions. To get the best out of both of our time when meeting, I encourage members to follow [this guide](https://fraserlab.com/2021/03/29/one-on-one-meetings/) on one-on-one meetings and to [read advice on how to get the most out of meeting together](http://www.avasthilab.org/2017/03/14/what-to-bring-to-a-meeting-with-your-advisor/). I expect members to recognize and ask for additional feedback and support when needed. This means that members should demand my time and attention as much as they feel is necessary, for example asking for additional meetings for projects or careers, one-on-one journal clubs, or feedback on writing.
 >
 Specifically I aim to:
 * Keep the lab well funded to provide access to modern equipment, supplies, methods, and facilities.  
@@ -155,13 +156,21 @@ Every week, each lab member has a one-on-one meeting with me to talk about curre
 In addition, the lab and myself are available through a very active Slack channel. Slack is a great tool that centralizes all of our communication.  In our lab, we have a slack channel for almost everything. The @channel and @person prompts summon the channel or person at any time of the day so people have to be mindful of how people arrange their time especially during nights and weekends. It is a given that people can ignore slack messages outside of normal working hours to preserve their personal time and space. For urgent matters, you should contact people by phone/ text.
 
 I try to be mindful of the fact that people have different preferred communication styles, and that I lie on one extreme end of that spectrum, namely that I communicate best in person and in real time. I am open to you communicating with me however works best for you, whether that means giving you time to think through your responses, making use of notes, or writing to me asynchronously on Slack. I also want to reinforce that my apparent terseness on Slack is a reflection of the fact that writing out my thoughts is comparatively inefficient for me, but not an indication of my mood or disinterest in a topic!
+
+#### <a id="conflict_resolution">Conflict Resolution</a>
+As mentioned in <a id="values">Core Lab Values</a> we embrace people from different backgrounds and with diverse perspectives. Part of embracing a group of diverse people is that sometimes people’s different opinions and perspectives will lead to conflict. While our opinions or beliefs may differ, we believe in respecting each other’s opinions.
+
+However, we understand that conflicts and hurt feelings may still arise. We work to resolve conflicts between those with differing opinions in a timely manner. Our goal is to ensure that all lab members  can feel welcome and part of the group. This allows for  more  awesome collaborative work and a more peaceful community. We acknowledge that it can take people different amounts of times or varying  modes of communication to find resolution. We remain open to different styles and modes of communication and try to be non-reactionary or judgmental. If we have wronged someone else it is important that we acknowledge what we did wrong, apologize, and find a way to avoid it happening again in the future.
+
+JF’s role in conflict resolution: Try to resolve conflicts among ourselves. JF is involved when any party feels it is necessary to do so. If a satisfactory resolution is not reached after involving JF, we can involve an external moderator, such as the [Ombuds](https://ombuds.ucsf.edu) or a [Restorative Justice circle facilitator](https://studentlife.ucsf.edu/circles).
+
 <br/>
 <br/>
 
 ## <a id="data">Lab Notebooks/Data deposition</a>
 As transparency and openness are key values to the lab, sharing our information both within the lab and externally to the scientific community is a top priority.
 ##### Internal-
-Lab members are expected to document all of their work in a lab notebook, and this information should be accessible to other members of the lab. Currently, the lab uses the online electronic lab notebook, [Benchling](benchling.com). Guides for using Benchling and for keeping lab notebooks are located on the [internal website] (https://sites.google.com/fraserlab.com/fraserlab-private/lab-administration/lab-notebook-guide?authuser=0). Read these guides thoroughly as it details how to format your notebook and how we keep our lab data organized. Additionally, members are expected to keep the shared lab protocols up-to-date and to contribute new protocols as they become relevant to the lab. Lab notebooks are backed up biannually. 
+Lab members are expected to document all of their work in a lab notebook, and this information should be accessible to other members of the lab. Currently, the lab uses the online electronic lab notebook, [Benchling](benchling.com). Guides for using Benchling and for keeping lab notebooks are located on the [internal website] (https://sites.google.com/fraserlab.com/fraserlab-private/lab-administration/lab-notebook-guide?authuser=0). Read these guides thoroughly as it details how to format your notebook and how we keep our lab data organized. Additionally, members are expected to keep the shared lab protocols up-to-date and to contribute new protocols as they become relevant to the lab. Lab notebooks are backed up biannually.
 
 Benchling also allows us to keep track of our samples and data through a registry/collection.  While it is highly recommended you take advantage of the registry to organize your samples, especially for samples that should be made accessible to the rest of the lab, it is your choice how to organize your samples while a member of the lab. However, when you leave the lab it is required that you clean out all superfluous samples and log the samples you keep in the lab’s collection so other lab members are able to locate them. Directions for using registry and conventions for labelling the location are also in the Lab Notebook Guide.
 ##### External-
