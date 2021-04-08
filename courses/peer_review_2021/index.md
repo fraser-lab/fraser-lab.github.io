@@ -51,7 +51,7 @@ Students will be paired to serve as co-Discussion Leaders for one manuscript the
 Prior to the presentation, the co-Discussion Leaders will compose one joint review, reflecting their original thoughts on the manuscript. After the group discussion, the pair will edit their review to reflect what emerged in the discussion. The review will be posted (either named or anonymously through James Fraser acting as an "editor") as comments associated with the preprint on BioRxiv or other servers.
 
 - Writing and receiving peer review:
-    - [Fraser lab how-to-review](/compact/#peer_review)
+    - [Fraser lab how-to-review](/peer_review/how_to)
     - [My public reviews as BioRxiv comments](https://disqus.com/by/fraserlab/comments/)
     - [Example from Cell Stem Cell of a review process](http://cdn.fraserlab.com/courses/peer_review_2020/2019_saxe.pdf)
     - [Universal Principled Review](http://cdn.fraserlab.com/courses/peer_review_2020/2019_krummel.pdf)
