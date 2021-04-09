@@ -31,6 +31,8 @@ collections:
                 output: true
         publications:
                 output: true
+	reviews:
+		output: true
         alumni:
                 output: true
         sep:
