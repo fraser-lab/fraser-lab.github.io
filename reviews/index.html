@@ -12,7 +12,7 @@ group: reviews
 	<div class="row" style="padding-top: 60px; margin-top: -60px;" id="{{review.date}}">
 	<div style="font-size: 120% !important; width: 100%">{{ review.title | markdownify }}</div>
 	{% if review.abstract %}
-	<div><{{ review.abstract | markdownify }}</div>
+	<div>{{ review.abstract | markdownify }}</div>
 	{% endif %}
 	</div>
 
@@ -21,61 +21,61 @@ group: reviews
 			<strong>Article</strong>
 			<!--each field optional, just make sure you specify at least one-->
 			<!--PMID-->
-			{% if review.article_pmid %}
-			<li>PMID: <a href="http://www.ncbi.nlm.nih.gov/pubmed/{{review.article_pmid}}" alt = "pubmed link: {{review.article_pmid}}"> {{review.article_pmid}}</a></li>
+			{% if review.article.pmid %}
+			<li>PMID: <a href="http://www.ncbi.nlm.nih.gov/pubmed/{{review.article.pmid}}" alt = "pubmed link: {{review.article.pmid}}"> {{review.article.pmid}}</a></li>
 			{% endif %}
 
 			<!--PMCID-->
-			{% if review.article_pmcid %}
-			<li>PMCID: <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/{{review.article_pmcid}}" alt = "pubmed central link: {{review.article_pmcid}}"> {{review.article_pmcid}}</a></li>
+			{% if review.article.pmcid %}
+			<li>PMCID: <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/{{review.article.pmcid}}" alt = "pubmed central link: {{review.article.pmcid}}"> {{review.article.pmcid}}</a></li>
 			{% endif %}
 
 			<!--Biorxiv-->
-			{% if review.article_biorxiv %}
-			<li>Biorxiv Preprint: <a href="http://dx.doi.org/10.1101/{{review.article_biorxiv}}" alt = "biorxiv preprint link: {{review.article_biorxiv}}"> {{review.article_biorxiv | split: "." | last }}</a></li>
+			{% if review.article.biorxiv %}
+			<li>Biorxiv Preprint: <a href="http://dx.doi.org/10.1101/{{review.article.biorxiv}}" alt = "biorxiv preprint link: {{review.article.biorxiv}}"> {{review.article.biorxiv | split: "." | last }}</a></li>
 			{% endif %}
 
 			<!--Arxiv-->
-			{% if review.article_arxiv %}
-			<li>arXiv Preprint: <a href="https://arxiv.org/abs/{{review.article_arxiv}}" alt = "arxiv preprint link: {{review.article_arxiv}}"> {{review.article_arxiv}}</a></li>
+			{% if review.article.arxiv %}
+			<li>arXiv Preprint: <a href="https://arxiv.org/abs/{{review.article.arxiv}}" alt = "arxiv preprint link: {{review.article.arxiv}}"> {{review.article.arxiv}}</a></li>
 			{% endif %}
 
 			<!--Chemrxiv-->
-			{% if review.article_chemrxiv %}
-			<li>ChemRxiv Preprint: <a href=" https://doi.org/10.26434/chemrxiv.{{review.article_chemrxiv}}" alt = "chemrxiv preprint link: {{review.article_chemrxiv}}"> {{review.article_chemrxiv}}</a></li>
+			{% if review.article.chemrxiv %}
+			<li>ChemRxiv Preprint: <a href=" https://doi.org/10.26434/chemrxiv.{{review.article.chemrxiv}}" alt = "chemrxiv preprint link: {{review.article.chemrxiv}}"> {{review.article.chemrxiv}}</a></li>
 			{% endif %}
 
 			<!--Preprints.org -->
-			{% if review.article_preprintsorg %}
-			<li>Preprints.org Preprint: <a href=" https://www.preprints.org/manuscript/{{review.article_preprintsorg}}" alt = "preprints.org preprint link: {{review.article_preprintsorg}}"> {{review.article_preprintsorg}}</a></li>
+			{% if review.article.preprintsorg %}
+			<li>Preprints.org Preprint: <a href=" https://www.preprints.org/manuscript/{{review.article.preprintsorg}}" alt = "preprints.org preprint link: {{review.article.preprintsorg}}"> {{review.article.preprintsorg}}</a></li>
 			{% endif %}
 
 			<!-- PDF -->
-			<li><a href="{{review.article_pdf}}" alt = "PDF"> Full Text</a></li>
+			<li><a href="{{review.article.pdf}}" alt = "PDF"> Full Text</a></li>
 
 			<!--zenodo record-->
-			{% if review.article_zenodo %}
-			<li>Zenodo Record{% if review.article_zenodo.size > 1 %}s{% endif %}:
-				{% for record in review.article_zenodo %}
+			{% if review.article.zenodo %}
+			<li>Zenodo Record{% if review.article.zenodo.size > 1 %}s{% endif %}:
+				{% for record in review.article.zenodo %}
 				<a href="https://www.zenodo.org/record/{{record.code}}/">{{record.code}}</a>{% if record.description %} ({{record.description}}){% endif %}{% unless forloop.last %}, {% endunless %}
 				{% endfor %}
 			</li>
 			{% endif %}
 
 			<!--Github-->
-			{% if review.article_github %}
-			<li>{% if review.article_github.size > 1 %}GitHub Repositories:{%else%}GitHub Repository:{% endif %}
-			{% for record in review.article_github %}
+			{% if review.article.github %}
+			<li>{% if review.article.github.size > 1 %}GitHub Repositories:{%else%}GitHub Repository:{% endif %}
+			{% for record in review.article.github %}
 			<a href="https://www.github.com/{{record.url}}/">{{record.url}}</a>{% if record.description %} ({{record.description}}){% endif %}{% unless forloop.last %}, {% endunless %}
 				{% endfor %}
 			</li>
 			{% endif %}
 
 			<!--additional links-->
-			{% if review.article_links %}
+			{% if review.article.links %}
 			<br>
-			<strong>Additional Link{% if review.article_links.size > 1 %}s{% endif %}</strong>
-				{% for link in review.article_links %}
+			<strong>Additional Link{% if review.article.links.size > 1 %}s{% endif %}</strong>
+				{% for link in review.article.links %}
 				<li><a href="{{link.url}}" alt="{{link.name}}">{{link.name}}</a></li>
 				{% endfor %}
 			{% endif %}
