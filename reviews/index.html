@@ -51,7 +51,9 @@ group: reviews
 			{% endif %}
 
 			<!-- PDF -->
+			{% if review.article.pdf %}
 			<li><a href="{{review.article.pdf}}" alt = "PDF"> Full Text</a></li>
+			{% endif %}
 
 			<!--zenodo record-->
 			{% if review.article.zenodo %}
