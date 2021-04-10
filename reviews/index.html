@@ -37,6 +37,26 @@ group: reviews
 				<li>Full Text: <a href="{{record.pdf}}" alt = "PDF">{{record.pdf}}</a></li>
 				{% endif %}
 
+				<!--Biorxiv-->
+				{% if record.biorxiv %}
+				<li>Biorxiv Preprint: <a href="http://dx.doi.org/10.1101/{{record.biorxiv}}" alt = "biorxiv preprint link: {{record.biorxiv}}"> {{record.biorxiv | split: "." | last }}</a></li>
+				{% endif %}
+
+				<!--Arxiv-->
+				{% if record.arxiv %}
+				<li>arXiv Preprint: <a href="https://arxiv.org/abs/{{record.arxiv}}" alt = "arxiv preprint link: {{record.arxiv}}"> {{record.arxiv}}</a></li>
+				{% endif %}
+
+				<!--Chemrxiv-->
+				{% if record.chemrxiv %}
+				<li>ChemRxiv Preprint: <a href=" https://doi.org/10.26434/chemrxiv.{{record.chemrxiv}}" alt = "chemrxiv preprint link: {{record.chemrxiv}}"> {{record.chemrxiv}}</a></li>
+				{% endif %}
+
+				<!--Preprints.org -->
+				{% if record.preprintsorg %}
+				<li>Preprints.org Preprint: <a href=" https://www.preprints.org/manuscript/{{record.preprintsorg}}" alt = "preprints.org preprint link: {{record.preprintsorg}}"> {{record.preprintsorg}}</a></li>
+				{% endif %}
+
 				<!--zenodo record-->
 				{% if record.zenodo %}
 				<li>Zenodo Record{% if record.zenodo.size > 1 %}s{% endif %}:
