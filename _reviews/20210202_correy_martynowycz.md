@@ -1,5 +1,5 @@
 ---
-title: "Review of \"Inhibitor Binding Modulates Protonation States in the Active Site of SARS-CoV-2 Main Protease\""
+title: "Review of \"MicroED structure of the human adenosine receptor determined from a single nanocrystal in LCP\""
 date: '2021-02-19'
 disqus: 2eurwi3
 article:
