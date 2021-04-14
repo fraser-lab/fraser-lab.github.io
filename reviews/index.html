@@ -27,9 +27,14 @@ group: reviews
 			<strong>Article</strong>
 				{% for record in review.article %}
 				<!--each field optional, just make sure you specify at least one-->
+				<!--Title-->
+				{% if record.title %}
+				Title: {{record.title | markdownify }}
+				{% endif %}
+
 				<!--Citation-->
 				{% if record.citation %}
-				{{Citation: record.citation | markdownify }}
+				Citation: {{record.citation | markdownify }}
 				{% endif %}
 
 				<!--PMID-->
@@ -100,12 +105,12 @@ group: reviews
 			<strong>Review</strong>
 			<!--Citation-->
 			{% if review.citation %}
-			<li>{{review.citation | markdownify }}</li>
+			{{review.citation | markdownify }}
 			{% endif %}
 
 			<!--Authors-->
 			{% if review.authors %}
-			<li>{{review.authors | markdownify }}</li>
+			{{review.authors | markdownify }}
 			{% endif %}
 
 			<!--Disqus comment-->
