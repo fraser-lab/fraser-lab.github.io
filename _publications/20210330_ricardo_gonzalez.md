@@ -7,8 +7,6 @@ pmid:
 pmcid:
 biorxiv: '2021.03.29.437438'
 pdf: 'http://cdn.fraserlab.com/publications/2021_ricardo_gonzalez.pdf'
-addgene:
-- plasmid: '169211'
 links:
 - name: Ansel lab @ UC San Francisco
   url: https://ansel.ucsf.edu
