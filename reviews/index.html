@@ -29,7 +29,7 @@ group: reviews
 				<!--each field optional, just make sure you specify at least one-->
 				<!--Citation-->
 				{% if record.citation %}
-				<li>Citation: <a href="{{record.citation}}" alt = "citation: {{record.citation}}">{{record.citation}}</a></li>
+				Citation: {{record.citation}}
 				{% endif %}
 
 				<!--PMID-->
@@ -100,7 +100,7 @@ group: reviews
 			<strong>Review</strong>
 			<!--Citation-->
 			{% if review.citation %}
-			<li>Citation: <a href="{{review.citation}}" alt = "citation: {{review.citation}}">{{review.citation}}</a></li>
+			Citation: {{review.citation}}
 			{% endif %}
 
 			<!--Authors-->
