@@ -3,7 +3,7 @@ title: "News & Views: DNA-binding proteins meet their mismatch."
 citation: "Kundert K, Fraser JS. Nature. 2020."
 date: '2020-10-21'
 image: '/static/img/pub/2020_kundert.jpg'
-- pdf: 'http://cdn.fraserlab.com/publications/2020_kundert.pdf'
+pdf: 'http://cdn.fraserlab.com/publications/2020_kundert.pdf'
 pmid: '33087865'
 article:
 - title: "DNA mismatches reveal conformational penalties in protein–DNA recognition"
