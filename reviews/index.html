@@ -1,10 +1,10 @@
 ---
-title: Article Reviews from the Fraser Lab
+title: Peer Reviews from the Fraser Lab
 layout: default
 group: reviews
 ---
 
-<h1>Reviews</h1>
+<h1>Peer Reviews</h1>
 <div class="container-fluid">
 
 {% for review in site.reviews reversed %}
@@ -17,11 +17,21 @@ group: reviews
 	</div>
 
 	<div class="row" style="padding-top: 20px; margin-top: -20px;">
+		<div class="col-sm-6">
+			{% if review.image %}
+			<img class = "img-fluid" src = "{{review.image}}" alt = "Representative Image" style="max-height: 200px;">
+			{% endif %}
+		</div>
 		<ul class="col-sm-6">
 			{% if review.article %}
 			<strong>Article{% if review.article.size > 1 %}s{% endif %}</strong>
 				{% for record in review.article %}
 				<!--each field optional, just make sure you specify at least one-->
+				<!--Citation-->
+				{% if record.citation %}
+				<li>Citation: <a href="{{record.citation}}" alt = "citation: {{record.citation}}">{{record.citation}}</a></li>
+				{% endif %}
+
 				<!--PMID-->
 				{% if record.pmid %}
 				<li>PMID: <a href="http://www.ncbi.nlm.nih.gov/pubmed/{{record.pmid}}" alt = "pubmed link: {{record.pmid}}"> {{record.pmid}}</a></li>
@@ -88,6 +98,16 @@ group: reviews
 		</ul>
 		<ul class="col-sm-6">
 			<strong>Review</strong>
+			<!--Citation-->
+			{% if review.citation %}
+			<li>Citation: <a href="{{review.citation}}" alt = "citation: {{review.citation}}">{{review.citation}}</a></li>
+			{% endif %}
+
+			<!--Authors-->
+			{% if review.authors %}
+			Authors: {{review.authors}}
+			{% endif %}
+
 			<!--Disqus comment-->
 			{% if review.disqus %}
 			<li>Review as Comment: <a href="http://disq.us/p/{{review.disqus}}" alt = "link to review as comment: {{review.disqus}}"> {{review.disqus}}</a></li>

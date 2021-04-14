@@ -1,8 +1,15 @@
 ---
-title: "Something descriptive"
-date: '2021-04-09'
-pdf: 'this is a broken link so far'
-abstract: "If you write an abstract, it will appear here. You probably don't want to make it too long. We don't have space for images (yet?) as I'm assuming nobody wants to make up new images just for reviews. Hey, did you know coffee is excellent and rain is wonderful?"
+title: "All things ever are not quite fully explained."
+date: "2021-04-13"
+pdf: "url.pointing/to/manuscript (optional)"
+zenodo:
+- code : 8675309
+citation: "**Bragg W**, **Fraser JS**. *Biopysical Journal*. 2021. (use this field if piece is hosted by a journal)"
+authors: "**Fraser JS** (use this field if self-publishing)"
+abstract: "Nigel knows most things, but not quite everything. We present a proof by contradiction to demonstrate this point."
+image: "/static/img/pub/cartoon_drawing.jpg"
 article:
 - pmid: 33460600
+- title: "An explanation of all things ever."
+- citation: "Moriarty NW. *Computational Crystallography Newsletter*. 2021."
 ---
