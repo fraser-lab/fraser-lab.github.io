@@ -29,12 +29,12 @@ group: reviews
 				<!--each field optional, just make sure you specify at least one-->
 				<!--Title-->
 				{% if record.title %}
-				Title: {{record.title | markdownify }}
+				{{record.title | markdownify }}
 				{% endif %}
 
 				<!--Citation-->
 				{% if record.citation %}
-				Citation: {{record.citation | markdownify }}
+				{{record.citation | markdownify }}
 				{% endif %}
 
 				<!--PMID-->
