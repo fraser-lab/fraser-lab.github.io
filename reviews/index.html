@@ -24,12 +24,12 @@ group: reviews
 		</div>
 		<ul class="col">
 			{% if review.article %}
-			<strong>Article{% if review.article.size > 1 %}s{% endif %}</strong>
+			<strong>Article</strong>
 				{% for record in review.article %}
 				<!--each field optional, just make sure you specify at least one-->
 				<!--Citation-->
 				{% if record.citation %}
-				<li>{{record.citation | markdownify }}</li>
+				{{Citation: record.citation | markdownify }}
 				{% endif %}
 
 				<!--PMID-->
