@@ -10,7 +10,7 @@ group: publications
 {% for publication in site.publications reversed %}
         <hr>
         <div class="row" style="padding-top: 60px; margin-top: -60px;" id="{{publication.pmid}}">
-        <div style="font-size: 120% !important; width: 100%">{{ publication.title | markdownify }}</div><div>{{ publication.citation | markdownify }}<i>{{ publication.journal | markdownify }}</i></div>
+        <div style="font-size: 120% !important; width: 100%">{{ publication.title | markdownify }}</div><div>{{ publication.citation | markdownify }}<i>{{ publication.journal | markdownify }}.</i>{{publication.date | split: "-" | first }}</div>
         </div>
         <div class="row" style="padding-top: 20px; margin-top: - 20px;">
         	<div class="col-sm-6">
