@@ -17,12 +17,12 @@ group: reviews
 	</div>
 
 	<div class="row" style="padding-top: 20px; margin-top: -20px;">
-		<div class="col-sm-6">
+		<div class="col">
 			{% if review.image %}
 			<img class = "img-fluid" src = "{{review.image}}" alt = "Representative Image" style="max-height: 200px;">
 			{% endif %}
 		</div>
-		<ul class="col-sm-6">
+		<ul class="col">
 			{% if review.article %}
 			<strong>Article{% if review.article.size > 1 %}s{% endif %}</strong>
 				{% for record in review.article %}
@@ -96,7 +96,7 @@ group: reviews
 				{% endfor %}
 			{% endif %}
 		</ul>
-		<ul class="col-sm-6">
+		<ul class="col">
 			<strong>Review</strong>
 			<!--Citation-->
 			{% if review.citation %}
