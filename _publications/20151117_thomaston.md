@@ -1,8 +1,8 @@
 ---
 title: "High resolution structures of the M2 proton channel from influenza A virus reveal dynamic pathways for proton stabilization and transduction."
-citation: "Thomaston JL, Alfonso-Prieto M, **Woldeyes RA, Fraser JS**, Klein ML, Fiorin G, DeGrado WF.
-*PNAS*, 2015."
-date: '2015-11-17'
+authors: "Thomaston JL, Alfonso-Prieto M, **Woldeyes RA, Fraser JS**, Klein ML, Fiorin G, DeGrado WF."
+journal: 'PNAS'
+pub_date: '2015-11-17'
 image: '/static/img/pub/2015_thomaston.jpg'
 pmid: '26578770'
 pmcid: 'PMC4655559'

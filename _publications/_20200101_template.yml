@@ -2,7 +2,7 @@
 #Written by Robbie Diaz - 2020.
 
 #Style Guide: Publications
-# citation - double quotes, to avoid breaking on names with apostrophes
+# authors - double quotes, to avoid breaking on names with apostrophes
 # all other sections - indent with 2 spaces, strings in single quotes
 
 #Names of lab members should be bolded using the following convention: **Surname FM**.
@@ -20,8 +20,8 @@
 #Put article strings in single quotes since they are separated by a colon -- i.e. CNN: Article Name.
 
 #Example Publication
-# - <citation>: "Surname FM, **Fraser JS.** Title of article. *Submitted - Preprint on Biorxiv*. YYYY."
-#   date: 'YYYYMM'
+# - <authors>: "Surname FM, **Fraser JS.** Title of article. *Submitted - Preprint on Biorxiv*. YYYY."
+#   pub_date: 'YYYYMM'
 #   image: '/static/img/pub/surname_YYYY.png'
 #   pmid: '########'
 #   pmcid: 'PMC#######'
@@ -56,10 +56,10 @@
 #       url: https://twitter.com/mctucsf/status/1172334750205218816
 
 ###publications
-- citation: "**Last Name FN**, **Fraser JS**.
+- authors: "**Last Name FN**, **Fraser JS**.
 Comparing serial X-ray crystallography and microcrystal electron diffraction (MicroED) as methods for routine structure
 determination from small macromolecular crystals. *IUCrJ*. 2020."
-  date: '201909'
+  pub_date: '201909'
   image: '/static/img/pub/micro.jpg'
   pmid: '32148858'
   pmcid: 'PMC7055375'

@@ -1,8 +1,8 @@
 ---
-title: "Effects of
-α-tubulin acetylation on microtubule structure and stability."
-citation: "Eshun-Wilson L, Zhang R, Portran D, Toso D, Lohr T, Vendruscolo M, Bonomi M, **Fraser JS**, Nogales E.  *PNAS*. 2019."
-date: '2019-05-21'
+title: "Effects of α-tubulin acetylation on microtubule structure and stability."
+authors: "Eshun-Wilson L, Zhang R, Portran D, Toso D, Lohr T, Vendruscolo M, Bonomi M, **Fraser JS**, Nogales E."
+journal: 'PNAS'
+pub_date: '2019-05-21'
 image: '/static/img/pub/2019_eshun-wilson.jpg'
 pmid: '31072936'
 pmcid: 'PMC6535015'
