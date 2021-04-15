@@ -76,10 +76,11 @@ Prior to the presentation, the co-Discussion Leaders will compose one joint revi
 - Panel:
   - [Michael Eisen](http://eisenlab.org/) - [Editor in Chief of eLife](https://elifesciences.org/about/people)
   - [Andrej Sali](https://salilab.org/) - [Editor of Structure](https://www.cell.com/structure/editors)
-  - Someone from eLife
 
 
 ### May 12
 - New developments in peer review:
   - [Jessica Polka](https://en.wikipedia.org/wiki/Jessica_Polka) - [Executive Director of ASAPbio](https://asapbio.org/dt_team/jessica-polka)
 - Writing and Receiving Peer Review and expecations for written reviews
+  - annotated public review vs. private feedback
+  - writen blog post about it (Prachee)
