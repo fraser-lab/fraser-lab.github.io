@@ -8,6 +8,6 @@ abstract: "A recent publication by Croll and coworkers, \"Improving SARS-CoV-2 s
 image: '/static/img/pub/2021_young.jpg'
 article:
 - title: "Improving SARS-CoV-2 structures: Peer review by early coordinate release."
-- citation: "Croll TI, Williams CJ, Chen VB, Richardson DC, Richardson JS. Biophysical Journal. 2021."
+- citation: "Croll TI, Williams CJ, Chen VB, Richardson DC, Richardson JS. *Biophysical Journal.* 2021."
 - pmid: 33460600
 ---
