@@ -74,12 +74,12 @@ group: reviews
 		{% endif %}
 
 		{% if review.news %}
-				{% for record in review.news %}
+<!-- 				{% for record in review.news %}
 				<li>Article Highlight Title: {{record.title | markdownify | remove: '<p>' | remove: '</p>' }}</li>
 
-				<!--Authors-->
+				Authors
 				{% if record.authors %}
-				<li>Article Highlight by: {{record.authors | markdownify | remove: '<p>' | remove: '</p>' }}</li>
+				<li>Article Highlight by: {{record.authors | markdownify | remove: '<p>' | remove: '</p>' }}</li> -->
 
 				<!--zenodo record-->
 				{% if record.zenodo %}
