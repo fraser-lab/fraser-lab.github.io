@@ -61,6 +61,17 @@ group: reviews
 				{% endfor %}
 			{% endif %}
 		</ul>
+		{% if review.article %}
+		<ul class="col">
+			<strong>Post-Peer Review</strong>
+			{% for record in review.article %}
+				{% if record.title %}
+				<li>Title: {{record.title | markdownify | remove: '<p>' | remove: '</p>' }}</li>
+				{% endif %}
+				
+			{% endfor %}
+		</ul>
+		{% endif %}
 	</div>
 	<br>
 {% endfor %}
