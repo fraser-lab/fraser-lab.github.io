@@ -76,7 +76,6 @@ group: reviews
 		{% if review.news %}
 				{% for record in review.news %}
 				<li>Article Highlight Title: {{record.title | markdownify | remove: '<p>' | remove: '</p>' }}</li>
-				{% endif %}
 
 				<!--Authors-->
 				{% if record.authors %}
