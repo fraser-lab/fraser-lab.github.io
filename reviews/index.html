@@ -64,9 +64,9 @@ group: reviews
 		</ul>
 		{% if review.article %}
 		<ul class="col">
-			##### Post-Peer Review
+##### Post-Peer Review
 			{% if review.article %}
-				###### Article
+###### Article
 				{% for record in review.article %}
 					<!--PMID-->
 					{% if record.pmid %}
@@ -77,7 +77,7 @@ group: reviews
 		{% endif %}
 
 			{% if review.news %}
-			###### Highlight
+###### Highlight
 				{% for record in review.news %}
 					{% if record.title %}
 					> <li>Title: {{record.title | markdownify | remove: '<p>' | remove: '</p>' }}</li>
