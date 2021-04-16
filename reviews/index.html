@@ -12,7 +12,7 @@ group: reviews
 	<div class="row" style="padding-top: 60px; margin-top: -60px;" id="{{review.date}}">
 	<div style="font-size: 120% !important; width: 100%">{{ review.title | markdownify }}</div>
 	<div>Article by: {{ review.authors | markdownify | remove: '<p>' | remove: '</p>' }}<br>
-	<strong>Reviewed by: {{ review.reviewers | markdownify | remove: '<p>' | remove: '</p>' }}</strong>
+	<strong>Reviewed by: {{ review.reviewers | markdownify | remove: '<p>' | remove: '</p>' }}</strong><br>
 	</div>
 	{% if review.abstract %}
 	<div>{{ review.abstract | markdownify }}</div>
@@ -64,29 +64,33 @@ group: reviews
 		</ul>
 		{% if review.article %}
 		<ul class="col">
-			<strong>Post-Peer Review</strong>
-			{% for record in review.article %}
-				<!--PMID-->
-				{% if record.pmid %}
-				<li>Article PMID: <a href="http://www.ncbi.nlm.nih.gov/pubmed/{{record.pmid}}" alt = "pubmed link: {{record.pmid}}"> {{record.pmid}}</a></li>
-				{% endif %}
-			{% endfor %}
+			##### Post-Peer Review
+			{% if review.article %}
+				###### Article
+				{% for record in review.article %}
+					<!--PMID-->
+					{% if record.pmid %}
+					> <li>PMID: <a href="http://www.ncbi.nlm.nih.gov/pubmed/{{record.pmid}}" alt = "pubmed link: {{record.pmid}}"> {{record.pmid}}</a></li>
+					{% endif %}
+				{% endfor %}
+			{% endif %}
 		{% endif %}
 
-		{% if review.news %}
+			{% if review.news %}
+			###### Highlight
 				{% for record in review.news %}
-				{% if record.title %}
-				<li>Article Highlight Title: {{record.title | markdownify | remove: '<p>' | remove: '</p>' }}</li>
-				{% endif %}
+					{% if record.title %}
+					> <li>Title: {{record.title | markdownify | remove: '<p>' | remove: '</p>' }}</li>
+					{% endif %}
 
-				{% if record.authors %}
-				<li>Article Highlight by: {{record.authors | markdownify | remove: '<p>' | remove: '</p>' }}</li>
-				{% endif %}
-				
-				<!--zenodo record-->
-				{% if record.zenodo %}
-				<li>Article Highlight as Zenodo Record: <a href="https://www.zenodo.org/record/{{record.zenodo}}" alt = "link to review as zenodo: {{record.zenodo}}"> {{record.zenodo}}</a></li>
-				{% endif %}
+					{% if record.authors %}
+					> <li>Authors: {{record.authors | markdownify | remove: '<p>' | remove: '</p>' }}</li>
+					{% endif %}
+
+					<!--zenodo record-->
+					{% if record.zenodo %}
+					> <li>Zenodo Record: <a href="https://www.zenodo.org/record/{{record.zenodo}}" alt = "link to review as zenodo: {{record.zenodo}}"> {{record.zenodo}}</a></li>
+					{% endif %}
 
 				{% endfor %}
 
