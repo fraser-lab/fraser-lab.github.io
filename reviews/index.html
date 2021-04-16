@@ -70,34 +70,6 @@ group: reviews
 				<li>Article PMID: <a href="http://www.ncbi.nlm.nih.gov/pubmed/{{record.pmid}}" alt = "pubmed link: {{record.pmid}}"> {{record.pmid}}</a></li>
 				{% endif %}
 			{% endfor %}
-
-		{% if review.news %}
-				<p>
-				{% for record in review.news %}
-				<li>Article Highlight Title: {{record.title | markdownify | remove: '<p>' | remove: '</p>' }}</li>
-				{% endif %}
-
-				<!--Authors-->
-				{% if record.authors %}
-				<li>Article Highlight by: {{record.authors | markdownify | remove: '<p>' | remove: '</p>' }}</li>
-				{% endif %}
-
-				<!--zenodo record-->
-				{% if record.zenodo %}
-				<li>Review as Zenodo Record: <a href="https://www.zenodo.org/record/{{record.zenodo}}" alt = "link to review as zenodo: {{record.zenodo}}"> {{record.zenodo}}</a></li>
-				{% endif %}
-				
-				<!-- PDF -->
-				{% if record.pdf %}
-				<li>Full Text: <a href="{{record.pdf}}" alt = "PDF">{{record.pdf}}</a></li>
-				{% endif %}
-				{% if record.pmid %}
-				<li>Article Highlight PMID: <a href="http://www.ncbi.nlm.nih.gov/pubmed/{{record.pmid}}" alt = "pubmed link: {{record.pmid}}"> {{record.pmid}}</a></li>
-				{% endif %}
-
-				{% endfor %}
-
-		{% endif}
 		</ul>
 		{% endif %}
 	</div>
