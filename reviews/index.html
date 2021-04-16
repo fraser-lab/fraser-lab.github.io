@@ -64,36 +64,39 @@ group: reviews
 		</ul>
 		{% if review.article %}
 		<ul class="col">
-##### Post-Peer Review
+			<h5>Post-Peer Review</h5>
 			{% if review.article %}
-###### Article
+				<h6>Article</h6>
+				<blockquote>
 				{% for record in review.article %}
 					<!--PMID-->
 					{% if record.pmid %}
-					> <li>PMID: <a href="http://www.ncbi.nlm.nih.gov/pubmed/{{record.pmid}}" alt = "pubmed link: {{record.pmid}}"> {{record.pmid}}</a></li>
+					<li>PMID: <a href="http://www.ncbi.nlm.nih.gov/pubmed/{{record.pmid}}" alt = "pubmed link: {{record.pmid}}"> {{record.pmid}}</a></li>
 					{% endif %}
 				{% endfor %}
+				</blockquote>
 			{% endif %}
 		{% endif %}
 
 			{% if review.news %}
-###### Highlight
+			<h6>Highlight</h6>
+				<blockquote>
 				{% for record in review.news %}
 					{% if record.title %}
-					> <li>Title: {{record.title | markdownify | remove: '<p>' | remove: '</p>' }}</li>
+					<li>Title: {{record.title | markdownify | remove: '<p>' | remove: '</p>' }}</li>
 					{% endif %}
 
 					{% if record.authors %}
-					> <li>Authors: {{record.authors | markdownify | remove: '<p>' | remove: '</p>' }}</li>
+					<li>Authors: {{record.authors | markdownify | remove: '<p>' | remove: '</p>' }}</li>
 					{% endif %}
 
 					<!--zenodo record-->
 					{% if record.zenodo %}
-					> <li>Zenodo Record: <a href="https://www.zenodo.org/record/{{record.zenodo}}" alt = "link to review as zenodo: {{record.zenodo}}"> {{record.zenodo}}</a></li>
+					<li>Zenodo Record: <a href="https://www.zenodo.org/record/{{record.zenodo}}" alt = "link to review as zenodo: {{record.zenodo}}"> {{record.zenodo}}</a></li>
 					{% endif %}
 
 				{% endfor %}
-
+				</blockquote>
 		{% endif %}
 
 		</ul>
