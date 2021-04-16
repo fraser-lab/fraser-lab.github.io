@@ -75,7 +75,7 @@ group: reviews
 
 		{% if review.news %}
 				{% for record in review.news %}
-
+				<li>Article Highlight Title: {{record.title | markdownify | remove: '<p>' | remove: '</p>' }}</li>
 				<!--zenodo record-->
 				{% if record.zenodo %}
 				<li>Article Highlight as Zenodo Record: <a href="https://www.zenodo.org/record/{{record.zenodo}}" alt = "link to review as zenodo: {{record.zenodo}}"> {{record.zenodo}}</a></li>
