@@ -11,10 +11,10 @@ group: reviews
 	<hr>
 	<div class="row" style="padding-top: 60px; margin-top: -60px;" id="{{review.date}}">
 	<div style="font-size: 120% !important; width: 100%">{{ review.title | markdownify }}</div>
-	<div>{{ review.authors | markdownify | remove: '<p>' | remove: '</p>' }}</div>
-	<br>
+	<div>Article by: {{ review.authors | markdownify | remove: '<p>' | remove: '</p>' }}</div>
+	<p>
 	<div><strong>Reviewed by: {{ review.reviewers | markdownify | remove: '<p>' | remove: '</p>' }}</strong></div>
-	<br>
+	<p>
 	{% if review.abstract %}
 	<div>{{ review.abstract | markdownify }}</div>
 	{% endif %}
