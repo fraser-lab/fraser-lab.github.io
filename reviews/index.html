@@ -80,7 +80,6 @@ group: reviews
 				<!--Authors-->
 				{% if record.authors %}
 				<li>Article Highlight by: {{record.authors | markdownify | remove: '<p>' | remove: '</p>' }}</li>
-				{% endif %}
 
 				<!--zenodo record-->
 				{% if record.zenodo %}
