@@ -4,13 +4,14 @@ layout: default
 group: reviews
 ---
 
-<h1>Peer Reviews</h1>
+<h1>Peer Review</h1>
 <div class="container-fluid">
 
 {% for review in site.reviews reversed %}
 	<hr>
 	<div class="row" style="padding-top: 60px; margin-top: -60px;" id="{{review.date}}">
 	<div style="font-size: 120% !important; width: 100%">{{ review.title | markdownify }}</div>
+	<div style="font-size: 120% !important; width: 100%">{{ review.authors | markdownify | remove: '<p>' | remove: '</p>' }}</div>
 	{% if review.abstract %}
 	<div>{{ review.abstract | markdownify }}</div>
 	{% endif %}
@@ -23,35 +24,9 @@ group: reviews
 			{% endif %}
 		</div>
 		<ul class="col">
-			{% if review.article %}
-			<strong>Article</strong>
-				{% for record in review.article %}
-				<!--each field optional, just make sure you specify at least one-->
-				<!--Title-->
-				{% if record.title %}
-				<li>Title: {{record.title | markdownify | remove: '<p>' | remove: '</p>' }}</li>
-				{% endif %}
-
-				<!--Citation-->
-				{% if record.citation %}
-				<li>Citation: {{record.citation | markdownify | remove: '<p>' | remove: '</p>' }}</li>
-				{% endif %}
-
-				<!--PMID-->
-				{% if record.pmid %}
-				<li>PMID: <a href="http://www.ncbi.nlm.nih.gov/pubmed/{{record.pmid}}" alt = "pubmed link: {{record.pmid}}"> {{record.pmid}}</a></li>
-				{% endif %}
-
-				<!--PMCID-->
-				{% if record.pmcid %}
-				<li>PMCID: <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/{{record.pmcid}}" alt = "pubmed central link: {{record.pmcid}}"> {{record.pmcid}}</a></li>
-				{% endif %}
-
-				<!-- PDF -->
-				{% if record.pdf %}
-				<li>Full Text: <a href="{{record.pdf}}" alt = "PDF">{{record.pdf}}</a></li>
-				{% endif %}
-
+			{% if review.peer-review %}
+			<strong>Peer Review</strong>
+				{% for record in review.peer-review %}
 				<!--Biorxiv-->
 				{% if record.biorxiv %}
 				<li>Biorxiv Preprint: <a href="http://dx.doi.org/10.1101/{{record.biorxiv}}" alt = "biorxiv preprint link: {{record.biorxiv}}"> {{record.biorxiv | split: "." | last }}</a></li>
@@ -72,6 +47,52 @@ group: reviews
 				<li>Preprints.org Preprint: <a href=" https://www.preprints.org/manuscript/{{record.preprintsorg}}" alt = "preprints.org preprint link: {{record.preprintsorg}}"> {{record.preprintsorg}}</a></li>
 				{% endif %}
 
+				<!--Disqus comment-->
+				{% if record.disqus %}
+				<li>Review as Comment: <a href="http://disq.us/p/{{record.disqus}}" alt = "link to review as comment: {{record.disqus}}"> {{record.disqus}}</a></li>
+				{% endif %}
+
+				<!--zenodo record-->
+				{% if record.zenodo %}
+				<li>Review as Zenodo Record{% if record.zenodo.size > 1 %}s{% endif %}:
+					{% for record2 in record.zenodo %}
+					<a href="https://www.zenodo.org/record/{{record.code}}/">{{record2.code}}</a>{% if record2.description %} ({{record2.description}}){% endif %}{% unless forloop.last %}, {% endunless %}
+					{% endfor %}</li>
+				{% endif %}
+			{% endfor %}
+			{% endif %}
+
+		<ul class="col">
+			{% if review.article %}
+			<strong>Post-peer review</strong>
+				{% for record in review.article %}
+				<!--each field optional, just make sure you specify at least one-->
+				<!--Title-->
+				{% if record.title %}
+				<li>Title: {{record.title | markdownify | remove: '<p>' | remove: '</p>' }}</li>
+				{% endif %}
+
+				<!--Citation-->
+				{% if record.citation %}
+				<li>Citation: {{record.citation | markdownify | remove: '<p>' | remove: '</p>' }}</li>
+				{% endif %}
+
+				<!--PMID-->
+				{% if record.pmid %}
+				<li>PMID: <a href="http://www.ncbi.nlm.nih.gov/pubmed/{{record.pmid}}" alt = "pubmed link: {{record.pmid}}"> {{record.pmid}}</a></li>
+				{% endif %}
+
+				{% if review.news %}
+				<p>
+				{% for record in review.news %}
+				<li>Article Highlight Title: {{record.title | markdownify | remove: '<p>' | remove: '</p>' }}</li>
+				{% endif %}
+
+				<!--Authors-->
+				{% if record.authors %}
+				<li>Article Highlight by: {{record.authors | markdownify | remove: '<p>' | remove: '</p>' }}</li>
+				{% endif %}
+
 				<!--zenodo record-->
 				{% if record.zenodo %}
 				<li>Zenodo Record{% if record.zenodo.size > 1 %}s{% endif %}:
@@ -79,62 +100,12 @@ group: reviews
 					<a href="https://www.zenodo.org/record/{{record.code}}/">{{record.code}}</a>{% if record.description %} ({{record.description}}){% endif %}{% unless forloop.last %}, {% endunless %}
 					{% endfor %}</li>
 				{% endif %}
-
-				<!--Github-->
-				{% if record.github %}
-				<li>{% if record.github.size > 1 %}GitHub Repositories:{%else%}GitHub Repository:{% endif %}
-					{% for record in record.github %}
-					<a href="https://www.github.com/{{record.url}}/">{{record.url}}</a>{% if record.description %} ({{record.description}}){% endif %}{% unless forloop.last %}, {% endunless %}
-					{% endfor %}</li>
+				
+				<!-- PDF -->
+				{% if record.pdf %}
+				<li>Full Text: <a href="{{record.pdf}}" alt = "PDF">{{record.pdf}}</a></li>
 				{% endif %}
 
-				<!--additional links-->
-				{% if record.links %}
-				<br>
-				<strong>Additional Link{% if record.links.size > 1 %}s{% endif %}</strong>
-					{% for link in record.links %}
-					<li><a href="{{link.url}}" alt="{{link.name}}">{{link.name}}</a></li>
-					{% endfor %}
-				{% endif %}
-				{% endfor %}
-			{% endif %}
-		</ul>
-		<ul class="col">
-			<strong>Review</strong>
-			<!--Citation-->
-			{% if review.citation %}
-			<li>Citation: {{review.citation | markdownify | remove: '<p>' | remove: '</p>' }}</li>
-			{% endif %}
-
-			<!--Authors-->
-			{% if review.authors %}
-			<li>Review Authors: {{review.authors | markdownify | remove: '<p>' | remove: '</p>' }}</li>
-			{% endif %}
-
-			<!--Disqus comment-->
-			{% if review.disqus %}
-			<li>Review as Comment: <a href="http://disq.us/p/{{review.disqus}}" alt = "link to review as comment: {{review.disqus}}"> {{review.disqus}}</a></li>
-			{% endif %}
-
-			<!-- PDF -->
-			{% if review.pdf %}
-			<li><a href="{{review.pdf}}" alt = "PDF"> Review Full Text</a></li>
-			{% endif %}
-
-			<!--zenodo record-->
-			{% if review.zenodo %}
-			<li>Zenodo Record{% if review.zenodo.size > 1 %}s{% endif %}:
-				{% for record in review.zenodo %}
-				<a href="https://www.zenodo.org/record/{{record.code}}/">{{record.code}}</a>{% if record.description %} ({{record.description}}){% endif %}{% unless forloop.last %}, {% endunless %}
-				{% endfor %}</li>
-			{% endif %}
-
-			<!--additional links-->
-			{% if review.links %}
-			<br>
-			<strong>Additional Link{% if review.links.size > 1 %}s{% endif %}</strong>
-				{% for link in review.links %}
-				<li><a href="{{link.url}}" alt="{{link.name}}">{{link.name}}</a></li>
 				{% endfor %}
 			{% endif %}
 		</ul>
@@ -142,4 +113,3 @@ group: reviews
 	<br>
 {% endfor %}
 </div>
-			
