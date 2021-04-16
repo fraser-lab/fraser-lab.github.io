@@ -11,8 +11,9 @@ group: reviews
 	<hr>
 	<div class="row" style="padding-top: 60px; margin-top: -60px;" id="{{review.date}}">
 	<div style="font-size: 120% !important; width: 100%">{{ review.title | markdownify }}</div>
-	<div style="font-size: 120% !important; width: 100%">{{ review.authors | markdownify | remove: '<p>' | remove: '</p>' }}</div>
+	<div>{{ review.authors | markdownify | remove: '<p>' | remove: '</p>' }}</div>
 	{% if review.abstract %}
+	<br>
 	<div>{{ review.abstract | markdownify }}</div>
 	{% endif %}
 	</div>
@@ -49,16 +50,14 @@ group: reviews
 
 				<!--Disqus comment-->
 				{% if record.disqus %}
-				<li>Review as Comment: <a href="http://disq.us/p/{{record.disqus}}" alt = "link to review as comment: {{record.disqus}}"> {{record.disqus}}</a></li>
+				<li>Review as Disqus Comment: <a href="http://disq.us/p/{{record.disqus}}" alt = "link to review as comment: {{record.disqus}}"> {{record.disqus}}</a></li>
 				{% endif %}
 
 				<!--zenodo record-->
 				{% if record.zenodo %}
-				<li>Review as Zenodo Record{% if record.zenodo.size > 1 %}s{% endif %}:
-					{% for record2 in record.zenodo %}
-					<a href="https://www.zenodo.org/record/{{record.code}}/">{{record2.code}}</a>{% if record2.description %} ({{record2.description}}){% endif %}{% unless forloop.last %}, {% endunless %}
-					{% endfor %}</li>
+				<li>Review as Zenodo Record: <a href="https://www.zenodo.org/record/{{record.zenodo}}" alt = "link to review as zenodo: {{record.zenodo}}"> {{record.zenodo}}</a></li>
 				{% endif %}
+
 				{% endfor %}
 			{% endif %}
 		</ul>
