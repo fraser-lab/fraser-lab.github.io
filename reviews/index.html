@@ -13,6 +13,8 @@ group: reviews
 	<div style="font-size: 120% !important; width: 100%">{{ review.title | markdownify }}</div>
 	<div>{{ review.authors | markdownify | remove: '<p>' | remove: '</p>' }}</div>
 	<br>
+	<div><strong>Reviewed by: {{ review.reviewers | markdownify | remove: '<p>' | remove: '</p>' }}</strong></div>
+	<br>
 	{% if review.abstract %}
 	<div>{{ review.abstract | markdownify }}</div>
 	{% endif %}
@@ -65,18 +67,11 @@ group: reviews
 		<ul class="col">
 			<strong>Post-Peer Review</strong>
 			{% for record in review.article %}
-				{% if record.title %}
-				<li>Title: {{record.title | markdownify | remove: '<p>' | remove: '</p>' }}</li>
-				{% endif %}
-				<!--Citation-->
-				{% if record.citation %}
-				<li>Citation: {{record.citation | markdownify | remove: '<p>' | remove: '</p>' }}</li>
-				{% endif %}
 				<!--PMID-->
 				{% if record.pmid %}
 				<li>PMID: <a href="http://www.ncbi.nlm.nih.gov/pubmed/{{record.pmid}}" alt = "pubmed link: {{record.pmid}}"> {{record.pmid}}</a></li>
 				{% endif %}
-				
+
 			{% endfor %}
 		</ul>
 		{% endif %}
