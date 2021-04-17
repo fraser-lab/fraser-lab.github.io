@@ -64,8 +64,8 @@ group: reviews
 		</div>
 		<div class="col">
 		{% if review.article %}
-			<div style="text-indent: -2em"><h5>Post-Peer Review</h5></div>
-			<div style="text-indent: -2em"><h6>Article</h6></div>
+			<h5>Post-Peer Review</h5>
+			<h6>Article</h6>
 			{% for record in review.article %}
 				<!--PMID-->
 				{% if record.pmid %}
@@ -74,7 +74,7 @@ group: reviews
 			{% endfor %}
 
 			{% if review.news %}
-				<div style="text-indent: -2em"><h6>Highlight</h6></div>
+				<br><h6>Highlight</h6>
 				{% for record in review.news %}
 					<!--Citation-->
 					{% if record.title %}
