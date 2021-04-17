@@ -78,9 +78,9 @@ group: reviews
 				{% for record in review.news %}
 					<!--Citation-->
 					{% if record.title %}
-						"{{record.title | markdownify | remove: '<p>' | remove: '</p>' }}."
+						"{{record.title | markdownify | remove: '<p>' | remove: '</p>' | strip }}."
 						{% if record.authors %}
-							{{record.authors | markdownify | remove: '<p>' | remove: '</p>' }}.
+							{{record.authors | markdownify | remove: '<p>' | remove: '</p>' | strip }}.
 						{% endif %}
 						{% if record.journal %}
 							<i>{{record.journal}}.</i>
