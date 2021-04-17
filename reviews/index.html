@@ -31,7 +31,7 @@ group: reviews
 			{% for record in review.peer-review %}
 				<!--Biorxiv-->
 				{% if record.biorxiv %}
-				Biorxiv <a href="http://dx.doi.org/10.1101/{{record.biorxiv}}" alt = "biorxiv preprint link: {{record.biorxiv}}">Preprint</a><br>
+				Biorxiv <a href="http://www.biorxiv.org/content/10.1101/{{record.biorxiv}}" alt = "biorxiv preprint link: {{record.biorxiv}}">Preprint</a><br>
 				{% endif %}
 
 				<!--Arxiv-->
