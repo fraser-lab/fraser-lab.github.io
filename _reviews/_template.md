@@ -8,7 +8,7 @@ image: '/static/img/pub/2019_young.jpg'
 
 peer-review:
 - disqus: 1xokwvr
-  biorxiv: https://www.biorxiv.org/content/10.1101/274183v1
+  biorxiv: 274183v1
   <!-- alternatively: arxiv, chemrxiv, preprintsorg, zenodo -->
 
 article:
