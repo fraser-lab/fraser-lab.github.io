@@ -75,32 +75,33 @@ group: reviews
 
 			{% if review.news %}
 				<div style="text-indent: -2em"><h6>Highlight</h6></div>
-				{% for record in review.news %}
+				{% if review.news %}
 					<!--Citation-->
-					{% if record.title %}
-						"{{record.title | markdownify | remove: '<p>' | remove: '</p>' | strip }}."
-						{% if record.authors %}
-							{{record.authors | markdownify | remove: '<p>' | remove: '</p>' | strip }}.
-						{% endif %}
-						{% if record.journal %}
-							<i>{{record.journal}}.</i>
-						{% endif %}
-						{% if review.date %}
-							{{review.date | split: "-" | first }}.
-						{% endif %}
+					{% if review.news.title %}
+						"{{review.news.title | markdownify | remove: '<p>' | remove: '</p>' | strip }}."
 					{% endif %}
+					{% if review.news.authors %}
+						{{review.news.authors | markdownify | remove: '<p>' | remove: '</p>' | strip }}.
+					{% endif %}
+					{% if review.news.journal %}
+						<i>{{review.news.journal}}.</i>
+					{% endif %}
+					{% if review.date %}
+						{{review.date | split: "-" | first }}.
+					{% endif %}
+					<br>
 
 					<!--zenodo record-->
-					{% if record.zenodo %}
-					Zenodo <a href="https://www.zenodo.org/record/{{record.zenodo}}" alt = "link to review as zenodo: {{record.zenodo}}">Record</a><br>
+					{% if review.news.zenodo %}
+					Zenodo <a href="https://www.zenodo.org/record/{{review.news.zenodo}}" alt = "link to review as zenodo: {{review.news.zenodo}}">Record</a><br>
 					{% endif %}
 
 					<!--PDF-->
 					{% if record.pdf %}
-					<a href="{{record.pdf}}" alt="link to full text: {{record.pdf}}">Full Text</a><br>
+					<a href="{{review.news.pdf}}" alt="link to full text: {{review.news.pdf}}">Full Text</a><br>
 					{% endif %}
 
-				{% endfor %}
+				{% endif %}
 			{% endif %}
 		{% endif %}
 
