@@ -6,5 +6,5 @@ reviewers: "Young ID, Fraser JS"
 
 peer-review:
 - disqus: 2d8qwn5
-  biorxiv: 2020.10.07.307546v1
+  biorxiv_versioned: 2020.10.07.307546v1
 ---

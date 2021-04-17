@@ -6,7 +6,7 @@ reviewers: "Díaz RE, Fraser JS"
 
 peer-review:
 - disqus: 2desofk
-  biorxiv: 605121v2
+  biorxiv_versioned: 605121v2
 
 article:
 - pdf: https://pubs.acs.org/doi/10.1021/acs.jcim.0c01126

@@ -6,5 +6,5 @@ reviewers: "Pellegrino J, Fraser JS"
 
 peer-review:
 - disqus: 2aze9pf
-  biorxiv: 2020.02.09.940510v1
+  biorxiv_versioned: 2020.02.09.940510v1
 ---

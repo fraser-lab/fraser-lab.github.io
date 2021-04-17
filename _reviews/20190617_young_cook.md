@@ -6,7 +6,7 @@ reviewers: "Young ID, Fraser JS"
 
 peer-review:
 - disqus: 22xpkty
-  biorxiv: 673566v1
+  biorxiv_versioned: 673566v1
 
 article:
 - pdf: https://www.sciencedirect.com/science/article/pii/S1047847719302138?via%3Dihub

@@ -6,5 +6,5 @@ reviewers: "Estevam G, Fraser JS"
 
 peer-review:
 - disqus: 2ek4qjc
-  biorxiv: 2020.10.14.338756v1
+  biorxiv_versioned: 2020.10.14.338756v1
 ---

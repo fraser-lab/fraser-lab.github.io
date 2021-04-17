@@ -6,7 +6,7 @@ reviewers: "Wolff A, Fraser JS"
 
 peer-review:
 - disqus: 26dyfu3
-  biorxiv: 805424v1
+  biorxiv_versioned: 805424v1
 
 article:
 - pdf: https://www.nature.com/articles/s41467-020-14933-6

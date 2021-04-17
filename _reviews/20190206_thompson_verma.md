@@ -6,7 +6,7 @@ reviewers: "Thompson E, Fraser JS"
 
 peer-review:
 - disqus: 1ztc6zo
-  biorxiv: 540039v1
+  biorxiv_versioned: 540039v1
 
 article:
 - pdf: https://www.nature.com/articles/s41467-020-16804-6

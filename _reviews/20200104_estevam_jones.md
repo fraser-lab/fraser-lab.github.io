@@ -6,7 +6,7 @@ reviewers: "Estevam G, Fraser JS"
 
 peer-review:
 - disqus: 27iu4y6
-  biorxiv: 623108v3
+  biorxiv_versioned: 623108v3
 
 article:
 - pdf: https://elifesciences.org/articles/54895

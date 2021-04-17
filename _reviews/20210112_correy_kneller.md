@@ -6,5 +6,5 @@ reviewers: "Correy G, Fraser JS"
 
 peer-review:
 - disqus: 2f8pxlq
-  biorxiv: 2021.01.12.426388v1
+  biorxiv_versioned: 2021.01.12.426388v1
 ---

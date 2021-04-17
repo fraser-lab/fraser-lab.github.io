@@ -6,7 +6,7 @@ reviewers: "Coyote-Maestas W, Fraser JS"
 
 peer-review:
 - disqus: 2eed3r2
-  biorxiv: 2020.07.28.225284v2
+  biorxiv_versioned: 2020.07.28.225284v2
 
 article:
 - pdf: https://elifesciences.org/articles/63775

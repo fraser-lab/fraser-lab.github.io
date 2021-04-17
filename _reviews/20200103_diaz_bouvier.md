@@ -6,5 +6,5 @@ reviewers: "Diaz RE, Young ID, Fraser JS"
 
 peer-review:
 - disqus: 27is5rt
-  biorxiv: 2020.01.03.893669v1
+  biorxiv_versioned: 2020.01.03.893669v1
 ---

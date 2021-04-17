@@ -6,5 +6,5 @@ reviewers: "Fraser JS"
 
 peer-review:
 - disqus: 2a7ngzw
-  biorxiv: 2020.05.13.092981v2
+  biorxiv_versioned: 2020.05.13.092981v2
 ---

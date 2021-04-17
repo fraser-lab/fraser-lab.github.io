@@ -6,7 +6,7 @@ reviewers: "Barad B, Fraser JS"
 
 peer-review:
 - disqus: 24cfl1i
-  biorxiv: 722991v2
+  biorxiv_versioned: 722991v2
 
 article:
 - pdf: https://www.cambridge.org/core/journals/microscopy-and-microanalysis/article/measurement-of-atom-resolvability-in-cryoem-maps-with-qscores/D67FE3A46427617B51EDF0C4EB332066

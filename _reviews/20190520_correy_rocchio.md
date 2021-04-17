@@ -6,7 +6,7 @@ reviewers: "Correy G, Fraser JS"
 
 peer-review:
 - disqus: 22r07rv
-  biorxiv: 642686v1
+  biorxiv_versioned: 642686v1
 
 article:
 - pdf: http://scripts.iucr.org/cgi-bin/paper?S2059798319014475

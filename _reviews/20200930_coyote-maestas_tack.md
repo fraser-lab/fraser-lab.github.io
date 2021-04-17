@@ -6,7 +6,7 @@ reviewers: "Coyote-Maestas W, Fraser JS"
 
 peer-review:
 - disqus: 2cxhqrd
-  biorxiv: 2020.09.30.320812v1
+  biorxiv_versioned: 2020.09.30.320812v1
 
 article: 
 - pdf: https://www.embopress.org/doi/full/10.15252/msb.202010179

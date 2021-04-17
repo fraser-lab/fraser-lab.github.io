@@ -6,7 +6,7 @@ reviewers: "Wankowicz S, Pierce L, Fraser JS"
 
 peer-review:
 - disqus: 24kzuvq
-  biorxiv: 724567v1
+  biorxiv_versioned: 724567v1
 
 article:
 - pdf: http://scripts.iucr.org/cgi-bin/paper?S2059798319015134

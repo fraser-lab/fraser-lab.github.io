@@ -6,7 +6,7 @@ reviewers: "Fraser JS"
 
 peer-review:
 - disqus: z8jag1
-  biorxiv: 022368v1
+  biorxiv_versioned: 022368v1
 
 article:
 - pdf: https://www.pnas.org/content/112/44/13439

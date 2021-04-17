@@ -6,7 +6,7 @@ reviewers: "Diaz RE, Chaires HA, Fraser JS"
 
 peer-review:
 - disqus: 2auqwng
-  biorxiv: 2020.03.30.016204v1
+  biorxiv_versioned: 2020.03.30.016204v1
 
 article:
 - pdf: https://pubs.acs.org/doi/10.1021/acsinfecdis.0c00263

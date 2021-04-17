@@ -6,7 +6,7 @@ reviewers: "Wankowicz S, Fraser JS"
 
 peer-review:
 - disqus: 2c1buq7
-  biorxiv: 2020.08.19.256909v1
+  biorxiv_versioned: 2020.08.19.256909v1
 
 article:
 - pdf: https://www.nature.com/articles/s41422-020-00432-2
