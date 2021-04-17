@@ -10,8 +10,8 @@ group: reviews
 {% for review in site.reviews reversed %}
 	<hr>
 	<div class="row" style="padding-top: 60px; margin-top: -60px;" id="{{review.date}}">
-	<h5>Review of: "{{ review.title | markdownify | remove: '<p>' | remove: '</p>' | strip }}"</h5><br>
-	<div>Article by: {{ review.authors | markdownify | remove: '<p>' | remove: '</p>' }}<br>
+	<div><h5>Review of: "{{ review.title | markdownify | remove: '<p>' | remove: '</p>' | strip }}"</h5><br>
+	Article by: {{ review.authors | markdownify | remove: '<p>' | remove: '</p>' }}<br>
 	<strong>Reviewed by: {{ review.reviewers | markdownify | remove: '<p>' | remove: '</p>' }}</strong><br><br>
 	</div>
 	{% if review.abstract %}
