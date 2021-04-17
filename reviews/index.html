@@ -12,7 +12,7 @@ group: reviews
 	<div class="row" style="padding-top: 60px; margin-top: -60px;" id="{{review.date}}">
 	<h5>Review of: "{{ review.title | markdownify | remove: '<p>' | remove: '</p>' | strip }}"</h5><br>
 	<div>Article by: {{ review.authors | markdownify | remove: '<p>' | remove: '</p>' }}<br>
-	<i>Reviewed by: {{ review.reviewers | markdownify | remove: '<p>' | remove: '</p>' }}</i><br><br>
+	<strong>Reviewed by: {{ review.reviewers | markdownify | remove: '<p>' | remove: '</p>' }}</strong><br><br>
 	</div>
 	{% if review.abstract %}
 	<div>{{ review.abstract | markdownify }}</div>
