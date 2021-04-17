@@ -87,12 +87,13 @@ group: reviews
 					<!--zenodo record-->
 					{% if record.zenodo %}
 					Zenodo Record: <a href="https://www.zenodo.org/record/{{record.zenodo}}" alt = "link to review as zenodo: {{record.zenodo}}">{{record.zenodo}}</a><br>
+					{% endif %}
 
 					<!--PDF-->
 					{% if record.pdf %}
 					Full Text: <a href="{{record.pdf}}" alt="link to full text: {{record.pdf}}">{{record.pdf}}</a><br>
-
 					{% endif %}
+
 				{% endfor %}
 			{% endif %}
 		{% endif %}
