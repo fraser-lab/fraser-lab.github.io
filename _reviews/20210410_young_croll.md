@@ -11,10 +11,10 @@ peer-review:
 
 article:
 - pmid: 33460600
-- pdf: "https://www.sciencedirect.com/science/article/pii/S0006349521000461"
+  pdf: "https://www.sciencedirect.com/science/article/pii/S0006349521000461"
 
 news:
 - title: "Amenders Assemble!"
-- authors: "Young ID, Fraser JS"
-- zenodo: "4678069"
+  authors: "Young ID, Fraser JS"
+  zenodo: "4678069"
 ---
