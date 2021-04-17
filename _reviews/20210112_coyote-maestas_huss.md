@@ -15,6 +15,6 @@ article:
 news:
 - title: "Virus Engineering: ORACLE reveals a bright future to fight bacteria"
 - authors: "Coyote-Maestas W, Fraser JS"
-# - pdf:
+- pdf: "https://elifesciences.org/articles/68277"
 - pmid: 33856343
 ---
