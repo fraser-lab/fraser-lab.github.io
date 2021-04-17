@@ -31,32 +31,32 @@ group: reviews
 			{% for record in review.peer-review %}
 				<!--Biorxiv-->
 				{% if record.biorxiv %}
-				Biorxiv Preprint: <a href="http://dx.doi.org/10.1101/{{record.biorxiv}}" alt = "biorxiv preprint link: {{record.biorxiv}}"> {{record.biorxiv | split: "." | last }}</a><br>
+				Biorxiv <a href="http://dx.doi.org/10.1101/{{record.biorxiv}}" alt = "biorxiv preprint link: {{record.biorxiv}}">Preprint</a><br>
 				{% endif %}
 
 				<!--Arxiv-->
 				{% if record.arxiv %}
-				arXiv Preprint: <a href="https://arxiv.org/abs/{{record.arxiv}}" alt = "arxiv preprint link: {{record.arxiv}}"> {{record.arxiv}}</a><br>
+				arXiv <a href="https://arxiv.org/abs/{{record.arxiv}}" alt = "arxiv preprint link: {{record.arxiv}}">Preprint</a><br>
 				{% endif %}
 
 				<!--Chemrxiv-->
 				{% if record.chemrxiv %}
-				ChemRxiv Preprint: <a href=" https://doi.org/10.26434/chemrxiv.{{record.chemrxiv}}" alt = "chemrxiv preprint link: {{record.chemrxiv}}"> {{record.chemrxiv}}</a><br>
+				ChemRxiv <a href=" https://doi.org/10.26434/chemrxiv.{{record.chemrxiv}}" alt = "chemrxiv preprint link: {{record.chemrxiv}}">Preprint</a><br>
 				{% endif %}
 
 				<!--Preprints.org -->
 				{% if record.preprintsorg %}
-				Preprints.org Preprint: <a href=" https://www.preprints.org/manuscript/{{record.preprintsorg}}" alt = "preprints.org preprint link: {{record.preprintsorg}}"> {{record.preprintsorg}}</a><br>
+				Preprints.org <a href=" https://www.preprints.org/manuscript/{{record.preprintsorg}}" alt = "preprints.org preprint link: {{record.preprintsorg}}">Preprint</a><br>
 				{% endif %}
 
 				<!--Disqus comment-->
 				{% if record.disqus %}
-				Disqus Comment: <a href="http://disq.us/p/{{record.disqus}}" alt = "link to review as comment: {{record.disqus}}"> {{record.disqus}}</a><br>
+				Disqus <a href="http://disq.us/p/{{record.disqus}}" alt = "link to review as comment: {{record.disqus}}">Comment</a><br>
 				{% endif %}
 
 				<!--zenodo record-->
 				{% if record.zenodo %}
-				Zenodo Record: <a href="https://www.zenodo.org/record/{{record.zenodo}}" alt = "link to review as zenodo: {{record.zenodo}}"> {{record.zenodo}}</a><br>
+				Zenodo <a href="https://www.zenodo.org/record/{{record.zenodo}}" alt = "link to review as zenodo: {{record.zenodo}}">Record</a><br>
 				{% endif %}
 
 			{% endfor %}
@@ -76,22 +76,28 @@ group: reviews
 			{% if review.news %}
 				<div style="text-indent: -2em"><h6>Highlight</h6></div>
 				{% for record in review.news %}
+					<!--Citation-->
 					{% if record.title %}
-					Title: {{record.title | markdownify | remove: '<p>' | remove: '</p>' }}<br>
-					{% endif %}
-
-					{% if record.authors %}
-					Authors: {{record.authors | markdownify | remove: '<p>' | remove: '</p>' }}<br>
+						"{{record.title | markdownify | remove: '<p>' | remove: '</p>' }}."
+						{% if record.authors %}
+							{{record.authors | markdownify | remove: '<p>' | remove: '</p>' }}.
+						{% endif %}
+						{% if record.journal %}
+							<i>{{record.journal}}.</i>
+						{% endif %}
+						{% if review.date %}
+							{{review.date | split: "-" | first }}.
+						{% endif %}
 					{% endif %}
 
 					<!--zenodo record-->
 					{% if record.zenodo %}
-					Zenodo Record: <a href="https://www.zenodo.org/record/{{record.zenodo}}" alt = "link to review as zenodo: {{record.zenodo}}">{{record.zenodo}}</a><br>
+					Zenodo <a href="https://www.zenodo.org/record/{{record.zenodo}}" alt = "link to review as zenodo: {{record.zenodo}}">Record</a><br>
 					{% endif %}
 
 					<!--PDF-->
 					{% if record.pdf %}
-					Full Text: <a href="{{record.pdf}}" alt="link to full text: {{record.pdf}}">{{record.pdf}}</a><br>
+					<a href="{{record.pdf}}" alt="link to full text: {{record.pdf}}">Full Text</a><br>
 					{% endif %}
 
 				{% endfor %}
