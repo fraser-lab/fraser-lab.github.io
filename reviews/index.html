@@ -65,7 +65,7 @@ group: reviews
 		<div class="col">
 		{% if review.article %}
 			<h5>Post-Peer Review</h5>
-			<h6>Article</h6>
+			{% if review.news %}<h6>Article</h6>{% endif %}
 			{% for record in review.article %}
 				<!--PMID-->
 				{% if record.pmid %}
