@@ -44,7 +44,7 @@ group: publications
 
 		<!--Biorxiv specific version - optional -->
 		{% if publication.biorxiv_versioned %}
-		<li>Biorxiv Preprint: <a href="http://www.biorxiv.org/content/10.1101/{{publication.biorxiv}}" alt = "biorxiv preprint link: {{publication.biorxiv}}"> {{publication.biorxiv | split: "." | last }}</a></li>
+		<li>Biorxiv Preprint: <a href="http://www.biorxiv.org/content/10.1101/{{publication.biorxiv_versioned}}" alt = "biorxiv preprint link: {{publication.biorxiv_versioned}}"> {{publication.biorxiv_versioned | split: "." | last }}</a></li>
 		{% endif %}
 
 		<!--Arxiv - optional -->

@@ -7,7 +7,7 @@ image: '/static/img/pub/2021_coyote-maestas.jpg'
 
 peer-review:
 - disqus: 2eed3r2
-  biorxiv: 2020.07.28.225284
+  biorxiv_versioned: 2020.07.28.225284v2
 
 article:
 - pmid: 33087930
