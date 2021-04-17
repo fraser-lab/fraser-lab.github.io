@@ -1,5 +1,5 @@
 ---
-title: "Review of \"Mapping the Functional Landscape of the Receptor Binding Domain of T7 Bacteriophage by Deep Mutational Scanning\""
+title: "Mapping the Functional Landscape of the Receptor Binding Domain of T7 Bacteriophage by Deep Mutational Scanning"
 date: '2021-04-15'
 authors: "Huss P, Meger A, Leander M, Nishikawa K, Raman S"
 reviewers: "Coyote-Maestas W, Fraser JS"
