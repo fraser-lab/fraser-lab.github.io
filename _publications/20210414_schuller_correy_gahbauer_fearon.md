@@ -5,7 +5,7 @@ journal: 'Science Advances'
 pub_date: '2021-04-14'
 image: '/static/img/pub/2020_schuller_correy_gahbauer_fearon.jpg'
 pdf: 'https://fraserlab.com/macrodomain/'
-pmid: '33269349'
+pmid: '33853786'
 pmcid: 'PMC7709169'
 biorxiv: 2020.11.24.393405
 pdf: 'http://cdn.fraserlab.com/publications/2021_schuller_correy_gahbauer_fearon.pdf'
