@@ -1,15 +1,24 @@
 ---
-title: "All things ever are not quite fully explained."
-date: "2021-04-13"
-pdf: "url.pointing/to/manuscript (optional)"
-zenodo:
-- code : 8675309
-citation: "Bragg W, **Fraser JS**. *Biopysical Journal.* 2021. (use this field if piece is hosted by a journal)"
-authors: "Fraser JS (use this field if self-publishing)"
-abstract: "Nigel knows most things, but not quite everything. We present a proof by contradiction to demonstrate this point."
-image: "/static/img/pub/cartoon_drawing.jpg"
+title: "Stimulus-responsive self-assembly of protein-based fractals by computational design"
+date: '2019-06-17'
+authors: "Hernández NE, Hansen WA, Zhu D, Shea ME, Khalid M, Manichev V, Putnins M, Chen M, Dodge AG, Yang L, Marrero-Berríos I, Banal M, Rechani P, Gustafsson T, Feldman LC, Lee SH, Wackett LP, Dai W, Khare SD"
+reviewers: "Young ID, Fraser JS"
+image: '/static/img/pub/2019_young.jpg'
+<!-- one-sentence abstract optional under field "abstract" -->
+
+peer-review:
+- disqus: 1xokwvr
+  biorxiv_versioned: 274183v1
+  <!-- alternatively: biorxiv, arxiv, chemrxiv, preprintsorg, zenodo -->
+
 article:
-- title: "An explanation of all things ever. (this should probably be first)"
-- citation: "Moriarty NW. *Computational Crystallography Newsletter.* 2021."
-- pmid: 33460600
+- pdf: https://doi.org/10.1038/s41557-019-0277-y
+  pmid: 31209296
+
+news:
+- title: "News & Views: Biomaterials in non-integer dimensions"
+  authors: "Young ID, Fraser JS"
+  journal: "Nature Chemistry"
+  pdf: 'http://cdn.fraserlab.com/publications/2019_young.pdf'
+  pmid: 31209301
 ---

@@ -50,7 +50,7 @@ I like to take an active role in the preparation of all our manuscripts, and I h
 <br/>
 
 ## <a id="peer_review">Peer Review</a>
-We believe that transparency in peer review is critical to improving the quality and  professionalism of reviews. We only review manuscripts that have been posted on BioRxiv and we post our peer review comments publicly on  Biorxiv as well. Peer review is also viewed as a training opportunity and all lab members who co-review with JF are credited for their contribution to the review. JF recognizes that he holds certain privileges that allow him to post peer review comments non-anonymously without fear of repercussion. Unfortunately, this is not the case for all researchers. JF is willing to post reviews on behalf of anyone, both in and outside of the Fraser lab, who wishes to remain anonymous.
+We believe that transparency in [peer review](/reviews/) is critical to improving the quality and  professionalism of reviews. We only review manuscripts that have been posted on BioRxiv and we post our peer review comments publicly on  Biorxiv as well. Peer review is also viewed as a training opportunity and all lab members who co-review with JF are credited for their contribution to the review. JF recognizes that he holds certain privileges that allow him to post peer review comments non-anonymously without fear of repercussion. Unfortunately, this is not the case for all researchers. JF is willing to post reviews on behalf of anyone, both in and outside of the Fraser lab, who wishes to remain anonymous.
 
 Guidelines for how to engage in respectful and constructive peer review can be found on the [Peer Review in the Life Sciences course page](/peer_review/how_to).
 
