@@ -10,8 +10,8 @@ pmcid: 'PMC7709169'
 biorxiv: 2020.11.24.393405
 pdf: 'http://cdn.fraserlab.com/publications/2021_schuller_correy_gahbauer_fearon.pdf'
 zenodo:
-- code: '3932380'
-  description: Initial UCSF C2 crystal form screen
+- code: '4716363'
+  description: UCSF C2 crystal form screen
 - code: '4606901'
   description: Docking Fragment Screen
 - code: '4609301'
