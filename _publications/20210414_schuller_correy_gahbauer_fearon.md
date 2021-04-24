@@ -12,10 +12,10 @@ pdf: 'http://cdn.fraserlab.com/publications/2021_schuller_correy_gahbauer_fearon
 zenodo:
 - code: '4716363'
   description: UCSF C2 crystal form screen
+- code: '4716089'
+  description: UCSF P43 crystal form screen
 - code: '4606901'
   description: Docking Fragment Screen
-- code: '4609301'
-  description: PanDDA Dataset
 - code: '4628855'
   description: Differential Scanning Fluorimetry
 - code: '4628875'
