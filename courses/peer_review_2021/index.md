@@ -50,7 +50,7 @@ Students will be paired to serve as co-Discussion Leaders for one manuscript the
 
 After that, the Discussion Leaders will present a joint talk similar in content and quality to a Tetrad or QBC Journal Club presentation, with an estimated 30-40 minute duration (noting that interruptions and discussion may take us closer to an hour).
 
-Prior to the presentation, the co-discussion Leaders will compose one joint review, reflecting their original thoughts on the manuscript. After the group discussion, the pair will edit their review to reflect what emerged in the discussion. The review will be posted (either named or anonymously through James Fraser acting as an "editor") as comments associated with the preprint on BioRxiv or other servers.
+The co-discussion Leaders will compose one joint written peer review, with a first draft due immediately to James prior to their presentation, reflecting their original thoughts on the manuscript. After the group discussion, the pair will edit their review to reflect what emerged in the discussion. The review will be posted (either named or anonymously through James Fraser acting as an "editor") as comments associated with the preprint on BioRxiv or other servers with a June 1st 5PM deadline.
 
 ### Please send your paper selections to James by May 3rd so people can start reading!
 
