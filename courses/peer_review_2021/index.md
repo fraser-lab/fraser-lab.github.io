@@ -79,7 +79,9 @@ The co-discussion Leaders will compose one joint written peer review, with a fir
 
 Optional event at 8AM PT:
 
+<div id="html" markdown="0">
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Thinking about posting a preprint or want to learn more? Join <a href="https://twitter.com/jessicapolka?ref_src=twsrc%5Etfw">@jessicapolka</a> <a href="https://twitter.com/ASAPbio_?ref_src=twsrc%5Etfw">@ASAPbio_</a> &amp; I to chat about preprints and get your questions answered! <br><br>“Everything you wanted to know about preprints but were afraid to ask” <br><br>Monday May 10 at 11amET on <a href="https://twitter.com/TwitterSpaces?ref_src=twsrc%5Etfw">@TwitterSpaces</a></p>&mdash; Prachee Avasthi (@PracheeAC) <a href="https://twitter.com/PracheeAC/status/1387745974089617410?ref_src=twsrc%5Etfw">April 29, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
 
 - Intro to class, overview of preprints to review, expectations for presentations and readers
 - Panel:
