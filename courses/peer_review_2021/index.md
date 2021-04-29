@@ -95,3 +95,23 @@ Optional event at 8AM PT:
 - Writing and Receiving Peer Review and expecations for written reviews
   - annotated public review vs. private feedback
   - write a blog post about it (Prachee)
+
+### May 14
+
+
+### May 17
+
+- [A biosensor to gauge protein homeostasis resilience differences in the nucleus compared to cytosol of mammalian cells](https://doi.org/10.1101/2021.04.19.440383)
+
+### May 21
+
+
+### May 24
+
+
+### May 26
+
+
+### May 28
+
+ 
