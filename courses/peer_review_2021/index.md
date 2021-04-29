@@ -46,9 +46,13 @@ Regardless of how any individual paper is reviewed – and the experience is usu
 
 ## Course structure
 
-Students will be paired to serve as co-Discussion Leaders for one manuscript they select that is posted on BioRxiv.  For each class, everyone should be prepared by having read each paper carefully. The Discussion Leaders will prepare a joint talk similar in content and quality to a Tetrad or QBC Journal Club presentation, with an estimated 30-40 minute duration (noting that interruptions and discussion may take us closer to an hour).
+Students will be paired to serve as co-Discussion Leaders for one manuscript they select that is posted on BioRxiv.  For each class, everyone should be prepared by having read each paper carefully. We will start each day by going around and each stating: 1 thing we found confusing about the paper and 1 thing we found cool about the paper. 
 
-Prior to the presentation, the co-Discussion Leaders will compose one joint review, reflecting their original thoughts on the manuscript. After the group discussion, the pair will edit their review to reflect what emerged in the discussion. The review will be posted (either named or anonymously through James Fraser acting as an "editor") as comments associated with the preprint on BioRxiv or other servers.
+After that, the Discussion Leaders will present a joint talk similar in content and quality to a Tetrad or QBC Journal Club presentation, with an estimated 30-40 minute duration (noting that interruptions and discussion may take us closer to an hour).
+
+Prior to the presentation, the co-discussion Leaders will compose one joint review, reflecting their original thoughts on the manuscript. After the group discussion, the pair will edit their review to reflect what emerged in the discussion. The review will be posted (either named or anonymously through James Fraser acting as an "editor") as comments associated with the preprint on BioRxiv or other servers.
+
+### Please send your paper selections to James by May 3rd so people can start reading!
 
 - Writing and receiving peer review:
     - [Fraser lab how-to-review](/peer_review/how_to)
@@ -72,7 +76,7 @@ Prior to the presentation, the co-Discussion Leaders will compose one joint revi
 - Don't be an a$$hole
 
 ### May 10
-- Intro to class, guidelines for selecting your preprint to review, expectations for presentations
+- Intro to class, overview of preprints to review, expectations for presentations and readers
 - Panel:
   - [Michael Eisen](http://eisenlab.org/) - [Editor in Chief of eLife](https://elifesciences.org/about/people)
   - [Andrej Sali](https://salilab.org/) - [Editor of Structure](https://www.cell.com/structure/editors)
@@ -83,4 +87,4 @@ Prior to the presentation, the co-Discussion Leaders will compose one joint revi
   - [Jessica Polka](https://en.wikipedia.org/wiki/Jessica_Polka) - [Executive Director of ASAPbio](https://asapbio.org/dt_team/jessica-polka)
 - Writing and Receiving Peer Review and expecations for written reviews
   - annotated public review vs. private feedback
-  - writen blog post about it (Prachee)
+  - write a blog post about it (Prachee)
