@@ -15,7 +15,7 @@ permalink: /peer_review/
 
 **Instructors:** [James Fraser](mailto:jfraser@fraserlab.com)
 
-<figure class="text-center">
+<figure>
 <blockquote class="blockquote">
 "At its best, peer review is a slow and careful evaluation of new research by appropriate experts. It involves multiple rounds of revision that removes errors, strengthens analyses, and noticeably improves manuscripts.
 
@@ -120,7 +120,7 @@ Optional event at 8AM PT:
 - [Mechanism and role of astrogliosis in the pathogenesis of HIV-associated pain](https://www.biorxiv.org/content/10.1101/2021.04.28.441838v1.full)
 
 ### May 26
-
+- [Precise and pervasive phasic bursting in locus coeruleus during maternal behavior](https://www.biorxiv.org/content/10.1101/2021.03.31.437751v1.full)
 
 ### May 28
 - [A massively parallel reporter assay reveals focused and broadly encoded RNA localization signals in neurons](https://www.biorxiv.org/content/10.1101/2021.04.27.441590v1.full)
