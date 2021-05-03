@@ -15,13 +15,6 @@ permalink: /peer_review/
 
 **Instructors:** [James Fraser](mailto:jfraser@fraserlab.com)
 
-## Course Description:
-
-By far, the most widely accepted means of communication is through publishing papers in scientific journals. The process of peer review plays an important role in refining the body of work prior to final publication. Yet, peer review is rarely taught to students in a formal setting, and is largely dependent on individual labs and mentors, leading to variable standards of peer review. Reflecting the evolution of technology, society and scientific culture, preprints have gained popularity in the life sciences in recent years, resulting in a shift in how progress in the life sciences is communicated, and raising questions of how we, as a scientific community, may work towards optimizing the peer review process in the life sciences. This class will use preprint servers (for example, BioRxiv) as a platform for formally teaching students how to peer review manuscripts in a critical and constructive way.
-
-We have modeled this class based on [a course at NYU](http://bhabhaekiertlab.org/teaching) organized by Gira Bhabha, Damian Ekiert, Liam Holt & Timothee Lionnet.
-
-## Background
 <figure class="text-center">
 <blockquote class="blockquote">
 "At its best, peer review is a slow and careful evaluation of new research by appropriate experts. It involves multiple rounds of revision that removes errors, strengthens analyses, and noticeably improves manuscripts.
@@ -35,6 +28,12 @@ from [The Lancet has made one of the biggest retractions in modern history. How 
 ](https://www.theguardian.com/commentisfree/2020/jun/05/lancet-had-to-do-one-of-the-biggest-retractions-in-modern-history-how-could-this-happen)
   </figcaption>
 </figure>
+
+## Course Description:
+
+By far, the most widely accepted means of communication is through publishing papers in scientific journals. The process of peer review plays an important role in refining the body of work prior to final publication. Yet, peer review is rarely taught to students in a formal setting, and is largely dependent on individual labs and mentors, leading to variable standards of peer review. Reflecting the evolution of technology, society and scientific culture, preprints have gained popularity in the life sciences in recent years, resulting in a shift in how progress in the life sciences is communicated, and raising questions of how we, as a scientific community, may work towards optimizing the peer review process in the life sciences. This class will use preprint servers (for example, BioRxiv) as a platform for formally teaching students how to peer review manuscripts in a critical and constructive way.
+
+We have modeled this class based on [a course at NYU](http://bhabhaekiertlab.org/teaching) organized by Gira Bhabha, Damian Ekiert, Liam Holt & Timothee Lionnet.
 
 ## Racism and Bias in Peer review
 
