@@ -23,15 +23,22 @@ We have modeled this class based on [a course at NYU](http://bhabhaekiertlab.org
 
 ## Background
 
-> At its best, peer review is a slow and careful evaluation of new research by appropriate experts. It involves multiple rounds of revision that removes errors, strengthens analyses, and noticeably improves manuscripts.
+<blockquote class="blockquote">
+At its best, peer review is a slow and careful evaluation of new research by appropriate experts. It involves multiple rounds of revision that removes errors, strengthens analyses, and noticeably improves manuscripts.
+
 At its worst, it is merely window dressing that gives the unwarranted appearance of authority, a cursory process which confers no real value, enforces orthodoxy, and overlooks both obvious analytical problems and outright fraud entirely.
+
 Regardless of how any individual paper is reviewed – and the experience is usually somewhere between the above extremes – the sad truth is peer review in its entirety is struggling, and retractions like this drag its flaws into an incredibly bright spotlight." 
+</blockquote>
 
 from [The Lancet has made one of the biggest retractions in modern history. How could this happen?
 ](https://www.theguardian.com/commentisfree/2020/jun/05/lancet-had-to-do-one-of-the-biggest-retractions-in-modern-history-how-could-this-happen)
 
 
 ## Racism and Bias in Peer review
+
+We idealize peer review process as an unbiased assessment of science. But bias creeps in to all aspects of evaluation, especially if the evaluators are not willing to acknowledge their own potential biases. These biases accumulate and manifest in harming the careers of scientists from historically marginalized groups.
+
 - [Unprofessional peer reviews disproportionately harm underrepresented groups in STEM](https://peerj.com/articles/8247/)
 - [Racism in Science: We need to act now](https://elifesciences.org/articles/59636)
 - [Race, Ethnicity, and NIH Research Awards](https://science.sciencemag.org/content/333/6045/1015)
@@ -43,11 +50,11 @@ from [The Lancet has made one of the biggest retractions in modern history. How 
 
 ### Please send your paper selections to James by May 3rd so people can start reading!
 
-Students will be paired to serve as co-Discussion Leaders for one manuscript they select that is posted on BioRxiv.  For each class, everyone should be prepared by having read each paper carefully. We will start each day by going around and each stating: 1 thing we found confusing about the paper and 1 thing we found cool about the paper. 
+Students will be paired to serve as "Co-Discussion Leaders" for one BioRxiv manuscript of their choosing.  The co-discussion leaders will compose one joint written peer review, with a first draft due immediately to James prior to their presentation, reflecting their original thoughts on the manuscript. For each class, everyone, not just the co-discussion leaders, should be prepared by having the paper carefully. We will start each day by going to each participating and asking them to share: 1 confusing thing about the paper and 1 cool thing about the paper. 
 
-After that, the Discussion Leaders will present a joint talk similar in content and quality to a Tetrad or QBC Journal Club presentation, with an estimated 30-40 minute duration (noting that interruptions and discussion may take us closer to an hour).
+After the round of sharing, the Discussion Leaders will present a joint talk similar in content and quality to a Tetrad or QBC Journal Club presentation, with an estimated 30-40 minute duration (noting that interruptions and discussion may take us closer to an hour).
 
-The co-discussion Leaders will compose one joint written peer review, with a first draft due immediately to James prior to their presentation, reflecting their original thoughts on the manuscript. After the group discussion, the pair will edit their review to reflect what emerged in the discussion. The review will be posted (either named or anonymously through James Fraser acting as an "editor") as comments associated with the preprint on BioRxiv or other servers with a June 1st 5PM deadline.
+ After the group discussion, the co-discussion leaders will edit their review to reflect what emerged in the discussion. The deadline for this "final" review is  June 1st 5PM. The review will be posted (either named or anonymously through James Fraser acting as an "editor") as comments associated with the preprint on BioRxiv or a Zenodo record.
 
 - Writing peer reviews:
     - [Fraser lab how-to-review](/peer_review/how_to)
@@ -79,16 +86,6 @@ Optional event at 8AM PT:
 </div>
 
 - Intro to class, overview of preprints to review, expectations for presentations and readers
-
-# Some good guidelines for reviewing
-
-- Don't be an a$$hole
-- Consider that you may have misunderstood something and ask for clarification
-- Be constructive
-- Have empathy, imagine receiving the review!
-- What should be public, what should be private?
-- Don't be an a$$hole
-
 - Panel:
   - [Michael Eisen](http://eisenlab.org/) - [Editor in Chief of eLife](https://elifesciences.org/about/people)
   - [Andrej Sali](https://salilab.org/) - [Editor of Structure](https://www.cell.com/structure/editors)
@@ -98,8 +95,16 @@ Optional event at 8AM PT:
 - New developments in peer review:
   - [Jessica Polka](https://en.wikipedia.org/wiki/Jessica_Polka) - [Executive Director of ASAPbio](https://asapbio.org/dt_team/jessica-polka)
 - Writing and Receiving Peer Review and expecations for written reviews
-  - annotated public review vs. private feedback
-  - write a blog post about it (Prachee)
+
+# Some good guidelines for reviewing
+
+- Don't be an a$$hole
+- Consider that you may have misunderstood something and ask for clarification
+- Be constructive
+- Have empathy, imagine receiving the review!
+- What should be public, what should be private?
+- Consider your own biases
+- Don't be an a$$hole
 
 ### May 14
 
