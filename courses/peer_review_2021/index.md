@@ -49,7 +49,7 @@ We idealize peer review process as an unbiased assessment of science. But bias c
 ## Course structure
 
 
-Students will be paired to serve as "Co-Discussion Leaders" for one BioRxiv manuscript of their choosing.  The co-discussion leaders will compose one joint written peer review, with a first draft due immediately to James prior to their presentation, reflecting their original thoughts on the manuscript. Please send your paper selections to James by May 3rd so everyone can start reading. For each class, everyone, not just the co-discussion leaders, should be prepared by having the paper carefully. We will start each day by going to each participating and asking them to share: 1 confusing thing about the paper and 1 cool thing about the paper. 
+Students will be paired to serve as "Co-Discussion Leaders" for one BioRxiv manuscript of their choosing.  The co-discussion leaders will compose one joint written peer review, with a first draft due immediately to James prior to their presentation, reflecting their original thoughts on the manuscript. Please send your paper selections to James by May 3rd so everyone can start reading. For each class, everyone, not just the co-discussion leaders, should be prepared by having the paper carefully. We will start each day by calling on each participant in the class and asking them to share: 1 confusing thing about the paper and 1 cool thing about the paper. 
 
 After the round of sharing, the Discussion Leaders will present a joint talk similar in content and quality to a Tetrad or QBC Journal Club presentation, with an estimated 30-40 minute duration (noting that interruptions and discussion may take us closer to an hour).
 
