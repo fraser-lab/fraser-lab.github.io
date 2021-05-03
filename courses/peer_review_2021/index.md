@@ -101,13 +101,13 @@ Optional event at 8AM PT:
 
 ### May 17
 
-- [A biosensor to gauge protein homeostasis resilience differences in the nucleus compared to cytosol of mammalian cells](https://doi.org/10.1101/2021.04.19.440383)
+- [A biosensor to gauge protein homeostasis resilience differences in the nucleus compared to cytosol of mammalian cells](https://www.biorxiv.org/content/10.1101/2021.04.19.440383v1.full)
 
 ### May 21
-
+[Rapid induction of antigen-specific CD4+ T cells guides coordinated humoral and cellular immune responses to SARS-CoV-2 mRNA vaccination](https://www.biorxiv.org/content/10.1101/2021.04.21.440862v1.full)
 
 ### May 24
-- [Mechanism and role of astrogliosis in the pathogenesis of HIV-associated pain](https://www.biorxiv.org/content/10.1101/2021.04.28.441838v1)
+- [Mechanism and role of astrogliosis in the pathogenesis of HIV-associated pain](https://www.biorxiv.org/content/10.1101/2021.04.28.441838v1.full)
 
 ### May 26
 
