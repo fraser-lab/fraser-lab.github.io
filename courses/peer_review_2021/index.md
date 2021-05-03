@@ -22,18 +22,19 @@ By far, the most widely accepted means of communication is through publishing pa
 We have modeled this class based on [a course at NYU](http://bhabhaekiertlab.org/teaching) organized by Gira Bhabha, Damian Ekiert, Liam Holt & Timothee Lionnet.
 
 ## Background
-
+<figure class="text-center">
 <blockquote class="blockquote">
-At its best, peer review is a slow and careful evaluation of new research by appropriate experts. It involves multiple rounds of revision that removes errors, strengthens analyses, and noticeably improves manuscripts.
+"At its best, peer review is a slow and careful evaluation of new research by appropriate experts. It involves multiple rounds of revision that removes errors, strengthens analyses, and noticeably improves manuscripts.
 
 At its worst, it is merely window dressing that gives the unwarranted appearance of authority, a cursory process which confers no real value, enforces orthodoxy, and overlooks both obvious analytical problems and outright fraud entirely.
 
 Regardless of how any individual paper is reviewed – and the experience is usually somewhere between the above extremes – the sad truth is peer review in its entirety is struggling, and retractions like this drag its flaws into an incredibly bright spotlight." 
 </blockquote>
-
+  <figcaption class="blockquote-footer">
 from [The Lancet has made one of the biggest retractions in modern history. How could this happen?
 ](https://www.theguardian.com/commentisfree/2020/jun/05/lancet-had-to-do-one-of-the-biggest-retractions-in-modern-history-how-could-this-happen)
-
+  </figcaption>
+</figure>
 
 ## Racism and Bias in Peer review
 
