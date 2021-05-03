@@ -21,7 +21,7 @@ permalink: /peer_review/
 
 At its worst, it is merely window dressing that gives the unwarranted appearance of authority, a cursory process which confers no real value, enforces orthodoxy, and overlooks both obvious analytical problems and outright fraud entirely.
 
-Regardless of how any individual paper is reviewed – and the experience is usually somewhere between the above extremes – the sad truth is peer review in its entirety is struggling, and retractions like this drag its flaws into an incredibly bright spotlight." 
+Regardless of how any individual paper is reviewed – and the experience is usually somewhere between the above extremes – the sad truth is peer review in its entirety is struggling..." 
 </blockquote>
   <figcaption class="blockquote-footer">
 from [The Lancet has made one of the biggest retractions in modern history. How could this happen?
@@ -48,9 +48,8 @@ We idealize peer review process as an unbiased assessment of science. But bias c
 
 ## Course structure
 
-### Please send your paper selections to James by May 3rd so people can start reading!
 
-Students will be paired to serve as "Co-Discussion Leaders" for one BioRxiv manuscript of their choosing.  The co-discussion leaders will compose one joint written peer review, with a first draft due immediately to James prior to their presentation, reflecting their original thoughts on the manuscript. For each class, everyone, not just the co-discussion leaders, should be prepared by having the paper carefully. We will start each day by going to each participating and asking them to share: 1 confusing thing about the paper and 1 cool thing about the paper. 
+Students will be paired to serve as "Co-Discussion Leaders" for one BioRxiv manuscript of their choosing.  The co-discussion leaders will compose one joint written peer review, with a first draft due immediately to James prior to their presentation, reflecting their original thoughts on the manuscript. Please send your paper selections to James by May 3rd so everyone can start reading. For each class, everyone, not just the co-discussion leaders, should be prepared by having the paper carefully. We will start each day by going to each participating and asking them to share: 1 confusing thing about the paper and 1 cool thing about the paper. 
 
 After the round of sharing, the Discussion Leaders will present a joint talk similar in content and quality to a Tetrad or QBC Journal Club presentation, with an estimated 30-40 minute duration (noting that interruptions and discussion may take us closer to an hour).
 
@@ -107,10 +106,9 @@ Optional event at 8AM PT:
 - Don't be an a$$hole
 
 ### May 14
-
+- [METTL8 is required for 3-methylcytosine modification in human mitochondrial tRNAs](https://www.biorxiv.org/content/10.1101/2021.05.02.442361v1.full)
 
 ### May 17
-
 - [A biosensor to gauge protein homeostasis resilience differences in the nucleus compared to cytosol of mammalian cells](https://www.biorxiv.org/content/10.1101/2021.04.19.440383v1.full)
 
 ### May 21
