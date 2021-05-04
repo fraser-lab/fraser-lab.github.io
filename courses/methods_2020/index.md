@@ -2,7 +2,6 @@
 title: Macro Methods
 layout: default
 group: courses
-permalink: /methods/
 ---
 
 # Biophysics 204B: Methods in Macromolecular Structure #
