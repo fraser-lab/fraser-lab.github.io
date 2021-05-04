@@ -69,10 +69,11 @@ After the round of sharing, the Discussion Leaders will present a joint talk sim
 
 - Examples and commentaries from journals:
     - [Example from Cell Stem Cell of a review process](http://cdn.fraserlab.com/courses/peer_review_2020/2019_saxe.pdf)
-    - [Universal Principled Review](http://cdn.fraserlab.com/courses/peer_review_2020/2019_krummel.pdf)
+    - [Cell - Universal Principled Review](http://cdn.fraserlab.com/courses/peer_review_2020/2019_krummel.pdf)
     - Nature "masterclass" [Focus on Peer Review](https://masterclasses.nature.com/focus-on-peer-review-online-course/16605550) and [2021 video](https://www.youtube.com/watch?v=C0cchYD9hpY)
-    - [Welcome to the PLOS Reviewer Center](https://plos.org/resources/for-reviewers/?utm_medium=ad&utm_source=twitter&utm_campaign=reviewercenter)
-    - [Published Peer Review: True or False Answers](https://elifesciences.org/articles/12708)
+    - [ACS Reviewer Lab](https://www.acsreviewerlab.org/)
+    - [PLOS Reviewer Center](https://plos.org/resources/for-reviewers/?utm_medium=ad&utm_source=twitter&utm_campaign=reviewercenter)
+    - [eLife - Making the most of peer review](https://elifesciences.org/articles/12708)
 
 
 
