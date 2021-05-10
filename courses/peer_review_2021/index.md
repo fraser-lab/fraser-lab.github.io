@@ -57,7 +57,7 @@ After the round of sharing, the Discussion Leaders will present a joint talk sim
 
 - Writing peer reviews:
     - [Fraser lab how-to-review](/peer_review/how_to)
-    - [Our lab's public reviews](/review)
+    - [Our lab's public reviews](/reviews)
     - [Peer Review: reviewing as an early career researcher](https://www.blopig.com/blog/2021/03/peer-review-reviewing-as-an-early-career-researcher/)
     - [How to bring peer review ghostwriters out of the dark](https://www.molbiolcell.org/doi/full/10.1091/mbc.E20-10-0642)
     - [Advice for keeping on top of the literature](https://fraserlab.com/2013/09/28/The-Fraser-Lab-method-of-following-the-scientific-literature/)
@@ -74,6 +74,7 @@ After the round of sharing, the Discussion Leaders will present a joint talk sim
     - [ACS Reviewer Lab](https://www.acsreviewerlab.org/)
     - [PLOS Reviewer Center](https://plos.org/resources/for-reviewers/?utm_medium=ad&utm_source=twitter&utm_campaign=reviewercenter)
     - [eLife - Making the most of peer review](https://elifesciences.org/articles/12708)
+    - [PreReview training path](https://content.prereview.org/openreviewers/)
 
 
 
