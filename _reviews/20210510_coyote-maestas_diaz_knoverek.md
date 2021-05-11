@@ -8,8 +8,4 @@ peer-review:
 - disqus: ''
   biorxiv_versioned: '2021.04.14.439842v1'
 
-article:
-- pmid:
-  pdf: "https://www.biorxiv.org/content/10.1101/2021.04.14.439842v1.full.pdf"
-
 ---
