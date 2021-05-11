@@ -1,14 +1,14 @@
 ---
-title: "Accelerating Scientific Publication in Biology"
-date: '2015-07-11'
-authors: "Vale R"
-reviewers: "Fraser JS"
+title: "Accelerating Scientific Publication in Biology."
+date: "2015-07-11"
+authors: "Vale R."
+reviewers: "Fraser JS."
 
 peer-review:
-- disqus: z8jag1
-  biorxiv_versioned: 022368v1
+- biorxiv_version: "022368v1"
+  disqus: "z8jag1"
 
-article:
-- pdf: https://www.pnas.org/content/112/44/13439
-  pmid: 26508643
+published:
+- pmid: "26508643"
+  pdf: "https://www.pnas.org/content/112/44/13439"
 ---

@@ -10,9 +10,9 @@ group: reviews
 {% for review in site.reviews reversed %}
 	<hr>
 	<div class="row" style="padding-top: 60px; margin-top: -60px;" id="{{review.date}}">
-	<div><h5>Review of: "{{ review.title | markdownify | remove: '<p>' | remove: '</p>' | strip }}"</h5><br>
-	Article by: {{ review.authors | markdownify | remove: '<p>' | remove: '</p>' }}<br>
-	<strong>Reviewed by: {{ review.reviewers | markdownify | remove: '<p>' | remove: '</p>' }}</strong><br><br>
+	<div><h5>{{ review.title | markdownify | remove: '<p>' | remove: '</p>' | strip }}<br></h5>
+	<h6>{{ review.authors | markdownify | remove: '<p>' | remove: '</p>' }}</h6><br>
+	Reviewed by: <strong>{{ review.reviewers | markdownify | remove: '<p>' | remove: '</p>' }}</strong><br><br>
 	</div>
 	{% if review.abstract %}
 	<div>{{ review.abstract | markdownify }}</div>
@@ -26,77 +26,80 @@ group: reviews
 			{% endif %}
 		</div>
 		<div class="col">
-		{% if review.peer-review %}
-			<h5>Peer Review</h5>
-			{% for record in review.peer-review %}
-				<!--Biorxiv-->
-				{% if record.biorxiv %}
-				Biorxiv <a href="http://dx.doi.org/10.1101/{record.biorxiv}}" alt = "biorxiv preprint link: {{record.biorxiv}}">Preprint</a><br>
-				{% endif %}
+		<h5>Peer Review</h5>
+		{% for record in review.peer-review %}
+			<!--Biorxiv-->
+			{% if record.biorxiv %}
+			<li>Biorxiv Preprint: <a href="http://dx.doi.org/10.1101/{record.biorxiv}}" alt = "biorxiv preprint link: {{record.biorxiv}}">{{record.biorxiv | split: "." | last }}</a></li><br>
+			{% endif %}
 
-				<!--Biorxiv specific version-->
-				{% if record.biorxiv_versioned %}
-				Biorxiv <a href="http://www.biorxiv.org/content/10.1101/{{record.biorxiv_versioned}}" alt = "biorxiv preprint link: {{record.biorxiv_versioned}}">Preprint</a><br>
-				{% endif %}
+			<!--Biorxiv specific version-->
+			{% if record.biorxiv_version %}
+			<li>Biorxiv Preprint v{{record.biorxiv_version | split: "." | last | split: "v" | last }}: <a href="http://www.biorxiv.org/content/10.1101/{{record.biorxiv_version}}" alt = "biorxiv preprint link: {{record.biorxiv_version}}">{{record.biorxiv_version | split: "." | last | split: "v" | first }}</a></li><br>
+			{% endif %}
 
-				<!--Arxiv-->
-				{% if record.arxiv %}
-				arXiv <a href="https://arxiv.org/abs/{{record.arxiv}}" alt = "arxiv preprint link: {{record.arxiv}}">Preprint</a><br>
-				{% endif %}
+			<!--Arxiv-->
+			{% if record.arxiv %}
+			<li>arXiv Preprint: <a href="https://arxiv.org/abs/{{record.arxiv}}" alt = "arxiv preprint link: {{record.arxiv}}">{{record.arxiv}}</a></li><br>
+			{% endif %}
 
-				<!--Chemrxiv-->
-				{% if record.chemrxiv %}
-				ChemRxiv <a href=" https://doi.org/10.26434/chemrxiv.{{record.chemrxiv}}" alt = "chemrxiv preprint link: {{record.chemrxiv}}">Preprint</a><br>
-				{% endif %}
+			<!--Chemrxiv-->
+			{% if record.chemrxiv %}
+			<li>ChemRxiv Preprint: <a href=" https://doi.org/10.26434/chemrxiv.{{record.chemrxiv}}" alt = "chemrxiv preprint link: {{record.chemrxiv}}">{{record.chemrxiv}}</a></li><br>
+			{% endif %}
 
-				<!--Preprints.org -->
-				{% if record.preprintsorg %}
-				Preprints.org <a href=" https://www.preprints.org/manuscript/{{record.preprintsorg}}" alt = "preprints.org preprint link: {{record.preprintsorg}}">Preprint</a><br>
-				{% endif %}
+			<!--Preprints.org -->
+			{% if record.preprintsorg %}
+			<li>Preprints.org: <a href=" https://www.preprints.org/manuscript/{{record.preprintsorg}}" alt = "preprints.org preprint link: {{record.preprintsorg}}">{{record.preprintsorg}}</a></li><br>
+			{% endif %}
 
-				<!--Disqus comment-->
-				{% if record.disqus %}
-				Disqus <a href="http://disq.us/p/{{record.disqus}}" alt = "link to review as comment: {{record.disqus}}">Comment</a><br>
-				{% endif %}
+			<!--Disqus comment-->
+			{% if record.disqus %}
+			<li>Review: <a href="http://disq.us/p/{{record.disqus}}" alt = "link to review as comment: {{record.disqus}}">{{record.disqus}}</a></li><br>
+			{% endif %}
 
-				<!--zenodo record-->
-				{% if record.zenodo %}
-				Zenodo <a href="https://www.zenodo.org/record/{{record.zenodo}}" alt = "link to review as zenodo: {{record.zenodo}}">Record</a><br>
-				{% endif %}
+			<!--zenodo record-->
+			{% if record.zenodo %}
+			<li>Zenodo Record: <a href="https://www.zenodo.org/record/{{record.zenodo}}" alt = "link to review as zenodo: {{record.zenodo}}">{{record.zenodo}}</a></li><br>
+			{% endif %}
 
-			{% endfor %}
-		{% endif %}
+		{% endfor %}
 		</div>
 		<div class="col">
-		{% if review.article %}
-			<h5>Post-Peer Review</h5>
-			{% if review.news %}<h6>Article</h6>{% endif %}
-			{% for record in review.article %}
-				<!--PMID-->
+		{% if review.published %}
+			<h5>Post-Review</h5>
+			<h6>Access the paper</h6>
+			{% for record in review.published %}
 				{% if record.pmid %}
-				PMID: <a href="http://www.ncbi.nlm.nih.gov/pubmed/{{record.pmid}}" alt = "pubmed link: {{record.pmid}}"> {{record.pmid}}</a><br>
+				<li>PMID: <a href="http://www.ncbi.nlm.nih.gov/pubmed/{{record.pmid}}" alt = "pubmed link: {{publication.pmid}}"> {{record.pmid}}</a></li>
 				{% endif %}
 			{% endfor %}
 
-			{% if review.news %}
+			{% if review.highlight %}
 				<br><h6>Highlight</h6>
-				{% for record in review.news %}
-					<!--Citation-->
+				{% for record in review.highlight %}
+					<!--Article Title-->
 					{% if record.title %}
-						"{{record.title | markdownify | remove: '<p>' | remove: '</p>' | strip }}."
+						{{record.title | markdownify | remove: '<p>' | remove: '</p>' | strip }}
 					{% endif %}
+
+					<!--Authors-->
 					{% if record.authors %}
-						{{record.authors | markdownify | remove: '<p>' | remove: '</p>' | strip }}.
+						{{record.authors | markdownify | remove: '<p>' | remove: '</p>' | strip }}
 					{% endif %}
+
+					<!--Journal-->
 					{% if record.journal %}
 						<i>{{record.journal}}.</i>
 					{% endif %}
+
+					<!--Publication Date-->
 					{% if review.date %}
 						{{review.date | split: "-" | first }}.
 					{% endif %}
 					<br>
 
-					<!--zenodo record-->
+					<!--Zenodo Record-->
 					{% if record.zenodo %}
 					Zenodo <a href="https://www.zenodo.org/record/{{record.zenodo}}" alt = "link to review as zenodo: {{record.zenodo}}">Record</a><br>
 					{% endif %}

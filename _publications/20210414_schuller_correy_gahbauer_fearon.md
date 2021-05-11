@@ -7,7 +7,7 @@ image: '/static/img/pub/2020_schuller_correy_gahbauer_fearon.jpg'
 pdf: 'https://fraserlab.com/macrodomain/'
 pmid: '33853786'
 pmcid: 'PMC8046379'
-biorxiv: 2020.11.24.393405
+biorxiv: '2020.11.24.393405'
 pdf: 'http://cdn.fraserlab.com/publications/2021_schuller_correy_gahbauer_fearon.pdf'
 zenodo:
 - code: '4716363'

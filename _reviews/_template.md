@@ -1,24 +1,30 @@
 ---
-title: "Stimulus-responsive self-assembly of protein-based fractals by computational design"
-date: '2019-06-17'
+title: "Title of Manuscript Reviewed"
+date: "YYYY-MM-DD #Date of Public Review"
 authors: "Hernández NE, Hansen WA, Zhu D, Shea ME, Khalid M, Manichev V, Putnins M, Chen M, Dodge AG, Yang L, Marrero-Berríos I, Banal M, Rechani P, Gustafsson T, Feldman LC, Lee SH, Wackett LP, Dai W, Khare SD"
 reviewers: "Young ID, Fraser JS"
-image: '/static/img/pub/2019_young.jpg'
-<!-- one-sentence abstract optional under field "abstract" -->
+image: "/static/img/pub/2019_young.jpg"
+abstract: "optional one-sentence abstract"
 
 peer-review:
-- disqus: 1xokwvr
-  biorxiv_versioned: 274183v1
-  <!-- alternatively: biorxiv, arxiv, chemrxiv, preprintsorg, zenodo -->
+- biorxiv: "274183"
+  biorxiv_version: "274183v1"
+  arxiv: ""
+  chemrxiv: ""
+  preprintsorg: ""
+  zenodo: "4697901"
+  disqus: "2eed3r2" #Link to Public Review
 
-article:
-- pdf: https://doi.org/10.1038/s41557-019-0277-y
-  pmid: 31209296
+published:
+- pmid: "31209296"
+  pdf: "http://cdn.fraserlab.com/reviews/2021_hernandez.pdf"
 
-news:
+highlight:
 - title: "News & Views: Biomaterials in non-integer dimensions"
   authors: "Young ID, Fraser JS"
   journal: "Nature Chemistry"
-  pdf: 'http://cdn.fraserlab.com/publications/2019_young.pdf'
-  pmid: 31209301
+  date: "YYYY-MM-DD"
+  pmid: "31209301"
+  pdf: "http://cdn.fraserlab.com/publications/2019_young.pdf"
+  zenodo: "4697901"
 ---
