@@ -282,4 +282,6 @@ links:
   url: https://www.ucsf.edu/news/2020/07/418056/building-blocks-covid-19-antiviral-drugs-identified-rapid-study
 - name: Practical Fragments - Hundreds of fragments hits for the SARS-CoV-2 Nsp3 Macrodomain
   url: http://practicalfragments.blogspot.com/2021/01/hundreds-of-fragments-hits-for-sars-cov.html
+- name: Massive fragment screen points way to new SARS-CoV-2 inhibitors  
+  url: https://www.diamond.ac.uk/Home/News/LatestNews/2021/16-04-21.html
 ---
