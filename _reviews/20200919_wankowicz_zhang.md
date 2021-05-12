@@ -3,6 +3,7 @@ title: "Resolving Individual-Atom of Protein Complex using Commonly Available 30
 date: '2020-09-19'
 authors: "Zhang K, Pintilie GD, Li S, Schmid MF, Chiu W."
 reviewers: "Wankowicz S, Fraser JS."
+image: "/static/img/reviews/2020_zhang.png"
 
 peer-review:
 - biorxiv_version: "2020.08.19.256909v1"
@@ -10,5 +11,5 @@ peer-review:
 
 published:
 - pmid: "33139928"
-  pdf: "https://www.nature.com/articles/s41422-020-00432-2"
+  pdf: "http://cdn.fraserlab.com/reviews/2020_zhang.pdf"
 ---

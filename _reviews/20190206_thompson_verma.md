@@ -3,6 +3,7 @@ title: "Distinct metabolic states of a cell guide alternate fates of mutational 
 date: "2019-02-06"
 authors: "Verma K, Saxena K, Donaka R, Chaphalkar A, Rai MK, Shukla A, Zaidi Z, Dandage R, Shanmugam D, Chakraborty K."
 reviewers: "Thompson E, Fraser JS."
+image: "/static/img/reviews/2020_verma.png"
 
 peer-review:
 - biorxiv_version: "540039v1"
@@ -10,5 +11,5 @@ peer-review:
 
 published:
 - pmid: "32522991"
-  pdf: "https://www.nature.com/articles/s41467-020-16804-6"
+  pdf: "http://cdn.fraserlab.com/reviews/2020_verma.pdf"
 ---

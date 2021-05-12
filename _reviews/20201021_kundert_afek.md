@@ -17,11 +17,11 @@ peer-review:
 
 published:
 - pmid: "33087930"
-  pdf: "https://www.nature.com/articles/s41586-020-2843-2"
+  pdf: "http://cdn.fraserlab.com/reviews/2020_afek.pdf"
 
 highlight:
 - title: "News & Views: DNA-binding proteins meet their mismatch."
-  authors: "Kundert K, **Fraser JS**."
+  authors: "Kundert K, **Fraser JS**"
   journal: "Nature"
   date: "2020-10-21"
   pmid: "33087865"

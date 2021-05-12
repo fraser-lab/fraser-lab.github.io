@@ -3,6 +3,7 @@ title: "Accelerating Scientific Publication in Biology."
 date: "2015-07-11"
 authors: "Vale R."
 reviewers: "Fraser JS."
+image: "/static/img/reviews/2015_vale.png"
 
 peer-review:
 - biorxiv_version: "022368v1"
@@ -10,5 +11,5 @@ peer-review:
 
 published:
 - pmid: "26508643"
-  pdf: "https://www.pnas.org/content/112/44/13439"
+  pdf: "http://cdn.fraserlab.com/review/2015_vale.pdf"
 ---

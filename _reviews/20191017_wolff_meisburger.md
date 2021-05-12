@@ -3,6 +3,7 @@ title: "Diffuse X-ray Scattering from Correlated Motions in a Protein Crystal."
 date: "2019-10-17"
 authors: "Meisburger SP, Case DA, Ando N."
 reviewers: "Wolff A, Fraser JS."
+image: "/static/img/reviews/2020_meisburger.png"
 
 peer-review:
 - biorxiv_versioned: "805424v1"
@@ -10,6 +11,5 @@ peer-review:
 
 published:
 - pmid: "32152274"
-  pdf: "https://www.nature.com/articles/s41467-020-14933-6"
-
+  pdf: "http://cdn.fraserlab.com/reviews/2020_meisburger.pdf"
 ---

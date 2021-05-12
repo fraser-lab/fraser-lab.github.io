@@ -11,10 +11,11 @@ peer-review:
 
 published:
 - pmid: "33460600"
-  pdf: "https://www.sciencedirect.com/science/article/pii/S0006349521000461"
+  pdf: "http://cdn.fraserlab.com/reviews/2021_croll.pdf"
 
 highlight:
 - title: "Amenders Assemble!"
   authors: "**Young ID, Fraser JS**"
   zenodo: "4678069"
+  pdf: "http://cdn.fraserlab.com/publications/2020_young.pdf"
 ---

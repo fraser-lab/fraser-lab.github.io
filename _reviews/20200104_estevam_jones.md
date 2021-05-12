@@ -3,6 +3,7 @@ title: "Structural and Functional Characterization of G Protein-Coupled Receptor
 date: '2020-01-04'
 authors: "Jones EM, Lubock NB, Venkatakrishnan AJ, Wang J, Tseng AM, Paggi JM, Latorraca NR, Cancilla D, Satyadi M, Davis JE, Babu MM, Dror RO, Kosuri S."
 reviewers: "Estevam G, Fraser JS."
+image: "/static/img/reviews/2020_jones.png"
 
 peer-review:
 - biorxiv_version: "623108v3"
@@ -10,5 +11,5 @@ peer-review:
 
 published:
 - pmid: "33084570"
-  pdf: "https://elifesciences.org/articles/54895"
+  pdf: "http://cdn.fraserlab.com/reviews/2020_jones.pdf"
 ---

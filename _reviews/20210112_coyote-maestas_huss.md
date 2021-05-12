@@ -3,7 +3,7 @@ title: "Mapping the Functional Landscape of the Receptor Binding Domain of T7 Ba
 date: "2021-04-15"
 authors: "Huss P, Meger A, Leander M, Nishikawa K, Raman S."
 reviewers: "Coyote-Maestas W, Fraser JS."
-image: "/static/img/pub/2021_coyote-maestas.jpg"
+image: "/static/img/reviews/2021_huss.jpg"
 
 peer-review:
 - biorxiv_version: "2020.07.28.225284v2"
@@ -11,12 +11,12 @@ peer-review:
 
 published:
 - pmid: "33087930"
-  pdf: ""
+  pdf: "http://cdn.fraserlab.com/reviews/2021_huss.pdf"
 
 highlight:
 - title: "Virus Engineering: ORACLE reveals a bright future to fight bacteria."
   authors: "**Coyote-Maestas W, Fraser JS**."
   journal: "eLife"
-  pdf: "https://elifesciences.org/articles/68277"
+  pdf: "http://cdn.fraserlab.com/publications/2021_coyote-maestas.pdf"
   pmid: "33856343"
 ---

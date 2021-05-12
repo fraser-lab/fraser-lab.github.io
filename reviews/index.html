@@ -15,7 +15,7 @@ group: reviews
 	Reviewed by: <strong>{{ review.reviewers | markdownify | remove: '<p>' | remove: '</p>' }}</strong><br><br>
 	</div>
 	{% if review.abstract %}
-	<div>{{ review.abstract | markdownify }}</div>
+	<div>{{ review.abstract | markdownify | remove: '<p>' | remove: '</p>' }}</div>
 	{% endif %}
 	</div>
 
@@ -25,53 +25,56 @@ group: reviews
 			<img class = "img-fluid" src = "{{review.image}}" alt = "Representative Image" style="max-height: 250px;; margin-right: 30px">
 			{% endif %}
 		</div>
-		<div class="col">
-		<h5>Peer Review</h5>
-		{% for record in review.peer-review %}
-			<!--Biorxiv-->
-			{% if record.biorxiv %}
-			<li>Biorxiv Preprint: <a href="http://dx.doi.org/10.1101/{record.biorxiv}}" alt = "biorxiv preprint link: {{record.biorxiv}}">{{record.biorxiv | split: "." | last }}</a></li><br>
-			{% endif %}
+		<ul class="col">
+			<h5>Peer Review</h5>
+			{% for record in review.peer-review %}
+				<!--Biorxiv-->
+				{% if record.biorxiv %}
+				<li>Biorxiv Preprint: <a href="http://dx.doi.org/10.1101/{record.biorxiv}}" alt = "biorxiv preprint link: {{record.biorxiv}}">{{record.biorxiv | split: "." | last }}</a></li>
+				{% endif %}
 
-			<!--Biorxiv specific version-->
-			{% if record.biorxiv_version %}
-			<li>Biorxiv Preprint v{{record.biorxiv_version | split: "." | last | split: "v" | last }}: <a href="http://www.biorxiv.org/content/10.1101/{{record.biorxiv_version}}" alt = "biorxiv preprint link: {{record.biorxiv_version}}">{{record.biorxiv_version | split: "." | last | split: "v" | first }}</a></li><br>
-			{% endif %}
+				<!--Biorxiv specific version-->
+				{% if record.biorxiv_version %}
+				<li>Biorxiv Preprint v{{record.biorxiv_version | split: "." | last | split: "v" | last }}: <a href="http://www.biorxiv.org/content/10.1101/{{record.biorxiv_version}}" alt = "biorxiv preprint link: {{record.biorxiv_version}}">{{record.biorxiv_version | split: "." | last | split: "v" | first }}</a></li>
+				{% endif %}
 
-			<!--Arxiv-->
-			{% if record.arxiv %}
-			<li>arXiv Preprint: <a href="https://arxiv.org/abs/{{record.arxiv}}" alt = "arxiv preprint link: {{record.arxiv}}">{{record.arxiv}}</a></li><br>
-			{% endif %}
+				<!--Arxiv-->
+				{% if record.arxiv %}
+				<li>arXiv Preprint: <a href="https://arxiv.org/abs/{{record.arxiv}}" alt = "arxiv preprint link: {{record.arxiv}}">{{record.arxiv}}</a></li>
+				{% endif %}
 
-			<!--Chemrxiv-->
-			{% if record.chemrxiv %}
-			<li>ChemRxiv Preprint: <a href=" https://doi.org/10.26434/chemrxiv.{{record.chemrxiv}}" alt = "chemrxiv preprint link: {{record.chemrxiv}}">{{record.chemrxiv}}</a></li><br>
-			{% endif %}
+				<!--Chemrxiv-->
+				{% if record.chemrxiv %}
+				<li>ChemRxiv Preprint: <a href=" https://doi.org/10.26434/chemrxiv.{{record.chemrxiv}}" alt = "chemrxiv preprint link: {{record.chemrxiv}}">{{record.chemrxiv}}</a></li>
+				{% endif %}
 
-			<!--Preprints.org -->
-			{% if record.preprintsorg %}
-			<li>Preprints.org: <a href=" https://www.preprints.org/manuscript/{{record.preprintsorg}}" alt = "preprints.org preprint link: {{record.preprintsorg}}">{{record.preprintsorg}}</a></li><br>
-			{% endif %}
+				<!--Preprints.org -->
+				{% if record.preprintsorg %}
+				<li>Preprints.org: <a href=" https://www.preprints.org/manuscript/{{record.preprintsorg}}" alt = "preprints.org preprint link: {{record.preprintsorg}}">{{record.preprintsorg}}</a></li>
+				{% endif %}
 
-			<!--Disqus comment-->
-			{% if record.disqus %}
-			<li>Review: <a href="http://disq.us/p/{{record.disqus}}" alt = "link to review as comment: {{record.disqus}}">{{record.disqus}}</a></li><br>
-			{% endif %}
+				<!--Disqus comment-->
+				{% if record.disqus %}
+				<li>Review: <a href="http://disq.us/p/{{record.disqus}}" alt = "link to review as comment: {{record.disqus}}">{{record.disqus}}</a></li>
+				{% endif %}
 
-			<!--zenodo record-->
-			{% if record.zenodo %}
-			<li>Zenodo Record: <a href="https://www.zenodo.org/record/{{record.zenodo}}" alt = "link to review as zenodo: {{record.zenodo}}">{{record.zenodo}}</a></li><br>
-			{% endif %}
+				<!--zenodo record-->
+				{% if record.zenodo %}
+				<li>Zenodo Record: <a href="https://www.zenodo.org/record/{{record.zenodo}}" alt = "link to review as zenodo: {{record.zenodo}}">{{record.zenodo}}</a></li>
+				{% endif %}
 
-		{% endfor %}
-		</div>
-		<div class="col">
+			{% endfor %}
+		</ul>
+		<ul class="col">
 		{% if review.published %}
 			<h5>Post-Review</h5>
 			<h6>Access the paper</h6>
 			{% for record in review.published %}
 				{% if record.pmid %}
-				<li>PMID: <a href="http://www.ncbi.nlm.nih.gov/pubmed/{{record.pmid}}" alt = "pubmed link: {{publication.pmid}}"> {{record.pmid}}</a></li>
+				<li>PMID: <a href="http://www.ncbi.nlm.nih.gov/pubmed/{{record.pmid}}" alt = "pubmed link: {{record.pmid}}">{{record.pmid}}</a></li>
+				{% endif %}
+				{% if record.pdf %}
+				<li><a href="{{record.pdf}}" alt="link to full text: {{record.pdf}}">Full Text</a></li>
 				{% endif %}
 			{% endfor %}
 
@@ -80,12 +83,12 @@ group: reviews
 				{% for record in review.highlight %}
 					<!--Article Title-->
 					{% if record.title %}
-						{{record.title | markdownify | remove: '<p>' | remove: '</p>' | strip }}
+						<li>{{record.title | markdownify | remove: '<p>' | remove: '</p>' | strip }}</li>
 					{% endif %}
 
 					<!--Authors-->
 					{% if record.authors %}
-						{{record.authors | markdownify | remove: '<p>' | remove: '</p>' | strip }}
+						{{record.authors | markdownify | remove: '<p>' | remove: '</p>' | strip }}.
 					{% endif %}
 
 					<!--Journal-->
@@ -101,18 +104,18 @@ group: reviews
 
 					<!--Zenodo Record-->
 					{% if record.zenodo %}
-					Zenodo <a href="https://www.zenodo.org/record/{{record.zenodo}}" alt = "link to review as zenodo: {{record.zenodo}}">Record</a><br>
+					<li>Zenodo Record: <a href="https://www.zenodo.org/record/{{record.zenodo}}" alt = "link to review as zenodo: {{record.zenodo}}">{{record.zenodo}}</a></li>
 					{% endif %}
 
 					<!--PDF-->
 					{% if record.pdf %}
-					<a href="{{record.pdf}}" alt="link to full text: {{record.pdf}}">Full Text</a><br>
+					<li><a href="{{record.pdf}}" alt="link to full text: {{record.pdf}}">Full Text</a></li>
 					{% endif %}
 
 				{% endfor %}
 			{% endif %}
 		{% endif %}
-		</div>
+		</ul>
 	</div>
 	<br>
 {% endfor %}

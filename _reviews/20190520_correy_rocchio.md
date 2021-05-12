@@ -3,6 +3,7 @@ title: "Identifying dynamic, partially occupied residues using anomalous scatter
 date: "2019-05-20"
 authors: "Rocchio S, Duman R, Omari KE, Mykhaylyk V, Yan Z, Wagner A, Bardwell JCA, Horowitz S."
 reviewers: "Correy G, Fraser JS."
+image: "/static/img/reviews/2019_rocchio.png"
 
 peer-review:
 - biorxiv_versioned: "642686v1"
@@ -10,5 +11,5 @@ peer-review:
 
 published:
 - pmid: "31793902"
-  pdf: "http://scripts.iucr.org/cgi-bin/paper?S2059798319014475"
+  pdf: "http://cdn.fraserlab.com/reviews/2019_rocchio.pdf"
 ---
