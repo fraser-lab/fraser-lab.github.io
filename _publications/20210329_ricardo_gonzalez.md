@@ -13,6 +13,6 @@ links:
   url: https://ansel.ucsf.edu
 - name: Spitzer lab @ UC San Francisco
   url: https://spitzerlab.ucsf.edu
-- name: Locksley Lab @ UC San Francisco
+- name: Locksley lab @ UC San Francisco
   url: https://locksleylab.ucsf.edu
 ---
