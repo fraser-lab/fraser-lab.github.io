@@ -93,7 +93,7 @@ Optional event at 8AM PT:
 
 
 ### May 12
-- New developments in peer review:
+- [New developments in peer review](tinyurl.com/polka-ucsf-pr):
   - [Jessica Polka](https://en.wikipedia.org/wiki/Jessica_Polka) - [Executive Director of ASAPbio](https://asapbio.org/dt_team/jessica-polka)
 - Writing and Receiving Peer Review and expecations for written reviews
 
