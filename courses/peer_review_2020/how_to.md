@@ -15,18 +15,24 @@ When reviewing a paper, try to keep the following in mind:
   - Are acronyms used excessively and without justifiable reason?
   - Are there any missing or incorrect citations?
 
-When formatting a first draft of a review, create two sections, one focused on the *Major Points*:
-- Write 2-3 sentences on the major goals of the paper
-- Assess whether the paper accomplishes those goals in separate paragraphs
-  - For each major goal, focus only on the major issues that deal with data quality and data interpretation
-  - Each major issue should be its own paragraph
+When formatting a first draft of a review, create three sections:
+
+### Summary:
+- Write 3-5 sentences on the major goals of the paper
 - State the major successes of the paper.
   - “The major success of the paper is in developing a new model for side chain conformational heterogeneity”.
-- State the major weakness(es) of the paper (if any).
+- State the major weakness(es) of the paper (if any - could also be the major confusion you have with the way it is framed).
   - “The major weakness of the paper is that the model proposed is not tested”.
+  - These can refer to the major points, which are elaborated below
 - Write 1-2 sentences on the place/impact of this paper in the field.
 
-and one focused on *Minor Points*:
+
+### Major points
+  - Enumerate only major issues that deal with data quality and data interpretation and reflect on the ability of the paper to accomplish it's major goals
+  - Each major issue should be its own paragraph or list of questions. 
+ 
+
+### Minor Points:
 - List all minor technical questions you have
   - It is important that you distinguish between things you think are done incorrectly/incompletely and things that are not explained clearly enough for a reader to understand.
 - List all minor stylistic issues
