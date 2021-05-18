@@ -12,7 +12,7 @@ scholar:
 website: https://dhogan.io/
 UCSF:
 twitter:
-linkedin: danielwhogan
+#linkedin: danielwhogan
 github: dhogan-io
 orcid: 0000-0003-3375-408X
 description: "Daniel graduated from Stanford, where he worked on single-molecule biophysics with Steven Block.
