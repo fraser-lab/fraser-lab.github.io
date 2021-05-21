@@ -105,6 +105,7 @@ Optional event at 8AM PT:
 - Have empathy, imagine receiving the review!
 - What should be public, what should be private?
 - Consider your own biases
+- It doesn’t need to be the paper YOU would have written
 - Don't be an a$$hole
 
 ### May 14
