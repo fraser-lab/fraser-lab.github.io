@@ -29,7 +29,8 @@ When formatting a first draft of a review, create three sections:
 
 ### Major points
   - Enumerate only major issues that deal with data quality and data interpretation and reflect on the ability of the paper to accomplish it's major goals
-  - Each major issue should be its own paragraph or list of questions. 
+  - Each major issue should be its own paragraph or list of questions 
+    - this is your chance to ask both specific and open ended questions!
  
 
 ### Minor Points:
