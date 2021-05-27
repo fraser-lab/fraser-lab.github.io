@@ -4,7 +4,7 @@ startdate: 2020-05-11
 enddate: YYYY-MM-DD
 image: /static/img/members/Hogan.jpg
 altimage: /static/img/members/Hogan_pb.jpg
-position: Postdoctoral Fellow
+position: Programmer
 #subsequent:  update once you become an alumnus
 pronouns: he/him/his
 email: daniel.hogan (at) ucsf.edu
