@@ -46,7 +46,8 @@ Subsequently: {{member.subsequent}} <br>
 {% assign ugr_sorted = (site.undergrads | sort: "enddate") | reverse %}
 {% for undergraduate in ugr_sorted %}
 <hr>
-<div id = "{{undergraduate.name}} - <em>{{undergraduate.position}}" style="padding-top: 60px; margin-top: -60px;">
+<div id = "{{undergraduate.name}}" style="padding-top: 60px; margin-top: -60px;">
+<p><strong>{{undergraduate.name}}</strong> - <em>{{undergraduate.position}}</em><br>
 {% if undergraduate.pronouns %}
 <em>{{undergraduate.pronouns}}</em><br>
 {% endif %}
