@@ -1,10 +1,11 @@
 ---
-name: Joanna Maddela
-startdate: 2021-06-02
-enddate: 2021-08-01
+published: false
+name: Sophia Staggers
+startdate: 2021-06-01
+enddate:
 image:
 altimage:
-position: SRTP Undergraduate
+position: BioXFEL Intern
 subsequent:
 pronouns:
 email:

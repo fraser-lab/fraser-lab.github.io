@@ -1,10 +1,11 @@
 ---
-name: Sophia Staggers
-startdate: 2021-06-01
-enddate: 2021-08-01
+published: false
+name: Angelika Arada
+startdate: 2021-04-29
+enddate:
 image:
 altimage:
-position: BioXFEL Intern
+position: Sally Casanova Pre-Doctoral Scholar
 subsequent:
 pronouns:
 email:

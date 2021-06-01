@@ -1,10 +1,11 @@
 ---
-name: Angelika Arada
-startdate: 2021-04-29
-enddate: 2021-08-01
+published: false
+name: Joanna Maddela
+startdate: 2021-06-02
+enddate:
 image:
 altimage:
-position: Sally Casanova Pre-Doctoral Scholar
+position: SRTP Undergraduate
 subsequent:
 pronouns:
 email:

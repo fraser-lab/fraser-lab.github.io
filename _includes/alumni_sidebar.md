@@ -43,20 +43,6 @@ Subsequently: {{member.subsequent}} <br>
 
 
 <br>
-## Undergraduate Interns
-{% assign ugr_sorted = (site.undergrads | sort: "enddate") | reverse %}
-{% for undergrad in ugr_sorted %}
-<hr>
-<div id = "{{undergrad.name}}" style="padding-top: 60px; margin-top: -60px;">
-<p><strong>{{undergrad.name}}</strong><br>
-{% if undergrad.startdate %} {{undergrad.startdate | date:"%Y"}} - {% endif %}{{undergrad.enddate | date:"%Y"}} <br>
-{% if undergrad.subsequent %}
-Subsequently: {{undergrad.subsequent}}<br>
-{% endif %}
-</p>
-</div> {% endfor %}
-
-<br>
 ## [SEP High School Interns](http://sep.ucsf.edu/hs_programs/high-school-intern-program/)
 {% assign sep_sorted = (site.sep | sort: "enddate") | reverse %}
 {% for student in sep_sorted %}
