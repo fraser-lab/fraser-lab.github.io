@@ -47,7 +47,10 @@ Subsequently: {{member.subsequent}} <br>
 {% for undergraduate in ugr_sorted %}
 <hr>
 <div id = "{{undergraduate.name}}" style="padding-top: 60px; margin-top: -60px;">
-<p><strong>{{undergraduate.name}}</strong><br>
+<p><strong>{{undergraduate.name}} - <em>{{undergraduate.position}}</strong><br>
+{% if undergraduate.pronouns %}
+<em>{{undergraduate.pronouns}}</em> <br>
+{% endif %}
 {% if undergraduate.startdate %} {{undergraduate.startdate | date:"%Y"}} - {% endif %}{{undergraduate.enddate | date:"%Y"}} <br>
 {% if undergraduate.subsequent %}
 Subsequently: {{undergraduate.subsequent}}<br>
