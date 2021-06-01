@@ -1,5 +1,4 @@
 ---
-published: false
 name: Joanna Maddela
 startdate: 2021-06-02
 enddate:

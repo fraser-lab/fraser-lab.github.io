@@ -1,5 +1,4 @@
 ---
-published: false
 name: Angelika Arada
 startdate: 2021-04-29
 enddate:

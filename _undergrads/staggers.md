@@ -1,5 +1,4 @@
 ---
-published: false
 name: Sophia Staggers
 startdate: 2021-06-01
 enddate:
