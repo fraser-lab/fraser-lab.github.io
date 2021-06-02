@@ -6,13 +6,13 @@ image:
 altimage:
 position: Sally Casanova Pre-Doctoral Scholar
 subsequent:
-pronouns:
-email:
+pronouns: she/her/hers
+email: angelikamicolearada@gmail.com
 scholar:
 website:
 UCSF:
 twitter:
-linkedin:
+linkedin: angelikaarada
 github:
 orcid:
 description:

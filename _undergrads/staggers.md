@@ -6,13 +6,13 @@ image:
 altimage:
 position: BioXFEL Intern
 subsequent:
-pronouns:
-email:
+pronouns: she/her/hers
+email: sophia.staggers17@gmail.com
 scholar:
 website:
 UCSF:
 twitter:
-linkedin:
+linkedin: sophia-staggers-07b0851b3
 github:
 orcid:
 description:
