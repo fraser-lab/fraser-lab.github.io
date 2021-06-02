@@ -1,6 +1,6 @@
 ---
 name: Stephanie Wankowicz
-startdate: YYYY-MM-DD
+startdate: 2019-06-06
 enddate: YYYY-MM-DD
 image: /static/img/members/Wankowicz.jpg
 altimage: /static/img/members/Wankowicz_pb.jpg

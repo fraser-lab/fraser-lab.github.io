@@ -1,5 +1,5 @@
 ---
-name: Eric Greene
+name: Eric Greene, Ph.D.
 startdate: 2020-08-01
 enddate: #YYYY-MM-DD
 image: /static/img/members/greene.jpg

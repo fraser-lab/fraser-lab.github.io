@@ -1,6 +1,6 @@
 ---
 name: Jen Michaud, Ph.D.
-startdate: YYYY-MM-DD
+startdate: 2020-02-13
 enddate: YYYY-MM-DD
 image: /static/img/members/Michaud.jpg
 altimage: /static/img/members/Michaud_pb.jpg
