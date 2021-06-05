@@ -114,6 +114,7 @@ Optional event at 8AM PT:
 
 ### May 17
 - [A biosensor to gauge protein homeostasis resilience differences in the nucleus compared to cytosol of mammalian cells](https://www.biorxiv.org/content/10.1101/2021.04.19.440383v1.full)
+  - [Review by Andrew Alamban and Linh Tram](http://disq.us/p/2hfvrrg)
 
 ### May 21
 - [Rapid induction of antigen-specific CD4+ T cells guides coordinated humoral and cellular immune responses to SARS-CoV-2 mRNA vaccination](https://www.biorxiv.org/content/10.1101/2021.04.21.440862v1.full)
@@ -123,6 +124,7 @@ Optional event at 8AM PT:
 
 ### May 26
 - [Precise and pervasive phasic bursting in locus coeruleus during maternal behavior](https://www.biorxiv.org/content/10.1101/2021.03.31.437751v1.full)
+  - [Review by Eszter Kish and Marci Rosenberg](http://disq.us/p/2hertl0)
 
 ### May 28
 - [A massively parallel reporter assay reveals focused and broadly encoded RNA localization signals in neurons](https://www.biorxiv.org/content/10.1101/2021.04.27.441590v1.full)
