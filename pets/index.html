@@ -13,7 +13,7 @@ group: pets
             <div class="col-sm-4">
                 <img class="img-fluid" src="{{pet.image}}" {% if pet.altimage %} onmouseover="this.src='{{pet.altimage}}';" onmouseout="this.src='{{pet.image}}';" {% endif %} alt="{{pet.name}}"; width="365"; height="365"><br>
                 <strong>{{pet.name}}</strong> <br>
-                Human: <strong>{{pet.human | markdownify}}</strong><br>
+                Human: <strong>{{pet.human | markdownify | remove: '<p>' | remove: '</p>'}}</strong><br>
                 {% if pet.adoptiondate %}
                   <em>Adopted on: {{pet.adoptiondate}}</em><br>
                 {% endif %}
