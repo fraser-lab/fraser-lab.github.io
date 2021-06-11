@@ -41,3 +41,5 @@ collections:
                 output: true
         undergrads:
                 output: true
+        pets:
+                output: true

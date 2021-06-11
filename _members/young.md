@@ -21,7 +21,7 @@ description: "Iris enjoys working at the interface of structural biology and sci
 As a postdoc with the Fraser group, he is collaborating with Alexis Rohou at Genentech to expand on the cisTEM software for macromolecular structure determination by cryo-electron microscopy. This project aims to improve the quality of reconstructions from particularly difficult datasets, both by reducing overfitting artifacts and by embedding parameters for particle flexibility into the maps themselves. He is also working on tools built on the Computational Crystallographic Toolbox (ccbtx) to detect unmodeled features in electron density such as post-transcriptional modifications ([qPTxM](https://github.com/fraser-lab/qptm)) or Hoogsteen base pairs ([curiosity](https://github.com/fraser-lab/curiosity)). During the COVID-19 pandemic he has served as co-lead of the crystallography subgroup of the [Structural Biology Consortium](https://qbi.ucsf.edu/qcrg/structuralbiology), associated with the [QBI Coronavirus Research Group](https://qbi.ucsf.edu/) at UCSF, pursuing the discovery of compounds inhibiting SARS-CoV-2 infection.
 
 
-Outside of lab, Iris enjoys reading, sewing, throwing pottery, and learning languages. He measures his coffee intake in LD50s.
+Outside of lab, Iris enjoys reading, sewing, throwing pottery, learning languages, and his cat [Rory](/pets/#Rory). He measures his coffee intake in LD50s.
 
 
 Iris is supported by a Kirschstein NRSA (F32) fellowship from [NIH/NIGMS](https://www.nigms.nih.gov/)."

@@ -21,5 +21,5 @@ description: "Robbie graduated from the University of Miami with a degree in Neu
 Robbie is interested in utilizing biochemical and structural techniques to study interactions between chitin-binding proteins and chitin. When he's not in lab, Robbie is promoting DEI efforts, reading books (or sometimes tweets), or enjoying a San Francisco park.
 
 
-Robbie is supported by graduate fellowships from [NSF](http://www.nsfgrfp.org/) and [HHMI](http://www.hhmi.org/science-education/programs/gilliam-fellowships-advanced-study/)."
+Robbie is supported by graduate fellowships from [NSF](http://www.nsfgrfp.org/) and [HHMI](http://www.hhmi.org/science-education/programs/gilliam-fellowships-advanced-study/), and his cat [Boo the Cat](/pets/#Boo%20the%20Cat)."
 ---
