@@ -4,17 +4,19 @@ layout: default
 group: courses
 permalink: /peer_review/how_to
 ---
-When reviewing a paper, try to keep the following in mind:
+
+#Reading the paper:
 - Read the paper fully, making notes about what is clear and what is not.
-- Note technical issues, such as
+- Note technical issues, such as:
   - Are there experiments or analyses that should be done (or reframed)?
   - Do the authors describe new methods? If yes, how do these methods compare to existing methods?
-- Note stylistic issues, such as
+- Note stylistic issues, such as:
   - are the figures and accompanying legends clear?
   - Spelling/grammar errors
   - Are acronyms used excessively and without justifiable reason?
   - Are there any missing or incorrect citations?
 
+#Composing the review:
 When formatting a first draft of a review, create three sections:
 
 ### Summary:
@@ -40,3 +42,7 @@ When formatting a first draft of a review, create three sections:
   - JF's tend to focus a lot on clarity, but it’s great to have a reviewer who is eagle-eyed for all issues
 - Note any parts of the paper you do not feel like you are able to assess
   - "A significant part of the paper relies on a sophisticated analysis of mass spectrometry. I cannot offer expert feedback on the technical merits of this part of the paper.”
+
+#After composing the review:
+- Reflect on the points you made and consider what is essential for supporting the arguments that are made in the paper
+- Avoid the instinct to focus on the gatekeeping role of review and instead try to reframe all comments around what will help the science the most
