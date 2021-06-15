@@ -5,7 +5,7 @@ group: courses
 permalink: /peer_review/how_to
 ---
 
-#Reading the paper:
+# Reading the paper:
 - Read the paper fully, making notes about what is clear and what is not.
 - Note technical issues, such as:
   - Are there experiments or analyses that should be done (or reframed)?
@@ -16,7 +16,7 @@ permalink: /peer_review/how_to
   - Are acronyms used excessively and without justifiable reason?
   - Are there any missing or incorrect citations?
 
-#Composing the review:
+# Composing the review:
 When formatting a first draft of a review, create three sections:
 
 ### Summary:
@@ -33,6 +33,10 @@ When formatting a first draft of a review, create three sections:
   - Enumerate only major issues that deal with data quality and data interpretation and reflect on the ability of the paper to accomplish it's major goals
   - Each major issue should be its own paragraph or list of questions 
     - this is your chance to ask both specific and open ended questions!
+    - be specific and prescriptive, not passive agressive. Outline the experimental or textual revisions that are necessary to support the science. 
+      - DON'T: "it would be nice to include another technique."
+      - DO: "Your data do not fully support this specific (quote from paper) claim. Consider revising by either adding this specific control/technique described in this paper or altering the claim (paraphrase from paper) to allow for (reduced) alternative interpretation." 
+      - REMEMBER: Most often, changes can be textual only! Do not suggest new experiments or controls just for the sake of suggesting something.
  
 
 ### Minor Points:
@@ -43,6 +47,7 @@ When formatting a first draft of a review, create three sections:
 - Note any parts of the paper you do not feel like you are able to assess
   - "A significant part of the paper relies on a sophisticated analysis of mass spectrometry. I cannot offer expert feedback on the technical merits of this part of the paper.”
 
-#After composing the review:
+# After composing the review:
 - Reflect on the points you made and consider what is essential for supporting the arguments that are made in the paper
 - Avoid the instinct to focus on the gatekeeping role of review and instead try to reframe all comments around what will help the science the most
+- Re-read the review with an eye towards the reaction of the most junior author. Try to be empathetic to their point of view.
