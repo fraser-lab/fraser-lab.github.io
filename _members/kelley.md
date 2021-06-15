@@ -1,20 +1,24 @@
 ---
-published: false
 name: Alexis Kelley
 startdate: 2021-06-14
 enddate:
-image: /static/img/members/LastName.jpg #365 x 365 pixels, 72 dpi
-altimage: /static/img/members/LastName_pb.jpg #365 x 365 pixels, 72 dpi
-position: PROPEL Post-baccalaureate researcher
+image: /static/img/members/kelley.jpg #365 x 365 pixels, 72 dpi
+altimage: #/static/img/members/LastName_pb.jpg #365 x 365 pixels, 72 dpi
+position: [PROPEL](https://propel.ucsf.edu) post-baccalaureate researcher
 #subsequent:  update once you become an alumnus
-pronouns: #personal pronouns
-email: username (at) domain.com #Preferred public email address
-scholar: XXXXXXXXXXXX #Google Scholar User ID
+pronouns: She/Her/Hers
+email: alexiskelley1207 (at) gmail.com #Preferred public email address
+scholar:
 website: https://website.com/
-UCSF: XXXXXXXX #UCSF Profile ID - Employees only
-twitter: username
-linkedin: username
-github: username
-orcid: XXXX-XXXX-XXXX-XXXX
-description: ""
+UCSF:
+twitter: Penguin_Chika
+linkedin: https://www.linkedin.com/in/alexis-kelley-469881141/
+github: akelley1207
+orcid:
+description: "Alexis graduated from UC Merced with a degree in Applied Mathematics with emphasis in Computational Biology. During undergrad, she studied prostate cancer heterogenity and used predictive modeling to study cells that undergo Intermittent Androgen Suppression Therapy with Dr. Erica Rutter at UC Merced. She has also completed other projects in prostate cancer and antigen-antibody interactions at Lawrence Livermore National Laboratory and the University of Southern California.
+---
+Her research at UCSF will use enzymology and structural biology to identify PROSS mutants of mouse Acidic Mammalian Chitinase (mAMCase) that improve expression and solubility in bacteria, and enzyme activity against complex chitin substrates.
+
+When not in the lab,
+Alexis enjoys playing jazz trumpet, exploring new places, and relaxing at home."
 ---
