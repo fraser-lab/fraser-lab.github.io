@@ -10,13 +10,14 @@ group: reviews
 {% for review in site.reviews reversed %}
 	<hr>
 	<div class="row" style="padding-top: 60px; margin-top: -60px;" id="{{review.date}}">
-	<div><h5>{{ review.title | markdownify | remove: '<p>' | remove: '</p>' | strip }}<br></h5>
-	<h6>{{ review.authors | markdownify | remove: '<p>' | remove: '</p>' }}</h6><br>
-	Reviewed by: <strong>{{ review.reviewers | markdownify | remove: '<p>' | remove: '</p>' }}</strong><br><br>
+	<div><h5>{{ review.title | markdownify | remove: '<p>' | remove: '</p>' | strip }}.<br></h5>
+	<h6>{{ review.authors | markdownify | remove: '<p>' | remove: '</p>' | strip}}.</h6><br>
+	Reviewed by: <strong>{{ review.reviewers | markdownify | remove: '<p>' | remove: '</p>' | strip }}.</strong><br><br>
 	</div>
 	{% if review.abstract %}
 	<div>{{ review.abstract | markdownify | remove: '<p>' | remove: '</p>' }}</div>
 	{% endif %}
+	<br>
 	</div>
 
 	<div class="row" style="padding-top: 20px; margin-top: -20px">
@@ -63,6 +64,10 @@ group: reviews
 				<li>Zenodo Record: <a href="https://www.zenodo.org/record/{{record.zenodo}}" alt = "link to review as zenodo: {{record.zenodo}}">{{record.zenodo}}</a></li>
 				{% endif %}
 
+				{% if record.pdf %}
+				<li><a href="{{record.pdf}}" alt="link to full text: {{record.pdf}}">Full Text</a></li>
+				{% endif %}
+
 			{% endfor %}
 		</ul>
 		<ul class="col">
@@ -83,7 +88,7 @@ group: reviews
 				{% for record in review.highlight %}
 					<!--Article Title-->
 					{% if record.title %}
-						<li>{{record.title | markdownify | remove: '<p>' | remove: '</p>' | strip }}</li>
+						<li>{{record.title | markdownify | remove: '<p>' | remove: '</p>' | strip }}.</li>
 					{% endif %}
 
 					<!--Authors-->

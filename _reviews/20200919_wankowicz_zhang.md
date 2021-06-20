@@ -1,8 +1,8 @@
 ---
-title: "Resolving Individual-Atom of Protein Complex using Commonly Available 300-kV Cryo-electron Microscopes."
+title: "Resolving Individual-Atom of Protein Complex using Commonly Available 300-kV Cryo-electron Microscopes"
 date: '2020-09-19'
-authors: "Zhang K, Pintilie GD, Li S, Schmid MF, Chiu W."
-reviewers: "Wankowicz S, Fraser JS."
+authors: "Zhang K, Pintilie GD, Li S, Schmid MF, Chiu W"
+reviewers: "Wankowicz S, Fraser JS"
 image: "/static/img/reviews/2020_zhang.png"
 
 peer-review:

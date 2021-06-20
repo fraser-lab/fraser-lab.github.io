@@ -1,8 +1,8 @@
 ---
-title: "Measurement of Atom Resolvability in CryoEM Maps with Q-scores."
+title: "Measurement of Atom Resolvability in CryoEM Maps with Q-scores"
 date: "2019-08-05"
-authors: "Pintilie G, Zhang K, Su Z, Li S, Schmid MF, Chiu W."
-reviewers: "Barad B, Fraser JS."
+authors: "Pintilie G, Zhang K, Su Z, Li S, Schmid MF, Chiu W"
+reviewers: "Barad B, Fraser JS"
 image: "/static/img/reviews/2020_pintilie.png"
 
 peer-review:

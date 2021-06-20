@@ -1,8 +1,8 @@
 ---
-title: "Improved chemistry restraints for crystallographic refinement by integrating the Amber force field into Phenix."
+title: "Improved chemistry restraints for crystallographic refinement by integrating the Amber force field into Phenix"
 date: "2019-08-07"
-authors: "Moriarty NW, Janowski PA, Swails JM, Nguyen H, Richardson JS, Case DA, Adams PD."
-reviewers: "Wankowicz S, Pierce L, Fraser JS."
+authors: "Moriarty NW, Janowski PA, Swails JM, Nguyen H, Richardson JS, Case DA, Adams PD"
+reviewers: "Wankowicz S, Pierce L, Fraser JS"
 image: "/static/img/reviews/2020_moriarty.png"
 
 peer-review:

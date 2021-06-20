@@ -1,8 +1,8 @@
 ---
-title: "MicroED structure of the human adenosine receptor determined from a single nanocrystal in LCP."
+title: "MicroED structure of the human adenosine receptor determined from a single nanocrystal in LCP"
 date: "2020-09-28"
-authors: "Martynowycz MW, Shiriaeva A, Ge X, Hattne J, Nannenga BL, Cherezov V, Gonen T."
-reviewers: "Young ID, Fraser JS."
+authors: "Martynowycz MW, Shiriaeva A, Ge X, Hattne J, Nannenga BL, Cherezov V, Gonen T"
+reviewers: "Young ID, Fraser JS"
 image: "/static/img/reviews/2020_martynowycz.jpg"
 
 peer-review:
