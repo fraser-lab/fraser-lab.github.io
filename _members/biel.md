@@ -1,11 +1,11 @@
 ---
 name: Justin Biel, Ph.D.
 startdate: 2014-09-02
-enddate: YYYY-MM-DD
+enddate: 2021-07-15
 image: /static/img/members/Biel.jpg
 altimage: /static/img/members/Biel_pb.jpg
 position: Staff Scientist
-subsequent:
+subsequent: 
 pronouns: he/him/his
 email: justin.biel (at) ucsf.edu
 scholar: FatB6VQAAAAJ
