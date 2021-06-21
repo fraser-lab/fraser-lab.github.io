@@ -56,16 +56,16 @@ group: reviews
 
 				<!--Disqus comment-->
 				{% if record.disqus %}
-				<li>Review: <a href="http://disq.us/p/{{record.disqus}}" alt = "link to review as comment: {{record.disqus}}">{{record.disqus}}</a></li>
+				<li>Review: <a href="http://disq.us/p/{{record.disqus}}" alt = "link to review as Disqus comment: {{record.disqus}}">{{record.disqus}}</a></li>
 				{% endif %}
 
 				<!--zenodo record-->
 				{% if record.zenodo %}
-				<li>Zenodo Record: <a href="https://www.zenodo.org/record/{{record.zenodo}}" alt = "link to review as zenodo: {{record.zenodo}}">{{record.zenodo}}</a></li>
+				<li>Zenodo Record: <a href="https://www.zenodo.org/record/{{record.zenodo}}" alt = "link to review as zenodo PDF: {{record.zenodo}}">{{record.zenodo}}</a></li>
 				{% endif %}
 
 				{% if record.pdf %}
-				<li><a href="{{record.pdf}}" alt="link to full text: {{record.pdf}}">Review Full Text</a></li>
+				<li>Review: <a href="{{record.pdf}}" alt="link to full review text: {{record.pdf}}">Full Text</a></li>
 				{% endif %}
 
 			{% endfor %}
