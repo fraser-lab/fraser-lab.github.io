@@ -3,7 +3,7 @@
 
 #Style Guide: Publications
 # authors - double quotes, to avoid breaking on names with apostrophes
-# all other sections - indent with 2 spaces, strings in single quotes
+# all other sections - indent with 2 spaces, strings in double quotes
 
 #Names of lab members should be bolded using the following convention: **Surname FM**.
 #If there are multiple lab members in a row, include them in one set of double asterisk pairs.
@@ -13,33 +13,33 @@
 
 #Leave PMID and PMCID blank until an ID is assigned.
 
-#Do not include additional subsections if they are not relevant
-#to a publication (PDB, data, Zenodo, etc).
+#Do not include additional subsections if they are not relevant to a publication (PDB, data, Zenodo, etc).
 
 #Order of links: GitHub/Data/Server, Lab Websites (alphabetical order), Facility, Twitter, F1000, News Articles
-#Put article strings in single quotes since they are separated by a colon -- i.e. CNN: Article Name.
+#Put article strings in double quotes since they are separated by a colon -- i.e. CNN: Article Name.
 
 #Example Publication
 # - <authors>: "Surname FM, **Fraser JS.** Title of article. *Submitted - Preprint on Biorxiv*. YYYY."
-#   pub_date: 'YYYYMM'
-#   image: '/static/img/pub/surname_YYYY.png'
-#   pmid: '########'
-#   pmcid: 'PMC#######'
-#   biorxiv: 'YYYY.MM.DD.######'
-#   pdf: '/static/pdf/publications/surname_YYYY.pdf'
+#   pub_date: "YYYYMM"
+#   image: "/static/img/pub/surname_YYYY.png"
+#   pmid: "########"
+#   pmcid: "PMC#######"
+#   biorxiv: "YYYY.MM.DD.######"
+#   biorxiv_versioned: "YYYY.MM.DD.######v1"
+#   pdf: "/static/pdf/publications/surname_YYYY.pdf"
 #   pdbs:
 #     - PDB_ID
 #   paired_maps_and_models:
 #     - pdb: PDB_ID
-#       emdb: '#####'
+#       emdb: "#####"
 #   paired_maps_and_models_and_data:
 #     - pdb: PDB_ID
-#       emdb: '#####'
-#       empiar: '#####'
+#       emdb: "#####"
+#       empiar: "#####"
 #   data:
-#     - '10.11577/1602169'
+#     - "10.11577/1602169"
 #   zenodo:
-#     - code: '3555658'
+#     - code: "3555658"
 #       description: qPTxM code snapshot
 #   links:
 #     - name: Fujimori lab  @ UC San Francisco
@@ -59,24 +59,24 @@
 - authors: "**Last Name FN**, **Fraser JS**.
 Comparing serial X-ray crystallography and microcrystal electron diffraction (MicroED) as methods for routine structure
 determination from small macromolecular crystals. *IUCrJ*. 2020."
-  pub_date: '201909'
-  image: '/static/img/pub/micro.jpg'
-  pmid: '32148858'
-  pmcid: 'PMC7055375'
-  biorxiv: '767061'
-  pdf: '/static/pdf/publications/wolff_2020.pdf'
+  pub_date: "201909"
+  image: "/static/img/pub/micro.jpg"
+  pmid: "32148858"
+  pmcid: "PMC7055375"
+  biorxiv: "767061"
+  pdf: "/static/pdf/publications/wolff_2020.pdf"
   pdbs:
     - 6U5C
     - 6U5D
     - 6U5E
   paired_maps_and_models:
     - pdb: 6U5G
-      emdb: '20645'
+      emdb: "20645"
   data:
-      - '10.11577/1602169'
-      - '10.11577/1598261'
-      - '10.11577/1595660'
-      - '10.15785/SBGRID/752'
+      - "10.11577/1602169"
+      - "10.11577/1598261"
+      - "10.11577/1595660"
+      - "10.15785/SBGRID/752"
   links:
     - name: Gonen lab @ UC Los Angeles
       url: https://cryoem.ucla.edu/
