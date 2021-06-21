@@ -26,6 +26,7 @@ group: publications
 		<img class = "img-fluid" src = "{{publication.image}}" alt = "Key Figure" style="max-height: 200px;">
 	</div>
 	<ul class="col-sm-6">
+		<br>
 		<h6>Access the paper</h6>
 		<!--PMID-->
 		{% if publication.pmid %}
@@ -39,12 +40,12 @@ group: publications
 
 		<!--Biorxiv - optional -->
 		{% if publication.biorxiv %}
-		<li>Biorxiv Preprint: <a href="http://dx.doi.org/10.1101/{{publication.biorxiv}}" alt = "biorxiv preprint link: {{publication.biorxiv}}"> {{publication.biorxiv | split '.' | last}}</a></li>
+		<li>Biorxiv Preprint: <a href="http://dx.doi.org/10.1101/{{publication.biorxiv}}" alt = "biorxiv preprint link: {{publication.biorxiv}}"> {{publication.biorxiv | split: "." | last }}</a></li>
 		{% endif %}
 
-		<!--Biorxiv specific version - optional -->
-		{% if publication.biorxiv_versioned %}
-		<li>Biorxiv Preprint: <a href="http://www.biorxiv.org/content/10.1101/{{publication.biorxiv_versioned}}" alt = "biorxiv preprint link: {{publication.biorxiv_versioned}}"> {{publication.biorxiv_versioned | split '.' | last}}</a></li>
+		<!--Biorxiv specific version-->
+		{% if publication.biorxiv_version %}
+		<li>Biorxiv Preprint v{{publication.biorxiv_version | split: "." | last | split: "v" | last }}: <a href="http://www.biorxiv.org/content/10.1101/{{publication.biorxiv_version}}" alt = "biorxiv preprint link: {{publication.biorxiv_version}}">{{publication.biorxiv_version | split: "." | last | split: "v" | first }}</a></li>
 		{% endif %}
 
 		<!--Arxiv - optional -->
