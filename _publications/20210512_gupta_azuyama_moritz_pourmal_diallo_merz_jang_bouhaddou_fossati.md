@@ -6,7 +6,7 @@ pub_date:
 image: "/static/img/pub/2021_gupta_azuyama_moritz_pourmal_diallo_merz_jang_bouhaddou_fossati.jpg"
 pmid:
 pmcid:
-biorxiv: "2021.05.10.443524v1"
+biorxiv: "2021.05.10.443524"
 pdf:
 links:
 - name: QBI Coronavirus Research Group @ UC San Francisco
