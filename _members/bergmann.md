@@ -2,7 +2,7 @@
 published: false
 name: Lena Bergmann
 startdate: 2021-MM-DD
-enddate:
+enddate: YYYY-MM-DD
 image: /static/img/members/LastName.jpg #365 x 365 pixels, 72 dpi
 altimage: /static/img/members/LastName_pb.jpg #365 x 365 pixels, 72 dpi
 position: Role in Fraser Lab

@@ -1,6 +1,6 @@
 ---
 published: false
-name: Tushar Raskar
+name: Tushar Raskar, Ph.D.
 startdate: 2021-MM-DD
 enddate:
 image: /static/img/members/LastName.jpg #365 x 365 pixels, 72 dpi

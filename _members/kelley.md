@@ -4,7 +4,7 @@ startdate: 2021-06-14
 enddate:
 image: /static/img/members/kelley.jpg #365 x 365 pixels, 72 dpi
 altimage: #/static/img/members/LastName_pb.jpg #365 x 365 pixels, 72 dpi
-position: PROPEL post-baccalaureate researcher
+position: "[PROPEL](https://propel.ucsf.edu) post-bac researcher"
 #subsequent:  update once you become an alumnus
 pronouns: she/her/hers
 email: alexiskelley1207 (at) gmail.com #Preferred public email address
