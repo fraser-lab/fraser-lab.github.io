@@ -139,7 +139,7 @@ The [UCSF COVID-19 website](https://coronavirus.ucsf.edu/resources) provides fin
 <br/>
 <br/>
 
-## <a id="data">Lab Notebooks/Data deposition</a>
+## <a id="data">Lab Notebooks and Data Deposition</a>
 As transparency and openness are key values to the lab, sharing our information both within the lab and externally to the scientific community is a top priority.
 ##### Within the Fraser lab
 Lab members are expected to document all of their work in a lab notebook, and this information should be accessible to other members of the lab. Currently, the lab uses the online electronic lab notebook, [Benchling](benchling.com). We've created guidelines on how to [use Benchling](https://docs.google.com/document/d/1ZsR7628PD5LOKuCUP11SHvOxUqh8PJQQ7SJvhFEXLlo/edit?usp=sharing) and how to [organize your lab notebooks](https://docs.google.com/document/d/10yrbA3tFgIFE7paOR6v2qmdy3AVGY2wNwkvW7B4HFPo/edit?usp=sharing). Read these guides thoroughly as they detail how to format your notebook and how we keep our lab data organized. Additionally, members are expected to keep the shared lab protocols up-to-date and to contribute new protocols as they become relevant to the lab. Lab notebooks are backed up biannually.
@@ -193,9 +193,15 @@ Talk about your work openly. Share early. A key component to information transpa
 
 ---
 This development of this compact was guided by similar compacts and philosophies of several labs, see links.
-[Avasthi Lab, Dartmouth](http://www.avasthilab.org/lab-policies-and-tips/)
+
+[Avasthi Lab, Dartmouth College](http://www.avasthilab.org/lab-policies-and-tips/)
+
 [Heemstra Lab, Emory University](https://docs.google.com/document/d/1a8ecjUWVbXR1JqgbzqRwKmqaNK2cvBsysNFVXk56Lpo/edit)
+
 [Matreyek Lab, Case Western Reserve University](http://www.matreyeklab.com/6-lab-philosophy/)
-[Moghe Lab, Cornell](https://www.moghelab.org/lab-philosophy)
+
+[Moghe Lab, Cornell University](https://www.moghelab.org/lab-philosophy)
+
 [Syed Lab, University of Minnesota](https://docs.google.com/document/d/1wa067HF3iBv5M0_ao6M1GzPg4mUof_PoVlEAKyIn8Xk/edit)
+
 [Mentoring resources, University of Wisconsin-Madison ICTR](https://ictr.wisc.edu/mentoring/mentors-alignment-phase-resources/)
