@@ -1,8 +1,8 @@
 ---
 published: false
 name: Ashraya Ravikumar, Ph.D.
-startdate: 2021-08-13 #tentative
-enddate:
+startdate: 2021-08-13
+enddate: YYYY-MM-DD
 image: /static/img/members/Ravikumar.jpg #365 x 365 pixels, 72 dpi
 altimage: /static/img/members/Ravikumar_pb.jpg #365 x 365 pixels, 72 dpi
 position: Postdoctoral Fellow
@@ -16,7 +16,7 @@ twitter: ashrayaravi
 linkedin: ashraya-ravikumar-2647a39b
 github: ashrayar
 orcid: 0000-0002-4902-4025
-description: "Ashraya graduated from Anna University, India as a Bachelor of Engineering in Computer Science. She completed her PhD in Indian Insitute of Science, India in the department of Molecular Biophysics Unit in March 2021. During her PhD, she performed computational studies to understand various aspects of stereochemistry of crystal and cryo-EM protein structures.
+description: "Ashraya graduated from Anna University, India with a Bachelor of Engineering in Computer Science. She completed her PhD in the Molecular Biophysics Unit at the Indian Insitute of Science in March 2021. During her PhD, Ashraya performed computational studies to understand various aspects of stereochemistry of crystal and cryo-EM protein structures.
 
-In Fraser Lab, she seeks to develop ensemble modeling methods for cryo-EM and X-ray crystallography."
+In Fraser Lab, Ashraya seeks to develop ensemble modeling methods for cryo-EM and X-ray crystallography."
 ---

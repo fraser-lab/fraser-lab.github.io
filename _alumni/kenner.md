@@ -1,11 +1,11 @@
 ---
 name: Lillian Kenner, Ph.D.
-startdate: 2011-01-01
+startdate: 2011-01-02
 enddate: 2014-09-01
 image:
 altimage:
 position: Specialist
-subsequent: Graduate Student, Biophysics - Frost Lab @ UCSF; now Postdoctoral Fellow - Dueber Lab @ Genentech
+subsequent: Graduate Student, [Biophysics](https://biophysics.ucsf.edu) - [Frost Lab @ UCSF](https://frostlab.org); now Postdoctoral Fellow - [Dueber Lab @ Genentech](https://www.gene.com/scientists/our-scientists/erin-dueber)
 pronouns: she/her/hers
 email:
 scholar: UrlSRv0AAAAJ

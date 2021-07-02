@@ -5,7 +5,7 @@ enddate: 2016-12-01
 image: /static/img/members/lazarou.jpg
 altimage: /static/img/members/lazarou_pb.jpg
 position: Visiting Technician
-subsequent: Graduate Student - Buccella Lab @ NYU
+subsequent: Graduate Student - [Buccella Lab @ NYU](https://wp.nyu.edu/buccella_group/)
 pronouns: he/him/his
 email:
 scholar:

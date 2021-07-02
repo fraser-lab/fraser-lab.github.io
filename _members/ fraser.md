@@ -1,6 +1,6 @@
 ---
 name: James Fraser, Ph.D.
-startdate: YYYY-MM-DD
+startdate: 2011-01-01
 enddate: YYYY-MM-DD
 image: /static/img/members/Fraser.jpg
 # altimage: /static/img/members/Fraser_pb.jpg

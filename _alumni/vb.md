@@ -1,10 +1,10 @@
 ---
 name: Andrew Van Benschoten, Ph.D.
-startdate: 2011-09-01
+startdate: 2012-06-01
 enddate: 2015-05-26
 image: /static/img/members/vb.jpg
 altimage: /static/img/members/vb_pb.jpg
-position: Graduate Student, Biophysics
+position: Graduate Student, [Biophysics](https://biophysics.ucsf.edu)
 subsequent: Senior Data Scientist - Oracle; now Senior Manager, Data Science - Ovative Group
 pronouns: he/him/his
 email: andrew.vanbenschoten (at) ucsf.edu

@@ -5,7 +5,7 @@ enddate: 2011-08-01
 image:
 altimage:
 position: Technician
-subsequent: Graduate Student, MCB - Marqussee Lab @ UC Berkeley; now Postdoctoral Fellow - Kampmann Lab @ UCSF
+subsequent: Graduate Student, Molecular and Cell Biology - [Marqusee Lab @ UC Berkeley](http://zebra.berkeley.edu/); now Postdoctoral Fellow - [Kampmann Lab @ UCSF](https://kampmannlab.ucsf.edu)
 pronouns: he/him/his
 email:
 scholar:

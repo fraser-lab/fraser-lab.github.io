@@ -35,27 +35,27 @@ Subsequently: {{member.subsequent}} <br>
 {% endif %}
 
 {% if member.orcid %}
-<a href="http://orcid.org"><img class="inline-block mem-icon" src="/static/img/orcidid_logo.svg"></a>
+<a href="http://orcid.org"><img class="inline-block mem-icon" src="/static/img/logo/orcid_logo.svg"></a>
 <a href="http://orcid.org/{{member.orcid}}"> {{member.orcid}}</a> <br>
 {% endif %}
 
 {% if member.linkedin %}
-<a href="http://www.linkedin.com"><img class="inline-block mem-icon" src="/static/img/lin_logo.svg"></a>
+<a href="http://www.linkedin.com"><img class="inline-block mem-icon" src="/static/img/logo/linkedin_logo.svg"></a>
 <a href= "http://www.linkedin.com/in/{{member.linkedin}}"> {{member.linkedin}} </a> <br>
 {% endif %}
 
 {% if member.scholar %}
-<a href="http://scholar.google.com"><img class="inline-block mem-icon" src="/static/img/gscholar_logo.svg"></a>
+<a href="http://scholar.google.com"><img class="inline-block mem-icon" src="/static/img/logo/gscholar_logo.svg"></a>
 <a href= "http://scholar.google.com/citations?user={{member.scholar}}"> Scholar Citations </a> <br>
 {% endif %}
 
 {% if member.twitter %}
-<a href="http://twitter.com"><img class="inline-block mem-icon" src="/static/img/twitter2_logo.svg"></a>
+<a href="http://twitter.com"><img class="inline-block mem-icon" src="/static/img/logo/twitter_logo.svg"></a>
 <a href= "http://twitter.com/{{member.twitter}}"> @{{member.twitter}} </a> <br>
 {% endif %}
 
 {% if member.github %}
-<a href="http://github.com"><img class="inline-bloc mem-icon" src="/static/img/github_logo.svg"></a>
+<a href="http://github.com"><img class="inline-bloc mem-icon" src="/static/img/logo/github_logo.svg"></a>
 <a href= "http://github.com/{{member.github}}"> {{member.github}} </a> <br>
 {% endif %}
 </p>

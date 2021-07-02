@@ -12,6 +12,9 @@ group: contact
 <div class="col-md-4">
 
   <h4>Lab Area </h4>
+  [Department of Bioengineering and Therapeutic Sciences](http://bts.ucsf.edu)<br>
+  600 16th Street, Genentech Hall Room S476<br>
+  San Francisco, CA 94143<br>
   tel: 415 502 3488
 
 </div>
@@ -19,9 +22,11 @@ group: contact
 <div class="col-md-4">
 
   <h4>James Fraser, Ph.D.</h4>
-  Professor  <br>
-  Department of Bioengineering and Therapeutic Sciences  <br>
-  California Institute of Quantitative Biosciences (QB3)  <br>
+  Professor<br>
+  [Department of Bioengineering and Therapeutic Sciences](http://bts.ucsf.edu)<br>
+  [California Institute of Quantitative Biosciences (QB3)](https://qb3.org)<br>
+  600 16th Street, Genentech Hall Room S472E<br>
+  San Francisco, CA 94143<br>
   email: jfraser (at) fraserlab.com <br>
   tel: 415 502 1863
 
@@ -30,69 +35,37 @@ group: contact
 <div class="col-md-4">
 
   <h4> Hilary Smith Mahon</h4>
-  Administrative Assistant to Dr. James Fraser and  others<br>
-  Department of Bioengineering and Therapeutic Sciences  <br>
-  Email:  Hilary.SmithMahon (at) ucsf.edu  <br>
-  Phone: 415 476-1947   <br>
+  Administrative Assistant to Dr. James Fraser and others<br>
+  [Department of Bioengineering and Therapeutic Sciences](http://bts.ucsf.edu)<br>
+  email: Hilary.SmithMahon (at) ucsf.edu<br>
+  tel: 415 476-1947 <br>
 
 </div>
 
 </div>
-
-# Directions to the Fraser Lab
-
-<div class="row">
-
-<div class="col-md-4">
-
-<h4>Office Address</h4>
-
-Department of Bioengineering and Therapeutic Sciences Box #2240<br>
-600 16th Street, Genentech Hall Room S472E<br>
-San Francisco, CA 94143
-
-
-</div>
-
-<div class="col-md-4">
-
-<h4>Lab Address</h4>
-
-Department of Bioengineering and Therapeutic Sciences Box #2240<br>
-600 16th Street, Genentech Hall Room S476<br>
-San Francisco, CA 94143
-
-</div>
-
-</div>
-
-
-
-
-<!-- Our lab is in on the UCSF Mission Bay campus in Genentech Hall (600 16th St, San Francisco, CA 94158)
- -->
-
-### The Mission Bay Campus can be reached:  
-* #### by public transportation:
-  * **Option 1**: Exit BART at the 16th St Station and wait for the free UCSF Red shuttle that stops directly outside [what was once a Burger King and now has lovely graffiti](https://www.google.com/maps/@37.765092,-122.419164,3a,75y,5.38h,82.64t/data=!3m4!1e1!3m2!1sH_jzIrhuF8wnnEp0duvIEQ!2e0) (this option is only available on weekdays: [UCSF Shuttles](http://www.campuslifeservices.ucsf.edu/transportation/services/shuttles)).
-  * **Option 2**: Exit BART at the 16th St Station and take the 55 Muni Bus towards Mission Bay. Exit at 16th and 4th.
-  * **Option 3**: Exit BART at the Embarcadero Station and then take the MUNI T-line inbound to Sunnydale. Exit at the Mission Bay stop on 3rd Street.
-  * **Option 4**: Exit Caltrain and then walk along [4th St](https://www.google.com/maps/dir/Caltrain+Bike+Station,+311+Townsend+St,+San+Francisco,+CA+94107/600+16th+St,+San+Francisco,+CA,+USA/@37.7718722,-122.4005542,16z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x808f7fd683557039:0xcb4ed812802cede8!2m2!1d-122.395387!2d37.776552!1m5!1m1!1s0x808f7fcf1e3cc5ff:0x6e582d4a0ba7d4ca!2m2!1d-122.3922173!2d37.7671496!3e2) for about 10-15 minutes until arriving at UCSF - if the Muni is there, you can get on the T-line inbound and exit at the Mission Bay stop on 3rd Street, but this is often slower than walking.
-  * **Option 5**: There are many other shuttle options on the page for [UCSF Shuttles](http://www.campuslifeservices.ucsf.edu/transportation/services/shuttles)).
-* #### by car:
-  * We are at 600 16th Street Street, between Owens and 4th St. There are two parking garages (please park in the  garages and not in the surface lots) on campus that are equally convenient.
-  * If being dropped off (by rideshare), use 1675 Owens St, San Francisco, CA 94158 as an address. There is convenient parking circle (red star on the map below) to let a passenger out in between the Rutter center and the parking lot.
-
-### Once on campus, proceed to Genentech Hall:
-1. You will have to enter through Genentech Hall from the Koret Quad side (Red arrow on the map below)
-2. Sign in at security for a meeting with Dr. James Fraser (office Genentech Hall S472E)
-3. Take the elevator or staircase to the fourth floor
-4. Walk west down the hall. If the floor changes colour to grey, you have gone the wrong way and are now in Byers Hall. Turn around and walk back to Genentech Hall
-5. Make your second left (south) to the S401-484 neighborhood
-6. James' office is through the clear doors, the lab is on your right.
-
-<img class="img-fluid" src="/static/img/map_to_mission_bay.png" alt="Map of Mission Bay">
 
 ## Land Acknowledgement Statement
 
-The Fraser lab recognizes that the University of California San Francisco sits on the unceded land of the Ramaytush Ohlone (pronounced Rah-mah-tush O-lone-ee) peoples, the original inhabitants of the San Francisco Peninsula. As settlers on this land, we want to recognize the historic, and ongoing, discrimination and violence inflicted upon Indigenous people in North America. Please read our full statement [here](/land).
+The Fraser lab recognizes that the University of California San Francisco sits on the unceded land of the Ramaytush Ohlone (pronounced Rah-mah-tush O-lone-ee) peoples, the original inhabitants of the San Francisco Peninsula. As settlers on this land, we want to recognize the historic, and ongoing, discrimination and violence inflicted upon Indigenous people in North America. Please read our [full statement](/land_ack).
+
+# Directions to the Fraser Lab
+### The Mission Bay Campus can be reached:  
+* #### Public Transportation:
+  * **Option 1**: Exit BART at the 16th St Station and wait for the free [UCSF Red shuttle](https://campuslifeservices.ucsf.edu/upload/transportation/files/Red.pdf) (weekdays only) that stops directly outside [what was once a Burger King and now has lovely graffiti](https://www.google.com/maps/@37.765092,-122.419164,3a,75y,5.38h,82.64t/data=!3m4!1e1!3m2!1sH_jzIrhuF8wnnEp0duvIEQ!2e0).
+  * **Option 2**: [Exit BART at the 16th St Station and take the 22 Muni Bus towards Mission Bay. Exit at 16th and 4th.](https://goo.gl/maps/gaD7sNsL947S4KcS9)
+  * **Option 3**: [Exit BART at the Embarcadero Station and then take the MUNI T-line inbound to Sunnydale. Exit at the UCSF/Chase Center stop on 3rd Street.](https://goo.gl/maps/Ma3P6aYojhY74YAu7)
+  * **Option 4**: Exit Caltrain and then walk along [4th St](https://goo.gl/maps/tpJHnJ2NgTyaCqXE9) for about 15 minutes until arriving at UCSF Mission Bay.
+  * **Option 5**: There are many different [UCSF Shuttle routes](http://www.campuslifeservices.ucsf.edu/transportation/services/shuttles) (weekdays only).
+* #### Car:
+  * We are at 600 16th Street, between Owens St. and 4th St. There are three [UCSF parking garages](https://campuslifeservices.ucsf.edu/transportation/services/parking/public_parking) - [UCSF Medical Center](https://www.google.com/maps/dir//1835+Owens+Street,+San+Francisco,+CA/@37.766028,-122.3965034,16z/data=!4m8!4m7!1m0!1m5!1m1!1s0x808f7fc8cdb8207f:0x127c6a3dfd479d27!2m2!1d-122.3921259!2d37.7659687), [UCSF Community Center](https://www.google.com/maps/dir//1625+Owens+Street,+San+Francisco,+CA/@37.7683246,-122.3960538,17z/data=!4m8!4m7!1m0!1m5!1m1!1s0x808f7fce59453269:0x84e5cd7b11e40956!2m2!1d-122.3938649!2d37.7682654), and [UCSF Third Street](https://www.google.com/maps/dir//1650+3rd+Street,+San+Francisco,+CA/@37.7681787,-122.3917134,17z/data=!4m8!4m7!1m0!1m5!1m1!1s0x808f7fc5f2d2fc19:0xf5e85a2024424948!2m2!1d-122.3895247!2d37.7681745). Please park in one of the garages and not in the surface lots.
+  * If you are being dropped off (by a rideshare service), use 1675 Owens St, San Francisco, CA 94158 as the destination address. There is convenient parking circle (red star on map below) for drop-off.
+
+### Once on campus, proceed to Genentech Hall:
+1. You will have to enter through Genentech Hall from the Koret Quad side (Red arrow on the map below).
+2. Sign in at security for a meeting with Dr. James Fraser (Office - Genentech Hall S472E).
+3. Take the elevator or staircase to the 4th floor.
+4. Walk west down the hall. The large windows facing the courtyard will be on your right. If the floor color changes to grey, you have gone the wrong way and are now in Byers Hall. Turn around and walk back towards Genentech Hall.
+5. You will encounter an intersection. Make a left (south) and head towards the S401-484 area.
+6. You should find a break room. James's office is through the clear doors straight ahead. The Fraser lab is on the right.
+
+<img class="img-fluid" src="/static/img/map_to_mission_bay.png" alt="Map of Mission Bay">
