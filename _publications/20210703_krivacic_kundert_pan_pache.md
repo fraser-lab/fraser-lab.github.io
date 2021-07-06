@@ -1,14 +1,17 @@
 ---
 title: "Accurately positioning functional residues with robotics-inspired computational protein design."
-authors: "Krivacic C, Kundert K, Pan X, Pache RA, **Liu L**, Conchúir SO, Jeliazkov JR, Gray JJ, **Thompson MC, Fraser JS**, Kortemme T."
+authors: "Krivacic C&#42;, Kundert K&#42;, Pan X&#42;, Pache RA&#42;, **Liu L**, Conchúir SO, Jeliazkov JR, Gray JJ, **Thompson MC, Fraser JS**, Kortemme T."
 journal:
 pub_date: 2021-07-03
-image: "/static/img/pub/2021_Krivacic.png"
+image: "/static/img/pub/2021_krivacic_kundert_pan_pache.png"
 pmid:
 pmcid:
 biorxiv: 2021.07.02.450934
 biorxiv_version:
 pdf:
+pdbs:
+  - 6UAD
+  - 6UAE
 links:
 - name: Gray lab @ Johns Hopkins University
   url: https://graylab.jhu.edu

@@ -9,6 +9,9 @@ pmcid:
 biorxiv:
 biorxiv_version: "2021.05.10.443524v1"
 pdf:
+pdbs:
+  - 7MSW
+  - 7MSX
 links:
 - name: QBI Coronavirus Research Group @ UC San Francisco
   url: https://qbi.ucsf.edu/COVID-19
