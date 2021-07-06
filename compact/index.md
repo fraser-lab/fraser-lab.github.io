@@ -53,7 +53,6 @@ I like to take an active role in the preparation of all our manuscripts, and I h
 We believe that transparency in [peer review](/reviews/) is critical to improving the quality and professionalism of reviews. We only review manuscripts that have been posted on [bioRxiv](https://www.biorxiv.org) and we post our peer review comments publicly on bioRxiv as well. Peer review is also viewed as a training opportunity and all lab members who co-review with JF are credited for their contribution to the review. JF recognizes that he holds certain privileges that allow him to post peer review comments non-anonymously without fear of repercussion. Unfortunately, this is not the case for all researchers. JF is willing to post reviews on behalf of anyone, both in and outside of the Fraser lab, who wishes to remain anonymous.
 
 Guidelines for how to engage in respectful and constructive peer review can be found on the [Peer Review in the Life Sciences course page](/peer_review/how_to).
-
 <br/>
 <br/>
 
@@ -66,18 +65,7 @@ We occasionally also do sponsored research in the lab and I consult for companie
 
 ## <a id="mentorship">Mentorship</a>
 The most important things I can do are to give people the resources to accomplish what they want to accomplish in the lab, and to make sure what they’re doing is setting them up to grow for the position they want next. I believe that a mentorship relationship is a two way relationship. This means I expect lab members to mentor up, defined as [‘the mentee’s proactive engagement in the mentor-mentee relationship, so that both parties mutually benefit from the relationship and move forward towards an agreed-upon purpose or vision’](https://tomprof.stanford.edu/posting/1525).
->
-The kinetics of career transitions are more determined by their personal desires for what they want to do in their career and less on my desires to keep them in the lab longer (see Conflicts of Interest). I recognize the itinerant nature of their time in the lab and so I try to push people to consistently revisit the question: what’s next? I expect lab members to critically think about their next step and what they need to get there on both a short term and long term basis. I try to work as hard as I can to give my lab the resources, including my time and my guidance, towards their goals.
->
-In terms of project work, I believe in supporting lab members to become independent leaders in their specific subjects. This means I stay engaged in the project and provide critical feedback while guiding members to follow their ideas and directions. To get the best out of both of our time when meeting, I encourage members to follow [this guide](https://fraserlab.com/2021/03/29/one-on-one-meetings/) on one-on-one meetings and to [read advice on how to get the most out of meeting together](http://www.avasthilab.org/2017/03/14/what-to-bring-to-a-meeting-with-your-advisor/). I expect members to recognize and ask for additional feedback and support when needed. This means that members should demand my time and attention as much as they feel is necessary, for example asking for additional meetings for projects or careers, one-on-one journal clubs, or feedback on writing.
->
-Specifically I aim to:
-* Keep the lab well funded to provide access to modern equipment, supplies, methods, and facilities.
-* Maintain a safe work environment both physically and mentally.
-* Provide access to training, resources, networking, collaboration, and presentation opportunities to facilitate lab members research and career goals.
-* Be engaged with the latest science and current status of all lab projects to enable proper guidance.
-* Give my lab members ample amounts of my time both around the lab and one-on-one.
->
+<br/>
 <br/>
 
 ## <a id="career_dev">Career Development</a>
@@ -96,11 +84,14 @@ I recognize that I don't always give people the same opportunity of time on feed
 
 ## <a id="wellbeing">Well-Being</a>
 I like to believe people are pretty good about self-regulating, but I recognize people are able to disguise that they are dealing with more than I can see. Bottom line, your primary concern should always be your physical and mental health. If you ever feel unwell, it's best to stop what you’re doing (safely) and address the issue. Don’t put off or sacrifice your health and well-being to get in one last experiment.
-##### Health and Personal Emergencies-
+
+##### Health and Personal Emergencies
 I trust people, and it’s expected that people will have emergencies. Take care of yourself and your loved ones. If somebody says, “I need some time” that's all I need to hear, but I'm here to listen, to help, and to provide whatever resources and support I can both personally and professionally. I don't need to hear any more details unless people are comfortable and they should not mistake my lack of asking with lack of caring or empathy, but rather just that I want to be respectful of people’s space. If you do have to leave the lab, if possible, please let me know what’s going on even if it’s as vague as “personal emergency” or “I need some time” so that we’re in communication about time away and that I know you are ok. In addition, try to pass off, reschedule, or communicate any time sensitive items like deadlines or microscope time. We are a community, and we are here for one another.
-##### Work-Life Balance-
+
+##### Work-Life Balance
 I’m not super prescriptive of how people work. I expect people to be really invested in their work and have a presence in the lab, but how they establish their rhythm of work-life balance is up to them. It’s easier to have balance when you’re working hard and enjoying it. I'm much more worried about when people aren't working hard and are seemingly dissatisfied with the work that they're doing; it seems to signal a misalignment of their work and life. As a parent, I am often not done with work when I have to leave the lab at the end of the day. I like what I do, and as a result I find myself catching up asynchronously. This means I often send messages and will very rarely (but not never) ask people to meet outside of working hours. While I try to minimize cutting into others personal time, this is how I achieve my work-life balance. I don’t expect people to respond to my late-night messages, and I expect people to arrange their time for their family, friends, health, relaxation, and recreation. People that don’t get enough recovery time aren’t as effective in the lab, and I want people to be happy.
-##### Help-
+
+##### Resources
 If you are in need of support, there are mental health resources provided by UCSF for [students](https://studenthealth.ucsf.edu/) and [staff](https://hr.ucsf.edu/hr.php/x/files?F=1&cms_id=5304).
 
 Additional resources, including those listed above, can be found in the [Compact Resources](https://docs.google.com/document/d/1zSiJaa5gQIHJ7G3uSXN5d9BdpvEABmQKi2Yr6j6Lr54/edit?usp=sharing).
@@ -141,10 +132,12 @@ The [UCSF COVID-19 website](https://coronavirus.ucsf.edu/resources) provides fin
 
 ## <a id="data">Lab Notebooks and Data Deposition</a>
 As transparency and openness are key values to the lab, sharing our information both within the lab and externally to the scientific community is a top priority.
+
 ##### Within the Fraser lab
 Lab members are expected to document all of their work in a lab notebook, and this information should be accessible to other members of the lab. Currently, the lab uses the online electronic lab notebook, [Benchling](benchling.com). We've created guidelines on how to [use Benchling](https://docs.google.com/document/d/1ZsR7628PD5LOKuCUP11SHvOxUqh8PJQQ7SJvhFEXLlo/edit?usp=sharing) and how to [organize your lab notebooks](https://docs.google.com/document/d/10yrbA3tFgIFE7paOR6v2qmdy3AVGY2wNwkvW7B4HFPo/edit?usp=sharing). Read these guides thoroughly as they detail how to format your notebook and how we keep our lab data organized. Additionally, members are expected to keep the shared lab protocols up-to-date and to contribute new protocols as they become relevant to the lab. Lab notebooks are backed up biannually.
 
 Benchling also allows us to keep track of our samples and data through a registry/collection. While it is highly recommended you take advantage of the registry to organize your samples, especially for samples that should be made accessible to the rest of the lab, it is your choice how to organize your samples while a member of the lab. However, when you leave the lab it is required that you clean out all superfluous samples and log the samples you keep in the lab’s collection so other lab members are able to locate them. Directions for using registry and conventions for labelling the location are also in the Lab Notebook Guide.
+
 ##### Beyond the Fraser lab
 Lab members always make their data, materials, processing details available to the public through deposition to various public repositories. Lab code is made accessible through [GitHub](https://github.com/fraser-lab). Data and information are regularly deposited to the repositories listed below as well as others. We happily share our plasmids and other materials freely by request.
 
@@ -175,11 +168,11 @@ As a scientist, it should be a pleasure to keep up with current literature. You 
 ## <a id="collaboration">Collaboration</a>
 ##### Within the Fraser lab
 In addition to myself, all of your lab members are a resource. It is expected that you will develop collegial relationships within the lab and occasionally work on shared projects. The spirit between lab members should be of cooperation and not adversarial competition. To that end, we try not to reinvent the wheel and make efficient use of everyone’s time by sharing our knowledge. Protocols are updated and shared in Benchling for everyone in the lab to use and several guides exist on the internal lab site for nearly every task, administrative or scientific, that anyone may need. We are all here to help each other, but also be mindful and respectful of your fellow lab members' time. If someone in the lab has helped you a lot on a project they probably should be included as an author on your publications.
+
 ##### Beyond the Fraser lab
 The diverse nature of work in the lab encourages a lot of collaboration with partner labs both within UCSF, at other universities, and in industry. We seek to collaborate with labs who share a positive environment and a commitment to open science. Lab members are expected to foster relationships with our collaborators inline with our values of transparency and cooperativity. In other environments collaborations have been tricky for some people. However, our collaborations have been very positive, and I try to do my part to ensure that continues to be the case. Lab members can expect me to be actively involved in both the details of the project as well as communication with the partner labs. I will have my lab members’ backs and manage difficult conversations such as authorship. I also feel an important factor to fruitful partnership is to all actually be in the same place from time to time and so I encourage travel for scientific collaborations. I’m happy to provide funding to facilitate these visits and meetings.
 <br/>
 <br/>
-
 
 ## <a id="grants">Grant Writing and Fellowship Funding</a>
 For all science career paths, being able to explain yourself and the value of your work is an invaluable skill. Funding our research is vital to keeping the lab running and grant/proposal writing is the responsibility of the entire lab. My lab members and I collaborate together to write grants and proposals to fund themselves, to fund lab research and equipment, and to request use of scientific facilities outside of UCSF. There are grant writing resources on the [private lab website](https://sites.google.com/fraserlab.com/fraserlab-private/lab-administration/general-grants-fellowship?authuser=0).
