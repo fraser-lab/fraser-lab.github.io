@@ -15,7 +15,7 @@ twitter: thebieldeal
 linkedin:
 github: bielj
 orcid: 0000-0002-0935-8362
-description: "Justin graduated from Oregon State University with a degree in Biochemistry and Biophysics. He conducted research in both the laboratories of [Dr. Elisar Barbar](https://barbar.science.oregonstate.edu) studying dynein protein interactions, and Dr. P. Andrew Karplus conducting structural bioinformatic research on protein structural components from ultra-high resolution protein crystal structures.
+description: "Justin graduated from Oregon State University with a degree in Biochemistry and Biophysics. He conducted research in both the laboratories of [Dr. Elisar Barbar](https://barbar.science.oregonstate.edu) studying dynein protein interactions, and [Dr. P. Andrew Karplus](https://biochem.oregonstate.edu/content/p-andrew-karplus) conducting structural bioinformatic research on protein structural components from ultra-high resolution protein crystal structures.
 
 
 As a [Biophysics](https://biophysics.ucsf.edu) graduate student in the Fraser lab, Justin examined how conformational heterogeneity changed during directed evolution and revealed minor states that resulted from ligand binding. He was supported by a graduate fellowship from [NSF](http://www.nsfgrfp.org/).
