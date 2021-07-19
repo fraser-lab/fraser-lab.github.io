@@ -13,6 +13,7 @@ Appointments:
 * Associate Director and Member, [Quantitative Biosciences Institute, University of California San Francisco](http://qbi.ucsf.edu/)
 * Associate Director, [Biophysics Graduate Program, University of California San Francisco](https://biophysics.ucsf.edu/)
 * Board Member and Vice President, [ASAPbio](https://asapbio.org/)
+* Advisory Council, [Arcadia Science](https://www.arcadia.science/) 
 
 Equity:
 * [Relay Therapeutics](https://relaytx.com/)
