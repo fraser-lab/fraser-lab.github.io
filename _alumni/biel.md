@@ -4,7 +4,7 @@ startdate: 2014-09-02
 enddate: 2021-07-16
 image: /static/img/members/Biel.jpg
 altimage: /static/img/members/Biel_pb.jpg
-position: Graduate Student , [Biophysics](http://biophysics.ucsf.edu) ([NSF GRFP](http://www.nsfgrfp.org/))(2014-2019), Staff Scientist (2019-2021)
+position: Graduate Student, [Biophysics](http://biophysics.ucsf.edu) ([NSF GRFP](http://www.nsfgrfp.org/))(2014-2019), Staff Scientist (2019-2021)
 subsequent:
 pronouns: he/him/his
 email: justin.biel (at) ucsf.edu
