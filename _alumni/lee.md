@@ -1,7 +1,11 @@
 ---
 name: D. John Lee, Ph.D.
 startdate: 2017-11-01
+<<<<<<< HEAD:_alumni/lee.md
 enddate: 2021-07-30
+=======
+enddate: 2021-08-01
+>>>>>>> eefd5e2bd3107a2ed1575eb87d75b98b9b0642df:_members/lee.md
 image: /static/img/members/Lee.jpg
 altimage: /static/img/members/Lee_pb.jpg
 position: Postdoctoral Fellow
