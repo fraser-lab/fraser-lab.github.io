@@ -20,36 +20,38 @@
 #Do not include additional subsections that are not relevant to a publication (PDB, data, Zenodo, etc).
 
 #Example Publication
-# - title: "Title of article."
-#   authors: "Surname FM, **Fraser JS.**"
-#   journal: "Protein Science"
-#   pub_date: "YYYYMM" #Date of journal publication, NOT BIORXIV UPLOAD
-#   image: "/static/img/pub/surname_YYYY.png"
-#   pmid: "########"
-#   pmcid: "PMC#######"
-#   biorxiv: "YYYY.MM.DD.######"
-#   biorxiv_version: "YYYY.MM.DD.######v1"
-#   pdf: "/static/pdf/publications/surname_YYYY.pdf"
-#   pdbs:
-#     - "PDB_ID"
-#   paired_maps_and_models:
-#     - pdb: "PDB_ID"
-#       emdb: "#####"
-#   paired_maps_and_models_and_data:
-#     - pdb: "PDB_ID"
-#       emdb: "#####"
-#       empiar: "#####"
-#   data:
-#     - "10.11577/1602169"
-#   zenodo:
-#     - code: "3555658"
-#       description: "qPTxM code snapshot"
-#   links:
-#     - name: "Fujimori lab  @ UC San Francisco"
-#       url: "https://fujimorilab.ucsf.edu"
-#     - name: "Gonen lab @ UC Los Angeles"
-#       url: "https://cryoem.ucla.edu/"
-#     - name: "qPTxM code on GitHub"
-#       url: "https://github.com/fraser-lab/qptm"
-#     - name: "Celebratory Tweetstorm by first author First Surname"
-#       url: "https://twitter.com/LifeHasOrder/status/1172327493451145218"
+---
+#title: "Title of article."
+#authors: "Surname FM, **Fraser JS.**"
+#journal: "Protein Science"
+#pub_date: "YYYYMM" #Date of journal publication, NOT BIORXIV UPLOAD
+#image: "/static/img/pub/surname_YYYY.png"
+#pmid: "########"
+#pmcid: "PMC#######"
+#biorxiv: "YYYY.MM.DD.######"
+#biorxiv_version: "YYYY.MM.DD.######v1"
+#pdf: "/static/pdf/publications/surname_YYYY.pdf"
+#pdbs:
+#  - "PDB_ID"
+#paired_maps_and_models:
+#  - pdb: "PDB_ID"
+#    emdb: "#####"
+#paired_maps_and_models_and_data:
+#  - pdb: "PDB_ID"
+#    emdb: "#####"
+#    empiar: "#####"
+#data:
+#  - "10.11577/1602169"
+#zenodo:
+#  - code: "3555658"
+#    description: "qPTxM code snapshot"
+#links:
+#  - name: "Fujimori lab  @ UC San Francisco"
+#    url: "https://fujimorilab.ucsf.edu"
+#  - name: "Gonen lab @ UC Los Angeles"
+#    url: "https://cryoem.ucla.edu/"
+#  - name: "qPTxM code on GitHub"
+#    url: "https://github.com/fraser-lab/qptm"
+#  - name: "Celebratory Tweetstorm by first author First Surname"
+#    url: "https://twitter.com/LifeHasOrder/status/1172327493451145218"
+---
