@@ -114,7 +114,7 @@ The Fraser lab welcomes people of any race, ethnicity, religion, national origin
 <?xml version="1.0" encoding="UTF-8" ?>
 <svg width="100%" height="auto" viewBox="0 0 {{ finalyear | minus: yearoffset | plus: majortick | times: stretch }} {{ people.size | plus: 1 | times: yspacing | plus: 5 }}" xmlns="http://www.w3.org/2000/svg">
 {% assign i = 0 %}
-{% for year in (2010..2025)%}
+{% for year in (yearoffset..finalyear)%}
 	{% assign year5 = year | modulo: 5 %}
 	{% if year5 == 0 %}
 		{% assign tick = majortick %}
