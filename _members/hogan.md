@@ -1,7 +1,7 @@
 ---
 name: Daniel Hogan, Ph.D.
 startdate: 2020-05-11
-enddate: YYYY-MM-DD
+enddate:
 image: /static/img/members/Hogan.jpg
 altimage: /static/img/members/Hogan_pb.jpg
 position: Programmer

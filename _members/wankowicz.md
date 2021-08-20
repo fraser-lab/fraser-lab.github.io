@@ -1,7 +1,7 @@
 ---
 name: Stephanie Wankowicz
 startdate: 2019-06-06
-enddate: YYYY-MM-DD
+enddate:
 image: /static/img/members/Wankowicz.jpg
 altimage: /static/img/members/Wankowicz_pb.jpg
 position: Graduate Student, [Biophysics](https://biophysics.ucsf.edu)

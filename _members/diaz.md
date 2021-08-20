@@ -1,7 +1,7 @@
 ---
 name: Roberto Efraín (Robbie) Díaz
 startdate: 2018-06-25
-enddate: YYYY-MM-DD
+enddate:
 image: /static/img/members/Diaz.jpg
 altimage: /static/img/members/Diaz_pb.jpg
 position: Graduate Student, [Tetrad](https://tetrad.ucsf.edu)

@@ -1,7 +1,7 @@
 ---
 name: Jenna Pellegrino
 startdate: 2018-06-13
-enddate: YYYY-MM-DD
+enddate:
 image: /static/img/members/Pellegrino.jpg
 altimage: /static/img/members/Pellegrino_pb.jpg
 position: Graduate Student, [Biophysics](https://biophysics.ucsf.edu)

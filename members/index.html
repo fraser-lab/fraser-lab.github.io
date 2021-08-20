@@ -101,3 +101,48 @@ The Fraser lab welcomes people of any race, ethnicity, religion, national origin
         </div>
 {% endfor %}
 <hr>
+
+{% assign stretch = 60 %}
+{% assign yheight = 16 %}
+{% assign yspacing = 18 %}
+{% assign fontsize = 12 %}
+{% assign yearoffset = 2010 %}
+{% assign majortick = 0.05 %}
+{% assign minortick = 0.025 %}
+{% assign people = site.members | concat: site.alumni | sort: "startdate" %}
+{% assign finalyear = "now" | date: "%Y" | plus: 1 %}
+<?xml version="1.0" encoding="UTF-8" ?>
+<svg width="100%" height="auto" viewBox="0 0 {{ finalyear | minus: yearoffset | plus: majortick | times: stretch }} {{ people.size | plus: 1 | times: yspacing | plus: 5 }}" xmlns="http://www.w3.org/2000/svg">
+{% assign i = 0 %}
+{% for year in (2010..2025)%}
+	{% assign year5 = year | modulo: 5 %}
+	{% if year5 == 0 %}
+		{% assign tick = majortick %}
+		<text x="{{ fontsize | divided_by: 4.0 | divided_by: stretch | plus: tick | plus: year | minus: yearoffset | times: stretch }}" y="{{ i | times: yspacing | plus: fontsize }}" font-family="sans-serif" font-size="{{ fontsize }}" stroke="black">{{ year }}</text>
+	{% else %}
+		{% assign tick = minortick %}
+	{% endif %}
+	<rect x="{{ year | minus: yearoffset | times: stretch }}" y="0" width="{{ tick | times: stretch }}" height="{{ yheight }}" fill="black" />
+{% endfor %}
+{% assign i = i | plus: 1 %}
+{% for member in people %}
+	{% assign startyear = member.startdate | date: "%Y" | minus: yearoffset %}
+	{% assign startmonth = member.startdate | date: "%m" | minus: 1 | divided_by: 12.0 %}
+	{% assign start = startyear | plus: startmonth %}
+	{% if member.enddate %}
+		{% assign endyear = member.enddate | date: "%Y" | minus: yearoffset %}
+		{% assign endmonth = member.enddate | date: "%m" | minus: 1 | divided_by: 12.0 %}
+		{% assign end = endyear | plus: endmonth %}
+		{% assign color = "#052049" %}
+	{% else %}
+		{% assign endyear = "now" | date: "%Y" | minus: yearoffset %}
+		{% assign endmonth = "now" | date: "%m" | minus: 1 | divided_by: 12.0 %}
+		{% assign end = endyear | plus: endmonth %}
+		{% assign color = "teal" %}
+	{% endif %}
+	{% assign duration = end | minus: start %}
+	<rect x="{{ start | times: stretch }}" y="{{ i | times: yspacing }}" width="{{ duration | times: stretch }}" height="{{ yheight }}" fill="{{ color }}" />
+	<text text-anchor="end" x="{{ fontsize | divided_by: -4.0 | divided_by: stretch | plus: start | times: stretch }}" y="{{ i | times: yspacing | plus: fontsize }}" font-family="sans-serif" font-size="{{ fontsize }}" stroke="black">{{ member.name | split: " " | first | replace: "D.", "John" }}</text>
+{% assign i = i | plus: 1 %}
+{% endfor %}
+</svg>

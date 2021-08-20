@@ -1,7 +1,7 @@
 ---
 name: José Luis Olmos, Jr., Ph.D.
 startdate: 2020-06-15
-enddate: #YYYY-MM-DD
+enddate:
 image: /static/img/members/olmos.jpg
 altimage: /static/img/members/olmos_pb.jpg
 position: Postdoctoral Fellow

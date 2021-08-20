@@ -1,7 +1,7 @@
 ---
 name: Eric Greene, Ph.D.
 startdate: 2020-08-01
-enddate: #YYYY-MM-DD
+enddate:
 image: /static/img/members/greene.jpg
 altimage: /static/img/members/greene_pb.jpg
 position: Postdoctoral Fellow

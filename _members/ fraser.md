@@ -1,7 +1,7 @@
 ---
 name: James Fraser, Ph.D.
 startdate: 2011-01-01
-enddate: YYYY-MM-DD
+enddate:
 image: /static/img/members/Fraser.jpg
 # altimage: /static/img/members/Fraser_pb.jpg
 position: Principal Investigator
