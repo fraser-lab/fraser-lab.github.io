@@ -4,7 +4,7 @@ startdate: 2020-02-13
 enddate:
 image: /static/img/members/Michaud.jpg
 altimage: /static/img/members/Michaud_pb.jpg
-position: Associate Specialist
+position: Staff Scientist
 #subsequent:  update once you become an alumnus
 pronouns: she/her/hers
 email: jennifer.michaud (at) ucsf.edu
