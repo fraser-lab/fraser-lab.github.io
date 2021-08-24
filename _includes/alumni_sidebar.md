@@ -7,7 +7,7 @@
 {% endunless %}
 
 {% assign position = member.position | downcase %}
-{% if position contains "strp" or position contains "bioxfel intern" or position contains "sep" or position contains "visiting" %}
+{% if position contains "srtp" or position contains "bioxfel intern" or position contains "sep" or position contains "visiting" %}
 {% continue %}
 {% endif %}
 
@@ -77,7 +77,7 @@ Subsequently: {{member.subsequent}} <br>
 {% for undergraduate in sorted %}
 
 {% assign position = undergraduate.position | downcase %}
-{% unless position contains "strp" or position contains "bioxfel intern" %}
+{% unless position contains "srtp" or position contains "bioxfel intern" %}
 {% continue %}
 {% endunless %}
 
