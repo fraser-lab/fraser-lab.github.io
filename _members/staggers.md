@@ -1,7 +1,7 @@
 ---
 name: Sophia Staggers
 startdate: 2021-06-01
-enddate:
+enddate: 2021-08-01
 image:
 altimage:
 position: BioXFEL Intern

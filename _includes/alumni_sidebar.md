@@ -1,6 +1,12 @@
-### Fraser Lab Alumni
-{% assign sorted = (site.alumni | sort: "enddate") | reverse %}
+{% assign sorted = (site.members | sort: "enddate") | reverse %}
+
+## Fraser Lab Alumni
 {% for member in sorted %}
+
+{% unless member.enddate %}
+{% continue %}
+{% endunless %}
+
 <hr>
 <div id = "{{member.name}}" style="padding-top: 60px; margin-top: -60px;">
 <p><strong>{{member.name}}</strong> - <em>{{member.position}}</em><br>
@@ -22,7 +28,9 @@
 {{member.startdate | date:"%Y"}} - {{member.enddate | date:"%Y"}}<br>
 {% endif %}
 
+{% if member.subsequent %}
 Subsequently: {{member.subsequent}} <br>
+{% endif %}
 
 {% if member.email %}
 {% unless member.email contains "ucsf.edu" %}
@@ -61,93 +69,3 @@ Subsequently: {{member.subsequent}} <br>
 </p>
 </div>
 {% endfor %}
-
-<br>
-## Undergraduate Interns
-{% assign ugr_sorted = (site.undergrads | sort: "enddate") | reverse %}
-{% for undergraduate in ugr_sorted %}
-<hr>
-<div id = "{{undergraduate.name}}" style="padding-top: 60px; margin-top: -60px;">
-<p><strong>{{undergraduate.name}}</strong> - <em>{{undergraduate.position}}</em><br>
-
-{% if undergraduate.pronouns %}
-<em>{{undergraduate.pronouns}}</em><br>
-{% endif %}
-
-{% assign start = undergraduate.startdate | date:"%Y" %}
-{% assign end = undergraduate.enddate | date:"%Y" %}
-
-{% if end == '' %}
-{{undergraduate.startdate | date:"%Y"}}
-{% endif %}
-
-{% if start == end %}
-{{undergraduate.startdate | date:"%Y"}}<br>
-{% else %}
-{{undergraduate.startdate | date:"%Y"}} - {{undergraduate.enddate | date:"%Y"}}<br>
-{% endif %}
-
-{% if undergraduate.subsequent %}
-Subsequently: {{undergraduate.subsequent}}<br>
-{% endif %}
-</p>
-</div> {% endfor %}
-
-
-<br>
-## [SEP High School Interns](http://sep.ucsf.edu/hs_programs/high-school-intern-program/)
-{% assign sep_sorted = (site.sep | sort: "enddate") | reverse %}
-{% for student in sep_sorted %}
-<hr>
-<div id = "{{student.name}}" style="padding-top: 60px; margin-top: -60px;">
-<p><strong>{{student.name}}</strong><br>
-
-{% assign start = student.startdate | date:"%Y" %}
-{% assign end = student.enddate | date:"%Y" %}
-
-{% if end == '' %}
-{{student.startdate | date:"%Y"}}
-{% endif %}
-
-{% if start == end %}
-{{student.startdate | date:"%Y"}}<br>
-{% else %}
-{{student.startdate | date:"%Y"}} - {{student.enddate | date:"%Y"}}<br>
-{% endif %}
-
-{% if student.pronouns %}
-<em>{{student.pronouns}}</em> <br>
-{% endif %}
-{% if student.subsequent %}
-Subsequently: {{student.subsequent}}<br>
-{% endif %}
-</p>
-</div> {% endfor %}
-
-
-<br>
-## Fraser Lab Visitors
-{% assign visitor_sorted = (site.visitors | sort: "enddate") | reverse %}
-{% for visitor in visitor_sorted %}
-<hr>
-<div id = "{{visitor.name}}" style="padding-top: 60px; margin-top: -60px;">
-<p><strong>{{visitor.name}}</strong> - <em>{{visitor.position}} from {{visitor.current}}</em><br>
-
-{% assign start = visitor.startdate | date:"%Y" %}
-{% assign end = visitor.enddate | date:"%Y" %}
-
-{% if end == '' %}
-{{visitor.startdate | date:"%Y"}}
-{% endif %}
-
-{% if start == end %}
-{{visitor.startdate | date:"%Y"}}<br>
-{% else %}
-{{visitor.startdate | date:"%Y"}} - {{visitor.enddate | date:"%Y"}}<br>
-{% endif %}
-
-{% if visitor.pronouns %}
-<em>{{visitor.pronouns}}</em> <br>
-{% endif %}
-</p>
-</div> {% endfor %}
