@@ -21,7 +21,7 @@ We split the CIF containing the three data blocks into separate CIFs. Actually, 
 
 The [extract_pandda.sh](https://github.com/gcorrey/scripts/tree/main/extract_pandda_from_cif) script does this for you. Download the coordinates and structure factor file from the [Protein Data Bank](https://www.rcsb.org) (xxxx.pdb and xxxx-sf.cif files, where xxxx is the four letter PDB code) and move them to a working directory. On the command line, run ```./extract_pandda.sh xxxx-sf.cif SG``` (where SG is the space group of the crystal). The script will split the CIF into two separate CIFs, containing the refined and original data (xxxx-sf_data.cif) or the PanDDA event map (xxxx-sf_pandda.cif). The script then runs phenix.cif_as_mtz and converts the CIFs to MTZs for visualization in COOT.
 
-<img src="https://github.com/gcorrey/scripts/blob/main/extract_pandda_from_cif/cif_schematic.png" width="500">
+<img src="https://raw.githubusercontent.com/gcorrey/scripts/main/extract_pandda_from_cif/cif_schematic.png" width="500">
 
 #### Caveats
 
