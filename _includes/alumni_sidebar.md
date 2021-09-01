@@ -7,13 +7,13 @@
 {% endunless %}
 
 {% assign position = member.position | downcase %}
-{% if position contains "srtp" or position contains "bioxfel intern" or position contains "sep" or position contains "visiting" %}
+{% if position contains "srtp" or position contains "intern" or position contains "sep" or position contains "visiting" %}
 {% continue %}
 {% endif %}
 
 <hr>
 <div id = "{{member.name}}" style="padding-top: 60px; margin-top: -60px;">
-<p><strong>{{member.name}}</strong> - <em>{{member.position}}</em><br>
+<p><strong>{{member.name}}</strong> - <em>{{member.position | markdownify | remove: '<p>' | remove: '</p>' }}</em><br>
 
 {% if member.pronouns %}
 <em>{{member.pronouns}}</em> <br>
@@ -77,13 +77,13 @@ Subsequently: {{member.subsequent}} <br>
 {% for undergraduate in sorted %}
 
 {% assign position = undergraduate.position | downcase %}
-{% unless position contains "srtp" or position contains "bioxfel intern" %}
+{% unless position contains "srtp" or position contains "intern" %}
 {% continue %}
 {% endunless %}
 
 <hr>
 <div id = "{{undergraduate.name}}" style="padding-top: 60px; margin-top: -60px;">
-<p><strong>{{undergraduate.name}}</strong> - <em>{{undergraduate.position}}</em><br>
+<p><strong>{{undergraduate.name}}</strong> - <em>{{undergraduate.position | markdownify | remove: '<p>' | remove: '</p>' }}</em><br>
 
 {% if undergraduate.pronouns %}
 <em>{{undergraduate.pronouns}}</em><br>
@@ -156,7 +156,7 @@ Subsequently: {{student.subsequent}}<br>
 
 <hr>
 <div id = "{{visitor.name}}" style="padding-top: 60px; margin-top: -60px;">
-<p><strong>{{visitor.name}}</strong> - <em>{{visitor.position}} from {{visitor.current}}</em><br>
+<p><strong>{{visitor.name}}</strong> - <em>{{visitor.position | markdownify | remove: '<p>' | remove: '</p>' }} from {{visitor.current}}</em><br>
 
 {% assign start = visitor.startdate | date:"%Y" %}
 {% assign end = visitor.enddate | date:"%Y" %}
