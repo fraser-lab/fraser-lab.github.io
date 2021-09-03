@@ -17,8 +17,13 @@ group: publications
 {{publication.pub_date | split: "-" | first }}.</div>
 {% else %}
 <i>Submitted - Preprint on Biorxiv.</i>
+{% if publication.biorxiv %}
 {{publication.biorxiv | split: "." | first }}.</div>
+{% else %}
+{{publication.biorxiv_version | split: "." | first }}.</div>
 {% endif %}
+{% endif %}
+
 </div>
 
 <div class="row" style="padding-top: 20px; margin-top: -20px">

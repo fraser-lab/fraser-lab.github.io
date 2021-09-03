@@ -1,6 +1,6 @@
 ---
 title: "Structural basis for context-specific inhibition of translation by oxazolidinone antibiotics."
-authors: "Tsai K&#42;, Stojković V&#42;, **Lee DJ&#42;, Young ID,**, Szal T, Vazquez-Laslop N, Mankin AS, **Fraser JS**, Fujimori DG."
+authors: "Tsai K&#42;, Stojković V&#42;, **Lee DJ&#42;, Young ID**, Szal T, Vazquez-Laslop N, Mankin AS, **Fraser JS**, Fujimori DG."
 journal:
 pub_date: '2021-08-10'
 image: "/static/img/pub/2021_tsai_stojkovic_lee.png"
