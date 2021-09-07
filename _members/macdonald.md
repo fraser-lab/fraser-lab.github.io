@@ -3,7 +3,7 @@ name: Christian Macdonald, Ph.D.
 startdate: 2021-09-01
 enddate:
 image: /static/img/members/Macdonald.png #365 x 365 pixels, 72 dpi
-#altimage: /static/img/members/Macdonald_pb.png #365 x 365 pixels, 72 dpi
+altimage: /static/img/members/Macdonald_pb.jpg #365 x 365 pixels, 72 dpi
 position: Postdoctoral Fellow
 #subsequent:  update once you become an alumnus
 pronouns: he/him/his
