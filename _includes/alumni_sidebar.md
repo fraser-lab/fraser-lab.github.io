@@ -32,10 +32,12 @@
 {{member.startdate | date:"%Y"}} - {{member.enddate | date:"%Y"}}<br>
 {% endif %}
 
+{% if member.subsequent %}
 Subsequently: {{member.subsequent}} <br>
+{% endif %}
 
 {% if member.email %}
-{% unless member.email contains "ucsf.edu" %}
+{% unless member.email contains "ucsf.edu" or "fr" %}
 <em>{{member.email}}</em> <br>
 {% endunless %}
 {% endif %}
