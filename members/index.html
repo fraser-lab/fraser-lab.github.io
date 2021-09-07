@@ -83,7 +83,7 @@ The Fraser lab welcomes people of any race, ethnicity, religion, national origin
                 {% if member.pronouns %}
                   <em>{{member.pronouns}}</em> <br>
                 {% endif %}
-                {{member.position}} <br>
+                {{member.position | markdownify | remove: '<p>' | remove: '</p>' }} <br>
                 <em>{{member.email}}</em> <br>
                 {% if member.website %}
                   <a style="overflow-wrap: break-word;" href= "{{member.website}}">{{member.website}}</a> <br>
