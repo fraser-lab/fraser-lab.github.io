@@ -18,4 +18,7 @@ github:
   url: stephaniewankowicz/refinement_qFit
 - code: 'Apo Holo Anlaysis Code'
   url: fraser-lab/Apo_Holo_Analysis
+links:
+- name: "Celebratory Tweetstorm by Stephanie Wankowicz"
+  url: "https://twitter.com/stephanie_mul/status/1440719859554217989?s=20"
 ---
