@@ -7,7 +7,7 @@ image: "/static/img/pub/2021_wankowicz.jpg"
 pmid:
 pmcid:
 biorxiv:
-biorxiv_version: "/2021.09.21.461269v1"
+biorxiv_version: "2021.09.21.461269v1"
 pdf:
 github:
 - code: 'qFit 3'
