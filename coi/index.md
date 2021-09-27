@@ -25,6 +25,7 @@ Consulting/speaker fees/travel within last 2 years:
 * [MoMa Therapeutics](https://momatx.com/)
 * [Novartis](https://www.novartis.com/)
 * [Olema Oncology](https://olema.com/)
+* [Merck](https://www.merck.com/)
 * Past: Genentech, Revolution Medicines, Third Rock Ventures, GSK, Schrodinger, CCG, OpenEye, Roche, AstraZeneca
 
 Sponsored and Collaborative Research:
