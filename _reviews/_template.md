@@ -7,24 +7,25 @@ image: "/static/img/review/YYYY_Author.jpg"
 abstract: "optional one-sentence abstract"
 
 peer-review:
-- biorxiv: ""
-  biorxiv_version: ""
-  arxiv: ""
-  chemrxiv: ""
-  preprintsorg: ""
-  disqus: "" #Link to Public Review
-  zenodo: ""
-  pdf: ""
+- biorxiv: "" #biorxiv versioned ID, example "5533316"
+  biorxiv_version: "" #biorxiv versioned ID, example "5533316v1"
+  arxiv: "" #arxiv ID, example "5533316"
+  chemrxiv: "" #Chemrxiv ID, example "5533316"
+  preprintsorg: "" #preprints.org ID, example "2106.14108"
+  prereview: "" #PREreview.org ID, example "arxiv-2106.14108"
+  disqus: "" #Link to Public Review, ID only
+  zenodo: "" #Zenodo ID
+  pdf: "" #full cdn link
 
 published:
 - pmid: ""
-  pdf: ""
+  pdf: "" #full cdn link
 
 highlight:
 - title: ""
   authors: ""
   journal: ""
-  date: ""
-  zenodo: ""
-  pdf: ""
+  date: "" #Publication Date
+  zenodo: "" #Zenodo ID
+  pdf: "" #full cdn link
 ---

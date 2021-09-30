@@ -44,6 +44,11 @@ group: reviews
 				<li>arXiv Preprint: <a href="https://arxiv.org/abs/{{record.arxiv}}" alt = "arxiv preprint link: {{record.arxiv}}">{{record.arxiv}}</a></li>
 				{% endif %}
 
+				<!--prereview.org -->
+				{% if record.prereview %}
+				<li>PREreview.org: <a href="https://www.prereview.org/preprints/{{record.prereview}}" alt = "prereview.org preprint link: {{record.prereview}}">{{record.prereview}}</a></li>
+				{% endif %}
+
 				<!--Chemrxiv-->
 				{% if record.chemrxiv %}
 				<li>ChemRxiv Preprint: <a href=" https://doi.org/10.26434/chemrxiv.{{record.chemrxiv}}" alt = "chemrxiv preprint link: {{record.chemrxiv}}">{{record.chemrxiv}}</a></li>
@@ -51,8 +56,9 @@ group: reviews
 
 				<!--Preprints.org -->
 				{% if record.preprintsorg %}
-				<li>Preprints.org: <a href=" https://www.preprints.org/manuscript/{{record.preprintsorg}}" alt = "preprints.org preprint link: {{record.preprintsorg}}">{{record.preprintsorg}}</a></li>
+				<li>Preprints.org: <a href="https://www.preprints.org/manuscript/{{record.preprintsorg}}" alt = "preprints.org preprint link: {{record.preprintsorg}}">{{record.preprintsorg}}</a></li>
 				{% endif %}
+
 
 				<!--Disqus comment-->
 				{% if record.disqus %}

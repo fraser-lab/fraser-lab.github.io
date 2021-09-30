@@ -7,6 +7,6 @@ image: "/static/img/reviews/2021_Rosenbaum.jpg"
 
 peer-review:
 - arxiv: "2106.14108"
-  zenodo: "https://zenodo.org/record/5533316#.YVUAVJ5Kg6U"
-  preprintsorg: "https://prereview.org/preprints/arxiv-2106.14108"
+  zenodo: "5533316"
+  prereview: "arXiv-2106.14108"
 ---
