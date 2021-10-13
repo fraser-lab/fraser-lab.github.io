@@ -43,8 +43,22 @@ A comprehensive collection of resources for all of the topics listed in this com
 <br/>
 
 ## <a id="publishing">Publishing</a>
-Publishing preprints and sharing results openly is the key to 21st century science communication. The real end goal of any research is to get the work out there, and I find myself most invested in the final push to posting and preprint than any other subsequent part of the process. We maintain our high scientific standards by publishing preprints of high quality research when it’s ready. The peer-review process of traditional journals can delay important results by months and is often plagued with politics that are harmful to the scientific process as a whole. However, the reality is traditional publishing still provides the highest visibility for work and coordinates qualified reviewers. Our current approach involves disseminating our results via preprints and is followed by publishing in traditional journals. See “Beer AND Tacos” above. We currently do both because it gets us where we need to be, but we are full proponents of a modern world of publishing that encompasses transparency, speed, fairness, peer-review, and visibility. This is evolving, and as a group we want to lead by example and be on the vanguard of that change.
+Sharing results openly and swiftly are keys to 21st century science communication. The real end goal of any research is to get the work out there for others to build on, not to publish in journals. Share openly at <a href="#conferences">conferences</a>.  We welcome peer review, but also maintain our high scientific standards by posting preprints of high quality research when we judge it to be ready for sharing. 
 
+Posting preprints has important consequences for accelerating science. The traditional "behind closed doors" journal organized peer-review process can delay the disclosure of important results by months. Moreover, it is often plagued with politics and biases that are harmful to the scientific process as a whole. Increasingly, I find myself most invested in the final push to posting preprints than in the subsequent parts of the process that lead to journal publication. Posting a preprint is under our control and a great time to celebrate as a group!
+
+However, the reality is traditional journal-based publishing still provides the highest visibility for work and coordinates review that can add value. Our current approach involves:
+    1. disseminating our results via preprints
+    2. Celebrate and post a tweetorial that includes welcoming reviews/feedback posted as comments on BioRxiv 
+    3. submitting for publication in traditional journals (selected by the first author, with preference for Open Access)
+    4. responding to peer review from both the journal and comments
+    5. ensuring that the final work is placed in repositories like PubmedCentral for open-access and that other materials and data end up <a href="#repositories">repositories</a>
+
+This strategy allows us to embrace our “Beer AND Tacos” motto. We currently do both (post preprints and publish in journals) because it gets us what we need. We are full proponents of a modern world of publishing that encompasses transparency, speed, fairness, peer-review, and visibility. This is evolving, and as a group we want to lead by example and be on the vanguard of that change. 
+
+JF is ready to skip step #3 (submitting to journals, above) whenever lab members decide they are ready to opt-out of the journal system.  A current perceived  roadblock is that preprints are not indexed in pubmed (although on ORCID Google Scholar etc). A secondary roadblock is the term "preprint" rather than just "BioRxiv manuscript" implies that it is on the way to being complete rather than the manuscript of record.
+
+## <a id="writing">Writing</a>
 I like to take an active role in the preparation of all our manuscripts, and I have protocols to facilitate this. A Twitter account that I follow, [@drugmonkeyblog](https://twitter.com/drugmonkeyblog), voiced the issue of how students are often afraid to show PIs anything other than finished work. I expect a draft to be very rough and a starting point to grow from. Regarding authorship, I believe that conversations about positions in author order should occur early in a project, and I err on having more authors on a paper than less. Everyone with a meaningful contribution should be included.
 <br/>
 <br/>
@@ -143,7 +157,7 @@ Lab members always make their data, materials, processing details available to t
 
 As data deposition to some repositories can be involved, current lab efforts include making guides that will assist people through the process. A guide for depositing cryo-EM structures by [Jenna Pellegrino](https://fraserlab.com/members/#Jenna%20Pellegrino) is posted on [our blog](https://fraserlab.com/2020/10/20/CryoEM-deposition/), and more will be added as they become available. Internally, these guides are located on our shared protocols in Benchling.
 
-###### List of repositories:
+###### List of <a id="repositories">repositories</a>:
 **Addgene** - [Plasmids](https://www.addgene.org/c9d87dff_2638_427c_9b9f_f189bdd8f4bc/)
 
 **Zenodo** - datasets
