@@ -48,11 +48,12 @@ Sharing results openly and swiftly are keys to 21st century science communicatio
 Posting preprints has important consequences for accelerating science. The traditional "behind closed doors" journal organized peer-review process can delay the disclosure of important results by months. Moreover, it is often plagued with politics and biases that are harmful to the scientific process as a whole. Increasingly, I find myself most invested in the final push to posting preprints than in the subsequent parts of the process that lead to journal publication. Posting a preprint is under our control and a great time to celebrate as a group!
 
 However, the reality is traditional journal-based publishing still provides the highest visibility for work and coordinates review that can add value. Our current approach involves:
-    1. disseminating our results via preprints
-    2. Celebrate and post a tweetorial that includes welcoming reviews/feedback posted as comments on BioRxiv 
-    3. submitting for publication in traditional journals (selected by the first author, with preference for Open Access)
-    4. responding to peer review from both the journal and comments
-    5. ensuring that the final work is placed in repositories like PubmedCentral for open-access and that other materials and data end up <a href="#repositories">repositories</a>
+
+1. Disseminating our results via preprints
+2. Celebrating and posting a tweetorial that explicitly welcomes reviews/feedback posted as comments on BioRxiv 
+3. Submitting for publication in traditional journals (selected by the first author, with preference for Open Access)
+4. Responding to peer review from both the journal and comments
+5. Ensuring that the final work is placed in repositories like PubmedCentral for open-access and that other materials and data end up <a href="#repositories">repositories</a>
 
 This strategy allows us to embrace our “Beer AND Tacos” motto. We currently do both (post preprints and publish in journals) because it gets us what we need. We are full proponents of a modern world of publishing that encompasses transparency, speed, fairness, peer-review, and visibility. This is evolving, and as a group we want to lead by example and be on the vanguard of that change. 
 
