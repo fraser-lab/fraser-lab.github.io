@@ -13,4 +13,4 @@ Consistent with our lab values of diversity, equity, inclusion, and justice, we 
 
 We encourage UCSF to [support the rematriation of the Mount Sutro reservation area to the Ramaytush Ohlone people](https://ucsf.co1.qualtrics.com/jfe/form/SV_8eMqf1z5oJdASiN). We also encourage UCSF to issue a formal land acknowledgment statement and outline concrete actions of how UCSF will support Bay Area Indigenous communities.
 
-Through this acknowledgement, we hope to continue to self-reflect and bring further awareness to the prior and current colonization and marginalization of Indigenous people in the Bay Area and beyond.
+Through this acknowledgement, and [the broader UCSF Land Acknowledgment Statement](https://diversity.ucsf.edu/ucsf-land-acknowledgment),  we hope to continue to self-reflect and bring further awareness to the prior and current colonization and marginalization of Indigenous people in the Bay Area and beyond.
