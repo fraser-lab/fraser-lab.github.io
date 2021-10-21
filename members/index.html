@@ -162,7 +162,11 @@ The Fraser lab welcomes people of any race, ethnicity, religion, national origin
 			{% assign end = endyear | plus: endmonth %}
 		{% endif %}
 		{% assign duration = end | minus: start %}
-		{% assign position = member.position | downcase %}
+		{% if member.timeline_positions %}
+			{% assign position = member.timeline_positions[tenure] | downcase %}
+		{% else %}
+			{% assign position = member.position | downcase %}
+		{% endif %}
 		{% if position contains "principal investigator" %}
 			{% assign color = "red" %}
 		{% elsif position contains "postdoctoral fellow" %}
