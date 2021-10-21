@@ -1,7 +1,7 @@
 ---
 name: Rahel Woldeyes, Ph.D.
-startdate: 2012-06-01
-enddate: 2017-02-09
+startdate: [2012-06-01]
+enddate: [2017-02-09]
 image: /static/img/members/woldeyes.jpg
 altimage: /static/img/members/woldeyes_pb.jpg
 position: Graduate Student, [Chemistry and Chemical Biology](http://ccb.ucsf.edu) ([NSF GRFP](http://www.nsfgrfp.org/))

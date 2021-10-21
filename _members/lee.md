@@ -1,7 +1,7 @@
 ---
 name: D. John Lee, Ph.D. 
-startdate: 2017-11-01
-enddate: 2021-08-01
+startdate: [2017-11-01]
+enddate: [2021-08-01]
 image: /static/img/members/Lee.jpg
 altimage: /static/img/members/Lee_pb.jpg
 position: Postdoctoral Fellow ([F32 NRSA](https://grants.nih.gov/grants/guide/contacts/parent_F32.html))

@@ -1,7 +1,7 @@
 ---
 name: Brandi Hudson, Ph.D.
-startdate: 2016-08-15
-enddate: 2018-02-09
+startdate: [2016-08-15]
+enddate: [2018-02-09]
 image: /static/img/members/hudson.jpg
 altimage: /static/img/members/hudson_pb.jpg
 position: Postdoctoral Fellow

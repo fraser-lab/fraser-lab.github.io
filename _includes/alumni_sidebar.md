@@ -2,9 +2,9 @@
 {% assign sorted = (site.members | sort: "enddate") | reverse %}
 {% for member in sorted %}
 
-{% unless member.enddate %}
+{% if member.enddate == empty %}
 {% continue %}
-{% endunless %}
+{% endif %}
 
 {% assign position = member.position | downcase %}
 {% if position contains "srtp" or position contains "intern" or position contains "sep" or position contains "visiting" %}
@@ -19,17 +19,14 @@
 <em>{{member.pronouns}}</em> <br>
 {% endif %}
 
-{% assign start = member.startdate | date:"%Y" %}
-{% assign end = member.enddate | date:"%Y" %}
+{% assign start = member.startdate | first | date:"%Y" %}
+{% assign end = member.enddate | last | date:"%Y" %}
 
-{% if end == '' %}
-{{member.startdate | date:"%Y"}}
-{% endif %}
 
 {% if start == end %}
-{{member.startdate | date:"%Y"}}<br>
+{{ start }}<br>
 {% else %}
-{{member.startdate | date:"%Y"}} - {{member.enddate | date:"%Y"}}<br>
+{{ start }} - {{ end }}<br>
 {% endif %}
 
 {% if member.subsequent %}
@@ -91,17 +88,13 @@ Subsequently: {{member.subsequent}} <br>
 <em>{{undergraduate.pronouns}}</em><br>
 {% endif %}
 
-{% assign start = undergraduate.startdate | date:"%Y" %}
-{% assign end = undergraduate.enddate | date:"%Y" %}
-
-{% if end == '' %}
-{{undergraduate.startdate | date:"%Y"}}
-{% endif %}
+{% assign start = undergraduate.startdate | first | date:"%Y" %}
+{% assign end = undergraduate.enddate | last | date:"%Y" %}
 
 {% if start == end %}
-{{undergraduate.startdate | date:"%Y"}}<br>
+{{ start }}<br>
 {% else %}
-{{undergraduate.startdate | date:"%Y"}} - {{undergraduate.enddate | date:"%Y"}}<br>
+{{ start }} - {{ end }}<br>
 {% endif %}
 
 {% if undergraduate.subsequent %}
@@ -124,17 +117,13 @@ Subsequently: {{undergraduate.subsequent}}<br>
 <div id = "{{student.name}}" style="padding-top: 60px; margin-top: -60px;">
 <p><strong>{{student.name}}</strong><br>
 
-{% assign start = student.startdate | date:"%Y" %}
-{% assign end = student.enddate | date:"%Y" %}
-
-{% if end == '' %}
-{{student.startdate | date:"%Y"}}
-{% endif %}
+{% assign start = student.startdate | first | date:"%Y" %}
+{% assign end = student.enddate | last | date:"%Y" %}
 
 {% if start == end %}
-{{student.startdate | date:"%Y"}}<br>
+{{ start }}<br>
 {% else %}
-{{student.startdate | date:"%Y"}} - {{student.enddate | date:"%Y"}}<br>
+{{ start }} - {{ end }}<br>
 {% endif %}
 
 {% if student.pronouns %}
@@ -160,17 +149,13 @@ Subsequently: {{student.subsequent}}<br>
 <div id = "{{visitor.name}}" style="padding-top: 60px; margin-top: -60px;">
 <p><strong>{{visitor.name}}</strong> - <em>{{visitor.position | markdownify | remove: '<p>' | remove: '</p>' }} from {{visitor.current}}</em><br>
 
-{% assign start = visitor.startdate | date:"%Y" %}
-{% assign end = visitor.enddate | date:"%Y" %}
-
-{% if end == '' %}
-{{visitor.startdate | date:"%Y"}}
-{% endif %}
+{% assign start = visitor.startdate | first | date:"%Y" %}
+{% assign end = visitor.enddate | last | date:"%Y" %}
 
 {% if start == end %}
-{{visitor.startdate | date:"%Y"}}<br>
+{{ start }}<br>
 {% else %}
-{{visitor.startdate | date:"%Y"}} - {{visitor.enddate | date:"%Y"}}<br>
+{{ start }} - {{ end }}<br>
 {% endif %}
 
 {% if visitor.pronouns %}

@@ -1,7 +1,7 @@
 ---
 name: Lillian Kenner, Ph.D.
-startdate: 2011-01-02
-enddate: 2014-09-01
+startdate: [2011-01-02]
+enddate: [2014-09-01]
 image:
 altimage:
 position: Specialist

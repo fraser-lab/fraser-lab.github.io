@@ -1,7 +1,7 @@
 ---
 name: Willow Coyote-Maestas, Ph.D.
-startdate: 2021-02-01
-enddate:
+startdate: [2021-02-01]
+enddate: []
 image: /static/img/members/Coyote-Maestas.jpg #365 x 365 pixels, 72 dpi
 altimage: /static/img/members/Coyote-Maestas_pb.jpg  #365 x 365 pixels, 72 dpi
 position: Affiliate, HHMI Hanna Gray and QBI Fellow

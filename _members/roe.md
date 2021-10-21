@@ -1,7 +1,7 @@
 ---
 name: Leah Roe
-startdate: 2019-07-01
-enddate: 2020-08-01
+startdate: [2019-07-01]
+enddate: [2020-08-01]
 image: /static/img/members/Roe.jpg
 altimage: /static/img/members/Roe_pb.jpg
 position: Junior Specialist

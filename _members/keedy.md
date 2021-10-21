@@ -1,7 +1,7 @@
 ---
 name: Daniel Keedy, Ph.D.
-startdate: 2012-11-01
-enddate: 2017-11-01
+startdate: [2012-11-01]
+enddate: [2017-11-01]
 image: /static/img/members/keedy.jpg
 altimage: /static/img/members/keedy_pb.jpg
 position: Postdoctoral Fellow ([A.P. Giannini Foundation](https://apgianninifoundation.org))

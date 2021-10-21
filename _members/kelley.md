@@ -1,7 +1,7 @@
 ---
 name: Alexis Kelley
-startdate: 2021-06-14
-enddate:
+startdate: [2021-06-14]
+enddate: []
 image: /static/img/members/kelley.jpg #365 x 365 pixels, 72 dpi
 altimage: /static/img/members/kelley_pb.jpg #365 x 365 pixels, 72 dpi
 position: "[PROPEL](https://propel.ucsf.edu) post-bac researcher"

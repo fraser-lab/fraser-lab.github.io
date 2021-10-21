@@ -1,7 +1,7 @@
 ---
 name: Daphne Chen
-startdate: 2021-06-21
-enddate:
+startdate: [2021-06-21]
+enddate: []
 image: /static/img/members/chen.jpg #365 x 365 pixels, 72 dpi
 altimage: /static/img/members/chen_pb.jpg #365 x 365 pixels, 72 dpi
 position: Graduate Student, [Biophysics](https://biophysics.ucsf.edu)

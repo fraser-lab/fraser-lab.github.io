@@ -1,7 +1,7 @@
 ---
 name: Benjamin Barad, Ph.D.
-startdate: 2014-09-01
-enddate: 2019-07-29
+startdate: [2014-09-01]
+enddate: [2019-07-29]
 image: /static/img/members/barad.jpg
 altimage: /static/img/members/barad_pb.jpg
 position: Graduate Student, [Biophysics](https://biophysics.ucsf.edu) ([Discovery Fellow](http://support.ucsf.edu/discoveryfellows), [ARCS Scholar](http://www.arcsfoundation.org/))

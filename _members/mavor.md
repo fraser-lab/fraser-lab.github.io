@@ -1,7 +1,7 @@
 ---
 name: David Mavor, Ph.D.
-startdate: 2011-06-01
-enddate: 2017-04-01
+startdate: [2011-06-01]
+enddate: [2017-04-01]
 image: /static/img/members/mavor.jpg
 altimage: /static/img/members/mavor_pb.jpg
 position: Graduate Student, [Biophysics](https://biophysics.ucsf.edu)

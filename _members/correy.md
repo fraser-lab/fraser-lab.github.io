@@ -1,7 +1,7 @@
 ---
 name: Galen Correy, Ph.D.
-startdate: 2019-05-01
-enddate:
+startdate: [2019-05-01]
+enddate: []
 image: /static/img/members/Correy.jpg
 altimage: /static/img/members/Correy_pb.jpg
 position: Postdoctoral Fellow

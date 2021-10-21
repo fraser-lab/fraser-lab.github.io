@@ -1,7 +1,7 @@
 ---
 name: Mario Rodriguez
-startdate: 2019-06-12
-enddate: 2019-07-26
+startdate: [2019-06-12]
+enddate: [2019-07-26]
 image:
 altimage:
 position: "[SRTP](https://graduate.ucsf.edu/srtp) Undergraduate"

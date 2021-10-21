@@ -1,7 +1,7 @@
 ---
 name: Gabriella Estevam
-startdate: 2019-07-19
-enddate:
+startdate: [2019-07-19]
+enddate: []
 image: /static/img/members/Estevam.jpg
 altimage: /static/img/members/Estevam_pb.jpg
 position: Graduate Student, [Tetrad](https://tetrad.ucsf.edu)

@@ -1,7 +1,7 @@
 ---
 name: CJ San Felipe
-startdate: 2021-06-11
-enddate:
+startdate: [2021-06-11]
+enddate: []
 image: /static/img/members/sanfelipe.jpg #365 x 365 pixels, 72 dpi
 altimage: /static/img/members/sanfelipe_pb.jpg #365 x 365 pixels, 72 dpi
 position: Graduate Student, [Tetrad](https://tetrad.ucsf.edu)

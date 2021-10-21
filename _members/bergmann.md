@@ -1,7 +1,7 @@
 ---
 name: Lena Bergmann, Ph.D.
-startdate: 2021-09-07
-enddate:
+startdate: [2021-09-07]
+enddate: []
 image: /static/img/members/bergmann.jpg # 365 x 365 pixels, 72 dpi
 altimage: /static/img/members/bergmann_pb.jpg #365 x 365 pixels, 72 dpi
 position: Associate Specialist

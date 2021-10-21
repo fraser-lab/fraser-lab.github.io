@@ -1,7 +1,7 @@
 ---
 name: Tomas Lazarou
-startdate: 2016-03-01
-enddate: 2016-12-01
+startdate: [2016-03-01]
+enddate: [2016-12-01]
 image: /static/img/members/lazarou.jpg
 altimage: /static/img/members/lazarou_pb.jpg
 position: Visiting Technician

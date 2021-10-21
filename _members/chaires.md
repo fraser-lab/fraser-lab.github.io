@@ -1,7 +1,7 @@
 ---
 name: Hector Chaires
-startdate: 2019-05-20
-enddate: 2020-07-31
+startdate: [2019-05-20]
+enddate: [2020-07-31]
 image: /static/img/members/Chaires.jpg
 altimage: /static/img/members/Chaires_pb.jpg
 position: Junior Specialist
