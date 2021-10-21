@@ -1,5 +1,6 @@
 ---
 name: D. John Lee, Ph.D. 
+timeline_name: John
 startdate: [2017-11-01]
 enddate: [2021-08-01]
 image: /static/img/members/Lee.jpg

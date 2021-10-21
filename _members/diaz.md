@@ -1,5 +1,6 @@
 ---
 name: Roberto Efraín (Robbie) Díaz
+timeline_name: Roberto Efraín
 startdate: [2018-06-25]
 enddate: []
 image: /static/img/members/Diaz.jpg
