@@ -6,7 +6,7 @@ group: compact
 
 {% include carousel.html height="40" unit="%" duration="5" filter="img/members/drawings/members/" controlposition="90%" indicatorposition="90%" %}
 
-# Lab Compact and Philosophy
+# Lab Compact, Resources, and Philosophy
 <br/>
 
 ## Overview
@@ -34,11 +34,7 @@ These values are ideals and we're all growing towards embodying them. I want peo
 
 ## <a id="land_ackn">Land Acknowledgment Statement</a>
 The Fraser lab recognizes that [the University of California San Francisco sits on the unceded land of the Ramaytush Ohlone (pronounced Rah-mah-tush O-lone-ee) peoples, the original inhabitants of the San Francisco Peninsula](https://diversity.ucsf.edu/ucsf-land-acknowledgment). As settlers on this land, we want to recognize the historic, and ongoing, discrimination and violence inflicted upon Indigenous people in North America. Please read our [full statement](/land_ack).
-<br/>
-<br/>
 
-## <a id="resources">Resources</a>
-A comprehensive collection of resources for all of the topics listed in this compact has been compiled to support our development and health. [This list](https://docs.google.com/document/d/1zSiJaa5gQIHJ7G3uSXN5d9BdpvEABmQKi2Yr6j6Lr54/edit?usp=sharing) grows as we do.
 <br/>
 <br/>
 
@@ -60,7 +56,26 @@ This strategy embraces our “Beer AND Tacos” motto. We currently do both (pos
 JF is ready to skip step #3 (submitting to journals, above) whenever lab members decide they are ready to opt-out of the journal system.  A current perceived  roadblock is that preprints are not indexed in pubmed (although on ORCID Google Scholar etc). A secondary roadblock is that the term "preprint" rather than just "BioRxiv manuscript" implies that it is on the way to being complete rather than the manuscript of record.
 
 ## <a id="writing">Writing</a>
-I like to take an active role in the preparation of all our manuscripts, and I have protocols to facilitate this. A Twitter account that I follow, [@drugmonkeyblog](https://twitter.com/drugmonkeyblog), voiced the issue of how students are often afraid to show PIs anything other than finished work. I expect a draft to be very rough and a starting point to grow from. Regarding authorship, I believe that conversations about positions in author order should occur early in a project, and I err on having more authors on a paper than less. Everyone with a meaningful contribution should be included.
+I like to take an active role in the preparation of all our manuscripts and love to help people clarify their writing for fellowships and job applications. Many learners are often afraid to show PIs anything other than finished work. This is a mistake! I expect a draft to be very rough and a starting point to grow from. If you think it's time to start a paper, let's get in a room (or a zoom) and start hammering out an outline! 
+
+I prefer to write in Google Docs. I like to use the Document outline features, [Cross Reference](https://workspace.google.com/marketplace/app/cross_reference/269114033347) for figures and tables, and [Paperpile](https://paperpile.com/app) (importing by PMID so that metadata is consistent) for references. Let me know if you want me to track changes so you can see my edits, but note that I never want to see your changes tracked! 
+
+If you are stuck writing, schedule a meeting and we can sit down with the document on the big screen and write together. This is one of my favourite things to do. We start by outlining section headings, then by writing topic sentences for each paragraph, then by filling in paragraphs with text. I find that adding references to sentences in the introduction early can be quite clarifying (always using an Author-Date reference style until the late stages). I generally do my best work with other people in the room. We will iterate a lot before we finalize a product. Sometimes my advice will focus on a specific piece of "bigger picture" feedback and sometimes we will wordsmith sentences. 
+
+Panels for figures should be as scripted as possible. I like to do layouts in Keynote, which is a good middle ground between no features (embedding in Word/Google Docs) and too many features (Illustrator). But there are lots of different workflows in the lab. Generally, as we write, I prefer that you embed the figures in the document and share a folder with the raw files (images, Keynote files, illustrator files, etc). Other workflows are possible, but less efficient for me. However, it is also a way to expose me to potential new tricks/programs, so while I may lose patience, I’m willing to entertain it from time to time.
+
+Some good resources on writing:
+- [David Mobley Writing Tips](https://github.com/MobleyLab/Training/blob/main/Writing/WritingTips.md)
+- [David Mobley Style Guide](https://github.com/MobleyLab/Training/blob/main/Writing/StyleGuide.md)
+- [Arjun Raj Style/Figure Guide](http://rajlaboratory.blogspot.com/2020/07/my-favorite-high-yield-guides-to.html)
+
+
+Regarding authorship, I believe that conversations about positions in author order should occur early in a project. Communicate with me and I will help navigate these conversations with collaborator labs. I err on having more authors on a paper: everyone with a meaningful contribution must be included.
+<br/>
+<br/>
+
+## <a id="literature">Literature</a>
+As a scientist, it should be a pleasure to keep up with current literature. You should dedicate a few hours each week to scanning and reading new papers. A [blog post](/2013/09/28/The-Fraser-Lab-method-of-following-the-scientific-literature/) on our website describes a good method of how to keep on top of literature. As a part of weekly group meetings we have a mini journal club where we share interesting papers we’ve read. We also post these papers to Twitter with #fljcnlt and to a slack channel with the same name. Additionally, we have journal clubs jointly with other labs several times a year to encourage in depth conversations about current papers and methods.
 <br/>
 <br/>
 
@@ -175,10 +190,6 @@ As data deposition to some repositories can be involved, current lab efforts inc
 <br/>
 <br/>
 
-## <a id="literature">Literature</a>
-As a scientist, it should be a pleasure to keep up with current literature. You should dedicate a few hours each week to scanning and reading new papers. A [blog post](/2013/09/28/The-Fraser-Lab-method-of-following-the-scientific-literature/) on our website describes a good method of how to keep on top of literature. As a part of weekly group meetings we have a mini journal club where we share interesting papers we’ve read. We also post these papers to Twitter with #fljcnlt and to a slack channel with the same name. Additionally, we have journal clubs jointly with other labs several times a year to encourage in depth conversations about current papers and methods.
-<br/>
-<br/>
 
 ## <a id="collaboration">Collaboration</a>
 ##### Within the Fraser lab
@@ -200,6 +211,10 @@ Talk about your work openly. Share early. A key component to information transpa
 <br/>
 
 ---
+## <a id="resources">Resources</a>
+A comprehensive collection of resources for all of the topics listed in this compact has been compiled to support our development and health. [This list](https://docs.google.com/document/d/1zSiJaa5gQIHJ7G3uSXN5d9BdpvEABmQKi2Yr6j6Lr54/edit?usp=sharing) grows as we do.
+<br/>
+<br/>
 This development of this compact was guided by similar compacts and philosophies of several labs, see links.
 
 [Avasthi Lab, Dartmouth College](http://www.avasthilab.org/lab-policies-and-tips/)
