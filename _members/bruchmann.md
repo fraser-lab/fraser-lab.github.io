@@ -1,7 +1,7 @@
 ---
 name: Sebastian Bruchmann
-startdate: 2017-01-01
-enddate:
+startdate: [2017-01-01]
+enddate: []
 image: /static/img/members/bruchmann.jpg #365 x 365 pixels, 72 dpi
 position: Research Associate
 #subsequent:  update once you become an alumnus
