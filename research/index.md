@@ -8,9 +8,6 @@ group: research
 
 # Our research
 
-Research in the group is focused on using high throughput sequencing to study pathogen evolution.<br>
-
-<br>
-
+<br>Research in the group is focused on using high throughput sequencing to study pathogen evolution.<br>
 
 </div>
