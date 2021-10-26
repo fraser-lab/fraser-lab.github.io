@@ -13,7 +13,6 @@ Appointments:
 * Associate Director and Member, [Quantitative Biosciences Institute, University of California San Francisco](http://qbi.ucsf.edu/)
 * Associate Director, [Biophysics Graduate Program, University of California San Francisco](https://biophysics.ucsf.edu/)
 * Board Member and Vice President, [ASAPbio](https://asapbio.org/)
-* Advisory Council, [Arcadia Science](https://www.arcadia.science/) 
 
 Equity:
 * [Relay Therapeutics](https://relaytx.com/)
@@ -26,6 +25,7 @@ Consulting/speaker fees/travel within last 2 years:
 * [Novartis](https://www.novartis.com/)
 * [Olema Oncology](https://olema.com/)
 * [Merck](https://www.merck.com/)
+* [Arcadia Science](https://www.arcadia.science/) 
 * Past: Genentech, Revolution Medicines, Third Rock Ventures, GSK, Schrodinger, CCG, OpenEye, Roche, AstraZeneca
 
 Sponsored and Collaborative Research:
