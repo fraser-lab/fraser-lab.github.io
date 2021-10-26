@@ -10,7 +10,7 @@
   <id>{{site.url}}</id>
   <author>
     <name>Andries van Tonder</name>
-    <!-- <email>you@example.com</email> -->
+    <email>ajv37@cam.ac.uk</email>
   </author>
 
   {% for post in site.posts limit:20 %}
