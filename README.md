@@ -1,4 +1,4 @@
-# fraser-lab.github.io
+# pathgenevocam.github.io
 ====================
 
 Technologies this website uses:  
