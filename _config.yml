@@ -1,7 +1,7 @@
 name: "Pathogen Genomics and Evolution Group"
 description: "This is the official web page for the Pathogen Genomics and Evolution Group in the Department of Veterinary Medicine at the University of Cambridge."
 
-url: "https://pathgenevocam.github.io"
+url: "https://pathgenevocam.github.io/"
 
 paginate: 5
 plugins: [jekyll-paginate]
