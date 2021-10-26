@@ -7,7 +7,8 @@ group: research
 <div class="row">
 
 # Our research
-
-<br>Research in the group is focused on using high throughput sequencing to study pathogen evolution.<br>
+Research in the group is focused on using high throughput sequencing to study pathogen evolution.
+<br>
+<br>
 
 </div>
