@@ -4,7 +4,7 @@ layout: home
 group: home
 ---
 
-# Welcome to the Fraser Lab!
+# Welcome to the Pathogen Genomics and Evolution Group!
 {: .display-4}
 <br>
 We are part of the [Department of Veterinary Medicine](https://www.vet.cam.ac.uk/).
