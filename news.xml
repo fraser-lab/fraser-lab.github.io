@@ -3,13 +3,13 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
  
-  <title>Fraser Lab News</title>
+  <title>Pathogen Genomics and Evolution Group</title>
   <link href="{{ site.url }}"/>
   <link type="application/atom+xml" rel="self" href="{{site.url}}/news.xml"/>
   <updated>{{ site.time | date_to_xmlschema }}</updated>
   <id>{{site.url}}</id>
   <author>
-    <name>James Fraser</name>
+    <name>Andries van Tonder</name>
     <!-- <email>you@example.com</email> -->
   </author>
 
