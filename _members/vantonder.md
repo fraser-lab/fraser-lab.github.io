@@ -1,5 +1,5 @@
 ---
-name: Andries van Tonder
+name: Andries van Tonder DPhil.
 startdate: [2016-06-03]
 enddate: []
 image: /static/img/members/vantonder.jpg 
