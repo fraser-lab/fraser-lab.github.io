@@ -1,7 +1,7 @@
-name: "Fraser Lab"
-description: "This is the official web page for the James Fraser Lab at UCSF."
+name: "Pathogen Genomics and Evolution Group"
+description: "This is the official web page for the Pathogen Genomics and Evolution Group in the Department of Veterinary Medicne at the University of Cambridge."
 
-url: "http://fraserlab.com"
+url: "https://pathgenevocam.github.io"
 
 paginate: 5
 plugins: [jekyll-paginate]
