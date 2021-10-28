@@ -1,7 +1,7 @@
 ---
 name: Noémie Lefrancq
 startdate: [2020-10-01]
-enddate: [YYYY-MM-DD]
+enddate: 
 image: /static/img/members/lefrancq.jpg #365 x 365 pixels, 72 dpi
 altimage: /static/img/members/LastName_pb.jpg #365 x 365 pixels, 72 dpi
 position: PhD student
