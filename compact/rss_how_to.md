@@ -1,5 +1,5 @@
 ---
-title: Fraser Lab Compact and Philosophy
+title: How to use RSS to follow the Scientific Literature
 layout: default
 group: compact
 ---
