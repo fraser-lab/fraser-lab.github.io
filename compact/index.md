@@ -83,7 +83,7 @@ Regarding authorship, I believe that conversations about positions in author ord
 
 ## <a id="literature">Literature</a>
 
-As a scientist, it should be a pleasure to keep up with current literature. You should dedicate a few hours each week to scanning and reading new preprints and journal articles - and we recommend a [strategy that leverages RSS feeds](/compact/rss_how_to.md).
+As a scientist, it should be a pleasure to keep up with current literature. We believe should dedicate a few hours each week to scanning and reading new preprints and journal articles - and we recommend a [strategy that leverages RSS feeds](/compact/rss_how_to.md) to follow the literature.
 
 Every other week at group meetings, we have a mini journal club where each lab member shares 1 slide and a 60 second summary of an interesting paper they have read. Occasionally, we do journal clubs jointly with other labs to have an in-depth conversation about papers and methods of particular interest. When the journal club focuses on a preprint, we will summarize the discussion and post a public [review](/reviews)
 <br/>
