@@ -81,7 +81,7 @@ Regarding authorship, I believe that conversations about positions in author ord
 <br/>
 <br/>
 
-## <a id="literature">Literature</a>
+## <a id="literature">Reading and Following the Scientific Literature</a>
 
 As a scientist, it should be a pleasure to keep up with current literature. We believe should dedicate a few hours each week to scanning and reading new preprints and journal articles - and we recommend a [strategy that leverages RSS feeds](/compact/rss_how_to) to follow the literature.
 
