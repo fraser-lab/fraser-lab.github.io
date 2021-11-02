@@ -10,7 +10,7 @@ pronouns: she/hers #personal pronouns
 email: sjs263@cam.ac.uk #Preferred public email address
 scholar: eeqyJF0AAAAJ #Google Scholar User ID
 website: 
-twitter: @zannah_du
+twitter: zannah_du
 linkedin: susannah-salter-b725a419
 github: 
 orcid: 0000-0003-3898-8504
