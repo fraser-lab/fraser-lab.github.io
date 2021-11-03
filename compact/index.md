@@ -12,7 +12,7 @@ group: compact
 
 ## Overview
 
-The <a href="#mission">Fraser Lab Mission</a> is to do fantastic open science. We engage in a lot of <a href="#collaboration">collaborative</a> projects and strive for transparency in all things (see also our potential <a href="#coi">conflicts of interest</a>), but especially in our <a href="#publishing">publishing</a> practices. We believe great science is made possible by our <a href="#values">lab values</a> that heavily emphasize <a href="#mentorship">mentorship</a> and the <a href="#wellbeing">well-being</a> of every member of the lab. Sustaining a positive working environment involves conscientious <a href="#communication">communication</a> and bidirectional <a href="#feedback">feedback</a>, among other <a href="#expectations">general lab expectations</a>. These values also prompt us to <a href="#land_ack">acknowledge</a> that our institution was built on unceded Ramaytush Ohlone land. We take <a href="#career_dev">career development</a> seriously, which includes not only regular attendance at <a href="#conferences">conferences</a> but also making use of all the resources available to us both at UCSF and more broadly. In return, we take tracking and sharing our <a href="#data">data</a> very seriously. We are very fortunate to have access to an incredible wealth of scientific <a href="#literature">literature</a>, a strong track record of <a href="#grants">grant and fellowship funding</a>, and our amazing colleagues and core facilities at UCSF. Finally, this is a living document informed by a growing collection of external <a href="#resources">resources</a> — we aim to iteratively improve upon everything described here!
+The <a href="#mission">Fraser Lab Mission</a> is to do fantastic open science. We engage in a lot of <a href="#collaboration">collaborative</a> projects and strive for transparency in all things (see also our potential <a href="#coi">conflicts of interest</a>), but especially in our <a href="#publishing">publishing</a> practices. We believe great science is made possible by our <a href="#values">lab values</a> that heavily emphasize <a href="#mentorship">mentorship</a> and the <a href="#wellbeing">well-being</a> of every member of the lab. Sustaining a positive working environment involves conscientious <a href="#communication">communication</a> and bidirectional <a href="#feedback">feedback</a>, among other <a href="#expectations">general lab expectations</a>. These values also prompt us to <a href="#land_ack">acknowledge</a> that our institution was built on unceded Ramaytush Ohlone land. We take <a href="#career_dev">career development</a> seriously, which includes not only regular attendance and <a href="#presentations"> presentations</a> at <a href="#conferences">conferences</a> but also making use of all the resources available to us both at UCSF and more broadly. In return, we take tracking and sharing our <a href="#data">data</a> very seriously. We are very fortunate to have access to an incredible wealth of scientific <a href="#literature">literature</a>, a strong track record of <a href="#grants">grant and fellowship funding</a>, and our amazing colleagues and core facilities at UCSF. Finally, this is a living document informed by a growing collection of external <a href="#resources">resources</a> — we aim to iteratively improve upon everything described here!
 <br/>
 <br/>
 
@@ -69,6 +69,8 @@ I prefer to write in Google Docs. I like to use the Document outline features, [
 
 If you are stuck writing, schedule a meeting and we can sit down with the document on the big screen and write together. This is one of my favourite things to do. We start by outlining section headings, then by writing topic sentences for each paragraph, then by filling in paragraphs with text. I find that adding references to sentences in the introduction early can be quite clarifying (always using an Author-Date reference style until the late stages). I generally do my best work with other people in the room. We will iterate a lot before we finalize a product. Sometimes my advice will focus on a specific piece of "bigger picture" feedback and sometimes we will wordsmith sentences.
 
+##### Figures
+
 Panels for figures should be as scripted as possible. I like to do layouts in Keynote, which is a good middle ground between no features (embedding in Word/Google Docs) and too many features (Illustrator). But there are lots of different workflows in the lab. Generally, as we write, I prefer that you embed the figures in the document and share a folder with the raw files (images, Keynote files, illustrator files, etc). For simplicity, when writing grants and papers, I prefer to embed figures in the top row of a 2 row/1 column table that extends the entire width of the page. The figure legend should be written in the second row. Other workflows are possible, but less efficient for me. However, it is also a way to expose me to potential new tricks/programs, so while I may lose patience, I’m willing to entertain it from time to time.
 
 Some good resources on writing:
@@ -77,13 +79,15 @@ Some good resources on writing:
 - [David Mobley Style Guide](https://github.com/MobleyLab/Training/blob/main/Writing/StyleGuide.md)
 - [Arjun Raj Style/Figure Guide](http://rajlaboratory.blogspot.com/2020/07/my-favorite-high-yield-guides-to.html)
 
-Regarding authorship, I believe that conversations about positions in author order should occur early in a project. Communicate with me and I will help navigate these conversations with collaborator labs. I err on having more authors on a paper: everyone with a meaningful contribution must be included.
+##### Authorship
+
+I believe that conversations about positions in author order should occur early in a project. Communicate with me and I will help navigate these conversations with collaborator labs. I err on having more authors on a paper: everyone with a meaningful contribution must be included.
 <br/>
 <br/>
 
 ## <a id="literature">Reading and Following the Scientific Literature</a>
 
-As a scientist, it should be a pleasure to keep up with current literature. We believe should dedicate a few hours each week to scanning and reading new preprints and journal articles - and we recommend a [strategy that leverages RSS feeds](/compact/rss_how_to) to follow the literature. This activity helps increase one's **breadth** of knowledge. In working through these papers, we inevitably end up studying a small number more deeply, which includes scanning and reading the literature cited by that paper. This activity helps increase one's **depth** of knowledge and supplements the project specific-reading we do in preparing for qualifying exams, writing fellowships/grants, and planning projects. Both breadth and depth of understanding are essential and staying on top of the literature using RSS is a gateway to accomplishing both. 
+As a scientist, it should be a pleasure to keep up with current literature. We believe should dedicate a few hours each week to scanning and reading new preprints and journal articles - and we recommend a [strategy that leverages RSS feeds](/compact/rss_how_to) to follow the literature. This activity helps increase one's **breadth** of knowledge. In working through these papers, we inevitably end up studying a small number more deeply, which includes scanning and reading the literature cited by that paper. This activity helps increase one's **depth** of knowledge and supplements the project specific-reading we do in preparing for qualifying exams, writing fellowships/grants, and planning projects. Both breadth and depth of understanding are essential and staying on top of the literature using RSS is a gateway to accomplishing both.
 
 Every other week at group meetings, we have a mini journal club where each lab member shares 1 slide and a 60 second summary of an interesting paper they have read. Occasionally, we do journal clubs jointly with other labs to have an in-depth conversation about papers and methods of particular interest. When the journal club focuses on a preprint, we will summarize the discussion and post a public [review](/reviews)
 <br/>
@@ -94,6 +98,70 @@ Every other week at group meetings, we have a mini journal club where each lab m
 We believe that transparency in [peer review](/reviews/) is critical to improving the quality and professionalism of reviews. We only review manuscripts that have been posted on [bioRxiv](https://www.biorxiv.org) and we post our peer review comments publicly on bioRxiv as well. Peer review is also viewed as a training opportunity and all lab members who co-review with JF are credited for their contribution to the review. JF recognizes that he holds certain privileges that allow him to post peer review comments non-anonymously without fear of repercussion. Unfortunately, this is not the case for all researchers. JF is willing to post reviews on behalf of anyone, both in and outside of the Fraser lab, who wishes to remain anonymous.
 
 Guidelines for how to engage in respectful and constructive peer review can be found on the [Peer Review in the Life Sciences course page](/peer_review/how_to).
+<br/>
+<br/>
+
+## <a id="presentations">Presentations</a>
+
+We strive to give clear presentations that explain our scientific results to new audiences. We know that delivering a good presentation is hard work. Below we outline advice for structuring and delivering presentations, focused primarily on external audiences, noting modifications for internal audiences below. When planning a new presentation consider first:
+
+1) **Who is your audience?** <br>
+(Fraser lab group members, other graduate students from your program, specialists in your field at a conference, people evaluating you for a job/fellowship, etc)
+
+2) **What question does your presentation answer?** <br>
+(is the answer a key data take away, a clear next step you want to take, a shift in how we approach a problem, etc)
+
+The key to delivering a good presentation is to develop it with **EMPATHY FOR THE AUDIENCE**. We want to make sure that we are delivering our main question (occasionally questions) in a way that the audience can understand and appreciate.
+
+A good presentation, especially a good external presentation, is not about showing off or overwhelming folks with data. Holding back data and  having extra data backup slides is a great thing to be able to use during Q+A. Rather, a presentation is about getting the audience to understand:
+
+- **WHY** you are asking the question (Background),
+- **WHAT** the barrier is to solving it (Yet more Background and early results),
+- **HOW** you solved it and you relate it to the barrier/the broader question (your results),
+- **WHERE** you would like to go next (future directions).
+
+If you are struggling with how your work fits this framework, ask for help and we will talk about ways to structure your presentation.
+
+It is important to note that sometimes in science, especially if we are being ambitious, the **HOW** section can be about to how you are not able to answer the question, yet! That is ok! You should still relate your results to the barrier you identified and provide context to the broader question you are asking. This is an opportunity to point the way forward with a strong **WHERE** section.
+
+In general, the biggest problems I encounter are too much time spent on the details of **HOW** and not enough on **WHY/WHAT**. Defining the scope of the question and the key barriers to answering it takes a lot of practice to get right. Another problem I observe frequently is that the scope of the **WHY**/background section is often not right for the actual question the presentation seeks to answer: people tend to give generic background that is not actually relevant to the question they are addressing.
+
+In building a presentation around **WHY/WHAT/HOW/WHERE**, your presentation should develop a coherent narrative arc. This should naturally orient the audience as to what the stakes are for the field or what contrast you are trying to draw to previous work. Not all advice from books on this is applicable, but there are some [great texts on how to create more of this narrative contrast of what is blocking progress and how you overcome it in presentations](https://www.sebastienphlix.com/book-summaries/duarte-resonate).
+
+This structure basic structure is expanded for longer talks as well. In a longer talk, there is usually a single broad narrative arc with sections of the talk that connect to each other. Ideally the talk flows so that each segment connects to the next with a WHY/WHAT/HOW/WHERE->WHY… structure.
+
+##### Practicing
+
+Once again, we know that delivering a good presentation is hard work. Therefore, practice, feedback, iteration are key to deliverying good presentations. In practicing, you will receive advice from many people. Don't listen to all of it (even the advice on this page!), but pay special attention to those who say they didn't understand parts of your talk. You will develop your own style in time. For example, different people have different rhythms of presenting. JF uses about a slide every 20 seconds. Others can spend 2-3 minutes on even very simple slides and are captivating speakers. You do you!
+
+During practices, I find it is often helpful to have a copy of the slides (at least 4 slides per page) printed out for me to take notes on. This enables me to write notes that associate feedback with specific slides. If you can send them along, great - if not, no worries (either the raw file or a PDF with  is fine).
+
+When I practice a new talk for the first time, I WRITE EXACTLY WHAT I WISH I COULD SAY FOR ALL SLIDES. When I give the talk, I don't stick to a script, but by writing out the talk once, I know the ideal version of what I would have covered. This exercise also helps to refine the content and flow of talks.
+
+##### Slide design
+
+An overarching philosophy of mine is "Minimize text on slides". Avoid walls of text bullet points and especially reading walls of text. The main text on a slide should be a single Title sentence at the top of the slide. This should be different for every slide and be a single sentence using simple and active language. You should be able to read the titles of the slides only and have a pretty good understanding of the talk.
+
+Do not rely or count on being able to use a laser pointer ever. Better to just avoid using laser pointers all together. If you design your slides so that there is only one thing to concentrate on at a time and that thing is obvious, then you don't need a pointer. Making good, visually simple slides is hard and will take a lot of iteration. It is related but distinct from making good figures for your paper.
+
+Note: You can consider a slightly different balance of text on slides if you are distributing the slide deck without presenting it (e.g. to a company). But in this case, it is good to have 2 versions of your slide deck, one text light (for presenting) and one text heavy (for distribution).
+
+##### Handling Q+A
+
+Be nice and don’t get stressed if someone misinterprets the talk (that is an opportunity to clarify for next time). Try not to be defensive in answers. It’s hard work! Start by rephrasing the question. This is a good practice in the zoom age and also makes sure you are answering the question they intended to ask. Get used to using the slide navigator in presentation mode so that you can quickly broadcast a relevant (and often backup!) slide in response to a qustion. Be honest, but have fun! If you don’t know or can't yet address a question with data, it is ok to speculate a little. Just be sure to clearly distinguish speculation and answers grounded in data or prior literature.
+
+##### Special considerations for non-external talks
+
+- Group meeting
+  - Resist the urge to have too much background. If you are worried about new lab members not having enough context, invite them to coffee before and talk to them about the project or show your last intro. Accordingly, we expect internal presentations to spend a bit less time on WHY than for an external talk.
+  - Internal talks are an opportunity to "data dump" a lot more than in an external talk.  Show the warts! Tell a story of not only what you learned, but what didn't work along the way.
+  - You can spend a lot more time on WHERE you are going next with your research. This is your best opportunity to get feedback on next directions.
+  - We like the overall title of the presentation to be in the form of a question.
+
+- Thesis committee Meetings:
+  - Have a plan for what you would like to discuss for the “advisor outside the room portion” - even if that plan is to say "everything is going fine"
+  - The background should not be too general and you shouldn't spend too much time on what has worked. This meeting is to get advice about what isn't working and what's next!
+  - Include a Timeline! Where are you on the Path to PhD? What papers do you anticipate trying to write and when? When are you going to look apply for what's next? (this might also be good to include in Group meetings!)
 <br/>
 <br/>
 
