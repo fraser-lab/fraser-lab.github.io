@@ -132,7 +132,9 @@ This structure basic structure is expanded for longer talks as well. In a longer
 
 ##### Practicing
 
-Once again, we know that delivering a good presentation is hard work. Therefore, practice, feedback, iteration are key to deliverying good presentations. In practicing, you will receive advice from many people. Don't listen to all of it (even the advice on this page!), but pay special attention to those who say they didn't understand parts of your talk. You will develop your own style in time. For example, different people have different rhythms of presenting. JF uses about a slide every 20 seconds. Others can spend 2-3 minutes on even very simple slides and are captivating speakers. There are lots of opinions out there on [what makes a great scientific talk](http://www.howtogiveatalk.com/). You do you!
+Once again, we know that delivering a good presentation is hard work. Therefore, practice, feedback, iteration are key to deliverying good presentations. In practicing, you will receive advice from many people - be grateful. It is wonderful to get feedback. But, don't listen to all of it (even the advice on this page!). Pay special attention to those who say they didn't understand parts of your talk - this is the most valuable feedback: use it to refine and clarify your message. 
+
+You will develop your own style in time. For example, different people have different rhythms of presenting. JF uses about a slide every 20 seconds. Others can spend 2-3 minutes on even very simple slides and are captivating speakers. There are lots of opinions out there on [what makes a great scientific talk](http://www.howtogiveatalk.com/). You do you!
 
 During practices, I find it is often helpful to have a copy of the slides (at least 4 slides per page) printed out for me to take notes on. This enables me to write notes that associate feedback with specific slides. If you can send them along, great - if not, no worries (either the raw file or a PDF with  is fine).
 
@@ -152,9 +154,9 @@ Be nice and don’t get stressed if someone misinterprets the talk (that is an o
 
 ##### Special considerations for non-external talks
 
-- Group meeting
+- Group meetings: 
   - Resist the urge to have too much background. If you are worried about new lab members not having enough context, invite them to coffee before and talk to them about the project or show your last intro. Accordingly, we expect internal presentations to spend a bit less time on WHY than for an external talk.
-  - Internal talks are an opportunity to "data dump" a lot more than in an external talk.  Show the warts! Tell a story of not only what you learned, but what didn't work along the way.
+  - Internal talks are an opportunity to "data dump" a lot more than in an external talk.  Show the warts! Tell a story of not only what you learned, but also of what didn't work along the way.
   - You can spend a lot more time on WHERE you are going next with your research. This is your best opportunity to get feedback on next directions.
   - We like the overall title of the presentation to be in the form of a question.
 
