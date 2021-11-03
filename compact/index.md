@@ -132,7 +132,7 @@ This structure basic structure is expanded for longer talks as well. In a longer
 
 ##### Practicing
 
-Once again, we know that delivering a good presentation is hard work. Therefore, practice, feedback, iteration are key to deliverying good presentations. In practicing, you will receive advice from many people. Don't listen to all of it (even the advice on this page!), but pay special attention to those who say they didn't understand parts of your talk. You will develop your own style in time. For example, different people have different rhythms of presenting. JF uses about a slide every 20 seconds. Others can spend 2-3 minutes on even very simple slides and are captivating speakers. You do you!
+Once again, we know that delivering a good presentation is hard work. Therefore, practice, feedback, iteration are key to deliverying good presentations. In practicing, you will receive advice from many people. Don't listen to all of it (even the advice on this page!), but pay special attention to those who say they didn't understand parts of your talk. You will develop your own style in time. For example, different people have different rhythms of presenting. JF uses about a slide every 20 seconds. Others can spend 2-3 minutes on even very simple slides and are captivating speakers. There are lots of opinions out there on [what makes a great scientific talk](http://www.howtogiveatalk.com/). You do you!
 
 During practices, I find it is often helpful to have a copy of the slides (at least 4 slides per page) printed out for me to take notes on. This enables me to write notes that associate feedback with specific slides. If you can send them along, great - if not, no worries (either the raw file or a PDF with  is fine).
 
