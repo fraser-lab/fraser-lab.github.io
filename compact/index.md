@@ -72,16 +72,15 @@ If you are stuck writing, schedule a meeting and we can sit down with the docume
 ##### Figures
 
 Panels for figures should be as scripted as possible. I like to do layouts in Keynote, which is a good middle ground between no features (embedding in Word/Google Docs) and too many features (Illustrator). But there are lots of different workflows in the lab. Generally, as we write, I prefer that you embed the figures in the document and share a folder with the raw files (images, Keynote files, illustrator files, etc). For simplicity, when writing grants and papers, I prefer to embed figures in the top row of a 2 row/1 column table that extends the entire width of the page. The figure legend should be written in the second row. Other workflows are possible, but less efficient for me. However, it is also a way to expose me to potential new tricks/programs, so while I may lose patience, I’m willing to entertain it from time to time.
+ Authorship
 
-Some good resources on writing:
+I believe that conversations about positions in author order should occur early in a project. Communicate with me and I will help navigate these conversations with collaborator labs. I err on having more authors on a paper: everyone with a meaningful contribution must be included.
+
+##### Resources on writing
 
 - [David Mobley Writing Tips](https://github.com/MobleyLab/Training/blob/main/Writing/WritingTips.md)
 - [David Mobley Style Guide](https://github.com/MobleyLab/Training/blob/main/Writing/StyleGuide.md)
 - [Arjun Raj Style/Figure Guide](http://rajlaboratory.blogspot.com/2020/07/my-favorite-high-yield-guides-to.html)
-
-##### Authorship
-
-I believe that conversations about positions in author order should occur early in a project. Communicate with me and I will help navigate these conversations with collaborator labs. I err on having more authors on a paper: everyone with a meaningful contribution must be included.
 <br/>
 <br/>
 
@@ -132,7 +131,7 @@ This structure basic structure is expanded for longer talks as well. In a longer
 
 ##### Practicing
 
-Once again, we know that delivering a good presentation is hard work. Therefore, practice, feedback, iteration are key to deliverying good presentations. In practicing, you will receive advice from many people - be grateful. It is wonderful to get feedback. But, don't listen to all of it (even the advice on this page!). Pay special attention to those who say they didn't understand parts of your talk - this is the most valuable feedback: use it to refine and clarify your message. 
+Once again, we know that delivering a good presentation is hard work. Therefore, practice, feedback, iteration are key to deliverying good presentations. In practicing, you will receive advice from many people - be grateful. It is wonderful to get feedback. But, don't listen to all of it (even the advice on this page!). Pay special attention to those who say they didn't understand parts of your talk - this is the most valuable feedback: use it to refine and clarify your message.
 
 You will develop your own style in time. For example, different people have different rhythms of presenting. JF uses about a slide every 20 seconds. Others can spend 2-3 minutes on even very simple slides and are captivating speakers. There are lots of opinions out there on [what makes a great scientific talk](http://www.howtogiveatalk.com/). You do you!
 
@@ -154,7 +153,7 @@ Be nice and don’t get stressed if someone misinterprets the talk (that is an o
 
 ##### Special considerations for non-external talks
 
-- Group meetings: 
+- Group meetings:
   - Resist the urge to have too much background. If you are worried about new lab members not having enough context, invite them to coffee before and talk to them about the project or show your last intro. Accordingly, we expect internal presentations to spend a bit less time on WHY than for an external talk.
   - Internal talks are an opportunity to "data dump" a lot more than in an external talk.  Show the warts! Tell a story of not only what you learned, but also of what didn't work along the way.
   - You can spend a lot more time on WHERE you are going next with your research. This is your best opportunity to get feedback on next directions.
