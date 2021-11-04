@@ -72,7 +72,8 @@ If you are stuck writing, schedule a meeting and we can sit down with the docume
 ##### Figures
 
 Panels for figures should be as scripted as possible. I like to do layouts in Keynote, which is a good middle ground between no features (embedding in Word/Google Docs) and too many features (Illustrator). But there are lots of different workflows in the lab. Generally, as we write, I prefer that you embed the figures in the document and share a folder with the raw files (images, Keynote files, illustrator files, etc). For simplicity, when writing grants and papers, I prefer to embed figures in the top row of a 2 row/1 column table that extends the entire width of the page. The figure legend should be written in the second row. Other workflows are possible, but less efficient for me. However, it is also a way to expose me to potential new tricks/programs, so while I may lose patience, I’m willing to entertain it from time to time.
- Authorship
+
+##### Authorship
 
 I believe that conversations about positions in author order should occur early in a project. Communicate with me and I will help navigate these conversations with collaborator labs. I err on having more authors on a paper: everyone with a meaningful contribution must be included.
 
