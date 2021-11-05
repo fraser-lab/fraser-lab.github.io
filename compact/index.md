@@ -43,6 +43,7 @@ The Fraser lab recognizes that [the University of California San Francisco sits 
 <br/>
 <br/>
 
+
 <div class="accordion" id="accordionExample">
   <div class="card">
     <div class="card-header" id="headingOne">
@@ -60,6 +61,8 @@ The Fraser lab recognizes that [the University of California San Francisco sits 
     </div>
   </div>
 </div>
+
+
 ## <a id="publishing">Publishing</a>
 
 Sharing results openly and swiftly are keys to 21st century science communication. The real end goal of any research is to get the work out there for others to build on, not to publish in journals. We share openly at <a href="#conferences">conferences</a>, but recognize the role of publication as a more permanent and accessible form of communication. In publishing our work, we welcome peer review, but most importantly, we also maintain our own high scientific standards by posting preprints when we judge them to be ready for sharing.
