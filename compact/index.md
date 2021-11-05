@@ -44,21 +44,17 @@ The Fraser lab recognizes that [the University of California San Francisco sits 
 <br/>
 
 
-<div class="accordion" id="accordionExample">
-  <div class="card">
-    <div class="card-header" id="headingOne">
-      <h2 class="mb-0">
-        <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-          Publishing
-        </button>
-      </h2>
-    </div>
+<div class="card-header" id="headingOne">
+  <h2 class="mb-0">
+    <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+      Publishing
+    </button>
+  </h2>
+</div>
 
-    <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordionExample">
-      <div class="card-body">
-        Sharing results openly and swiftly are keys to 21st century science communication. The real end goal of any research is to get the work out there for others to build on, not to publish in journals. We share openly at <a href="#conferences">conferences</a>, but recognize the role of publication as a more permanent and accessible form of communication. In publishing our work, we welcome peer review, but most importantly, we also maintain our own high scientific standards by posting preprints when we judge them to be ready for sharing.
-      </div>
-    </div>
+<div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordionExample">
+  <div class="card-body">
+    Sharing results openly and swiftly are keys to 21st century science communication. The real end goal of any research is to get the work out there for others to build on, not to publish in journals. We share openly at <a href="#conferences">conferences</a>, but recognize the role of publication as a more permanent and accessible form of communication. In publishing our work, we welcome peer review, but most importantly, we also maintain our own high scientific standards by posting preprints when we judge them to be ready for sharing.
   </div>
 </div>
 
