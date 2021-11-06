@@ -1,6 +1,6 @@
 
 @media (min-width: 992px) {
-   .collapse {
+   .navbar-collapse {
        display: none !important;
    }
 }
