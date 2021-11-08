@@ -1,12 +1,12 @@
 ---
-title: Fraser Lab Compact and Philosophy
+title: Fraser Lab Compact, Philosophy, and Resources
 layout: default
 group: compact
 ---
 
 {% include carousel.html height="40" unit="%" duration="5" filter="img/members/drawings/members/" controlposition="90%" indicatorposition="90%" %}
 
-# Lab Compact, Resources, and Philosophy
+# Lab Compact, Philosophy, and Resources
 
 <div class="accordion" id="accordionCompact">
 {% for item in site.data.compact %}
