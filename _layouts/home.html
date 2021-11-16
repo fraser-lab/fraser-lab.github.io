@@ -1,19 +1,18 @@
 {% include header.html %}
 
-<div class="container px-2 max-width: 100%">
-    <div class="row">
-        <div class="col">
-            <img class="img-responsive" src="/static/img/logo/website_front.jpg" alt="Examples of work">
-        </div>
-    	<div class="jumbotron jumbotron-fluid">
-            {{ content }}
+<div class="jumbotron">
+    <div class="container text-center text-lg-left">
+        <div class="row">
+            <div class="col-lg-8">
+                {{ content }}
+            </div>
+            <div class="col-lg-4 align-items-center d-flex">
+                <img class="img-fluid" src="/static/img/logo/website_front.jpg" alt="Examples of work">
+            </div>
+            <div class="col">
+                {% include sidebar.html %}
+            </div>
         </div>
     </div>
-    <div class="row"> 
-        <div class="col">
-            {% include sidebar.html %}
-        </div>
-    </div> 
 </div>
-
 {% include footer.html %}
