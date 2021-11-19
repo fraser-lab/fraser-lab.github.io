@@ -126,9 +126,11 @@
 
     ##### Resources on writing
     
-    - [David Mobley Writing Tips](https://github.com/MobleyLab/Training/blob/main/Writing/WritingTips.md)
-    - [David Mobley Style Guide](https://github.com/MobleyLab/Training/blob/main/Writing/StyleGuide.md)
-    - [Arjun Raj Style/Figure Guide](http://rajlaboratory.blogspot.com/2020/07/my-favorite-high-yield-guides-to.html)
+    * [David Mobley Writing Tips](https://github.com/MobleyLab/Training/blob/main/Writing/WritingTips.md)
+
+    * [David Mobley Style Guide](https://github.com/MobleyLab/Training/blob/main/Writing/StyleGuide.md)
+
+    * [Arjun Raj Style/Figure Guide](http://rajlaboratory.blogspot.com/2020/07/my-favorite-high-yield-guides-to.html)
 
 - title: Publishing
   id: "publishing"
@@ -141,11 +143,16 @@
     However, the reality is traditional journal-based publishing still provides the highest visibility for work and coordinates review that can add value. Our current approach involves:
 
     1. Disseminating our results via preprints
+
     2. Celebrating and posting a tweetorial that explicitly welcomes reviews/feedback posted as comments on BioRxiv
+
     3. Submitting for publication in traditional journals (selected by the first author, with preference for Open Access)
+
     4. Responding to peer review from both the journal and comments
+
     5. Ensuring that the final work is placed in repositories like PubmedCentral for open-access and that other materials and data end up <a href="#repositories">repositories</a>
 
+    
     This strategy embraces our “Beer AND Tacos” motto. We currently do both (post preprints and publish in journals). We are full proponents of a modern world of publishing that encompasses transparency, speed, fairness, peer-review, and visibility. This is evolving, and as a group we want to lead by example and be on the vanguard of that change.
 
     JF is ready to skip step #3 (submitting to journals, above) whenever lab members decide they are ready to opt-out of the journal system.  A current perceived  roadblock is that preprints are not indexed in pubmed (although on ORCID Google Scholar etc). A secondary roadblock is that the term "preprint" rather than just "BioRxiv manuscript" implies that it is on the way to being complete rather than the manuscript of record.
