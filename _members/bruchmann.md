@@ -3,7 +3,7 @@ name: Dr Sebastian Bruchmann
 startdate: [2019-06-03]
 enddate: []
 image: /static/img/members/bruchmann.jpg #365 x 365 pixels, 72 dpi
-position: Research Associate
+position: Senior Research Associate
 #subsequent:  update once you become an alumnus
 pronouns: he/him/his #personal pronouns
 email: shgb2@cam.ac.uk #Preferred public email address
