@@ -1,5 +1,5 @@
 ---
-name: Evangelos Dimopoulos
+name: Evangelos Dimopoulos DPhil.
 startdate: [2021-08-09]
 enddate: []
 image: /static/img/members/dimopoulos.jpg #365 x 365 pixels, 72 dpi
