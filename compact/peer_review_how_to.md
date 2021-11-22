@@ -54,3 +54,4 @@ When formatting a first draft of a review, create three sections:
 - Reflect on the points you made and consider what is essential for supporting the arguments that are made in the paper
 - Avoid the instinct to focus on the gatekeeping role of review and instead try to reframe all comments around what will help the science the most
 - Re-read the review with an eye towards the reaction of the most junior author. Try to be empathetic to their point of view.
+- Does your review follow the [FAST (Focused, Appropriate, Specific, Transparent) principles](https://asapbio.org/fast-principles) to foster a positive preprint feedback culture
