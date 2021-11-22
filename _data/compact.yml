@@ -161,9 +161,22 @@
   id: "peer_review"
   show: False
   body: >
-    We believe that transparency in [peer review](/reviews/) is critical to improving the quality and professionalism of reviews. We only review manuscripts that have been posted on [bioRxiv](https://www.biorxiv.org) and we post our peer review comments publicly on bioRxiv as well. Peer review is also viewed as a training opportunity and all lab members who co-review with JF are credited for their contribution to the review. JF recognizes that he holds certain privileges that allow him to post peer review comments non-anonymously without fear of repercussion. Unfortunately, this is not the case for all researchers. JF is willing to post reviews on behalf of anyone, both in and outside of the Fraser lab, who wishes to remain anonymous.
+    We benefit from feedback on our manuscripts, most often in the form of journal organized peer review, and we are enthusiastic about offering our feedback to others to help improve their manuscripts. 
+    
+    Why review papers? For our lab, we are motivated by the ability to potentially improve:
 
-    Guidelines for how to engage in respectful and constructive peer review can be found on the [Peer Review in the Life Sciences course page](/peer_review/how_to).
+    - the clarity of how the scientific results are communicated
+    - the contrast between what is supported by results and what is speculative
+    - the speed and transparency of the publication process	
+    These values represent a change of focus from some traditional ideas of peer review that center on gatekeeping (“does this paper belong in nature?”). We want to write reviews that are constructive, empathetic, and respectful - and we think that this can be done in a way that enhances the rigour of the manuscript.  [Our process for writing reviews](/compact/peer_review_how_to/) focuses on advice on reading manuscripts, writing the review, and editing ourselves so that our final reviews obey [FAST (Focused, Appropriate, Specific, Transparent) principles](https://asapbio.org/fast-principles) to foster a positive preprint feedback culture.
+    
+    Accordingly, we believe that transparency in peer review can improve the speed, quality, and collegiality of the publication process. As such, we only review manuscripts that have been posted on preprint servers and we post our peer review comments publicly](/reviews). We support other initiatives to improve peer review (such as Review commons and FeedbackASAP).
+    
+    Peer review is also an important training opportunity for lab members in scientific thinking and writing. All lab members who co-review with JF are credited for their contribution to the [review](/reviews).  Following [our guidelines for drafting reviews](/compact/peer_review_how_to/), we iteratively revise the review to make sure it is constructive. JF is always happy to look over reviews and if he hasn’t meaningfully contributed, lab members are encouraged to post as solo review authors.
+    
+    Additionally, JF recognizes that he holds certain privileges that allow him to post peer review comments non-anonymously without fear of repercussion. Unfortunately, this is not the case for all researchers. JF is willing to post reviews on behalf of anyone, both in and outside of the Fraser lab, who wishes to remain anonymous.
+    
+    On the other side of the coin, How do we react to our reviews? We try to put ourselves in the shoes of the review. We assume the best intentions and adopt a default state that this offers us an opportunity to clarify the communication of our science. A detailed guide of [how to respond to reviews](/compact/respond_to_reviews_how_to/) is also available.
 
 - title: Mentorship
   id: "mentorship"
