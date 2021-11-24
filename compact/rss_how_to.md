@@ -8,7 +8,16 @@ We reject the idea that it is impossible to “stay on top of the literature”.
 
 ### The 80-20 theory of the literature
 
-We navigate the literature at different levels and must become comfortable with two things: 1) not progressing the vast majority of articles past each level and 2) abandoning an article in the middle of each level. The first, level is reading titles of articles, the second is reading abstracts, the third is scanning figures and headings, the fourth is reading the article, and the fifth is studying the article (including reading articles it cites!). At each stage, aim to to progess less than 20% of the articles to the next stage - said another way, aim to reject at least 80% of the articles! Your goal is to only save those that are interesting and to segregate those activities that can be done without much mental engagement (stages 1-2, can be easily done on your phone, for example) from those that require focus (generally 3 and 4 - and most certainly 5 require deeper concentration).
+We navigate the literature at different levels and must become comfortable with two things: 1) not progressing the vast majority of articles past each level and 2) abandoning an article in the middle of each level. 
+
+
+* Level 1: reading titles of articles
+* Level 2: reading abstracts
+* Level 3: scanning figures and headings
+* Level 4: reading the article
+* Level 5: studying the article (including reading articles it cites!). 
+
+At each stage, aim to progess less than 20% of the articles to the next stage - said another way, aim to reject at least 80% of the articles! Your goal is to only save those that are interesting and to segregate those activities that can be done without much mental engagement (levels 1-2, can be easily done on your phone, for example) from those that require focus (generally 3 and 4 - and most certainly 5 require deeper concentration).
 
 For example, it generally takes me less than a second to make a decision on whether a title is worth the "save for later" designation - and less than 20% pass that threshold! Of these papers I read the abstracts (5-10 seconds per paper) and decide to open the full article for less than 20%.  I can read abstracts on my phone or my computer. If I’m on my computer, I will often go through the rest of the steps. If I’m on my phone, I simply unstar the ones I don’t want to read and leave the other ones stared to engage with the full text when I’m at my computer.
 
@@ -66,6 +75,7 @@ The intial filter of titles relies on RSS. There are many RSS readers. This guid
     * JMB: <http://rss.sciencedirect.com/publication/science/00222836>
 
 This is not an exhuastive list, add journals, people, etc liberally. Once you get used to sorting through the literature every day, you will find that you do not get overwhelmed. You can always "amnesty" and start fresh at any time by clicking "mark all read" and starting again. RSS is wonderful!
+
 ### Isn’t there some redundancy?
 
 Yes - but that presents more opportunities to actually read an important paper.
@@ -74,18 +84,18 @@ Yes - but that presents more opportunities to actually read an important paper.
 
 Separate reading titles, sorting abstracts, and reading papers into distinct tasks at distinct times
 
-#### Titles, while walking around
+#### Level 1: Titles, while walking around
 
 I scan through the titles from RSS feeds very quickly. I have a good RSS reader on my phone (Feedly’s native app) that syncs with Feedly’s web version. Whenever I am walking, I use the app to swipe through article titles and star the ones with interesting sounding abstracts. I generally sneak a peek at the author list too and save based on authors.
 
 Similarly, when I’m on my computer, I scan through titles very quickly using keyboard shortcuts (`j` for next, `k` for previous) and save articles for later (keyboard shortcut `s`).  
 
-#### Abstracts, while sitting and waiting
+#### Level 2: Abstracts, while sitting and waiting
 
 When I have small pockets of time (usually waiting for someone or sitting somewhere), I go into my saved folder (on the phone or computer) and read the abstracts.  If I have a lot of time (more than 5 minutes) and am at my computer, I will open the interesting ones in the background (install [this extension](https://chrome.google.com/webstore/detail/feedly-background-tab/gjlijkhcebalcchkhgaiflaooghmoegk) and then the keyboard shortcut is `;`).
 
 This keeps the focus on the abstracts and doesn’t require touching the mouse or trackpad.  I get into a rhythm of hitting `j` (then `;`) then `s` to advance (, open) and unstar an article.  If I’m on my phone or don’t have a lot of time, I just unstar the ones that no longer interest me.
 
-#### Reading, while you have >5 minutes at your computer
+#### Levels 3-5: Reading, while you have >5 minutes at your computer
 
 When I have time (generally first thing in the AM and on weekends) - I open up background tabs for all the articles have survived in my saved folder and start scanning through them.  I’m a fairly fast reader and have learned to get a lot out of scanning articles. I think this is an important skill to develop as a scientist.
