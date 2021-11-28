@@ -29,7 +29,8 @@ Consulting/speaker fees/travel within last 2 years:
 * [Olema Oncology](https://olema.com/)
 * [Merck](https://www.merck.com/)
 * [Arcadia Science](https://www.arcadia.science/)
-* Past: Genentech, Revolution Medicines, Third Rock Ventures, GSK, Schrodinger, CCG, OpenEye, Roche, AstraZeneca
+* [Octant](https://octant.bio/)
+* Past: Genentech, Revolution Medicines, Third Rock Ventures, Calico, GSK, Schrodinger, CCG, OpenEye, Roche, AstraZeneca
 
 Sponsored and Collaborative Research:
 
