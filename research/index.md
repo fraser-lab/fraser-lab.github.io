@@ -35,6 +35,8 @@ We use high-throughput mutagenesis approaches (such as TraDIS, previously develo
 
 </div>
 
+<br/>
+
 <div class="row">
 
 <h4> Our collaborators </h4>
@@ -43,7 +45,7 @@ We use high-throughput mutagenesis approaches (such as TraDIS, previously develo
 
 <div class="row">
 
-We have a number of ongoing collaborations with leading researchers around the globe including, but not limited to the following:
+We have a number of ongoing collaborations with leading researchers around the globe including, but not limited, to the following:
 
 <style>
 table {
@@ -71,6 +73,46 @@ tr:nth-child(even) {
   <tr>
     <td><a href="https://www.med.cam.ac.uk/peacock/">Prof. Sharon Peacock</a></td>
     <td>Department of Medicine, University of Cambridge</td>
+  </tr>
+  <tr>
+    <td><a href="http://www.med.cam.ac.uk/floto/">Prof. Andres Floto</a></td>
+    <td>Department of Medicine, University of Cambridge</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.vet.cam.ac.uk/staff/professor-mark-holmes">Prof. Mark Holmes</a></td>
+    <td>Department of Veterinary Medicine, University of Cambridge</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.vet.cam.ac.uk/staff/professor-james-wood-obe">Prof. James Wood</a></td>
+    <td>Department of Veterinary Medicine, University of Cambridge</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.vet.cam.ac.uk/directory/ceb27%40cam.ac.uk">Prof. Clare Bryant</a></td>
+    <td>Department of Veterinary Medicine, University of Cambridge</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.zoo.ox.ac.uk/people/professor-timothy-walsh?filter_types-2214521[]=&filter_series-2214521[]=">Prof. Tim Walsh</a></td>
+    <td>Department of Zoology, University of Oxford</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.aber.ac.uk/en/ibers/staff-profiles/listing/profile/glh14/">Prof. Glyn Hewinson</a></td>
+    <td>IBERS, University of Aberystwyth</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.imperial.ac.uk/people/w.cookson">Prof. Bill Cookson</a></td>
+    <td>Faculty of Medicine, Imperial College London</td>
+  </tr>
+  <tr>
+    <td><a href="https://researchportal.bath.ac.uk/en/persons/samuel-sheppard">Prof. Sam Sheppard</a></td>
+    <td>Department of Biology & Biochemistry, University of Bath</td>
+  </tr>
+  <tr>
+    <td><a href="https://researchportal.helsinki.fi/en/persons/jukka-corander">Prof. Jukka Corander</a></td>
+    <td>Department of Mathematics and Statistics, University of Helsinki</td>
+  </tr>
+  <tr>
+    <td><a href="https://publichealth.gwu.edu/departments/environmental-and-occupational-health/lance-price">Prof. Lance Price</a></td>
+    <td>Environmental and Occupational Health, The George Washington University</td>
   </tr>
 </table>
 
