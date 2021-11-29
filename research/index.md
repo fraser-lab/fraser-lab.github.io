@@ -11,6 +11,10 @@ As a group, our fundamental interest is in bacterial evolution, particularly the
 
 The work of the group covers a diverse range of topics within this broad area:
 
+</div>
+
+<div class="row">
+
 <h4>1) Development of analytical approaches </h4>
 
 We have developed tools to describe and understand the pangenome (e.g. Panaroo), and we are developing approaches to model and incorporate non-SNP variation in phylogenetic inference. We are very interested in applying mutational signatures to understanding bacterial niches, and have developed software to enable this. In the past we have developed novel GWAS methods, and have a continued interest in this area.
