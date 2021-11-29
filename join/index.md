@@ -32,7 +32,11 @@ We regularly offer undergraduate projects for the University of Cambridge's NST 
 
 <h4>Postgraduate students </h4>
 
-<p>Enquiries about PhD positions should be e-mailed directly to [Prof. Julian Parkhill](/contact).</p>
+</div>
+
+<div class="row">
+
+Enquiries about PhD positions should be e-mailed directly to [Prof. Julian Parkhill](/contact).
 
 </div>
 
