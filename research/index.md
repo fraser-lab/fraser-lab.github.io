@@ -34,3 +34,40 @@ We have been involved in many metagenomics studies of the gut and the lung micro
 We use high-throughput mutagenesis approaches (such as TraDIS, previously developed in our lab) and other ‘omics tools such as dual-RNA Seq, to study the interaction of pathogens with the host. This currently includes work on *Streptococcus zooepidemicus* and *Klebsiella pneumoniae*. We use similar approaches to study the mode of action of antimicrobials and the development of antibiotic resistance.
 
 </div>
+
+<div class="row">
+
+<h4> Our collaborators </h4>
+
+We have a number of ongoing collaborations with leading researchers around the globe including, but not limited to the following:
+
+<style>
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+</style>
+
+<table>
+  <tr>
+    <th>Collaborator</th>
+    <th>Affiliation</th>
+  </tr>
+  <tr>
+    <td>[**Prof. Sharon Peacock**](https://www.med.cam.ac.uk/peacock/)</td>
+    <td>Department of Medicine, University of Cambridge</td>
+  </tr>
+</table>
+
+</div>
