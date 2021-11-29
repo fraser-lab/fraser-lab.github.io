@@ -16,7 +16,7 @@ Our lab welcomes applicants from any race, ethnicity, religion, national origin,
 
 <h4> Jobs in the group </h4>
 
-As and when vacancies become available within the group, they'll be advertised here.
+<p>As and when vacancies become available within the group, they'll be advertised here.</p>
 
 </div>
 
@@ -32,7 +32,7 @@ We regularly offer undergraduate projects for the University of Cambridge's NST 
 
 <h4> Postgraduate students </h4>
 
-Enquiries about PhD positions should be e-mailed directly to [Prof. Julian Parkhill](/contact).
+<p>Enquiries about PhD positions should be e-mailed directly to [Prof. Julian Parkhill](/contact).</p>
 
 </div>
 
