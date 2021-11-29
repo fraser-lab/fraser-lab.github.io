@@ -39,6 +39,10 @@ We use high-throughput mutagenesis approaches (such as TraDIS, previously develo
 
 <h4> Our collaborators </h4>
 
+</div>
+
+<div class="row">
+
 We have a number of ongoing collaborations with leading researchers around the globe including, but not limited to the following:
 
 <style>
@@ -65,7 +69,7 @@ tr:nth-child(even) {
     <th>Affiliation</th>
   </tr>
   <tr>
-    <td>[**Prof. Sharon Peacock**](https://www.med.cam.ac.uk/peacock/)</td>
+    <td><a href="https://www.med.cam.ac.uk/peacock/">Prof. Sharon Peacock</a></td>
     <td>Department of Medicine, University of Cambridge</td>
   </tr>
 </table>
