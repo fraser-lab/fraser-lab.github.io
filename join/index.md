@@ -16,7 +16,11 @@ Our lab welcomes applicants from any race, ethnicity, religion, national origin,
 
 <h4>Jobs in the group </h4>
 
-<p>As and when vacancies become available within the group, they'll be advertised here.</p>
+</div>
+
+<div class="row">
+
+As and when vacancies become available within the group, they'll be advertised here.
 
 </div>
 
