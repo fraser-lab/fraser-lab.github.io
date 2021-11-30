@@ -71,7 +71,15 @@ tr:nth-child(even) {
     <th>Affiliation</th>
   </tr>
   <tr>
-    <td><a href="https://www.med.cam.ac.uk/peacock/">Prof. Sharon Peacock</a></td>
+    <td><a href="http://www.damtp.cam.ac.uk/person/nmdso2">Dr Nuno Oliveira</a></td>
+    <td>DAMTP, University of Cambridge</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.gen.cam.ac.uk/directory/john-welch">Dr John Welch</a></td>
+    <td>Department of Genetics, University of Cambridge</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.infectiousdisease.cam.ac.uk/directory/josie-bryant">Dr Josie Bryant</a></td>
     <td>Department of Medicine, University of Cambridge</td>
   </tr>
   <tr>
@@ -79,7 +87,35 @@ tr:nth-child(even) {
     <td>Department of Medicine, University of Cambridge</td>
   </tr>
   <tr>
+    <td><a href="https://www.med.cam.ac.uk/ewan-harrison/">Dr Ewan Harrison</a></td>
+    <td>Department of Medicine, University of Cambridge</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.med.cam.ac.uk/peacock/">Prof. Sharon Peacock</a></td>
+    <td>Department of Medicine, University of Cambridge</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.obgyn.cam.ac.uk/staff/senior-staff/professor-steve-charnock-jones/">Prof. Steve Charnock-Jones</a></td>
+    <td>Department of Obstetrics and Gynaecology, University of Cambridge</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.obgyn.cam.ac.uk/staff/senior-staff/professor-gordon-smith/">Prof. Gordon Smith</a></td>
+    <td>Department of Obstetrics and Gynaecology, University of Cambridge</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.vet.cam.ac.uk/directory/ceb27%40cam.ac.uk">Prof. Clare Bryant</a></td>
+    <td>Department of Veterinary Medicine, University of Cambridge</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.vet.cam.ac.uk/directory/ajkc2%40cam.ac.uk">Dr Andrew Conlan</a></td>
+    <td>Department of Veterinary Medicine, University of Cambridge</td>
+  </tr>
+  <tr>
     <td><a href="https://www.vet.cam.ac.uk/staff/professor-mark-holmes">Prof. Mark Holmes</a></td>
+    <td>Department of Veterinary Medicine, University of Cambridge</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.vet.cam.ac.uk/staff/dr-lucy-weinert">Dr Lucy Weinert</a></td>
     <td>Department of Veterinary Medicine, University of Cambridge</td>
   </tr>
   <tr>
@@ -87,32 +123,88 @@ tr:nth-child(even) {
     <td>Department of Veterinary Medicine, University of Cambridge</td>
   </tr>
   <tr>
-    <td><a href="https://www.vet.cam.ac.uk/directory/ceb27%40cam.ac.uk">Prof. Clare Bryant</a></td>
-    <td>Department of Veterinary Medicine, University of Cambridge</td>
-  </tr>
-  <tr>
-    <td><a href="https://www.zoo.ox.ac.uk/people/professor-timothy-walsh?filter_types-2214521[]=&filter_series-2214521[]=">Prof. Tim Walsh</a></td>
-    <td>Department of Zoology, University of Oxford</td>
-  </tr>
-  <tr>
     <td><a href="https://www.aber.ac.uk/en/ibers/staff-profiles/listing/profile/glh14/">Prof. Glyn Hewinson</a></td>
     <td>IBERS, University of Aberystwyth</td>
   </tr>
   <tr>
-    <td><a href="https://www.imperial.ac.uk/people/w.cookson">Prof. Bill Cookson</a></td>
-    <td>Faculty of Medicine, Imperial College London</td>
+    <td><a href="https://researchportal.bath.ac.uk/en/persons/andrew-preston">Prof. Andrew Preston</a></td>
+    <td>Department of Biology & Biochemistry, University of Bath</td>
   </tr>
   <tr>
     <td><a href="https://researchportal.bath.ac.uk/en/persons/samuel-sheppard">Prof. Sam Sheppard</a></td>
     <td>Department of Biology & Biochemistry, University of Bath</td>
   </tr>
   <tr>
-    <td><a href="https://researchportal.helsinki.fi/en/persons/jukka-corander">Prof. Jukka Corander</a></td>
-    <td>Department of Mathematics and Statistics, University of Helsinki</td>
+    <td><a href="http://www.mcb.uct.ac.za/mcb/people/staff/academic/felix-dube">Dr Felix Dube</a></td>
+    <td>Molecular and Cell Biology, University of Cape Town</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.cardiff.ac.uk/people/view/81224-mahenthiralingam-eshwar">Prof. Eshwar Mahenthiralingam</a></td>
+    <td>School of Biosciences, Cardiff University</td>
+  </tr>
+  <tr>
+    <td><a href="http://csu-cvmbs.colostate.edu/academics/mip/Pages/Mary-Jackson.aspx">Prof. Mary Jackson</a></td>
+    <td>Department of Microbiology, Immunology and Pathology, Colorado State University</td>
+  </tr>
+  <tr>
+    <td><a href="https://vetmedbiosci.colostate.edu/directory/member/?id=3347">Prof. Dianne Ordway</a></td>
+    <td>College of Veterinary Medicine and Biomedical Sciences, Colorado State University</td>
+  </tr>
+  <tr>
+    <td><a href="https://scholar.google.com/citations?user=1XXV5hsAAAAJ&hl=en">Dr Emmanuel Ngbede</a></td>
+    <td>Federal University of Agriculture Makurdi</td>
   </tr>
   <tr>
     <td><a href="https://publichealth.gwu.edu/departments/environmental-and-occupational-health/lance-price">Prof. Lance Price</a></td>
     <td>Environmental and Occupational Health, The George Washington University</td>
+  </tr>
+  <tr>
+    <td><a href="https://researchportal.helsinki.fi/en/persons/jukka-corander">Prof. Jukka Corander</a></td>
+    <td>Department of Mathematics and Statistics, University of Helsinki</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.imperial.ac.uk/people/w.cookson">Prof. Bill Cookson</a></td>
+    <td>Faculty of Medicine, Imperial College London</td>
+  </tr>
+  <tr>
+    <td><a href="https://intervacc.se/en/about-us/management/">Dr Andrew Waller</a></td>
+    <td>Intervacc AB</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.lshtm.ac.uk/aboutus/people/coll.francesc">Dr Francesc Coll</a></td>
+    <td>Department of Infection Biology, Faculty of Infectious and Tropical Diseases, LSHTM</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.lshtm.ac.uk/aboutus/people/ludden.catherine">Dr Catherine Ludden</a></td>
+    <td>Department of Infection Biology, Faculty of Infectious and Tropical Diseases, LSHTM</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.menzies.edu.au/page/Our_People/Researchers/Robyn_Marsh/">Dr Robyn Marsh</a></td>
+    <td>Menzies School of Health Research</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.bdi.ox.ac.uk/Team/david-aanensen">Prof. David Aanensen</a></td>
+    <td>Big Data Institute, University of Oxford</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.bioch.ox.ac.uk/research/kleanthous">Prof. Colin Kleanthous</a></td>
+    <td>Department of Biochemistry, University of Oxford</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.tropicalmedicine.ox.ac.uk/team/claire-chewapreecha">Dr Claire Chewapreecha</a></td>
+    <td>MORU Mahidol Oxford Tropical Medicine Research Unit</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.zoo.ox.ac.uk/people/professor-timothy-walsh?filter_types-2214521[]=&filter_series-2214521[]=">Prof. Tim Walsh</a></td>
+    <td>Department of Zoology, University of Oxford</td>
+  </tr>
+  <tr>
+    <td><a href="https://researchportal.ukhsa.gov.uk/en/persons/saheer-gharbia">Prof. Saheer Gharbia</a></td>
+    <td>UK Health Security Agency</td>
+  </tr>
+  <tr>
+    <td><a href="https://warwick.ac.uk/fac/sci/lifesci/people/xdidelot/">Prof. Xavier Didelot</a></td>
+    <td>School of Life Sciences, University of Warwick</td>
   </tr>
 </table>
 
