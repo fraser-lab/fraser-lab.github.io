@@ -183,6 +183,11 @@ tr:nth-child(even) {
     <td>Menzies School of Health Research</td>
   </tr>
   <tr>
+  <tr>
+    <td><a href="https://research.monash.edu/en/persons/francesca-short">Dr Francesca Short</a></td>
+    <td>Monash University</td>
+  </tr>
+  <tr>
     <td><a href="https://www.bdi.ox.ac.uk/Team/david-aanensen">Prof. David Aanensen</a></td>
     <td>Big Data Institute, University of Oxford</td>
   </tr>
