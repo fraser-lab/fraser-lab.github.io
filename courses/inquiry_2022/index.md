@@ -5,17 +5,13 @@ group: courses
 permalink: /inquiry/
 ---
 
-# Inquiry Immersion 2021 -  DRUG DESIGN: Why is it so hard to design new small molecule drugs? #
+# Inquiry Immersion 2022 -  DRUG DESIGN: Why is it so hard to design new small molecule drugs? #
 
 **INSTRUCTORS**
 - [James Fraser](mailto:jfraser@fraserlab.com) (Lead Instructor)
 - [Tom Goddard](mailto:goddard@sonic.net) (Chimera tutorial)
 - [John Irwin](mailto:John.Irwin@ucsf.edu) (Docking lecture)
 - [Tanja Kortemme](mailto:kortemme@cgl.ucsf.edu) (Protein Design lecture)
-
-**FACILITY MANAGERS**
-- [Liam McKay](mailto:lmckay@msg.ucsf.edu) [MSG Crystallography Facility - tour](https://msg.ucsf.edu/)
-- [David Bulkley](mailto:david.bulkley@ucsf.edu) [CryoEM Core Facility - tour](https://emcore.ucsf.edu/)
 
 **LOCATION**
 The Zoom where it happens!
