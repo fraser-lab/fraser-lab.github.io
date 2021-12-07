@@ -12,6 +12,7 @@ permalink: /inquiry/
 - [James Fraser](mailto:jfraser@fraserlab.com) (Lead Instructor)
 - [Tom Goddard](mailto:goddard@sonic.net) (Chimera tutorial)
 - [John Irwin](mailto:John.Irwin@ucsf.edu) (Docking lecture)
+- [John Chodera](https://www.choderalab.org/) (COVID Moonshot lecture)
 - [Tanja Kortemme](mailto:kortemme@cgl.ucsf.edu) (Protein Design lecture)
 - Mark Murcko (Keynote)
 
@@ -66,7 +67,7 @@ Structure-based drug design promises to revolutionize drug discovery, yet despit
 
 **Thursday Jan 6 - 3:00-4:45PM**
 
-- Chodera (moonshot)?
+- John Chodera (MSKCC) - Why drug design doesn't work yet and how the COVID moonshot is showing that it can work better.
 
 **Friday Jan 7 - 3:00-4:45PM**
 
