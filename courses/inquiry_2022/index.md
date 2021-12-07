@@ -14,7 +14,7 @@ permalink: /inquiry/
 - [John Irwin](mailto:John.Irwin@ucsf.edu) (Docking lecture)
 - [John Chodera](https://www.choderalab.org/) (COVID Moonshot lecture)
 - [Tanja Kortemme](mailto:kortemme@cgl.ucsf.edu) (Protein Design lecture)
-- Mark Murcko (Keynote)
+- [Mark Murcko](https://relaytx.com/our-team/mark-murcko/) (Keynote)
 
 **LOCATION**
 The Zoom where it happens!
