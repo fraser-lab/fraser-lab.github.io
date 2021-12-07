@@ -13,6 +13,7 @@ permalink: /inquiry/
 - [Tom Goddard](mailto:goddard@sonic.net) (Chimera tutorial)
 - [John Irwin](mailto:John.Irwin@ucsf.edu) (Docking lecture)
 - [Tanja Kortemme](mailto:kortemme@cgl.ucsf.edu) (Protein Design lecture)
+- Mark Murcko (Keynote)
 
 **LOCATION**
 The Zoom where it happens!
@@ -76,4 +77,4 @@ Structure-based drug design promises to revolutionize drug discovery, yet despit
 
 **Tuesday Jan 11 - 3:00-4:45PM**
 
-- Mark Murcko?
+- Mark Murcko: Current themes and challenges in drug discovery.
