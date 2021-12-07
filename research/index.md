@@ -19,7 +19,7 @@ We have developed tools to describe and understand the pangenome (e.g. [**Panaro
 
 <h5>2) Application of phylogenetics </h5>
 
-We use phylogenetic approaches to understand the emergence and evolution of bacterial clones, and the adaption of these clones to novel niches. These include lung pathogens affecting people with CF, such as *Mycobacterium abscessus* and *Pseudomonas aeruginosa*.
+We use phylogenetic approaches to understand the emergence and evolution of bacterial clones, and the adaption of these clones to novel niches. These include lung pathogens affecting people with CF, such as *Mycobacterium abscessus* and *Pseudomonas aeruginosa* and respiratory pathogens such as [*Ornithobacterium hominis*](/ornithobacterium).
 
 We use the same tools to study the transmission pathways of other human and animal pathogens, including *Mycobacterium bovis*, *Campylobacter jejuni*, *Bordetella pertussis*, *Salmonella enterica*, *Escherichia coli*, *Streptococcus equi* and many others. These studies overlap strongly with the use of genomics in clinical microbiology, where we have a long-standing collaboration with [**Prof. Sharon Peacock**](https://www.med.cam.ac.uk/peacock/), investigating the implementation of transmission tracking for *Staphylococcus aureus*, amongst others.
 
