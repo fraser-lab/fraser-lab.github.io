@@ -70,13 +70,40 @@
   body: >
     As transparency and openness are key values to the lab, sharing our information both within the lab and externally to the scientific community is a top priority.
 
-    ##### Within the Fraser lab
+    ##### Lab Notebooks
 
-    Lab members are expected to document all of their work in a lab notebook, and this information should be accessible to other members of the lab. Currently, the lab uses the online electronic lab notebook, [Benchling](benchling.com). We've created guidelines on how to [use Benchling](https://docs.google.com/document/d/1ZsR7628PD5LOKuCUP11SHvOxUqh8PJQQ7SJvhFEXLlo/edit?usp=sharing) and how to [organize your lab notebooks](https://docs.google.com/document/d/10yrbA3tFgIFE7paOR6v2qmdy3AVGY2wNwkvW7B4HFPo/edit?usp=sharing). Read these guides thoroughly as they detail how to format your notebook and how we keep our lab data organized. Additionally, members are expected to keep the shared lab protocols up-to-date and to contribute new protocols as they become relevant to the lab. Lab notebooks are backed up biannually.
+    Transparency starts with thorough documentation of your work and all members are expected to record all of their work in a lab notebook. Our lab uses the electronic notebook [Benchling](https://benchling.com/) for recordkeeping, which allows us to share protocols and makes our work visible to all other lab members. Our lab’s guide to using Benchling can be found [here](https://docs.google.com/document/d/1ZsR7628PD5LOKuCUP11SHvOxUqh8PJQQ7SJvhFEXLlo/edit?usp=sharing), and our guide on how to craft good notebook entries is [here](https://docs.google.com/document/d/10yrbA3tFgIFE7paOR6v2qmdy3AVGY2wNwkvW7B4HFPo/edit?usp=sharing). UCSF has also published a [guide](https://compliance.ucsf.edu/sites/g/files/tkssra1886/f/wysiwyg/UCSFLabNotebookGuidance20210610.pdf) for record keeping. These guides should be read thoroughly before starting your lab notebook.   
+      
+    Additionally, members are expected to keep the shared lab protocols up-to-date and to contribute new protocols as they become relevant to the lab. Lab notebooks are backed up biannually. Benchling also allows us to keep track of our samples and data through a registry/collection. While it is highly recommended you take advantage of the registry to organize your samples, especially for samples that should be made accessible to the rest of the lab, it is your choice how to organize your samples while a member of the lab. However, when you leave the lab, it is required that you clean out all superfluous samples and log the samples you keep in the lab’s collection so other lab members are able to locate them. Directions for using the registry and conventions for labelling locations are also in the Lab Notebook Guide.  
+      
+    The primary guiding principle in keeping a lab notebook is that someone who doesn’t have familiarity with your research should be able to recreate your work solely using the information you record in your notebook. Remember: Your notebook isn’t just for you!  
+    Additionally, when we work together to troubleshoot your experiments, a good, detailed lab notebook is absolutely essential. I don’t like to micromanage, and a good notebook also allows me to avoid it. Great notebooks also make me confident in personalized career development. I want people to leave when they are ready, and a comprehensive lab notebook allows this to happen: you can move on to the next stage in your career, and the thorough documentation allows us to continue to build on your science within the lab. Although extensive notetaking may slow you down in the short term, it will definitely accelerate things in the long term.  
+      
+    Main highlights:  
+        
+    1.  Write your notebook so your work can be recreated solely from the information you record. Be very detailed.
+        * Log plasmid maps, strains, oligos, storage locations, catalog numbers and batch numbers of kits, reagents, antibodies, peptides, enzymes, plates, etc.
+        * Include calculations, times, temperatures, etc.
+        * Screenshots or text of parameters used to run software
+    2. Use a naming convention to make finding your notes easier for yourself and others.
+        * For projects: Initials_YearProjectStarted_ProjectName. 
+        * For subfolders and notes within, take advantage of alphabetical sorting with a numbering scheme. (see images below as an example)
+            - Project Folder > Subfolder 1 > notebooks titled: 000, 001, 002, 003, etc. makes referencing old notes easy and makes linearity clear
+            - Project Folder > A-01 > notebooks titled 01.0.0-A, 01.1.0-A, 01.2.0-A, etc. A nice thing about this is that you can see the title of the note in the ‘tabs’ and know exactly which folder to look for it in. For example, 02.3.0-B is a notebook entry found in folder B-02.
+            - Use minimal nested folders within a project. Project > subfolder 1 > subfolder 2 is the furthest down it should go.
+            - Currently, there’s no way to “peak” to see a folder’s contents without opening the folder.
+    3. Date everything. Date notebook entries and physical samples. This makes it much easier for you and others to retrace your steps. Plus, it makes using the calendar in Benchling easy to track items and work. (Must use “insert > new day” or “ctrl + \” for the Benchling calendar to work.)
+    4. Input all handwritten notes. Either type it out or attach a photo.
+    5. Record mistakes and things that don’t work.
+    6. Include data, both raw and analyzed.
+    7. Protocols should include: title, what the experiment sets out to achieve, materials needed with CAT numbers, procedure.
+        * Copy a protocol to make changes and append a version number (v1, v2, etc.)
+        * Add in the protocol’s intro what was changed and why
+        * Lab protocols are in the top folder _Fraser Lab. If you create a new protocol that will be useful to anyone else in the lab, add a copy to the folder.
 
-    Benchling also allows us to keep track of our samples and data through a registry/collection. While it is highly recommended you take advantage of the registry to organize your samples, especially for samples that should be made accessible to the rest of the lab, it is your choice how to organize your samples while a member of the lab. However, when you leave the lab it is required that you clean out all superfluous samples and log the samples you keep in the lab’s collection so other lab members are able to locate them. Directions for using registry and conventions for labelling the location are also in the Lab Notebook Guide.
+    ![Benchling Folder Organization](/static/img/compact/benchling_example.png "Benchling Folder Organization Example"){: .img-fluid .w-75 p-3 .mx-auto .d-block}
 
-    ##### Beyond the Fraser lab
+    ##### Data Deposition
 
     Lab members always make their data, materials, processing details available to the public through deposition to various public repositories. Lab code is made accessible through [GitHub](https://github.com/fraser-lab). Data and information are regularly deposited to the repositories listed below as well as others. We happily share our plasmids and other materials freely by request.
 
