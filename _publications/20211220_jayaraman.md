@@ -4,7 +4,7 @@ authors: "Jayaraman V, **Lee DJ**, Elad N, Vimer S, Sharon M, **Fraser JS**, Taw
 journal: "Nature Chemical Biology"
 pub_date: "2021-12-20"
 image: "/static/img/pub/2021_jayaraman.jpg"
-pmid: ""
+pmid: "34931064"
 pmcid: ""
 biorxiv: "2021.04.12.439528"
 pdf: "http://cdn.fraserlab.com/publications/2021_jayaraman.pdf"
