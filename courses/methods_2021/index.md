@@ -15,7 +15,7 @@ group: courses
 
 **Course Format:** 6 hours of lecture/group work per week in class, substantial group work outside of class
 
-**Location and Date/Hours:** Monday, Tuesday, Wednesday - 9AM-11AM on The Zoom where it happens!
+**Location and Date/Hours:** Monday, Tuesday, Wednesday - 9AM-11AM in either Genentech Hall 227 or The Zoom where it happens!
 
 **Prerequisites:** All incoming first year BP and CCB graduate students are required to enroll in this course.
 
@@ -25,18 +25,18 @@ group: courses
 
 **Instructors:** [John Gross](mailto:jdgross@cgl.ucsf.edu), [Aashish Manglik](mailto:Aashish.Manglik@ucsf.edu), [James Fraser](mailto:jfraser@fraserlab.com)
 
-**NMR guru:** [Ryan Tibble](mailto:Ryan.Tibble@ucsf.edu) (Gross lab)
+**NMR guru:** [Alexandra Born](mailto:Alexandra.Born@ucsf.edu) (Manglik/Gross labs)
 
 
 **TAs:**
-- [Hersh Bhargava](mailto:Hersh.Bhargava@ucsf.edu)
-- [Matthew Hancock](mailto:Matthew.Hancock@ucsf.edu)
-- [Jacqueline Weaver](mailto:Jacqueline.Weaver@ucsf.edu)
+- [Simone Harrison](mailto:Simone.Harrison@ucsf.edu)
+- [Maxine Bi](mailto:Maxine.Bi@ucsf.edu)
+- [Lieza Chan](mailto:Lieza.Chan@ucsf.edu)
 
 
 **Lecturers/Facilitators:**
 
-James Fraser, Yifan Cheng, Aashish Manglik, Robert Stroud, John Gross, Ryan Tibble, Tom Goddard, Cynthia Wolberger (JHU)
+James Fraser, Yifan Cheng, Aashish Manglik, Robert Stroud, John Gross, Alexandra Born, Tom Goddard, Cynthia Wolberger (JHU), Tanja Kortemme, Michael Grabe, James Lincoff
 
 
 **Background:**
@@ -45,7 +45,7 @@ Fluency in multiple biophysical methods is often critical for answering mechanis
 
 **Course Description:**
 
-This is a team-based class where students work in small groups develop their own analysis of real data. Statistical aspects of rigor and reproducibility in structural biology will be emphasized throughout lectures, journal club presentations, and hands-on activities. The website for the [2017](/methods_2017/),  [2018](/methods_2018/), and [2019](/courses/methods_2019) editions are available online.
+This is a team-based class where students work in small groups develop their own analysis of real data. Statistical aspects of rigor and reproducibility in structural biology will be emphasized throughout lectures, journal club presentations, and hands-on activities. The website for the [2017](/methods_2017/),  [2018](/methods_2018/), [2019](/courses/methods_2019), and [2020](/courses/methods_2020) editions are available online.
 
 *Ethics*: This course is more than a training experience; it is an active research project whose results will be published to the broader scientific community. The community must be able to understand our work, replicate it, and have confidence in its findings. We must therefore ensure the integrity of the information we disseminate. To do so, it is essential that students perform and document their experiments and analyses as faithfully as possible. Mistakes and oversights are normal and to be expected, but they must not be ignored, concealed, or disguised. In addition, to merit authorship, students must contribute to three aspects of the project: intellectual conception or interpretation of the methods or data, technical execution of the experiments and/or analyses, and documentation or dissemination of the results. We fully expect that by actively participating in the course and working toward the course objectives, all students will merit authorship.
 
@@ -57,18 +57,17 @@ This is a team-based class where students work in small groups develop their own
 
 ## 2021 schedule
 
-- [Team Just](https://en.wikipedia.org/wiki/Ernest_Everett_Just): TA - Hersh: Jayso'n Davidson, Kevin (Chuankai) Nie, Daphne Chen, Lieza Chan, Jesus Madrigal
-- [Team Amos](https://en.wikipedia.org/wiki/Harold_Amos): TA - Hersh: Paul Burroughs, Kyle Anderson, Leo Chen, Dominic Grisingher, Siyi Wang
-- [Team Cintrón](https://en.m.wikipedia.org/wiki/Nitza_Margarita_Cintr%C3%B3n): TA - Matthew: Benjamin Orr, Andrew Alamban, Upneet Kaur, Grant Burley, Berliza Soriano
-- [Team Goeppert Mayer](https://en.wikipedia.org/wiki/Maria_Goeppert_Mayer): TA - Matthew: Kaan Kumru, Alina Arzamassky, Hailey Wallace, Jose Montano, Seth Vigneron
-- [Team Daly](https://en.wikipedia.org/wiki/Marie_Maynard_Daly): TA - Jacqueline: Linh Tram, Maxine Bi, Arka Rao, Patrick Zager, Brian Wang
-- [Team Yonath](https://en.wikipedia.org/wiki/Ada_Yonath): TA - Jacqueline: Rian Kormos, Simone Harrison, Virginia Garda, Johanna Virta
+- [Team A](): TA - Simone: Students in Team A
+- [Team B](): TA - Simone: Students in Team B
+- [Team C](): TA - Maxine: Students in Team C
+- [Team D](): TA - Maxine: Students in Team D
+- [Team E](): TA - Lieza: Students in Team E
+- [Team F](): TA - Lieza: Students in Team F
 
 
-# Feb 16/17 - Class intro
+# Jan 3-5 - Class intro
 
-## Tuesday February 16
-
+## Monday January 3
 - Welcome: structure of the class, zoom norms, teams and work-together recommendations, relationship to Macro mini-quals, final presentations for this class (JF)
 - Why structural biology/Intro to Pchem (JG)
 	- [Forces contributing to the conformational stability of proteins](https://faseb.onlinelibrary.wiley.com/doi/pdfdirect/10.1096/fasebj.10.1.8566551)
@@ -83,21 +82,25 @@ This is a team-based class where students work in small groups develop their own
 	- Review: [Dynamic personalities of proteins](https://www.nature.com/articles/nature06522)
 
 
-## Wednesday February 17
-
+## Tuesday January 4
 - Equity in structural biology - who is in the room, who has access to instrumentation, and who gets credit. (JF)
 	- Before class, watch the first 14 minutes of [this video](https://www.mskcc.org/videos/kravis-wise-life-and-legacy-dr-rosalind-franklin-november-23-2020) for the history of Rosalind Franklin (stop when Cynthia Wolberger starts her lecture!)
 	- Guest lecture on Rosalind Franklin's Scientific Legacy by [Prof. Cynthia Wolberger of Johns Hopkins](http://wolberger.med.jhmi.edu/)
 - [Software check and install](https://ucsf.box.com/s/xua49ikteeddj0srq08xrri2ih3e7ba6)
+
+
+## Wednesday January 5
 - [ChimeraX tutorial by Tom Goddard](https://www.rbvi.ucsf.edu/chimerax/data/nanobody-feb2021/nanobody.html)
+- [Software check and install](https://ucsf.box.com/s/xua49ikteeddj0srq08xrri2ih3e7ba6)
 
 
-# Feb 22-24 - CryoEM - Lectures Yifan Cheng, Tutorials James Fraser
+# Jan 10-18 - CryoEM - Lectures Yifan Cheng, Tutorials James Fraser
 
-## Monday February 22
-
+## Monday January 10
 ### [Lecture 1 from Yifan Cheng](http://cdn.fraserlab.com/methods/yc2021_1.pdf)
 
+## Tuesday January 11
+### [Lecture 2 from Yifan Cheng](http://cdn.fraserlab.com/methods/yc2021_2.pdf)
 ### Tutorial 1:
  - Connecting to AWS - Thanks to Amazon Web Services Educate for computing credits
  - [cisTEM](https://cistem.org/) GUI and importing images (300kV, 2.7mm, 0.834 A/pix)
@@ -106,17 +109,15 @@ This is a team-based class where students work in small groups develop their own
  - Symmetry (C1 vs. C3)
  - 2D classifications (box size 512)
 
-## Tuesday February 23
-
-### [Lecture 2 from Yifan Cheng](http://cdn.fraserlab.com/methods/yc2021_2.pdf)
-
+## Wednesday January 12
 ### Tutorial 2:
 - Examining 2D classes
 - Ab initio vs. starting 3D references (low pass filtered from [7KKK](https://www.rcsb.org/structure/7KKK))
 - 3D map refinement
 
-## Wednesday February 24
+## Monday January 17 - no class (Martin Luther King Jr. day)
 
+## Tuesday January 18
 ### [Lecture 3 from Yifan Cheng](http://cdn.fraserlab.com/methods/yc2021_3.pdf)
 ### Tutorial 3:
 - Moving files off of AWS with scp
@@ -131,10 +132,9 @@ This is a team-based class where students work in small groups develop their own
 - [half maps](http://cdn.fraserlab.com/courses/methods/2012_scheres.pdf) and [Optimal Determination of Particle Orientation, Absolute Hand, and Contrast Loss in Single-particle Electron Cryomicroscopy](http://cdn.fraserlab.com/courses/methods/2003_rosenthal.pdf)
 - Other Model and Map validation tools (a lot of overlap with X-ray tools but a few examples that don't: [phenix.mtriage](https://www.phenix-online.org/documentation/reference/mtriage.html), [EMRinger](http://cdn.fraserlab.com/publications/2015_barad.pdf))
 
-# Mar 1-3 - X-ray Crystallography - Lectures Bob Stroud, Tutorials Aashish Manglik
+# Jan 19-31 - X-ray Crystallography - Lectures Bob Stroud, Tutorials Aashish Manglik
 
-## Monday March 1
-
+## Wednesday January 19
 ### [Lecture 1 from Bob Stroud](http://cdn.fraserlab.com/methods/rs2021.pdf)
 ### [Tutorial 1 : What's the deal with the spots](https://docs.google.com/document/d/1nr4IIDVqjRautGy_CnyPHrNbdGwbgTnKjGznl6ZQPII/edit?usp=sharing)
 - Examine diffraction data in adxv
@@ -142,16 +142,14 @@ This is a team-based class where students work in small groups develop their own
 - Understand various metrics for data reduction
 - What do we have at the end?
 
-## Tuesday March 2
-
+## Monday January 24
 ### [Lecture 2 from Bob Stroud](http://cdn.fraserlab.com/methods/rs2021.pdf)
 ### [Tutorial 2: Molecular Replacement](https://docs.google.com/document/d/1nr4IIDVqjRautGy_CnyPHrNbdGwbgTnKjGznl6ZQPII/edit#)
 - Prepare a model from a different nanobody for phasing by molecular replacement
 - Run Phaser, analyze output in Coot
 - Use the mNb6 itself to solve the structure
 
-## Wednesday March 3
-
+## Tuesday January 25
 ### [Lecture 3 from Bob Stroud](http://cdn.fraserlab.com/methods/rs2021.pdf)
 ### [Tutorial 3: Model refinement](https://docs.google.com/document/d/1nr4IIDVqjRautGy_CnyPHrNbdGwbgTnKjGznl6ZQPII/edit?usp=sharing)
 - Manual model building in Coot
@@ -162,31 +160,39 @@ This is a team-based class where students work in small groups develop their own
 - Ensemble refinement
 - [Coot tutorial video](https://www.youtube.com/watch?v=6RxvOFNu_rA)
 
+## Wednesday January 26
+
+## Monday January 31
+
 ## Reading on rigor and reproducibility in Crystallography:
 - [R-free](http://cdn.fraserlab.com/courses/methods/1992_brunger.pdf)
 - [MolProbity](http://cdn.fraserlab.com/courses/methods/2010_chen.pdf)
 - [Data Challenges and synthetic data](http://cdn.fraserlab.com/courses/methods/2019_holton.pdf)
 - [Protein crystallography for non‐crystallographers, or how to get the best (but not more) from published macromolecular structures](https://febs.onlinelibrary.wiley.com/doi/full/10.1111/j.1742-4658.2007.06178.x)
 
-# Mar 8-10 - NMR - Lectures John Gross, Tutorials Ryan Tibble
+# Feb 1-9 - NMR - Lectures John Gross, Tutorials Alexandra Born
 
-## Monday March 8
+## Tuesday February 1
 ### Lecture 1 from John Gross, Introduction to multidimensional NMR
 - Process HSQC spectra of Nanobody-Spike RBD complexes
 - [from FID to 2D](http://cdn.fraserlab.com/courses/methods/2021_2DNMR_Processing_Tutorial.pdf) (Ryan Tibble and John Gross)
 - Supplemental reading: [How does an HSQC work?](http://cdn.fraserlab.com/courses/methods/HSQC-Guided-tour.pdf)
 
-## Tuesday March 9
+## Wednesday February 2
 ### Lecture 2 from John Gross, Introduction to chemical shift perturbation mapping
 - Overlay HSQCs using Sparky; generate peak lists for CSP analyses
 - [Intro to Sparky](http://cdn.fraserlab.com/courses/methods/2021_Sparky_tutorial.pdf)
 - [Common Sparky Commands](http://cdn.fraserlab.com/courses/methods/Sparky_common_cmds.pdf)
 
-## Wednesday March 10
+## Monday February 7
 ### Lecture 3 from John Gross, Introduction to Dynamic NMR
 - Analyze CSPs to infer dynamics and binding modes of Nanobody-Spike RBD complexes
 - chemical shift perturbation plot versus primary sequence; mapping onto structure, [CSPs from Sparky Lists](http://cdn.fraserlab.com/courses/methods/Sparky_CSP.py)
 -  [Sparky Integration Tutorial](http://cdn.fraserlab.com/courses/methods/Sparky_Integration.pdf)
+
+## Tuesday February 8
+
+## Wednesday February 9
 
 ## Reading on rigor and reproducibility in NMR:
 - [Tools for validating NMR structures](http://cdn.fraserlab.com/courses/methods/2014_vuister.pdf)
@@ -195,35 +201,34 @@ This is a team-based class where students work in small groups develop their own
 - [CSP mapping by NMR when resonance asignments of the bound state are unknown](http://cdn.fraserlab.com/courses/methods/1996_farmer.pdf)
 
 
-# Mar 15-16 - Work in teams
+# Feb 14-15 - Computational approaches - Lectures Tanja Kortemme, James Lincoff, Michael Grabe
 
-## Monday March 15
+## Monday February 14
+### Lecture from Tanja Kortemme, AlphaFold and RosettaFold
+### Lecture from Tom Goddard?
 - [ChimeraX tutorial part II and Q/A by Tom Goddard](https://www.rbvi.ucsf.edu/chimerax/data/nanobody-feb2021/nanobody.html)
 	- [Color by Chemical Shift Perturbations](https://www.rbvi.ucsf.edu/chimerax/data/nanobody-feb2021/chemshift.html)
 	- [How to View Nanobody Molecular Dynamics in ChimeraX](https://www.rbvi.ucsf.edu/chimerax/data/nanobody-feb2021/nanobody_md.html)
+
+## Tuesday February 15
+### Lecture from James Lincoff and Michael Grabe, Molecular Dynamics simulations
 - James Lincoff (Grabe lab) on simulations of AeroNabs
 	- [Trajectory data](https://ucsf.box.com/s/xtx3jm8esx2c15zyz1z97jy0mlbbgswe)
 	- [Pymol install instructions](https://pymolwiki.org/index.php/MAC_Install)
 
-# Mar 17 - Final presentations 
-
+# Final presentations - Feb 16
 ## Presenting as a team, in 15 minutes (we will stop you at 15 minutes sharp!) tell us about the scientist your team is named after, what you did, what you learned, and what is one more experiment you'd like to do! Followed by 5 minutes of questions. 
 
-### Email your slides to James Fraser by 8:30AM that morning!
+### Email your slides to Aashish Manglik by 8:30AM that morning!
 
 ### Presentation times (an invididual zoom link will be emailed to you):
 
-* 8:30-8:50: Team Amos
-* 8:55-9:15: Team Cintrón
-* 9:20-9:40: Team Daly
-* 9:45-10:05: Team Goeppert Mayer
-* 10:10-10:30: Team Just
-* 10:35-10:55: Team Yonath
-
-# After March 17 
-
-## self schedule Macro mini-quals with 2 faculty (in consultation with your TAs who will report the grades back to Oren)
-
+* 8:30-8:50: Team A
+* 8:55-9:15: Team B
+* 9:20-9:40: Team C
+* 9:45-10:05: Team D
+* 10:10-10:30: Team E
+* 10:35-10:55: Team F
 
 # Supplemental material and tutorial videos
 
