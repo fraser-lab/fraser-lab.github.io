@@ -65,7 +65,7 @@ This is a team-based class where students work in small groups develop their own
 # Jan 3-5 - Class intro
 
 ## Monday January 3
-- Welcome: structure of the class, zoom norms, teams and work-together recommendations, relationship to Macro mini-quals, final presentations for this class (JF)
+- Welcome: structure of the class, zoom norms, teams and work-together recommendations, relationship to Macro mini-quals, final presentations for this class (AM)
 - Why structural biology/Intro to Pchem (JG)
 	- [Forces contributing to the conformational stability of proteins](https://faseb.onlinelibrary.wiley.com/doi/pdfdirect/10.1096/fasebj.10.1.8566551)
 - FFT 101 (JF)
