@@ -220,12 +220,10 @@ This is a team-based class where students work in small groups develop their own
 
 ### Presentation times (an invididual zoom link will be emailed to you):
 
-* 8:30-8:50: Team A
-* 8:55-9:15: Team B
-* 9:20-9:40: Team C
-* 9:45-10:05: Team D
-* 10:10-10:30: Team E
-* 10:35-10:55: Team F
+* 9:00-9:20: Team A
+* 9:30-9:50: Team B
+* 10:00-10:20: Team C
+* 10:30-11:00: Team D
 
 # Supplemental material and tutorial videos
 
