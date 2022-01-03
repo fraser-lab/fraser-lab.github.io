@@ -57,13 +57,10 @@ This is a team-based class where students work in small groups develop their own
 
 ## 2021 schedule
 
-- [Team A](): TA - Simone: Students in Team A
-- [Team B](): TA - Simone: Students in Team B
-- [Team C](): TA - Maxine: Students in Team C
-- [Team D](): TA - Maxine: Students in Team D
-- [Team E](): TA - Lieza: Students in Team E
-- [Team F](): TA - Lieza: Students in Team F
-
+- [Team A](): Radhika Dalal, Gabriel Braun, Sara Warrington, Maxwell Tucker
+- [Team B](): Brendan Hall,  Isabel Lee, Estelle Ronayne, Vineet Mathur
+- [Team C](): Reuben Hogan, Jonathan Zhang, Stephanie Ouchida, Madison Seto
+- [Team D](): Andrew Ecker, Rose Yang, Catherine Kuhn, Duncan Muir
 
 # Jan 3-5 - Class intro
 
