@@ -84,6 +84,7 @@ This is a team-based class where students work in small groups develop their own
 	- Before class, watch the first 14 minutes of [this video](https://www.mskcc.org/videos/kravis-wise-life-and-legacy-dr-rosalind-franklin-november-23-2020) for the history of Rosalind Franklin (stop when Cynthia Wolberger starts her lecture!)
 	- Guest lecture on Rosalind Franklin's Scientific Legacy by [Prof. Cynthia Wolberger of Johns Hopkins](http://wolberger.med.jhmi.edu/)
 - [Software check and install](https://ucsf.box.com/s/xua49ikteeddj0srq08xrri2ih3e7ba6)
+- [Xray software instructions](https://docs.google.com/document/d/1bPXQNT0DGwznYD4zoPZnher61cUIHpD-bOYME-P0A2w/edit?usp=sharing)
 
 
 ## Wednesday January 5
