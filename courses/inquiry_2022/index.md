@@ -67,7 +67,7 @@ Structure-based drug design promises to revolutionize drug discovery, yet despit
 
 **Thursday Jan 6 - 3:00-4:45PM**
 
-- John Chodera (MSKCC) - Why drug design doesn't work yet and how the COVID moonshot is showing that it can work better.
+- John Chodera (MSKCC) - [Why drug design doesn't work yet and how the COVID moonshot is showing that it can work better](https://www.choderalab.org/inquiry-immersion-drug-design).
 
 **Friday Jan 7 - 3:00-4:45PM**
 
