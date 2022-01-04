@@ -17,6 +17,8 @@ group: courses
 
 **Location and Date/Hours:** Monday, Tuesday, Wednesday - 9AM-11AM in either Genentech Hall 227 or The Zoom where it happens!
 
+[**Zoom Links**](https://ucsf.box.com/s/lr7d98dfy3hnopo0yszq82bgye09gj8x)
+
 **Prerequisites:** All incoming first year BP and CCB graduate students are required to enroll in this course.
 
 **Grading:** Letter grade
