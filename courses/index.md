@@ -9,7 +9,7 @@ group: courses
 The Fraser lab is supportive of learning through research experiences, and has participated in a number of courses for first year graduate students which challenge students with real research challenges in which they conduct experiments and analyze data to answer interesting new questions.
 
 
-## Biophysics 204A: Macromolecular Methods
+## Biophysics 204: Macromolecular Methods
 Fluency in multiple biophysical methods is often critical for answering mechanistic questions. To train the next generation of biophysicists at UCSF, we have decided to alter the traditional didactic structure by creating a new 6 week “Macromolecular Methods” class that places data collection at the beginning of the course.
 
 - [Macro Methods 2017](/courses/methods_2017/)
