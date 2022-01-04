@@ -86,13 +86,12 @@ This is a team-based class where students work in small groups develop their own
 - Equity in structural biology - who is in the room, who has access to instrumentation, and who gets credit. (JF)
 	- Before class, watch the first 14 minutes of [this video](https://www.mskcc.org/videos/kravis-wise-life-and-legacy-dr-rosalind-franklin-november-23-2020) for the history of Rosalind Franklin (stop when Cynthia Wolberger starts her lecture!)
 	- Guest lecture on Rosalind Franklin's Scientific Legacy by [Prof. Cynthia Wolberger of Johns Hopkins](http://wolberger.med.jhmi.edu/)
-- [Software check and install](https://ucsf.box.com/s/xua49ikteeddj0srq08xrri2ih3e7ba6)
-- [Xray software instructions](https://docs.google.com/document/d/1bPXQNT0DGwznYD4zoPZnher61cUIHpD-bOYME-P0A2w/edit?usp=sharing)
+- [Software instructions](https://docs.google.com/document/d/1bPXQNT0DGwznYD4zoPZnher61cUIHpD-bOYME-P0A2w/edit?usp=sharing)
 
 
 ## Wednesday January 5
 - [ChimeraX tutorial by Tom Goddard](https://www.rbvi.ucsf.edu/chimerax/data/nanobody-feb2021/nanobody.html)
-- [Software check and install](https://ucsf.box.com/s/xua49ikteeddj0srq08xrri2ih3e7ba6)
+
 
 
 # Jan 10-18 - CryoEM - Lectures Yifan Cheng, Tutorials James Fraser
