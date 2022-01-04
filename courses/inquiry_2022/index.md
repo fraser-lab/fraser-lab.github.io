@@ -61,7 +61,7 @@ Structure-based drug design promises to revolutionize drug discovery, yet despit
 
 **Wednesday Jan 5 - 3:00-4:45PM**
 
-- [John Irwin: Docking what works and what doesn't](http://cdn.fraserlab.com/courses/inquiry_2021/2021_Irwin_Docking.pdf)
+- [John Irwin: Docking what works and what doesn't](To be posted...)
   - What docking is, how it works, and why it is hard; a review of some notable success stories "what docking can do for you" and failures; a detailed look at 2 or 3 stories, focusing on how to run a docking campaign, and what to expect from the outcome, with results.
   - resources DOCK Blaster, ZINC, DUDE, and how to use them.
 
@@ -71,8 +71,7 @@ Structure-based drug design promises to revolutionize drug discovery, yet despit
 
 **Friday Jan 7 - 3:00-4:45PM**
 
-- [Tanja Kortemme: Rosetta and Biologics](http://cdn.fraserlab.com/courses/inquiry_2020/2020_Kortemme_Rosetta.pdf)
-  - [De novo design of potent and selective mimics of IL-2 and IL-15](http://cdn.fraserlab.com/courses/inquiry_2020/2019_silva.pdf)
+- [Tanja Kortemme: Rosetta and Biologics](to be posted)
   - [Engineered ACE2 receptor traps potently neutralize SARS-CoV-2](https://www.pnas.org/content/early/2020/10/21/2016093117)
   - [De novo design of picomolar SARS-CoV-2 miniprotein inhibitors.](https://science.sciencemag.org/content/370/6515/426)
 
