@@ -16,7 +16,7 @@ Fluency in multiple biophysical methods is often critical for answering mechanis
 - [Macro Methods 2018](/courses/methods_2018/)
 - [Macro Methods 2019](/courses/methods_2019/)
 - [Macro Methods 2020/21](/courses/methods_2020/)
-
+- [Macro Methods 2021/22](/courses/methods_2021/)
 
 ## Biophysics 205A: Physical Underpinnings of Biological Systems (PUBS)
 The PUBS course is a hands-on, project-based course that integrates proteomics, deep mutational profiling [Fowler and Fields, 2014](http://cdn.fraserlab.com/courses/pubs/2014_fowler.pdf), and computational biology.
