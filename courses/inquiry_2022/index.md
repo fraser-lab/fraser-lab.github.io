@@ -71,7 +71,7 @@ Structure-based drug design promises to revolutionize drug discovery, yet despit
 
 **Friday Jan 7 - 3:00-4:45PM**
 
-- [Tanja Kortemme: Rosetta and Biologics](to be posted)
+- [Tanja Kortemme: Rosetta and Biologics](https://www.dropbox.com/s/qq14gt8ju6moxcw/22_SOP_DrugDesign_RosettaLecture.pdf?dl=0)
   - [Engineered ACE2 receptor traps potently neutralize SARS-CoV-2](https://www.pnas.org/content/early/2020/10/21/2016093117)
   - [De novo design of picomolar SARS-CoV-2 miniprotein inhibitors.](https://science.sciencemag.org/content/370/6515/426)
 
