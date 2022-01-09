@@ -59,10 +59,10 @@ This is a team-based class where students work in small groups develop their own
 
 ## 2021 schedule
 
-- [Team A](): Radhika Dalal, Gabriel Braun, Sara Warrington, Maxwell Tucker
-- [Team B](): Brendan Hall,  Isabel Lee, Estelle Ronayne, Vineet Mathur
-- [Team C](): Reuben Hogan, Jonathan Zhang, Stephanie Ouchida, Madison Seto
-- [Team D](): Andrew Ecker, Rose Yang, Catherine Kuhn, Duncan Muir
+- [Team Dorothy Hodgkin](https://en.wikipedia.org/wiki/Dorothy_Hodgkin): Radhika Dalal, Gabriel Braun, Sara Warrington, Maxwell Tucker
+- [Team Alice Ball](https://en.wikipedia.org/wiki/Alice_Ball): Brendan Hall,  Isabel Lee, Estelle Ronayne, Vineet Mathur
+- [Team Herman Branson](https://en.wikipedia.org/wiki/Herman_Branson): Reuben Hogan, Jonathan Zhang, Stephanie Ouchida, Madison Seto
+- [Team Ruby Puryear Hearn](https://en.wikipedia.org/wiki/Ruby_Puryear_Hearn): Andrew Ecker, Rose Yang, Catherine Kuhn, Duncan Muir
 
 # Jan 3-5 - Class intro
 
