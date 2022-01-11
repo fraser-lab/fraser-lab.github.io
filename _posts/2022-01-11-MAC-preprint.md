@@ -1,8 +1,8 @@
 ---
-title: Noemie's first PhD preprint out.
+title: New preprint out.
 author: Andries van Tonder
 layout: post
 group: news
 ---
 
-Congratulations to our PhD student, Noemie Lefrancq, on the publication of her first PhD preprint "Spatial dynamics and vaccine-induced fitness changes of Bordetella pertussis" (https://www.biorxiv.org/content/10.1101/2021.11.01.466439v1).
+Our new preprint "Mycobacterium avium complex (MAC) genomics and transmission in a London hospital" (https://www.medrxiv.org/content/10.1101/2022.01.07.22268791v1) is now out.
