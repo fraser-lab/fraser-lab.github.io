@@ -23,8 +23,8 @@
 ---
 title: "Title of article."
 authors: "Surname FM, **Fraser JS.**"
-journal: "Protein Science"
-pub_date: "YYYYMM" #Date of journal publication, NOT BIORXIV UPLOAD
+journal: "Journal Name"
+pub_date: "YYYY-MM-DD" #Date of journal publication, NOT BIORXIV UPLOAD
 image: "/static/img/pub/surname_YYYY.png"
 pmid: "########"
 pmcid: "PMC#######"
