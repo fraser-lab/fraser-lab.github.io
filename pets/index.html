@@ -17,9 +17,6 @@ group: pets
                 {% if pet.adoptiondate %}
                   <em>Adopted on: {{pet.adoptiondate}}</em><br>
                 {% endif %}
-                {% if pet.age %}
-                  <em>Age: {{pet.age}}</em> <br>
-                {% endif %}
             </div>
             <div class="col-sm-8">
                 <p class="text-justify">{{pet.description | markdownify}}</p>
