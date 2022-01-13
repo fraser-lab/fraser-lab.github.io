@@ -14,7 +14,7 @@ UCSF:
 twitter:
 linkedin:
 github:
-orcid:
+orcid: 0000-0002-5571-3548
 description: "Daphne graduated from UCLA with a degree in Biophysics. As an undergraduate, she studied the effects of chaotropes and kosmotropes on protein hydration layers under the guidance of [Dr. Giovanni Zocchi](https://zocchi.physics.ucla.edu).
 
 
