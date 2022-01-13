@@ -72,21 +72,21 @@
 
     ##### Lab Notebooks
 
-    Transparency starts with thorough documentation of your work and all members are expected to record all of their work in a lab notebook. Our lab uses the electronic notebook [Benchling](https://benchling.com/) for recordkeeping, which allows us to share protocols and makes our work visible to all other lab members. Our lab’s guide to using Benchling can be found [here](https://docs.google.com/document/d/1ZsR7628PD5LOKuCUP11SHvOxUqh8PJQQ7SJvhFEXLlo/edit?usp=sharing), and our guide on how to craft good notebook entries is [here](https://docs.google.com/document/d/10yrbA3tFgIFE7paOR6v2qmdy3AVGY2wNwkvW7B4HFPo/edit?usp=sharing). UCSF has also published a [guide](https://compliance.ucsf.edu/sites/g/files/tkssra1886/f/wysiwyg/UCSFLabNotebookGuidance20210610.pdf) for record keeping. These guides should be read thoroughly before starting your lab notebook.   
-      
-    Additionally, members are expected to keep the shared lab protocols up-to-date and to contribute new protocols as they become relevant to the lab. Lab notebooks are backed up biannually. Benchling also allows us to keep track of our samples and data through a registry/collection. While it is highly recommended you take advantage of the registry to organize your samples, especially for samples that should be made accessible to the rest of the lab, it is your choice how to organize your samples while a member of the lab. However, when you leave the lab, it is required that you clean out all superfluous samples and log the samples you keep in the lab’s collection so other lab members are able to locate them. Directions for using the registry and conventions for labelling locations are also in the Lab Notebook Guide.  
-      
-    The primary guiding principle in keeping a lab notebook is that someone who doesn’t have familiarity with your research should be able to recreate your work solely using the information you record in your notebook. Remember: Your notebook isn’t just for you!  
-    Additionally, when we work together to troubleshoot your experiments, a good, detailed lab notebook is absolutely essential. I don’t like to micromanage, and a good notebook also allows me to avoid it. Great notebooks also make me confident in personalized career development. I want people to leave when they are ready, and a comprehensive lab notebook allows this to happen: you can move on to the next stage in your career, and the thorough documentation allows us to continue to build on your science within the lab. Although extensive notetaking may slow you down in the short term, it will definitely accelerate things in the long term.  
-      
-    Main highlights:  
-        
+    Transparency starts with thorough documentation of your work and all members are expected to record all of their work in a lab notebook. Our lab uses the electronic notebook [Benchling](https://benchling.com/) for recordkeeping, which allows us to share protocols and makes our work visible to all other lab members. Our lab’s guide to using Benchling can be found [here](https://docs.google.com/document/d/1ZsR7628PD5LOKuCUP11SHvOxUqh8PJQQ7SJvhFEXLlo/edit?usp=sharing), and our guide on how to craft good notebook entries is [here](https://docs.google.com/document/d/10yrbA3tFgIFE7paOR6v2qmdy3AVGY2wNwkvW7B4HFPo/edit?usp=sharing). UCSF has also published a [guide](https://compliance.ucsf.edu/sites/g/files/tkssra1886/f/wysiwyg/UCSFLabNotebookGuidance20210610.pdf) for record keeping. These guides should be read thoroughly before starting your lab notebook.
+
+    Additionally, members are expected to keep the shared lab protocols up-to-date and to contribute new protocols as they become relevant to the lab. Lab notebooks are backed up biannually. Benchling also allows us to keep track of our samples and data through a registry/collection. While it is highly recommended you take advantage of the registry to organize your samples, especially for samples that should be made accessible to the rest of the lab, it is your choice how to organize your samples while a member of the lab. However, when you leave the lab, it is required that you clean out all superfluous samples and log the samples you keep in the lab’s collection so other lab members are able to locate them. Directions for using the registry and conventions for labelling locations are also in the Lab Notebook Guide.
+
+    The primary guiding principle in keeping a lab notebook is that someone who doesn’t have familiarity with your research should be able to recreate your work solely using the information you record in your notebook. Remember: Your notebook isn’t just for you!
+    Additionally, when we work together to troubleshoot your experiments, a good, detailed lab notebook is absolutely essential. I don’t like to micromanage, and a good notebook also allows me to avoid it. Great notebooks also make me confident in personalized career development. I want people to leave when they are ready, and a comprehensive lab notebook allows this to happen: you can move on to the next stage in your career, and the thorough documentation allows us to continue to build on your science within the lab. Although extensive notetaking may slow you down in the short term, it will definitely accelerate things in the long term.
+
+    Main highlights:
+
     1.  Write your notebook so your work can be recreated solely from the information you record. Be very detailed.
         * Log plasmid maps, strains, oligos, storage locations, catalog numbers and batch numbers of kits, reagents, antibodies, peptides, enzymes, plates, etc.
         * Include calculations, times, temperatures, etc.
         * Screenshots or text of parameters used to run software
     2. Use a naming convention to make finding your notes easier for yourself and others.
-        * For projects: Initials_YearProjectStarted_ProjectName. 
+        * For projects: Initials_YearProjectStarted_ProjectName.
         * For subfolders and notes within, take advantage of alphabetical sorting with a numbering scheme. (see images below as an example)
             - Project Folder > Subfolder 1 > notebooks titled: 000, 001, 002, 003, etc. makes referencing old notes easy and makes linearity clear
             - Project Folder > A-01 > notebooks titled 01.0.0-A, 01.1.0-A, 01.2.0-A, etc. A nice thing about this is that you can see the title of the note in the ‘tabs’ and know exactly which folder to look for it in. For example, 02.3.0-B is a notebook entry found in folder B-02.
@@ -113,17 +113,17 @@
 
     * **Addgene** - [Plasmids](https://www.addgene.org/c9d87dff_2638_427c_9b9f_f189bdd8f4bc/)
 
-    * **Zenodo** - datasets
+    * **Zenodo** - [Datasets](https://zenodo.org/)
 
-    * **Diffraction Pattern** - XRD data
+    * **Protein Diffraction** - [X-Ray diffraction images](https://proteindiffraction.org/)
 
     * **PDB** - [Protein structures](https://www.rcsb.org/search?request=%7B%22query%22%3A%7B%22parameters%22%3A%7B%22value%22%3A%22Fraser%2C%20J.S.%22%7D%2C%22type%22%3A%22terminal%22%2C%22service%22%3A%22text%22%2C%22node_id%22%3A0%7D%2C%22return_type%22%3A%22entry%22%2C%22request_options%22%3A%7B%22pager%22%3A%7B%22start%22%3A0%2C%22rows%22%3A25%7D%2C%22scoring_strategy%22%3A%22combined%22%2C%22sort%22%3A%5B%7B%22sort_by%22%3A%22score%22%2C%22direction%22%3A%22desc%22%7D%5D%7D%2C%22request_info%22%3A%7B%22src%22%3A%22ui%22%2C%22query_id%22%3A%22e69d1126f738b570a0ad272572a43a1c%22%7D%7D)
 
-    * **GenBank** - Raw sequencing data
+    * **GenBank** - [Raw sequencing data](https://www.ncbi.nlm.nih.gov/genbank/submit/)
 
-    * **MaveDB** - Deep mutational scanning (DMS) data
+    * **MaveDB** - [Deep mutational scanning (DMS) data](https://www.mavedb.org/)
 
-    * **Mave Registry** - DMS experiments
+    * **Mave Registry** - [DMS experiments](https://registry.varianteffect.org/)
 
 - title: Reading and Following the Scientific Literature
   id: "literature"
@@ -152,7 +152,7 @@
     I believe that conversations about positions in author order should occur early in a project. Communicate with me and I will help navigate these conversations with collaborator labs. I err on having more authors on a paper: everyone with a meaningful contribution must be included.
 
     ##### Resources on writing
-    
+
     * [David Mobley Writing Tips](https://github.com/MobleyLab/Training/blob/main/Writing/WritingTips.md)
 
     * [David Mobley Style Guide](https://github.com/MobleyLab/Training/blob/main/Writing/StyleGuide.md)
@@ -179,7 +179,7 @@
 
     5. Ensuring that the final work is placed in repositories like PubmedCentral for open-access and that other materials and data end up <a href="#repositories">repositories</a>
 
-    
+
     This strategy embraces our “Beer AND Tacos” motto. We currently do both (post preprints and publish in journals). We are full proponents of a modern world of publishing that encompasses transparency, speed, fairness, peer-review, and visibility. This is evolving, and as a group we want to lead by example and be on the vanguard of that change.
 
     JF is ready to skip step #3 (submitting to journals, above) whenever lab members decide they are ready to opt-out of the journal system.  A current perceived  roadblock is that preprints are not indexed in pubmed (although on ORCID Google Scholar etc). A secondary roadblock is that the term "preprint" rather than just "BioRxiv manuscript" implies that it is on the way to being complete rather than the manuscript of record.
@@ -188,9 +188,9 @@
   id: "peer_review"
   show: False
   body: >
-    We benefit from feedback on our manuscripts, most often in the form of journal organized peer review, and we are enthusiastic about offering our feedback to others to help improve their manuscripts. 
-    
-    #### Why review papers? 
+    We benefit from feedback on our manuscripts, most often in the form of journal organized peer review, and we are enthusiastic about offering our feedback to others to help improve their manuscripts.
+
+    #### Why review papers?
 
     For our lab, we are motivated by the ability to potentially improve:
 
@@ -198,25 +198,25 @@
 
       - the contrast between what is supported by results and what is speculative
 
-      - the speed and transparency of the publication process	
+      - the speed and transparency of the publication process
 
 
     These values represent a change of focus from some traditional ideas of peer review that center on gatekeeping (“does this paper belong in nature?”). We want to write reviews that are constructive, empathetic, and respectful - and we think that this can be done in a way that enhances the rigour of the manuscript.  [Our process for writing reviews](/compact/peer_review_how_to/) focuses on advice on reading manuscripts, writing the review, and editing ourselves so that our final reviews obey [FAST (Focused, Appropriate, Specific, Transparent) principles](https://asapbio.org/fast-principles) to foster a positive preprint feedback culture.
-    
+
     #### Transparency in peer review
 
     Accordingly, we believe that transparency in peer review can improve the speed, quality, and collegiality of the publication process. As such, we only review manuscripts that have been posted on preprint servers and we [post our peer review comments publicly](/reviews). We support other initiatives to improve peer review (such as Review commons and FeedbackASAP).
-    
+
     #### Peer review as training
 
     Peer review is also an important training opportunity for lab members in scientific thinking and writing. All lab members who co-review with JF are credited for their contribution to the [review](/reviews).  Following [our guidelines for drafting reviews](/compact/peer_review_how_to/), we iteratively revise the review to make sure it is constructive. JF is always happy to look over reviews and if he hasn’t meaningfully contributed, lab members are encouraged to post as solo review authors. We have also run a [course on Peer Review in the Life Sciences](/courses/).
-    
+
     #### Anonymity in peer review
 
     Additionally, JF recognizes that he holds certain privileges that allow him to post peer review comments non-anonymously without fear of repercussion. Unfortunately, this is not the case for all researchers. JF is willing to post reviews on behalf of anyone, both in and outside of the Fraser lab, who wishes to remain anonymous.
-   
+
     #### Responding to reviews
-    
+
     On the other side of the coin, How do we react to our reviews? We try to put ourselves in the shoes of the review. We assume the best intentions and adopt a default state that this offers us an opportunity to clarify the communication of our science. A detailed guide of [how to respond to reviews](/compact/respond_to_reviews_how_to/) is also available.
 
 - title: Mentorship
@@ -234,47 +234,47 @@
     As articulated in the mentorship section, my primary goal is to make sure each person can grow during their time in the lab in a way that sets them up for the position they want next. That position can be in academia, industry, other ventures, or even growth to new responsibilities within the lab. I view helping people to grow in their careers as being key to doing exciting science in the lab.
 
     As people’s career goals may evolve over time, I expect people to be engaged in a constant conversation with me about what they are interested in exploring. I think about “what’s next” as being such an important part of mentorship because knowing about someone’s longer term career goals (or uncertainty therein) allows me to tailor training, networking, conferences, and even aspects of their project around what we think can be most beneficial.
-    
-    We do a few things in the lab that help provide enough structure to ensure that these conversations happen for everyone at a regular interval. 
 
-    * Every summer, each lab member has a 1:1 meeting with me to review their Individual Development Plan (IDP). In that meeting, we focus on how to line up your timeline, papers, training goals, and networking opportunities. This helps us to structure a discussion about career goals and how we can work together to achieve them. In the past, as preparation, I ask people to prepare for these career focused meetings by completing: 
-    
-      * [the ScienceCareers IDP](http://myidp.sciencecareers.org/) 
-    
+    We do a few things in the lab that help provide enough structure to ensure that these conversations happen for everyone at a regular interval.
+
+    * Every summer, each lab member has a 1:1 meeting with me to review their Individual Development Plan (IDP). In that meeting, we focus on how to line up your timeline, papers, training goals, and networking opportunities. This helps us to structure a discussion about career goals and how we can work together to achieve them. In the past, as preparation, I ask people to prepare for these career focused meetings by completing:
+
+      * [the ScienceCareers IDP](http://myidp.sciencecareers.org/)
+
       * [a lab summer survey](https://forms.gle/LWLHps1ePKdHWGL6A)
-    
+
       * a review of [the series of great activities that The Avasthi lab collated](http://www.avasthilab.org/wp-content/uploads/2018/11/AvasthiLab_CDW2018.pdf)
-    
-    * In the future, we are going to improve upon the summer survey by making the Science Careers IDP optional after the first year in the lab and by adapting the more questions from [Stanford’s IDP](https://biosciences.stanford.edu/current-students/idp/forms/) and [the DePace lab Yearly Planning Meeting](https://www.cell.com/molecular-cell/pdf/S1097-2765(15)00307-X.pdf). 
-    
-    * We have opted for once a year and not gone for more “corporate” style goal setting exercises, but it is something we might experiment with (perhaps only with a small subset of lab members) going forward. 
-    
+
+    * In the future, we are going to improve upon the summer survey by making the Science Careers IDP optional after the first year in the lab and by adapting the more questions from [Stanford’s IDP](https://biosciences.stanford.edu/current-students/idp/forms/) and [the DePace lab Yearly Planning Meeting](https://www.cell.com/molecular-cell/pdf/S1097-2765(15)00307-X.pdf).
+
+    * We have opted for once a year and not gone for more “corporate” style goal setting exercises, but it is something we might experiment with (perhaps only with a small subset of lab members) going forward.
+
       * But, we have started to include timelines in group meetings and thesis committee presentations. This activity helps to let other lab members know what you are thinking about as far as experimental planning, publication strategy, and career structure.
-    
-    In addition, I love it when lab members prompt me for additional meetings to check in and discuss career development. The cadence and topic of these additional meetings can also change over your time in the lab.  
-    
-    
+
+    In addition, I love it when lab members prompt me for additional meetings to check in and discuss career development. The cadence and topic of these additional meetings can also change over your time in the lab.
+
+
     In summary, I think people’s primary aim while they’re here is to align the science they are doing with setting themselves up for life beyond the lab. People who have been very focused on this have been well motivated, and it becomes really easy to recognize when to cut losses on a project or when to wrap things up and publish. It provides me with clarity of how to direct their work, and I really like having a very constant back and forth about it.
 
     ##### Some General Advice for Postdocs
 
     I think it is good to have a decisive plan about industry, academia or other career goals very early in your postdoc. It is fine to change directions, but having an initial plan allows us to discuss the adjustments that need to be made as your career plans to.
-   
+
       * For those pursuing industry after the lab, note that you can leave at any time!  Aligning your publication strategy with a job search is not always required and often building specific skills or demonstrating capabilities is more important. I will help by exposing you to my network of industrial collaborators and friends to help you get a sense of the options and differences in company size, field, etc.
-    
+
       * For those pursuing academia, we will focus on two things: 1) how to align your pre-printing/publication strategy with your job search cadence. 2) how your independent research “brand” will be distinct from the directions my lab will continue to pursue. In pursuing both of these goals, we want to finalize research products that open up new territory. This often involves embracing intrinsically a higher-risk/higher-reward strategy. I will work with you to edit your applications, practice your talk/chalk talk, and be a resource for grant editing your entire career.
-    
+
       * For those pursuing other careers, I will often ask how I can help provide exposure (e.g. writing or presenting) and think about what aspects of my network can be most helpful. The UCSF Office of Career and Professional Development can also be helpful.
-    
+
     ##### Some General Advice for Graduate Students
 
     I find that many people think about how they perform in grad school as defining our career options, but it is also possible to envision working in grad school to explore or reinforce your long term career plans. One important thing to note: the end game timing is extremely different for applying for jobs in industry (weeks to a few months before you want to start) vs. academic postdocs (generally at least 6 months before you want to start).
 
 
-    Graduate school is generally a time of career exploration and career direction changes. It is ok to not know exactly what you want to do post grad school! But, eventually you will have to/want to leave. Putting aside time every 6 months or so to evaluate your career likes/dislikes help you narrow down your choices and that occurs at the very least at our Summer meetings and during thesis committee meetings. One great way to narrow down what you want to do postgraduate school is to know what you DON’T want to do.  This helps prevent the trap of only thinking about your career post grad school during your last year. 
+    Graduate school is generally a time of career exploration and career direction changes. It is ok to not know exactly what you want to do post grad school! But, eventually you will have to/want to leave. Putting aside time every 6 months or so to evaluate your career likes/dislikes help you narrow down your choices and that occurs at the very least at our Summer meetings and during thesis committee meetings. One great way to narrow down what you want to do postgraduate school is to know what you DON’T want to do.  This helps prevent the trap of only thinking about your career post grad school during your last year.
 
 
-    It is also important to think about activities outside of the lab that will help in your career development or career decision making process. These may include participation in a club, such as the Science Policy Group or a podcast group, becoming a teaching assistant at USF or SF State, or a leadership position within your graduate school program or club. UCSF also has some great course/exposure avenues such as industry internships, the MIND program, and start-up classes/clubs. 
+    It is also important to think about activities outside of the lab that will help in your career development or career decision making process. These may include participation in a club, such as the Science Policy Group or a podcast group, becoming a teaching assistant at USF or SF State, or a leadership position within your graduate school program or club. UCSF also has some great course/exposure avenues such as industry internships, the MIND program, and start-up classes/clubs.
 
     ##### Some General Advice for Postbaccs/Technicians
 
@@ -313,13 +313,13 @@
     A good presentation, especially a good external presentation, is not about showing off or overwhelming folks with data. Holding back data and  having extra data backup slides is a great thing to be able to use during Q+A. Rather, a presentation is about getting the audience to understand:
 
 
-    - **WHY** you are asking the question (Background),  
+    - **WHY** you are asking the question (Background),
 
-    - **WHAT** the barrier is to solving it (Yet more Background and early results),  
+    - **WHAT** the barrier is to solving it (Yet more Background and early results),
 
-    - **HOW** you solved it and you relate it to the barrier/the broader question (your results),  
+    - **HOW** you solved it and you relate it to the barrier/the broader question (your results),
 
-    - **WHERE** you would like to go next (future directions).  
+    - **WHERE** you would like to go next (future directions).
 
 
     If you are struggling with how your work fits this framework, ask for help and we will talk about ways to structure your presentation.
@@ -353,14 +353,14 @@
 
     ##### Feedback Teams
 
-    After each group meeting a rotating team consisting of 2-3 lab members will briefly give feedback on the presentation. 
-    
-    This feedback should critically evaluate the construction and delivery of the presentation e.g. arrangements on slides, background, pace of speaking, 
-    
-    the clarity of the points they are making, and the flow from one slide to another. 
-    
-    The team should point out the presenter’s strengths as well as a few points to improve. 
-    
+    After each group meeting a rotating team consisting of 2-3 lab members will briefly give feedback on the presentation.
+
+    This feedback should critically evaluate the construction and delivery of the presentation e.g. arrangements on slides, background, pace of speaking,
+
+    the clarity of the points they are making, and the flow from one slide to another.
+
+    The team should point out the presenter’s strengths as well as a few points to improve.
+
     As a member of the feedback team, you should also absorb the critique so that all our presentations benefit from participation.
 
 

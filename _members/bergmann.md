@@ -14,7 +14,7 @@ UCSF: #UCSF Profile ID - Employees only
 twitter:
 linkedin:
 github:
-orcid:
+orcid: 0000-0003-1336-0323
 description: "Lena graduated in pharmacy at the Julius-Maximilians-University in Wuerzburg, Germany. During her PhD in biochemistry at the LMU Munich, she focused on the molecular mechanism of chromatin remodeler recruitment in yeast.
 
 
