@@ -14,7 +14,7 @@ UCSF:
 twitter: GabbyEstevam
 linkedin:
 github: gestevam
-orcid:
+orcid: 0000-0002-9142-7805
 description: "Gabby graduated from UC Santa Cruz with a degree in Biochemistry and Molecular Biology. As an undergraduate, she studied the structure and dynamics of telomeres and telomerase under the mentorship of [Dr. Michael Stone](https://www.chemistry.ucsc.edu/about/directory-page.php?uid=mds), where her focus was on developing a high-throughput platform to study telomere lengthening.
 
 

@@ -14,7 +14,7 @@ UCSF: galen.correy
 twitter:
 linkedin:
 github: gcorrey
-orcid:
+orcid: 0000-0001-5155-7325
 description: "Galen’s research interest lies in using structural biology to tackle problems in protein engineering and drug design. He earned his Ph.D. from the Australian National University, where he worked with [Dr. Colin Jackson](https://chemistry.anu.edu.au/people/academics/prof-colin-jackson) on the structure, function and evolution of insect enzymes that detoxify organophosphate nerve agents.
 
 
