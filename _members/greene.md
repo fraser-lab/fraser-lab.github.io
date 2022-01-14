@@ -21,5 +21,8 @@ description: "Eric is interested in understanding how protein conformations impa
 In the Fraser lab, Eric seeks to understand how protein conformational states influence activity and regulation of metabolic enzymes.
 
 
-When not in the lab, Eric enjoys spending time at home with his cats, running, skiing, mountain biking, and cooking."
+When not in the lab, Eric enjoys spending time at home with his cats, running, skiing, mountain biking, and cooking.
+
+
+Eric is supported by a Kirschstein NRSA (F32) fellowship from [NIH/NIGMS](https://www.nigms.nih.gov/)."
 ---
