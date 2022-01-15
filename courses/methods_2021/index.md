@@ -173,26 +173,30 @@ This is a team-based class where students work in small groups develop their own
 # Feb 1-9 - NMR - Lectures John Gross, Tutorials Alexandra Born
 
 ## Tuesday February 1
-### Lecture 1 from John Gross, Introduction to multidimensional NMR
-- Process HSQC spectra of Nanobody-Spike RBD complexes
-- [from FID to 2D](http://cdn.fraserlab.com/courses/methods/2021_2DNMR_Processing_Tutorial.pdf) (Ryan Tibble and John Gross)
+### Lecture 1 from John Gross, Introduction to Multidimensional NMR
+- demonstration of NMR data processing, John Gross
+- [from FID to 2D](http://cdn.fraserlab.com/courses/methods/2021_2DNMR_Processing_Tutorial.pdf) (Allie Born and John Gross)
 - Supplemental reading: [How does an HSQC work?](http://cdn.fraserlab.com/courses/methods/HSQC-Guided-tour.pdf)
 
 ## Wednesday February 2
-### Lecture 2 from John Gross, Introduction to chemical shift perturbation mapping
-- Overlay HSQCs using Sparky; generate peak lists for CSP analyses
+### Lecture 2 from John Gross, Detecting Ligand and Protein Interactons by NMR
+- process Nb6 15N HSQC and 13C HSQC data with teams (Allie Born and John Gross)
 - [Intro to Sparky](http://cdn.fraserlab.com/courses/methods/2021_Sparky_tutorial.pdf)
 - [Common Sparky Commands](http://cdn.fraserlab.com/courses/methods/Sparky_common_cmds.pdf)
 
 ## Monday February 7
-### Lecture 3 from John Gross, Introduction to Dynamic NMR
-- Analyze CSPs to infer dynamics and binding modes of Nanobody-Spike RBD complexes
+### Lecture 3 from John Gross, Dynamic NMR -Hydrogen Deuterium Exchange (HDX) and intro to ms-usec dynamics
+- process Nb6:Spike RBD complexes, overlay with Nb6 in CcpNMR, demo by Allie Born (Allie Born and John Gross)
 - chemical shift perturbation plot versus primary sequence; mapping onto structure, [CSPs from Sparky Lists](http://cdn.fraserlab.com/courses/methods/Sparky_CSP.py)
 -  [Sparky Integration Tutorial](http://cdn.fraserlab.com/courses/methods/Sparky_Integration.pdf)
 
 ## Tuesday February 8
+### Lecture 4 from John Gross, Methods to quantify slow dynamics, ZZ-exchange and CPMG
+- process mNb6 15N and 13C HSQC data , overlay with Nb6 in CcpNMR. Cross-peak bookkeeping with teams (Allie Born and John Gross)
 
 ## Wednesday February 9
+### Lecture 5 from John Gross, Measuring ns-ps dynamics in proteins
+- process mNb6:RBD 15N and 13C HSQC spectra, overlay with mNb6. Cross-peak bookkeeping with teams (Allie Born and John Gross)
 
 ## Reading on rigor and reproducibility in NMR:
 - [Tools for validating NMR structures](http://cdn.fraserlab.com/courses/methods/2014_vuister.pdf)
