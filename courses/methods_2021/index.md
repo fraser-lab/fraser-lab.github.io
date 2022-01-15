@@ -179,7 +179,7 @@ This is a team-based class where students work in small groups develop their own
 - Supplemental reading: [How does an HSQC work?](http://cdn.fraserlab.com/courses/methods/HSQC-Guided-tour.pdf)
 
 ## Wednesday February 2
-### Lecture 2 from John Gross, Detecting Ligand and Protein Interactons by NMR
+### Lecture 2 from John Gross, Detecting Ligand and Protein Interactions by NMR
 - process Nb6 15N HSQC and 13C HSQC data with teams (Allie Born and John Gross)
 - [Intro to Sparky](http://cdn.fraserlab.com/courses/methods/2021_Sparky_tutorial.pdf)
 - [Common Sparky Commands](http://cdn.fraserlab.com/courses/methods/Sparky_common_cmds.pdf)
