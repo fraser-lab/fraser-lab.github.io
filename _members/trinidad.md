@@ -3,7 +3,7 @@ name: Donovan Trinidad
 startdate: [2021-08-03]
 enddate: []
 image: /static/img/members/trinidad.jpg #365 x 365 pixels, 72 dpi
-# altimage: /static/img/members/trinidad_pb.jpg  #365 x 365 pixels, 72 dpi
+altimage: /static/img/members/trinidad_pb.jpg  #365 x 365 pixels, 72 dpi
 position: "Affiliate, Graduate Student, [BMS](https://bms.ucsf.edu)"
 #subsequent:  update once you become an alumnus
 pronouns: he/him/his #personal pronouns
