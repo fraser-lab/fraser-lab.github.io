@@ -135,7 +135,7 @@ This is a team-based class where students work in small groups develop their own
 # Jan 19-31 - X-ray Crystallography - Lectures Bob Stroud, Tutorials Aashish Manglik
 
 ## Wednesday January 19
-### [Lecture 1 from Bob Stroud](http://cdn.fraserlab.com/methods/rs2021.pdf)
+### [Lecture 1 from Bob Stroud](http://cdn.fraserlab.com/methods/2022_5dayclass_methods-2-1.pdf)
 ### [Tutorial 1 : What's the deal with the spots](https://docs.google.com/document/d/1nr4IIDVqjRautGy_CnyPHrNbdGwbgTnKjGznl6ZQPII/edit?usp=sharing)
 - Examine diffraction data in adxv
 - Use xia2 to process diffraction data
@@ -143,14 +143,14 @@ This is a team-based class where students work in small groups develop their own
 - What do we have at the end?
 
 ## Monday January 24
-### [Lecture 2 from Bob Stroud](http://cdn.fraserlab.com/methods/rs2021.pdf)
+### [Lecture 2 from Bob Stroud]
 ### [Tutorial 2: Molecular Replacement](https://docs.google.com/document/d/1nr4IIDVqjRautGy_CnyPHrNbdGwbgTnKjGznl6ZQPII/edit#)
 - Prepare a model from a different nanobody for phasing by molecular replacement
 - Run Phaser, analyze output in Coot
 - Use the mNb6 itself to solve the structure
 
 ## Tuesday January 25
-### [Lecture 3 from Bob Stroud](http://cdn.fraserlab.com/methods/rs2021.pdf)
+### [Lecture 3 from Bob Stroud](http://cdn.fraserlab.com/methods/2022_5dayclass_methods-2-2.pdf)
 ### [Tutorial 3: Model refinement](https://docs.google.com/document/d/1nr4IIDVqjRautGy_CnyPHrNbdGwbgTnKjGznl6ZQPII/edit?usp=sharing)
 - Manual model building in Coot
 - Reciprocal space refinement in Phenix
@@ -161,8 +161,10 @@ This is a team-based class where students work in small groups develop their own
 - [Coot tutorial video](https://www.youtube.com/watch?v=6RxvOFNu_rA)
 
 ## Wednesday January 26
+### [Lecture 4 from Bob Stroud]
 
 ## Monday January 31
+### [Lecture 5 from Bob Stroud]
 
 ## Reading on rigor and reproducibility in Crystallography:
 - [R-free](http://cdn.fraserlab.com/courses/methods/1992_brunger.pdf)
