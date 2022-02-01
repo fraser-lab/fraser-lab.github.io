@@ -180,19 +180,19 @@ This is a team-based class where students work in small groups develop their own
 
 ## Wednesday February 2
 ### Lecture 2 from John Gross, Detecting Ligand and Protein Interactions by NMR
-- process Nb6 15N HSQC and 13C HSQC data with teams (Allie Born and John Gross)
-- [Intro to Sparky](http://cdn.fraserlab.com/courses/methods/2021_Sparky_tutorial.pdf)
-- [Common Sparky Commands](http://cdn.fraserlab.com/courses/methods/Sparky_common_cmds.pdf)
+- process 15N HSQC and 13C HSQC data with teams (Allie Born and John Gross)
+
 
 ## Monday February 7
 ### Lecture 3 from John Gross, Dynamic NMR -Hydrogen Deuterium Exchange (HDX) and intro to ms-usec dynamics
-- process Nb6:Spike RBD complexes, overlay with Nb6 in CcpNMR, demo by Allie Born (Allie Born and John Gross)
-- chemical shift perturbation plot versus primary sequence; mapping onto structure, [CSPs from Sparky Lists](http://cdn.fraserlab.com/courses/methods/Sparky_CSP.py)
--  [Sparky Integration Tutorial](http://cdn.fraserlab.com/courses/methods/Sparky_Integration.pdf)
+-  Overlay Nb6:Spike RBD complexes with Nb6 in CcpNMR, demo by Allie Born (Allie Born and John Gross)
+-Supplemental reading: [CSP mapping by NMR when resonance asignments of the bound state are unknown](http://cdn.fraserlab.com/courses/methods/1996_farmer.pdf)
 
 ## Tuesday February 8
 ### Lecture 4 from John Gross, Methods to quantify slow dynamics, ZZ-exchange and CPMG
-- process mNb6 15N and 13C HSQC data , overlay with Nb6 in CcpNMR. Cross-peak bookkeeping with teams (Allie Born and John Gross)
+- chemical shift perturbation plot versus primary sequence; mapping onto structure, [CSPs from Sparky Lists](http://cdn.fraserlab.com/courses/methods/Sparky_CSP.py)
+- Overlay Nb6 with mNb6 15N and 13C HSQC data
+- Cross-peak bookkeeping with teams (Allie Born and John Gross)
 
 ## Wednesday February 9
 ### Lecture 5 from John Gross, Measuring ns-ps dynamics in proteins
@@ -202,7 +202,7 @@ This is a team-based class where students work in small groups develop their own
 - [Tools for validating NMR structures](http://cdn.fraserlab.com/courses/methods/2014_vuister.pdf)
 - [Q-scores](http://cdn.fraserlab.com/courses/methods/2004_clore.pdf)
 - [Integrative modeling](http://cdn.fraserlab.com/courses/methods/2019_rout.pdf)
-- [CSP mapping by NMR when resonance asignments of the bound state are unknown](http://cdn.fraserlab.com/courses/methods/1996_farmer.pdf)
+
 
 
 # Feb 14-15 - Computational approaches - Lectures Tanja Kortemme, James Lincoff, Michael Grabe
