@@ -175,18 +175,18 @@ This is a team-based class where students work in small groups develop their own
 # Feb 1-9 - NMR - Lectures John Gross, Tutorials Alexandra Born
 
 ## Tuesday February 1
-### Lecture 1 from John Gross, Introduction to Multidimensional NMR
+### [Lecture 1 from John Gross, Introduction to Multidimensional NMR](http://cdn.fraserlab.com/methods/Methods-NMR-2022-LECTURE1.pdf)
 - demonstration of NMR data processing, John Gross
 - [from FID to 2D](http://cdn.fraserlab.com/courses/methods/2022_2DNMR_Processing_Tutorial.pdf) (Allie Born and John Gross)
 - Supplemental reading: [How does an HSQC work?](http://cdn.fraserlab.com/courses/methods/HSQC-Guided-tour.pdf)
 
 ## Wednesday February 2
-### Lecture 2 from John Gross, Detecting Ligand and Protein Interactions by NMR
+### [Lecture 2 from John Gross, Detecting Ligand and Protein Interactions by NMR](http://cdn.fraserlab.com/methods/Methods-NMR-2022-LECTURE2.pdf)
 - process 15N HSQC and 13C HSQC data with teams (Allie Born and John Gross)
 
 
 ## Monday February 7
-### Lecture 3 from John Gross, Dynamic NMR -Hydrogen Deuterium Exchange (HDX) and intro to ms-usec dynamics
+### [Lecture 3 from John Gross, Dynamic NMR -Hydrogen Deuterium Exchange (HDX) and intro to ms-usec dynamics](http://cdn.fraserlab.com/methods/Methods-NMR-2022-LECTURE2.pdf)
 -  Overlay Nb6:Spike RBD complexes with Nb6 in CcpNMR, demo by Allie Born (Allie Born and John Gross)
 -  Supplemental reading: [CSP mapping by NMR when resonance asignments of the bound state are unknown](http://cdn.fraserlab.com/courses/methods/1996_farmer.pdf)
 
