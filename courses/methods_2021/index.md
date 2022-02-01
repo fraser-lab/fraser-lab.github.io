@@ -177,7 +177,7 @@ This is a team-based class where students work in small groups develop their own
 ## Tuesday February 1
 ### [Lecture 1 from John Gross, Introduction to Multidimensional NMR](http://cdn.fraserlab.com/courses/Methods-NMR-2022-LECTURE1.pdf)
 - demonstration of NMR data processing, John Gross
-- [from FID to 2D](http://cdn.fraserlab.com/courses/methods/2022_2DNMR_Processing_Tutorial.pdf) (Allie Born and John Gross)
+- [from FID to 2D](http://cdn.fraserlab.com/courses/2022_2DNMR_Processing_Tutorial.pdf) (Allie Born and John Gross)
 - Supplemental reading: [How does an HSQC work?](http://cdn.fraserlab.com/courses/methods/HSQC-Guided-tour.pdf)
 
 ## Wednesday February 2
