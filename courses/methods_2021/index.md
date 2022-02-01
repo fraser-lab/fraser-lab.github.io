@@ -186,7 +186,7 @@ This is a team-based class where students work in small groups develop their own
 ## Monday February 7
 ### Lecture 3 from John Gross, Dynamic NMR -Hydrogen Deuterium Exchange (HDX) and intro to ms-usec dynamics
 -  Overlay Nb6:Spike RBD complexes with Nb6 in CcpNMR, demo by Allie Born (Allie Born and John Gross)
--Supplemental reading: [CSP mapping by NMR when resonance asignments of the bound state are unknown](http://cdn.fraserlab.com/courses/methods/1996_farmer.pdf)
+-  Supplemental reading: [CSP mapping by NMR when resonance asignments of the bound state are unknown](http://cdn.fraserlab.com/courses/methods/1996_farmer.pdf)
 
 ## Tuesday February 8
 ### Lecture 4 from John Gross, Methods to quantify slow dynamics, ZZ-exchange and CPMG
