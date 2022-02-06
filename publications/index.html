@@ -10,8 +10,8 @@ group: publications
 {% for publication in site.publications reversed | sort: "pub_date" %}
 <hr>
 <div class="row" style="padding-top: 60px; margin-top: -60px;" id="{{publication.pmid}}">
-<div><h3>{{ publication.title | markdownify }}</h3><br>
-{{ publication.authors | markdownify | remove: '<p>' | remove: '</p>' }}<br>
+<div><h3>{{ publication.title | markdownify  | remove: '<p>' | remove: '</p>' }}</h3>
+{{ publication.authors | markdownify | remove: '<p>' | remove: '</p>' }}
 {% if publication.journal %}
 <i>{{ publication.journal }}.</i>
 {{publication.pub_date | split: "-" | first }}.</div>
