@@ -135,7 +135,7 @@ This is a team-based class where students work in small groups develop their own
 # Jan 19-31 - X-ray Crystallography - Lectures Bob Stroud, Tutorials Aashish Manglik
 
 ## Wednesday January 19
-### [Lecture 1 from Bob Stroud](http://cdn.fraserlab.com/methods/rs2021.pdf)
+### [Lecture 1 from Bob Stroud](http://cdn.fraserlab.com/courses/2022_5dayclass_methods-2-1.pdf)
 ### [Tutorial 1 : What's the deal with the spots](https://docs.google.com/document/d/1nr4IIDVqjRautGy_CnyPHrNbdGwbgTnKjGznl6ZQPII/edit?usp=sharing)
 - Examine diffraction data in adxv
 - Use xia2 to process diffraction data
@@ -143,14 +143,14 @@ This is a team-based class where students work in small groups develop their own
 - What do we have at the end?
 
 ## Monday January 24
-### [Lecture 2 from Bob Stroud](http://cdn.fraserlab.com/methods/rs2021.pdf)
+### Lecture 2 from Bob Stroud
 ### [Tutorial 2: Molecular Replacement](https://docs.google.com/document/d/1nr4IIDVqjRautGy_CnyPHrNbdGwbgTnKjGznl6ZQPII/edit#)
 - Prepare a model from a different nanobody for phasing by molecular replacement
 - Run Phaser, analyze output in Coot
 - Use the mNb6 itself to solve the structure
 
 ## Tuesday January 25
-### [Lecture 3 from Bob Stroud](http://cdn.fraserlab.com/methods/rs2021.pdf)
+### [Lecture 3 from Bob Stroud](http://cdn.fraserlab.com/courses/2022_5dayclass_methods-2-2.pdf)
 ### [Tutorial 3: Model refinement](https://docs.google.com/document/d/1nr4IIDVqjRautGy_CnyPHrNbdGwbgTnKjGznl6ZQPII/edit?usp=sharing)
 - Manual model building in Coot
 - Reciprocal space refinement in Phenix
@@ -161,8 +161,10 @@ This is a team-based class where students work in small groups develop their own
 - [Coot tutorial video](https://www.youtube.com/watch?v=6RxvOFNu_rA)
 
 ## Wednesday January 26
+### Lecture 4 from Bob Stroud
 
 ## Monday January 31
+### Lecture 5 from Bob Stroud
 
 ## Reading on rigor and reproducibility in Crystallography:
 - [R-free](http://cdn.fraserlab.com/courses/methods/1992_brunger.pdf)
@@ -173,26 +175,26 @@ This is a team-based class where students work in small groups develop their own
 # Feb 1-9 - NMR - Lectures John Gross, Tutorials Alexandra Born
 
 ## Tuesday February 1
-### Lecture 1 from John Gross, Introduction to Multidimensional NMR
+### [Lecture 1 from John Gross, Introduction to Multidimensional NMR](http://cdn.fraserlab.com/courses/Methods-NMR-2022-LECTURE1.pdf)
 - demonstration of NMR data processing, John Gross
-- [from FID to 2D](http://cdn.fraserlab.com/courses/methods/2021_2DNMR_Processing_Tutorial.pdf) (Allie Born and John Gross)
+- [from FID to 2D](http://cdn.fraserlab.com/courses/2022_2DNMR_Processing_Tutorial.pdf) (Allie Born and John Gross)
 - Supplemental reading: [How does an HSQC work?](http://cdn.fraserlab.com/courses/methods/HSQC-Guided-tour.pdf)
 
 ## Wednesday February 2
-### Lecture 2 from John Gross, Detecting Ligand and Protein Interactions by NMR
-- process Nb6 15N HSQC and 13C HSQC data with teams (Allie Born and John Gross)
-- [Intro to Sparky](http://cdn.fraserlab.com/courses/methods/2021_Sparky_tutorial.pdf)
-- [Common Sparky Commands](http://cdn.fraserlab.com/courses/methods/Sparky_common_cmds.pdf)
+### [Lecture 2 from John Gross, Detecting Ligand and Protein Interactions by NMR](http://cdn.fraserlab.com/courses/Methods-NMR-2022-LECTURE2.pdf)
+- process 15N HSQC and 13C HSQC data with teams (Allie Born and John Gross)
+
 
 ## Monday February 7
-### Lecture 3 from John Gross, Dynamic NMR -Hydrogen Deuterium Exchange (HDX) and intro to ms-usec dynamics
-- process Nb6:Spike RBD complexes, overlay with Nb6 in CcpNMR, demo by Allie Born (Allie Born and John Gross)
-- chemical shift perturbation plot versus primary sequence; mapping onto structure, [CSPs from Sparky Lists](http://cdn.fraserlab.com/courses/methods/Sparky_CSP.py)
--  [Sparky Integration Tutorial](http://cdn.fraserlab.com/courses/methods/Sparky_Integration.pdf)
+### [Lecture 3 from John Gross, Dynamic NMR -Hydrogen Deuterium Exchange (HDX) and intro to ms-usec dynamics](http://cdn.fraserlab.com/courses/Methods-NMR-2022-LECTURE2.pdf)
+-  Overlay Nb6:Spike RBD complexes with Nb6 in CcpNMR, demo by Allie Born (Allie Born and John Gross)
+-  Supplemental reading: [CSP mapping by NMR when resonance asignments of the bound state are unknown](http://cdn.fraserlab.com/courses/methods/1996_farmer.pdf)
 
 ## Tuesday February 8
 ### Lecture 4 from John Gross, Methods to quantify slow dynamics, ZZ-exchange and CPMG
-- process mNb6 15N and 13C HSQC data , overlay with Nb6 in CcpNMR. Cross-peak bookkeeping with teams (Allie Born and John Gross)
+- chemical shift perturbation plot versus primary sequence; mapping onto structure, [CSPs from Sparky Lists](http://cdn.fraserlab.com/courses/methods/Sparky_CSP.py)
+- Overlay Nb6 with mNb6 15N and 13C HSQC data
+- Cross-peak bookkeeping with teams (Allie Born and John Gross)
 
 ## Wednesday February 9
 ### Lecture 5 from John Gross, Measuring ns-ps dynamics in proteins
@@ -202,7 +204,7 @@ This is a team-based class where students work in small groups develop their own
 - [Tools for validating NMR structures](http://cdn.fraserlab.com/courses/methods/2014_vuister.pdf)
 - [Q-scores](http://cdn.fraserlab.com/courses/methods/2004_clore.pdf)
 - [Integrative modeling](http://cdn.fraserlab.com/courses/methods/2019_rout.pdf)
-- [CSP mapping by NMR when resonance asignments of the bound state are unknown](http://cdn.fraserlab.com/courses/methods/1996_farmer.pdf)
+
 
 
 # Feb 14-15 - Computational approaches - Lectures Tanja Kortemme, James Lincoff, Michael Grabe
