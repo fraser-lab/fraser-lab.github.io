@@ -186,12 +186,14 @@ This is a team-based class where students work in small groups develop their own
 
 
 ## Monday February 7
-### [Lecture 3 from John Gross, Dynamic NMR -Hydrogen Deuterium Exchange (HDX) and intro to ms-usec dynamics](http://cdn.fraserlab.com/courses/Methods-NMR-2022-LECTURE2.pdf)
+### [Lecture 3 from John Gross, Dynamic NMR -Hydrogen Deuterium Exchange (HDX) and intro to ms-usec dynamics](http://cdn.fraserlab.com/courses/Methods-NMR-2022-LECTURE3.pdf)
 -  Overlay Nb6:Spike RBD complexes with Nb6 in CcpNMR, demo by Allie Born (Allie Born and John Gross)
+-  [CcpNMR tutorial](http://cdn.fraserlab.com/courses/ccpNMR_Tutorial.pdf)
+-  As an alternative to CcpNMR, you may try use [Sparky tutorial] (http://cdn.fraserlab.com/courses/2022_Sparky_tutorial.pdf)
 -  Supplemental reading: [CSP mapping by NMR when resonance asignments of the bound state are unknown](http://cdn.fraserlab.com/courses/methods/1996_farmer.pdf)
 
 ## Tuesday February 8
-### Lecture 4 from John Gross, Methods to quantify slow dynamics, ZZ-exchange and CPMG
+### [Lecture 4 from John Gross, Methods to quantify slow dynamics, ZZ-exchange and CPMG](http://cdn.fraserlab.com/courses/Methods-NMR-2022-LECTURE4.pdf)
 - chemical shift perturbation plot versus primary sequence; mapping onto structure, [CSPs from Sparky Lists](http://cdn.fraserlab.com/courses/methods/Sparky_CSP.py)
 - Overlay Nb6 with mNb6 15N and 13C HSQC data
 - Cross-peak bookkeeping with teams (Allie Born and John Gross)
