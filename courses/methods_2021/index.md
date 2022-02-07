@@ -210,17 +210,17 @@ This is a team-based class where students work in small groups develop their own
 # Feb 14-15 - Computational approaches - Lectures Tanja Kortemme, James Lincoff, Michael Grabe
 
 ## Monday February 14
+### Lecture from James Lincoff and Michael Grabe, Molecular Dynamics simulations
+- James Lincoff (Grabe lab) on simulations of AeroNabs
+	- [Trajectory data](https://ucsf.box.com/s/xtx3jm8esx2c15zyz1z97jy0mlbbgswe)
+	- [Pymol install instructions](https://pymolwiki.org/index.php/MAC_Install)
+
+## Tuesday February 15
 ### Lecture from Tanja Kortemme, AlphaFold and RosettaFold
 ### Lecture from Tom Goddard?
 - [ChimeraX tutorial part II and Q/A by Tom Goddard](https://www.rbvi.ucsf.edu/chimerax/data/nanobody-feb2021/nanobody.html)
 	- [Color by Chemical Shift Perturbations](https://www.rbvi.ucsf.edu/chimerax/data/nanobody-feb2021/chemshift.html)
 	- [How to View Nanobody Molecular Dynamics in ChimeraX](https://www.rbvi.ucsf.edu/chimerax/data/nanobody-feb2021/nanobody_md.html)
-
-## Tuesday February 15
-### Lecture from James Lincoff and Michael Grabe, Molecular Dynamics simulations
-- James Lincoff (Grabe lab) on simulations of AeroNabs
-	- [Trajectory data](https://ucsf.box.com/s/xtx3jm8esx2c15zyz1z97jy0mlbbgswe)
-	- [Pymol install instructions](https://pymolwiki.org/index.php/MAC_Install)
 
 # Final presentations - Feb 16
 ## Presenting as a team, in 15 minutes (we will stop you at 15 minutes sharp!) tell us about the scientist your team is named after, what you did, what you learned, and what is one more experiment you'd like to do! Followed by 5 minutes of questions. 
