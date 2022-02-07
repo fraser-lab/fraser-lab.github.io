@@ -189,7 +189,7 @@ This is a team-based class where students work in small groups develop their own
 ### [Lecture 3 from John Gross, Dynamic NMR -Hydrogen Deuterium Exchange (HDX) and intro to ms-usec dynamics](http://cdn.fraserlab.com/courses/Methods-NMR-2022-LECTURE3.pdf)
 -  Overlay Nb6:Spike RBD complexes with Nb6 in CcpNMR, demo by Allie Born (Allie Born and John Gross)
 -  [CcpNMR tutorial](http://cdn.fraserlab.com/courses/ccpNMR_Tutorial.pdf)
--  As an alternative to CcpNMR, you may try use [Sparky tutorial] (http://cdn.fraserlab.com/courses/2022_Sparky_tutorial.pdf)
+-  As an alternative to CcpNMR, you may  use [Sparky tutorial] (http://cdn.fraserlab.com/courses/2022_Sparky_tutorial.pdf)
 -  Supplemental reading: [CSP mapping by NMR when resonance asignments of the bound state are unknown](http://cdn.fraserlab.com/courses/methods/1996_farmer.pdf)
 
 ## Tuesday February 8
