@@ -16,7 +16,7 @@ group: publications
 <i>{{ publication.journal }},</i>
 {{publication.pub_date | split: "-" | first }}</div>
 {% else %}
-<i>Submitted - Preprint on Biorxiv,</i>
+<i>Biorxiv,</i>
 {% if publication.biorxiv %}
 {{publication.biorxiv | split: "." | first }}</div>
 {% else %}
