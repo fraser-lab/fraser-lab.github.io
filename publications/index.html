@@ -10,17 +10,17 @@ group: publications
 {% for publication in site.publications reversed | sort: "pub_date" %}
 <hr>
 <div class="row" style="padding-top: 60px; margin-top: -60px;" id="{{publication.pmid}}">
-<div><h3>{{ publication.title | markdownify  | remove: '<p>' | remove: '</p>' }}</h3>
-{{ publication.authors | markdownify | remove: '<p>' | remove: '</p>' }}
+<div><h5>{{ publication.title | markdownify  | remove: '<p>' | remove: '</p>' }}</h5>
+<h6>{{ publication.authors | markdownify | remove: '<p>' | remove: '</p>' }}</h6>
 {% if publication.journal %}
-<i>{{ publication.journal }}.</i>
-{{publication.pub_date | split: "-" | first }}.</div>
+<i>{{ publication.journal }},</i>
+{{publication.pub_date | split: "-" | first }}</div>
 {% else %}
-<i>Submitted - Preprint on Biorxiv.</i>
+<i>Submitted - Preprint on Biorxiv,</i>
 {% if publication.biorxiv %}
-{{publication.biorxiv | split: "." | first }}.</div>
+{{publication.biorxiv | split: "." | first }}</div>
 {% else %}
-{{publication.biorxiv_version | split: "." | first }}.</div>
+{{publication.biorxiv_version | split: "." | first }}</div>
 {% endif %}
 {% endif %}
 
