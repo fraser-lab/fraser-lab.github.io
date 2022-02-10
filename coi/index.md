@@ -15,11 +15,12 @@ Appointments:
 * Associate Director, [Biophysics Graduate Program, University of California San Francisco](https://biophysics.ucsf.edu/)
 * Board Member and Vice President, [ASAPbio](https://asapbio.org/)
 
-Equity:
+Equity (in Trust, with spouse):
 
 * [Relay Therapeutics](https://relaytx.com/)
+* [Impossible Foods](https://impossiblefoods.com/)
+* [Arda Therapeutics](https://www.ardatherapeutics.com/)
 * Keyhole Therapeutics (co-founder)
-* [Impossible Foods](https://impossiblefoods.com/) (through spouse)
 
 Consulting/speaker fees/travel within last 2 years:
 

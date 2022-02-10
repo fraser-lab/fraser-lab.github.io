@@ -16,6 +16,8 @@ paired_maps_and_models:
 links:
   - name: Tawfik lab @ Weizmann Institute
     url: http://www.weizmann.ac.il/Biomolecular_Sciences/Tawfik/
+  - name: Dan Salah Tawfik (1955-2021)—A giant of protein evolution
+    url: https://www.embopress.org/doi/full/10.15252/embr.202153256
   - name: Celebratory Tweetstorm by first author Vijay Jayaraman
     url: https://twitter.com/VijayJayaraman5/status/1381997501969018880?s=20
   - name: News and Views - A complex struggle for direction
