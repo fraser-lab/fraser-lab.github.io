@@ -6,7 +6,7 @@ enddate: [2021-08-01]
 image: /static/img/members/Lee.jpg
 altimage: /static/img/members/Lee_pb.jpg
 position: Postdoctoral Fellow ([F32 NRSA](https://grants.nih.gov/grants/guide/contacts/parent_F32.html))
-subsequent:  Electron Microscopy Core Manager
+subsequent:  Electron Microscopy Core Manager @ Altos Labs
 pronouns: he/him/his
 email: djohnlee (at) fraserlab.com
 scholar: vJBNuDUAAAAJ
