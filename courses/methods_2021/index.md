@@ -231,10 +231,10 @@ This is a team-based class where students work in small groups develop their own
 
 ### Presentation times (an invididual zoom link will be emailed to you):
 
-* 9:00-9:20: Team A
-* 9:30-9:50: Team B
-* 10:00-10:20: Team C
-* 10:30-11:00: Team D
+* 9:00-9:20: Team Dorothy Hodgkin
+* 9:30-9:50: Team Alice Ball
+* 10:00-10:20: Team Herman Branson
+* 10:30-11:00: Team Ruby Puryear Hearn
 
 # Supplemental material and tutorial videos
 
