@@ -7,7 +7,7 @@ image: "/static/img/pub/2021_jayaraman.jpg"
 pmid: "34931064"
 pmcid:
 biorxiv: "2021.04.12.439528"
-pdf: "http://cdn.fraserlab.com/publications/2021_jayaraman.pdf"
+pdf: 'http://cdn.fraserlab.com/publications/2021_jayaraman.pdf'
 paired_maps_and_models:
   - pdb:  7MFM
     emdb: "23817"

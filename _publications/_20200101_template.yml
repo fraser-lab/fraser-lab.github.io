@@ -25,12 +25,12 @@ title: "Title of article."
 authors: "Surname FM, **Fraser JS.**"
 journal: "Journal Name"
 pub_date: "YYYY-MM-DD" #Date of journal publication, NOT BIORXIV UPLOAD
-image: "/static/img/pub/surname_YYYY.png"
+image: "/static/img/pub/YYYY_SurnameFirstAuthor.png" #Minimum dimensions of
 pmid: "########"
 pmcid: "PMC#######"
 biorxiv: "YYYY.MM.DD.######"
 biorxiv_version: "YYYY.MM.DD.######v1"
-pdf: "http://cdn.fraserlab.com/publications/YYYY_LastAuthor.pdf"
+pdf: "http://cdn.fraserlab.com/publications/YYYY_SurnameFirstAuthor.pdf"
 pdbs:
   - "PDB_ID"
 paired_maps_and_models:
@@ -45,13 +45,14 @@ data:
 zenodo:
   - code: "3555658"
     description: "qPTxM code snapshot"
+github:
+  - description: "qPTxM"
+    url: "fraser-lab/qptm"
 links:
   - name: "Fujimori lab  @ UC San Francisco"
     url: "https://fujimorilab.ucsf.edu"
   - name: "Gonen lab @ UC Los Angeles"
     url: "https://cryoem.ucla.edu/"
-  - name: "qPTxM code on GitHub"
-    url: "https://github.com/fraser-lab/qptm"
   - name: "Celebratory Tweetstorm by first author First Surname"
     url: "https://twitter.com/LifeHasOrder/status/1172327493451145218"
 ---

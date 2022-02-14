@@ -3,27 +3,27 @@ title: Publications from the Fraser Lab
 layout: default
 group: publications
 ---
-
 <h1>Publications</h1>
 <div class="container-fluid">
 
 {% for publication in site.publications reversed | sort: "pub_date" %}
 <hr>
 <div class="row" style="padding-top: 60px; margin-top: -60px;" id="{{publication.pmid}}">
-<div><h5>{{ publication.title | markdownify  | remove: '<p>' | remove: '</p>' }}</h5>
-<h6>{{ publication.authors | markdownify | remove: '<p>' | remove: '</p>' }}</h6>
-{% if publication.journal %}
-<i>{{ publication.journal }},</i>
-{{publication.pub_date | split: "-" | first }}</div>
-{% else %}
-<i>Biorxiv,</i>
-{% if publication.biorxiv %}
-{{publication.biorxiv | split: "." | first }}</div>
-{% else %}
-{{publication.biorxiv_version | split: "." | first }}</div>
-{% endif %}
-{% endif %}
-
+	<div>
+		<h5>{{ publication.title | markdownify  | remove: '<p>' | remove: '</p>' }}</h5>
+		<h6>{{ publication.authors | markdownify | remove: '<p>' | remove: '</p>' }}</h6>
+		{% if publication.journal %}
+			<i>{{ publication.journal }},</i>
+			{{publication.pub_date | split: "-" | first }}
+		{% else %}
+			<i>Biorxiv,</i>
+			{% if publication.biorxiv %}
+				{{publication.biorxiv | split: "." | first }}
+			{% else %}
+				{{publication.biorxiv_version | split: "." | first }}
+			{% endif %}
+		{% endif %}
+	</div>
 </div>
 
 <div class="row" style="padding-top: 20px; margin-top: -20px">
