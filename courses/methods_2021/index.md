@@ -219,7 +219,7 @@ This is a team-based class where students work in small groups develop their own
 
 ## Tuesday February 15
 ### Lecture from Tanja Kortemme, AlphaFold and RosettaFold
-### Lecture from Tom Goddard?
+### Material from Tom Goddard
 - [ChimeraX tutorial part II and Q/A by Tom Goddard](https://www.rbvi.ucsf.edu/chimerax/data/nanobody-feb2021/nanobody.html)
 	- [Color by Chemical Shift Perturbations](https://www.rbvi.ucsf.edu/chimerax/data/nanobody-feb2021/chemshift.html)
 	- [How to View Nanobody Molecular Dynamics in ChimeraX](https://www.rbvi.ucsf.edu/chimerax/data/nanobody-feb2021/nanobody_md.html)
@@ -229,7 +229,7 @@ This is a team-based class where students work in small groups develop their own
 
 ### Email your slides to Aashish Manglik by 8:30AM that morning!
 
-### Presentation times (an invididual zoom link will be emailed to you):
+### Presentation times [use individual zoom rooms](https://ucsf.box.com/s/lr7d98dfy3hnopo0yszq82bgye09gj8x)
 
 * 9:00-9:20: Team Dorothy Hodgkin
 * 9:30-9:50: Team Alice Ball
