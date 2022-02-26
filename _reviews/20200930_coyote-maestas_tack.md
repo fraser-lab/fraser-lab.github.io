@@ -11,5 +11,5 @@ peer-review:
 
 published:
 - pmid: "33784029"
-  pdf: "http://cdn.fraserlab.com/review/2020_tack.pdf"
+  pdf: "http://cdn.fraserlab.com/reviews/2020_tack.pdf"
 ---

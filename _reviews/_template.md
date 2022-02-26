@@ -19,7 +19,7 @@ peer-review:
 
 published:
 - pmid: ""
-  pdf: "" #full cdn link
+  pdf: "http://cdn.fraserlab.com/reviews/YYYY_FirstAuthorLastName" #full cdn link
 
 highlight:
 - title: ""

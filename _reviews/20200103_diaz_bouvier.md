@@ -8,4 +8,7 @@ image: "/static/img/reviews/2020_bouvier.png"
 peer-review:
 - biorxiv_version: "2020.01.03.893669v1"
   disqus: "27is5rt"
+#published:
+#- pmid: ""
+#  pdf: "http://cdn.fraserlab.com/reviews/2020_bouvier.pdf" #full cdn link
 ---

@@ -8,4 +8,7 @@ image: "/static/img/reviews/2020_croll.jpg"
 peer-review:
 - biorxiv_version: "2020.10.07.307546v1"
   disqus: "2d8qwn5"
+published:
+- pmid: "33972785"
+  pdf: "http://cdn.fraserlab.com/reviews/2021_croll.pdf" #full cdn link
 ---

@@ -8,4 +8,7 @@ image: "/static/img/reviews/2020_durdagi.png"
 peer-review:
 - biorxiv_version: "2020.09.09.287987v1"
   disqus: "2emfmxk"
+published:
+- pmid: "34403647"
+  pdf: "http://cdn.fraserlab.com/reviews/2021_durdagi.pdf" #full cdn link
 ---

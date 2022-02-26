@@ -8,4 +8,7 @@ image: "/static/img/reviews/2018_yesselman.jpg"
 peer-review:
 - biorxiv_version: "341107v1"
   disqus: "20izljl"
+published:
+- pmid: "31375637"
+  pdf: "http://cdn.fraserlab.com/reviews/2019_yesselman.pdf" #full cdn link
 ---

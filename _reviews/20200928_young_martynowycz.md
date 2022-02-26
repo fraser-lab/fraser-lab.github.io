@@ -8,4 +8,7 @@ image: "/static/img/reviews/2020_martynowycz.jpg"
 peer-review:
 - biorxiv_version: "2020.09.27.316109v1"
   disqus: "2eurwi3"
+published:
+- pmid: "34462357"
+  pdf: "http://cdn.fraserlab.com/reviews/2021_martynowycz.pdf" #full cdn link
 ---

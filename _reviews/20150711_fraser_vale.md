@@ -11,5 +11,5 @@ peer-review:
 
 published:
 - pmid: "26508643"
-  pdf: "http://cdn.fraserlab.com/review/2015_vale.pdf"
+  pdf: "http://cdn.fraserlab.com/reviews/2015_vale.pdf"
 ---

@@ -8,4 +8,7 @@ image: "/static/img/reviews/2021_kneller.jpg"
 peer-review:
 - biorxiv_version: "2021.01.12.426388v1"
   disqus: "2f8pxlq"
+published:
+- pmid: "33755450"
+  pdf: "http://cdn.fraserlab.com/reviews/2021_kneller.pdf" #full cdn link
 ---

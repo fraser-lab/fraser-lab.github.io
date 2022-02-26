@@ -8,4 +8,7 @@ image: "/static/img/reviews/2021_knoverek.jpg"
 peer-review:
 - biorxiv_version: "2021.04.14.439842v1"
   disqus: "2gxrwir"
+published:
+- pmid: "34799442"
+  pdf: "http://cdn.fraserlab.com/reviews/2021_knoverek.pdf" #full cdn link
 ---

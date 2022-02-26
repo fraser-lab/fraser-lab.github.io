@@ -8,4 +8,7 @@ image: "/static/img/reviews/2020_shi.png"
 peer-review:
 - biorxiv_version: "2020.05.13.092981v2"
   disqus: "2a7ngzw"
+published:
+- pmid: "33139729"
+  pdf: "http://cdn.fraserlab.com/reviews/2020_shi.pdf" #full cdn link
 ---

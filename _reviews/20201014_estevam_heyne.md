@@ -8,4 +8,7 @@ image: "/static/img/reviews/2020_heyne.jpg"
 peer-review:
 - biorxiv_version: "2020.10.14.338756v1"
   disqus: "2ek4qjc"
+published:
+- pmid: "34609866"
+  pdf: "http://cdn.fraserlab.com/reviews/2021_heyne.pdf" #full cdn link
 ---

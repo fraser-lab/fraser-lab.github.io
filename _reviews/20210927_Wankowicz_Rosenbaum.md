@@ -9,4 +9,7 @@ peer-review:
 - arxiv: "2106.14108"
   zenodo: "5533316"
   prereview: "arXiv-2106.14108"
+#published:
+#- pmid: ""
+#  pdf: "http://cdn.fraserlab.com/reviews/2021_Rosenbaum.pdf" #full cdn link
 ---
