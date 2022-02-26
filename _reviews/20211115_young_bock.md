@@ -1,7 +1,7 @@
 ---
 title: "Effects of cryo-EM cooling on structural ensembles"
 date: "2021-10-08"
-authors: "Bock LV, Grubmüller H"
+authors: "Bock LV, and Grubmüller H"
 reviewers: "Young ID, Fraser JS"
 image: "/static/img/reviews/2021_bock.png"
 

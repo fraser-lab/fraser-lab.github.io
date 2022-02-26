@@ -1,7 +1,7 @@
 ---
 title: "Collection of continuous rotation MicroED Data from Ion Beam Milled Crystals of Any Size"
 date: "2018-09-24"
-authors: "Martynowycz MW, Zhao W, Hattne J, Jensen GJ, Gonen T"
+authors: "Martynowycz MW, Zhao W, Hattne J, Jensen GJ, and Gonen T"
 reviewers: "Fraser JS"
 image: "/static/img/reviews/2019_martynowycz.jpg"
 

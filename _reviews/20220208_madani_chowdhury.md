@@ -1,7 +1,7 @@
 ---
 title: "Single-sequence protein structure prediction using language models from deep learning"
 date: "2022-02-08"
-authors: "Chowdhury R, Bouatta N, Biswas S, Rochereau C, Church GM, Sorger PK, AlQuraishi M"
+authors: "Chowdhury R, Bouatta N, Biswas S, Rochereau C, Church GM, Sorger PK, and AlQuraishi M"
 reviewers: "Madani A, Fraser JS"
 image: "/static/img/reviews/2022_chowdhury.png"
 

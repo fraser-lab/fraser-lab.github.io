@@ -1,7 +1,7 @@
 ---
 title: "Ab initio phasing macromolecular structures using electron-counted MicroED data"
 date: "2021-11-17"
-authors: "Martynowycz MW, Clabbers MTB, Hattne J, Gonen T"
+authors: "Martynowycz MW, Clabbers MTB, Hattne J, and Gonen T"
 reviewers: "Young ID, Fraser JS"
 image: "/static/img/reviews/2021_martynowycz.png"
 

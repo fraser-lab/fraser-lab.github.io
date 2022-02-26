@@ -1,7 +1,7 @@
 ---
 title: "Functional Plasticity and Evolutionary Adaptation of Allosteric Regulation"
 date: "2020-02-11"
-authors: "Leander M, Yuan Y, Meger A, Cui Q, Raman S"
+authors: "Leander M, Yuan Y, Meger A, Cui Q, and Raman S"
 reviewers: "Coyote-Maestas W, Fraser JS"
 image: "/static/img/reviews/2020_leander.png"
 

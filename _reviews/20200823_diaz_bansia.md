@@ -1,7 +1,7 @@
 ---
 title: "Small Glycols Discover Cryptic Pockets on Proteins for Fragment-based Approaches"
 date: "2020-08-23"
-authors: "Bansia H, Mahanta P, Yennawar NH, Ramakumar S"
+authors: "Bansia H, Mahanta P, Yennawar NH, and Ramakumar S"
 reviewers: "Díaz RE, Fraser JS"
 image: "/static/img/reviews/2021_bansia.jpeg"
 

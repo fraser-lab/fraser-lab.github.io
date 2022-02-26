@@ -1,7 +1,7 @@
 ---
 title: "_reciprocalspaceship_: a Python library for crystallographic data analysis"
 date: "2021-02-04"
-authors: "Greisman JB, Dalton KM, Hekstra DR"
+authors: "Greisman JB, Dalton KM, and Hekstra DR"
 reviewers: "Young ID"
 image: "/static/img/reviews/2021_greisman.png"
 

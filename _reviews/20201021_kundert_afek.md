@@ -1,7 +1,7 @@
 ---
 title: "DNA mismatches reveal conformational penalties in protein–DNA recognition"
 date: "2020-10-21"
-authors: "Afek A, Shi H, Rangadurai A, Sahay H, Senitzki A, Xhani S, Fang M, Salinas R, Mielko Z, Pufall MA, Poon GMK, Haran TE, Schumacher MA, Al-Hashimi HM, Gordân R"
+authors: "Afek A, Shi H, Rangadurai A, Sahay H, Senitzki A, Xhani S, Fang M, Salinas R, Mielko Z, Pufall MA, Poon GMK, Haran TE, Schumacher MA, Al-Hashimi HM, and Gordân R"
 reviewers: "Kundert K, Fraser JS"
 image: "/static/img/pub/2020_kundert.jpg"
 abstract:
