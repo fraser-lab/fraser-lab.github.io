@@ -3,7 +3,7 @@ title: "Structural models of SARS-CoV-2 Omicron variant in complex with ACE2 rec
 date: "2022-02-25"
 authors: "Lubin JH, Markosian C, Balamurugan D, Pasqualini R, Arap W, Burley SK, and Khare SD"
 reviewers: "Díaz RE, Fraser JS"
-image: "/static/img/reviews/2022_lubin.png"
+image: "/static/img/reviews/2022_lubin.jpg"
 
 peer-review:
 - biorxiv_version: "2021.12.12.472313v1"
