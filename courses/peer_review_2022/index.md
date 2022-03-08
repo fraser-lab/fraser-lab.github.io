@@ -80,17 +80,15 @@ After the round of sharing, the Discussion Leaders will present a joint talk sim
 
 
 ### March 28
-
 - Intro to class, overview of preprints to review, expectations for presentations and readers
+- [New developments in peer review](https://tinyurl.com/polka-ucsf-pr):
+  - [Jessica Polka](https://en.wikipedia.org/wiki/Jessica_Polka) - [Executive Director of ASAPbio](https://asapbio.org/dt_team/jessica-polka)
+
+### March 30
+- Writing and Receiving Peer Review and expecations for written reviews
 - Panel:
   - [Michael Eisen](http://eisenlab.org/) - [Editor in Chief of eLife](https://elifesciences.org/about/people)
   - [Andrej Sali](https://salilab.org/) - [Editor of Structure](https://www.cell.com/structure/editors) - need to replace?
-
-
-### March 30
-- [New developments in peer review](https://tinyurl.com/polka-ucsf-pr):
-  - [Jessica Polka](https://en.wikipedia.org/wiki/Jessica_Polka) - [Executive Director of ASAPbio](https://asapbio.org/dt_team/jessica-polka)
-- Writing and Receiving Peer Review and expecations for written reviews
 
 #### Some good guidelines for reviewing
 
