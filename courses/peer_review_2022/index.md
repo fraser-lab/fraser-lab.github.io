@@ -88,7 +88,7 @@ After the round of sharing, the Discussion Leaders will present a joint talk sim
 - Writing and Receiving Peer Review and expecations for written reviews
 - Panel:
   - [Michael Eisen](http://eisenlab.org/) - [Editor in Chief of eLife](https://elifesciences.org/about/people)
-  - [Andrej Sali](https://salilab.org/) - [Editor of Structure](https://www.cell.com/structure/editors) - need to replace?
+  - [Vasanthi Jayaraman](https://en.wikipedia.org/wiki/Vasanthi_Jayaraman/) - [Editor-in-Chief -Biophysical Journal](https://www.cell.com/biophysj/editorial-board)
 
 #### Some good guidelines for reviewing
 
