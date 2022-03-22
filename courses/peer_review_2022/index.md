@@ -101,16 +101,15 @@ After the round of sharing, the Discussion Leaders will present a joint talk sim
 - It doesn’t need to be the paper YOU would have written
 - Don't be an a$$hole
 
-### April 1
-
 ### April 4
 
+- Pair 1 paper
 ### April 6
 
+- Pair 2 paper
 ### April 8
 
+- Pair 3 paper
 ### April 11
 
-### April 13
-
-### April 15
+- Pair 4 paper
