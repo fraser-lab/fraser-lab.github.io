@@ -81,7 +81,7 @@ After the round of sharing, the Discussion Leaders will present a joint talk sim
 
 ### March 28
 - Intro to class, overview of preprints to review, expectations for presentations and readers
-- [New developments in peer review](https://tinyurl.com/polka-ucsf-pr):
+- [New developments in peer review](http://tinyurl.com/polkaucsf2022):
   - [Jessica Polka](https://en.wikipedia.org/wiki/Jessica_Polka) - [Executive Director of ASAPbio](https://asapbio.org/dt_team/jessica-polka)
 
 ### March 30
