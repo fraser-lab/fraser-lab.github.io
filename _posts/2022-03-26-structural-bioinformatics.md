@@ -11,7 +11,7 @@ Over the past two years I have done a bunch of structural bioinformatic work, re
 
 Below are many of the lessons, guidelines, and pitfalls for a structural bioinformatic analysis. While many of the principles below are specifically tailored to a paired analysis (such as apo versus holo or peptide bound versus small molecule bound), these guidelines can help with any structural bioinformatics project. 
 
-For specific suggestions, I have the code I created linked at the bottom of each section. This code is built on bash, python, Phenix/cctbx, and qFit. The code should be easily adaptable to other projects/inquiries. If there are any questions, feel free to [contact me](https://fraserlab.com/members/).
+For specific suggestions, I have the code I created linked at the bottom of each section. This code is built on bash, python, Phenix/cctbx, and qFit. The code should be easily adaptable to other projects/inquiries. If there are any questions, feel free to [contact me](mailto:mullane.stephanie@gmail.com).
 
 #### Define your selection criteria early. 
 
