@@ -7,11 +7,11 @@ group: news
 
 
 
-Over the past two years I have done a bunch of structural bioinformatic work, resulting in the paper (‘Ligand binding remodels protein side chain conformational heterogeneity’) [https://elifesciences.org/articles/74114]. And I made A LOT of mistakes. 
+Over the past two years I have done a bunch of structural bioinformatic work, resulting in the paper [Ligand binding remodels protein side chain conformational heterogeneity](https://elifesciences.org/articles/74114). And I made A LOT of mistakes. 
 
 Below are many of the lessons, guidelines, and pitfalls for a structural bioinformatic analysis. While many of the principles below are specifically tailored to a paired analysis (such as apo versus holo or peptide bound versus small molecule bound), these guidelines can help with any structural bioinformatics project. 
 
-For specific suggestions, I have the code I created linked at the bottom of each section. This code is built on bash, python, Phenix/cctbx, and qFit. The code should be easily adaptable to other projects/inquiries. If there are any questions, feel free to contact me at mullane.stephanie@gmail.com
+For specific suggestions, I have the code I created linked at the bottom of each section. This code is built on bash, python, Phenix/cctbx, and qFit. The code should be easily adaptable to other projects/inquiries. If there are any questions, feel free to [contact me](https://fraserlab.com/members/).
 
 #### Define your selection criteria early. 
 
@@ -23,7 +23,7 @@ Before you start downloading structures, you need to decide what structures you 
 5. Type of ligands
 6. Single or multidomain proteins
 
-You may also want to cross check these structures with external databases (ChemBL, Uniprot, ect). You can do much of this work on the PDB website in their advanced search section (https://www.rcsb.org/search/advanced).
+You may also want to cross check these structures with external databases (ChemBL, Uniprot, ect). You can do much of this work on the PDB website in their [advanced search section](https://www.rcsb.org/search/advanced).
 
 Once you get a list of structures with your initial criteria, you can parse the header of the PDB or get other statistics of PDB/density file from the MTZ file with a program like phenix.mtz_dump. 
 
@@ -35,13 +35,13 @@ Ligand types/crystallographic additives (how much overlap do you want between th
 Experimental methods such as crystallographic conditions (this will be tricker but may be important and worth it to go through headers manually). 
 At this stage, I suggest keeping duplicate pairs (ie if you have multiple apo or wildtype proteins for each holo or mutant proteins). Many structures will be thrown out downstream and it can be helpful to have ‘back ups’. 
 
-(Here is a pipeline)[https://github.com/fraser-lab/Apo_Holo_Analysis/tree/main/selection_pipeline] you can use to select the PDBs to move forward in your analysis. 
+[Here is a pipeline](https://github.com/fraser-lab/Apo_Holo_Analysis/tree/main/selection_pipeline) you can use to select the PDBs to move forward in your analysis. 
 
 #### Re-refine structures.
 
 The PDB has a lot of structures refined with many different software packages and versions. To ensure that you are comparing apples to apples, pick one refinement software version and re-refine all of your structures. 
 
-The software that I used was (phenix.refine)[https://phenix-online.org/documentation/reference/refinement.html].
+The software that I used was [phenix.refine](https://phenix-online.org/documentation/reference/refinement.html).
 
 Unless you know exactly how you want to refine your structures, spend some time with ~15 structures and play around with refinement strategies. Some things to think about:
 
@@ -53,9 +53,9 @@ Once you have a refinement script you are happy to test your refinement script w
 
 If 80% of your structures are re-refined, move on. Send bugs to the respective software groups, and accept your losses (trust me, they are not worth it!). 
 
-Here is an example re-refinement pipeline that works with (Phenix version 1.19)[https://phenix-online.org/download/]. 
+Here is an example re-refinement pipeline that works with [Phenix version 1.19](https://phenix-online.org/download/). 
 
-(Here is a pipeline)[https://github.com/fraser-lab/Apo_Holo_Analysis/tree/main/refinement] that will re-refine your structures, run qFit, and then refine your qFit structure.
+[Here is a pipeline](https://github.com/fraser-lab/Apo_Holo_Analysis/tree/main/refinement) that will re-refine your structures, run qFit, and then refine your qFit structure.
 
 
 #### Quality control of structures.
@@ -76,7 +76,7 @@ Some additional criteria you will want to think about in this stage include:
 How well do the backbones of structures line up? This can be assessed by alpha carbon RMSD between the structures. While some analyses may want to keep large changes, others may want to throw them out. 
 How much do the ligands overlap between the structures?
 
-(Here is a pipeline)[https://github.com/fraser-lab/Apo_Holo_Analysis/tree/main/QC] that will extract and compare R-values, align your pairs, and spit out alpha RMSD and ligand overlap between the pairs.
+[Here is a pipeline](https://github.com/fraser-lab/Apo_Holo_Analysis/tree/main/QC) that will extract and compare R-values, align your pairs, and spit out alpha RMSD and ligand overlap between the pairs.
 
 
 #### Analysis of structures
@@ -89,7 +89,7 @@ The other thing to think about when comparing structures is if there are duplica
 
 Finally, you also need to consider how you are going to look at certain sections of the PDB. For example, I wanted to examine binding site residues. But my criteria (any residue heavy atom within 5A of any ligand heavy atom) sometimes gave me one or two different residues in the holo or apo depending on how much those residues moved. I decided to look at the union of those two lists, but you could also look at the intersection of those two lists.
 
-(Here are a bunch of analyses)[https://github.com/fraser-lab/Apo_Holo_Analysis/tree/main/analysis] that I ran on my pairs or individual models. 
+[Here are a bunch of analyses](https://github.com/fraser-lab/Apo_Holo_Analysis/tree/main/analysis) that I ran on my pairs or individual models. 
 
 #### Quality control of the analysis
 
