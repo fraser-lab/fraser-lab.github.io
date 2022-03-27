@@ -25,7 +25,7 @@ The [extract_pandda.sh](https://github.com/gcorrey/scripts/tree/main/extract_pan
 
 #### Caveats
 
-The script needs the Phenix version dev-4338 to run, available [here](http://phenix-online.org/download/nightly_builds.cgi?show_all=1)).
+The script needs the Phenix version dev-4338 to run, available [here](http://phenix-online.org/download/nightly_builds.cgi?show_all=1).
 
 Data blocks need to be named as follows in the CIF (where xxxx is the PDB code): 
 1. Data from final refinement with ligand: data_rxxxxsf
