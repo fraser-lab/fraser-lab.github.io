@@ -9,7 +9,7 @@ permalink: /peer_review/
 
 ## Spring 2022 Syllabus
 
-**Course Days/Hours:** March 28, 30, April 1, 4, 6, 8, 11, 13, 15 from: 3:15-4:45PM
+**Course Days/Hours:** March 28, 30, April 1, 4, 6, 11, 13 from: 3:15-4:45PM
 
 **Location:** Zoom!
 
@@ -103,16 +103,16 @@ After the round of sharing, the Discussion Leaders will present a joint talk sim
 
 ### April 4
 
-- Pair 1 paper
+- Catherine Kuhn, Nathan Ewing-Crystal
 
 ### April 6
 
-- Pair 2 paper
+- Shivani Pandey, Anita Qualls
 
 ### April 11
 
-- Pair 3 paper
+- Radhika Dalal, Gabriel Braun
 
 ### April 13
 
-- Pair 4 paper
+- Andrés Betancourt-Torres, Scott Harris, Whitney Tamaki
