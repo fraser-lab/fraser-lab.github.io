@@ -9,7 +9,7 @@ permalink: /peer_review/
 
 ## Spring 2022 Syllabus
 
-**Course Days/Hours:** March 28, 30, April 1, 4, 6, 11, 13 from: 3:15-4:45PM
+**Course Days/Hours:** March 28, 30, April 4, 6, 11, 13 from: 3:15-4:45PM
 
 **Location:** Zoom!
 
@@ -104,19 +104,23 @@ After the round of sharing, the Discussion Leaders will present a joint talk sim
 ### April 4
 
 - Catherine Kuhn, Nathan Ewing-Crystal
+
 [T cell migration requires ion and water influx to regulate actin polymerization](https://www.biorxiv.org/content/10.1101/2022.03.16.484584v1.full)
 
 ### April 6
 
 - Shivani Pandey, Anita Qualls
+
 [Septin-Mediated Mechanobiological Reprogramming of T Cell Transmigration and 3D Motility](https://www.biorxiv.org/content/10.1101/2022.01.18.476840v3)
 
 ### April 11
 
 - Radhika Dalal, Gabriel Braun
+
 [Hsp multichaperone complex buffers pathologically modified Tau](https://www.biorxiv.org/content/10.1101/2022.03.18.484853v1)
 
 ### April 13
 
 - Andrés Betancourt-Torres, Scott Harris, Whitney Tamaki
+
 [NGF-p75 signaling coordinates skeletal cell migration during bone repair](https://www.biorxiv.org/content/10.1101/2021.07.07.451468v2.full)
