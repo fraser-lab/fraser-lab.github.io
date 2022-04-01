@@ -1,11 +1,11 @@
 ---
 name: Iris Young, Ph.D.
 startdate: [2018-08-09]
-enddate: []
+enddate: [2022-04-01]
 image: /static/img/members/Young.jpg
 altimage: /static/img/members/Young_pb.jpg
 position: Postdoctoral Fellow
-#subsequent:  update once you become an alumnus
+subsequent: Scientist, Lawrence Berkeley National Laboratory
 pronouns: he/him/his
 email: irisdyoung (at) gmail.com
 scholar: iSv5YCUAAAAJ
