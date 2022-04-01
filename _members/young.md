@@ -5,7 +5,7 @@ enddate: [2022-04-01]
 image: /static/img/members/Young.jpg
 altimage: /static/img/members/Young_pb.jpg
 position: Postdoctoral Fellow
-subsequent: Scientist, Lawrence Berkeley National Laboratory
+subsequent: Scientist @ Lawrence Berkeley National Laboratory
 pronouns: he/him/his
 email: irisdyoung (at) gmail.com
 scholar: iSv5YCUAAAAJ
