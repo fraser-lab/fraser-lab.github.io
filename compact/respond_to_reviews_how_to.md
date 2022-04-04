@@ -1,5 +1,5 @@
 ---
-title: How to Responsd to Your Reviews
+title: How to Respond to Your Reviews
 layout: default
 group: compact
 ---
