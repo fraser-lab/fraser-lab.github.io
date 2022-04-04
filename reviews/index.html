@@ -6,6 +6,23 @@ group: reviews
 
 <h1>Peer Review</h1>
 <div class="container-fluid">
+<h7>
+Peer review of scientific manuscripts is essential for what is, currently, by far the most widely
+accepted means of communication of scientific results: publishing papers in scientific journals. The
+process of peer review plays an important role in refining the body of work prior to final publication.
+<br><br>
+We believe that transparency in peer review can improve the speed, quality, and collegiality of the publication
+process. As such, we only review manuscripts that have been posted on preprint servers and we post our peer review
+comments publicly. We support other initiatives to improve peer review (such as <a href="https://www.reviewcommons.org/" target="blank" alt = "Review Commons (opens in new tab)">Review Commons</a> and <a href="https://asapbio.org/feedbackasap" target="blank" alt = "FeedbackASAP (opens in new tab)">FeedbackASAP</a>).
+<br><br>
+Peer review is also an important training opportunity for lab members in scientific thinking and writing.
+All lab members who co-review with JF are credited for their contribution to the review. Following our guidelines
+for drafting reviews, we iteratively revise the review to make sure it is constructive. JF is always happy to look
+over reviews and if he hasn’t meaningfully contributed, lab members are encouraged to post as solo review authors.
+Additional resources can be found in our
+<a href="https://fraserlab.com/compact/" target="_blank" alt = "Lab Compact (opens in new tab)">Lab Compact</a>
+and in the <a href="https://fraserlab.com/peer_review/" target="_blank" alt = "Peer Review minicourse (opens in new tab)">Peer Review minicourse</a>.
+</h7>
 
 {% for review in site.reviews reversed %}
 	<hr>
@@ -31,47 +48,47 @@ group: reviews
 			{% for record in review.peer-review %}
 				<!--Biorxiv-->
 				{% if record.biorxiv %}
-				<li>Biorxiv Preprint: <a href="http://dx.doi.org/10.1101/{record.biorxiv}}" alt = "biorxiv preprint link: {{record.biorxiv}}">{{record.biorxiv | split: "." | last }}</a></li>
+				<li>Biorxiv Preprint: <a href="http://dx.doi.org/10.1101/{record.biorxiv}}"<a href="https://fraserlab.com/compact/" target="_blank" alt = "biorxiv preprint link: {{record.biorxiv}}">{{record.biorxiv | split: "." | last }}</a></li>
 				{% endif %}
 
 				<!--Biorxiv specific version-->
 				{% if record.biorxiv_version %}
-				<li>Biorxiv Preprint v{{record.biorxiv_version | split: "." | last | split: "v" | last }}: <a href="http://www.biorxiv.org/content/10.1101/{{record.biorxiv_version}}" alt = "biorxiv preprint link: {{record.biorxiv_version}}">{{record.biorxiv_version | split: "." | last | split: "v" | first }}</a></li>
+				<li>Biorxiv Preprint v{{record.biorxiv_version | split: "." | last | split: "v" | last }}: <a href="http://www.biorxiv.org/content/10.1101/{{record.biorxiv_version}}" target="_blank" alt = "biorxiv preprint link: {{record.biorxiv_version}}">{{record.biorxiv_version | split: "." | last | split: "v" | first }}</a></li>
 				{% endif %}
 
 				<!--Arxiv-->
 				{% if record.arxiv %}
-				<li>arXiv Preprint: <a href="https://arxiv.org/abs/{{record.arxiv}}" alt = "arxiv preprint link: {{record.arxiv}}">{{record.arxiv}}</a></li>
+				<li>arXiv Preprint: <a href="https://arxiv.org/abs/{{record.arxiv}}" target="_blank" alt = "arxiv preprint link: {{record.arxiv}}">{{record.arxiv}}</a></li>
 				{% endif %}
 
 				<!--prereview.org -->
 				{% if record.prereview %}
-				<li>PREreview.org: <a href="https://www.prereview.org/preprints/{{record.prereview}}" alt = "prereview.org preprint link: {{record.prereview}}">{{record.prereview}}</a></li>
+				<li>PREreview.org: <a href="https://www.prereview.org/preprints/{{record.prereview}}" target="_blank" alt = "prereview.org preprint link: {{record.prereview}}">{{record.prereview}}</a></li>
 				{% endif %}
 
 				<!--Chemrxiv-->
 				{% if record.chemrxiv %}
-				<li>ChemRxiv Preprint: <a href=" https://doi.org/10.26434/chemrxiv.{{record.chemrxiv}}" alt = "chemrxiv preprint link: {{record.chemrxiv}}">{{record.chemrxiv}}</a></li>
+				<li>ChemRxiv Preprint: <a href=" https://doi.org/10.26434/chemrxiv.{{record.chemrxiv}}" target="_blank" alt = "chemrxiv preprint link: {{record.chemrxiv}}">{{record.chemrxiv}}</a></li>
 				{% endif %}
 
 				<!--Preprints.org -->
 				{% if record.preprintsorg %}
-				<li>Preprints.org: <a href="https://www.preprints.org/manuscript/{{record.preprintsorg}}" alt = "preprints.org preprint link: {{record.preprintsorg}}">{{record.preprintsorg}}</a></li>
+				<li>Preprints.org: <a href="https://www.preprints.org/manuscript/{{record.preprintsorg}}" target="_blank" alt = "preprints.org preprint link: {{record.preprintsorg}}">{{record.preprintsorg}}</a></li>
 				{% endif %}
 
 
 				<!--Disqus comment-->
 				{% if record.disqus %}
-				<li>Review: <a href="http://disq.us/p/{{record.disqus}}" alt = "link to review as Disqus comment: {{record.disqus}}">{{record.disqus}}</a></li>
+				<li>Review: <a href="http://disq.us/p/{{record.disqus}}" target="_blank" alt = "link to review as Disqus comment: {{record.disqus}}">{{record.disqus}}</a></li>
 				{% endif %}
 
 				<!--zenodo record-->
 				{% if record.zenodo %}
-				<li>Zenodo Record: <a href="https://www.zenodo.org/record/{{record.zenodo}}" alt = "link to review as zenodo PDF: {{record.zenodo}}">{{record.zenodo}}</a></li>
+				<li>Zenodo Record: <a href="https://www.zenodo.org/record/{{record.zenodo}}" target="_blank" alt = "link to review as zenodo PDF: {{record.zenodo}}">{{record.zenodo}}</a></li>
 				{% endif %}
 
 				{% if record.pdf %}
-				<li>Review: <a href="{{record.pdf}}" alt="link to full review text: {{record.pdf}}">Full Text</a></li>
+				<li>Review: <a href="{{record.pdf}}" target="_blank" alt="link to full review text: {{record.pdf}}">Full Text</a></li>
 				{% endif %}
 
 			{% endfor %}
@@ -82,10 +99,10 @@ group: reviews
 			<h6>Access the paper</h6>
 			{% for record in review.published %}
 				{% if record.pmid %}
-				<li>PMID: <a href="http://www.ncbi.nlm.nih.gov/pubmed/{{record.pmid}}" alt = "pubmed link: {{record.pmid}}">{{record.pmid}}</a></li>
+				<li>PMID: <a href="http://www.ncbi.nlm.nih.gov/pubmed/{{record.pmid}}" target="_blank" alt = "pubmed link: {{record.pmid}}">{{record.pmid}}</a></li>
 				{% endif %}
 				{% if record.pdf %}
-				<li><a href="{{record.pdf}}" alt="link to full text: {{record.pdf}}">Full Text</a></li>
+				<li><a href="{{record.pdf}}" target="_blank" alt="link to full text: {{record.pdf}}">Full Text</a></li>
 				{% endif %}
 			{% endfor %}
 
@@ -115,12 +132,12 @@ group: reviews
 
 					<!--Zenodo Record-->
 					{% if record.zenodo %}
-					<li>Zenodo Record: <a href="https://www.zenodo.org/record/{{record.zenodo}}" alt = "link to review as zenodo: {{record.zenodo}}">{{record.zenodo}}</a></li>
+					<li>Zenodo Record: <a href="https://www.zenodo.org/record/{{record.zenodo}}" target="_blank" alt = "link to review as zenodo: {{record.zenodo}}">{{record.zenodo}}</a></li>
 					{% endif %}
 
 					<!--PDF-->
 					{% if record.pdf %}
-					<li><a href="{{record.pdf}}" alt="link to full text: {{record.pdf}}">Full Text</a></li>
+					<li><a href="{{record.pdf}}" target="_blank" alt="link to full text: {{record.pdf}}">Full Text</a></li>
 					{% endif %}
 
 				{% endfor %}
