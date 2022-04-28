@@ -62,6 +62,7 @@ After the round of sharing, the Discussion Leaders will present a joint talk sim
     - [How to bring peer review ghostwriters out of the dark](https://www.molbiolcell.org/doi/full/10.1091/mbc.E20-10-0642)
     - [Advice for keeping on top of the literature](https://fraserlab.com/2013/09/28/The-Fraser-Lab-method-of-following-the-scientific-literature/)
     - [FAST principles for a thriving preprint feedback culture](https://asapbio.org/fast-principles-for-preprint-feedback)
+      - [Point of View: Promoting constructive feedback on preprints with the FAST principles](https://elifesciences.org/articles/78424?utm_source=feedly&utm_medium=webfeeds)
 
 - Receiving and responding to peer review (it is important to imagine yourself in this perspective when writing!):
     - [A thoughtful twitter thread on responding to reviews](https://twitter.com/dsquintana/status/1119956899447889920?s=20) and followup [blog post](https://www.dsquintana.com/post/23_apr_2019_peer-review/)
