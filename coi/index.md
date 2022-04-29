@@ -15,12 +15,13 @@ Appointments:
 * Associate Director, [Biophysics Graduate Program, University of California San Francisco](https://biophysics.ucsf.edu/)
 * Board Member and Vice President, [ASAPbio](https://asapbio.org/)
 
-Equity (in Trust, with spouse):
+Equity (held in Trust, with spouse):
 
 * [Relay Therapeutics](https://relaytx.com/)
 * [Impossible Foods](https://impossiblefoods.com/)
 * [Arda Therapeutics](https://www.ardatherapeutics.com/)
 * Keyhole Therapeutics (co-founder)
+* Interdict Therapeutics (co-founder)
 
 Consulting/speaker fees/travel within last 2 years:
 
@@ -31,9 +32,12 @@ Consulting/speaker fees/travel within last 2 years:
 * [Merck](https://www.merck.com/)
 * [Arcadia Science](https://www.arcadia.science/)
 * [Octant](https://octant.bio/)
+* RADD Pharmaceuticals
 * Past: Genentech, Revolution Medicines, Third Rock Ventures, Calico, GSK, Schrodinger, CCG, OpenEye, Roche, AstraZeneca
 
 Sponsored and Collaborative Research:
 
 * [Relay Therapeutics](https://relaytx.com/)
 * [Salesforce](https://www.salesforce.com/)
+
+I also am the head of the participating research team of beamline 8.3.1. at the Advanced Light Source. Many companies use that beamline or sponsor research and development activities by the beamline scientists, including: Plexxikon, Relay Therapeutics, Eli Lilly and Company, and Global Blood Therapeutics.
