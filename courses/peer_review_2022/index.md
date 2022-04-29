@@ -102,6 +102,8 @@ After the round of sharing, the Discussion Leaders will present a joint talk sim
 - It doesn’t need to be the paper YOU would have written
 - Don't be an a$$hole
 
+[Evaluate other reviews by this rubric](https://zenodo.org/record/6471333#.YmhgdC-B1pR)
+
 ### April 4
 
 - Catherine Kuhn, Nathan Ewing-Crystal
