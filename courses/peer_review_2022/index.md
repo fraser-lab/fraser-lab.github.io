@@ -108,6 +108,8 @@ After the round of sharing, the Discussion Leaders will present a joint talk sim
 
 [T cell migration requires ion and water influx to regulate actin polymerization](https://www.biorxiv.org/content/10.1101/2022.03.16.484584v1.full)
 
+[Review by Catherine and Nathan](http://disq.us/p/2od0y0i)
+
 ### April 6
 
 - Shivani Pandey, Anita Qualls
