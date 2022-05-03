@@ -5,7 +5,7 @@ journal: "Nature Chemical Biology"
 pub_date: "2021-12-20"
 image: "/static/img/pub/2021_jayaraman.jpg"
 pmid: "34931064"
-pmcid:
+pmcid: "PMC8810680"
 biorxiv: "2021.04.12.439528"
 pdf: 'http://cdn.fraserlab.com/publications/2021_jayaraman.pdf'
 paired_maps_and_models:

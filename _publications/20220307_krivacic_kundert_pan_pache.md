@@ -5,7 +5,7 @@ journal: "PNAS"
 pub_date: "2022-03-07"
 image: "/static/img/pub/2021_krivacic_kundert_pan_pache.png"
 pmid: "35254891"
-pmcid:
+pmcid: "PMC8931229"
 biorxiv: "2021.07.02.450934"
 biorxiv_version:
 pdf: "http://cdn.fraserlab.com/publications/2022_krivacic_kundert_pan_pache.pdf"
