@@ -5,7 +5,7 @@ journal: eLife
 pub_date: '2022-03-21'
 image: "/static/img/pub/2021_wankowicz.jpg"
 pmid: "35312477"
-pmcid:
+pmcid: 'PMC9084896'
 biorxiv:
 biorxiv_version: "2021.09.21.461269v1"
 pdf: "http://cdn.fraserlab.com/publications/2022_wankowicz.pdf"
