@@ -22,7 +22,7 @@
 #Example Publication
 ---
 title: "Title of article."
-authors: "Surname FM, **Fraser JS.**"
+authors: "Surname FM, **Fraser JS**."
 journal: "Journal Name"
 pub_date: "YYYY-MM-DD" #Date of journal publication, NOT BIORXIV UPLOAD
 image: "/static/img/pub/YYYY_SurnameFirstAuthor.png" #Minimum dimensions of
