@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+PRODID:-//54.244.152.204//NONSGML iCalcreator 2.6//
+VERSION:2.0
+BEGIN:VEVENT
+UID:840189061@scheduling
+DTSTAMP:20220608T181134Z
+DESCRIPTION:Client time zone: America/Los_Angeles\nName: Roberto Efraín Día
+ z\nPhone: \nEmail: roberto.diaz@ucsf.edu\n\nLocation\n============\nZoom\n
+ \nChange Appointment: https://app.acuityscheduling.com/schedule.php?owner=
+ 19133012&action=appt&id%5B%5D=57aadaee0ea9d4efcc50e9cf1c9e80ef\n\n\n\nThan
+ k you for scheduling an appointment. Dr. D'Anne looks forward to meeting y
+ ou at your appointment.\n
+DTSTART:20220627T220000Z
+DTEND:20220627T225000Z
+LOCATION:Zoom
+SUMMARY:UCSF Graduate Division: Advising Appointment with Dr. D'Anne Duncan
+  (Dr. D'Anne Duncan)
+END:VEVENT
+END:VCALENDAR
