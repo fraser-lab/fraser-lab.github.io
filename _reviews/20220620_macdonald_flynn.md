@@ -8,6 +8,7 @@ abstract: ""
 
 peer-review:
 - biorxiv_version: "2022.01.26.477860v2" #biorxiv versioned ID, example "5533316v1"
+  trip: "2"
 
 published:
 - pmid: "35723575"

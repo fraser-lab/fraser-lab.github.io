@@ -77,6 +77,11 @@ and in the <a href="https://fraserlab.com/peer_review/" target="_blank" alt = "P
 				<li>Review: <a href="http://disq.us/p/{{record.disqus}}" target="_blank" alt = "link to review as Disqus comment: {{record.disqus}}">{{record.disqus}}</a></li>
 				{% endif %}
 
+				<!--TRiP Review-->
+				{% if record.trip %}
+				<li>Reviewer: <a href="http://www.biorxiv.org/content/10.1101/{{record.biorxiv_version}}#review" target="_blank" alt = "link to review as TRiP comment: {{record.trip}}">#{{record.trip}}</a>
+				{% endif %}
+
 				<!--zenodo record-->
 				{% if record.zenodo %}
 				<li>Zenodo Record: <a href="https://www.zenodo.org/record/{{record.zenodo}}" target="_blank" alt = "link to review as zenodo PDF: {{record.zenodo}}">{{record.zenodo}}</a></li>

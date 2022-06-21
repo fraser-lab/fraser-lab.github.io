@@ -9,6 +9,7 @@ abstract: "optional one-sentence abstract"
 peer-review:
 -   biorxiv_version: "" #biorxiv versioned ID, example "5533316v1"
   disqus: "" #Link to Public Review, ID only
+  trip: "" #link to TRiP review, Reviewer ID only, example Reviewer #2 is "2"
   biorxiv: "" #biorxiv ID, example "5533316"
   arxiv: "" #arxiv ID, example "5533316"
   chemrxiv: "" #Chemrxiv ID, example "5533316"
