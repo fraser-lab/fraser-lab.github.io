@@ -1,10 +1,9 @@
 ---
-published: false
 title: "Sequence- and chemical specificity define the functional landscape of intrinsically disordered regions"
 date: "2022-03-02" #Date of Public Review, then update to Date of Publication
 authors: "Langstein-Skora I, Schmid A, Emenecker RJ, Richardson MOG, Götz MJ, Payer SK, Korber P, Holehouse AS"
 reviewers: "Chen D, San Felipe CJ, Fraser JS"
-image: "/static/img/review/2022_langstein-skora.jpg"
+image: "/static/img/reviews/2022_langstein-skora.png"
 abstract: ""
 
 peer-review:
