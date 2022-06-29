@@ -1,6 +1,6 @@
 ---
 title: "Structure-based inhibitor optimization for the Nsp3 Macrodomain of SARS-CoV-2."
-authors: "Gahbauer S, Correy GJ, Schuller M, Ferla MP, Doruk YU, Rachman M, Wu T, Diolaiti M, Wang S, Neitz RJ, Fearon D, Radchenko D, Moroz Y, Irwin JJ, Renslo AR, Taylor JC, Gestwicki JE, von Delft F, Ashworth A, Ahel I, Shoichet BK, **Fraser JS**."
+authors: "Gahbauer S&#42;, **Correy GJ&#42;**, Schuller M, Ferla MP, Doruk YU, Rachman M, Wu T, Diolaiti M, Wang S, Neitz RJ, Fearon D, Radchenko D, Moroz Y, Irwin JJ, Renslo AR, Taylor JC, Gestwicki JE, von Delft F, Ashworth A, Ahel I, Shoichet BK, **Fraser JS**."
 journal: #"Journal Name"
 pub_date: #"YYYY-MM-DD" #Date of journal publication, NOT BIORXIV UPLOAD
 image: "/static/img/pub/2022_gahbauer_correy.gif" #Minimum dimensions of
@@ -176,7 +176,8 @@ links:
     url: https://ivanahellab.wixsite.com/ivan-ahel-lab
   - name: Shoichet lab @ UC San Francisco
     url: https://shoichetlab.compbio.ucsf.edu/
-
   - name: "Celebratory Tweetstorm from Stefan Gahbauer"
     url: "https://twitter.com/GahbauerStefan/status/1541924168785993729?s=20&t=ndC0oqOLIpoPvhr-i9Yzxg"
+  - name: "Celebratory Tweetstorm from James Fraser"
+    url: "https://twitter.com/fraser_lab/status/1541922309144924161?s=20&t=paHO04d0s0YJTBdMItZESw"
 ---
