@@ -274,6 +274,10 @@ links:
   url: https://fragalysis.diamond.ac.uk/viewer/react/preview/target/mArh
 - name: QBI Coronavirus Research Group @ UC San Francisco
   url: https://qbi.ucsf.edu/COVID-19
+- name: von Delft lab @ University of Oxford
+  url: https://www.ndm.ox.ac.uk/team/frank-von-delft
+- name: Ahel lab @ University of Oxford
+  url: https://ivanahellab.wixsite.com/ivan-ahel-lab
 - name: Celebratory Tweetstorm from James Fraser
   url: https://twitter.com/fraser_lab/status/1281258107578937345
 - name: Celebratory Tweetstorm from Mike Thompson

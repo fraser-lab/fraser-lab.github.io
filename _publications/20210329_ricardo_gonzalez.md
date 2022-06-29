@@ -1,7 +1,7 @@
 ---
 title: "Type 2 innate immunity regulates hair follicle homeostasis to control Demodex pathosymbionts."
 authors: "Ricardo-Gonzalez RR, Kotas ME, Tenvooren I, Marquez DM, Fassett MS, Lee J, Daniel SG, Bittinger K, **Díaz RE, Fraser JS**, Ansel KM, Spitzer MH, Liang HE, and Locksley RM."
-journal:
+journal: "Immunity"
 pub_date:
 image: "/static/img/pub/2021_ricardo_gonzalez.png"
 pmid:
