@@ -1,4 +1,5 @@
 ---
+published: false
 title: "Structure-based inhibitor optimization for the Nsp3 Macrodomain of SARS-CoV-2."
 authors: "Gahbauer S, Correy GJ, Schuller M, Ferla MP, Doruk YU, Rachman M, Wu T, Diolaiti M, Wang S, Neitz RJ, Fearon D, Radchenko D, Moroz Y, Irwin JJ, Renslo AR, Taylor JC, Gestwicki JE, von Delft F, Ashworth A, Ahel I, Shoichet BK, **Fraser JS**."
 journal: #"Journal Name"
