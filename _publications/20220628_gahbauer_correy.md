@@ -4,7 +4,7 @@ title: "Structure-based inhibitor optimization for the Nsp3 Macrodomain of SARS-
 authors: "Gahbauer S, Correy GJ, Schuller M, Ferla MP, Doruk YU, Rachman M, Wu T, Diolaiti M, Wang S, Neitz RJ, Fearon D, Radchenko D, Moroz Y, Irwin JJ, Renslo AR, Taylor JC, Gestwicki JE, von Delft F, Ashworth A, Ahel I, Shoichet BK, **Fraser JS**."
 journal: #"Journal Name"
 pub_date: #"YYYY-MM-DD" #Date of journal publication, NOT BIORXIV UPLOAD
-image: "/static/img/pub/2022_gahbauer_correy.png" #Minimum dimensions of
+image: "/static/img/pub/2022_gahbauer_correy.gif" #Minimum dimensions of
 pmid: #"########"
 pmcid: #"PMC#######"
 biorxiv_version: "2022.06.27.497816v1"
