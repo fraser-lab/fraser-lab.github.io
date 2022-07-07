@@ -1,6 +1,7 @@
 ---
-title: Clone this website!
-author: Ben Barad and James Fraser
+published: false
+title: Clone this website! (updated!)
+author: Robbie Díaz
 layout: post
 group: news
 ---
