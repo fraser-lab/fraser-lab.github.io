@@ -3,7 +3,7 @@ title: "The evolutionary history of class I aminoacyl-tRNA synthetases indicates
 date: "2022-07-11" #Date of Public Review, then update to Date of Publication
 authors: "Jabłońska J, Chun-Chen Y, Longo LM, Tawfik DS, Gruic-Sovulj I"
 reviewers: "Ravikumar A, Fraser JS"
-image: "/static/img/reviews/2022_jabłońska.jpg"
+image: "/static/img/reviews/2022_jablonska.jpg"
 abstract:
 peer-review:
 - biorxiv_version: "2022.06.09.495570v2" #biorxiv versioned ID, example "5533316v1"
