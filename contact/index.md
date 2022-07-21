@@ -34,11 +34,11 @@ group: contact
 
 <div class="col-md-4">
 
-  <h4> Hilary Smith Mahon</h4>
-  Administrative Assistant to Dr. James Fraser and others<br>
+  <h4> Steven Ha</h4>
+  Faculty Support Analyst to Dr. James Fraser and others<br>
   [Department of Bioengineering and Therapeutic Sciences](http://bts.ucsf.edu)<br>
-  email: Hilary.SmithMahon (at) ucsf.edu<br>
-  tel: 415 476-1947 <br>
+  email: Steven.Ha (at) ucsf.edu<br>
+  tel: 415 502-8084 <br>
 
 </div>
 
