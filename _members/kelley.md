@@ -1,11 +1,11 @@
 ---
 name: Alexis Kelley
 startdate: [2021-06-14]
-enddate: []
+enddate: [2022-07-31]
 image: /static/img/members/kelley.jpg #365 x 365 pixels, 72 dpi
 altimage: /static/img/members/kelley_pb.jpg #365 x 365 pixels, 72 dpi
-position: "[PROPEL](https://propel.ucsf.edu) post-bac researcher"
-#subsequent:  update once you become an alumnus
+position: "[PROPEL](https://propel.ucsf.edu) Scholar"
+subsequent: Graduate Student - Johns Hopkins University
 pronouns: she/her/hers
 email: alexiskelley1207 (at) gmail.com #Preferred public email address
 scholar:
