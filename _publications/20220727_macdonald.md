@@ -8,9 +8,9 @@ pmid: #"########"
 pmcid: #"PMC#######"
 biorxiv_version: "2022.07.26.501589v1"
 pdf: #"http://cdn.fraserlab.com/publications/YYYY_SurnameFirstAuthor.pdf"
-<!-- github:
+github:
   - description: "DIMPLE"
-    url: "coywil26/DIMPLE" -->
+    url: "coywil26/DIMPLE"
 links:
   - name: "Celebratory Tweetstorm from Willow Coyote-Maestas"
     url: "https://twitter.com/willowcoyote/status/1552335738372378625"
