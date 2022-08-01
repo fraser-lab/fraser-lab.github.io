@@ -11,7 +11,7 @@ email: christian.macdonald (at) ucsf.edu #Preferred public email address
 scholar: pyTBwS0AAAAJ #Google Scholar User ID
 #website:
 UCSF: christian.macdonald
-#twitter: username
+twitter: protostasis
 #linkedin: username
 #github: username
 orcid: 0000-0002-0201-8832

@@ -22,5 +22,6 @@ links:
     url: https://twitter.com/VijayJayaraman5/status/1381997501969018880?s=20
   - name: News and Views - A complex struggle for direction
     url: "http://cdn.fraserlab.com/publications/2021_hartmann.pdf"
-
+  - name: News and Views - The Bacillus subtilis glutamate anti-metabolon
+    url: "http://cdn.fraserlab.com/publications/2022_fernie_zhang.pdf"
 ---
