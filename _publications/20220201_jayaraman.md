@@ -23,5 +23,5 @@ links:
   - name: News and Views - A complex struggle for direction
     url: "http://cdn.fraserlab.com/publications/2021_hartmann.pdf"
   - name: News and Views - The Bacillus subtilis glutamate anti-metabolon
-    url: "https://www.nature.com/articles/s42255-022-00534-8"
+    url: "http://cdn.fraserlab.com/publications/2022_fernie_zhang.pdf"
 ---
