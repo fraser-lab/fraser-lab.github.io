@@ -5,7 +5,7 @@ group: courses
 permalink: /inquiry/
 ---
 
-# Inquiry Immersion 2023 -  ALPHAFOLD: Personal Genome Interpretation in the post-AlphaFold world #
+# Inquiry Immersion 2023 - DRUG DESIGN: Personal Genome Interpretation in the post-AlphaFold world #
 
 **INSTRUCTORS**
 
@@ -38,7 +38,7 @@ Alphafold is one of the buzziest breakthroughs of recent years. What does it mea
 
 **Tuesday Jan 10 - 3:00-4:45PM**
 
-- James Fraser: 
+- 
 
 **Wednesday Jan 11 - 3:00-4:45PM**
 
@@ -51,6 +51,7 @@ Alphafold is one of the buzziest breakthroughs of recent years. What does it mea
 **Friday Jan 13 - 3:00-4:45PM**
 
 - 
+
 **Tuesday Jan 17 - 3:00-4:45PM**
 
 - 

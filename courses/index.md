@@ -19,13 +19,14 @@ Fluency in multiple biophysical methods is often critical for answering mechanis
 
 
 
-## Inquiry Immersion -  DRUG DESIGN: Why is it so hard to design new small molecule drugs?
+## Inquiry Immersion -  DRUG DESIGN: Personal Genome Interpretation in the post-AlphaFold world
 The goal for Inquiry Immersion and the interprofessional minicourses is to help first year students in the healthcare professions shift their conception of medicine as a series of facts to a vision of medical practice as consistent engagement with an ever-evolving and imperfect body of knowledge.  Focused minicourses offer students the chance to take a deep dive into a controversy or dilemma and explore the boundaries of existing research and scholarship with expert researchers.
 
-Structure based drug design promises to revolutionize drug discovery, yet despite decades of promise, progress remains intermittent. This course will give students an appreciation for the experimental and computational advances that have led to this optimism, while also pointing out the limitations that currently prevent completely unattended design.
+Alphafold is one of the buzziest breakthroughs of recent years. What does it mean to predict a structure of a protein and how is that useful for: 1) designing new drugs and 2) interpreting genomes?
 - [2020 - Drug Design Inquiry minicourse](/courses/inquiry_2020/)
 - [2021 - Drug Design Inquiry minicourse](/courses/inquiry_2021/)
-- [2022 - Drug Design Inquiry minicourse](/inquiry/)
+- [2022 - Drug Design Inquiry minicourse](/courses/inquiry_2022/)
+- [2023 - Drug Design Inquiry minicourse](/inquiry/)
 
 
 

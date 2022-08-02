@@ -2,7 +2,6 @@
 title: Inquiry Immersion 2022
 layout: default
 group: courses
-permalink: /inquiry/
 ---
 
 # Inquiry Immersion 2022 -  DRUG DESIGN: Why is it so hard to design new small molecule drugs? #
