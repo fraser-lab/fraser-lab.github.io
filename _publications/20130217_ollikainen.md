@@ -1,5 +1,5 @@
 ---
-title: "Flexible Backbone Sampling Methods to Model and Design Protein Alternative Conformations."
+title: "Flexible backbone sampling methods to model and design protein alternative conformations"
 authors: "Ollikainen N, Smith CA, **Fraser JS**, Kortemme T."
 journal: 'Methods in Enzymology'
 pub_date: '2013-02-17'

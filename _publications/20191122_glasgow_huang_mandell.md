@@ -1,5 +1,5 @@
 ---
-title: "Computational design of a modular protein sense/response system."
+title: "Computational design of a modular protein sense/response system"
 authors: "Glasgow AA&#42;, Huang Y&#42;, Mandell DJ&#42;, **Thompson M**, Ritterson R, Loshbaugh AL, **Pellegrino J**, Krivacic C, Pache RA, Barlow KA, Ollikainen N, Jeon D, Kelly MJS, **Fraser JS**, Kortemme T."
 journal: 'Science'
 pub_date: '2019-11-22'
