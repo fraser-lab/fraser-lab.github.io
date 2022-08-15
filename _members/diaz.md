@@ -11,7 +11,6 @@ pronouns: he/él
 email: roberto.diaz (at) ucsf.edu
 scholar: L_OCeG4AAAAJ
 website: https://rediaz.science/
-UCSF:
 twitter: robbiediaz_
 linkedin: rediaz111
 github: rediaz111
