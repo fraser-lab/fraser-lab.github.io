@@ -1,26 +1,20 @@
 ---
-name: D. John Lee, Ph.D. 
-timeline_name: John
-startdate: [2017-11-01]
-enddate: [2021-08-01]
-image: /static/img/members/Lee.jpg
-altimage: /static/img/members/Lee_pb.jpg
-position: Postdoctoral Fellow ([F32 NRSA](https://grants.nih.gov/grants/guide/contacts/parent_F32.html))
-subsequent:  Electron Microscopy Core Manager @ Altos Labs
-pronouns: he/him/his
-email: djohnlee (at) fraserlab.com
-scholar: vJBNuDUAAAAJ
-website:
-UCSF: john.lee.2
-twitter:
-linkedin: djohnlee
-github: djohnlee
-orcid: 0000-0002-5132-3243
-description: "John earned his Ph.D. working with [Dr. Michael Burkart](http://burkartlab.ucsd.edu) at UC San Diego. His primary focus was the application of protein NMR to the carrier proteins central to fatty acid, polyketide, and non-ribosomal peptide synthetic pathways.
-
-
-In the Fraser lab, John uses structural and computational techniques to explore structural biology and study minor conformational states.
-
-
-John is supported by a Kirschstein NRSA (F32) fellowship from [NIH/NIAID](https://www.niaid.nih.gov/)."
+name: Sonya Lee
+timeline_name: #Fill this out if you'd like your name to appear differently on the Timeline.
+startdate: [2022-09-01]
+enddate: []
+image: /static/img/members/slee.jpg #365 x 365 pixels, 72 dpi
+altimage: /static/img/members/slee_pb.jpg #365 x 365 pixels, 72 dpi
+position: Junior Specialist
+#subsequent:  update once you become an alumnus
+pronouns: they/them/theirs #personal pronouns
+email: username (at) domain.com #Preferred public email address
+scholar: XXXXXXXXXXXX #Google Scholar User ID
+website: https://website.com/
+UCSF: XXXXXXXX #UCSF Profile ID - Employees only
+twitter: username
+linkedin: username
+github: username
+orcid: XXXX-XXXX-XXXX-XXXX
+description: ""
 ---

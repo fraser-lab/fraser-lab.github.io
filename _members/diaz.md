@@ -24,5 +24,5 @@ In the Fraser lab, Robbie is interested in utilizing biochemical and structural 
 When he's not in lab, Robbie is promoting DEI efforts, reading books (more often tweets), or enjoying a San Francisco park.
 
 
-Robbie is supported by graduate fellowships from [NSF](http://www.nsfgrfp.org/) and [HHMI](http://www.hhmi.org/science-education/programs/gilliam-fellowships-advanced-study/), and his cat [Boo the Cat](/pets/#Boo%20the%20Cat)."
+Robbie is supported by graduate fellowships from [NSF](http://www.nsfgrfp.org/) and [HHMI](http://www.hhmi.org/science-education/programs/gilliam-fellowships-advanced-study/), and his cats [Timo the Cat](/pets/#Timo%20the%20Cat) and [Boo the Cat](/pets/#Boo%20the%20Cat)."
 ---
