@@ -1,5 +1,5 @@
 ---
-title: "Structural basis for context-specific inhibition of translation by oxazolidinone antibiotics."
+title: "Structural basis for context-specific inhibition of translation by oxazolidinone antibiotics"
 authors: "Tsai K&#42;, Stojković V&#42;, **Lee DJ&#42;, Young ID**, Szal T, Vazquez-Laslop N, Mankin AS, **Fraser JS**, Fujimori DG."
 journal: "Nature Structural and Molecular Biology"
 pub_date: "2022-02-14"

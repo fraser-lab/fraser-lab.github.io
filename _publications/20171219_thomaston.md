@@ -1,5 +1,5 @@
 ---
-title: "XFEL structures of the influenza M2 proton channel: Room temperature water networks and insights into proton conduction."
+title: "XFEL structures of the influenza M2 proton channel: Room temperature water networks and insights into proton conduction"
 authors: "Thomaston JL, **Woldeyes RA**, Nakane T, Yamashita A, Tanaka T, Koiwai K, Brewster AS, **Barad BA**, Chen Y, Lemmin T, Uervirojnangkoorn M, Arima T, Kobayashi J, Masuda T, Suzuki M, Sugahara M, Sauter NK, Tanaka R, Nureki O, Tono K, Joti Y, Nango E, Iwata S, Yumoto F, **Fraser JS**, DeGrado WF."
 journal: 'PNAS'
 pub_date: '2017-12-19'

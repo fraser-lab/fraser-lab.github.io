@@ -1,6 +1,6 @@
 ---
 name: Boo the Cat
-human: "[Robbie](/members/#Roberto%20Efraín%20(Robbie)%20Díaz)"
+human: "[Roberto Efraín (Robbie) Díaz](/members/#Roberto%20Efraín%20(Robbie)%20Díaz)"
 adoptiondate: 2021-01-09
 image: /static/img/pets/BTC.jpg
 altimage: /static/img/pets/BTC_pb.jpg

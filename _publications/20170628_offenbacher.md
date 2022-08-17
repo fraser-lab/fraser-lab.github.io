@@ -1,5 +1,5 @@
 ---
-title: "Hydrogen–Deuterium Exchange of Lipoxygenase Uncovers a Relationship between Distal, Solvent Exposed Protein Motions and the Thermal Activation Barrier for Catalytic Proton-Coupled Electron Tunneling. "
+title: "Hydrogen–Deuterium exchange of Lipoxygenase uncovers a relationship between distal, solvent exposed protein motions and the thermal activation barrier for catalytic proton-coupled electron tunneling"
 authors: "Offenbacher AR , Hu S, **Poss EM**, Carr CAM , Scouras AD, Prigozhin DM, Iavarone AT, Palla A, Alber T, **Fraser JS**, Klinman JP."
 journal: 'ACS Central Science'
 pub_date: '2017-06-28'

@@ -21,5 +21,5 @@ description: "Daphne graduated from UCLA with a degree in Biophysics. As an unde
 She discovered her interest in structural biology when she spent a summer working under [Dr. Kliment Verba](https://verbalab.ucsf.edu) at UCSF, and will pursue structural biology-related projects as a member of the Fraser lab.
 
 
-Outside of lab, Daphne enjoys exploring San Francisco, playing video games, and reading. "
+Outside of lab, Daphne enjoys exploring San Francisco, playing video games, reading, and playing with her cat [Lilly](/pets/#Lilly)."
 ---

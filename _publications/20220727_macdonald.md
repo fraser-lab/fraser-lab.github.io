@@ -1,5 +1,5 @@
 ---
-title: "Deep Insertion, Deletion, and Missense Mutation Libraries for Exploring Protein Variation in Evolution, Disease, and Biology."
+title: "Deep insertion, deletion, and missense mutation libraries for exploring protein variation in evolution, disease, and biology"
 authors: "**Macdonald CB**, Nedrud D, Rockefeller Grimes P, Trinidad D, **Fraser JS**, Coyote-Maestas W."
 journal: #"Journal Name"
 pub_date: #"YYYY-MM-DD" #Date of journal publication, NOT BIORXIV UPLOAD

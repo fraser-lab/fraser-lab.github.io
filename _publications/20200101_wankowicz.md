@@ -1,5 +1,5 @@
 ---
-title: "Ensemble refinement produces consistent R-free values but smaller ensemble sizes than previously reported."
+title: "Ensemble refinement produces consistent R-free values but smaller ensemble sizes than previously reported"
 authors: "**Wankowicz SA, Fraser JS.**"
 journal: 'Computational Crystallography Newsletter'
 pub_date: '2020-01-01'

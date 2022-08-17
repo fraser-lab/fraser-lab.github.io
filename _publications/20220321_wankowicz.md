@@ -1,5 +1,5 @@
 ---
-title: "Ligand binding remodels protein side chain conformational heterogeneity."
+title: "Ligand binding remodels protein side chain conformational heterogeneity"
 authors: "**Wankowicz SA**, de Oliveira SHP, **Hogan DW**, van den Bedem H, **Fraser JS**."
 journal: eLife
 pub_date: '2022-03-21'
