@@ -10,7 +10,7 @@ peer-review:
 - biorxiv_version: "2022.04.08.487606v1" #biorxiv versioned ID, example "5533316v1"
   disqus: "2q5fglq" #Link to Public Review, ID only
 
-published:
-- pmid:
-  <!-- pdf: "http://cdn.fraserlab.com/reviews/YYYY_FirstAuthorLastName" #full cdn link -->
+#published:
+#- pmid:
+#  <!-- pdf: "http://cdn.fraserlab.com/reviews/YYYY_FirstAuthorLastName" #full cdn link -->
 ---
