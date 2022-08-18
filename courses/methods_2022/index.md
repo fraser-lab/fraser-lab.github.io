@@ -72,6 +72,7 @@ This is a team-based class where students work in small groups develop their own
 	- Building up the MTZ (index = frequency and direction, amplitude/intensity, phase) and the concept of Nyquist frequency (why pixel size, changing values across pixels, and maximum resolution are related in EM)
 	- [interactive website used in class for demo](http://www.jezzamon.com/fourier/) 
 	- [sin wave grapher](https://www.desmos.com/calculator/w9jrdpvsmk)	
+	- [another cool fourier thing](https://www.tomasboril.cz/fourierseries3d/en/)
 - [Aeronabs](https://science.sciencemag.org/content/early/2020/11/04/science.abe3255.long) and [What Aashish's miniquals might look like](http://cdn.fraserlab.com/courses/methods/20210215_MacroMethods.pdf) (AM)
 	- Review: [Dynamic personalities of proteins](https://www.nature.com/articles/nature06522)
 
