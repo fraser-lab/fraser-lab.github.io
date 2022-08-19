@@ -3,7 +3,7 @@ title: "Cryo-EM structure and B-factor refinement with ensemble representation"
 date: "2022-08-18" #Date of Public Review, then update to Date of Publication
 authors: "Cragnolini T,  Beton J,  Topf M"
 reviewers: "Wankowicz S, Fraser JS"
-image: "/static/img/reviews/2022_Cragnolini.jepg"
+image: "/static/img/reviews/2022_Cragnolini.jpeg"
 abstract:
 
 peer-review:
