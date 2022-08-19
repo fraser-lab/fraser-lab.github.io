@@ -87,3 +87,84 @@ Our goal is to provide an environment for continued learning, critical discussio
 - Estimate how much time you are spending on DEIJ work compared to others. Take note of who shows up to meetings, comes up with ideas, and executes those ideas.
 - Increase the importance of service work, specifically DEIJ work, in tenure and promotion decisions.
 - Provide material resources, such as hiring full-time staff or providing money for consultants, to implement DEIJ projects or initiatives.
+
+
+
+
+<!-- **June 10th, 2022 – Examining the STEM Pipeline Metaphor**
+
+
+**Discussion Leader:** [Christian Macdonald](/members/#Christian%20Macdonald)
+
+
+**Article:** Reimagining the Pipeline: Advancing STEM Diversity, Persistence, and Success.
+Allen-Ramdial S.A.A, & Campbell A.G. (2014). DOI: [10.1093/biosci/biu076](https://doi.org/10.1093/biosci/biu076)
+
+
+**Article:** Improving Underrepresented Minority Student Persistence in STEM.
+Estrada M, Burnett M, Campbell AG, Campbell P. B, Denetclaw WF, Gutiérrez CG, Hurtado S, John G. H, Matsui J, McGee R, Okpodu CM, Robinson TJ, Summers MF, Werner-Washburne M, & Zavala M. (2016). DOI: [10.1187/cbe.16-01-0038](https://doi.org/10.1187/cbe.16-01-0038)
+
+
+**Article:** Problematizing the STEM Pipeline Metaphor: Is the STEM Pipeline Metaphor Serving Our Students and the STEM Workforce?
+Cannady MA, Greenwald E, and Harris KN. (2014). DOI:[10.1002/sce.21108](https://doi.org/10.1002/sce.21108)
+
+
+**Article:** Planting Equity: Using What We Know to Cultivate Growth as a Plant Biology Community. Montgomery BL. (2020). DOI: [10.1105/tpc.20.00589](https://doi.org/10.1105/tpc.20.00589)
+
+
+**Summary:**
+
+
+**Key Points:**
+
+
+**Open Questions:**
+
+
+**Proposed Action Items:**
+
+
+
+
+**July 15th, 2022 – Implicit Gender Bias**
+
+
+**Discussion Leader:** [Stephanie Wankowicz](/members/#Stephanie%20Wankowicz)
+
+
+**Article:** Committees with Implicit Biases Promote Fewer Women When They Do Not Believe Gender Bias Exists. Régner I, Thinus-Blanc C, Netter A, Schmader T, & Huguet P. (2019). DOI:[10.1038/s41562-019-0686-3](https://doi.org/10.1038/s41562-019-0686-3)
+
+
+**Summary:**
+
+
+**Key Points:**
+-
+
+**Open Questions:**
+
+
+**Proposed Action Items:**
+
+
+
+
+**August 19th, 2022 – Peer Review**
+
+
+**Discussion Leader:** [Roberto Efraín (Robbie) Díaz](/members/#Roberto%20Efraín%20(Robbie)%20Díaz)
+
+
+**Article:** Unprofessional Peer Reviews Disproportionately Harm Underrepresented Groups in STEM. Silbiger NJ, & Stubler AD (2019) DOI: [10.1080/03626784.2018.1468211](https://www.tandfonline.com/doi/full/10.1080/03626784.2018.1468211)
+
+
+**Summary:**
+
+
+**Key Points:**
+
+
+**Open Questions:**
+
+
+**Proposed Action Items:** -->
