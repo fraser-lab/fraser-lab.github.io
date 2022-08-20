@@ -142,9 +142,10 @@ Cannady MA, Greenwald E, and Harris KN. (2014). DOI:[10.1002/sce.21108](https://
 -
 
 **Open Questions:**
+-
 
 
-**Proposed Action Items:**
+**Proposed Action Items:** -->
 
 
 
@@ -165,6 +166,10 @@ Cannady MA, Greenwald E, and Harris KN. (2014). DOI:[10.1002/sce.21108](https://
 
 
 **Open Questions:**
+- What interventions are needed to protect learners from retaliation if they participate in open peer review?
+- What role, if any, does the editor have in filtering and sanctioning peer review comments?
+- How do we reward reviewers for their service?
+- How do we shift peer review from being journal-specific to manuscript-specific?
 
 
-**Proposed Action Items:** -->
+**Proposed Action Items:**
