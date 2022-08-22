@@ -1,6 +1,6 @@
 ---
 name: Dusty
-human: "[Eric](/members/#Eric%20Greene)"
+human: "[Eric](/members/#Eric%20Greene,%20Ph.D.)"
 adoptiondate: 2021-03-19
 image: /static/img/pets/Dusty.jpg
 altimage: /static/img/pets/Dusty_pb.jpg

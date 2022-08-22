@@ -1,6 +1,6 @@
 ---
 name: Stella
-human: "[Eric](/members/#Eric%20Greene)"
+human: "[Eric](/members/#Eric%20Greene,%20Ph.D.)"
 adoptiondate: 2014-08-19
 image: /static/img/pets/Stella.jpg
 altimage: /static/img/pets/Stella_pb.jpg

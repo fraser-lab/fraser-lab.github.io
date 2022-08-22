@@ -1,6 +1,6 @@
 ---
 name: Bart
-human: "[Eric](/members/#Eric%20Greene)"
+human: "[Eric](/members/#Eric%20Greene,%20Ph.D.)"
 adoptiondate: 2021-03-19
 image: /static/img/pets/Bart.jpg
 altimage: /static/img/pets/Bart_pb.jpg
