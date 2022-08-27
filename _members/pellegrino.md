@@ -1,5 +1,5 @@
 ---
-name: Jenna Pellegrino
+name: Jenna Pellegrino, Ph.D.
 startdate: [2018-06-13]
 enddate: [2022-09-01]
 image: /static/img/members/Pellegrino.jpg
