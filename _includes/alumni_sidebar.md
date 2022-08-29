@@ -13,7 +13,8 @@
 
 <hr>
 <div id = "{{member.name}}" style="padding-top: 60px; margin-top: -60px;">
-<p><strong>{{member.name}}</strong> - <em>{{member.position | markdownify | remove: '<p>' | remove: '</p>' }}</em><br>
+<p><strong>{{member.name}}</strong><br>
+<em>{{member.position | markdownify | remove: '<p>' | remove: '</p>' }}</em><br>
 
 {% if member.pronouns %}
 <em>{{member.pronouns}}</em> <br>

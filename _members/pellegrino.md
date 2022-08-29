@@ -5,7 +5,7 @@ enddate: [2022-09-01]
 image: /static/img/members/Pellegrino.jpg
 altimage: /static/img/members/Pellegrino_pb.jpg
 position: Graduate Student, [Biophysics](https://biophysics.ucsf.edu)
-#subsequent:  update once you become an alumnus
+subsequent: Scientist @ ArrePath
 pronouns: she/her/hers
 email: jenna.pellegrino (at) ucsf.edu
 scholar:
