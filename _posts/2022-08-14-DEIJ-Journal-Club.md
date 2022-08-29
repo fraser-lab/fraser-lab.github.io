@@ -91,7 +91,7 @@ Our goal is to provide an environment for continued learning, critical discussio
 
 
 
-<!-- **June 10th, 2022 – Examining the STEM Pipeline Metaphor**
+**June 10th, 2022 – Examining the STEM Pipeline Metaphor**
 
 
 **Discussion Leader:** [Christian Macdonald](/members/#Christian%20Macdonald)
@@ -112,7 +112,7 @@ Cannady MA, Greenwald E, and Harris KN. (2014). DOI:[10.1002/sce.21108](https://
 **Article:** Planting Equity: Using What We Know to Cultivate Growth as a Plant Biology Community. Montgomery BL. (2020). DOI: [10.1105/tpc.20.00589](https://doi.org/10.1105/tpc.20.00589)
 
 
-**Summary:**
+<!-- **Summary:**
 
 
 **Key Points:**
@@ -121,7 +121,7 @@ Cannady MA, Greenwald E, and Harris KN. (2014). DOI:[10.1002/sce.21108](https://
 **Open Questions:**
 
 
-**Proposed Action Items:**
+**Proposed Action Items:** -->
 
 
 
@@ -134,7 +134,7 @@ Cannady MA, Greenwald E, and Harris KN. (2014). DOI:[10.1002/sce.21108](https://
 
 **Article:** Committees with Implicit Biases Promote Fewer Women When They Do Not Believe Gender Bias Exists. Régner I, Thinus-Blanc C, Netter A, Schmader T, & Huguet P. (2019). DOI:[10.1038/s41562-019-0686-3](https://doi.org/10.1038/s41562-019-0686-3)
 
-
+<!--
 **Summary:**
 
 
@@ -159,7 +159,7 @@ Cannady MA, Greenwald E, and Harris KN. (2014). DOI:[10.1002/sce.21108](https://
 **Article:** Unprofessional Peer Reviews Disproportionately Harm Underrepresented Groups in STEM. Silbiger NJ, & Stubler AD (2019) DOI: [10.1080/03626784.2018.1468211](https://www.tandfonline.com/doi/full/10.1080/03626784.2018.1468211)
 
 
-**Summary:**
+<!-- **Summary:**
 
 
 **Key Points:**
@@ -172,4 +172,4 @@ Cannady MA, Greenwald E, and Harris KN. (2014). DOI:[10.1002/sce.21108](https://
 - How do we shift peer review from being journal-specific to manuscript-specific?
 
 
-**Proposed Action Items:**
+**Proposed Action Items:** -->
