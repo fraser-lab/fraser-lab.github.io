@@ -4,7 +4,7 @@ startdate: [2021-08-03]
 enddate: []
 image: /static/img/members/trinidad.jpg #365 x 365 pixels, 72 dpi
 altimage: /static/img/members/trinidad_pb.jpg  #365 x 365 pixels, 72 dpi
-position: "Affiliate, Graduate Student, [BMS](https://bms.ucsf.edu)"
+position: "Affiliate, Graduate Student, [BMS](https://bms.ucsf.edu) ([F31 NRSA](https://www.nigms.nih.gov/))"
 #subsequent:  update once you become an alumnus
 pronouns: he/him/his #personal pronouns
 email: donovan.trinidad (at) ucsf.edu

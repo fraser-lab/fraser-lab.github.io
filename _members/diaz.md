@@ -5,7 +5,8 @@ startdate: [2018-06-25]
 enddate: []
 image: /static/img/members/Diaz.jpg
 altimage: /static/img/members/Diaz_pb.jpg
-position: Graduate Student, [Tetrad](https://tetrad.ucsf.edu)
+position: "Graduate Student, [Tetrad](https://tetrad.ucsf.edu)<br>
+([NSF GRFP](http://www.nsfgrfp.org/), [HHMI Gilliam Fellow](http://www.hhmi.org/science-education/programs/gilliam-fellowships-advanced-study/))"
 #subsequent:  update once you become an alumnus
 pronouns: he/él
 email: roberto.diaz (at) ucsf.edu
@@ -24,5 +25,5 @@ In the Fraser lab, Robbie is interested in utilizing biochemical and structural 
 When he's not in lab, Robbie is promoting DEI efforts, reading books (more often tweets), or enjoying a San Francisco park.
 
 
-Robbie is supported by graduate fellowships from [NSF](http://www.nsfgrfp.org/) and [HHMI](http://www.hhmi.org/science-education/programs/gilliam-fellowships-advanced-study/), and his cats [Timo the Cat](/pets/#Timo%20the%20Cat) and [Boo the Cat](/pets/#Boo%20the%20Cat)."
+Robbie is supported by graduate fellowships from [NSF](http://www.nsfgrfp.org/) and [HHMI](http://www.hhmi.org/science-education/programs/gilliam-fellowships-advanced-study/), and his cats [Boo the Cat](/pets/#Boo%20the%20Cat) and [Timo the Cat](/pets/#Timo%20the%20Cat)."
 ---

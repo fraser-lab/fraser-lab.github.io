@@ -4,7 +4,7 @@ startdate: [2018-06-13]
 enddate: [2022-09-01]
 image: /static/img/members/Pellegrino.jpg
 altimage: /static/img/members/Pellegrino_pb.jpg
-position: Graduate Student, [Biophysics](https://biophysics.ucsf.edu)
+position: "Graduate Student, [Biophysics](http://biophysics.ucsf.edu) ([NSF GRFP](http://www.nsfgrfp.org/))"
 subsequent: Scientist @ ArrePath
 pronouns: she/her/hers
 email: jenna.pellegrino (at) ucsf.edu
