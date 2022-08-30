@@ -4,7 +4,7 @@ startdate: [2020-08-01]
 enddate: []
 image: /static/img/members/greene.jpg
 altimage: /static/img/members/greene_pb.jpg
-position: Postdoctoral Fellow
+position: Postdoctoral Scholar ([F32 NRSA](https://grants.nih.gov/grants/guide/contacts/parent_F32.html))
 #subsequent: update once you become an alumnus
 pronouns: he/him/his #personal pronouns
 email: Eric.Greene (at) ucsf.edu #Preferred public email address

@@ -4,7 +4,7 @@ startdate: [2014-09-01]
 enddate: [2020-08-01]
 image: /static/img/members/MThompson.jpg
 altimage: /static/img/members/MThompson_pb.jpg
-position: Postdoctoral Fellow ([BioXFEL](https://www.bioxfel.org/education/45-postdoctoral-fellowships), [F32 NRSA](https://grants.nih.gov/grants/guide/contacts/parent_F32.html), [PBBR Fellow](http://pbbr.ucsf.edu/))
+position: Postdoctoral Scholar ([BioXFEL](https://www.bioxfel.org/education/45-postdoctoral-fellowships), [F32 NRSA](https://grants.nih.gov/grants/guide/contacts/parent_F32.html), [PBBR Fellow](http://pbbr.ucsf.edu/))
 subsequent: Assistant Professor @ UC Merced
 pronouns: he/him/his
 email: mct.ucsf (at) gmail.com

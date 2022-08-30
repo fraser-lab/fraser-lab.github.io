@@ -4,7 +4,7 @@ startdate: [2018-07-01]
 enddate: [2019-08-14]
 image: /static/img/members/de_oliveira.jpg
 altimage: /static/img/members/de_oliveira_pb.jpg
-position: Postdoctoral Fellow
+position: Postdoctoral Scholar
 subsequent: Bioinformatics Scientist @ Frontier Medicines
 pronouns: he/him/his
 email: #saulo (at) stanford.edu

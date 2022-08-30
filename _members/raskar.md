@@ -4,7 +4,7 @@ startdate: [2021-06-23]
 enddate: []
 image: /static/img/members/raskar.jpg #365 x 365 pixels, 72 dpi
 altimage: /static/img/members/raskar_pb.jpg #365 x 365 pixels, 72 dpi
-position: Postdoctoral Fellow
+position: Postdoctoral Scholar
 #subsequent:  update once you become an alumnus
 pronouns: #personal pronouns
 email: rtushar61 (at) gmail.com #Preferred public email address

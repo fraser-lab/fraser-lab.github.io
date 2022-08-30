@@ -4,7 +4,7 @@ startdate: [2021-09-01]
 enddate: []
 image: /static/img/members/asthana.jpg #365 x 365 pixels, 72 dpi
 altimage: /static/img/members/asthana_pb.jpg #365 x 365 pixels, 72 dpi
-position: Postdoctoral Fellow
+position: Postdoctoral Scholar
 #subsequent:  update once you become an alumnus
 pronouns: she/her/hers #personal pronouns
 email: pasthana (at) fraserlab.com #Preferred public email address
