@@ -4,12 +4,12 @@ startdate: [2021-09-01]
 enddate: []
 image: /static/img/members/Macdonald.jpg #365 x 365 pixels, 72 dpi
 altimage: /static/img/members/Macdonald_pb.jpg #365 x 365 pixels, 72 dpi
-position: Postdoctoral Fellow
+position: Postdoctoral Scholar
 #subsequent:  update once you become an alumnus
 pronouns: he/him/his
 email: christian.macdonald (at) ucsf.edu #Preferred public email address
 scholar: pyTBwS0AAAAJ #Google Scholar User ID
-#website:
+website: https://odcambc.github.io/
 UCSF: christian.macdonald
 twitter: protostasis
 #linkedin: username
