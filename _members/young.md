@@ -4,17 +4,17 @@ startdate: [2018-08-09]
 enddate: [2022-04-01]
 image: /static/img/members/Young.jpg
 altimage: /static/img/members/Young_pb.jpg
-position: Postdoctoral Scholar ([F32 NRSA](https://grants.nih.gov/grants/guide/contacts/parent_F32.html))
+position: "Postdoctoral Scholar ([F32 NRSA](https://grants.nih.gov/grants/guide/contacts/parent_F32.html))"
 subsequent: Scientist @ Lawrence Berkeley National Laboratory
 pronouns: he/him/his
 email: irisdyoung (at) gmail.com
 scholar: iSv5YCUAAAAJ
-website: https://irisdyoung.github.io/
-UCSF: iris.young
-twitter: irisdyoung
-linkedin: iris-young-1b884a114
-github: irisdyoung
-orcid: 0000-0003-4713-9504
+website: "https://irisdyoung.github.io/"
+UCSF: "iris.young"
+twitter: "irisdyoung"
+linkedin: "iris-young-1b884a114"
+github: "irisdyoung"
+orcid: "0000-0003-4713-9504"
 description: "Iris enjoys working at the interface of structural biology and scientific computing, primarily developing software expanding the capabilities of cutting-edge instrumentation for X-ray diffraction and electron microscopy. He earned his Ph.D. in chemistry from UC Berkeley working with Drs. Junko Yano, Vittal Yachandra and Nick Sauter at Lawrence Berkeley National Laboratory on discovery of the mechanism of water splitting in oxygenic photosynthesis using X-ray free electron laser (XFEL) diffraction. He worked with the Sauter group to develop XFEL diffraction data processing methods, including the cctbx.xfel program for real-time feedback at XFEL experiments, and with the Yano/Yachandra group to solve several of the first high-resolution room temperature structures and the first high-resolution transient state structures of photosystem II, revealing the sequence of changes at the heterometallic cluster that catalyzes oxygen evolution.
 
 
