@@ -56,7 +56,7 @@ Subsequently: {{member.subsequent}} <br>
 
 {% if member.scholar %}
 <a href="http://scholar.google.com"><img class="inline-block mem-icon" src="/static/img/logo/gscholar_logo.svg"></a>
-<a href= "http://scholar.google.com/citations?user={{member.scholar}}"> Scholar Citations </a> <br>
+<a href= "http://scholar.google.com/citations?user={{member.scholar}}"> {% if member.timeline_name %}{{ member.timeline_name }}{% else %}{{ member.name | split: " " | first }}{% endif %}'s Citations </a> <br>
 {% endif %}
 
 {% if member.twitter %}
