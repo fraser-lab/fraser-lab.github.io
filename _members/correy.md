@@ -1,8 +1,7 @@
 ---
 name: Galen Correy, Ph.D.
-startdate: [2019-05-01]
-startdate: [2019-05-01]
-enddate: []
+startdate: [2019-05-01,2022-08-31]
+enddate: [2022-08-31,]
 image: /static/img/members/Correy.jpg
 altimage: /static/img/members/Correy_pb.jpg
 position: Staff Scientist
