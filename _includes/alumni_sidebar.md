@@ -2,7 +2,7 @@
 {% assign sorted = (site.members | sort: "enddate") | reverse %}
 {% for member in sorted %}
 
-{% if member.enddate == empty %}
+{% if member.enddate == empty or member.enddate %}
 {% continue %}
 {% endif %}
 
