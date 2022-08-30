@@ -1,10 +1,12 @@
 ---
 name: Galen Correy, Ph.D.
 startdate: [2019-05-01]
-enddate: []
+startdate: [2019-05-01, 2022-09-01]
+enddate: [2022-08-31, ]
 image: /static/img/members/Correy.jpg
 altimage: /static/img/members/Correy_pb.jpg
-position: Postdoctoral Fellow
+position: Staff Scientist
+timeline_positions: ["Postdoctoral Scholar (2019-2022)", "Staff Scientist (2022-)"]
 #subsequent:  update once you become an alumnus
 pronouns: he/him/his
 email: galen.correy (at) ucsf.edu
