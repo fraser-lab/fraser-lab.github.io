@@ -15,7 +15,7 @@ twitter:
 linkedin:
 github:
 orcid: 0000-0003-1336-0323
-description: "Lena graduated in pharmacy at the Julius-Maximilians-University in Wuerzburg, Germany. During her PhD in biochemistry at the LMU Munich, she focused on the molecular mechanism of chromatin remodeler recruitment in yeast.
+description: "Lena graduated in pharmacy at the Julius-Maximilians-University in Wuerzburg, Germany. During her Ph.D. in biochemistry at the LMU Munich, she focused on the molecular mechanism of chromatin remodeler recruitment in yeast.
 
 
 In the Fraser lab, Lena is responsible for lab management as well as protein purifications and subsequent assays.
