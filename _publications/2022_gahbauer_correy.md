@@ -2,7 +2,7 @@
 title: "Iterative computational design and crystallographic screening identifies potent inhibitors targeting the Nsp3 Macrodomain of SARS-CoV-2"
 authors: "Gahbauer S&#42;, **Correy GJ&#42;**, Schuller M, Ferla MP, Doruk YU, Rachman M, Wu T, Diolaiti M, Wang S, Neitz RJ, Fearon D, Radchenko D, Moroz Y, Irwin JJ, Renslo AR, Taylor JC, Gestwicki JE, von Delft F, Ashworth A, Ahel I, Shoichet BK, **Fraser JS**."
 journal: #"Journal Name"
-pub_date: #"YYYY-MM-DD" #Date of journal publication, NOT BIORXIV UPLOAD
+pub_date: "2022-07-28"
 image: "/static/img/pub/2022_gahbauer_correy.gif" #Minimum dimensions of
 pmid: #"########"
 pmcid: #"PMC#######"
