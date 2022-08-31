@@ -6,7 +6,6 @@ group: publications
 <h1>Publications</h1>
 <div class="container-fluid">
 
-<!-- {% for publication in site.publications reversed %} -->
 {% assign sorted = (site.publications | sort: "pub_date") | reverse %}
 {% for publication in sorted %}
 
