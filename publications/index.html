@@ -6,7 +6,7 @@ group: publications
 <h1>Publications</h1>
 <div class="container-fluid">
 
-{% assign sorted = (site.publications | sort: "pub_date") | reverse %}
+{% assign sorted = site.publications | sort: "pub_date" | reverse %}
 {% for publication in sorted %}
 
 <hr>
@@ -159,6 +159,5 @@ group: publications
 	</ul>
 </div>
 <br>
-{% endfor %}
 {% endfor %}
 </div>
