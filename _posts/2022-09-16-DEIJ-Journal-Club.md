@@ -1,7 +1,7 @@
 ---
 published: False
-title: Fraser Lab DEIJ Journal Club - Peer Review
-author: Roberto Efraín (Robbie) Díaz
+title: Fraser Lab DEIJ Journal Club - Socioeconomic roots of academic faculty
+author: Christian Macdonald
 layout: post
 group: news
 ---
@@ -12,7 +12,7 @@ A group of scientists within the Fraser lab have begun a journal club centered a
 Our goal is to provide an environment for continued learning, critical discussion, and brainstorming action items that individuals and labs can implement. Our discussions and proposed interventions reflect our own opinions based on our personal identities and lived experiences, and may differ from the identities and experiences of others. We will recap our discussions and proposed action items through a series of blog posts, and encourage readers to directly engage with DEIJ practitioners and their scholarship to improve your environment.
 
 
-**Article:** Unprofessional Peer Reviews Disproportionately Harm Underrepresented Groups in STEM. Silbiger NJ, & Stubler AD (2019) DOI: [10.1080/03626784.2018.1468211](https://www.tandfonline.com/doi/full/10.1080/03626784.2018.1468211)
+**Article:** Socioeconomic roots of academic faculty. Morgan AC, LaBerge N, Larremore DB et al. (2022) DOI: [10.1038/s41562-022-01425-4](https://www.nature.com/articles/s41562-022-01425-4)
 
 
 <!-- **Summary:**
