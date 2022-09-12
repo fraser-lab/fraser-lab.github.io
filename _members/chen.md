@@ -4,7 +4,7 @@ startdate: [2021-06-21]
 enddate: []
 image: /static/img/members/chen.jpg #365 x 365 pixels, 72 dpi
 altimage: /static/img/members/chen_pb.jpg #365 x 365 pixels, 72 dpi
-position: Graduate Student, [Biophysics](https://biophysics.ucsf.edu)
+position: Graduate Student, [Biophysics](https://biophysics.ucsf.edu) ([Discovery Fellow](http://support.ucsf.edu/discoveryfellows))
 #subsequent:  update once you become an alumnus
 pronouns: she/her/hers #personal pronouns
 email: daphne.chen (at) ucsf.edu #Preferred public email address
