@@ -4,7 +4,7 @@ startdate: [2021-06-21]
 enddate: []
 image: /static/img/members/chen.jpg #365 x 365 pixels, 72 dpi
 altimage: /static/img/members/chen_pb.jpg #365 x 365 pixels, 72 dpi
-position: Graduate Student, [Biophysics](https://biophysics.ucsf.edu) ([Discovery Fellow](http://support.ucsf.edu/discoveryfellows))
+position: "Graduate Student, [Biophysics](https://biophysics.ucsf.edu) ([Discovery Fellow](https://graduate.ucsf.edu/discovery-fellows-program))"
 #subsequent:  update once you become an alumnus
 pronouns: she/her/hers #personal pronouns
 email: daphne.chen (at) ucsf.edu #Preferred public email address
@@ -21,5 +21,8 @@ description: "Daphne graduated from UCLA with a degree in Biophysics. As an unde
 She discovered her interest in structural biology when she spent a summer working under [Dr. Kliment Verba](https://verbalab.ucsf.edu) at UCSF, and will pursue structural biology-related projects as a member of the Fraser lab.
 
 
-Outside of lab, Daphne enjoys exploring San Francisco, playing video games, reading, and playing with her cat [Lilly](/pets/#Lilly)."
+Outside of lab, Daphne enjoys exploring San Francisco, playing video games, reading, and playing with her cat [Lilly](/pets/#Lilly).
+
+Daphne is supported by a graduate fellowship from the [UCSF Discovery Fellows Program](https://graduate.ucsf.edu/discovery-fellows-program)."
+"
 ---

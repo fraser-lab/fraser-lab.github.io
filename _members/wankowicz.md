@@ -4,7 +4,7 @@ startdate: [2019-06-06]
 enddate: []
 image: /static/img/members/Wankowicz.jpg
 altimage: /static/img/members/Wankowicz_pb.jpg
-position: Graduate Student, [Biophysics](https://biophysics.ucsf.edu) ([NSF GRFP](http://www.nsfgrfp.org/), [Discovery Fellow](http://support.ucsf.edu/discoveryfellows))
+position: "Graduate Student, [Biophysics](https://biophysics.ucsf.edu) ([NSF GRFP](http://www.nsfgrfp.org/), [Discovery Fellow](https://graduate.ucsf.edu/discovery-fellows-program))"
 #subsequent:  update once you become an alumnus
 pronouns: she/her/hers
 email: stephanie.wankowicz (at) ucsf.edu
