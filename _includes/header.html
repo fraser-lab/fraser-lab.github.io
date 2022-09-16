@@ -30,7 +30,7 @@
         </button>
         <div class="navbar-collapse collapse" id="navbarContent">
           <ul class="navbar-nav ml-auto">
-            {% for link in site.data.navlinks %}
+            {% for link in site.data.navigation %}
               {% if page.group == link.group %}
                 <li class = "nav-item active"><a class="nav-link" href="{{link.link}}" alt="{{link.name}}"> {{link.name}}<span class="sr-only">(current)</span></a></li>
               {% else %}
