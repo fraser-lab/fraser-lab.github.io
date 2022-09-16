@@ -33,7 +33,7 @@ _Recently, our lab website has gone through some significant ugprades. These inc
 9. Go into `_data` and do the following:
 	* Replace entries in `members.yml` and `alumni.yml` with your own members and alumni!
 	* Replace or delete `sep.yml` and `visitors.yml` based on your needs - do you have visiting scientists or undergrads/high school students to list?
-	* Update `navlinks.yml` based on your needs - this controls what is in the navbar at the top of each page.
+	* Update `navigation.yml` based on your needs - this controls what is in the navbar at the top of each page.
 	* Replace entries in `publications.yml` with your own publications.
 10. Update the members page photos by changing `_layouts/members.html`. Update the members page sidebar by editing `_includes/alumni_sidebar.html`.
 11. Update the research page at `research/index.md`. Similarly update any other specific pages by editing the `index.md` or `index.html` file in each folder.
