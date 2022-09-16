@@ -3,7 +3,6 @@ title: Fraser Lab Members
 layout: members
 group: members
 ---
-
 <h1>Fraser Lab Members</h1>
 
 The Fraser lab welcomes people of any race, ethnicity, religion, national origin, gender identity, gender expression, caregiver and family commitments, political affiliation, sexual orientation, and eligible age or disability status.<br>
@@ -24,7 +23,7 @@ The Fraser lab welcomes people of any race, ethnicity, religion, national origin
         <div id = "{{member.name}}" class="row" style="padding-top: 60px; margin-top: -60px;">
             <div class="col-sm-4">
                 <img class="img-fluid" src="{{member.image}}" {% if member.altimage %} onmouseover="this.src='{{member.altimage}}';" onmouseout="this.src='{{member.image}}';" {% endif %} alt="{{member.name}}"; width="365"; height="365"><br>
-                <strong>{{member.name}}</strong> <br>
+                <strong><a href="{{ member.url }}">{{ member.name }}</a></strong> <br>
                 {% if member.pronouns %}
                   <em>{{member.pronouns}}</em> <br>
                 {% endif %}
