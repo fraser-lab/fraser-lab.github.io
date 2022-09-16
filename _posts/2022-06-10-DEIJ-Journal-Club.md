@@ -43,19 +43,16 @@ As I was picking the papers for our discussion, I also thought about alternative
 - There is an important distinction between an institution's *culture*, which is essentially the beliefs, policies, and values that guide behavior, and its *climate*, which is the result of the actual implementation of them. An institution may have an unwelcoming or harmful climate while still having a healthy culture, but the pipeline metaphor focuses our attention on policy rather than implementation.
 
 **Open Questions:**
--Is "STEM" a useful category, or is it too broad?
--What sorts of trajectories do "typical" successful scientists follow? What is the definition of “success” in STEM?
--What differentiates "leaky" institutions from others?
--How can we take the useful features of the pipeline metaphor and avoid the harmful ones?
--How does the overall educational landscape influence DEI efforts at the post-secondary levels and beyond?
+- Is "STEM" a useful category, or is it too broad?
+- What sorts of trajectories do "typical" successful scientists follow? What is the definition of “success” in STEM?
+- What differentiates "leaky" institutions from others?
+- How can we take the useful features of the pipeline metaphor and avoid the harmful ones?
+- How does the overall educational landscape influence DEI efforts at the post-secondary levels and beyond?
 
 **Proposed Action Items:**
 We broadly agree with the policies suggested by [Allen-Ramdial et al.] and [Estrada et al.], although they are larger-scale interventions. In particular:
 
 - Engage across institutions. Faculty at minority-serving institutions play essential but often ignored roles in diversifying STEM, and DEI initiatives at research-intensive institutions sometimes only engage with other research-intensive institutions. Programs that connect faculty across institutional boundaries can contribute to diversifying trainee access to career opportunities.
-
 - Focus on aligning culture and climate. Ask how students and trainees feel, and listen to them. A failure of good intentions may be a result of both culture and climate.
-
 - Take faculty involvement in DEI seriously. Effective and long-term DEI efforts are much more useful than broad but shallow activities. Institutions can encourage deep engagement by evaluating faculty DEI work on par with teaching and research.
-
-At an individual level, we found rethinking our metaphors can be a useful exercise. Ask yourself: what sort of environments would I like to create? Are the concepts I deploy sufficient to get there? Are they accurate? Are there alternatives?
+- At an individual level, we found rethinking our metaphors can be a useful exercise. Ask yourself: what sort of environments would I like to create? Are the concepts I deploy sufficient to get there? Are they accurate? Are there alternatives?
