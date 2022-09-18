@@ -1,5 +1,5 @@
 ---
-published: False
+published: false
 name: Sonya Lee
 timeline_name: #Fill this out if you'd like your name to appear differently on the Timeline.
 startdate: [2022-09-01]
@@ -8,14 +8,16 @@ image: /static/img/members/slee.jpg #365 x 365 pixels, 72 dpi
 altimage: /static/img/members/slee_pb.jpg #365 x 365 pixels, 72 dpi
 position: Junior Specialist
 #subsequent:  update once you become an alumnus
-pronouns: they/them/theirs #personal pronouns
-email: username (at) domain.com #Preferred public email address
-scholar: XXXXXXXXXXXX #Google Scholar User ID
-website: https://website.com/
-UCSF: XXXXXXXX #UCSF Profile ID - Employees only
-twitter: username
-linkedin: username
-github: username
-orcid: XXXX-XXXX-XXXX-XXXX
-description: ""
+pronouns: she/her/hers #personal pronouns
+email: sonya.somin.lee (at) gmail.com #Preferred public email address
+scholar:  #Google Scholar User ID
+website:
+UCSF: "026318584" #UCSF Profile ID - Employees only
+twitter:
+linkedin:
+github:
+orcid: "0000-0002-7175-7487"
+description: "Sonya graduated from Williams College with a degree in Chemistry. As an undergraduate, she studied antibiotic resistance mutations in beta-lactamase under Dr. Kathryn Hart.
+
+Outside of the lab, she likes to listen to podcasts and stare into space."
 ---
