@@ -23,7 +23,6 @@
 {% assign start = member.startdate | first | date:"%Y" %}
 {% assign end = member.enddate | last | date:"%Y" %}
 
-
 {% if start == end %}
 {{ start }}<br>
 {% else %}
@@ -35,7 +34,7 @@ Subsequently: {{member.subsequent}} <br>
 {% endif %}
 
 {% if member.email %}
-{% unless member.email contains "ucsf.edu" or "fr" %}
+{% unless member.email contains "ucsf.edu" or "fraserlab" %}
 <em>{{member.email}}</em> <br>
 {% endunless %}
 {% endif %}
@@ -148,15 +147,23 @@ Subsequently: {{student.subsequent}}<br>
 
 <hr>
 <div id = "{{visitor.name}}" style="padding-top: 60px; margin-top: -60px;">
+{% if visitor.current %}
 <p><strong>{{visitor.name}}</strong> - <em>{{visitor.position | markdownify | remove: '<p>' | remove: '</p>' }} from {{visitor.current}}</em><br>
+{% else  %}
+<p><strong>{{visitor.name}}</strong> - <em>{{visitor.position | markdownify | remove: '<p>' | remove: '</p>' }}</em><br>
+{% endif %}
 
 {% assign start = visitor.startdate | first | date:"%Y" %}
 {% assign end = visitor.enddate | last | date:"%Y" %}
 
+{% if end %}
 {% if start == end %}
 {{ start }}<br>
 {% else %}
 {{ start }} - {{ end }}<br>
+{% endif %}
+{% else %}
+{{ start }} - Present<br>
 {% endif %}
 
 {% if visitor.pronouns %}
