@@ -1,11 +1,10 @@
 ---
-published: false
 name: Sonya Lee
 timeline_name: #Fill this out if you'd like your name to appear differently on the Timeline.
 startdate: [2022-09-01]
 enddate: []
 image: /static/img/members/slee.jpg #365 x 365 pixels, 72 dpi
-altimage: /static/img/members/slee_pb.jpg #365 x 365 pixels, 72 dpi
+#altimage: /static/img/members/slee_pb.jpg #365 x 365 pixels, 72 dpi
 position: Junior Specialist
 #subsequent:  update once you become an alumnus
 pronouns: she/her/hers #personal pronouns
@@ -17,7 +16,7 @@ twitter:
 linkedin:
 github:
 orcid: "0000-0002-7175-7487"
-description: "Sonya graduated from Williams College with a degree in Chemistry. As an undergraduate, she studied antibiotic resistance mutations in beta-lactamase under Dr. Kathryn Hart.
+description: "Sonya graduated from Williams College with a degree in Chemistry. As an undergraduate, she studied antibiotic resistance mutations in beta-lactamase under [Dr. Kathryn Hart](https://sites.williams.edu/kmh8/).
 
 Outside of the lab, she likes to listen to podcasts and stare into space."
 ---
