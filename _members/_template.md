@@ -16,5 +16,11 @@ twitter: username
 linkedin: username
 github: username
 orcid: XXXX-XXXX-XXXX-XXXX
-description: ""
+description: "
+1-2 sentences about your prior education and research experience(s).
+
+1-2 sentences about your research project in the Fraser lab.
+
+1-2 sentences about your life outside lab (hobbies, pets, etc.) 
+"
 ---
