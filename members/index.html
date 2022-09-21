@@ -59,7 +59,7 @@ The Fraser lab welcomes people of any race, ethnicity, religion, national origin
                 {% endif %}
             </div>
             <div class="col-sm-8">
-                <p class="text-justify">{{member.description | markdownify}}</p>
+                {{member.description | markdownify}}
             </div>
         </div>
 {% endfor %}
@@ -114,7 +114,7 @@ The Fraser lab welcomes people of any race, ethnicity, religion, national origin
                 {% endif %}
             </div>
             <div class="col-sm-8">
-                <p class="text-justify">{{member.description | markdownify}}</p>
+                {{member.description | markdownify}}
             </div>
         </div>
 {% endfor %}
