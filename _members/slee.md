@@ -4,7 +4,7 @@ timeline_name: #Fill this out if you'd like your name to appear differently on t
 startdate: [2022-09-01]
 enddate: []
 image: /static/img/members/slee.jpg #365 x 365 pixels, 72 dpi
-#altimage: /static/img/members/slee_pb.jpg #365 x 365 pixels, 72 dpi
+altimage: /static/img/members/slee_pb.jpg #365 x 365 pixels, 72 dpi
 position: Junior Specialist
 #subsequent:  update once you become an alumnus
 pronouns: she/her/hers #personal pronouns
