@@ -34,10 +34,10 @@ group: contact
 
 <div class="col-md-4">
 
-  <h4> Steven Ha</h4>
+  <h4> Steve Ha</h4>
   Faculty Support Analyst to Dr. James Fraser and others<br>
   [Department of Bioengineering and Therapeutic Sciences](http://bts.ucsf.edu)<br>
-  email: Steven.Ha (at) ucsf.edu<br>
+  email: Steve.Ha (at) ucsf.edu<br>
   tel: 415 502-8084 <br>
 
 </div>
