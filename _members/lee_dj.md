@@ -3,8 +3,8 @@ name: D. John Lee, Ph.D.
 timeline_name: John
 startdate: [2017-11-01]
 enddate: [2021-08-01]
-image: /static/img/members/djlee.jpg
-altimage: /static/img/members/djlee_pb.jpg
+image: /static/img/members/lee_dj.jpg
+altimage: /static/img/members/lee_dj_pb.jpg
 position: Postdoctoral Scholar ([F32 NRSA](https://grants.nih.gov/grants/guide/contacts/parent_F32.html))
 subsequent:  Electron Microscopy Core Manager @ Altos Labs
 pronouns: he/him/his
