@@ -26,5 +26,4 @@ highlight:
   date: "2020-10-21"
   pmid: "33087865"
   pdf: "http://cdn.fraserlab.com/publications/2020_kundert.pdf"
-  zenodo:
 ---
