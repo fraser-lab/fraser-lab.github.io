@@ -8,7 +8,7 @@ image: "/static/img/reviews/2022_ren.jpg"
 peer-review:
 - biorxiv_version: "2021.09.16.460656v2"
   disqus: "2o2w68k"
-#published:
-#- pmid: ""
-#  pdf: "http://cdn.fraserlab.com/reviews/2022_lubin.pdf" #full cdn link
+published:
+- pmid: "35967979"
+  pdf: "http://cdn.fraserlab.com/reviews/2022_ren.pdf" #full cdn link
 ---
