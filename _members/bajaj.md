@@ -1,4 +1,5 @@
 ---
+published: false
 name: FirstName LastName
 timeline_name: #Fill this out if you'd like your name to appear differently on the Timeline.
 startdate: [YYYY-MM-DD]
@@ -21,6 +22,6 @@ description: "
 
 1-2 sentences about your research project in the Fraser lab.
 
-1-2 sentences about your life outside lab (hobbies, pets, etc.) 
+1-2 sentences about your life outside lab (hobbies, pets, etc.)
 "
 ---
