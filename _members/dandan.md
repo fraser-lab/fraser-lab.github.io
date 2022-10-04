@@ -19,5 +19,8 @@ orcid: "0000-0002-3751-8968"
 description: "Mohamad hails from Southern California where he attended UC Irvine to pursue his B.S. in Biochemistry and Molecular Biology. Here, he researched fruit flies, bacteria and viruses. For his Ph.D. studies in Metabolic Biology, he trained under [Dr. Marc Hellerstein](http://www.hellersteinlab.berkeley.edu/) at UC Berkeley on stable isotope methods and technology combined with mass spectrometry to investigate the fluxes of metabolic pathways in human health and disease.
 
 
-In the Fraser lab, Mohamad is pursuing his postdoctoral studies where he will emerge in biophysics and structural biology to study ribosomal structures of M. tuberculosis using Cryo-EM. For his recreational activities, Mohamad really enjoys going to concerts with his wife and playing guitar."
+In the Fraser lab, Mohamad is pursuing his postdoctoral studies where he will emerge in biophysics and structural biology to study ribosomal structures of M. tuberculosis using Cryo-EM.
+
+
+For his recreational activities, Mohamad really enjoys going to concerts with his wife and playing guitar."
 ---
