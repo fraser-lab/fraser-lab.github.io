@@ -226,10 +226,10 @@ _Weds Nov 13_
 
  - [Slides about Crystal Symmetry](http://cdn.fraserlab.com/courses/methods/2018_Symmetry.pdf)
  - [Box link to ADP images](https://ucsf.box.com/s/i85gxe5prx9z3ov5hdftqgy1skdevca7) - Download
-  - [xia2 summary for ADP](/static/adp/xia2.html)
-    - [ADP mtz](/static/adp/DataFiles/yHSP90_ADP.mtz)
-  - [xia2 summary for APO](/static/apo/xia2.html)
-    - [APO mtz](/static/apo/DataFiles/yHSP90_APO.mtz)
+ - [xia2 summary for APO](/static/courses/apo/xia2.html)
+   - [APO mtz](/static/courses/apo/DataFiles/yHSP90_APO.mtz)
+ - [xia2 summary for ADP](/static/courses/adp/xia2.html)
+   - [ADP mtz](/static/courses/adp/DataFiles/yHSP90_ADP.mtz)
 
 **Week 6 - NMR practical**
 

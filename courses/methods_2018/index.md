@@ -202,10 +202,10 @@ _Mon Nov 19_
 - 10-11:15 AM: X-ray Methods Team Presentation and X-ray data processing: from spots to MTZ (Manglik, Saulo de Oliveira, Michael Thompson)
   - [Slides about Crystal Symmetry](http://cdn.fraserlab.com/courses/methods/2018_Symmetry.pdf)
   - [Box link to ADP images](https://ucsf.box.com/s/i85gxe5prx9z3ov5hdftqgy1skdevca7) - Download
-    - [xia2 summary for APO](/static/apo/xia2.html)
-      - [APO mtz](/static/apo/DataFiles/yHSP90_APO.mtz)
-    - [xia2 summary for ADP](/static/adp/xia2.html)
-      - [ADP mtz](/static/adp/DataFiles/yHSP90_ADP.mtz)
+  - [xia2 summary for APO](/static/courses/apo/xia2.html)
+    - [APO mtz](/static/courses/apo/DataFiles/yHSP90_APO.mtz)
+  - [xia2 summary for ADP](/static/courses/adp/xia2.html)
+    - [ADP mtz](/static/courses/adp/DataFiles/yHSP90_ADP.mtz)
 - 11:15 AM-12 PM: X-ray data processing from MTZ to density, molecular replacement, difference maps (Manglik, Saulo de Oliveira, Michael Thompson)
 - 1:00-1:30 PM: X-ray Journal Club
   - Aji Palar - [Free R value: a novel statistical quantity for assessing the accuracy of crystal structures](http://cdn.fraserlab.com/courses/methods/1992_brunger.pdf)
