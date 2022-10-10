@@ -17,6 +17,6 @@ highlight:
   authors: "**Michaud JM**, Madani A, **Fraser JS**"
   journal: "Nature Biotechnology"
   date: "2022-10-03"
-  pmid:
+  pmid: "36192635"
   pdf: "http://cdn.fraserlab.com/publications/2022_michaud.pdf"
 ---
