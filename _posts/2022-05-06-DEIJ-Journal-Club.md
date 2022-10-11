@@ -18,7 +18,7 @@ Our goal is to provide an environment for continued learning, critical discussio
 **Article:** Black Scientists Are Not the Door to Diversity. Hayes, CA. DOI: [10.1021/acschemneuro.1c00375](https://pubs.acs.org/doi/10.1021/acschemneuro.1c00375)
 
 
-**Article:** The Burden of Service for Faculty of Color to Achieve Diversity and Inclusion: The Minority Tax. Trejo J. DOI: [10.1091/mbc.E20-08-0567](https://www.molbiolcell.org/doi/10.1091/mbc.E20-08-0567)
+**Article:** The Burden of Service for Faculty of Color to Achieve Diversity and Inclusion: The Minority Tax. Trejo J. DOI: [10.1091/mbc.E20-08-0567](https://pubmed.ncbi.nlm.nih.gov/33253072/)
 
 
 **Summary:** Marginalized people are expected to dismantle oppressive systems that actively disenfranchise them, an expectation known as the Minority Tax. How does this tax impact people at different stages of their career, and how do we combat this expectation?
