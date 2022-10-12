@@ -6,9 +6,9 @@ group: news
 ---
 
 
-![Screenshots of pymol script before and after syntax highlighting](/static/img/pymol/Combined_screenshots.png "Before &after pymol syntax highliging"){: .img-fluid}
+![Screenshots of pymol script before and after syntax highlighting](/static/img/news/Combined_screenshots.png "Before &after pymol syntax highliging"){: .img-fluid}
 
-We write lots of pymol scripts here in the Fraser lab, and to this end I have written a language grammar to allow highlighting of the pymol syntax in `.pml` files in [Sublime Text](https://www.sublimetext.com/) (and any other editor that uses textmate style grammars). It should work with just about any basic syntax that you throw at it, though more capability (for things like for loops) will be added as time goes on. 
+We write lots of pymol scripts here in the Fraser lab, and to this end I have written a language grammar to allow highlighting of the pymol syntax in `.pml` files in [Sublime Text](https://www.sublimetext.com/) (and any other editor that uses textmate style grammars). It should work with just about any basic syntax that you throw at it, though more capability (for things like for loops) will be added as time goes on.
 
 It is publically available for installation through [Package Control](https://sublime.wbond.net/packages/Pymol%20Language), which will automatically update with new releases. You can also get it from [Github](https://github.com/bbarad/pymol_syntax), which will have the most up to date changes between releases (including potential new bugs).
 
