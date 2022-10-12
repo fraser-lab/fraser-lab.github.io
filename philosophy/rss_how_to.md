@@ -1,21 +1,21 @@
 ---
 title: How to use RSS to follow the Scientific Literature
 layout: default
-group: compact
+group: philosophy
 ---
 
-We reject the idea that it is impossible to “stay on top of the literature”. Scanning and reading papers is one of our most important and enjoyable responsibilities as scientists. The backstory is explained in [an older post](https://fraserlab.com/2013/09/28/The-Fraser-Lab-method-of-following-the-scientific-literature/) that editorializes on why this approach is superior to just leveraging twitter, relyiing on emailed tables of contents, or spending a lot of time organizing PDFs in apps like Mendeley. This page serves as a focused and updated “how to” guide on using RSS and efficiently scanning the literature.
+We reject the idea that it is impossible to “stay on top of the literature”. Scanning and reading papers is one of our most important and enjoyable responsibilities as scientists. The backstory is explained in [an older post](https://fraserlab.com/2013/09/28/The-Fraser-Lab-method-of-following-the-scientific-literature/) that editorializes on why this approach is superior to just leveraging twitter, relying on emailed tables of contents, or spending a lot of time organizing PDFs in apps like Mendeley. This page serves as a focused and updated “how to” guide on using RSS and efficiently scanning the literature.
 
 ### The 80-20 theory of the literature
 
-We navigate the literature at different levels and must become comfortable with two things: 1) not progressing the vast majority of articles past each level and 2) abandoning an article in the middle of each level. 
+We navigate the literature at different levels and must become comfortable with two things: 1) not progressing the vast majority of articles past each level and 2) abandoning an article in the middle of each level.
 
 
 * Level 1: reading titles of articles
 * Level 2: reading abstracts
 * Level 3: scanning figures and headings
 * Level 4: reading the article
-* Level 5: studying the article (including reading articles it cites!). 
+* Level 5: studying the article (including reading articles it cites!).
 
 At each stage, aim to progess less than 20% of the articles to the next stage - said another way, aim to reject at least 80% of the articles! Your goal is to only save those that are interesting and to segregate those activities that can be done without much mental engagement (levels 1-2, can be easily done on your phone, for example) from those that require focus (generally 3 and 4 - and most certainly 5 require deeper concentration).
 
@@ -65,7 +65,7 @@ The intial filter of titles relies on RSS. There are many RSS readers. This guid
     * Cell Reports: <http://rss.sciencedirect.com/publication/science/22111247>
     * Molecular Cell: <http://rss.sciencedirect.com/publication/science/10972765>
 
-  * Field specific ones: 
+  * Field specific ones:
     * ActaCrystD: \[add manually by searching in Feedly\]
     * JBiolNMR: <https://link.springer.com/search.rss?facet-content-type=Article&facet-journal-id=10858&channel-name=Journal+of+Biomolecular+NMR>
     * Current opinion in structural biology: <https://rss.sciencedirect.com/publication/science/0959440X>

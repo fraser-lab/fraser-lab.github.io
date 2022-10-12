@@ -13,7 +13,7 @@ As a lab, we are committed to understanding the systemic racism that led to the 
 - We participate in the [SEP high school intern](http://sep.ucsf.edu/hs_programs/high-school-intern-program/) program
 - We have opened up lab meetings and other ‘regularly scheduled events’ to allow for the discussion of recent events, initiated by James Fraser.
 - We begin our lab meetings with a "minute for diversity". We use this time, initiated by Leah Roe, to share something about our backgrounds or a reflection on diversity.
-- We recently established a [lab compact](https://fraserlab.com/compact/), compiled by Jen Michaud, and a lab interview procedure with a rubric, compiled by Jen Michaud, Iris Young, Erin Thompson, Roberto Efraín Díaz, and Galen Correy.
+- We recently established a [lab compact](https://fraserlab.com/philosophy/), compiled by Jen Michaud, and a lab interview procedure with a rubric, compiled by Jen Michaud, Iris Young, Erin Thompson, Roberto Efraín Díaz, and Galen Correy.
 - Roberto Efraín  Díaz initiated a Diversity Equity and Inclusion book club as part of his [Gilliam Fellowship](https://www.hhmi.org/science-education/programs/gilliam-fellowships-advanced-study)
 - We are listening and are committed to continual improvement and sustained action
 

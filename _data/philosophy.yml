@@ -18,7 +18,7 @@
   body: >
     Our motto is “Beer and Tacos”. While our lab culture is not alcohol focused, it represents our mentality. The phrase was first coined by Dayn Perry regarding baseball scouting. You can find the full origin story in this [2016 blog post](/2016/03/16/BeerAndTacos/){:target="_blank"}. In short, “Beer and Tacos” is about finding synergy between 2 or more things especially in cases where they are presented in opposition. For example, we like to publish preprints AND recognize the value of review-coordination and visibility that traditional journals provide while there are labs out there that staunchly choose a side. Similarly, two groups can ponder over whether to go out for a beer or to go out for tacos, but they don’t have to be mutually exclusive. Why fight? Beer and tacos can be enjoyed together. Certainly in the current state of science both routes of publication have their place. We should all be empowered to talk about our work at all times. We work on unique problems and disseminate quickly using preprints as a strategy to avoid the dreaded “scoop” without compromising our research or our ideals. “Beer AND Tacos”. Cryo-EM or X-ray crystallography for protein structure? Both! “Beer AND Tacos”. We find ways to make things work so we get the best of multiple worlds. Or in the words of Dayn Perry, “Why construct an either-or scenario where none need exist?”
 
-    ![Beer and Tacos Acrostic](/static/img/compact/beer_and_tacos_acrostic.png "Beer and Tacos Acrostic!"){: .img-fluid .w-75 p-3 .mx-auto .d-block}
+    ![Beer and Tacos Acrostic](/static/img/philosophy/beer_and_tacos_acrostic.png "Beer and Tacos Acrostic!"){: .img-fluid .w-75 p-3 .mx-auto .d-block}
 
     We’ve used our motto to frame what we value. The lab represents a diverse group of students and professionals with respect to race/ethnicity, gender identity, sexuality, nationality, religion, political affiliation, caregiver and family commitments, and beyond. We strive to create a welcoming environment for all people, including underrepresented groups. As an advisor, I have the bias of my background, and other people have the bias of their background. I try to understand where you're coming from, along with where I'm coming from, and that shapes how we can work together.
 
@@ -42,7 +42,7 @@
   id: "communication"
   show: False
   body: >
-    Every week, each lab member has a one-on-one meeting with me to talk about current progress, issues, etc. To make the most of these meetings I request that you make an agenda and send it to me in advance of our meeting. In addition, my door is always open, and my mentality is that I work for my students and staff. Read these [guidelines](/static/img/compact/UW_ICTR_Expectations.pdf){:target="_blank"} from University of Wisconsin-Madison Institute for Clinical and Translational Research (UW ICTR) on how to make the most out of a mentor/mentee relationship.
+    Every week, each lab member has a one-on-one meeting with me to talk about current progress, issues, etc. To make the most of these meetings I request that you make an agenda and send it to me in advance of our meeting. In addition, my door is always open, and my mentality is that I work for my students and staff. Read these [guidelines](/static/img/philosophy/UW_ICTR_Expectations.pdf){:target="_blank"} from University of Wisconsin-Madison Institute for Clinical and Translational Research (UW ICTR) on how to make the most out of a mentor/mentee relationship.
 
     In addition, the lab and myself are available through a very active [Slack](http://slack.com){:target="_blank"} channel. Slack is a great tool that centralizes all of our communication. In our lab, we have a slack channel for almost everything. The @channel and @person prompts summon the channel or person at any time of the day so people have to be mindful of how people arrange their time especially during nights and weekends. It is a given that people can ignore slack messages outside of normal working hours to preserve their personal time and space. For urgent matters, you should contact people by phone/ text.
 
@@ -101,7 +101,7 @@
         * Add in the protocol’s intro what was changed and why
         * Lab protocols are in the top folder _Fraser Lab. If you create a new protocol that will be useful to anyone else in the lab, add a copy to the folder.
 
-    ![Benchling Folder Organization](/static/img/compact/benchling_example.png "Benchling Folder Organization Example"){: .img-fluid .w-75 p-3 .mx-auto .d-block}
+    ![Benchling Folder Organization](/static/img/philosophy/benchling_example.png "Benchling Folder Organization Example"){: .img-fluid .w-75 p-3 .mx-auto .d-block}
 
     ##### Data Deposition
 
@@ -129,7 +129,7 @@
   id: "literature"
   show: False
   body: >
-    As a scientist, it should be a pleasure to keep up with current literature. We believe should dedicate a few hours each week to scanning and reading new preprints and journal articles - and we recommend a [strategy that leverages RSS feeds](/compact/rss_how_to) to follow the literature. This activity helps increase one's **breadth** of knowledge. In working through these papers, we inevitably end up studying a small number more deeply, which includes scanning and reading the literature cited by that paper. This activity helps increase one's **depth** of knowledge and supplements the project specific-reading we do in preparing for qualifying exams, writing fellowships/grants, and planning projects. Both breadth and depth of understanding are essential and staying on top of the literature using RSS is a gateway to accomplishing both.
+    As a scientist, it should be a pleasure to keep up with current literature. We believe should dedicate a few hours each week to scanning and reading new preprints and journal articles - and we recommend a [strategy that leverages RSS feeds](/philosophy/rss_how_to) to follow the literature. This activity helps increase one's **breadth** of knowledge. In working through these papers, we inevitably end up studying a small number more deeply, which includes scanning and reading the literature cited by that paper. This activity helps increase one's **depth** of knowledge and supplements the project specific-reading we do in preparing for qualifying exams, writing fellowships/grants, and planning projects. Both breadth and depth of understanding are essential and staying on top of the literature using RSS is a gateway to accomplishing both.
 
     Every other week at group meetings, we have a mini journal club where each lab member shares 1 slide and a 60 second summary of an interesting paper they have read. Occasionally, we do journal clubs jointly with other labs to have an in-depth conversation about papers and methods of particular interest. When the journal club focuses on a preprint, we will summarize the discussion and post a public [review](/reviews){:target="_blank"}.
 
@@ -201,7 +201,7 @@
       - the speed and transparency of the publication process
 
 
-    These values represent a change of focus from some traditional ideas of peer review that center on gatekeeping (“does this paper belong in nature?”). We want to write reviews that are constructive, empathetic, and respectful - and we think that this can be done in a way that enhances the rigour of the manuscript.  [Our process for writing reviews](/compact/peer_review_how_to/){:target="_blank"} focuses on advice on reading manuscripts, writing the review, and editing ourselves so that our final reviews obey [FAST (Focused, Appropriate, Specific, Transparent) principles](https://asapbio.org/fast-principles){:target="_blank"} to foster a positive preprint feedback culture.
+    These values represent a change of focus from some traditional ideas of peer review that center on gatekeeping (“does this paper belong in nature?”). We want to write reviews that are constructive, empathetic, and respectful - and we think that this can be done in a way that enhances the rigour of the manuscript.  [Our process for writing reviews](/philosophy/peer_review_how_to/){:target="_blank"} focuses on advice on reading manuscripts, writing the review, and editing ourselves so that our final reviews obey [FAST (Focused, Appropriate, Specific, Transparent) principles](https://asapbio.org/fast-principles){:target="_blank"} to foster a positive preprint feedback culture.
 
     #### Transparency in peer review
 
@@ -209,7 +209,7 @@
 
     #### Peer review as training
 
-    Peer review is also an important training opportunity for lab members in scientific thinking and writing. All lab members who co-review with JF are credited for their contribution to the [review](/reviews){:target="_blank"}. Following [our guidelines for drafting reviews](/compact/peer_review_how_to/){:target="_blank"}, we iteratively revise the review to make sure it is constructive. JF is always happy to look over reviews and if he hasn’t meaningfully contributed, lab members are encouraged to post as solo review authors. We have also run a [course on Peer Review in the Life Sciences](/courses/){:target="_blank"}.
+    Peer review is also an important training opportunity for lab members in scientific thinking and writing. All lab members who co-review with JF are credited for their contribution to the [review](/reviews){:target="_blank"}. Following [our guidelines for drafting reviews](/philosophy/peer_review_how_to/){:target="_blank"}, we iteratively revise the review to make sure it is constructive. JF is always happy to look over reviews and if he hasn’t meaningfully contributed, lab members are encouraged to post as solo review authors. We have also run a [course on Peer Review in the Life Sciences](/courses/){:target="_blank"}.
 
     #### Anonymity in peer review
 
@@ -217,7 +217,7 @@
 
     #### Responding to reviews
 
-    On the other side of the coin, How do we react to our reviews? We try to put ourselves in the shoes of the review. We assume the best intentions and adopt a default state that this offers us an opportunity to clarify the communication of our science. A detailed guide of [how to respond to reviews](/compact/respond_to_reviews_how_to/){:target="_blank"} is also available.
+    On the other side of the coin, How do we react to our reviews? We try to put ourselves in the shoes of the review. We assume the best intentions and adopt a default state that this offers us an opportunity to clarify the communication of our science. A detailed guide of [how to respond to reviews](/philosophy/respond_to_reviews_how_to/){:target="_blank"} is also available.
 
 - title: Mentorship
   id: "mentorship"

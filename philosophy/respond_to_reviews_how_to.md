@@ -1,7 +1,7 @@
 ---
 title: How to Respond to Your Reviews
 layout: default
-group: compact
+group: philosophy
 ---
 
 Prior to composing the response, take a deep breath. The most important thing to have empathy for the reviewer. It is usually our fault that something isn't clear and most of the time, the reviewer isn't out to get us, but rather just confused. Write from the point of view of clarifying what we really mean rather than defending it as written.

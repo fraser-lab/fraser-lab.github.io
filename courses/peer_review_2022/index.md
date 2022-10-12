@@ -56,7 +56,7 @@ After the round of sharing, the Discussion Leaders will present a joint talk sim
  After the group discussion, the co-discussion leaders will edit their review to reflect what emerged in the discussion. The deadline for this "final" review is  May 1st 5PM. The review will be posted (either named or anonymously through James Fraser acting as an "editor") as comments associated with the preprint on BioRxiv or a Zenodo record.
 
 - Writing peer reviews:
-    - [Fraser lab how-to-review](https://fraserlab.com/compact/peer_review_how_to/)
+    - [Fraser lab how-to-review](https://fraserlab.com/philosophy/peer_review_how_to/)
     - [Our lab's public reviews](/reviews)
     - [Advice from Iris Young](https://twitter.com/irisdyoung/status/1560390684489592832)
     - [Peer Review: reviewing as an early career researcher](https://www.blopig.com/blog/2021/03/peer-review-reviewing-as-an-early-career-researcher/)

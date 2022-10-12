@@ -1,7 +1,7 @@
 ---
 title: How to Peer Review
 layout: default
-group: compact
+group: philosophy
 ---
 
 # Reading the paper

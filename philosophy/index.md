@@ -1,7 +1,7 @@
 ---
 title: Fraser Lab Compact, Philosophy, and Resources
 layout: default
-group: compact
+group: philosophy
 ---
 
 {% include carousel.html height="40" unit="%" duration="5" filter="img/members/drawings/members/" controlposition="90%" indicatorposition="90%" %}
@@ -9,7 +9,7 @@ group: compact
 # Lab Compact, Philosophy, and Resources
 
 <div class="accordion" id="accordionCompact">
-{% for item in site.data.compact %}
+{% for item in site.data.philosophy %}
 <!-- Item Block -->
 <div class="card">
 <div class="card-header" id="heading{{item.id}}">
