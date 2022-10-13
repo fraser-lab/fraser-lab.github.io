@@ -11,7 +11,7 @@ pronouns: he/him/his
 email: galen.correy (at) ucsf.edu
 scholar:
 website:
-UCSF: galen.correy
+UCSF: #galen.correy
 twitter:
 linkedin:
 github: gcorrey
