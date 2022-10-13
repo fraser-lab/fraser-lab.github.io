@@ -17,6 +17,4 @@ links:
     url: "https://andersenlab.org/"
   - name: "Gilleard lab @ University of Calgary"
     url: "https://vet.ucalgary.ca/labs/jsgilleard/home"
-  - name: "Celebratory Tweetstorm from First Surname"
-    url: "https://twitter.com/LifeHasOrder/status/1172327493451145218"
 ---
