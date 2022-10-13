@@ -13,7 +13,7 @@ website: https://stephaniewankowicz.github.io/
 UCSF:
 twitter: stephanie_mul
 linkedin: stephanie-mullane-wankowicz-2657a726
-github: stephaniewanko
+github: stephaniewankowicz
 orcid: 0000-0002-4225-7459
 description: "Stephanie graduated from the University of Massachusetts, Amherst with a degree in Biochemistry and Molecular Biology. During undergrad, she performed research on pancreas development under [Dr. Kimberly Tremblay](https://www.vasci.umass.edu/research-faculty/kimberly-d-tremblay). She also performed research on the economics of the Clean Water Act under Dr. Paul Kolkoswki. Subsequently, she worked as a senior research data specialist and a computational biologist at Dana-Farber Cancer Institute and Broad Institute of MIT and Harvard. There, she worked on many genitourinary translational research projects under [Dr. Eliezer Van Allen](https://vanallenlab.dana-farber.org) and [Dr. Joaquim Bellmunt](http://bellmuntoncologia.com).
 
