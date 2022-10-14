@@ -63,6 +63,12 @@ and in the <a href="https://fraserlab.com/peer_review/" target="_blank" alt = "P
 				<li>PREreview.org: <a href="https://www.prereview.org/preprints/{{record.prereview}}" target="_blank" alt = "prereview.org preprint link: {{record.prereview}}">{{record.prereview}}</a></li>
 				{% endif %}
 
+				<!--prereview.org beta version -->
+				{% if record.prereview_beta %}
+				https://.prereview.org//7196581
+				<li>PREreview.org: <a href="https://beta.prereview.org/preprints/{{record.prereview_beta}}" target="_blank" alt = "prereview.org preprint link: {{record.prereview_beta}}">{{record.prereview_beta}}</a></li>
+				{% endif %}
+
 				<!--Chemrxiv-->
 				{% if record.chemrxiv %}
 				<li>ChemRxiv Preprint: <a href=" https://doi.org/10.26434/chemrxiv.{{record.chemrxiv}}" target="_blank" alt = "chemrxiv preprint link: {{record.chemrxiv}}">{{record.chemrxiv}}</a></li>
