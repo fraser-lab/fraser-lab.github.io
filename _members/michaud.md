@@ -1,11 +1,11 @@
 ---
 name: Jen Michaud, Ph.D.
 startdate: [2020-02-13]
-enddate: []
+enddate: #[2022-10-15]
 image: /static/img/members/Michaud.jpg
 altimage: /static/img/members/Michaud_pb.jpg
 position: Staff Scientist
-#subsequent:  update once you become an alumnus
+#subsequent:
 pronouns: she/her/hers
 email: jennifer.michaud (at) ucsf.edu
 scholar: X7mvTacAAAAJ

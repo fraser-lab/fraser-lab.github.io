@@ -23,5 +23,6 @@ She discovered her interest in structural biology when she spent a summer workin
 
 Outside of lab, Daphne enjoys exploring San Francisco, playing video games, reading, and playing with her cat [Lilly](/pets/#Lilly).
 
+
 Daphne is supported by a graduate fellowship from the [UCSF Discovery Fellows Program](https://graduate.ucsf.edu/discovery-fellows-program)."
 ---

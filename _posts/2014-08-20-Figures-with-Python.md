@@ -7,13 +7,13 @@ group: blog
 
 _I originally wrote this article for my [personal website](http://benjaminbarad.com), but I think it is relevant here, so with James's blessing I am crossposting it._
 
-<img class="img-fluid mx-auto d-block" src="/static/img/matplotlib/test_no_title.png" alt="Before updating the matplotlibrc" width="640">
+<img class="img-fluid mx-auto d-block" src="/static/img/news/matplotlib/test_no_title.png" alt="Before updating the matplotlibrc" width="640">
 
 [Python](https://www.python.org/) is currently my programming language of choice. It is the programming language taught by my graduate program to incoming first years, and in my experience it is the most common scripting language used by the scientists around me. The Fraser lab uses python almost exclusively for programming.
 
 Because of this, when I want to work with data my first instinct is to go to python. Python is very effective for importing data, doing all of the manipulations necessary, and performing statistical tests. Ultimately, while I am aware that there are a multitude of [other](http://www.r-project.org/) [tools](http://julialang.org/) available, I would rather stick with python.
 
-In my experience, the most painful part of using python for data analysis is **visualization**. Plotting in python is primarily accomplished via [Matplotlib](http://matplotlib.org/). I find the syntax fairly straightforward, but the default output of the charts leave much to be desired. In particular, I find myself messing with the spacing between the labels and the graph, the size of the labels and title, the linewidth, the colors of the objects, and the visual appearance of the regular tickmarks all to make a single figure look appealing enough to share with my peers. Trying to do this consistently is even more maddening, as it ultimately results in even more boilerplate code. 
+In my experience, the most painful part of using python for data analysis is **visualization**. Plotting in python is primarily accomplished via [Matplotlib](http://matplotlib.org/). I find the syntax fairly straightforward, but the default output of the charts leave much to be desired. In particular, I find myself messing with the spacing between the labels and the graph, the size of the labels and title, the linewidth, the colors of the objects, and the visual appearance of the regular tickmarks all to make a single figure look appealing enough to share with my peers. Trying to do this consistently is even more maddening, as it ultimately results in even more boilerplate code.
 
 I ultimately (mostly) solved this problem by creating a matplotlibrc file which automatically imports a number of settings for every chart I choose to work with. My matplotlibrc file lives in a [github repository](https://github.com/bbarad/matplotlibrc) where you can freely grab and modify it. Just put it in your `~/.matplotlib/` folder. I also thought I would use this space to talk about the decisions I made in designing the matplotlibrc to get as close as possible to publication quality images with no special styles in the python code.
 
@@ -46,18 +46,18 @@ plt.show()
 {% endhighlight %}
 
 In this code, I start with two lists, one of y values and one of error values, and proceed to make a named bar chart.
-I also throw a line graph on top for illustrative purposes and add some axis labels and a title. 
-You'll notice that I actually cheated and did a little bit of formatting in the code: I added padding between the title and axis labels and the graph, and I got rid of the tickmarks on the right and top sides of the graph. 
+I also throw a line graph on top for illustrative purposes and add some axis labels and a title.
+You'll notice that I actually cheated and did a little bit of formatting in the code: I added padding between the title and axis labels and the graph, and I got rid of the tickmarks on the right and top sides of the graph.
 This is because these are not settings that can be affected by the matplotlibrc, so it is unavoidable to include them.
 
-The results for this code are below. It is fraught with problems. 
-Most obviously, the colors are unpleasant and more importantly unclear. 
+The results for this code are below. It is fraught with problems.
+Most obviously, the colors are unpleasant and more importantly unclear.
 Because the bar objects and the error bars are the same shade of blue, the lower half of the error bars become invisible.
 Furthermore, the line that is overlaid is narrow and a difficult shade of green that is particularly unpleasant when overlaid above the blue of the bars.
-The axis labels are also problematic. First, they are too small and as a result difficult to read. 
+The axis labels are also problematic. First, they are too small and as a result difficult to read.
 Further, the special formatting (such as use of greek letters and superscripts) uses a distinct font compared to the rest of the text, which makes the labels even more difficult to read.
 
-<img class="img-fluid mx-auto d-block" src="/static/img/matplotlib/test_no_rc.png" alt="Before updating the matplotlibrc" width="640">
+<img class="img-fluid mx-auto d-block" src="/static/img/news/matplotlib/test_no_rc.png" alt="Before updating the matplotlibrc" width="640">
 
 In order to highlight the ugliness of the default color cycle in python, I have attached a second, simpler piece of code and its output:
 
@@ -81,9 +81,9 @@ plt.savefig('test2.png')
 
 This code draws a lot of lines which become closer and closer to each other.
 
-<img class="img-fluid mx-auto d-block" src="/static/img/matplotlib/test2_no_rc.png" alt="Before updating the matplotlibrc" width="640">
+<img class="img-fluid mx-auto d-block" src="/static/img/news/matplotlib/test2_no_rc.png" alt="Before updating the matplotlibrc" width="640">
 
-The linewidth problem is apparent here, but just as apparent is the inappropriateness of the high-contrast default colors. 
+The linewidth problem is apparent here, but just as apparent is the inappropriateness of the high-contrast default colors.
 
 ## Writing a matplotlibrc to fix things
 
@@ -108,6 +108,6 @@ I turned the tickmarks to face outwards instead of inwards. This has a few effec
 
 These are the same scripts as above, run with the new matplotlibrc and no other changes. I am very happy with the output, although no doubt I will continue to tweak it as time goes on! I would appreciate feedback as always. Again, like I said above, you can find the matplotlibrc at my [github page](https://github.com/bbarad/matplotlibrc). Contributions are welcome there as well as in the comments.
 
-<img class="img-fluid mx-auto d-block" src="/static/img/matplotlib/test.png" alt="Before updating the matplotlibrc" width="640">
+<img class="img-fluid mx-auto d-block" src="/static/img/news/matplotlib/test.png" alt="Before updating the matplotlibrc" width="640">
 
-<img class="img-fluid mx-auto d-block" src="/static/img/matplotlib/test2.png" alt="Before updating the matplotlibrc" width="640">
+<img class="img-fluid mx-auto d-block" src="/static/img/news/matplotlib/test2.png" alt="Before updating the matplotlibrc" width="640">

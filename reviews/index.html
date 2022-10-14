@@ -14,7 +14,7 @@ process of peer review plays an important role in refining the body of work prio
 We believe that transparency in peer review can improve the speed, quality, and collegiality of the publication
 process.  Peer review is also an important training opportunity for lab members in scientific thinking and writing. As such, we only review manuscripts that have been posted on preprint servers and we post our peer review
 comments publicly. Additional resources can be found in our
-<a href="https://fraserlab.com/compact/" target="_blank" alt = "Lab Compact (opens in new tab)">Lab Compact</a>
+<a href="https://fraserlab.com/philosophy/" target="_blank" alt = "Lab Compact (opens in new tab)">Lab Compact</a>
 and in the <a href="https://fraserlab.com/peer_review/" target="_blank" alt = "Peer Review minicourse (opens in new tab)">Peer Review minicourse</a>. We support other initiatives to improve peer review (such as <a href="https://www.reviewcommons.org/" target="blank" alt = "Review Commons (opens in new tab)">Review Commons</a> and <a href="https://asapbio.org/feedbackasap" target="blank" alt = "FeedbackASAP (opens in new tab)">FeedbackASAP</a>).
 <br><br>
 </h7>
@@ -45,7 +45,7 @@ and in the <a href="https://fraserlab.com/peer_review/" target="_blank" alt = "P
 			{% for record in review.peer-review %}
 				<!--Biorxiv-->
 				{% if record.biorxiv %}
-				<li>Biorxiv Preprint: <a href="http://dx.doi.org/10.1101/{record.biorxiv}}"<a href="https://fraserlab.com/compact/" target="_blank" alt = "biorxiv preprint link: {{record.biorxiv}}">{{record.biorxiv | split: "." | last }}</a></li>
+				<li>Biorxiv Preprint: <a href="http://dx.doi.org/10.1101/{record.biorxiv}}"<a href="https://fraserlab.com/philosophy/" target="_blank" alt = "biorxiv preprint link: {{record.biorxiv}}">{{record.biorxiv | split: "." | last }}</a></li>
 				{% endif %}
 
 				<!--Biorxiv specific version-->

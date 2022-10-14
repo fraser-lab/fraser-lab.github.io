@@ -23,8 +23,8 @@
   group: courses
 
 - name: philosophy
-  link: "/compact"
-  group: compact
+  link: "/philosophy"
+  group: philosophy
 
 - name: news
   link: "/news"

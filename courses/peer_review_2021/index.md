@@ -20,7 +20,7 @@ group: courses
 
 At its worst, it is merely window dressing that gives the unwarranted appearance of authority, a cursory process which confers no real value, enforces orthodoxy, and overlooks both obvious analytical problems and outright fraud entirely.
 
-Regardless of how any individual paper is reviewed – and the experience is usually somewhere between the above extremes – the sad truth is peer review in its entirety is struggling..." 
+Regardless of how any individual paper is reviewed – and the experience is usually somewhere between the above extremes – the sad truth is peer review in its entirety is struggling..."
 </blockquote>
   <figcaption class="blockquote-footer">
 from [The Lancet has made one of the biggest retractions in modern history. How could this happen?
@@ -48,14 +48,14 @@ We idealize peer review process as an unbiased assessment of science. But bias c
 ## Course structure
 
 
-Students will be paired to serve as "Co-Discussion Leaders" for one BioRxiv manuscript of their choosing.  The co-discussion leaders will compose one joint written peer review, with a first draft due immediately to James prior to their presentation, reflecting their original thoughts on the manuscript. Please send your paper selections to James by May 3rd so everyone can start reading. For each class, everyone, not just the co-discussion leaders, should be prepared by having the paper carefully. We will start each day by calling on each participant in the class and asking them to share: 1 confusing thing about the paper and 1 cool thing about the paper. 
+Students will be paired to serve as "Co-Discussion Leaders" for one BioRxiv manuscript of their choosing.  The co-discussion leaders will compose one joint written peer review, with a first draft due immediately to James prior to their presentation, reflecting their original thoughts on the manuscript. Please send your paper selections to James by May 3rd so everyone can start reading. For each class, everyone, not just the co-discussion leaders, should be prepared by having the paper carefully. We will start each day by calling on each participant in the class and asking them to share: 1 confusing thing about the paper and 1 cool thing about the paper.
 
 After the round of sharing, the Discussion Leaders will present a joint talk similar in content and quality to a Tetrad or QBC Journal Club presentation, with an estimated 30-40 minute duration (noting that interruptions and discussion may take us closer to an hour).
 
  After the group discussion, the co-discussion leaders will edit their review to reflect what emerged in the discussion. The deadline for this "final" review is  June 1st 5PM. The review will be posted (either named or anonymously through James Fraser acting as an "editor") as comments associated with the preprint on BioRxiv or a Zenodo record.
 
 - Writing peer reviews:
-    - [Fraser lab how-to-review](https://fraserlab.com/compact/peer_review_how_to/)
+    - [Fraser lab how-to-review](https://fraserlab.com/philosophy/peer_review_how_to/)
     - [Our lab's public reviews](/reviews)
     - [Peer Review: reviewing as an early career researcher](https://www.blopig.com/blog/2021/03/peer-review-reviewing-as-an-early-career-researcher/)
     - [How to bring peer review ghostwriters out of the dark](https://www.molbiolcell.org/doi/full/10.1091/mbc.E20-10-0642)
@@ -122,7 +122,7 @@ Optional event at 8AM PT:
 
 ### May 24
 - [Mechanism and role of astrogliosis in the pathogenesis of HIV-associated pain](https://www.biorxiv.org/content/10.1101/2021.04.28.441838v1.full)
-  - [Review by Cindy Liu and Dominic Grisingher](http://disq.us/p/2hi89c3) 
+  - [Review by Cindy Liu and Dominic Grisingher](http://disq.us/p/2hi89c3)
 
 ### May 26
 - [Precise and pervasive phasic bursting in locus coeruleus during maternal behavior](https://www.biorxiv.org/content/10.1101/2021.03.31.437751v1.full)
@@ -131,4 +131,3 @@ Optional event at 8AM PT:
 ### May 28
 - [A massively parallel reporter assay reveals focused and broadly encoded RNA localization signals in neurons](https://www.biorxiv.org/content/10.1101/2021.04.27.441590v1.full)
   - [Review by Seth Vigneron and Dianne Laboy Cintron](http://disq.us/p/2hipi0w)
- 

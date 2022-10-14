@@ -11,7 +11,7 @@ pronouns: she/her/hers #personal pronouns
 email: sonya.somin.lee (at) gmail.com #Preferred public email address
 scholar:  #Google Scholar User ID
 website:
-UCSF: "026318584" #UCSF Profile ID - Employees only
+UCSF: #"026318584" #UCSF Profile ID - Employees only
 twitter:
 linkedin:
 github:
