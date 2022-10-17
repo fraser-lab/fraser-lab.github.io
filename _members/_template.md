@@ -1,25 +1,20 @@
 Required fields:
-Name, startdate, image, altimage, position, emails, description
+Name, start date, image, altimage, position, email, ORCID, Google Scholar ID, description
 Optional fields:
-timeline_name, pronouns, scholar, website, UCSF, twitter, linkedin, github, orcid
+timeline_name, pronouns, scholar, website, UCSF, twitter, linkedin, github
 ---
+#REQUIRED
 name: FirstName LastName #Include "Ph.D."" if applicable
 timeline_name: #If you would like your name to appear differently on the Lab timeline, fill out this line.
 startdate: [YYYY-MM-DD] #Enter your start date
-enddate: #Leave this blank
+enddate: #[YYYY-MM-DD] Leave this blank until you leave the lab
 image: /static/img/members/LastName.jpg #365 x 365 pixels, 72 dpi
 altimage: /static/img/members/LastName_pb.jpg #365 x 365 pixels, 72 dpi
-position: #Role in Fraser Lab
-#subsequent:  #Leave this blank until you are leaving the lab
-pronouns: they/them/theirs #Update this with your personal pronouns
-email: username (at) domain.com #Preferred public email address
-scholar: XXXXXXXXXXXX #Google Scholar User ID, if you have one
-website: #https://website.com/ #Personal or professional website
-UCSF: XXXXXXXX #UCSF Employees Profile ID
-twitter: username
-linkedin: username
-github: username
-orcid: XXXX-XXXX-XXXX-XXXX
+position: #What is your job title in the Fraser lab?
+subsequent: #Leave this blank until you leave the lab
+email: #username (at) domain.com #Enter your preferred public e-mail address
+orcid: #XXXX-XXXX-XXXX-XXXX #ORCID, create if you don't have one
+scholar: #XXXXXXXXXXXX #Google Scholar User ID, create if you don't have one
 description: "
 1-2 sentences about your prior education and research experience(s).
 
@@ -27,4 +22,12 @@ description: "
 
 1-2 sentences about your life outside lab (hobbies, pets, etc.)
 "
+
+#OPTIONAL
+pronouns: #example: they/them/theirs, he/him/his, she/her/hers, etc
+website: #https://website.com/ #Enter your personal/professional website
+UCSF: #XXXXXXXX #UCSF Employees Profile ID only
+twitter: #username
+linkedin: #username
+github: #username
 ---

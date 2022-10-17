@@ -1,27 +1,26 @@
 ---
-published: false
-name: FirstName LastName
+name: Priyanka Bajaj, Ph.D.
 timeline_name: #Fill this out if you'd like your name to appear differently on the Timeline.
-startdate: [YYYY-MM-DD]
-enddate: [YYYY-MM-DD]
-image: /static/img/members/LastName.jpg #365 x 365 pixels, 72 dpi
-altimage: /static/img/members/LastName_pb.jpg #365 x 365 pixels, 72 dpi
-position: Role in Fraser Lab
+startdate: [2022-10-01]
+enddate: #[YYYY-MM-DD]
+image: /static/img/members/bajaj.jpg #365 x 365 pixels, 72 dpi
+altimage: /static/img/members/bajaj_pb.jpg #365 x 365 pixels, 72 dpi
+position: Postdoctoral Scholar
 #subsequent:  update once you become an alumnus
-pronouns: they/them/theirs #personal pronouns
-email: username (at) domain.com #Preferred public email address
-scholar: XXXXXXXXXXXX #Google Scholar User ID
-website: https://website.com/
-UCSF: XXXXXXXX #UCSF Profile ID - Employees only
-twitter: username
-linkedin: username
-github: username
-orcid: XXXX-XXXX-XXXX-XXXX
-description: "
-1-2 sentences about your prior education and research experience(s).
+pronouns: she/her/hers #personal pronouns
+email: priyanka.bajaj (at) ucsf.edu #Preferred public email address
+scholar: npMdXYIAAAAJ #Google Scholar User ID
+website:
+UCSF: #UCSF Profile ID - Employees only
+twitter: Priyank67495046
+linkedin: priyanka-bajaj-a81a40104
+github: 
+orcid: 0000-0001-8474-6149
+description: "Priyanka did her Bachelor's in Biochemistry at Sri Venkateswara College, University of Delhi and her Master's in Biochemistry at the University of Hyderabad. She completed her Ph.D. from Molecular Biophysics Unit, Indian Institute of Science under Prof. Raghavan Vardarajan. Her Ph.D. work involved developing high-thoughput screens for measuring the mutational sensitivity of the toxin component of the toxin-antitoxin system of *E. coli*. She carried out deep mutational scans of the site-saturation mutagenesis library and single-site synonymous mutant library of the toxin gene in operonic context. 
 
-1-2 sentences about your research project in the Fraser lab.
 
-1-2 sentences about your life outside lab (hobbies, pets, etc.)
-"
+In the Fraser lab, Priyanka will perform deep mutational scanning on cancer-related proteins.
+
+
+Outside the lab, Priyanka likes to dance, go on adventurous trips and explore the city."
 ---
