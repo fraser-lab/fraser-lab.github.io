@@ -18,5 +18,9 @@ github:
 orcid: "0000-0002-7175-7487"
 description: "Sonya graduated from Williams College with a degree in Chemistry. As an undergraduate, she studied antibiotic resistance mutations in beta-lactamase under [Dr. Kathryn Hart](https://sites.williams.edu/kmh8/).
 
+
+In the Fraser lab, Sonya will be studying antibiotic resistance mechanisms. 
+
+
 Outside of the lab, she likes to listen to podcasts and stare into space."
 ---
