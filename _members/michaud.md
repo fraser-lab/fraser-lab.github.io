@@ -5,7 +5,7 @@ enddate: [2022-10-15]
 image: /static/img/members/Michaud.jpg
 altimage: /static/img/members/Michaud_pb.jpg
 position: Staff Scientist
-subsequent: Lab Manager
+subsequent: Lab Manager and Cell Culture Lead @ Scale Biosciences
 pronouns: she/her/hers
 email: jennifer.michaud (at) ucsf.edu
 scholar: X7mvTacAAAAJ
