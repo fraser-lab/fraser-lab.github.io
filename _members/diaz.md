@@ -3,8 +3,8 @@ name: Roberto Efraín (Robbie) Díaz
 timeline_name: Roberto Efraín
 startdate: [2018-06-25]
 enddate: []
-image: /static/img/members/Diaz.png
-altimage: /static/img/members/Diaz_pb.jpg
+image: /static/img/members/diaz.png
+altimage: /static/img/members/diaz_pb.jpg
 position: "Graduate Student, [Tetrad](https://tetrad.ucsf.edu)<br>
 ([NSF GRFP](http://www.nsfgrfp.org/), [HHMI Gilliam Fellow](http://www.hhmi.org/science-education/programs/gilliam-fellowships-advanced-study/))"
 #subsequent:  update once you become an alumnus
