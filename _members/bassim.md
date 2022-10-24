@@ -5,7 +5,7 @@ startdate: [2022-10-01]
 enddate: []
 image: /static/img/members/bassim.jpg #365 x 365 pixels, 72 dpi
 altimage: /static/img/members/bassim_pb.jpg #365 x 365 pixels, 72 dpi
-position: "Affiliate, X-ray Crystallography Core Manager"
+position: "Affiliate, [X-ray Crystallography Core](https://sites.google.com/view/ucsf-xray-internal/home) Manager"
 #subsequent:  update once you become an alumnus
 pronouns: "she/her/hers" #personal pronouns
 email: "violla.bassim (at) ucsf.edu" #Preferred public email address
@@ -20,7 +20,7 @@ description: "I graduated from Aix Marseille university in France with a Ph.D. d
 ​
 
 
-At UCSF, I will manage the X-ray crystallography core. I will also be involved in identifying new anti-viral compounds by X-ray crystallography.
+At UCSF, I will manage the [X-ray Crystallography Core](https://sites.google.com/view/ucsf-xray-internal/home). I will also be involved in identifying new anti-viral compounds by X-ray crystallography.
 
 
 Outside the lab, I enjoy listening to music, shopping, hiking, and discovering new places around the world."
