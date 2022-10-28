@@ -278,9 +278,9 @@ links:
   url: https://www.ndm.ox.ac.uk/team/frank-von-delft
 - name: Ahel lab @ University of Oxford
   url: https://ivanahellab.wixsite.com/ivan-ahel-lab
-- name: Celebratory Tweetstorm from James Fraser
+- name: Celebratory Tweetstorm by James Fraser
   url: https://twitter.com/fraser_lab/status/1281258107578937345
-- name: Celebratory Tweetstorm from Mike Thompson
+- name: Celebratory Tweetstorm by Mike Thompson
   url: https://twitter.com/MThompsonLab/status/1281265307684749315
 - name: UCSF Press Release - Building Blocks for COVID-19 Antiviral Drugs Identified in Rapid Study
   url: https://www.ucsf.edu/news/2020/07/418056/building-blocks-covid-19-antiviral-drugs-identified-rapid-study

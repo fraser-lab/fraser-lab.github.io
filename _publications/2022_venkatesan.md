@@ -17,4 +17,8 @@ links:
     url: "https://andersenlab.org/"
   - name: "Gilleard lab @ University of Calgary"
     url: "https://vet.ucalgary.ca/labs/jsgilleard/home"
+  - name: "Celebratory Tweetstorm by corresponding author John Gilleard"
+    url: "https://twitter.com/JohnGilleard/status/1585262680923070464?s=20&t=Kgb6mC5g82WK1v-laSN3NA"
+  - name: "Gilleard lab @ University of Calgary"
+    url: "https://vet.ucalgary.ca/labs/jsgilleard/home"
 ---

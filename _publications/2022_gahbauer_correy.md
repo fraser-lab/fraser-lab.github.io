@@ -176,8 +176,8 @@ links:
     url: https://ivanahellab.wixsite.com/ivan-ahel-lab
   - name: Shoichet lab @ UC San Francisco
     url: https://shoichetlab.compbio.ucsf.edu/
-  - name: "Celebratory Tweetstorm from Stefan Gahbauer"
+  - name: "Celebratory Tweetstorm by Stefan Gahbauer"
     url: "https://twitter.com/GahbauerStefan/status/1541924168785993729?s=20&t=ndC0oqOLIpoPvhr-i9Yzxg"
-  - name: "Celebratory Tweetstorm from James Fraser"
+  - name: "Celebratory Tweetstorm by James Fraser"
     url: "https://twitter.com/fraser_lab/status/1541922309144924161?s=20&t=paHO04d0s0YJTBdMItZESw"
 ---

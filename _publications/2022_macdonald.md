@@ -12,6 +12,6 @@ github:
   - description: "DIMPLE"
     url: "coywil26/DIMPLE"
 links:
-  - name: "Celebratory Tweetstorm from Willow Coyote-Maestas"
+  - name: "Celebratory Tweetstorm by Willow Coyote-Maestas"
     url: "https://twitter.com/willowcoyote/status/1552335738372378625"
 ---
