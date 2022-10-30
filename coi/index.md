@@ -10,6 +10,7 @@ Appointments:
 
 * Professor, [Department of Bioengineering and Therapeutic Sciences, Schools of Pharmacy and Medicine
 , University of California San Francisco](https://bts.ucsf.edu/)
+* Vice Dean - Research, [School of Pharmacy, University of California San Francisco](https://pharmacy.ucsf.edu/)
 * Faculty Scientist,[Molecular Biophysics and Integrated Bioimaging, Lawrence Berkeley National Laboratory](https://biosciences.lbl.gov/divisions/mbib/)
 * Associate Director and Member, [Quantitative Biosciences Institute, University of California San Francisco](http://qbi.ucsf.edu/)
 * Associate Director, [Biophysics Graduate Program, University of California San Francisco](https://biophysics.ucsf.edu/)
@@ -20,7 +21,6 @@ Equity (held in Trust, with spouse):
 * [Relay Therapeutics](https://relaytx.com/)
 * [Impossible Foods](https://impossiblefoods.com/)
 * [Arda Therapeutics](https://www.ardatherapeutics.com/)
-* Keyhole Therapeutics (co-founder)
 * Interdict Bio (co-founder)
 
 Consulting/speaker fees/travel within last 2 years:
