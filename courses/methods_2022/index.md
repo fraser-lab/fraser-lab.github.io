@@ -13,11 +13,9 @@ group: courses
 
 **Course Title:** Methods in Macromolecular Structure
 
-**Course Format:** 6 hours of lecture/group work per week in class, substantial group work outside of class
+**Course Format:** 6 hours of lecture/group work per week in class, substantial group work outside of class hours
 
-**Location and Date/Hours:** Monday, Tuesday, Wednesday - 9AM-11AM in either Genentech Hall 227 or The Zoom where it happens!
-
-[**Zoom Links**](https://ucsf.box.com/s/lr7d98dfy3hnopo0yszq82bgye09gj8x)
+**Location and Date/Hours:** Monday, Tuesday, Wednesday - 9AM-11AM in Genentech Hall 227
 
 **Prerequisites:** All incoming first year BP and CCB graduate students are required to enroll in this course.
 
@@ -25,17 +23,14 @@ group: courses
 
 **Textbook:** None. Lab protocols and course materials will be available in class or online
 
-**Instructors:** [John Gross](mailto:jdgross@cgl.ucsf.edu), [Aashish Manglik](mailto:Aashish.Manglik@ucsf.edu), [James Fraser](mailto:jfraser@fraserlab.com), KLIM!
-
-**NMR guru:** [Alexandra Born](mailto:Alexandra.Born@ucsf.edu) (Manglik/Gross labs)
-
+**Instructors:** [John Gross](mailto:jdgross@cgl.ucsf.edu), [Aashish Manglik](mailto:Aashish.Manglik@ucsf.edu), [James Fraser](mailto:jfraser@fraserlab.com), [Klim Verba](verba@msg.ucsf.edu)
 
 **TAs:**
 - 
 
 **Lecturers/Facilitators:**
 
-James Fraser, Yifan Cheng, Aashish Manglik, Robert Stroud, John Gross, Alexandra Born, Tom Goddard, Cynthia Wolberger (JHU), Tanja Kortemme, Michael Grabe, James Lincoff
+James Fraser, Yifan Cheng, Aashish Manglik, Robert Stroud, John Gross, Tom Goddard, Tanja Kortemme, Michael Grabe
 
 
 **Background:**
@@ -44,7 +39,7 @@ Fluency in multiple biophysical methods is often critical for answering mechanis
 
 **Course Description:**
 
-This is a team-based class where students work in small groups develop their own analysis of real data. Statistical aspects of rigor and reproducibility in structural biology will be emphasized throughout lectures, journal club presentations, and hands-on activities. The website for the [2017](/methods_2017/),  [2018](/methods_2018/), [2019](/courses/methods_2019), and [2020](/courses/methods_2020) editions are available online.
+This is a team-based class where students work in small groups develop their own analysis of real data. Statistical aspects of rigor and reproducibility in structural biology will be emphasized throughout lectures, journal club presentations, and hands-on activities. The website for the [2017](/courses/methods_2017/),  [2018](/courses/methods_2018/), [2019](/courses/methods_2019), [2020](/courses/methods_2020) editions are available online.
 
 *Ethics*: This course is more than a training experience; it is an active research project whose results will be published to the broader scientific community. The community must be able to understand our work, replicate it, and have confidence in its findings. We must therefore ensure the integrity of the information we disseminate. To do so, it is essential that students perform and document their experiments and analyses as faithfully as possible. Mistakes and oversights are normal and to be expected, but they must not be ignored, concealed, or disguised. In addition, to merit authorship, students must contribute to three aspects of the project: intellectual conception or interpretation of the methods or data, technical execution of the experiments and/or analyses, and documentation or dissemination of the results. We fully expect that by actively participating in the course and working toward the course objectives, all students will merit authorship.
 
@@ -89,24 +84,18 @@ This is a team-based class where students work in small groups develop their own
 
 
 
-# Jan 17-24 - CryoEM - Lectures Yifan Cheng, Tutorials James Fraser
+# Jan 17-24 - CryoEM - Lectures Yifan Cheng, Tutorials Klim Verba
 
 ## Monday January 16
 MLK DAY - HOLIDAY
 
-
-## Tuesday January 17
+## Tuesday January 17  - UP TO KLIM WHICH DAYS HE WANTS LECTURES/TUTORIALS
 ### [Lecture 1 from Yifan Cheng](http://cdn.fraserlab.com/methods/yc2021_1.pdf)
 
 ## Wednesday January 18
 ### [Lecture 2 from Yifan Cheng](http://cdn.fraserlab.com/methods/yc2021_2.pdf)
 ### Tutorial 1:
- - Connecting to AWS - Thanks to Amazon Web Services Educate for computing credits
- - [cisTEM](https://cistem.org/) GUI and importing images (300kV, 2.7mm, 0.834 A/pix)
- - CTF (fit res better than 4A)
- - particle picking (150, 120, 2)
- - Symmetry (C1 vs. C3)
- - 2D classifications (box size 512)
+
 
 ## Monday January 23 
 ### Tutorial 2:
@@ -129,9 +118,61 @@ MLK DAY - HOLIDAY
 - [half maps](http://cdn.fraserlab.com/courses/methods/2012_scheres.pdf) and [Optimal Determination of Particle Orientation, Absolute Hand, and Contrast Loss in Single-particle Electron Cryomicroscopy](http://cdn.fraserlab.com/courses/methods/2003_rosenthal.pdf)
 - Other Model and Map validation tools (a lot of overlap with X-ray tools but a few examples that don't: [phenix.mtriage](https://www.phenix-online.org/documentation/reference/mtriage.html), [EMRinger](http://cdn.fraserlab.com/publications/2015_barad.pdf))
 
-# Jan 25-Feb 6 - X-ray Crystallography - Lectures Bob Stroud, Tutorials Aashish Manglik
+# Jan 25-Feb 6 - NMR - Lectures John Gross
 
 ## Wednesday January 25
+### [Lecture 1 from John Gross, Introduction to Multidimensional NMR](http://cdn.fraserlab.com/courses/Methods-NMR-2022-LECTURE1.pdf)
+- demonstration of NMR data processing, John Gross
+- [from FID to 2D](http://cdn.fraserlab.com/courses/2022_2DNMR_Processing_Tutorial.pdf) (Allie Born and John Gross)
+- Supplemental reading: [How does an HSQC work?](http://cdn.fraserlab.com/courses/methods/HSQC-Guided-tour.pdf)
+
+## Monday January 30
+### [Lecture 2 from John Gross, Detecting Ligand and Protein Interactions by NMR](http://cdn.fraserlab.com/courses/Methods-NMR-2022-LECTURE2.pdf)
+- process 15N HSQC and 13C HSQC data with teams (Allie Born and John Gross)
+
+## Tuesday January 31
+### [Lecture 3 from John Gross, Dynamic NMR -Hydrogen Deuterium Exchange (HDX) and intro to ms-usec dynamics](http://cdn.fraserlab.com/courses/Methods-NMR-2022-LECTURE3.pdf)
+-  Overlay Nb6:Spike RBD complexes with Nb6 in CcpNMR, demo by Allie Born (Allie Born and John Gross)
+-  [CcpNMR tutorial](http://cdn.fraserlab.com/courses/ccpNMR_Tutorial.pdf)
+-  As an alternative to CcpNMR, you may  use [Sparky tutorial](http://cdn.fraserlab.com/courses/2022_Sparky_tutorial.pdf)
+-  Supplemental reading: [CSP mapping by NMR when resonance asignments of the bound state are unknown](http://cdn.fraserlab.com/courses/methods/1996_farmer.pdf)
+
+## Wednesday Feb 1
+### [Lecture 4 from John Gross, Methods to quantify slow dynamics, ZZ-exchange and CPMG](http://cdn.fraserlab.com/courses/Methods-NMR-2022-LECTURE4.pdf)
+## Monday Feb 6
+### Lecture 5 from John Gross, Measuring ns-ps dynamics in proteins
+- process mNb6:RBD 15N and 13C HSQC spectra, overlay with mNb6. Cross-peak bookkeeping with teams (Allie Born and John Gross)
+
+## Reading on rigor and reproducibility in NMR:
+- [Tools for validating NMR structures](http://cdn.fraserlab.com/courses/methods/2014_vuister.pdf)
+- [Q-scores](http://cdn.fraserlab.com/courses/methods/2004_clore.pdf)
+- [Integrative modeling](http://cdn.fraserlab.com/courses/methods/2019_rout.pdf)
+
+# Feb 7-8 - Computational approaches - Lectures Tanja Kortemme, James Lincoff, Michael Grabe
+
+## Tuesday February 7
+
+### Lecture from James Lincoff and Michael Grabe, Molecular Dynamics simulations
+- James Lincoff (Grabe lab) on simulations of AeroNabs
+	- [Trajectory data](https://ucsf.box.com/s/xtx3jm8esx2c15zyz1z97jy0mlbbgswe)
+	- [Pymol install instructions](https://pymolwiki.org/index.php/MAC_Install)
+
+
+
+## Wednesday February 8
+
+
+### Lecture from Tanja Kortemme, AlphaFold and RosettaFold
+
+### Material from Tom Goddard
+- [ChimeraX tutorial part II and Q/A by Tom Goddard](https://www.rbvi.ucsf.edu/chimerax/data/nanobody-feb2021/nanobody.html)
+	- [Color by Chemical Shift Perturbations](https://www.rbvi.ucsf.edu/chimerax/data/nanobody-feb2021/chemshift.html)
+	- [How to View Nanobody Molecular Dynamics in ChimeraX](https://www.rbvi.ucsf.edu/chimerax/data/nanobody-feb2021/nanobody_md.html)
+
+
+
+# Feb 13-22 X-ray Crystallography - Lectures Bob Stroud, Tutorials Aashish Manglik
+## Monday February 13
 ### [Lecture 1 from Bob Stroud](http://cdn.fraserlab.com/courses/2022_5dayclass_methods-2-1.pdf)
 ### [Tutorial 1 : What's the deal with the spots](https://docs.google.com/document/d/1nr4IIDVqjRautGy_CnyPHrNbdGwbgTnKjGznl6ZQPII/edit?usp=sharing)
 - Examine diffraction data in adxv
@@ -139,14 +180,19 @@ MLK DAY - HOLIDAY
 - Understand various metrics for data reduction
 - What do we have at the end?
 
-## Monday January 30
+
+## Tuesday February 14
 ### Lecture 2 from Bob Stroud
 ### [Tutorial 2: Molecular Replacement](https://docs.google.com/document/d/1nr4IIDVqjRautGy_CnyPHrNbdGwbgTnKjGznl6ZQPII/edit#)
 - Prepare a model from a different nanobody for phasing by molecular replacement
 - Run Phaser, analyze output in Coot
 - Use the mNb6 itself to solve the structure
 
-## Tuesday January 31
+- chemical shift perturbation plot versus primary sequence; mapping onto structure, [CSPs from Sparky Lists](http://cdn.fraserlab.com/courses/methods/Sparky_CSP.py)
+- Overlay Nb6 with mNb6 15N and 13C HSQC data
+- Cross-peak bookkeeping with teams (Allie Born and John Gross)
+
+## Wednesday February 15
 ### [Lecture 3 from Bob Stroud](http://cdn.fraserlab.com/courses/2022_5dayclass_methods-2-2.pdf)
 ### [Tutorial 3: Model refinement](https://docs.google.com/document/d/1nr4IIDVqjRautGy_CnyPHrNbdGwbgTnKjGznl6ZQPII/edit?usp=sharing)
 - Manual model building in Coot
@@ -156,11 +202,12 @@ MLK DAY - HOLIDAY
 - B factors and what they might mean
 - Ensemble refinement
 - [Coot tutorial video](https://www.youtube.com/watch?v=6RxvOFNu_rA)
+## Monday February 20 - PRESIDENTS DAY
 
-## Wednesday Feb 1
+## Tuesday February 21
 ### Lecture 4 from Bob Stroud
 
-## Monday Feb 6
+## Wednesday February 22
 ### Lecture 5 from Bob Stroud
 
 ## Reading on rigor and reproducibility in Crystallography:
@@ -169,68 +216,7 @@ MLK DAY - HOLIDAY
 - [Data Challenges and synthetic data](http://cdn.fraserlab.com/courses/methods/2019_holton.pdf)
 - [Protein crystallography for non‐crystallographers, or how to get the best (but not more) from published macromolecular structures](https://febs.onlinelibrary.wiley.com/doi/full/10.1111/j.1742-4658.2007.06178.x)
 
-# Feb 7-15 - NMR - Lectures John Gross, Tutorials Alexandra Born
-
-## Tuesday February 7
-### [Lecture 1 from John Gross, Introduction to Multidimensional NMR](http://cdn.fraserlab.com/courses/Methods-NMR-2022-LECTURE1.pdf)
-- demonstration of NMR data processing, John Gross
-- [from FID to 2D](http://cdn.fraserlab.com/courses/2022_2DNMR_Processing_Tutorial.pdf) (Allie Born and John Gross)
-- Supplemental reading: [How does an HSQC work?](http://cdn.fraserlab.com/courses/methods/HSQC-Guided-tour.pdf)
-
-## Wednesday February 8
-### [Lecture 2 from John Gross, Detecting Ligand and Protein Interactions by NMR](http://cdn.fraserlab.com/courses/Methods-NMR-2022-LECTURE2.pdf)
-- process 15N HSQC and 13C HSQC data with teams (Allie Born and John Gross)
-
-
-## Monday February 13
-### [Lecture 3 from John Gross, Dynamic NMR -Hydrogen Deuterium Exchange (HDX) and intro to ms-usec dynamics](http://cdn.fraserlab.com/courses/Methods-NMR-2022-LECTURE3.pdf)
--  Overlay Nb6:Spike RBD complexes with Nb6 in CcpNMR, demo by Allie Born (Allie Born and John Gross)
--  [CcpNMR tutorial](http://cdn.fraserlab.com/courses/ccpNMR_Tutorial.pdf)
--  As an alternative to CcpNMR, you may  use [Sparky tutorial](http://cdn.fraserlab.com/courses/2022_Sparky_tutorial.pdf)
--  Supplemental reading: [CSP mapping by NMR when resonance asignments of the bound state are unknown](http://cdn.fraserlab.com/courses/methods/1996_farmer.pdf)
-
-## Tuesday February 14
-### [Lecture 4 from John Gross, Methods to quantify slow dynamics, ZZ-exchange and CPMG](http://cdn.fraserlab.com/courses/Methods-NMR-2022-LECTURE4.pdf)
-- chemical shift perturbation plot versus primary sequence; mapping onto structure, [CSPs from Sparky Lists](http://cdn.fraserlab.com/courses/methods/Sparky_CSP.py)
-- Overlay Nb6 with mNb6 15N and 13C HSQC data
-- Cross-peak bookkeeping with teams (Allie Born and John Gross)
-
-## Wednesday February 15
-### Lecture 5 from John Gross, Measuring ns-ps dynamics in proteins
-- process mNb6:RBD 15N and 13C HSQC spectra, overlay with mNb6. Cross-peak bookkeeping with teams (Allie Born and John Gross)
-
-## Reading on rigor and reproducibility in NMR:
-- [Tools for validating NMR structures](http://cdn.fraserlab.com/courses/methods/2014_vuister.pdf)
-- [Q-scores](http://cdn.fraserlab.com/courses/methods/2004_clore.pdf)
-- [Integrative modeling](http://cdn.fraserlab.com/courses/methods/2019_rout.pdf)
-
-
-
-# Feb 21-22 - Computational approaches - Lectures Tanja Kortemme, James Lincoff, Michael Grabe
-
-## Tuesday February 20 - PRESIDENTS DAY
-
-## Tuesday February 21
-### Lecture from James Lincoff and Michael Grabe, Molecular Dynamics simulations
-- James Lincoff (Grabe lab) on simulations of AeroNabs
-	- [Trajectory data](https://ucsf.box.com/s/xtx3jm8esx2c15zyz1z97jy0mlbbgswe)
-	- [Pymol install instructions](https://pymolwiki.org/index.php/MAC_Install)
-
-## Wednesday February 22
-### Lecture from Tanja Kortemme, AlphaFold and RosettaFold
-### Material from Tom Goddard
-- [ChimeraX tutorial part II and Q/A by Tom Goddard](https://www.rbvi.ucsf.edu/chimerax/data/nanobody-feb2021/nanobody.html)
-	- [Color by Chemical Shift Perturbations](https://www.rbvi.ucsf.edu/chimerax/data/nanobody-feb2021/chemshift.html)
-	- [How to View Nanobody Molecular Dynamics in ChimeraX](https://www.rbvi.ucsf.edu/chimerax/data/nanobody-feb2021/nanobody_md.html)
-
-# Final presentations - Feb 27
-## Presenting as a team, in 15 minutes (we will stop you at 15 minutes sharp!) tell us about the scientist your team is named after, what you did, what you learned, and what is one more experiment you'd like to do! Followed by 5 minutes of questions. 
-
-### Email your slides to Aashish Manglik by 8:30AM that morning!
-
-### Presentation times [use individual zoom rooms](https://ucsf.box.com/s/lr7d98dfy3hnopo0yszq82bgye09gj8x)
-
-* TEAMS:
+# Final write up due - Feb 27
 
 # Supplemental material and tutorial videos
 
