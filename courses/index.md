@@ -16,7 +16,7 @@ Fluency in multiple biophysical methods is often critical for answering mechanis
 - [Macro Methods 2019](/courses/methods_2019/)
 - [Macro Methods 2020/21](/courses/methods_2020/)
 - [Macro Methods 2021/22](/courses/methods_2021/)
-
+- [Macro Methods 2022/23](/courses/methods_2022/)
 
 
 ## Inquiry Immersion -  DRUG DESIGN: Personal Genome Interpretation in the post-AlphaFold world
