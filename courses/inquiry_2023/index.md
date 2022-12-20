@@ -36,26 +36,33 @@ Alphafold is one of the buzziest breakthroughs of recent years. What does it mea
 
 ## Schedule ##
 
-**Tuesday Jan 10 - 3:00-4:45PM**
+**Tuesday Jan 10 - 3:00-4:45PM - Byers Hall 212**
 
-- 
+- JF overview of the class
+- install ChimeraX
+     - https://www.cell.com/cell/fulltext/S0092-8674(17)31384-3
 
-**Wednesday Jan 11 - 3:00-4:45PM**
+**Wednesday Jan 11 - 3:00-4:45PM - Mission Hall 2105**
 
-- 
+- Tom Ferrin (emailed)
 
-**Thursday Jan 12 - 3:00-4:45PM**
+**Thursday Jan 12 - 3:00-4:45PM - Mission Hall 2105**
 
-- 
+- Tom Ferrin 2 (emailed)
 
-**Friday Jan 13 - 3:00-4:45PM**
+**Friday Jan 13 - 3:00-4:45PM - Mission Hall 2105**
 
-- 
+-  Tony Capra (emailed waiting on date)
+ - https://www.nature.com/articles/s41467-022-30936-x
+ - https://www.sciencedirect.com/science/article/pii/S2666247722000471
 
-**Tuesday Jan 17 - 3:00-4:45PM**
+**Tuesday Jan 17 - 3:00-4:45PM - Byers Hall 209**
 
-- 
+- Tanja 
 
-**Wednesday Jan 18 - 3:00-4:45PM**
+**Wednesday Jan 18 - 3:00-4:45PM - Mission Hall 2105**
 
-- 
+- who owns genomes:
+    - https://www.sciencedirect.com/science/article/pii/S0092867422007826?via%3Dihub
+    - https://www.nejm.org/doi/full/10.1056/NEJMp1915987
+- Gabby/Chris/Erin
