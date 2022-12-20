@@ -39,12 +39,12 @@ Alphafold is one of the buzziest breakthroughs of recent years. What does it mea
 **Tuesday Jan 10 - 3:00-4:45PM - Byers Hall 212**
 
 - JF overview of the class
-- install ChimeraX
-     - https://www.cell.com/cell/fulltext/S0092-8674(17)31384-3
+     - [Pharmacogenomics of GPCR Drug Targets](https://www.cell.com/cell/fulltext/S0092-8674(17)31384-3)
+- Install ChimeraX before next class [link](https://www.rbvi.ucsf.edu/chimerax/download.html)
+
 
 **Wednesday Jan 11 - 3:00-4:45PM - Mission Hall 2105**
 
-- Install ChimeraX before class [link](https://www.rbvi.ucsf.edu/chimerax/download.html)
 - Tom Goddard: [ChimeraX demo](https://www.rbvi.ucsf.edu/chimerax/data/delta-opioid-jan2020/binding.html)
   - [Elucidating the active delta-opioid receptor crystal structure with peptide and small-molecule agonists.](http://cdn.fraserlab.com/courses/inquiry_2020/2019_claff.pdf)
   - VR links:
@@ -53,7 +53,7 @@ Alphafold is one of the buzziest breakthroughs of recent years. What does it mea
 
 **Thursday Jan 12 - 3:00-4:45PM - Mission Hall 2105**
 
-- Moez or Tanja
+- Moez or Tanja Kortemme
 - who owns genomes:
     - https://www.sciencedirect.com/science/article/pii/S0092867422007826?via%3Dihub
     - https://www.nejm.org/doi/full/10.1056/NEJMp1915987
@@ -61,8 +61,8 @@ Alphafold is one of the buzziest breakthroughs of recent years. What does it mea
 **Friday Jan 13 - 3:00-4:45PM - Mission Hall 2105**
 
 -  Tony Capra
- - https://www.nature.com/articles/s41467-022-30936-x
- - https://www.sciencedirect.com/science/article/pii/S2666247722000471
+ - [The 3D mutational constraint on amino acid sites in the human proteome](https://www.nature.com/articles/s41467-022-30936-x)
+ - [Personalized structural biology reveals the molecular mechanisms underlying heterogeneous epileptic phenotypes caused by de novo KCNC2 variants](https://www.sciencedirect.com/science/article/pii/S2666247722000471)
 
 **Tuesday Jan 17 - 3:00-4:45PM - Byers Hall 209**
 
@@ -70,6 +70,7 @@ Alphafold is one of the buzziest breakthroughs of recent years. What does it mea
 
 **Wednesday Jan 18 - 3:00-4:45PM - Mission Hall 2105**
 
-- Gabby/Chris
-    - DMS and modeling exercise?
-    - Beth Winger guest too?
+- Gabriella Estevam and JF
+    - DMS and personalized medicine
+    - [PDB 2WGJ](https://www.rcsb.org/structure/2WGJ)
+      - list of presented mutations 
