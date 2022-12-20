@@ -44,25 +44,32 @@ Alphafold is one of the buzziest breakthroughs of recent years. What does it mea
 
 **Wednesday Jan 11 - 3:00-4:45PM - Mission Hall 2105**
 
-- Tom Ferrin (emailed)
+- Install ChimeraX before class [link](https://www.rbvi.ucsf.edu/chimerax/download.html)
+- Tom Goddard: [ChimeraX demo](https://www.rbvi.ucsf.edu/chimerax/data/delta-opioid-jan2020/binding.html)
+  - [Elucidating the active delta-opioid receptor crystal structure with peptide and small-molecule agonists.](http://cdn.fraserlab.com/courses/inquiry_2020/2019_claff.pdf)
+  - VR links:
+    - [Opiod](https://youtu.be/FCotNi6213w)
+    - [Coronavirus](https://youtu.be/dKNbRRRFhqY)
 
 **Thursday Jan 12 - 3:00-4:45PM - Mission Hall 2105**
 
-- Tom Ferrin 2 (emailed)
+- Moez or Tanja
+- who owns genomes:
+    - https://www.sciencedirect.com/science/article/pii/S0092867422007826?via%3Dihub
+    - https://www.nejm.org/doi/full/10.1056/NEJMp1915987
 
 **Friday Jan 13 - 3:00-4:45PM - Mission Hall 2105**
 
--  Tony Capra (emailed waiting on date)
+-  Tony Capra
  - https://www.nature.com/articles/s41467-022-30936-x
  - https://www.sciencedirect.com/science/article/pii/S2666247722000471
 
 **Tuesday Jan 17 - 3:00-4:45PM - Byers Hall 209**
 
-- Tanja 
+- Tanja or Moez
 
 **Wednesday Jan 18 - 3:00-4:45PM - Mission Hall 2105**
 
-- who owns genomes:
-    - https://www.sciencedirect.com/science/article/pii/S0092867422007826?via%3Dihub
-    - https://www.nejm.org/doi/full/10.1056/NEJMp1915987
-- Gabby/Chris/Erin
+- Gabby/Chris
+    - DMS and modeling exercise?
+    - Beth Winger guest too?
