@@ -12,7 +12,8 @@ permalink: /inquiry/
 - [James Fraser](mailto:jfraser@fraserlab.com) (Lead Instructor)
 
 **LOCATION**
-The Zoom where it happens!
+
+Varies day by day (see schedule! How exciting...
 
 **OVERVIEW**
 
@@ -72,5 +73,6 @@ Alphafold is one of the buzziest breakthroughs of recent years. What does it mea
 
 - Gabriella Estevam and JF
     - DMS and personalized medicine
-    - [PDB 2WGJ](https://www.rcsb.org/structure/2WGJ)
-      - list of presented mutations 
+    - [PDB 2WGJ](https://www.rcsb.org/structure/2WGJ) - crizotinib
+    - [PDB 3DKC](https://www.rcsb.org/structure/2WGJ) - ATP
+      - Ala1221Phe, etc 
