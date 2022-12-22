@@ -13,7 +13,7 @@ permalink: /inquiry/
 
 **LOCATION**
 
-Varies day by day (see schedule! How exciting...
+Varies day by day (see schedule)! How exciting...
 
 **OVERVIEW**
 
@@ -54,20 +54,20 @@ Alphafold is one of the buzziest breakthroughs of recent years. What does it mea
 
 **Thursday Jan 12 - 3:00-4:45PM - Mission Hall 2105**
 
-- Moez or Tanja Kortemme
-- who owns genomes:
-    - https://www.sciencedirect.com/science/article/pii/S0092867422007826?via%3Dihub
-    - https://www.nejm.org/doi/full/10.1056/NEJMp1915987
+- Moez Dawood - over zoom!
+- who owns genomes?
+    - [Establishing a blockchain-enabled Indigenous data sovereignty framework for genomic data](https://www.sciencedirect.com/science/article/pii/S0092867422007826?via%3Dihub)
+    - [The Illusion of Inclusion — The “All of Us” Research Program and Indigenous Peoples’ DNA](https://www.nejm.org/doi/full/10.1056/NEJMp1915987)
 
 **Friday Jan 13 - 3:00-4:45PM - Mission Hall 2105**
 
 -  Tony Capra
- - [The 3D mutational constraint on amino acid sites in the human proteome](https://www.nature.com/articles/s41467-022-30936-x)
- - [Personalized structural biology reveals the molecular mechanisms underlying heterogeneous epileptic phenotypes caused by de novo KCNC2 variants](https://www.sciencedirect.com/science/article/pii/S2666247722000471)
+    - [The 3D mutational constraint on amino acid sites in the human proteome](https://www.nature.com/articles/s41467-022-30936-x)
+    - [Personalized structural biology reveals the molecular mechanisms underlying heterogeneous epileptic phenotypes caused by de novo KCNC2 variants](https://www.sciencedirect.com/science/article/pii/S2666247722000471)
 
 **Tuesday Jan 17 - 3:00-4:45PM - Byers Hall 209**
 
-- Tanja or Moez
+- Tanja?
 
 **Wednesday Jan 18 - 3:00-4:45PM - Mission Hall 2105**
 
