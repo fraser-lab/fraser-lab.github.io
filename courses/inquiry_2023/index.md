@@ -46,11 +46,7 @@ Alphafold is one of the buzziest breakthroughs of recent years. What does it mea
 
 **Wednesday Jan 11 - 3:00-4:45PM - Mission Hall 2105**
 
-- Tom Goddard: [ChimeraX demo](https://www.rbvi.ucsf.edu/chimerax/data/delta-opioid-jan2020/binding.html)
-  - [Elucidating the active delta-opioid receptor crystal structure with peptide and small-molecule agonists.](http://cdn.fraserlab.com/courses/inquiry_2020/2019_claff.pdf)
-  - VR links:
-    - [Opiod](https://youtu.be/FCotNi6213w)
-    - [Coronavirus](https://youtu.be/dKNbRRRFhqY)
+- Tanja?
 
 **Thursday Jan 12 - 3:00-4:45PM - Mission Hall 2105**
 
@@ -67,7 +63,12 @@ Alphafold is one of the buzziest breakthroughs of recent years. What does it mea
 
 **Tuesday Jan 17 - 3:00-4:45PM - Byers Hall 209**
 
-- Tanja?
+- Tom Goddard: [ChimeraX demo](https://www.rbvi.ucsf.edu/chimerax/data/delta-opioid-jan2020/binding.html)
+  - [Elucidating the active delta-opioid receptor crystal structure with peptide and small-molecule agonists.](http://cdn.fraserlab.com/courses/inquiry_2020/2019_claff.pdf)
+  - VR links:
+    - [Opiod](https://youtu.be/FCotNi6213w)
+    - [Coronavirus](https://youtu.be/dKNbRRRFhqY)
+
 
 **Wednesday Jan 18 - 3:00-4:45PM - Mission Hall 2105**
 
