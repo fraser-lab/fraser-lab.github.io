@@ -55,6 +55,7 @@ Alphafold is one of the buzziest breakthroughs of recent years. What does it mea
 - who owns genomes?
     - [Establishing a blockchain-enabled Indigenous data sovereignty framework for genomic data](https://www.sciencedirect.com/science/article/pii/S0092867422007826?via%3Dihub)
     - [The Illusion of Inclusion — The “All of Us” Research Program and Indigenous Peoples’ DNA](https://www.nejm.org/doi/full/10.1056/NEJMp1915987)
+    - [Accounting for diversity in the design of CRISPR-based therapeutic genome editing](https://www.nature.com/articles/s41588-022-01272-z)
 
 **Friday Jan 13 - 3:00-4:45PM - Mission Hall 2105**
 
