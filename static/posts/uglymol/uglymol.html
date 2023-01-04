@@ -60,8 +60,8 @@
    a { color: #59C; }
   </style>
 
-  <script src="/static/js/uglymol/uglymol.js"></script>
-  <script src="static/js/uglymol/mtz.js"></script>
+  <script src="/static/posts/uglymol/uglymol.js"></script>
+  <script src="/static/posts/uglymol/mtz.js"></script>
 
 </head>
 <body style="background-color: black">
@@ -75,10 +75,10 @@
     V = new UM.Viewer({viewer: "viewer", hud: "hud", help: "help"});
     G = null;
     function load_from_pdbe(id, callback) {
-      V.load_pdb('/static/uglymol/' + id + '.pdb', {},
+      V.load_pdb('/static/posts/uglymol/' + id + '.pdb', {},
                  function () {
           UM.load_maps_from_mtz(G, V,
-            '/static/uglymol/' + id + '.mtz',
+            '/static/posts/uglymol/' + id + '.mtz',
             null, callback);
       });
     }
