@@ -80,12 +80,14 @@ This is a team-based class where students work in small groups develop their own
 	 - chimerax
 	 - pymol
 	 - EMAN2
+
 ## Tuesday January 10
 - Why structural biology/Intro to Pchem (JG)
 	- [Forces contributing to the conformational stability of proteins](https://faseb.onlinelibrary.wiley.com/doi/pdfdirect/10.1096/fasebj.10.1.8566551)
 - software check part 2!
 - team assignments (4 teams of 5 or 6 students!!!)
 - TEAM 1 to negative stain with KV
+
 ## Wednesday January 11
 - [ChimeraX tutorial by Tom Goddard](https://www.rbvi.ucsf.edu/chimerax/data/nanobody-feb2021/nanobody.html)
 	- [Color by Chemical Shift Perturbations](https://www.rbvi.ucsf.edu/chimerax/data/nanobody-feb2021/chemshift.html)
@@ -146,7 +148,7 @@ MLK DAY - HOLIDAY
 - [Q-scores](http://cdn.fraserlab.com/courses/methods/2004_clore.pdf)
 - [Integrative modeling](http://cdn.fraserlab.com/courses/methods/2019_rout.pdf)
 
-# Feb 7-8 - Computational approaches - Lectures Tanja Kortemme, James Lincoff, Michael Grabe
+# Feb 7-8 - Computational Approaches and Community Building in Structural Biology
 
 ## Tuesday February 7
 ### Lecture from Tanja Kortemme, AlphaFold and RosettaFold
@@ -186,6 +188,7 @@ MLK DAY - HOLIDAY
 - B factors and what they might mean
 - Ensemble refinement
 - [Coot tutorial video](https://www.youtube.com/watch?v=6RxvOFNu_rA)
+
 ## Monday February 20 - PRESIDENTS DAY
 
 ## Tuesday February 21
@@ -204,7 +207,8 @@ MLK DAY - HOLIDAY
 # Final write up due: one per team - Feb 27
 - EM: which of the 12 sequences/structure is your sample? Explain how you processed your data and identified which one it is? How can you quantify whether you are correct?
 - X-ray: How did you quantify your data (presence/absence of ligands)? What conclusions can you draw about the forces driving ligand binding at the atomistic level?
-- NMR: 
+- NMR: JOHN???
+
 # Supplemental material and tutorial videos
 
 - [Getting started in CryoEM - Grant Jensen lectures](https://www.youtube.com/playlist?list=PL8_xPU5epJdctoHdQjpfHmd_z9WvGxK8-)
