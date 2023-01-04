@@ -97,18 +97,19 @@ This is a team-based class where students work in small groups develop their own
 ## Monday January 16
 MLK DAY - HOLIDAY
 
-## Tuesday January 17  - UP TO KLIM WHICH DAYS HE WANTS LECTURES/TUTORIALS
-### [Lecture 1 from Yifan Cheng](http://cdn.fraserlab.com/methods/yc2021_1.pdf)
+## Tuesday January 17 
+### Lecture 1 from Yifan Cheng 
 
 ## Wednesday January 18
-### [Lecture 2 from Yifan Cheng](http://cdn.fraserlab.com/methods/yc2021_2.pdf)
+### Lecture 2 from Yifan Cheng
 ### Tutorial 1 (KLIM)
-
-
+- TEAM 2 to negative stain with KV?
 ## Monday January 23 
 ### Tutorial 2 (KLIM)
+- TEAM 3 to negative stain with KV?
 ## Tuesday January 24
 ### Tutorial 3 (KLIM)
+- TEAM 4 to negative stain with KV?
 ## Reading on rigor and reproducibility in EM:
 - [cisTEM paper](http://cdn.fraserlab.com/courses/methods/2018_grant.pdf)
 - [FSC](https://en.wikipedia.org/wiki/Fourier_shell_correlation) and [early example in EM](http://cdn.fraserlab.com/courses/methods/1982_saxton.pdf)
@@ -189,11 +190,11 @@ MLK DAY - HOLIDAY
 
 ## Tuesday February 21
 ### Lecture 4 from Bob Stroud
-### Tutorial on data analysis and scripting
+### Tutorial on data analysis and scripting (JF)
 
 ## Wednesday February 22
 
-### Tutorial on data analysis and scripting
+### Tutorial on data analysis and scripting (JF)
 ## Reading on rigor and reproducibility in Crystallography:
 - [R-free](http://cdn.fraserlab.com/courses/methods/1992_brunger.pdf)
 - [MolProbity](http://cdn.fraserlab.com/courses/methods/2010_chen.pdf)
