@@ -104,14 +104,18 @@ MLK DAY - HOLIDAY
 
 ## Wednesday January 18
 ### Lecture 2 from Yifan Cheng
+
 ### Tutorial 1 (KLIM)
 - TEAM 2 to negative stain with KV?
+
 ## Monday January 23 
 ### Tutorial 2 (KLIM)
 - TEAM 3 to negative stain with KV?
+
 ## Tuesday January 24
 ### Tutorial 3 (KLIM)
 - TEAM 4 to negative stain with KV?
+
 ## Reading on rigor and reproducibility in EM:
 - [cisTEM paper](http://cdn.fraserlab.com/courses/methods/2018_grant.pdf)
 - [FSC](https://en.wikipedia.org/wiki/Fourier_shell_correlation) and [early example in EM](http://cdn.fraserlab.com/courses/methods/1982_saxton.pdf)
@@ -188,6 +192,8 @@ MLK DAY - HOLIDAY
 - B factors and what they might mean
 - Ensemble refinement
 - [Coot tutorial video](https://www.youtube.com/watch?v=6RxvOFNu_rA)
+
+## Thursday February 16 - BEAMLINE TRIP???
 
 ## Monday February 20 - PRESIDENTS DAY
 
