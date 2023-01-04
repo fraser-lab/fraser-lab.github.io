@@ -59,9 +59,7 @@ This is a team-based class where students work in small groups develop their own
 # Jan 9-11 - Class intro
 
 ## Monday January 9
-- Welcome: structure of the class, zoom norms, teams and work-together recommendations, relationship to Macro mini-quals, final presentations for this class (AM)
-- Why structural biology/Intro to Pchem (JG)
-	- [Forces contributing to the conformational stability of proteins](https://faseb.onlinelibrary.wiley.com/doi/pdfdirect/10.1096/fasebj.10.1.8566551)
+- Welcome: structure of the class, zoom norms, teams and work-together recommendations, relationship to Macro mini-quals, final writeups for this class (JF)
 - [FFT 101](https://docs.google.com/presentation/d/13-tG0L3H70MA232TBcsvv3pkHsm3K2sVot4vDs9Xl5E/edit#slide=id.g10a62644d57_1_0) (JF)
 	- Waves: amplitude/intensity, phase, frequency/wavelength (and in multiple dimensions: direction/index)
 	- How to sum sine waves together: weights/amplitude - can make any periodic function!
@@ -71,20 +69,27 @@ This is a team-based class where students work in small groups develop their own
 	- [interactive website used in class for demo](http://www.jezzamon.com/fourier/) 
 	- [sin wave grapher](https://www.desmos.com/calculator/w9jrdpvsmk)	
 	- [another cool fourier thing](https://www.tomasboril.cz/fourierseries3d/en/)
-- [Aeronabs](https://science.sciencemag.org/content/early/2020/11/04/science.abe3255.long) and [What Aashish's miniquals might look like](http://cdn.fraserlab.com/courses/methods/20210215_MacroMethods.pdf) (AM)
-	- Review: [Dynamic personalities of proteins](https://www.nature.com/articles/nature06522)
-
-
+- The technique in a few minutes with reference to the importance of the Fourier Transform!
+	- JF Xray crystallography
+	- KV CryoEM
+	- JG NMR
+- software check:
+	 - coot
+	 - phenix
+	 - ccp4 (for dials, xia2)
+	 - chimerax
+	 - pymol
+	 - EMAN2
 ## Tuesday January 10
-- Equity in structural biology - who is in the room, who has access to instrumentation, and who gets credit. (JF)
-	- Before class, watch the first 14 minutes of [this video](https://www.mskcc.org/videos/kravis-wise-life-and-legacy-dr-rosalind-franklin-november-23-2020) for the history of Rosalind Franklin (stop when Cynthia Wolberger starts her lecture!)
-	- Guest lecture on Rosalind Franklin's Scientific Legacy by [Prof. Cynthia Wolberger of Johns Hopkins](http://wolberger.med.jhmi.edu/)
-- [Software instructions](https://docs.google.com/document/d/1bPXQNT0DGwznYD4zoPZnher61cUIHpD-bOYME-P0A2w/edit?usp=sharing)
-
-
+- Why structural biology/Intro to Pchem (JG)
+	- [Forces contributing to the conformational stability of proteins](https://faseb.onlinelibrary.wiley.com/doi/pdfdirect/10.1096/fasebj.10.1.8566551)
+- software check part 2!
+- team assignments (4 teams of 5 or 6 students!!!)
+- TEAM 1 to negative stain with KV
 ## Wednesday January 11
 - [ChimeraX tutorial by Tom Goddard](https://www.rbvi.ucsf.edu/chimerax/data/nanobody-feb2021/nanobody.html)
-
+	- [Color by Chemical Shift Perturbations](https://www.rbvi.ucsf.edu/chimerax/data/nanobody-feb2021/chemshift.html)
+	- [How to View Nanobody Molecular Dynamics in ChimeraX](https://www.rbvi.ucsf.edu/chimerax/data/nanobody-feb2021/nanobody_md.html)
 
 
 # Jan 17-24 - CryoEM - Lectures Yifan Cheng, Tutorials Klim Verba
@@ -97,24 +102,13 @@ MLK DAY - HOLIDAY
 
 ## Wednesday January 18
 ### [Lecture 2 from Yifan Cheng](http://cdn.fraserlab.com/methods/yc2021_2.pdf)
-### Tutorial 1:
+### Tutorial 1 (KLIM)
 
 
 ## Monday January 23 
-### Tutorial 2:
-- Examining 2D classes
-- Ab initio vs. starting 3D references (low pass filtered from [7KKK](https://www.rcsb.org/structure/7KKK))
-- 3D map refinement
-
+### Tutorial 2 (KLIM)
 ## Tuesday January 24
-### [Lecture 3 from Yifan Cheng](http://cdn.fraserlab.com/methods/yc2021_3.pdf)
-### Tutorial 3:
-- Moving files off of AWS with scp
-- 3D map classification
-- [map sharpening](https://www.phenix-online.org/documentation/reference/auto_sharpen.html)
-- [model refinement](https://www.phenix-online.org/documentation/reference/real_space_refine.html)
-- Expectations for presentations: decision tree, summary of results, comparisons within decisions/to published, conformational analysis of Nb and confidence in that assessment.
-
+### Tutorial 3 (KLIM)
 ## Reading on rigor and reproducibility in EM:
 - [cisTEM paper](http://cdn.fraserlab.com/courses/methods/2018_grant.pdf)
 - [FSC](https://en.wikipedia.org/wiki/Fourier_shell_correlation) and [early example in EM](http://cdn.fraserlab.com/courses/methods/1982_saxton.pdf)
@@ -154,27 +148,13 @@ MLK DAY - HOLIDAY
 # Feb 7-8 - Computational approaches - Lectures Tanja Kortemme, James Lincoff, Michael Grabe
 
 ## Tuesday February 7
-
-### Lecture from James Lincoff and Michael Grabe, Molecular Dynamics simulations
-- James Lincoff (Grabe lab) on simulations of AeroNabs
-	- [Trajectory data](https://ucsf.box.com/s/xtx3jm8esx2c15zyz1z97jy0mlbbgswe)
-	- [Pymol install instructions](https://pymolwiki.org/index.php/MAC_Install)
-
-
-
-## Wednesday February 8
-
-
 ### Lecture from Tanja Kortemme, AlphaFold and RosettaFold
 
-### Material from Tom Goddard
-- [ChimeraX tutorial part II and Q/A by Tom Goddard](https://www.rbvi.ucsf.edu/chimerax/data/nanobody-feb2021/nanobody.html)
-	- [Color by Chemical Shift Perturbations](https://www.rbvi.ucsf.edu/chimerax/data/nanobody-feb2021/chemshift.html)
-	- [How to View Nanobody Molecular Dynamics in ChimeraX](https://www.rbvi.ucsf.edu/chimerax/data/nanobody-feb2021/nanobody_md.html)
+## Wednesday February 8
+- LISA ESHUN WILSON - Her recent work and building Diversity, Equity, and Inclusion in structural biology
 
 
-
-# Feb 13-22 X-ray Crystallography - Lectures Bob Stroud, Tutorials Aashish Manglik
+# Feb 13-22 X-ray Crystallography - Lectures Bob Stroud, Tutorials James Fraser
 ## Monday February 13
 ### [Lecture 1 from Bob Stroud](http://cdn.fraserlab.com/courses/2022_5dayclass_methods-2-1.pdf)
 ### [Tutorial 1 : What's the deal with the spots](https://docs.google.com/document/d/1nr4IIDVqjRautGy_CnyPHrNbdGwbgTnKjGznl6ZQPII/edit?usp=sharing)
@@ -209,18 +189,21 @@ MLK DAY - HOLIDAY
 
 ## Tuesday February 21
 ### Lecture 4 from Bob Stroud
+### Tutorial on data analysis and scripting
 
 ## Wednesday February 22
-### Lecture 5 from Bob Stroud
 
+### Tutorial on data analysis and scripting
 ## Reading on rigor and reproducibility in Crystallography:
 - [R-free](http://cdn.fraserlab.com/courses/methods/1992_brunger.pdf)
 - [MolProbity](http://cdn.fraserlab.com/courses/methods/2010_chen.pdf)
 - [Data Challenges and synthetic data](http://cdn.fraserlab.com/courses/methods/2019_holton.pdf)
 - [Protein crystallography for non‐crystallographers, or how to get the best (but not more) from published macromolecular structures](https://febs.onlinelibrary.wiley.com/doi/full/10.1111/j.1742-4658.2007.06178.x)
 
-# Final write up due - Feb 27
-
+# Final write up due: one per team - Feb 27
+- EM: which of the 12 sequences/structure is your sample? Explain how you processed your data and identified which one it is? How can you quantify whether you are correct?
+- X-ray: How did you quantify your data (presence/absence of ligands)? What conclusions can you draw about the forces driving ligand binding at the atomistic level?
+- NMR: 
 # Supplemental material and tutorial videos
 
 - [Getting started in CryoEM - Grant Jensen lectures](https://www.youtube.com/playlist?list=PL8_xPU5epJdctoHdQjpfHmd_z9WvGxK8-)
