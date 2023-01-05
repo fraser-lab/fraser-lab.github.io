@@ -107,6 +107,7 @@ MLK DAY - HOLIDAY
 ### Lecture 2 from Yifan Cheng
 - TEAM 2 to negative stain with KV?
 - other teams work on data processing
+
 ## Thursday January 19
 - TEAM 3 to negative stain with KV?
 
