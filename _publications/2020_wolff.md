@@ -5,16 +5,16 @@ journal: 'IUCrJ'
 pub_date: '2020-02-26'
 image: '/static/img/pub/2020_wolff.jpg'
 pmid: '32148858'
-pmcid: 'PMC7055375'
-biorxiv: '767061'
+pmcid: "PMC7055375"
+biorxiv: "767061"
 pdf: 'http://cdn.fraserlab.com/publications/2020_wolff.pdf'
 pdbs:
-- 6U5C
-- 6U5D
-- 6U5E
+- "6U5C"
+- "6U5D"
+- "6U5E"
 paired_maps_and_models:
-- pdb: 6U5G
-  emdb: '20645'
+- pdb: "6U5G"
+  emdb: "20645"
 data:
 - '10.11577/1602169'
 - '10.11577/1598261'
