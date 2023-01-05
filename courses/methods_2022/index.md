@@ -101,20 +101,25 @@ MLK DAY - HOLIDAY
 
 ## Tuesday January 17 
 ### Lecture 1 from Yifan Cheng 
+### Intro to data processing by Klim Verba
 
 ## Wednesday January 18
 ### Lecture 2 from Yifan Cheng
 - TEAM 2 to negative stain with KV?
-
+- other teams work on data processing
 ## Thursday January 19
 - TEAM 3 to negative stain with KV?
 
 ## Monday January 23 
 - TEAM 4 to negative stain with KV?
 - Cryo show and tell, teams 1 and 2
+- other teams work on data processing when not at microscope
+
 ## Tuesday January 24
 - Cryo show and tell, teams 3 and 4
-- rigor and reproducibility?
+- other teams work on data processing when not at microscope
+- rigor and reproducibility - lecture by Klim Verba
+
 ## Reading on rigor and reproducibility in EM:
 - [cisTEM paper](http://cdn.fraserlab.com/courses/methods/2018_grant.pdf)
 - [FSC](https://en.wikipedia.org/wiki/Fourier_shell_correlation) and [early example in EM](http://cdn.fraserlab.com/courses/methods/1982_saxton.pdf)
