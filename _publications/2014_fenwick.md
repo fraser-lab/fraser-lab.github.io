@@ -1,6 +1,6 @@
 ---
 title: "Integrated description of protein dynamics from room-temperature X-ray crystallography and NMR"
-authors: "Fenwick RB, van den Bedem H, **Fraser JS**, Wright PE."
+authors: "Fenwick RB, van den Bedem H, **Fraser JS**, Wright PE"
 journal: 'PNAS'
 pub_date: '2014-01-28'
 image: '/static/img/pub/2014_fenwick.jpg'

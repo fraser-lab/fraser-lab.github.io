@@ -1,6 +1,6 @@
 ---
 title: "Genetic interaction mapping informs integrative structure determination of protein complexes"
-authors: "Braberg H&#42;, Echeverria I&#42;, Bohn S&#42;, Cimermancic P&#42;, Shiver A, Alexander R, Xu J, Shales M, Dronamraju R, Jiang S, Dwivedi G, Bogdanoff D, Chaung KK, Hüttenhain R, Wang S, **Mavor D**, Pellarin R, Schneidman D, Bader JS, **Fraser JS**, Morris J, Haber JE, Strahl BD, Gross CA, Dai J, Boeke JD, Sali A, Krogan NJ."
+authors: "Braberg H&#42;, Echeverria I&#42;, Bohn S&#42;, Cimermancic P&#42;, Shiver A, Alexander R, Xu J, Shales M, Dronamraju R, Jiang S, Dwivedi G, Bogdanoff D, Chaung KK, Hüttenhain R, Wang S, **Mavor D**, Pellarin R, Schneidman D, Bader JS, **Fraser JS**, Morris J, Haber JE, Strahl BD, Gross CA, Dai J, Boeke JD, Sali A, Krogan NJ"
 journal: 'Science'
 pub_date: '2020-12-11'
 image: '/static/img/pub/2020_braberg.jpg'

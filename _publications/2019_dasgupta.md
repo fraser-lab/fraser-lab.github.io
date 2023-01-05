@@ -1,6 +1,6 @@
 ---
 title: "Mix-and-inject XFEL crystallography reveals gated conformational dynamics during enzyme catalysis"
-authors: "Dasgupta M, Budday D, **Oliveira SHP**, Madzelan P, Marchany-Rivera D, Seravalli J, Hayes B, Sierra RG, Boutet S, Hunter MS, Alonso-Mori R, Batyuk A, Wierman J, Lyubimov A, Brewster AS, Sauter NK, Applegate GA, Tiwari VK, Berkowitz DB, **Thompson MC**, Cohen AE, **Fraser JS**, Wall ME, van den Bedem H, Wilson MA."
+authors: "Dasgupta M, Budday D, **Oliveira SHP**, Madzelan P, Marchany-Rivera D, Seravalli J, Hayes B, Sierra RG, Boutet S, Hunter MS, Alonso-Mori R, Batyuk A, Wierman J, Lyubimov A, Brewster AS, Sauter NK, Applegate GA, Tiwari VK, Berkowitz DB, **Thompson MC**, Cohen AE, **Fraser JS**, Wall ME, van den Bedem H, Wilson MA"
 journal: 'PNAS'
 pub_date: '2019-12-17'
 image: '/static/img/pub/2019_dasgupta.jpg'

@@ -1,6 +1,6 @@
 ---
 title: "Cryo-EM model validation recommendations based on outcomes of the 2019 EMDataResource challenge"
-authors: "Lawson CL, Kryshtafovych A, Adams PD, Afonine PV, Baker ML, **Barad BA**, Bond P, Burnley T, Cao R, Cheng J, Chojnowski G, Cowtan K, Dill KA, DiMaio F, Farrell DP, **Fraser JS**, Jr. Herzik MA, Hoh SW, Hou J, Hung L, Igaev M, Joseph AP, Kihara D, Kumar D, Mittal S, Monastyrskyy B, Olek M, Palmer CM, Patwardhan A, Perez A, Pfab J, Pintilie GD, Richardson JS, Rosenthal PB, Sarkar D, Schäfer LU, Schmid MF, Schröder GF, Shekhar M, Si D, Singharoy A, Terashi G, Terwilliger TC, Vaiana A, Wang L, Wang Z, **Wankowicz SA**, Williams CJ, Winn M, Wu T, Yu X, Zhang K, Berman HM, Chiu W."
+authors: "Lawson CL, Kryshtafovych A, Adams PD, Afonine PV, Baker ML, **Barad BA**, Bond P, Burnley T, Cao R, Cheng J, Chojnowski G, Cowtan K, Dill KA, DiMaio F, Farrell DP, **Fraser JS**, Jr. Herzik MA, Hoh SW, Hou J, Hung L, Igaev M, Joseph AP, Kihara D, Kumar D, Mittal S, Monastyrskyy B, Olek M, Palmer CM, Patwardhan A, Perez A, Pfab J, Pintilie GD, Richardson JS, Rosenthal PB, Sarkar D, Schäfer LU, Schmid MF, Schröder GF, Shekhar M, Si D, Singharoy A, Terashi G, Terwilliger TC, Vaiana A, Wang L, Wang Z, **Wankowicz SA**, Williams CJ, Winn M, Wu T, Yu X, Zhang K, Berman HM, Chiu W"
 journal: 'Nature Methods'
 pub_date: '2021-02-04'
 image: '/static/img/pub/2020_lawson.jpg'

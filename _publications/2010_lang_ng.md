@@ -1,6 +1,6 @@
 ---
 title: "Automated electron-density sampling reveals widespread conformational polymorphism in proteins"
-authors: "Lang PT&#42;, Ng HL&#42;, **Fraser JS**, Corn JE, Echols N, Sales M, Holton JM, Alber T."
+authors: "Lang PT&#42;, Ng HL&#42;, **Fraser JS**, Corn JE, Echols N, Sales M, Holton JM, Alber T"
 journal: 'Protein Science'
 pub_date: '2010-06-23'
 image: '/static/img/pub/2010_lang_ng.jpg'

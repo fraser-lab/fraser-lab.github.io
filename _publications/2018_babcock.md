@@ -1,6 +1,6 @@
 ---
 title: "Model selection for biological crystallography"
-authors: "Babcock NS, **Keedy DA**, **Fraser JS**, Sivak DA."
+authors: "Babcock NS, **Keedy DA**, **Fraser JS**, Sivak DA"
 journal:
 pub_date: '2018-10-20'
 image: '/static/img/pub/2018_babcock.jpg'

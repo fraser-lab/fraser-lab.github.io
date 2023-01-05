@@ -1,6 +1,6 @@
 ---
 title: "Systematic functional prioritization of protein posttranslational modifications"
-authors: "Beltrao P, Albanèse V, **Kenner LR**, Swaney DL, Burlingame A, Villén J, Lim WA, **Fraser JS**, Frydman J, Krogan NJ."
+authors: "Beltrao P, Albanèse V, **Kenner LR**, Swaney DL, Burlingame A, Villén J, Lim WA, **Fraser JS**, Frydman J, Krogan NJ"
 journal: 'Cell'
 pub_date: '2012-07-20'
 image: '/static/img/pub/2012_beltrao.png'

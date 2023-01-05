@@ -1,6 +1,6 @@
 ---
 title: "From deep TLS validation to ensembles of atomic models built from elemental motions"
-authors: "Urzhumtsev A, Afonine PV, **Van Benschoten AH, Fraser JS**, Adams PD."
+authors: "Urzhumtsev A, Afonine PV, **Van Benschoten AH, Fraser JS**, Adams PD"
 journal: 'Acta Crystallographica D'
 pub_date: '2015-08-01'
 image: '/static/img/pub/2015_urzhumtsev.jpg'

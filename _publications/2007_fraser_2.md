@@ -1,6 +1,6 @@
 ---
 title: "Immunoglobulin-Like domains on bacteriophage: weapons of modest damage?"
-authors: "**Fraser JS**, Maxwell KL, Davidson, AR."
+authors: "**Fraser JS**, Maxwell KL, Davidson AR"
 journal: 'Current Opinion in Microbiology'
 pub_date: '2007-08-01'
 image: '/static/img/pub/2007_fraser_2.jpg'

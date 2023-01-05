@@ -1,6 +1,6 @@
 ---
 title: "Allosteric inhibitors, crystallography and comparative analysis reveal network of coordinated movement across human herpesvirus proteases"
-authors: "Acker TM, Gable JE, Bohn MF, Jaishankar P, **Thompson MC, Fraser JS**, Renslo AR, Craik CS."
+authors: "Acker TM, Gable JE, Bohn MF, Jaishankar P, **Thompson MC, Fraser JS**, Renslo AR, Craik CS"
 journal: 'JACS'
 pub_date: '2017-08-30'
 image: '/static/img/pub/2017_acker.jpg'

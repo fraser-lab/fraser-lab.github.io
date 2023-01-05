@@ -1,6 +1,6 @@
 ---
 title: "Ensemble-based enzyme design can recapitulate the effects of laboratory directed evolution in silico"
-authors: "Broom A&#42;, Rakotoharisoa RV&#42;, **Thompson MC**, Zarifi N, Nguyen E, Mukhametzhanov N, **Liu L, Fraser JS**, Chica RA."
+authors: "Broom A&#42;, Rakotoharisoa RV&#42;, **Thompson MC**, Zarifi N, Nguyen E, Mukhametzhanov N, **Liu L, Fraser JS**, Chica RA"
 journal: 'Nature Communications'
 pub_date: '2020-09-23'
 image: '/static/img/pub/2020_broom_rakotoharisoa.jpg'

@@ -1,6 +1,6 @@
 ---
 title: " From systems to structure: bridging networks and mechanism"
-authors: "**Fraser JS**, Gross JD, Krogan NJ."
+authors: "**Fraser JS**, Gross JD, Krogan NJ"
 journal: 'Nature Methods'
 pub_date: '2013-01-24'
 image: '/static/img/pub/2013_fraser.jpg'

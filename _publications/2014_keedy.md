@@ -1,6 +1,6 @@
 ---
 title: "Crystal cryocooling distorts conformational heterogeneity in a model Michaelis complex of DHFR"
-authors: "**Keedy DA**, van den Bedem H, Sivak DA, Petsko GA, Ringe D, Wilson MA, **Fraser JS**."
+authors: "**Keedy DA**, van den Bedem H, Sivak DA, Petsko GA, Ringe D, Wilson MA, **Fraser JS**"
 journal: 'Structure'
 pub_date: '2014-06-10'
 image: '/static/img/pub/2014_keedy.jpg'

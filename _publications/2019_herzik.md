@@ -1,6 +1,6 @@
 ---
 title: "A multi-model approach to assessing local and global cryo-EM map quality"
-authors: "Herzik Jr. MA, **Fraser JS**, Lander GC."
+authors: "Herzik Jr. MA, **Fraser JS**, Lander GC"
 journal: 'Structure'
 pub_date: '2019-02-05'
 image: '/static/img/pub/2019_herzik.jpg'

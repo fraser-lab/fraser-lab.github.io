@@ -1,6 +1,6 @@
 ---
 title: "Mapping Protein Dynamics at High-Resolution with Temperature-Jump X-ray Crystallography"
-authors: "**Wolff AM**, Nango E, **Young ID**, Brewster AS, Kubo M, Nomura T, Sugahara M, Owada S, **Barad BA, Ito K**, Bhowmick A, Carbajo S, Hino T, Holton JM, Im D, O'Riordan LJ, Tanaka T, Tanaka R, Sierra RG, Yumoto F, Tono K, Iwata S, Sauter NK, **Fraser JS, Thompson MC**."
+authors: "**Wolff AM**, Nango E, **Young ID**, Brewster AS, Kubo M, Nomura T, Sugahara M, Owada S, **Barad BA, Ito K**, Bhowmick A, Carbajo S, Hino T, Holton JM, Im D, O'Riordan LJ, Tanaka T, Tanaka R, Sierra RG, Yumoto F, Tono K, Iwata S, Sauter NK, **Fraser JS, Thompson MC**"
 journal:
 pub_date: "2022-06-12"
 image: "/static/img/pub/2022_wolff.png"

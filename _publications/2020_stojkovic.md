@@ -1,6 +1,6 @@
 ---
 title: "Assessment of the nucleotide modifications in the high-resolution cryo-electron microscopy structure of the Escherichia coli 50S subunit"
-authors: "Stojković V, Myasnikov AG, **Young ID**, Frost A, **Fraser JS**, Fujimori DG."
+authors: "Stojković V, Myasnikov AG, **Young ID**, Frost A, **Fraser JS**, Fujimori DG"
 journal: 'Nucleic Acids Research'
 pub_date: '2020-03-18'
 image: '/static/img/pub/2020_stojkovic.jpg'

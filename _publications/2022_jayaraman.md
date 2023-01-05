@@ -1,6 +1,6 @@
 ---
 title: "A counter-enzyme complex regulates glutamate metabolism in Bacillus subtilis"
-authors: "Jayaraman V, **Lee DJ**, Elad N, Vimer S, Sharon M, **Fraser JS**, Tawfik DS."
+authors: "Jayaraman V, **Lee DJ**, Elad N, Vimer S, Sharon M, **Fraser JS**, Tawfik DS"
 journal: "Nature Chemical Biology"
 pub_date: "2022-02-01"
 image: "/static/img/pub/2021_jayaraman.jpg"

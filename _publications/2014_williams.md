@@ -1,7 +1,6 @@
 ---
 title: "Discovery and characterization of two tryptamine-producing decarboxylases from the gut microbiota"
-authors: "Williams BB, **VanBenschoten AH**, Cimermancic P, Donia MS, Zimmermann M, Taketani M, Ishihara A,
-Kashyap PC, **Fraser JS**, Fischbach MA."
+authors: "Williams BB, **VanBenschoten AH**, Cimermancic P, Donia MS, Zimmermann M, Taketani M, Ishihara A, Kashyap PC, **Fraser JS**, Fischbach MA"
 journal: 'Cell Host and Microbe'
 pub_date: '2014-10-08'
 image: '/static/img/pub/2014_williams.jpg'

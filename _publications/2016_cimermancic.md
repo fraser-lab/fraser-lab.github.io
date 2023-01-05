@@ -1,6 +1,6 @@
 ---
 title: "CryptoSite: Expanding the druggable proteome by characterization and prediction of cryptic binding sites"
-authors: "Cimermancic P, Weinkam P, Rettenmaier TJ, Bichmann L, **Keedy DA, Woldeyes RA**, Schneidmann D, Demerdash ONA, Mitchell JC, Wells JA, **Fraser JS**, Sali A."
+authors: "Cimermancic P, Weinkam P, Rettenmaier TJ, Bichmann L, **Keedy DA, Woldeyes RA**, Schneidmann D, Demerdash ONA, Mitchell JC, Wells JA, **Fraser JS**, Sali A"
 journal: 'Journal of Molecular Biology'
 pub_date: '2016-02-22'
 image: '/static/img/pub/2016_cimermancic.jpg'

@@ -1,6 +1,6 @@
 ---
 title: "Incorporation of protein ﬂexibility and conformational energy penalties in docking screens to improve ligand discovery"
-authors: "Fischer M&#42;, Coleman RG&#42;, **Fraser JS**, Shoichet BK."
+authors: "Fischer M&#42;, Coleman RG&#42;, **Fraser JS**, Shoichet BK"
 journal: "Nature Chemistry"
 pub_date: "2014-05-25"
 image: "/static/img/pub/2014_fischer_coleman.jpg"

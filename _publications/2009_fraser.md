@@ -1,6 +1,6 @@
 ---
 title: "Hidden alternative structures of proline isomerase essential for catalysis"
-authors: "**Fraser JS**, Clarkson MW, Degnan SC, Erion R, Kern D, Alber T."
+authors: "**Fraser JS**, Clarkson MW, Degnan SC, Erion R, Kern D, Alber T"
 journal: 'Nature'
 pub_date: '2009-12-03'
 image: '/static/img/pub/2009_fraser.jpg'

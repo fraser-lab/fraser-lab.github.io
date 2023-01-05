@@ -1,6 +1,6 @@
 ---
 title: "From structure to systems: high-resolution, quantitative genetic analysis of RNA polymerase II"
-authors: "Braberg H, Jin H, Moehle E, Chan YA, Wang S, Shales M, Benschop JJ, Morris JH, **Fraser JS**, Qiu C, Hu F, Tang LK, Holstege FCP, Hieter P, Guthrie C, Kaplan CD, Krogan NJ."
+authors: "Braberg H, Jin H, Moehle E, Chan YA, Wang S, Shales M, Benschop JJ, Morris JH, **Fraser JS**, Qiu C, Hu F, Tang LK, Holstege FCP, Hieter P, Guthrie C, Kaplan CD, Krogan NJ"
 journal: 'Cell'
 pub_date: '2013-08-15'
 image: '/static/img/pub/2013_braberg.jpg'

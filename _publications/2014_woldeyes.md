@@ -1,6 +1,6 @@
 ---
 title: "E pluribus unum, no more: from one crystal, many conformations"
-authors: "**Woldeyes RA**, Sivak DA, **Fraser JS**."
+authors: "**Woldeyes RA**, Sivak DA, **Fraser JS**"
 journal: 'Current Opinion in Structural Biology'
 pub_date: '2014-10-01'
 image: '/static/img/pub/2014_woldeyes.jpg'

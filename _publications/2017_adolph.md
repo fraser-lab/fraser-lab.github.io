@@ -1,6 +1,6 @@
 ---
 title: "Cytidine deaminase efficiency of the lentiviral viral restriction factor APOBEC3C correlates with dimerization"
-authors: "Adolph MB, Ara A, Feng Y, Wittkopp CJ, Emerman M, **Fraser JS**, Chelico L."
+authors: "Adolph MB, Ara A, Feng Y, Wittkopp CJ, Emerman M, **Fraser JS**, Chelico L"
 journal: 'Nucleic Acids Research'
 pub_date: '2017-04-07'
 image: '/static/img/pub/2017_adolph.jpg'

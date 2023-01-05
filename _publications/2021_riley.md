@@ -1,7 +1,7 @@
 ---
 title: "qFit 3: Protein and ligand multiconformer modeling for X-ray crystallographic and single-particle cryo-EM density maps"
-authors: "Riley BT, **Wankowicz SA**, de Oliveira SHP, van Zundert GCP, **Hogan DW**, **Fraser JS**, Keedy DA, van den Bedem H."
-journal: 'Protein Science'
+authors: "Riley BT, **Wankowicz SA**, de Oliveira SHP, van Zundert GCP, **Hogan DW**, **Fraser JS**, Keedy DA, van den Bedem H"
+journal: "Protein Science"
 pub_date: '2021-01-01'
 image: '/static/img/pub/2020_riley.jpg'
 pmid: '33210433'

@@ -1,6 +1,6 @@
 ---
 title: "Integration of software tools for integrative modeling of biomolecular systems"
-authors: "Hancock M, Peulen TO, Webb B, Poon B, **Fraser JS**, Adams P, Sali A."
+authors: "Hancock M, Peulen TO, Webb B, Poon B, **Fraser JS**, Adams P, Sali A"
 journal: "Journal of Structural Biology"
 pub_date: "2022-02-11"
 image: "/static/img/pub/2022_hancock.png"

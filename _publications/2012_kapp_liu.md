@@ -1,6 +1,6 @@
 ---
 title: "Control of protein signaling using a computationally designed GTPase/GEF orthogonal pair"
-authors: "Kapp GT&#42;, Liu S&#42;, Stein A, Wong DT, Reményi A, Yeh BJ, **Fraser JS**, Taunton J, Lim WA, Kortemme T."
+authors: "Kapp GT&#42;, Liu S&#42;, Stein A, Wong DT, Reményi A, Yeh BJ, **Fraser JS**, Taunton J, Lim WA, Kortemme T"
 journal: 'PNAS'
 pub_date: '2012-04-03'
 image: '/static/img/pub/2012_kapp_liu.jpg'

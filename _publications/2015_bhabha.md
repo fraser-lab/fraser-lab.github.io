@@ -1,6 +1,6 @@
 ---
 title: "Keep on moving: discovering and perturbing the conformational dynamics of enzymes"
-authors: "Bhabha G, **Biel JT, Fraser JS**."
+authors: "Bhabha G, **Biel JT, Fraser JS**"
 journal: 'Accounts of Chemical Research'
 pub_date: '2015-02-17'
 image: '/static/img/pub/2015_bhabha.jpg'

@@ -1,6 +1,6 @@
 ---
 title: "State of the structure address on MET receptor activation by HGF"
-authors: "Linossi EM, **Estevam GO**, Oshima M, **Fraser JS**, Collisson EA, Jura N."
+authors: "Linossi EM, **Estevam GO**, Oshima M, **Fraser JS**, Collisson EA, Jura N"
 journal: "Biochemical Society Transactions"
 pub_date: "2021-04-16"
 image: "/static/img/pub/2021_linossi.jpg"

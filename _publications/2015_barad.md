@@ -1,6 +1,6 @@
 ---
 title: "EMRinger: Side-chain-directed model and map validation for 3D electron cryomicroscopy"
-authors: "**Barad BA**, Echols N, Wang RYR, Cheng Y, DiMaio F, Adams PD, **Fraser JS**."
+authors: "**Barad BA**, Echols N, Wang RYR, Cheng Y, DiMaio F, Adams PD, **Fraser JS**"
 journal: 'Nature Methods'
 pub_date: '2015-08-17'
 image: '/static/img/pub/2015_barad.jpg'

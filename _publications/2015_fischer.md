@@ -1,6 +1,6 @@
 ---
 title: "One crystal, two temperatures – cryocooling penalties alter ligand binding to transient protein sites"
-authors: "Fischer M, Shoichet BK, **Fraser JS**."
+authors: "Fischer M, Shoichet BK, **Fraser JS**"
 journal: 'ChemBioChem'
 pub_date: '2015-07-27'
 image: '/static/img/pub/2015_fischer.jpg'

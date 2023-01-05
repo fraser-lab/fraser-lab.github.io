@@ -1,6 +1,6 @@
 ---
 title: "Discovery of allosteric binding sites by crystallographic fragment screening"
-authors: "Krojer T, **Fraser JS**, von Delft F."
+authors: "Krojer T, **Fraser JS**, von Delft F"
 journal: 'Current Opinions in Structural Biology'
 pub_date: '2020-11-07'
 image: '/static/img/pub/2020_krojer.jpg'

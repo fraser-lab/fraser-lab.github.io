@@ -2,7 +2,7 @@
 title: "Fragment-based hit discovery via unsupervised learning of fragment-protein complexes"
 authors: "McCorkindale W, Ahel I, Barr H, **Correy GJ**, **Fraser JS**, London N, Schuller M, Shurrush K, Lee AA"
 journal: #"Journal Name"
-pub_date: "2022-11-24" #Date of publication. Change from Biorxiv date to Journal date once accepted
+pub_date: "2022-11-24" #Change from Biorxiv date to Journal date once accepted
 image: "/static/img/pub/2022_mccorkindale.png" #Minimum dimensions TBD
 pmid: #"########"
 pmcid: #"PMC#######"

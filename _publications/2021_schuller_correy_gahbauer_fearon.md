@@ -1,6 +1,6 @@
 ---
 title: "Fragment binding to the Nsp3 macrodomain of SARS-CoV-2 identified through crystallographic screening and computational docking"
-authors: "Schuller M&#42;, **Correy GJ&#42;**, Gahbauer S&#42;, Fearon D&#42;, Wu T, **Díaz RE, Young ID**, Carvalho Martins L, Smith DS, Schulze-Gahmen U, Owens TW, Deshpande I, Merz GE, Thwin AC, **Biel JT**, Peters JK, Mortiz M, Herrera N, Kratochvil HT, **QCRG Structural Biology Consortium**, Aimon A, Bennett MJ, Brandao Neto J, Cohen EA, Dias A, Douangamath A, Dunnett L, Fedorov O, Ferla PM, Fuchs M, Gorrie-Stone JT, Holton MJ, Johnson GM, Krojer T, Meigs G, Powell JA, Rack J, Rangel LV, Russi S, Skyner ER, Smith AC, Soares SA, Wierman LJ, Zhu K, O'Brien P, Jura N, Ashworth A, Irwin J, **Thompson MC**, Gestwicki JE, von Delft F, Shoichet BK, **Fraser JS**, Ahel I."
+authors: "Schuller M&#42;, **Correy GJ&#42;**, Gahbauer S&#42;, Fearon D&#42;, Wu T, **Díaz RE, Young ID**, Carvalho Martins L, Smith DS, Schulze-Gahmen U, Owens TW, Deshpande I, Merz GE, Thwin AC, **Biel JT**, Peters JK, Mortiz M, Herrera N, Kratochvil HT, **QCRG Structural Biology Consortium**, Aimon A, Bennett MJ, Brandao Neto J, Cohen EA, Dias A, Douangamath A, Dunnett L, Fedorov O, Ferla PM, Fuchs M, Gorrie-Stone JT, Holton MJ, Johnson GM, Krojer T, Meigs G, Powell JA, Rack J, Rangel LV, Russi S, Skyner ER, Smith AC, Soares SA, Wierman LJ, Zhu K, O'Brien P, Jura N, Ashworth A, Irwin J, **Thompson MC**, Gestwicki JE, von Delft F, Shoichet BK, **Fraser JS**, Ahel I"
 journal: "Science Advances"
 pub_date: "2021-04-14"
 image: "/static/img/pub/2020_schuller_correy_gahbauer_fearon.jpg"
@@ -286,6 +286,6 @@ links:
   url: https://www.ucsf.edu/news/2020/07/418056/building-blocks-covid-19-antiviral-drugs-identified-rapid-study
 - name: Practical Fragments - Hundreds of fragments hits for the SARS-CoV-2 Nsp3 Macrodomain
   url: http://practicalfragments.blogspot.com/2021/01/hundreds-of-fragments-hits-for-sars-cov.html
-- name: Massive fragment screen points way to new SARS-CoV-2 inhibitors  
+- name: Massive fragment screen points way to new SARS-CoV-2 inhibitors
   url: https://www.diamond.ac.uk/Home/News/LatestNews/2021/16-04-21.html
 ---

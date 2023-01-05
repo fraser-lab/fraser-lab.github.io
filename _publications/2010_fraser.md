@@ -1,6 +1,6 @@
 ---
 title: "Accessing protein conformational ensembles by room-temperature X-ray crystallography"
-authors: "**Fraser JS**, van den Bedem H, Samelson AJ, Lang PT, Holton JM, Echols N, Alber T."
+authors: "**Fraser JS**, van den Bedem H, Samelson AJ, Lang PT, Holton JM, Echols N, Alber T"
 journal: 'PNAS'
 pub_date: '2011-09-27'
 image: '/static/img/pub/2011_fraser.jpg'

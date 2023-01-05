@@ -1,6 +1,6 @@
 ---
 title: "Rescue of conformational dynamics in enzyme catalysis by directed evolution"
-authors: "Otten R&#42;, **Liu L&#42;, Kenner LR**, Clarkson MW, **Mavor D**, Tawfik DS, Kern D, **Fraser JS**."
+authors: "Otten R&#42;, **Liu L&#42;, Kenner LR**, Clarkson MW, **Mavor D**, Tawfik DS, Kern D, **Fraser JS**"
 journal: 'Nature Communications'
 pub_date: '2018-04-03'
 image: '/static/img/pub/2018_otten_liu.jpg'

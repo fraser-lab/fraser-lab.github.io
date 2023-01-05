@@ -1,6 +1,6 @@
 ---
 title: "What will computational modelling approaches have to say in the era of atomistic cryo-EM data?"
-authors: "**Fraser JS**, Lindorff-Larsen K, Bonomi M."
+authors: "**Fraser JS**, Lindorff-Larsen K, Bonomi M"
 journal: 'Journal of Chemical Information and Modeling'
 pub_date: '2020-02-24'
 image: '/static/img/pub/2020_fraser.jpg'
