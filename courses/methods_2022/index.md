@@ -80,6 +80,7 @@ This is a team-based class where students work in small groups develop their own
 	 - chimerax
 	 - pymol
 	 - EMAN2
+	 - NMRBox signup
 
 ## Tuesday January 10
 - Why structural biology/Intro to Pchem (JG)
@@ -131,6 +132,7 @@ MLK DAY - HOLIDAY
 
 ## Wednesday January 25
 ### [Lecture 1 from John Gross, Introduction to Multidimensional NMR](http://cdn.fraserlab.com/courses/Methods-NMR-2022-LECTURE1.pdf)
+- intro to the system (nanobodies)
 - demonstration of NMR data processing, John Gross
 - [from FID to 2D](http://cdn.fraserlab.com/courses/2022_2DNMR_Processing_Tutorial.pdf) (Allie Born and John Gross)
 - Supplemental reading: [How does an HSQC work?](http://cdn.fraserlab.com/courses/methods/HSQC-Guided-tour.pdf)
@@ -170,6 +172,7 @@ MLK DAY - HOLIDAY
 ## Monday February 13
 ### [Lecture 1 from Bob Stroud](http://cdn.fraserlab.com/courses/2022_5dayclass_methods-2-1.pdf)
 ### [Tutorial 1 : What's the deal with the spots](https://docs.google.com/document/d/1nr4IIDVqjRautGy_CnyPHrNbdGwbgTnKjGznl6ZQPII/edit?usp=sharing)
+- What is the system?
 - Examine diffraction data in adxv
 - Use xia2 to process diffraction data
 - Understand various metrics for data reduction

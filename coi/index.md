@@ -21,20 +21,19 @@ Equity (held in Trust, with spouse):
 * [Relay Therapeutics](https://relaytx.com/)
 * [Impossible Foods](https://impossiblefoods.com/)
 * [Arda Therapeutics](https://www.ardatherapeutics.com/)
+* [Profluent Bio](https://www.profluent.bio/)
 * Interdict Bio (co-founder)
 
 Consulting/speaker fees/travel within last 2 years:
 
 * [Relay Therapeutics](https://relaytx.com/)
-* [MoMa Therapeutics](https://momatx.com/)
-* [Novartis](https://www.novartis.com/)
 * [Olema Oncology](https://olema.com/)
 * [Merck](https://www.merck.com/)
-* [Arcadia Science](https://www.arcadia.science/)
 * [Octant](https://octant.bio/)
-* RADD Pharmaceuticals
+* [RADD Pharmaceuticals](https://www.linkedin.com/company/radd-pharmaceuticals/about/)
 * [RA Capital](https://www.racap.com/venture)
-* Past: Arcadia Science, Genentech, Revolution Medicines, Third Rock Ventures, Calico, GSK, Schrodinger, CCG, OpenEye, Roche, AstraZeneca
+* [Profluent Bio](https://www.profluent.bio/)
+* Past: MoMa Therapeutics, Novartis, Arcadia Science, Genentech, Revolution Medicines, Third Rock Ventures, Calico, GSK, Schrodinger, CCG, OpenEye, Roche, AstraZeneca, Global Blood Therapeutics
 
 Sponsored and Collaborative Research:
 
