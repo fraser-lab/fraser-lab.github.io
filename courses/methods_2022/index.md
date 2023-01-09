@@ -83,7 +83,7 @@ This is a team-based class where students work in small groups develop their own
 	- Joseph Pepe
 	- Matthew Lyons
 	- Tracy Lou
-
+	- David Larwood 
 # Jan 9-11 - Class intro
 
 ## Monday January 9
@@ -112,6 +112,13 @@ This is a team-based class where students work in small groups develop their own
 	 - NMRBox signup
 
 ## Tuesday January 10
+
+- Followups from first class:
+	- [Fourier Transform from Grant Jensen](https://www.youtube.com/playlist?list=PL8_xPU5epJdctoHdQjpfHmd_z9WvGxK8-), especially videos 14-19, focusing on the 2D and 3D Fourier Tranform ones!
+	- [Andrea Thorn intro to Crystallography series](https://www.youtube.com/watch?v=mDbmfyOGLIM&list=PLHHBmgJ8vFm6xZPlWlRGuBaoOM3OGlN5T) - especially video 4 on the Fourier Tranform and minute 37 of that video on Franklin's photograph
+	- [Cynthia Wolberger on Franklin](https://www.youtube.com/watch?v=62BYOReS7BU)
+		- [a longer video on Franklin featuring Cynthia Wolberger](https://www.mskcc.org/videos/kravis-wise-life-and-legacy-dr-rosalind-franklin-november-23-2020)
+
 - Why structural biology/Intro to Pchem (JG)
 	- [Forces contributing to the conformational stability of proteins](https://faseb.onlinelibrary.wiley.com/doi/pdfdirect/10.1096/fasebj.10.1.8566551)
 - software check part 2!
