@@ -54,12 +54,39 @@ This is a team-based class where students work in small groups develop their own
 
 ## 2022 schedule
 
-- TEAM ASSIGNMENTS
+## TEAM ASSIGNMENTS
 
+- 1: Radhika.Dalal@ucsf.edu
+	- Dani Rodea
+	- David Byun
+	- Haley Ogasawara
+	- Jeffrey Zheng
+	- Kelmen Low
+	- Nicholas Freitas
+- 2: Catherine.Kuhn@ucsf.edu
+	- Asa Kalish
+	- Catherine Shin
+	- Jonathan Borowsky
+	- Kamyar Yazdani
+	- Kevin Delgado-Cunningham
+	- Yisheng Zheng
+- 3: Estelle.Ronayne@ucsf.edu
+	- Angelika Arada
+	- Giovanni Aviles
+	- Harry Wu
+	- Henry Scott
+	- Isiac Orr
+	- Kevin Choi
+- 4: Maxwell.Tucker@ucsf.edu
+	- Alex Long
+	- Colton Sanders
+	- Joseph Pepe
+	- Matthew Lyons
+	- Tracy Lou
 # Jan 9-11 - Class intro
 
 ## Monday January 9
-- Welcome: structure of the class, zoom norms, teams and work-together recommendations, relationship to Macro mini-quals, final writeups for this class (JF)
+- Welcome: structure of the class, zoom vs. in person norms, teams and work-together recommendations, auditing, relationship to Macro mini-quals, final writeups for this class (JF)
 - [FFT 101](https://docs.google.com/presentation/d/13-tG0L3H70MA232TBcsvv3pkHsm3K2sVot4vDs9Xl5E/edit#slide=id.g10a62644d57_1_0) (JF)
 	- Waves: amplitude/intensity, phase, frequency/wavelength (and in multiple dimensions: direction/index)
 	- How to sum sine waves together: weights/amplitude - can make any periodic function!
@@ -90,9 +117,10 @@ This is a team-based class where students work in small groups develop their own
 - TEAM 1 to negative stain with KV
 
 ## Wednesday January 11
-- [ChimeraX tutorial by Tom Goddard](https://www.rbvi.ucsf.edu/chimerax/data/nanobody-feb2021/nanobody.html)
-	- [Color by Chemical Shift Perturbations](https://www.rbvi.ucsf.edu/chimerax/data/nanobody-feb2021/chemshift.html)
-	- [How to View Nanobody Molecular Dynamics in ChimeraX](https://www.rbvi.ucsf.edu/chimerax/data/nanobody-feb2021/nanobody_md.html)
+- [ChimeraX tutorial by Tom Goddard](https://www.rbvi.ucsf.edu/chimerax/data/stanford-apr2022/cryoem_intro.html)
+	- Some past tutorials:
+		- [Color by Chemical Shift Perturbations](https://www.rbvi.ucsf.edu/chimerax/data/nanobody-feb2021/chemshift.html)
+		- [How to View Nanobody Molecular Dynamics in ChimeraX](https://www.rbvi.ucsf.edu/chimerax/data/nanobody-feb2021/nanobody_md.html)
 
 
 # Jan 17-24 - CryoEM - Lectures Yifan Cheng, Tutorials Klim Verba
@@ -206,7 +234,6 @@ MLK DAY - HOLIDAY
 ## Monday February 20 - PRESIDENTS DAY
 
 ## Tuesday February 21
-### Lecture 4 from Bob Stroud
 ### Tutorial on data analysis and scripting (JF)
 
 ## Wednesday February 22
