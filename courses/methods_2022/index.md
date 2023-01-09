@@ -101,6 +101,7 @@ This is a team-based class where students work in small groups develop their own
 	- JF Xray crystallography
 	- KV CryoEM
 	- JG NMR
+- BEAMLINE trip Feb 16th
 - software check:
 	 - coot
 	 - phenix
