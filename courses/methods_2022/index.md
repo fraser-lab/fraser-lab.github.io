@@ -83,6 +83,7 @@ This is a team-based class where students work in small groups develop their own
 	- Joseph Pepe
 	- Matthew Lyons
 	- Tracy Lou
+
 # Jan 9-11 - Class intro
 
 ## Monday January 9
