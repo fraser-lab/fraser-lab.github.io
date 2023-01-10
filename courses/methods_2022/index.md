@@ -101,15 +101,6 @@ This is a team-based class where students work in small groups develop their own
 	- JF Xray crystallography
 	- KV CryoEM
 	- JG NMR
-- BEAMLINE trip Feb 16th
-- software check:
-	 - coot
-	 - phenix
-	 - ccp4 (for dials, xia2)
-	 - chimerax
-	 - pymol
-	 - EMAN2
-	 - NMRBox signup
 
 ## Tuesday January 10
 
@@ -121,8 +112,18 @@ This is a team-based class where students work in small groups develop their own
 
 - Why structural biology/Intro to Pchem (JG)
 	- [Forces contributing to the conformational stability of proteins](https://faseb.onlinelibrary.wiley.com/doi/pdfdirect/10.1096/fasebj.10.1.8566551)
-- software check part 2!
-- team assignments (4 teams of 5 or 6 students!!!)
+
+
+- BEAMLINE trip Feb 16th
+- software check:
+	 - coot
+	 - phenix
+	 - ccp4 (for dials, xia2)
+	 - chimerax
+	 - pymol
+	 - EMAN2
+	 - NMRBox signup
+
 - TEAM 1 to negative stain with KV
 
 ## Wednesday January 11
