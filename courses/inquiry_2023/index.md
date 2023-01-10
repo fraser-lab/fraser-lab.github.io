@@ -40,6 +40,10 @@ Alphafold is one of the buzziest breakthroughs of recent years. What does it mea
 **Tuesday Jan 10 - 3:00-4:45PM - Byers Hall 212**
 
 - JF overview of the class
+     - what is a protein (a membrane protein)
+     - forces governing protein folding, levinthal paradox, structure/folding prediction
+     - forces governing ligand/drug binding
+     - intro to GPCRs, importance of struture prediction in GPCRs, importance of state prediction in GPCRs
      - [Pharmacogenomics of GPCR Drug Targets](https://www.cell.com/cell/fulltext/S0092-8674(17)31384-3)
 - Install ChimeraX before next class [link](https://www.rbvi.ucsf.edu/chimerax/download.html)
 
