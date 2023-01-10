@@ -61,14 +61,14 @@ This is a team-based class where students work in small groups develop their own
 	- David Byun
 	- Haley Ogasawara
 	- Jeffrey Zheng
+	- Jonathan Borowsky
 	- Kelmen Low
-	- Nicholas Freitas
 - 2: Catherine.Kuhn@ucsf.edu
 	- Asa Kalish
 	- Catherine Shin
-	- Jonathan Borowsky
 	- Kamyar Yazdani
 	- Kevin Delgado-Cunningham
+	- Nicholas Freitas
 	- Yisheng Zheng
 - 3: Estelle.Ronayne@ucsf.edu
 	- Angelika Arada
