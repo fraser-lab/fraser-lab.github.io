@@ -140,19 +140,19 @@ This is a team-based class where students work in small groups develop their own
 MLK DAY - HOLIDAY
 
 ## Tuesday January 17 
-### Lecture 1 from Yifan Cheng 
-### Intro to data processing by Klim Verba
+### 9-11: Lecture 1 from Yifan Cheng 
 
 ## Wednesday January 18
-### Lecture 2 from Yifan Cheng
+### 9-10: Lecture 2 from Yifan Cheng
+### 10-11: Intro to data processing by TAs after short intro by KV
 - TEAM 2 to negative stain with KV?
-- other teams work on data processing
+- other teams work on data processing tutorial with TAs
 
 ## Thursday January 19
-- TEAM 3 to negative stain with KV?
+- TEAM 3 to negative stain with KV (outside of class time)
 
 ## Monday January 23 
-- TEAM 4 to negative stain with KV?
+- TEAM 4 to negative stain with KV
 - Cryo show and tell, teams 1 and 2
 - other teams work on data processing when not at microscope
 
