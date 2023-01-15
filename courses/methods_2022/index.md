@@ -84,6 +84,7 @@ This is a team-based class where students work in small groups develop their own
 	- Matthew Lyons
 	- Tracy Lou
 	- David Larwood 
+
 # Jan 9-11 - Class intro
 
 ## Monday January 9
@@ -200,11 +201,10 @@ MLK DAY - HOLIDAY
 # Feb 7-8 - Computational Approaches and Community Building in Structural Biology
 
 ## Tuesday February 7
-### Lecture from Tanja Kortemme, AlphaFold and RosettaFold
+### Lecture from Tanja Kortemme - AlphaFold and RosettaFold
 
 ## Wednesday February 8
-- LISA ESHUN WILSON - Her recent work and building Diversity, Equity, and Inclusion in structural biology
-
+### Lecture from Lisa Eshun-Wilson - Her recent structural biology work and building Diversity, Equity, and Inclusion in structural biology
 
 # Feb 13-22 X-ray Crystallography - Lectures Bob Stroud, Tutorials James Fraser
 ## Monday February 13
@@ -224,6 +224,7 @@ MLK DAY - HOLIDAY
 - Prepare a model from a different nanobody for phasing by molecular replacement
 - Run Phaser, analyze output in Coot
 - [Molecular Replacement](https://docs.google.com/document/d/1nr4IIDVqjRautGy_CnyPHrNbdGwbgTnKjGznl6ZQPII/edit#)
+
 ## Wednesday February 15
 ### 9-10:30: Lecture 3 from Bob Stroud
 ### 10:30-11: Tutorial 3
