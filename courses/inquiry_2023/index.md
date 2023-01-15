@@ -84,4 +84,9 @@ Alphafold is one of the buzziest breakthroughs of recent years. What does it mea
     - DMS and personalized medicine
     - [PDB 2WGJ](https://www.rcsb.org/structure/2WGJ) - crizotinib
     - [PDB 3DKC](https://www.rcsb.org/structure/2WGJ) - ATP
-      - Ala1221Phe, etc 
+      - Y1230E
+      - G1163F
+      - I1084G
+      - M1211E
+      - D1228L
+      - Y1093K
