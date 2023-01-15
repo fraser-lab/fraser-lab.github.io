@@ -208,29 +208,25 @@ MLK DAY - HOLIDAY
 
 # Feb 13-22 X-ray Crystallography - Lectures Bob Stroud, Tutorials James Fraser
 ## Monday February 13
-### [Lecture 1 from Bob Stroud](http://cdn.fraserlab.com/courses/2022_5dayclass_methods-2-1.pdf)
-### [Tutorial 1 : What's the deal with the spots](https://docs.google.com/document/d/1nr4IIDVqjRautGy_CnyPHrNbdGwbgTnKjGznl6ZQPII/edit?usp=sharing)
+### 9-1030: Lecture 1 from Bob Stroud
+### 10:30-11: Tutorial 1
 - What is the system?
 - Examine diffraction data in adxv
 - Use xia2 to process diffraction data
 - Understand various metrics for data reduction
 - What do we have at the end?
+- [What's the deal with the spots](https://docs.google.com/document/d/1nr4IIDVqjRautGy_CnyPHrNbdGwbgTnKjGznl6ZQPII/edit?usp=sharing)
 
 
 ## Tuesday February 14
-### Lecture 2 from Bob Stroud
-### [Tutorial 2: Molecular Replacement](https://docs.google.com/document/d/1nr4IIDVqjRautGy_CnyPHrNbdGwbgTnKjGznl6ZQPII/edit#)
+### 9-10:30: Lecture 2 from Bob Stroud
+### 10:30-11: Tutorial 2
 - Prepare a model from a different nanobody for phasing by molecular replacement
 - Run Phaser, analyze output in Coot
-- Use the mNb6 itself to solve the structure
-
-- chemical shift perturbation plot versus primary sequence; mapping onto structure, [CSPs from Sparky Lists](http://cdn.fraserlab.com/courses/methods/Sparky_CSP.py)
-- Overlay Nb6 with mNb6 15N and 13C HSQC data
-- Cross-peak bookkeeping with teams (Allie Born and John Gross)
-
+- [Molecular Replacement](https://docs.google.com/document/d/1nr4IIDVqjRautGy_CnyPHrNbdGwbgTnKjGznl6ZQPII/edit#)
 ## Wednesday February 15
-### [Lecture 3 from Bob Stroud](http://cdn.fraserlab.com/courses/2022_5dayclass_methods-2-2.pdf)
-### [Tutorial 3: Model refinement](https://docs.google.com/document/d/1nr4IIDVqjRautGy_CnyPHrNbdGwbgTnKjGznl6ZQPII/edit?usp=sharing)
+### 9-10:30: Lecture 3 from Bob Stroud
+### 10:30-11: Tutorial 3
 - Manual model building in Coot
 - Reciprocal space refinement in Phenix
 - Rfree and what that means
@@ -238,6 +234,7 @@ MLK DAY - HOLIDAY
 - B factors and what they might mean
 - Ensemble refinement
 - [Coot tutorial video](https://www.youtube.com/watch?v=6RxvOFNu_rA)
+- [Model refinement](https://docs.google.com/document/d/1nr4IIDVqjRautGy_CnyPHrNbdGwbgTnKjGznl6ZQPII/edit?usp=sharing)
 
 ## Thursday February 16 - BEAMLINE TRIP???
 
