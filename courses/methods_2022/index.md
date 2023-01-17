@@ -143,6 +143,7 @@ MLK DAY - HOLIDAY
 ### 9-11: Lecture 1 from Yifan Cheng 
 
 ## Wednesday January 18
+### [Key questions to track understanding of CryoEM](https://docs.google.com/document/d/1swcAbr6AHVkPFQyuqr0sYSLOwMbF1G3zGRfvRY6O2zE/edit)
 ### 9-10: Lecture 2 from Yifan Cheng
 ### 10-11: Intro to data processing by TAs after short intro by KV
 - TEAM 2 to negative stain with KV?
