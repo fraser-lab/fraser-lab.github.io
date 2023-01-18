@@ -52,7 +52,7 @@ Alphafold is one of the buzziest breakthroughs of recent years. What does it mea
 
 **Wednesday Jan 11 - 3:00-4:45PM - Mission Hall 2105**
 
-- Tanja Kortemme
+- [Tanja Kortemme](http://cdn.fraserlab.com/courses/inquiry_2023/23_AlphaFold_Lecture_Kortemme.pdf)
   - what is AlphaFold really and other trends in protein structure prediction and design
 
 **Thursday Jan 12 - 3:00-4:45PM - Mission Hall 2105**
