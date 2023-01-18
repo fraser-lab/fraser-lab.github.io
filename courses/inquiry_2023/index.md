@@ -65,7 +65,7 @@ Alphafold is one of the buzziest breakthroughs of recent years. What does it mea
 
 **Friday Jan 13 - 3:00-4:45PM - Mission Hall 2105**
 
--  [Tony Capra]((http://cdn.fraserlab.com/courses/inquiry_2023/2023-01-13_fraser_immersion.pdf))
+-  [Tony Capra](http://cdn.fraserlab.com/courses/inquiry_2023/2023-01-13_fraser_immersion.pdf)
     - [The 3D mutational constraint on amino acid sites in the human proteome](https://www.nature.com/articles/s41467-022-30936-x)
     - [Personalized structural biology reveals the molecular mechanisms underlying heterogeneous epileptic phenotypes caused by de novo KCNC2 variants](https://www.sciencedirect.com/science/article/pii/S2666247722000471)
 
