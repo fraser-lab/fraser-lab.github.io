@@ -80,7 +80,7 @@ Alphafold is one of the buzziest breakthroughs of recent years. What does it mea
 
 **Wednesday Jan 18 - 3:00-4:45PM - Mission Hall 2105**
 
-- Gabriella Estevam and JF
+- [Gabriella Estevam](https://ucsf.box.com/s/jzc8tzl4mgqmxte5r51kidwcrcjc4raw) and JF
     - DMS and personalized medicine
     - [PDB 2WGJ](https://www.rcsb.org/structure/2WGJ) - crizotinib
     - [PDB 3DKC](https://www.rcsb.org/structure/2WGJ) - ATP
