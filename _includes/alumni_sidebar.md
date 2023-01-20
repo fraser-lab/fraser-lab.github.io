@@ -7,7 +7,8 @@
 {% endif %}
 
 {% assign position = member.position | downcase %}
-{% if position contains "srtp" or position contains "intern" or position contains "sep" or position contains "visiting" %}
+{% if position contains "srtp" or position contains "intern" or position 
+  contains "sep" or position contains "visiting" or position contains "ucsf-usf" %}
 {% unless position contains "affiliate" %}
 {% continue %}
 {% endunless %}
@@ -115,7 +116,7 @@ Subsequently: {{undergraduate.subsequent}}<br>
 {% unless position contains "srtp" or position contains "intern" %}
     {% continue %}
 {% endunless %}
-{% if position contains "affiliate" %}
+{% if position contains "affiliate" or position contains "ucsf-usf"%}
     {% continue %}
 {% endif %}
 
