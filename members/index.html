@@ -178,7 +178,9 @@ The Fraser lab welcomes people of any race, ethnicity, religion, national origin
 		{% elsif position contains "specialist" or position contains "technician" or position contains "propel"%}
 			{% assign color = "turquoise" %}
 		{% elsif position contains "srtp" or position contains "intern" or position contains "summer" %}
-			{% assign color = "blue" %}
+            {% unless position contains "affiliate" %}
+                {% assign color = "blue" %}
+            {% endunless %}
 		{% else %}
 			{% assign color = "purple" %}
 		{% endif %}
