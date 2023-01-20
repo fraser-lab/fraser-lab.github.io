@@ -78,9 +78,9 @@ Subsequently: {{member.subsequent}} <br>
 {% for undergraduate in sorted %}
 
 {% assign position = undergraduate.position | downcase %}
-{% if position contains "intern" and position contains "usf" %}
+{% unless position contains "ucsf-usf" %}
 {% continue %}
-{% endif %}
+{% endunless %}
 
 <hr>
 <div id = "{{undergraduate.name}}" style="padding-top: 60px; margin-top: -60px;">
@@ -111,12 +111,13 @@ Subsequently: {{undergraduate.subsequent}}<br>
 {% for undergraduate in sorted %}
 
 {% assign position = undergraduate.position | downcase %}
+
 {% unless position contains "srtp" or position contains "intern" %}
-{% if position contains "affiliate" %}
-{% continue %}
-{% endif %}
-{% continue %}
+    {% continue %}
 {% endunless %}
+{% if position contains "affiliate" %}
+    {% continue %}
+{% endif %}
 
 <hr>
 <div id = "{{undergraduate.name}}" style="padding-top: 60px; margin-top: -60px;">
