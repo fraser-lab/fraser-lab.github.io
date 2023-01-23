@@ -57,7 +57,7 @@ Alphafold is one of the buzziest breakthroughs of recent years. What does it mea
 
 **Thursday Jan 12 - 3:00-4:45PM - Mission Hall 2105**
 
-- Moez Dawood - [over zoom!](https://ucsf.zoom.us/j/94714411430?pwd=M1lNZ0tPbStLakJESnM2MzV0N1FlQT09)
+- [Moez Dawood](20230112_UCSFTalk.pdf) - [over zoom!](https://ucsf.zoom.us/j/94714411430?pwd=M1lNZ0tPbStLakJESnM2MzV0N1FlQT09)
 - who owns genomes?
     - [Establishing a blockchain-enabled Indigenous data sovereignty framework for genomic data](https://www.sciencedirect.com/science/article/pii/S0092867422007826?via%3Dihub)
     - [The Illusion of Inclusion — The “All of Us” Research Program and Indigenous Peoples’ DNA](https://www.nejm.org/doi/full/10.1056/NEJMp1915987)
