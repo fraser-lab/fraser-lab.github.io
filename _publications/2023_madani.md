@@ -1,6 +1,6 @@
 ---
 title: "Deep neural language modeling enables functional protein generation across families"
-authors: "Madani A, Krause B#42;, **Greene ER#42;**, Subramanian S, Mohr BP, Holton JM, **Olmos Jr. JL**, Xiong C, Sun ZZ, Socher R, **Fraser JS**, Naik N"
+authors: "Madani A, Krause B&#42;, **Greene ER&#42;**, Subramanian S, Mohr BP, Holton JM, **Olmos Jr. JL**, Xiong C, Sun ZZ, Socher R, **Fraser JS**, Naik N"
 journal: "Nature Biotechnology"
 pub_date: '2023-01-26'
 image: "/static/img/pub/2021_madani.gif"
