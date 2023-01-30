@@ -21,6 +21,8 @@ links:
   url: "https://twitter.com/fraser_lab/status/1417196941314707465"
 - name: "News and Views - Protein engineering - Hallucinating functional protein sequences"
   url: "http://cdn.fraserlab.com/publications/2023_belanger.pdf"
+- name: "In the Pipeline - Making Up Proteins"
+  url: "https://www.science.org/content/blog-post/making-proteins"
 - name: "New Scientist - AI has designed bacteria-killing proteins from scratch – and they work"
   url: "https://www.newscientist.com/article/2356597-ai-has-designed-bacteria-killing-proteins-from-scratch-and-they-work/"
 - name: "Vice Motherboard - AI Replicated Evolution and Generated New Enzymes as Good as Natural Ones"
