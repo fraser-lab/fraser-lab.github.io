@@ -194,6 +194,11 @@ MLK DAY - HOLIDAY
 ### Lecture 5 from John Gross, Measuring ns-ps dynamics in proteins
 - process mNb6:RBD 15N and 13C HSQC spectra, overlay with mNb6. Cross-peak bookkeeping with teams (Allie Born and John Gross)
 
+## How to setup and process HSQCs on the 800 MHz spectrometer
+- [Acquiring_2D_15N-HSQC_in_TopSpin](https://ucsf.box.com/s/tc0dg14opvz3bfdht92r6pn56h3i7fg4)
+- [Processing_Data_in_TopSpin](https://ucsf.box.com/s/6jznx75m14b24xf84ot8cgporudfkf8i)
+- [Topspin_Commands](https://ucsf.box.com/s/7gss7koit3a9v0iccm0arukojzkf8u9l)
+
 ## Reading on rigor and reproducibility in NMR:
 - [Tools for validating NMR structures](http://cdn.fraserlab.com/courses/methods/2014_vuister.pdf)
 - [Q-scores](http://cdn.fraserlab.com/courses/methods/2004_clore.pdf)
