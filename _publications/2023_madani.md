@@ -27,6 +27,8 @@ links:
   url: "https://www.newscientist.com/article/2356597-ai-has-designed-bacteria-killing-proteins-from-scratch-and-they-work/"
 - name: "Vice Motherboard - AI Replicated Evolution and Generated New Enzymes as Good as Natural Ones"
   url: "https://www.vice.com/en/article/3adgvv/ai-replicated-evolution-and-generated-new-enzymes-as-good-as-natural-ones"
+- name: "IEEE Spectrum - GPT Protein Models Speak Fluent Biology"
+  url: "https://spectrum.ieee.org/ai-protein-design"
 - name: "UCSF - AI Technology Generates Original Proteins from Scratch"
   url: "https://www.ucsf.edu/news/2023/01/424641/ai-technology-generates-original-proteins-scratch"
 ---
