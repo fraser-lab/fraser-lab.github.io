@@ -21,6 +21,8 @@ links:
   url: "https://twitter.com/fraser_lab/status/1417196941314707465"
 - name: "News and Views - Protein engineering - Hallucinating functional protein sequences"
   url: "http://cdn.fraserlab.com/publications/2023_belanger.pdf"
+- name: "Nature Biotechnology Editorial - Generating ‘smarter’ biotechnology"
+  url: "https://www.nature.com/articles/s41587-023-01695-x"
 - name: "In the Pipeline - Making Up Proteins"
   url: "https://www.science.org/content/blog-post/making-proteins"
 - name: "New Scientist - AI has designed bacteria-killing proteins from scratch – and they work"
