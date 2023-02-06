@@ -199,6 +199,9 @@ MLK DAY - HOLIDAY
 - [Processing_Data_in_TopSpin](https://ucsf.box.com/s/6jznx75m14b24xf84ot8cgporudfkf8i)
 - [Topspin_Commands](https://ucsf.box.com/s/7gss7koit3a9v0iccm0arukojzkf8u9l)
 
+## Materials for TA Office Hours
+- [1-an example  13C HSQC of Nb6 , 2-Nb6 and mNb sequences, 3-Sparky tutorial](https://ucsf.box.com/s/boxmdnws7xbg04p812agth005b7augu5)
+
 ## Reading on rigor and reproducibility in NMR:
 - [Tools for validating NMR structures](http://cdn.fraserlab.com/courses/methods/2014_vuister.pdf)
 - [Q-scores](http://cdn.fraserlab.com/courses/methods/2004_clore.pdf)
