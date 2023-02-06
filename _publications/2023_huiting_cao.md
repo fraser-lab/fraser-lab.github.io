@@ -1,5 +1,5 @@
 ---
-title: "Title of article"
+title: "Bacteriophages inhibit and evade cGAS-like immune function in bacteria"
 authors: "Huiting E&#42;, Cao X&#42;, Ren J, Athukoralage JS, Luo Z, Silas S, An N, Carion H, Zhou Y, **Fraser JS**, Feng Y, Bondy-Denomy J"
 journal: "Cell"
 pub_date: "2023-02-06"
