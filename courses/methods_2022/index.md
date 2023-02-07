@@ -214,6 +214,7 @@ MLK DAY - HOLIDAY
 
 ## Wednesday February 8
 ### Lecture from Lisa Eshun-Wilson - Her recent structural biology work and building Diversity, Equity, and Inclusion in structural biology
+- Reminder to install crystallography software!
 
 # Feb 13-22 X-ray Crystallography - Lectures Bob Stroud, Tutorials James Fraser
 ## Monday February 13
