@@ -11,6 +11,6 @@ peer-review:
 
 published:
 - pmid: "36496486"
-  pdf: "http://cdn.fraserlab.com/reviews/2022_spreaker.pdf" #full cdn link
+  pdf: "https://cdn.fraserlab.com/reviews/2022_Spreacker.pdf" #full cdn link
 
 ---
