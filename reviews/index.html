@@ -99,6 +99,15 @@ and in the <a href="https://fraserlab.com/peer_review/" target="_blank" alt = "P
 				{% endif %}
 
 			{% endfor %}
+
+		{% if review.links %}
+			<br>
+			<h6>Additional Link{% if publication.links.size > 1 %}s{% endif %}</h6>
+			{% for link in review.links %}
+				<li><a href="{{link.url}}" alt="{{link.name}} (opens in new tab)" target="_blank">{{link.name}}</a></li>
+			{% endfor %}
+		{% endif %}
+
 		</ul>
 		<ul class="col">
 		{% if review.published %}
