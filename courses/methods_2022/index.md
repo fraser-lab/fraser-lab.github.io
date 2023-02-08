@@ -219,44 +219,43 @@ MLK DAY - HOLIDAY
 # Feb 13-22 X-ray Crystallography - Lectures Bob Stroud, Tutorials James Fraser
 ## Monday February 13
 ### 9-1030: Lecture 1 from Bob Stroud
-### 10:30-11: Tutorial 1
+### 10:30-11: [Tutorial 1: What's the deal with the spots](https://docs.google.com/document/d/1X3tadTbEAufeBVTrYBy6r9d9Tl5dael7KQTJv6_4ACA/)
 - What is the system?
 - Examine diffraction data in adxv
-- Use xia2 to process diffraction data
-- Understand various metrics for data reduction
-- What do we have at the end?
-- [What's the deal with the spots](https://docs.google.com/document/d/1nr4IIDVqjRautGy_CnyPHrNbdGwbgTnKjGznl6ZQPII/edit?usp=sharing)
-
 
 ## Tuesday February 14
 ### 9-10:30: Lecture 2 from Bob Stroud
-### 10:30-11: Tutorial 2
-- Prepare a model from a different nanobody for phasing by molecular replacement
-- Run Phaser, analyze output in Coot
-- [Molecular Replacement](https://docs.google.com/document/d/1nr4IIDVqjRautGy_CnyPHrNbdGwbgTnKjGznl6ZQPII/edit#)
+### 10:30-11: [Tutorial 2: Data Reduction](https://docs.google.com/document/d/1X3tadTbEAufeBVTrYBy6r9d9Tl5dael7KQTJv6_4ACA/edit#bookmark=kix.if962aravtol)
+- Use xia2 to process diffraction data
+- Understand various metrics for data reduction
+- What do we have at the end? MTZ files!
 
 ## Wednesday February 15
 ### 9-10:30: Lecture 3 from Bob Stroud
-### 10:30-11: Tutorial 3
-- Manual model building in Coot
-- Reciprocal space refinement in Phenix
-- Rfree and what that means
-- Molprobity to assess structure
-- B factors and what they might mean
-- Ensemble refinement
-- [Coot tutorial video](https://www.youtube.com/watch?v=6RxvOFNu_rA)
-- [Model refinement](https://docs.google.com/document/d/1nr4IIDVqjRautGy_CnyPHrNbdGwbgTnKjGznl6ZQPII/edit?usp=sharing)
+### 10:30-11:30: Facility tour with [Violla Bassim](mailto:violla.bassim@ucsf.edu)
 
 ## Thursday February 16 - BEAMLINE TRIP???
 
 ## Monday February 20 - PRESIDENTS DAY
 
 ## Tuesday February 21
-### Tutorial on data analysis and scripting (JF)
 
+### [Tutorial 3: Molecular Replacement](https://docs.google.com/document/d/1X3tadTbEAufeBVTrYBy6r9d9Tl5dael7KQTJv6_4ACA/edit#bookmark=id.snbyu3mveba6)
+- Prepare a model from a different nanobody for phasing by molecular replacement
+- Run Phaser, analyze output in Coot
+- Manual model building in Coot
+
+### [Tutorial 4: Model Refinement](https://docs.google.com/document/d/1X3tadTbEAufeBVTrYBy6r9d9Tl5dael7KQTJv6_4ACA/edit#bookmark=id.m85sdq3icnmn)
+- Reciprocal space refinement in Phenix
+- Rfree and what that means
+- Molprobity to assess structure
+- B factors and what they might mean
+- Ensemble refinement?
+- [Coot tutorial video](https://www.youtube.com/watch?v=6RxvOFNu_rA)
 ## Wednesday February 22
 
-### Tutorial on data analysis and scripting (JF)
+### Continue Model Refinement and [Tutorial 5: Model Analysis](https://docs.google.com/document/d/1X3tadTbEAufeBVTrYBy6r9d9Tl5dael7KQTJv6_4ACA/edit#bookmark=kix.z40bd2t29nx4)
+
 ## Reading on rigor and reproducibility in Crystallography:
 - [R-free](http://cdn.fraserlab.com/courses/methods/1992_brunger.pdf)
 - [MolProbity](http://cdn.fraserlab.com/courses/methods/2010_chen.pdf)
