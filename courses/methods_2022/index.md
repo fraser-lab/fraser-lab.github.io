@@ -215,6 +215,7 @@ MLK DAY - HOLIDAY
 ## Wednesday February 8
 ### Lecture from Lisa Eshun-Wilson - Her recent structural biology work and building Diversity, Equity, and Inclusion in structural biology
 - Reminder to install crystallography software!
+- Last check for beamline trips logistics
 
 # Feb 13-22 X-ray Crystallography - Lectures Bob Stroud, Tutorials James Fraser
 ## Monday February 13
@@ -234,7 +235,7 @@ MLK DAY - HOLIDAY
 ### 9-10:30: Lecture 3 from Bob Stroud
 ### 10:30-11:30: Facility tour with [Violla Bassim](mailto:violla.bassim@ucsf.edu)
 
-## Thursday February 16 - BEAMLINE TRIP???
+## Thursday February 16 - BEAMLINE TRIP!!!
 
 ## Monday February 20 - PRESIDENTS DAY
 
@@ -252,6 +253,7 @@ MLK DAY - HOLIDAY
 - B factors and what they might mean
 - Ensemble refinement?
 - [Coot tutorial video](https://www.youtube.com/watch?v=6RxvOFNu_rA)
+
 ## Wednesday February 22
 
 ### Continue Model Refinement and [Tutorial 5: Model Analysis](https://docs.google.com/document/d/1X3tadTbEAufeBVTrYBy6r9d9Tl5dael7KQTJv6_4ACA/edit#bookmark=kix.z40bd2t29nx4)
