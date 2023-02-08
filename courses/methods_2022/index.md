@@ -214,7 +214,7 @@ MLK DAY - HOLIDAY
 
 ## Wednesday February 8
 ### Lecture from Lisa Eshun-Wilson - Her recent structural biology work and building Diversity, Equity, and Inclusion in structural biology
-- Reminder to install crystallography software!
+- Reminder to [install crystallography software!](https://docs.google.com/document/d/1pRA-pERFvX05yrGZcZjfugxiV5YDyrFsX64yHhcyOmw/edit#)
 - Last check for beamline trips logistics
 
 # Feb 13-22 X-ray Crystallography - Lectures Bob Stroud, Tutorials James Fraser
@@ -267,7 +267,7 @@ MLK DAY - HOLIDAY
 # Final write up due: one per team - Feb 27
 - EM: which of the 12 sequences/structure is your sample? Explain how you processed your data and identified which one it is? How can you quantify whether you are correct?
 - X-ray: How did you quantify your data (presence/absence of ligands)? What conclusions can you draw about the forces driving ligand binding at the atomistic level?
-- NMR: JOHN???
+- NMR: What is the NMR evidence that the nano bodies are undergoing conformational exchange in solution?  Is the conformational change local or global? (Hint: where do the isoleucines in Nb6 and mNb6 map onto the structure?). Can you infer any differences between the dynamics of  ancestral and mature Nb6  based on the NMR data? How does binding to Spike RBD change the dynamics?  You may simply use the 13C HSQC on ILVMA labelled nanobodies to answer these questions though there is complementary information in the 15N HSQC spectra you may call on to support.
 
 # Supplemental material and tutorial videos
 
