@@ -231,6 +231,7 @@ MLK DAY - HOLIDAY
 - Use xia2 to process diffraction data
 - Understand various metrics for data reduction
 - What do we have at the end? MTZ files!
+- [XRayView Download](https://www.phillipslab.org/downloads)
 
 ## Wednesday February 15
 ### 9-10:30: Lecture 3 from Bob Stroud
@@ -243,8 +244,7 @@ MLK DAY - HOLIDAY
 ## Tuesday February 21
 
 ### [Tutorial 3: Molecular Replacement](https://docs.google.com/document/d/1X3tadTbEAufeBVTrYBy6r9d9Tl5dael7KQTJv6_4ACA/edit#bookmark=id.snbyu3mveba6)
-- Prepare a model from a different nanobody for phasing by molecular replacement
-- Run Phaser, analyze output in Coot
+- Run DIMPLE, analyze output in Coot
 - Manual model building in Coot
 
 ### [Tutorial 4: Model Refinement](https://docs.google.com/document/d/1X3tadTbEAufeBVTrYBy6r9d9Tl5dael7KQTJv6_4ACA/edit#bookmark=id.m85sdq3icnmn)
@@ -252,7 +252,6 @@ MLK DAY - HOLIDAY
 - Rfree and what that means
 - Molprobity to assess structure
 - B factors and what they might mean
-- Ensemble refinement?
 - [Coot tutorial video](https://www.youtube.com/watch?v=6RxvOFNu_rA)
 
 ## Wednesday February 22
