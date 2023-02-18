@@ -31,6 +31,8 @@ links:
   url: "https://www.vice.com/en/article/3adgvv/ai-replicated-evolution-and-generated-new-enzymes-as-good-as-natural-ones"
 - name: "IEEE Spectrum - GPT Protein Models Speak Fluent Biology"
   url: "https://spectrum.ieee.org/ai-protein-design"
+- name: "BioIT World - Natural Language Processing Designs Original Proteins From Scratch"
+  url: "https://www.bio-itworld.com/news/2023/02/16/natural-language-processing-designs-original-proteins-from-scratch"
 - name: "UCSF - AI Technology Generates Original Proteins from Scratch"
   url: "https://www.ucsf.edu/news/2023/01/424641/ai-technology-generates-original-proteins-scratch"
 ---

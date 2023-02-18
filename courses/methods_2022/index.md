@@ -223,6 +223,7 @@ MLK DAY - HOLIDAY
 ### 10:30-11: [Tutorial 1: What's the deal with the spots](https://docs.google.com/document/d/1X3tadTbEAufeBVTrYBy6r9d9Tl5dael7KQTJv6_4ACA/)
 - What is the system?
 - Examine diffraction data in adxv
+- ### [Beamline trip logistics](https://docs.google.com/document/d/15U3DUiw0-ZLWWhC4zfXiKAnn0G1odUyRf1RXIWibkM0/edit?usp=sharing)
 
 ## Tuesday February 14
 ### 9-10:30: Lecture 2 from Bob Stroud
@@ -230,6 +231,7 @@ MLK DAY - HOLIDAY
 - Use xia2 to process diffraction data
 - Understand various metrics for data reduction
 - What do we have at the end? MTZ files!
+- [XRayView Download](https://www.phillipslab.org/downloads)
 
 ## Wednesday February 15
 ### 9-10:30: Lecture 3 from Bob Stroud
@@ -242,8 +244,7 @@ MLK DAY - HOLIDAY
 ## Tuesday February 21
 
 ### [Tutorial 3: Molecular Replacement](https://docs.google.com/document/d/1X3tadTbEAufeBVTrYBy6r9d9Tl5dael7KQTJv6_4ACA/edit#bookmark=id.snbyu3mveba6)
-- Prepare a model from a different nanobody for phasing by molecular replacement
-- Run Phaser, analyze output in Coot
+- Run DIMPLE, analyze output in Coot
 - Manual model building in Coot
 
 ### [Tutorial 4: Model Refinement](https://docs.google.com/document/d/1X3tadTbEAufeBVTrYBy6r9d9Tl5dael7KQTJv6_4ACA/edit#bookmark=id.m85sdq3icnmn)
@@ -251,7 +252,6 @@ MLK DAY - HOLIDAY
 - Rfree and what that means
 - Molprobity to assess structure
 - B factors and what they might mean
-- Ensemble refinement?
 - [Coot tutorial video](https://www.youtube.com/watch?v=6RxvOFNu_rA)
 
 ## Wednesday February 22
@@ -266,7 +266,19 @@ MLK DAY - HOLIDAY
 
 # Final write up due: one per team - Feb 27
 - EM: which of the 12 sequences/structure is your sample? Explain how you processed your data and identified which one it is? How can you quantify whether you are correct?
-- X-ray: How did you quantify your data (presence/absence of ligands)? What conclusions can you draw about the forces driving ligand binding at the atomistic level?
+	- Piezo1
+	- Spliceosome
+	- HSP104
+	- Cas9
+	- GroEL
+	- E. Coli Ribosome
+	- 20S Proteosome
+	- LKB1-StradA-Mo25 complex
+	- TRPV1
+	- Glutamine Synthetase
+	- SARS-CoV-2 Spike
+	- BRAF:MEK:14-3-3 Complex
+- X-ray: Introduce the problem you are trying to answer. Give a summary of data processing and refinement statistics (Table 1). Provide results and interpretation. How did you quantify your data (presence/absence/occupancy of ligands)? What conclusions can you draw about the forces driving ligand binding at the atomistic level? What would you do next?
 - NMR: What is the NMR evidence that the nano bodies are undergoing conformational exchange in solution?  Is the conformational change local or global? (Hint: where do the isoleucines in Nb6 and mNb6 map onto the structure?). Can you infer any differences between the dynamics of  ancestral and mature Nb6  based on the NMR data? How does binding to Spike RBD change the dynamics?  You may simply use the 13C HSQC on ILVMA labelled nanobodies to answer these questions though there is complementary information in the 15N HSQC spectra you may call on to support.
 
 # Supplemental material and tutorial videos
