@@ -247,11 +247,11 @@ MLK DAY - HOLIDAY
 
 ### [Tutorial 4: Model Refinement](https://docs.google.com/document/d/1X3tadTbEAufeBVTrYBy6r9d9Tl5dael7KQTJv6_4ACA/edit#bookmark=id.m85sdq3icnmn)
 
-- File formats and contents:
+- File formats and contents
 	- MTZ file format
 	- PDB file as text
 - Refinement as minimizing Fo-Fc residual
-	- Where do the phases come from:
+	- Where do the phases come from?
 		- Molecular replacement
 		- Iterative phase improvement
 		- ASU vs. unit cell vs. monomer
