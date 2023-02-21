@@ -244,15 +244,38 @@ MLK DAY - HOLIDAY
 ## Tuesday February 21
 
 ### [Tutorial 3: Molecular Replacement](https://docs.google.com/document/d/1X3tadTbEAufeBVTrYBy6r9d9Tl5dael7KQTJv6_4ACA/edit#bookmark=id.snbyu3mveba6)
-- Run DIMPLE, analyze output in Coot
-- Manual model building in Coot
 
 ### [Tutorial 4: Model Refinement](https://docs.google.com/document/d/1X3tadTbEAufeBVTrYBy6r9d9Tl5dael7KQTJv6_4ACA/edit#bookmark=id.m85sdq3icnmn)
-- Reciprocal space refinement in Phenix
-- Rfree and what that means
-- Molprobity to assess structure
-- B factors and what they might mean
-- [Coot tutorial video](https://www.youtube.com/watch?v=6RxvOFNu_rA)
+
+- File formats and contents:
+	- MTZ file format
+	- PDB file as text
+- Refinement as minimizing Fo-Fc residual
+	- Where do the phases come from:
+		- Molecular replacement
+		- Iterative phase improvement
+		- ASU vs. unit cell vs. monomer
+	- 2Fo-Fc map
+	- Fo-Fc map
+	- Iterative phase improvement affects density everywhere
+	- R-free
+	- B-factors
+	- The curse of high resolution!!!
+		- Model building
+		- Fixing stuff in real space
+		- Real space vs. reciprocal space refinment
+		- Prior knowledge (chemistry/physics) vs. Data in minimizing residual
+	- Water placement in Phenix or Coot
+	- Alternative conformations and partial occupancy
+		- conformational vs. compositional heterogeneity
+- Team 1+2
+	- Occupancy refinement
+- Team 3+4
+	- Alternative conformations of loops
+	- Occupancy refinement
+	- A/B conformations
+	- mutually exclusive
+
 
 ## Wednesday February 22
 
