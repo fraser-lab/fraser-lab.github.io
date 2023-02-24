@@ -23,6 +23,8 @@ links:
   url: "http://cdn.fraserlab.com/publications/2023_belanger.pdf"
 - name: "Nature Biotechnology Editorial - Generating ‘smarter’ biotechnology"
   url: "https://www.nature.com/articles/s41587-023-01695-x"
+- name: "Nature Biotechnology News - AI-enhanced protein design makes proteins that have never existed"
+  url: "https://www.nature.com/articles/s41587-023-01705-y"
 - name: "In the Pipeline - Making Up Proteins"
   url: "https://www.science.org/content/blog-post/making-proteins"
 - name: "New Scientist - AI has designed bacteria-killing proteins from scratch – and they work"
