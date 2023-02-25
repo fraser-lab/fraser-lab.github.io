@@ -244,15 +244,38 @@ MLK DAY - HOLIDAY
 ## Tuesday February 21
 
 ### [Tutorial 3: Molecular Replacement](https://docs.google.com/document/d/1X3tadTbEAufeBVTrYBy6r9d9Tl5dael7KQTJv6_4ACA/edit#bookmark=id.snbyu3mveba6)
-- Run DIMPLE, analyze output in Coot
-- Manual model building in Coot
 
 ### [Tutorial 4: Model Refinement](https://docs.google.com/document/d/1X3tadTbEAufeBVTrYBy6r9d9Tl5dael7KQTJv6_4ACA/edit#bookmark=id.m85sdq3icnmn)
-- Reciprocal space refinement in Phenix
-- Rfree and what that means
-- Molprobity to assess structure
-- B factors and what they might mean
-- [Coot tutorial video](https://www.youtube.com/watch?v=6RxvOFNu_rA)
+
+- File formats and contents
+	- MTZ file format
+	- PDB file as text
+- Refinement as minimizing Fo-Fc residual
+	- Where do the phases come from?
+		- Molecular replacement
+		- Iterative phase improvement
+		- ASU vs. unit cell vs. monomer
+	- 2Fo-Fc map
+	- Fo-Fc map
+	- Iterative phase improvement affects density everywhere
+	- R-free
+	- B-factors
+	- The curse of high resolution!!!
+		- Model building
+		- Fixing stuff in real space
+		- Real space vs. reciprocal space refinment
+		- Prior knowledge (chemistry/physics) vs. Data in minimizing residual
+	- Water placement in Phenix or Coot
+	- Alternative conformations and partial occupancy
+		- conformational vs. compositional heterogeneity
+- Team 1+2
+	- Occupancy refinement
+- Team 3+4
+	- Alternative conformations of loops
+	- Occupancy refinement
+	- A/B conformations
+	- mutually exclusive
+
 
 ## Wednesday February 22
 
@@ -278,7 +301,7 @@ MLK DAY - HOLIDAY
 	- Glutamine Synthetase
 	- SARS-CoV-2 Spike
 	- BRAF:MEK:14-3-3 Complex
-- X-ray: Introduce the problem you are trying to answer. Give a summary of data processing and refinement statistics (Table 1). Provide results and interpretation. How did you quantify your data (presence/absence/occupancy of ligands)? What conclusions can you draw about the forces driving ligand binding at the atomistic level? What would you do next?
+- X-ray: Introduce the problem you are trying to answer. Give a summary of data processing and refinement statistics ([Table 1 type information](https://phenix-online.org/documentation/reference/table_one.html)). Provide results and interpretation of the ligand modeling excercise. How does the density in the binding site compare across your datasets? What roadblocks did you encounter, what did you try, how would you ideally model this? If you were successful in modeling the data, how did you quantify your data (presence/absence/occupancy of ligands)? If you weren't successful, what is your interpretation? What conclusions can you draw about the forces driving ligand binding at the atomistic level? What would you do next?
 - NMR: What is the NMR evidence that the nano bodies are undergoing conformational exchange in solution?  Is the conformational change local or global? (Hint: where do the isoleucines in Nb6 and mNb6 map onto the structure?). Can you infer any differences between the dynamics of  ancestral and mature Nb6  based on the NMR data? How does binding to Spike RBD change the dynamics?  You may simply use the 13C HSQC on ILVMA labelled nanobodies to answer these questions though there is complementary information in the 15N HSQC spectra you may call on to support.
 
 # Supplemental material and tutorial videos
