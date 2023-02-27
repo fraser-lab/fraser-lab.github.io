@@ -33,7 +33,7 @@ group: courses
 
 **Lecturers/Facilitators:**
 
-James Fraser, Yifan Cheng, Aashish Manglik, Robert Stroud, John Gross, Tom Goddard, Tanja Kortemme, Michael Grabe
+James Fraser, Klim Verba, John Gross, Yifan Cheng, Aashish Manglik, Robert Stroud,  Tom Goddard, Tanja Kortemme, Lisa Eshun-Wilson
 
 
 **Background:**
