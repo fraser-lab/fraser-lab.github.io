@@ -2,7 +2,6 @@
 title: Inquiry Immersion 2023
 layout: default
 group: courses
-permalink: /inquiry/
 ---
 
 # Inquiry Immersion 2023 - DRUG DESIGN: Personal Genome Interpretation in the post-AlphaFold world #
