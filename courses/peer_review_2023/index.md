@@ -130,7 +130,7 @@ After the round of sharing, the Discussion Leaders will present a joint talk sim
 
 [Review](disqus link)
 
-### May 9
+### May 9 - JF out of town???
 
 - Students 7/8
 
