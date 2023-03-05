@@ -1,10 +1,10 @@
 ---
 title: "Molecular evidence of widespread benzimidazole drug resistance in *Ancylostoma caninum* from domestic dogs throughout the USA and discovery of a novel isotype-1 β-tubulin benzimidazole resistance mutation"
 authors: "Venkatesan A, Jimenez Castro PD, Morosetti A, Horvath H, Chen R,  Redman E, Dunn K, Collins JB, **Fraser JS**, Andersen EC, Kaplan RM, Gilleard JS"
-journal: #"Journal Name"
-pub_date: "2022-10-12" #Date of journal publication, NOT BIORXIV UPLOAD
+journal: "PLoS Pathogens"
+pub_date: "2023-03-02" #Date of journal publication, NOT BIORXIV UPLOAD
 image: "/static/img/pub/2022_venkatesan.png" #Minimum dimensions of
-pmid: #"########"
+pmid: "36862759"
 pmcid: #"PMC#######"
 biorxiv:
 biorxiv_version: "2022.10.12.511840v1"
