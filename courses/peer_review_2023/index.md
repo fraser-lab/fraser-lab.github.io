@@ -90,7 +90,7 @@ After the round of sharing, the Discussion Leaders will present a joint talk sim
 ### April 25
 - Writing and Receiving Peer Review and expecations for written reviews
 - Why do we peer review and what makes good peer review?
-  - [Traditional journal editor]()
+  - [Jason Gestwicki](https://gestwickilab.ucsf.edu/), [Associate Editor of ACS Chemical Biology](https://pubs.acs.org/page/acbcct/editors.html), [Editorial Advisory Board Chemical Biology and Drug Design](https://onlinelibrary.wiley.com/page/journal/17470285/homepage/editorialboard.html)
 
 #### Some good guidelines for reviewing
 
