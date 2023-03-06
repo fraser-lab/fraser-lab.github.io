@@ -13,9 +13,7 @@ permalink: /peer_review/
 
 **Location:** BH 212
 
-**Instructors:** [James Fraser](mailto:jfraser@fraserlab.com)
-
-**Teaching Assistant:** TBD?
+**Instructors:** [James Fraser](mailto:jfraser@fraserlab.com), [Christian Macdonald](mailto:christian.macdonald@ucsf.edu)
 
 <figure>
 <blockquote class="blockquote">
@@ -113,7 +111,7 @@ After the round of sharing, the Discussion Leaders will present a joint talk sim
 
 [Review](disqus link)
 
-### May 2
+### May 2 - JF at AVIDD meeting???
 
 - Students 3/4
 
