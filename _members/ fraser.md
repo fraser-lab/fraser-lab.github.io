@@ -36,7 +36,8 @@ The lab is also part of the [Macromolecular Structure Group at UCSF](http://msg.
 We maintain a deep connection with Macomolecular Crystallography [Beamline 8.3.1.](http://bl831.als.lbl.gov/~mcfuser/), directed by [Dr. James Holton](http://bl831.als.lbl.gov/~jamesh/), at the [Advanced Light Source](http://www-als.lbl.gov/). James is also a Faculty Scientist in the Molecular Biophysics and Integrated Bioimaging Division of Lawrence Berkeley National Lab, Associate Director of the [Biophysics Graduate Program](https://biophysics.ucsf.edu/), and Associate Director of the [Quantitative Biosciences Initiative](https://qbi.ucsf.edu/).
 
 
-In addition to all the exciting developments in the lab, James is on the board of [ASAPbio](http://asapbio.org) and has a long standing interest in [teaching](/courses) computational biology, [baseball statistics](http://ibiomagazine.org/issues/november-2011-issue/james-fraser-a-michael-eisen.html), and project-based courses. The lab is committed to publishing our code, disseminating our datasets, and posting manuscripts on preprint servers.
+In addition to all the exciting developments in the lab, James is on the board of [ASAPbio](http://asapbio.org) and has a long standing interests in [teaching](/courses), [baseball statistics](http://ibiomagazine.org/issues/november-2011-issue/james-fraser-a-michael-eisen.html), and [juggling](https://pharmacy.ucsf.edu/news/2020/10/labs-juggle-community-distance-during-covid-19). The lab is committed to publishing our code, disseminating our datasets, and posting manuscripts on preprint servers.
+
 
 His full conflicts of interest are available [here](/coi)."
 ---
