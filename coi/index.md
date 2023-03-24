@@ -22,7 +22,7 @@ Equity (held in Trust, with spouse):
 * [Impossible Foods](https://impossiblefoods.com/)
 * [Arda Therapeutics](https://www.ardatherapeutics.com/)
 * [Profluent Bio](https://www.profluent.bio/)
-* Interdict Bio (co-founder)
+* [Interdict Bio](https://www.interdictbio.com/) (co-founder)
 
 Consulting/speaker fees/travel within last 2 years:
 
