@@ -1,6 +1,6 @@
 ---
 name: Stephanie Wankowicz, Ph.D.
-startdate: [2019-06-06, 2023-04-01]
+startdate: [2019-06-06, 2023-03-31]
 enddate: [2023-03-31,]
 image: /static/img/members/Wankowicz.jpg
 altimage: /static/img/members/Wankowicz_pb.jpg
