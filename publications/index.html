@@ -57,17 +57,22 @@ group: publications
 
 		<!--Arxiv - optional -->
 		{% if publication.arxiv %}
-		<li>arXiv Preprint: <a href="https://arxiv.org/abs/{{publication.arxiv}}" title =  "aRxiv Preprint: {{publication.arxiv}} (opens in new tab)" target="_blank"> {{publication.arxiv}}</a></li>
+		<li>arXiv Preprint: <a href="https://arxiv.org/abs/{{publication.arxiv}}" title = "aRxiv Preprint: {{publication.arxiv}} (opens in new tab)" target="_blank"> {{publication.arxiv}}</a></li>
 		{% endif %}
 
 		<!--Chemrxiv - optional -->
 		{% if publication.chemrxiv %}
-		<li>ChemRxiv Preprint: <a href=" https://doi.org/10.26434/chemrxiv.{{publication.chemrxiv}}" title =  "ChemRxiv Preprint: {{publication.chemrxiv}} (opens in new tab)" target="_blank"> {{publication.chemrxiv}}</a></li>
+		<li>ChemRxiv Preprint: <a href="https://doi.org/10.26434/chemrxiv.{{publication.chemrxiv}}" title = "ChemRxiv Preprint: {{publication.chemrxiv}} (opens in new tab)" target="_blank"> {{publication.chemrxiv}}</a></li>
 		{% endif %}
 
 		<!-- PDF -->
 		{% if publication.journal %}
-		<li><a href="{{publication.pdf}}" title =  "PDF for {{publication.title}} (opens in new tab)" target="_blank"> Full Text</a></li>
+		<li><a href="{{publication.pdf}}" title = "PDF for {{publication.title}} (opens in new tab)" target="_blank"> Full Text</a></li>
+		{% endif %}
+
+		<!--OSF - optional -->
+		{% if publication.osf %}
+		<li>OSF Preprint: <a href="https://osf.io/{{publication.osf}}" title = "OSF Preprint: {{publication.osf}} (opens in new tab)" target="_blank"> {{publication.osf}}</a></li>
 		{% endif %}
 
 		<!-- SBGrid Datasets - optional -->
