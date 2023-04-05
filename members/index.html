@@ -165,7 +165,9 @@ The Fraser lab welcomes people of any race, ethnicity, religion, national origin
     {% if duration < 0.083 %} # For plotting purposes, minimum duration is a month
   		{% assign duration = 0.083 %}
     {% endif %}
-		{% if member.timeline_positions %} #all search strings in following section must be lowercase or it will not find matches
+    {% if member.timeline_group %} # Assign timeline color specifically from profile, otherwise from position
+      {% assign position = member.timeline_group | downcase %}
+		{% elsif member.timeline_positions %} #all search strings in following section must be lowercase or it will not find matches
 			{% assign position = member.timeline_positions[tenure] | downcase %}
 		{% else %}
 			{% assign position = member.position | downcase %}
