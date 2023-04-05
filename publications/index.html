@@ -18,11 +18,15 @@ group: publications
 			<i>{{ publication.journal }},</i>
 			{{publication.pub_date | split: "-" | first }}
 		{% else %}
-			<i>Biorxiv,</i>
 			{% if publication.biorxiv %}
+			<i>Biorxiv,</i>
 				{{publication.biorxiv | split: "." | first }}
-			{% else %}
+			{% elsif publication.biorxiv_version %}
+			<i>Biorxiv,</i>
 				{{publication.biorxiv_version | split: "." | first }}
+			{% else %}
+			<i>Preprint,</i>
+				{{publication.pub_date | split: "-" | first }}
 			{% endif %}
 		{% endif %}
 	</div>

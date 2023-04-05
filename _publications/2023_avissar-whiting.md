@@ -4,4 +4,9 @@ authors: "Avissar-Whiting M, Belliard F, Brand A, Brown K, Clément-Stoneham G, 
 pub_date: "2023-04-03"
 osf: "cht8p"
 image: "/static/img/pub/2023_avissar-whiting.png"
+links:
+  - name: Recognizing Preprint Peer Review meeting at Janelia
+    url: https://asapbio.org/recognizing-preprint-peer-review
+  - name: James's keynote from the meeting
+    url: https://www.youtube.com/watch?v=hYG5wTGh6aw&list=PLezPfyQ6lSolc6sOZ-an18oG3mZojuwb6&t=1285s
 ---
