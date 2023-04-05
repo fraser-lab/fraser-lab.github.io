@@ -5,6 +5,7 @@ enddate: []
 image: /static/img/members/bergmann.jpg # 365 x 365 pixels, 72 dpi
 altimage: /static/img/members/bergmann_pb.jpg #365 x 365 pixels, 72 dpi
 position: Associate Specialist
+timeline_group: staff scientist
 #subsequent:  update once you become an alumnus
 pronouns: she/her/hers #personal pronouns
 email: lena.bergmann (at) ucsf.edu #Preferred public email address
