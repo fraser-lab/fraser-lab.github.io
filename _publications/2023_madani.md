@@ -35,6 +35,8 @@ links:
   url: "https://spectrum.ieee.org/ai-protein-design"
 - name: "BioIT World - Natural Language Processing Designs Original Proteins From Scratch"
   url: "https://www.bio-itworld.com/news/2023/02/16/natural-language-processing-designs-original-proteins-from-scratch"
+- name: "GEN Biotechnology - Learning to Read and Write in the Language of Proteins"
+  url: "https://www.liebertpub.com/doi/10.1089/genbio.2023.29086.hth"
 - name: "Advanced Light Source - Chatbot-Style AI Designs Novel Functional Protein"
   url: "https://als.lbl.gov/chatbot-style-ai-designs-novel-functional-protein/"
 - name: "UCSF - AI Technology Generates Original Proteins from Scratch"
