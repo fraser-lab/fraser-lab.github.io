@@ -33,7 +33,7 @@ from [The Lancet has made one of the biggest retractions in modern history. How 
 
 By far, the most widely accepted means of communication is through publishing papers in scientific journals. The process of peer review plays an important role in refining the body of work prior to final publication. Yet, peer review is rarely taught to students in a formal setting, and is largely dependent on individual labs and mentors, leading to variable standards of peer review. Reflecting the evolution of technology, society and scientific culture, preprints have gained popularity in the life sciences in recent years, resulting in a shift in how progress in the life sciences is communicated, and raising questions of how we, as a scientific community, may work towards optimizing the peer review process in the life sciences. This class will use preprint servers (for example, BioRxiv) as a platform for formally teaching students how to peer review manuscripts in a critical and constructive way.
 
-We have modeled this class (and previous versions in [2020](/courses/peer_review_2020/) and [2021](/courses/peer_review_2021/)) based on [a course at NYU](http://bhabhaekiertlab.org/teaching) organized by Gira Bhabha, Damian Ekiert, Liam Holt & Timothee Lionnet.
+We have modeled this class (and previous versions in [2020](/courses/peer_review_2020/), [2021](/courses/peer_review_2021/), and [2022](/courses/peer_review_2022/)) based on [a course at NYU](http://bhabhaekiertlab.org/teaching) organized by Gira Bhabha, Damian Ekiert, Liam Holt & Timothee Lionnet.
 
 ## Racism and Bias in Peer review
 
@@ -106,38 +106,28 @@ After the round of sharing, the Discussion Leaders will present a joint talk sim
 
 - Students 1/2
 
-[paper](biorxiv link)
-
-[Review](disqus link)
+[Decoding the Cure-all Effects of Ginseng](https://www.biorxiv.org/content/10.1101/2023.04.05.535784v2)
 
 ### May 2 - JF at AVIDD meeting???
 
 - Students 3/4
 
-[paper](biorxiv link)
-
-[Review](disqus link)
+[Deep Boosted Molecular Dynamics (DBMD): Accelerating molecular simulations with Gaussian boost potentials generated using probabilistic Bayesian deep neural network](https://www.biorxiv.org/content/10.1101/2023.03.25.534210v2)
 
 ### May 3
 
 - Students 5/6
 
-[paper](biorxiv link)
-
-[Review](disqus link)
+[Phosphorylation of pyruvate dehydrogenase marks the inhibition of in vivo neuronal activity](https://www.biorxiv.org/content/10.1101/2023.03.13.532494v1)
 
 ### May 9 - JF out of town???
 
 - Students 7/8
 
-[paper](biorxiv link)
-
-[Review](disqus link)
+[The herbicide acetochlor causes lipid peroxidation by inhibition of glutathione peroxidase 4](https://www.biorxiv.org/content/10.1101/2023.04.14.536563v1)
 
 ### May 10
 
 - Students 9/10
 
-[paper](biorxiv link)
-
-[Review](disqus link)
+[The conserved protein CBA1 is required for vitamin B12 uptake in different algal lineages](https://www.biorxiv.org/content/10.1101/2023.03.24.534157v1.full)
