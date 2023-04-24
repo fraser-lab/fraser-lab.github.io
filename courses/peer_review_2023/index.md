@@ -52,7 +52,7 @@ Students will be paired to serve as "Co-Discussion Leaders" for one BioRxiv manu
 
 After the round of sharing, the Discussion Leaders will present a joint talk similar in content and quality to a Tetrad or QBC Journal Club presentation, with an estimated 30-40 minute duration (noting that interruptions and discussion may take us closer to an hour).
 
- After the group discussion, the co-discussion leaders will edit their review to reflect what emerged in the discussion. The deadline for this "final" review is  May 1st 5PM. The review will be posted (either named or anonymously through James Fraser acting as an "editor") as comments associated with the preprint on BioRxiv or a Zenodo record.
+ After the group discussion, the co-discussion leaders will edit their review to reflect what emerged in the discussion. The deadline for this "final" review is May 15th 5PM. The review will be posted (either named or anonymously through James Fraser acting as an "editor") as comments associated with the preprint on BioRxiv or a Zenodo record.
 
 - Writing peer reviews:
     - [Fraser lab how-to-review](https://fraserlab.com/philosophy/peer_review_how_to/)
