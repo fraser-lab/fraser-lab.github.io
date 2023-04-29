@@ -108,7 +108,7 @@ After the round of sharing, the Discussion Leaders will present a joint talk sim
 
 [Decoding the Cure-all Effects of Ginseng](https://www.biorxiv.org/content/10.1101/2023.04.05.535784v2)
 
-### May 2 - JF at AVIDD meeting???
+### May 2 - JF at AVIDD meeting - CM to moderate!
 
 - Students 3/4
 
@@ -120,7 +120,7 @@ After the round of sharing, the Discussion Leaders will present a joint talk sim
 
 [Phosphorylation of pyruvate dehydrogenase marks the inhibition of in vivo neuronal activity](https://www.biorxiv.org/content/10.1101/2023.03.13.532494v1)
 
-### May 9 - JF out of town???
+### May 9 - JF out of town - CM to moderate!
 
 - Students 7/8
 
