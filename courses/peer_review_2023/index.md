@@ -131,3 +131,10 @@ After the round of sharing, the Discussion Leaders will present a joint talk sim
 - Students 9/10
 
 [The conserved protein CBA1 is required for vitamin B12 uptake in different algal lineages](https://www.biorxiv.org/content/10.1101/2023.03.24.534157v1.full)
+
+### May 15
+
+- SPECIAL PRESENTATION AND DISCUSSION: eLife’s model and the future of science publishing
+  - Speaker: Michael Eisen, Professor, MCB UC Berkeley
+  - Editor-in-Chief, eLife
+- **Genentech Hall N114 from 3-4pm**
