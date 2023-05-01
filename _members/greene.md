@@ -1,11 +1,11 @@
 ---
 name: Eric Greene, Ph.D.
 startdate: [2020-08-01]
-enddate: []
+enddate: [2023-08-31]
 image: /static/img/members/greene.jpg
 altimage: /static/img/members/greene_pb.jpg
 position: Postdoctoral Scholar ([F32 NRSA](https://grants.nih.gov/grants/guide/contacts/parent_F32.html))
-#subsequent: update once you become an alumnus
+subsequent: Assistant Professor - Greene Lab @ SFSU
 pronouns: he/him/his #personal pronouns
 email: Eric.Greene (at) ucsf.edu #Preferred public email address
 scholar: pKxedkEAAAAJ #Google Scholar User ID

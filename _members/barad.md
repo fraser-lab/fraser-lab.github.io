@@ -5,7 +5,7 @@ enddate: [2019-07-29]
 image: /static/img/members/barad.jpg
 altimage: /static/img/members/barad_pb.jpg
 position: "Graduate Student, [Biophysics](https://biophysics.ucsf.edu) ([Discovery Fellow](https://graduate.ucsf.edu/discovery-fellows-program), [ARCS Scholar](http://www.arcsfoundation.org/))"
-subsequent: Postdoctoral Fellow - [Grotjahn Lab @ Scripps](https://grotjahnlab.org)
+subsequent: Postdoctoral Fellow - [Grotjahn Lab @ Scripps](https://grotjahnlab.org); now Assistant Professor - Barad Lab @ OHSU
 pronouns: he/him/his
 email: benjamin.barad (at) gmail.com
 scholar: XDH9FrwAAAAJ
