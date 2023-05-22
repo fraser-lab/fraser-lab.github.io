@@ -16,7 +16,7 @@ We are always in the market for motivated and talented people, even if we do not
 
 ## Graduate Students
 
-At UCSF, students can apply to a single [graduate program](https://graduate.ucsf.edu/programs) and do not apply directly to labs. The landscape of life science PhD programs and their admissions processes can be incredibly opaqu, so Hersh Bhargava and I wrote a [guide on Applying to Quantitative Biology PhD Programs](https://hershbhargava.com/writing/applying-to-phd-programs/). 
+At UCSF, students can apply to a single [graduate program](https://graduate.ucsf.edu/programs) and do not apply directly to labs. The landscape of life science PhD programs and their admissions processes can be incredibly opaque, so Hersh Bhargava and I wrote a [guide on Applying to Quantitative Biology PhD Programs](https://hershbhargava.com/writing/applying-to-phd-programs/). 
 
 ##### The Fraser Lab participates in the following UCSF graduate programs:
   * **[Biophysics](http://biophysics.ucsf.edu/)**: The Biophysics Graduate Program (BP) at the University of California, San Francisco (UCSF) prepares scientists to leverage new and emerging research tools—from nanotechnology to nuclear magnetic resonance spectroscopy—to quantify biological processes in living biological systems using physics and chemistry.
