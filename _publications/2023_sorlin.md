@@ -8,4 +8,7 @@ pmid:
 pmcid:
 biorxiv_version: "2023.05.20.541529v1"
 pdf: 
+links:
+  - name: "Wilson Lab @ UCSF"
+    url: "https://radiology.ucsf.edu/research/labs/wilson"
 ---
