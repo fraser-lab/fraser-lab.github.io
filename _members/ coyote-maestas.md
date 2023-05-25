@@ -5,11 +5,11 @@ enddate: [2023-07-01]
 image: /static/img/members/Coyote-Maestas.jpg #365 x 365 pixels, 72 dpi
 altimage: /static/img/members/Coyote-Maestas_pb.jpg  #365 x 365 pixels, 72 dpi
 position: "Affiliate, [HHMI Hanna Gray](https://www.hhmi.org/programs/hanna-h-gray-fellows-program#Fellows) and <br>[QBI Fellow](https://fellows.ucsf.edu/current-fellows#:~:text=QBI%20Fellows%3A%20)"
-subsequent:  [Assistant Professor - Coyote-Maestas Lab @ UCSF](https://www.wcoyotelab.com/)
+subsequent:  Assistant Professor - Coyote-Maestas Lab @ UCSF
 pronouns: he/him/his #personal pronouns
 email: willow.coyote-maestas (at) ucsf.edu #Preferred public email address
 scholar: 0Rla8ncAAAAJ& #Google Scholar User ID
-website:
+website: https://www.wcoyotelab.com/
 UCSF:  #UCSF Profile ID - Employees only
 twitter: willowcoyote
 linkedin:
