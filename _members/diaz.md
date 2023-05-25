@@ -1,5 +1,5 @@
 ---
-name: Roberto Efraín (Robbie) Díaz
+name: Roberto Efraín (Robbie) Díaz, Ph.D.
 timeline_name: Roberto Efraín
 startdate: [2018-06-25]
 enddate: [2023-05-15]
@@ -7,7 +7,7 @@ image: /static/img/members/diaz.png
 altimage: /static/img/members/diaz_pb.jpg
 position: "Graduate Student, [Tetrad](https://tetrad.ucsf.edu)<br>
 ([NSF GRFP](http://www.nsfgrfp.org/), [HHMI Gilliam Fellow](http://www.hhmi.org/science-education/programs/gilliam-fellowships-advanced-study/))"
-#subsequent:  update once you become an alumnus
+subsequent:  DEIA Program Manager, Helen Diller Family Comprehensive Cancer Center, UCSF
 pronouns: he/él
 email: roberto.diaz (at) ucsf.edu
 scholar: L_OCeG4AAAAJ
