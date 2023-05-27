@@ -104,33 +104,24 @@ After the round of sharing, the Discussion Leaders will present a joint talk sim
 
 ### May 1
 
-- Students 1/2
-
-[Decoding the Cure-all Effects of Ginseng](https://www.biorxiv.org/content/10.1101/2023.04.05.535784v2)
+- [Decoding the Cure-all Effects of Ginseng](https://www.biorxiv.org/content/10.1101/2023.04.05.535784v2)
 
 ### May 2 - JF at AVIDD meeting - CM to moderate!
 
-- Students 3/4
-
-[Deep Boosted Molecular Dynamics (DBMD): Accelerating molecular simulations with Gaussian boost potentials generated using probabilistic Bayesian deep neural network](https://www.biorxiv.org/content/10.1101/2023.03.25.534210v2)
+- [Deep Boosted Molecular Dynamics (DBMD): Accelerating molecular simulations with Gaussian boost potentials generated using probabilistic Bayesian deep neural network](https://www.biorxiv.org/content/10.1101/2023.03.25.534210v2)
 
 ### May 3
 
-- Students 5/6
-
-[Phosphorylation of pyruvate dehydrogenase marks the inhibition of in vivo neuronal activity](https://www.biorxiv.org/content/10.1101/2023.03.13.532494v1)
+- [Phosphorylation of pyruvate dehydrogenase marks the inhibition of in vivo neuronal activity](https://www.biorxiv.org/content/10.1101/2023.03.13.532494v1)
+  - [PREreview review from Zhengya and Catherine](https://beta.prereview.org/reviews/7975274)
 
 ### May 9 - JF out of town - CM to moderate!
 
-- Students 7/8
-
-[The herbicide acetochlor causes lipid peroxidation by inhibition of glutathione peroxidase 4](https://www.biorxiv.org/content/10.1101/2023.04.14.536563v1)
+- [The herbicide acetochlor causes lipid peroxidation by inhibition of glutathione peroxidase 4](https://www.biorxiv.org/content/10.1101/2023.04.14.536563v1)
 
 ### May 10
 
-- Students 9/10
-
-[The conserved protein CBA1 is required for vitamin B12 uptake in different algal lineages](https://www.biorxiv.org/content/10.1101/2023.03.24.534157v1.full)
+- [The conserved protein CBA1 is required for vitamin B12 uptake in different algal lineages](https://www.biorxiv.org/content/10.1101/2023.03.24.534157v1.full)
 
 ### May 15
 
