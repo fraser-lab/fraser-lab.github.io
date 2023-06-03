@@ -4,6 +4,7 @@ title: Fraser Lab DEIJ Journal Club - Socioeconomic roots of academic faculty
 author: Christian Macdonald
 layout: post
 group: news
+tags: deij_jc
 ---
 **Background**
 <br>

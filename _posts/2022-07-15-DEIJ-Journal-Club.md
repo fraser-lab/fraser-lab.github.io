@@ -4,6 +4,7 @@ title: Fraser Lab DEIJ Journal Club - Implicit Gender Bias
 author: Stephanie Wankowicz
 layout: post
 group: news
+tags: deij_jc
 ---
 **Background**
 <br>

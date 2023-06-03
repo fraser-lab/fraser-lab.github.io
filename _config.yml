@@ -43,3 +43,5 @@ collections:
                 output: true
         pets:
                 output: true
+        tags:
+                output: true

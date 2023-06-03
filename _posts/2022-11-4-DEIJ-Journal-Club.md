@@ -4,6 +4,7 @@ title: Fraser Lab DEIJ Journal Club - Blinding Grant Peer Review
 author: Eric Greene
 layout: post
 group: news
+tags: deij_jc
 ---
 **Background**
 <br>

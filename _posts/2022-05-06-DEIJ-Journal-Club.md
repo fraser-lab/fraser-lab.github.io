@@ -4,6 +4,7 @@ title: Fraser Lab DEIJ Journal Club - The Minority Tax
 author: Stephanie Wankowicz
 layout: post
 group: news
+tags: deij_jc
 ---
 **Background**
 <br>

@@ -4,6 +4,7 @@ title: Fraser Lab DEIJ Journal Club - Examining the STEM Pipeline Metaphor
 author: Christian Macdonald
 layout: post
 group: news
+tags: deij_jc
 ---
 **Background**
 <br>

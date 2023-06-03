@@ -4,6 +4,7 @@ title: Fraser Lab DEIJ Journal Club - Peer Review
 author: Roberto Efraín (Robbie) Díaz
 layout: post
 group: news
+tags: deij_jc
 ---
 **Background**
 <br>
