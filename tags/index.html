@@ -1,0 +1,15 @@
+---
+title: Posts from the Fraser Lab sorted by tag
+layout: post
+group: tags
+---
+
+<ul>
+    {% for tag in site.tags %}
+    {% assign tag_slug = tag.tag-name | slugify: "raw" %}
+    <li>
+        <h2><a class="tag-link" href={{ site.baseurl | append: "/tags/" | append: tag_slug | append: "/" }}
+                rel="category tag">{{ tag.tag-name }}</h2>
+    </li>
+    {% endfor %}
+</ul>

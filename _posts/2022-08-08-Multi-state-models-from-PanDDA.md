@@ -3,6 +3,7 @@ title: Multi-state models from PanDDA
 author: Galen Correy
 layout: post
 group: news
+tags: how_to
 ---
 ### Background
 

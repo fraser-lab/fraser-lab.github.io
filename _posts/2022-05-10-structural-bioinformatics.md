@@ -3,8 +3,8 @@ title: So you want to do a structural bioinformatic analysis…
 author: Stephanie Wankowicz
 layout: post
 group: news
+tag: how_to
 ---
-
 
 
 Over the past two years I have done a bunch of structural bioinformatic work, resulting in the paper [Ligand binding remodels protein side chain conformational heterogeneity](https://elifesciences.org/articles/74114). And I made A LOT of mistakes. 
