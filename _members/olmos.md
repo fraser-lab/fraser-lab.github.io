@@ -5,7 +5,7 @@ enddate: [2021-09-01]
 image: /static/img/members/olmos.jpg
 altimage: /static/img/members/olmos_pb.jpg
 position: Postdoctoral Fellow
-#subsequent:  update once you become an alumnus
+subsequent:  Lecturer of Biosciences at Rice University
 pronouns: he/him/his
 email: olmos (at) fraserlab.com
 scholar: exW-ul8AAAAJ
