@@ -8,9 +8,10 @@ pmid:
 pmcid: 
 biorxiv_version: "2023.06.28.546963v1"
 pdf: 
+github:
+- description: qfit
+  url: ExcitedStates/qfit-3.0
 links:
 - name: Keedy lab @ CUNY Advanced Science Research Center
   url: https://keedylab.org/
-- name: qFit code
-  url: https://github.com/ExcitedStates/qfit-3.0
 ---
