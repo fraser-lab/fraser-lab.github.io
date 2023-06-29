@@ -14,4 +14,6 @@ github:
 links:
 - name: Keedy lab @ CUNY Advanced Science Research Center
   url: https://keedylab.org/
+- name: "Celebratory tweetstorm from Stephanie Wankowicz"
+  url: https://twitter.com/stephanie_mul/status/1674525173633142784?s=20
 ---
