@@ -2,7 +2,6 @@
 title: Introduction to Computing for Biophysicists
 layout: default
 group: courses
-permalink: /computing/
 ---
 
 # Peer Review in the Life Sciences
