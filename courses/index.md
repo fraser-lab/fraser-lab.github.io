@@ -8,6 +8,12 @@ group: courses
 
 The Fraser lab is supportive of learning through research experiences, and has participated in a number of courses for first year graduate students which challenge students with real research challenges in which they conduct experiments and analyze data to answer interesting new questions.
 
+## Biophysics: Introduction to Computing for Biophysicists
+
+The Biophysics program draws students from multiple backgrounds. This course is designed to bring all students up to a baseline level of computational fluency. We rely on the fact that students are already familiar with a common language that relates to computation: molecular biology! The course is taught in Python, and covers the basics of programming, parallelization, and data visualization. 
+
+- [Introduction to Computing 2023](/courses/computing_2023/)
+
 ## Biophysics 204: Macromolecular Methods
 Fluency in multiple biophysical methods is often critical for answering mechanistic questions. To train the next generation of biophysicists at UCSF, we have decided to alter the traditional didactic structure by creating a new 6 week “Macromolecular Methods” class that places data collection at the beginning of the course.
 
