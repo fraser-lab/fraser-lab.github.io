@@ -8,7 +8,8 @@
 
 {% assign position = member.position | downcase %}
 {% if position contains "srtp" or position contains "intern" or position 
-  contains "sep" or position contains "visiting" or position contains "ucsf-usf" %}
+  contains "sep" or position contains "visiting" or position contains "ucsf-usf" 
+  or position contains "high school" %}
 {% unless position contains "affiliate" %}
 {% continue %}
 {% endunless %}
@@ -145,11 +146,11 @@ Subsequently: {{undergraduate.subsequent}}<br>
 
 
 <br>
-## [SEP High School Interns](http://sep.ucsf.edu/hs_programs/high-school-intern-program/)
+## [High School Interns](http://sep.ucsf.edu/hs_programs/high-school-intern-program/)
 {% for student in sorted %}
 
 {% assign position = student.position | downcase %}
-{% unless position contains "sep" %}
+{% unless position contains "sep" or position contains "high school"%}
 {% continue %}
 {% endunless %}
 
