@@ -7,5 +7,5 @@ image: "/static/img/reviews/2023_Coricello.png"
 
 peer-review:
  - biorxiv_version: "2023.05.16.541009"
- - prereview: "10.5281/zenodo.8128617"
+ - prereview: "8128617"
 ---
