@@ -9,4 +9,14 @@ pmcid:
 biorxiv:
 biorxiv_version: "2023.08.03.551866v1"
 pdf: 
+github:
+- description: "MET_KinaseDomain_DMS"
+  url: fraser-lab/MET_KinaseDomain_DMS
+links:
+  - name: Jura lab @ UC San Francisco
+    url: https://cvri.ucsf.edu/~jura/
+  - name: Collisson lab @ UC San Francisco
+    url: https://cancer.ucsf.edu/people/collisson.eric
+  - name: "Celebratory Tweetstorm/Xstorm? by Gabriella Estevam"
+    url: "https://twitter.com/GabbyEstevam/status/1687590999286235141"
 ---
