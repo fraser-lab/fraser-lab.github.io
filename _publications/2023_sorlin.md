@@ -7,7 +7,7 @@ image: "/static/img/pub/2023_sorlin.png"
 pmid: "37535945"
 pmcid:
 biorxiv_version: "2023.05.20.541529v1"
-pdf: 
+pdf: "http://cdn.fraserlab.com/publications/2023_sorlin.pdf"
 links:
   - name: "Wilson Lab @ UCSF"
     url: "https://radiology.ucsf.edu/research/labs/wilson"
