@@ -11,8 +11,6 @@ tags: deij_jc
 Our journal clubs aim to provide an environment for continued learning and critical discussion. Based on the discussion, we also brainstorm action items that individuals and labs can implement. Our discussions and proposed interventions reflect our opinions based on our identities and lived experiences. Consequently, they may differ from the discussions held by those with other identities and/or experiences.
 This journal club took place among the entire Fraser lab. Due to the size, we split into three groups. Each group had unique but overlapping conversations. Below are the major points discussed by each group.
 
-**November 4th, 2022 – Blinding peer review**
-
 **Discussion Leader:** [Stephanie Wankowicz](/members/), [Daphne Chen](/members/), [Eric Greene](/members/#Eric%20Greene,%20Ph.D.)
 
 **Articles:** 
