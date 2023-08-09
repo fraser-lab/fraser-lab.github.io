@@ -14,8 +14,7 @@ This journal club took place among the entire Fraser lab. Due to the size, we sp
 **Discussion Leader:** [Stephanie Wankowicz](/members/), [Daphne Chen](/members/), [Eric Greene](/members/#Eric%20Greene,%20Ph.D.)
 
 **Articles:** 
-
-Primary Article: [“Differential retention contributes to racial/ethnic disparity in U.S. academia”](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0259710)
+[“Differential retention contributes to racial/ethnic disparity in U.S. academia”](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0259710)
 
 
 **Summary and Key Points:**
@@ -26,6 +25,7 @@ This paper addresses these concerns by focusing on differential retention. They 
 *Racial Categories:* This study utilizes the NIH racial categories, which are extremely broad. We discussed how these categories oversimplify racial groups in the United States. The international scholars in the lab also provided perspective on how racial categories are a region- or country-specific issue, with many countries not discussing the issue of race due to a much more homogenous society.
 
 *Academic Career Trajectories:*
+<br>
 The study broke down the transition from each ‘stage’ of an academic career (graduate, post-doc, pre-tenure faculty, post-tenure faculty). While this analysis removes many confounding factors, the academic career path is not for everyone, and performing this analysis with only those who want to enter the next stage of academia may highlight differences. 
 
 However, given this paper's clear trends and the lack of survey data on career goals, adding this category will likely remain the conclusion. While racism is at the core of these disparities, we discussed specific differences at each career stage and potential solutions.
@@ -36,15 +36,16 @@ The lack of funding or support for research projects can be more relevant at the
 
 
 *Internal Lab Support:*
+<br>
 While most of these changes need to occur on an institutional scale, we also acknowledged the significance of peer mentoring in fostering retention and support among lab members. Although being social and building relationships with lab mates can mitigate this feeling, it does not eliminate the sense of not belonging. Recognizing the value of non-lab-related peer mentoring networks, such as connections with individuals from other labs or institutions, we discussed how these external support systems can contribute to a cohesive and well-functioning lab environment. Furthermore, creating a supportive environment can help individual members see their next step in academia and expose them to career options they would not have otherwise considered. We acknowledged the need for regular conversations about careers and the next steps, as many trainees (graduate students and postdocs) tend to put off considering their future to focus on their science, and PIs should be, but are not always, proactive in initiating these conversations.
 
 *Hypotheses and potential solutions for improving retention:*
+<br>
 We discussed the socioeconomic factors that present significant obstacles for individuals pursuing careers in higher education. These factors include the affordability of college education, wage loss during postdoctoral training, reliance on family support, costs associated with grad school interviews and applications, and the increasing financial burden of each education stage (on top of the cost of moving between educational stages). We also noted that gender plays a prominent role in many of these transitions, especially grad school to postdoc, postdoc to pre-tenure, as this is when many people in the canonical ‘academic pipeline’ have children (with fewer parents pursuing a postdoc, especially with women, as childbearing work falls disproportionately on women) (7). Moreover, the hard work of childbearing falls disproportionately on women, which presents a broad gender-specific barrier to advancement. More detailed data would provide valuable insights into the career trajectories of those opting out of academia, furthering our understanding of the challenges and reasons behind their decisions.
 
 
 
 **Open Questions:**
-
 - How does the dropout rate from one step to another look among only those who desire to continue in academia? 
 - How different does this trajectory look for different genders?
 - Why do people not move on to a postdoc or pre-tenure position?
@@ -53,10 +54,9 @@ We discussed the socioeconomic factors that present significant obstacles for in
 -We’d love to see follow-up analyses of this data set, particularly how these trends hold up/change for different disciplines and/or institutions. Can we identify and learn from those demonstrating positive progress toward inclusive academic retention? 
 
 **Proposed Action Items:** 
-
-	- Advocate for increased funding and support of the postdoctoral affairs office.
-	-Waiving application fees for graduate school and/or University providing travel funding up front (instead of through reimbursement)
-	-Provide resources or opportunities for trainees to form peer mentoring networks, such as socials/mixers, funding for groups based on specific career/research goals, etc.
+- Advocate for increased funding and support of the postdoctoral affairs office.
+- Waiving application fees for graduate school and/or University providing travel funding up front (instead of through reimbursement)
+- Provide resources or opportunities for trainees to form peer mentoring networks, such as socials/mixers, funding for groups based on specific career/research goals, etc.
 
  **Citations:** 
 
