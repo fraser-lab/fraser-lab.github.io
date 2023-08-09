@@ -13,7 +13,7 @@ This journal club took place among the entire Fraser lab. Due to the size, we sp
 
 **November 4th, 2022 – Blinding peer review**
 
-**Discussion Leader:** [Stephanie Wankowicz](/members/), Daphne Chen(/members/), [Eric Greene](/members/#Eric%20Greene,%20Ph.D.)
+**Discussion Leader:** [Stephanie Wankowicz](/members/), [Daphne Chen](/members/), [Eric Greene](/members/#Eric%20Greene,%20Ph.D.)
 
 **Articles:** 
 
@@ -21,10 +21,12 @@ Primary Article: [“Differential retention contributes to racial/ethnic dispari
 
 
 **Summary and Key Points:**
+<br>
 The top ranks of academia, particularly tenured faculty positions, suffer from a glaring lack of racial diversity(1). The cause of this lack of diversity is commonly attributed to challenges in recruitment and retention. Recruitment involves increasing enrollment of students in undergraduate or graduate programs, while retention focuses on keeping people in the ‘academic pipeline’ as they transition from role to role. Insufficient recruitment is widely recognized as a critical contributor to the lack of diversity in STEM fields; however, retention also significantly contributes to this disparity (2-4).
 
 This paper addresses these concerns by focusing on differential retention. They frame retention through a null model, which states that if all else was equal, given the number of academics at stage i in a particular race category, there should be a proportional number of academics in that race category at stage i + 1. They examine each NIH race category's academic career trajectory trends (5). The authors then compare the distribution predicted by this model to what is observed in NSF survey data. This comparison allows them to ask at which stage each race tends to “fall out” of the academic pipeline. The trends presented in this paper represent a significant dropout of certain races when moving from one stage to another. This was most evident from the grad school to postdoc stage, with a significant dropout of Black and Hispanic academics.
 *Racial Categories:* This study utilizes the NIH racial categories, which are extremely broad. We discussed how these categories oversimplify racial groups in the United States. The international scholars in the lab also provided perspective on how racial categories are a region- or country-specific issue, with many countries not discussing the issue of race due to a much more homogenous society.
+
 *Academic Career Trajectories:*
 The study broke down the transition from each ‘stage’ of an academic career (graduate, post-doc, pre-tenure faculty, post-tenure faculty). While this analysis removes many confounding factors, the academic career path is not for everyone, and performing this analysis with only those who want to enter the next stage of academia may highlight differences. 
 
