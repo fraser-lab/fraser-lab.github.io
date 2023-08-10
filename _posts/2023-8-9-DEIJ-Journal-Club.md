@@ -55,13 +55,14 @@ We discussed the socioeconomic factors that present significant obstacles for in
 - How different does this trajectory look for different genders?
 - Why do people not move on to a postdoc or pre-tenure position?
 - There are also significant dropouts observed from pre-tenure to tenured positions. Why are universities not supporting their pre-tenure faculty through the tenure process? 
--What impact does observing a historically underrepresented professor not getting tenure have on an institution's student population? 
--We’d love to see follow-up analyses of this data set, particularly how these trends hold up/change for different disciplines and/or institutions. Can we identify and learn from those demonstrating positive progress toward inclusive academic retention? 
+- What impact does observing a historically underrepresented professor not getting tenure have on an institution's student population? 
+- We’d love to see follow-up analyses of this data set, particularly how these trends hold up/change for different disciplines and/or institutions. Can we identify and learn from those demonstrating positive progress toward inclusive academic retention? 
 
 **Proposed Action Items:** 
 - Advocate for increased funding and support of the postdoctoral affairs office.
 - Waiving application fees for graduate school and/or University providing travel funding up front (instead of through reimbursement)
 - Provide resources or opportunities for trainees to form peer mentoring networks, such as socials/mixers, funding for groups based on specific career/research goals, etc.
+- Bringing awareness of these racial disparities to admission committees, hiring committees, and hiring managers.
 
  **Citations:** 
 
