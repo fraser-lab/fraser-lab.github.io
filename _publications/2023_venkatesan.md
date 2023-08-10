@@ -5,7 +5,7 @@ journal: "PLoS Pathogens"
 pub_date: "2023-03-02" #Date of journal publication, NOT BIORXIV UPLOAD
 image: "/static/img/pub/2022_venkatesan.png" #Minimum dimensions of
 pmid: "36862759"
-pmcid: #"PMC#######"
+pmcid: "PMC10013918"
 biorxiv:
 biorxiv_version: "2022.10.12.511840v1"
 pdf: #"http://cdn.fraserlab.com/publications/2022_venkatesan.pdf"

@@ -5,7 +5,7 @@ journal: "Nature Biotechnology"
 pub_date: '2023-01-26'
 image: "/static/img/pub/2021_madani.gif"
 pmid: "36702895"
-pmcid:
+pmcid: "PMC10400306"
 biorxiv_version: "2021.07.18.452833v1"
 pdf: "http://cdn.fraserlab.com/publications/2023_madani.pdf"
 pdbs:

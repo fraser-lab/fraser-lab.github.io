@@ -4,8 +4,8 @@ authors: "Huiting E&#42;, Cao X&#42;, Ren J, Athukoralage JS, Luo Z, Silas S, An
 journal: "Cell"
 pub_date: "2023-02-06"
 image: "/static/img/pub/2023_huiting_cao.jpg"
-pmid: 
-pmcid: 
+pmid: "36750095"
+pmcid: "PMC9975087"
 biorxiv_version: "2022.03.30.486325v1"
 pdf: "http://cdn.fraserlab.com/publications/2023_huiting_cao.pdf"
 pdbs:
