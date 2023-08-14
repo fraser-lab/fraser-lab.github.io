@@ -105,23 +105,27 @@ After the round of sharing, the Discussion Leaders will present a joint talk sim
 ### May 1
 
 - [Decoding the Cure-all Effects of Ginseng](https://www.biorxiv.org/content/10.1101/2023.04.05.535784v2)
+  - [PREreview review from Ivan and Dani](https://zenodo.org/record/8102883)
 
 ### May 2 - JF at AVIDD meeting - CM to moderate!
 
 - [Deep Boosted Molecular Dynamics (DBMD): Accelerating molecular simulations with Gaussian boost potentials generated using probabilistic Bayesian deep neural network](https://www.biorxiv.org/content/10.1101/2023.03.25.534210v2)
+  - [PREreview review from Ilayda and Freitas](https://zenodo.org/record/8102835)
 
 ### May 3
 
 - [Phosphorylation of pyruvate dehydrogenase marks the inhibition of in vivo neuronal activity](https://www.biorxiv.org/content/10.1101/2023.03.13.532494v1)
-  - [PREreview review from Zhengya and Catherine](https://beta.prereview.org/reviews/7975274)
+  - [PREreview review from Zhengya and Catherine](https://zenodo.org/record/7975274)
 
 ### May 9 - JF out of town - CM to moderate!
 
 - [The herbicide acetochlor causes lipid peroxidation by inhibition of glutathione peroxidase 4](https://www.biorxiv.org/content/10.1101/2023.04.14.536563v1)
+  - [PREreview review from David and Jeffrey](https://zenodo.org/record/8239835)
 
 ### May 10
 
 - [The conserved protein CBA1 is required for vitamin B12 uptake in different algal lineages](https://www.biorxiv.org/content/10.1101/2023.03.24.534157v1.full)
+  - [PREreview review](https://zenodo.org/record/7996088)
 
 ### May 15
 
