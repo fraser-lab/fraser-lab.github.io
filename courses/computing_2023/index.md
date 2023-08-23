@@ -21,11 +21,11 @@ hard to use chatgpt if you don't have some background, because prompting works s
 
 
 ## Racism and Bias in Computing
-
+Computing systems were designed by folks with bias and therefore have bias built in. Also there is occaisionally offensive terminology (master/slave) for some processes - but these are mostly being phased out.
 
 
 ## Course structure
-
+Hands on practical course - learn as you go!
 ### Sept 11 - JF
 - register for a wynton account
 - file system and terminal
@@ -71,11 +71,13 @@ hard to use chatgpt if you don't have some background, because prompting works s
     - vi and how to do insert mode, write, quit - note that there are many other things, but that we aren't using them
     - how to make a bash script 
     - job submission 101 to run the translation script in parallel rather than in a for loop in a single script
+
 ### Sept 19
 - structure prediction and pipeline building (wynton - SW)
     - run alphafold on the sequences in your folder
 - plotting results (local - JF)
     - install conda
     - plot the distribution of gene lengths in your folder
+    - show an example from enzyme kinetics
 ### Sept 20
 - download alphafold files and visualize in pymol or chimera
