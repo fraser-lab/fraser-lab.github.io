@@ -79,5 +79,6 @@ Hands on practical course - learn as you go!
     - install conda
     - plot the distribution of gene lengths in your folder
     - show an example from enzyme kinetics
+
 ### Sept 20
 - download alphafold files and visualize in pymol or chimera
