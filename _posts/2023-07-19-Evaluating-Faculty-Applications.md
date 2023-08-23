@@ -23,7 +23,24 @@ Next, I turn my attention to the research statement. The opening page (and espec
 For the remaining candidates, I undertake a thorough review of the entire research statement and cover letter. I study the applicant's key preprints and papers to familiarize myself with their specific scientific questions and approaches. Interestingly, many of the faculty members I've been involved in hiring at UCSF had not yet published their major work in a peer-reviewed journal at the time of their application. This is not a deterrent for me; in fact, I embrace preprints wholeheartedly. Preprints provide an open and immediate insight into a researcher's latest work, and I am fully capable of evaluating them on their own merits. However, what I find less favorable are "confidential manuscripts in review". Because these do not offer me the same level of transparency as preprints, I won’t review them as part of the application. Including such “confidential manuscripts” demonstrates a disconnect with the open science principles that I value in future colleagues. 
 
 
-During this stage, I also try to evaluate how successful they have been in making progress on key problems in prior career stages by scanning letters of reference and scanning additional papers by the applicant (and often in the field of the applicant). This step is time-intensive, taking approximately 20 to 40 minutes per candidate. However, this is the point where I decide if a candidate should be evaluated by the entire committee, generally nominating about 10-15 candidates.
+During this stage, I also try to evaluate how successful they have been in making progress on key problems in prior career stages by scanning letters of reference and scanning additional papers by the applicant (and often in the field of the applicant). 
+
+
+I also want to clarify what I look for in reference letters, even though they are a minor factor relative to the research proposal and papers of the applicant. It's common for every applicant to be described as "the best person who has passed through the lab in years," so overall praise isn't the differentiator for me. Instead, I focus on three key things:
+
+
+1 - Context for the scientific barrier the candidate overcame in their prior work.
+
+
+2 - Discussion of how the candidate's FUTURE work will differentiate from the thrust of their current lab.
+
+
+3 - Corroborating data on teaching, mentorship, and outreach.
+
+
+Letters can add depth to these three dimensions, but rarely detract from them. While it's not a strict requirement, a well-crafted letter that resonates on these three issues can be immensely helpful in painting a comprehensive picture of the candidate.
+
+This overall step of evaluating the research statement and papers (with a scan of letters of references and other papers) is time-intensive, taking approximately 20 to 40 minutes per candidate. However, this is the point where I decide if a candidate should be evaluated by the entire committee, generally nominating about 10-15 candidates.
 
 
 At this point, I also get the short list of other members of the committee. Some of my colleagues may weigh other factors such as the prestige of journals where the applicant has published, their academic pedigree, or the likelihood of securing funding. This diversity in evaluation criteria is a strength of a committee approach, provided we are all aware of and acknowledge our biases. We typically get about 100-300 applicants in a cycle, but there is usually a significant overlap in shortlists. Generally, the committee process leads to a shortlist of ~25 candidates.
