@@ -12,12 +12,17 @@ group: courses
 
 **Location:** GH 227 - Teaching Lab
 
-**Instructors:** [James Fraser](mailto:jfraser@fraserlab.com), [Stephanie Wankowicz](mailto:stephanie.wankowicz@ucsf.edu)
+**Instructors:** [James Fraser](mailto:jfraser@fraserlab.com), [Stephanie Wankowicz](mailto:mullane.stephanie@gmail.com)
 
 
 
 ## Course Description:
-hard to use chatgpt if you don't have some background, because prompting works so much better if you do it in a way that resemebles a python script. So we will start with a few days of python, and then move into the more advanced topics.
+This will be a practical course to get you familiar with basic coding including:
+    How to use the terminal to move files around
+    How to do basic scripting in Python
+    How to work on remote computers
+
+The course aims to introduce you to some ways to gain some algorithmic understanding and how to use coding as a biologist. While there are many tools out there to help you code (ChatGPT, Github Co-pilot, ect), they are difficult to use if you don't have some algorithmic or coding background. 
 
 
 ## Racism and Bias in Computing
@@ -27,7 +32,7 @@ Computing systems were designed by folks with bias and therefore have bias built
 ## Course structure
 Hands on practical course - learn as you go!
 ### Sept 11 - JF
-- register for a wynton account
+- register for a [Wynton account](https://wynton.ucsf.edu/hpc/about/join.html)
 - file system and terminal
     - [download VS code](https://code.visualstudio.com/download)
     - navigate to where it downloaded
@@ -56,7 +61,7 @@ Hands on practical course - learn as you go!
     - lists and iterating through a list
     - for loop to transcribe and translate the sequences
 
-### Sept 15 (SW only)
+### Sept 15 - SW
 - catchup on previous days
     - share python scripts and run them for class
     - how to prompt chatgpt to write these scripts for you
@@ -65,7 +70,7 @@ Hands on practical course - learn as you go!
     - introduction to ssh and scp concepts
 
 ### Sept 18 - SW 
-- working on a remote computer (wynton)
+- working on a remote computer (Wynton)
     - logging in
     - file transfer
     - vi and how to do insert mode, write, quit - note that there are many other things, but that we aren't using them
@@ -73,8 +78,9 @@ Hands on practical course - learn as you go!
     - job submission 101 to run the translation script in parallel rather than in a for loop in a single script
 
 ### Sept 19
-- structure prediction and pipeline building (wynton - SW)
+- structure prediction and pipeline building (Wynton - SW)
     - run alphafold on the sequences in your folder
+      
 - plotting results (local - JF)
     - install conda
     - plot the distribution of gene lengths in your folder
