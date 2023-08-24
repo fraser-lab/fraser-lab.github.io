@@ -4,7 +4,7 @@ layout: default
 group: courses
 ---
 
-# Peer Review in the Life Sciences
+# Introduction to Computing for Biophysicists
 
 ## Fall 2023 Syllabus
 
