@@ -30,22 +30,24 @@ Computing systems were designed by folks with bias and therefore have bias built
 
 
 ## Course structure
-Hands on practical course - learn as you go!
+Hands-on practical course - learn as you go!
+
 ### Sept 11 - JF
-- register for a [Wynton account](https://wynton.ucsf.edu/hpc/about/join.html)
+- Register for a [Wynton account](https://wynton.ucsf.edu/hpc/about/join.html)
 - file system and terminal
     - [download VS code](https://code.visualstudio.com/download)
-    - navigate to where it downloaded
-    - list files
-    - run on command line to install
-    - create a folder on your desktop
-    - navigate to that folder on command line
-    - create files name.txt, favorite_papers.txt, etc in vs code in that folder
-    - list and cat files in that folder
-    - make another folder, copy and move files between folders and follow actions on GUI
-    - folders within folders and the file tree!
+    - Navigate to where it downloaded
+    - List files
+    - Run on the command line to install
+    - Create a folder on your desktop
+    - Navigate to that folder on command line
+    - Create files name.txt, favorite_papers.txt, etc in vs code in that folder
+    - List and cat files in that folder
+    - Make another folder, copy and move files between folders and follow actions on GUI
+    - Folders within folders and the file tree!
 
 ### Sept 12 - JF
+- Download [Macrodomain Fasta Sequences](https://ucsf.box.com/s/6p6mtsnawsxusy9z5jyg5idwov78fc1r)
 - introduction to python
     - hello world and printing
     - taking a DNA sequence and printing
