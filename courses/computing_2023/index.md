@@ -40,7 +40,7 @@ This is a hands-on practical course - we will be moving at the pace of the stude
 We will begin with understanding the relationship between the terminal, filesystem, and the GUI. We will then move to basic python scripting, grounding ourselves in creating python versions of the ribosome and restriction enzymes. Next, we will move to working on remote computers, which can help us answer our reserach questions faster by parallelizing our work. Finally, if there is time, we will explore ways to visualize our results using plotting libraries and molecular graphics tools. 
 
 
-### Sept 11 - JF
+### Sept 11 - 9AM - JF
 - Register for a [Wynton account](https://wynton.ucsf.edu/hpc/about/join.html)
 - file system and terminal
     - [download VS code](https://code.visualstudio.com/download)
@@ -54,7 +54,7 @@ We will begin with understanding the relationship between the terminal, filesyst
     - Make another folder, copy and move files between folders and follow actions on GUI
     - Folders within folders and the file tree!
 
-### Sept 12 - JF
+### Sept 12 - 8AM - JF
 - Download [Macrodomain Fasta Sequences](https://ucsf.box.com/s/6p6mtsnawsxusy9z5jyg5idwov78fc1r)
 - introduction to python
     - hello world and printing
@@ -65,14 +65,14 @@ We will begin with understanding the relationship between the terminal, filesyst
     - translating a RNA sequence into protein
     - find restriction enzyme site in original DNA sequence
 
-### Sept 13 - SW
+### Sept 13 - 9AM - SW
 - introduction to loops and packages
     - download a folder of many DNA sequences
     - glob as a first package to get a list of sequences
     - lists and iterating through a list
     - for loop to transcribe and translate the sequences
 
-### Sept 15 - SW
+### Sept 15 - 9AM - SW
 - catchup on previous days
     - share python scripts and run them for class
     - how to prompt chatgpt to write these scripts for you
@@ -80,7 +80,7 @@ We will begin with understanding the relationship between the terminal, filesyst
     - move through directories and command line refresh
     - introduction to ssh and scp concepts
 
-### Sept 18 - SW 
+### Sept 18 - 9AM - SW 
 - working on a remote computer (Wynton)
     - logging in
     - file transfer
@@ -88,7 +88,7 @@ We will begin with understanding the relationship between the terminal, filesyst
     - how to make a bash script 
     - job submission 101 to run the translation script in parallel rather than in a for loop in a single script
 
-### Sept 19
+### Sept 19 - 9AM
 - structure prediction and pipeline building (Wynton - SW)
     - run alphafold on the sequences in your folder
       
@@ -97,5 +97,5 @@ We will begin with understanding the relationship between the terminal, filesyst
     - plot the distribution of gene lengths in your folder
     - show an example from enzyme kinetics
 
-### Sept 20
+### Sept 20 - 9AM=
 - download alphafold files and visualize in pymol or chimera
