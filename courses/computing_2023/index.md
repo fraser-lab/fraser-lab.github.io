@@ -65,7 +65,7 @@ We will begin with understanding the relationship between the terminal, filesyst
     - translating a RNA sequence into protein
     - find restriction enzyme site in original DNA sequence
 
-### Sept 13 - 9AM - SW
+### Sept 13 - 8AM - SW
 - introduction to loops and packages
     - download a folder of many DNA sequences
     - glob as a first package to get a list of sequences
@@ -97,5 +97,5 @@ We will begin with understanding the relationship between the terminal, filesyst
     - plot the distribution of gene lengths in your folder
     - show an example from enzyme kinetics
 
-### Sept 20 - 9AM=
+### Sept 20 - 9AM
 - download alphafold files and visualize in pymol or chimera
