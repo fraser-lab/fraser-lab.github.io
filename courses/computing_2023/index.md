@@ -66,16 +66,19 @@ We will begin with understanding the relationship between the terminal, filesyst
     - find restriction enzyme site in original DNA sequence
 
 ### Sept 13 - 8AM - SW
-- introduction to loops and packages
-    - download a folder of many DNA sequences
-    - glob as a first package to get a list of sequences
-    - lists and iterating through a list
-    - for loop to transcribe and translate the sequences
+- Introduction to loops and packages
+    - Download [Macrodomain Fasta Sequences](https://ucsf.box.com/s/6p6mtsnawsxusy9z5jyg5idwov78fc1r)
+    - [Conda](https://docs.conda.io/en/latest/)
+    - [Google Collab Notebook](https://colab.research.google.com/drive/1OJkzLZYxLImzxHsYQ30g6IppNbuLt5YC?usp=sharing) 
+        - create a copy of the original notebook for your own work
+        - glob to get a list of sequences
+        - loops
+        - create loop to transcribe and translate the sequences
 
 ### Sept 15 - 9AM - SW
-- catchup on previous days
-    - share python scripts and run them for class
+- share python scripts and run them for class
     - how to prompt chatgpt to write these scripts for you
+    - re-create your scripts using chagpt
 - command line and remote computers 
     - move through directories and command line refresh
     - introduction to ssh and scp concepts
