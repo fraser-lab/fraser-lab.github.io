@@ -15,19 +15,23 @@ group: courses
 **Instructors:** [James Fraser](mailto:jfraser@fraserlab.com), [Stephanie Wankowicz](mailto:mullane.stephanie@gmail.com)
 
 
-
 ## Course Description:
-This will be a practical course to get you familiar with basic coding including:
-    How to use the terminal to move files around
-    How to do basic scripting in Python
-    How to work on remote computers
+Computing is as essential as pipetting for success in graduate school. This practical course is intended to ensure that students without any background in scientific computing can become conversant in the fundamentals they need to succeed in our program, including:
 
-The course aims to introduce you to some ways to gain some algorithmic understanding and how to use coding as a biologist. While there are many tools out there to help you code (ChatGPT, Github Co-pilot, ect), they are difficult to use if you don't have some algorithmic or coding background. 
+- How to use the terminal to move files around
+- How to do basic scripting in Python
+- How to work on remote computers
 
 
-## Racism and Bias in Computing
-Computing systems were designed by folks with bias and therefore have bias built in. Also there is occaisionally offensive terminology (master/slave) for some processes - but these are mostly being phased out.
+We aim to introduce students to computational concepts by leverging their algorithmic understanding of molecular biology. Students are already familiar with data structures (the genetic code is a dictionary) and for loops (5'-3' transcription) - the challenge is how to formally code what we already understand in a syntax that makes sense to a computer. 
 
+
+Finally, with the development of new AI tools (ChatGPT, Github Co-pilot, etc), "no code" coding is now possible and gaining power. We hypothesize that students will be better able to leverage such tools with the fundamental algorithmic thinking we aim to introduce in this course. 
+
+
+*Accommodations for students with disabilities*: The Graduate Division embraces all students, including students with documented disabilities. UCSF is committed to providing all students equal access to all of its programs, services, and activities. Student Disability Services (SDS) is the campus office that works with students who have disabilities to determine and coordinate reasonable accommodations. Students who have, or think they may have, a disability are invited to contact SDS (StudentDisability@ucsf.edu); or 415-476-6595) for a confidential discussion and to review the process for requesting accommodations in classroom and clinical settings. More information is available online at http://sds.ucsf.edu. Accommodations are never retroactive; therefore students are encouraged to register with Student Disability Services (http://sds.ucsf.edu/) as soon as they begin their programs. UCSF encourages students to engage in support seeking behavior via all of the resources available through Student Life, for consistent support and access to their programs.
+
+*Commitment to Diversity, Equity and Inclusion*: The course instructors and teaching assistants value the contributions, ideas and perspective of all students. It is our intent that students from diverse backgrounds be well-served by this course, that students' learning needs be addressed both in and out of class, and that the diversity that the students bring to this class be viewed as a resource, strength and benefit. It is our intent to present materials and activities that are respectful of diversity: gender identity, sexuality, disability, age, socioeconomic status, ethnicity, race, nationality, religion, and culture. However, we also acknowledge that computing systems were designed by people with biases and therefore likley have those biases built in. Additionally, the field is phasing out offensive terminology for some processes - but such terminology may be present in linked material from the class page. The instructors are committed to continuous improvement of our practices and our learning environment. We value input from students and your suggestions are encouraged and appreciated. Please let the course director or program leadership know ways to improve the effectiveness of the course for you personally, or for other students or student groups. (modeled after CCB and [Brown University's Diversity & Inclusion Syllabus Statements](https://www.brown.edu/sheridan/teaching-learning-resources/inclusive-teaching/statements))
 
 ## Course structure
 Hands-on practical course - learn as you go!
