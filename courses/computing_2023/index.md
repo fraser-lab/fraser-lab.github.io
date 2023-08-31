@@ -70,22 +70,32 @@ We will begin with understanding the relationship between the terminal, filesyst
     - Download [Macrodomain Fasta Sequences](https://ucsf.box.com/s/6p6mtsnawsxusy9z5jyg5idwov78fc1r)
     - [Conda](https://docs.conda.io/en/latest/)
     - [Google Collab Notebook](https://colab.research.google.com/drive/1OJkzLZYxLImzxHsYQ30g6IppNbuLt5YC?usp=sharing) 
-        - create a copy of the original notebook for your own work
+        - Create a copy of the original notebook for your own work
         - glob to get a list of sequences
         - loops
-        - create loop to transcribe and translate the sequences
+        - Create a loop to transcribe and translate the sequences
+        - write/save the amino acid sequences 
 
 ### Sept 15 - 9AM - SW
-- share python scripts and run them for class
+- Share python scripts with a partner/small group
+    - how did different people approach the problem
     - how to prompt chatgpt to write these scripts for you
-    - re-create your scripts using chagpt
-- command line and remote computers 
-    - move through directories and command line refresh
-    - introduction to ssh and scp concepts
+        - re-create your scripts using chagpt
+- command line and remote computers: [Wynton](https://wynton.ucsf.edu/hpc/index.html)
+    - ssh into Wynton
+    - Where are you?
+    - scp FASTA list up to wynton    
+    - List files
+    - Is this a directory structure you want?
+        - Make another folder, copy and move files between folders
+    - Create a new file called myfavoritefile.txt
+        - scp this file back down to your computer
+
 
 ### Sept 18 - 9AM - SW 
-- working on a remote computer (Wynton)
+- Working on [Wynton](https://wynton.ucsf.edu/hpc/index.html) 
     - logging in
+    - dev node v. login node
     - file transfer
     - vi and how to do insert mode, write, quit - note that there are many other things, but that we aren't using them
     - how to make a bash script 
