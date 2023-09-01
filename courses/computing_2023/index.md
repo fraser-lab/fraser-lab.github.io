@@ -63,6 +63,7 @@ We will begin with understanding the relationship between the terminal, filesyst
     - taking a DNA sequence and transcribing
         - pseudocode, for loop, if statement, string concatenation
     - taking a RNA sequence and printing out codons
+    - COFFEE FIELD TRIP!
     - translating a RNA sequence into protein
         - dictionaries!
     - find restriction enzyme site in original DNA sequence
