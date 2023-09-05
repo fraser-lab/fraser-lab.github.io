@@ -51,6 +51,7 @@ We will begin with understanding the relationship between the terminal, filesyst
     - Navigate to that folder on command line
     - Create files name.txt, favorite_papers.txt, etc in vs code in that folder
     - List and cat files in that folder
+    - COFFEE FIELD TRIP
     - Make another folder, copy and move files between folders and follow actions on GUI
     - Folders within folders and the file tree!
 
