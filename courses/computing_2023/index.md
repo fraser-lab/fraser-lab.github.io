@@ -57,7 +57,7 @@ We will begin with understanding the relationship between the terminal, filesyst
 
 ### Sept 12 - 8AM - JF
 - Download [Macrodomain Fasta Sequences](https://ucsf.box.com/s/6p6mtsnawsxusy9z5jyg5idwov78fc1r)
-- introduction to python
+- Introduction to Python [Coding Examples](https://ucsf.app.box.com/folder/225609337521)
     - hello world and printing
         - debugging: One of the tools in a programmer's toolbox is figuring out how to look for errors, or "bugs", in their code. The process of finding and removing bugs in your code is called **debugging**, and from computer science folklore, the origin of this word comes from legendary computer scientist Grace Hopper, who once found an actual moth in her computer (back when they were the size of rooms) that caused an error in its calculations. [She removed the moth and taped it to her logbook, and the term "debugging" was born](https://sites.pitt.edu/~super1/lecture/lec44911/img019.JPG).
     - taking a DNA sequence and printing
