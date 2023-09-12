@@ -63,20 +63,21 @@ We will begin with understanding the relationship between the terminal, filesyst
         - debugging: One of the tools in a programmer's toolbox is figuring out how to look for errors, or "bugs", in their code. The process of finding and removing bugs in your code is called **debugging**, and from computer science folklore, the origin of this word comes from legendary computer scientist Grace Hopper, who once found an actual moth in her computer (back when they were the size of rooms) that caused an error in its calculations. [She removed the moth and taped it to her logbook, and the term "debugging" was born](https://sites.pitt.edu/~super1/lecture/lec44911/img019.JPG).
     - taking a DNA sequence and printing
         - dna_reader.py
+
+        
+### Sept 13 - 8AM - SW
+- Central Dogma continued
     - taking a DNA sequence and transcribing
         - pseudocode, for loop, if statement, string concatenation
         - transcribe.py
     - taking a RNA sequence and printing out codons
         - codonizer.py
-    - COFFEE FIELD TRIP!
     - translating a RNA sequence into protein
         - dictionaries!
         - ribosome.py
     - find restriction enzyme site in original DNA sequence
         - functions and variable scoping
         - restriction_digest.py
-        
-### Sept 13 - 8AM - SW
 - Introduction to loops and packages
     - Download [Macrodomain Fasta Sequences](https://ucsf.box.com/s/6p6mtsnawsxusy9z5jyg5idwov78fc1r)
     - [Conda](https://docs.conda.io/en/latest/)
