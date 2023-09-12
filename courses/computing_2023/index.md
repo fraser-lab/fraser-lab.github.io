@@ -78,21 +78,15 @@ We will begin with understanding the relationship between the terminal, filesyst
     - find restriction enzyme site in original DNA sequence
         - functions and variable scoping
         - restriction_digest.py
-- Introduction to loops and packages
-    - Download [Macrodomain Fasta Sequences](https://ucsf.box.com/s/6p6mtsnawsxusy9z5jyg5idwov78fc1r)
-    - [Conda](https://docs.conda.io/en/latest/)
-    - [Google Collab Notebook](https://colab.research.google.com/drive/1OJkzLZYxLImzxHsYQ30g6IppNbuLt5YC?usp=sharing) 
-        - Create a copy of the original notebook for your own work
+    - Introduction to packages
         - glob to get a list of sequences
-        - loops
-        - Create a loop to transcribe and translate the sequences
+        - import your own functions
+        - Create a loop to transcribe and translate all sequences
         - write/save the amino acid sequences 
 
 ### Sept 15 - 9AM - SW
-- Share python scripts with a partner/small group
-    - how did different people approach the problem
-    - how to prompt chatgpt to write these scripts for you
-        - re-create your scripts using chagpt
+- how to prompt chatgpt to write these scripts for you
+   - re-create your scripts using chagpt
 - command line and remote computers: [Wynton](https://wynton.ucsf.edu/hpc/index.html)
     - ssh into Wynton
     - Where are you?
