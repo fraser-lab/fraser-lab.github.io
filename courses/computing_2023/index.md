@@ -75,6 +75,7 @@ We will begin with understanding the relationship between the terminal, filesyst
     - find restriction enzyme site in original DNA sequence
         - functions and variable scoping
         - restriction_digest.py
+        
 ### Sept 13 - 8AM - SW
 - Introduction to loops and packages
     - Download [Macrodomain Fasta Sequences](https://ucsf.box.com/s/6p6mtsnawsxusy9z5jyg5idwov78fc1r)
