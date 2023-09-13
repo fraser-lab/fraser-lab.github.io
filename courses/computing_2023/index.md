@@ -97,7 +97,7 @@ We will begin with understanding the relationship between the terminal, filesyst
     - logging in
     - dev node v. login node
     - file transfer
-    -     - scp FASTA list up to wynton    
+         - scp FASTA list up to wynton    
     - List files
     - Create another folder and a new file called myfavoritefile.txt
         - scp this file back down to your computer
