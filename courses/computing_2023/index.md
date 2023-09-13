@@ -72,7 +72,9 @@ We will begin with understanding the relationship between the terminal, filesyst
         - transcribe.py
     - taking a RNA sequence and printing out codons
         - codonizer.py
-    - translating a RNA sequence into protein
+
+### Sept 15 - 9AM - SW
+ - translating a RNA sequence into protein
         - dictionaries!
         - ribosome.py
     - find restriction enzyme site in original DNA sequence
@@ -83,8 +85,6 @@ We will begin with understanding the relationship between the terminal, filesyst
         - import your own functions
         - Create a loop to transcribe and translate all sequences
         - write/save the amino acid sequences 
-
-### Sept 15 - 9AM - SW
 - how to prompt chatgpt to write these scripts for you
    - re-create your scripts using chagpt
 - command line and remote computers: [Wynton](https://wynton.ucsf.edu/hpc/index.html)
