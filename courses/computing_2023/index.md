@@ -127,21 +127,21 @@ genetic_code = {
     - dev node v. login node
     - file transfer
          - scp FASTA list up to wynton    
-    - List files
     - Create another folder and a new file called myfavoritefile.txt
         - scp this file back down to your computer
-    - vi and how to do insert mode, write, quit - note that there are many other things, but that we aren't using them
-    - how to make a bash script 
+    - Review vi and how to do insert mode, write, quit - note that there are many other things, but that we aren't using them
+    - how to make a bash script
     
 
-### Sept 19 - 9AM
-- job submission 101 to run the translation script in parallel rather than in a for loop in a single script
+### Sept 19 - 9AM - SW
+- job submission 101
+    - run the translation script in parallel rather than in a for loop in a single script
 - structure prediction and pipeline building (Wynton - SW)
     - run alphafold on the sequences in your folder
       
 
-### Sept 20 - 9AM
-- plotting results (local - JF)
+### Sept 20 - 9AM - JF
+- plotting results 
     - install conda
     - plot the distribution of gene lengths in your folder
     - show an example from ITC
