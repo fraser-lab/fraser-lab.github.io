@@ -90,12 +90,6 @@ We will begin with understanding the relationship between the terminal, filesyst
 - command line and remote computers: [Wynton](https://wynton.ucsf.edu/hpc/index.html)
     - ssh into Wynton
     - Where are you?
-    - scp FASTA list up to wynton    
-    - List files
-    - Is this a directory structure you want?
-        - Make another folder, copy and move files between folders
-    - Create a new file called myfavoritefile.txt
-        - scp this file back down to your computer
 
 
 ### Sept 18 - 9AM - SW 
@@ -103,18 +97,23 @@ We will begin with understanding the relationship between the terminal, filesyst
     - logging in
     - dev node v. login node
     - file transfer
+    -     - scp FASTA list up to wynton    
+    - List files
+    - Create another folder and a new file called myfavoritefile.txt
+        - scp this file back down to your computer
     - vi and how to do insert mode, write, quit - note that there are many other things, but that we aren't using them
     - how to make a bash script 
-    - job submission 101 to run the translation script in parallel rather than in a for loop in a single script
+    
 
 ### Sept 19 - 9AM
+- job submission 101 to run the translation script in parallel rather than in a for loop in a single script
 - structure prediction and pipeline building (Wynton - SW)
     - run alphafold on the sequences in your folder
       
+
+### Sept 20 - 9AM
 - plotting results (local - JF)
     - install conda
     - plot the distribution of gene lengths in your folder
-    - show an example from enzyme kinetics
-
-### Sept 20 - 9AM
+    - show an example from ITC
 - download alphafold files and visualize in pymol or chimera
