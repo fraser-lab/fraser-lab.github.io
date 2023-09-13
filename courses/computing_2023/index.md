@@ -101,17 +101,15 @@ genetic_code = {
 ```
 
 - Central Dogma continued
-    - taking a RNA sequence and printing out codons
+ - taking a RNA sequence and printing out codons
         - codonizer.py
-
-### Sept 15 - 9AM - SW
  - translating a RNA sequence into protein
         - dictionaries!
         - ribosome.py
-    - find restriction enzyme site in original DNA sequence
+ - find restriction enzyme site in original DNA sequence
         - functions and variable scoping
         - restriction_digest.py
-    - Introduction to packages
+- Introduction to packages
         - glob to get a list of sequences
         - import your own functions
         - Create a loop to transcribe and translate all sequences
