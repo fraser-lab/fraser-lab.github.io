@@ -114,12 +114,16 @@ genetic_code = {
     - import your own functions
     - Create a loop to transcribe and translate all sequences
     - write/save the amino acid sequences 
-- how to prompt chatgpt to write these scripts for you
-   - re-create your scripts using chagpt
+
 - command line and remote computers: [Wynton](https://wynton.ucsf.edu/hpc/index.html)
     - ssh into Wynton
     - Where are you?
 
+## WEEKEND TASK
+    -Use the pseudocode we generated for all three scripts (DNA_sequence.py, transcribe.py, translate.py) and feed it into ChatGPT
+       - Did you get the same output?
+       - Did you get an error? 
+       - Did you have to change your prompt at all?
 
 ### Sept 18 - 9AM - SW 
 - Working on [Wynton](https://wynton.ucsf.edu/hpc/index.html) 
@@ -130,19 +134,17 @@ genetic_code = {
     - Create another folder and a new file called myfavoritefile.txt
         - scp this file back down to your computer
     - Review vi and how to do insert mode, write, quit - note that there are many other things, but that we aren't using them
-    - how to make a bash script
-    
+- Re-write translate.py to use a function!
+    -  copy this up to Wynton   
 
+    
 ### Sept 19 - 9AM - SW
+- how to make a bash script
 - job submission 101
     - run the translation script in parallel rather than in a for loop in a single script
-- structure prediction and pipeline building (Wynton - SW)
-    - run alphafold on the sequences in your folder
-      
-
+     
 ### Sept 20 - 9AM - JF
-- plotting results 
-    - install conda
+- review submission errors & outputs
+- plotting!
     - plot the distribution of gene lengths in your folder
     - show an example from ITC
-- download alphafold files and visualize in pymol or chimera
