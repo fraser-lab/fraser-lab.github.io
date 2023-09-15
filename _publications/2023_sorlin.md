@@ -5,7 +5,7 @@ journal: JACS
 pub_date: "2023-08-03"
 image: "/static/img/pub/2023_sorlin.png"
 pmid: "37535945"
-pmcid:
+pmcid: "PMC10436271"
 biorxiv_version: "2023.05.20.541529v1"
 pdf: "http://cdn.fraserlab.com/publications/2023_sorlin.pdf"
 links:
