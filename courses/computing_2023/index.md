@@ -106,18 +106,8 @@ genetic_code = {
     - translating a RNA sequence into protein
         - dictionaries!
         - ribosome.py
-    - find restriction enzyme site in original DNA sequence
-        - functions and variable scoping
-        - restriction_digest.py
 - Introduction to packages
-    - glob to get a list of sequences
-    - import your own functions
-    - Create a loop to transcribe and translate all sequences
-    - write/save the amino acid sequences 
-
-- command line and remote computers: [Wynton](https://wynton.ucsf.edu/hpc/index.html)
-    - ssh into Wynton
-    - Where are you?
+    - Intro to pandas
 
 ### WEEKEND TASK
     - Use the pseudocode we generated for all three scripts (DNA_sequence.py, transcribe.py, translate.py) and feed it into ChatGPT
@@ -126,14 +116,26 @@ genetic_code = {
        - Did you have to change your prompt at all?
 
 ### Sept 18 - 9AM - SW 
+
+- Writing our own function 
+    - To transcribe and translate all sequences
+    - glob to get a list of sequences
+    - loop over function and write/save the amino acid sequences 
+- find restriction enzyme site in original DNA sequence
+    - functions and variable scoping
+    - restriction_digest.py
+
 ```python
   data = {
     'Enzyme': ['EcoRI', 'HindIII', 'BamHI', 'HaeIII', 'SalI', 'PstI', 'NotI'],
     'Recognition Site': ['GAATTC', 'AAGCTT', 'GGATCC', 'GGCC', 'GTCGAC', 'CTGCAG', 'GCGGCCGC']
 }
 ```
-- Intro to pandas
-- Writing our own function 
+
+- command line and remote computers: [Wynton](https://wynton.ucsf.edu/hpc/index.html)
+    - ssh into Wynton
+    - Where are you?
+
 - Working on [Wynton](https://wynton.ucsf.edu/hpc/index.html) 
     - logging in
     - dev node v. login node
