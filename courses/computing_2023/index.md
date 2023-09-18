@@ -119,13 +119,21 @@ genetic_code = {
     - ssh into Wynton
     - Where are you?
 
-## WEEKEND TASK
-    -Use the pseudocode we generated for all three scripts (DNA_sequence.py, transcribe.py, translate.py) and feed it into ChatGPT
+### WEEKEND TASK
+    - Use the pseudocode we generated for all three scripts (DNA_sequence.py, transcribe.py, translate.py) and feed it into ChatGPT
        - Did you get the same output?
        - Did you get an error? 
        - Did you have to change your prompt at all?
 
 ### Sept 18 - 9AM - SW 
+```python
+  data = {
+    'Enzyme': ['EcoRI', 'HindIII', 'BamHI', 'HaeIII', 'SalI', 'PstI', 'NotI'],
+    'Recognition Site': ['GAATTC', 'AAGCTT', 'GGATCC', 'GGCC', 'GTCGAC', 'CTGCAG', 'GCGGCCGC']
+}
+```
+- Intro to pandas
+- Writing our own function 
 - Working on [Wynton](https://wynton.ucsf.edu/hpc/index.html) 
     - logging in
     - dev node v. login node
@@ -134,8 +142,6 @@ genetic_code = {
     - Create another folder and a new file called myfavoritefile.txt
         - scp this file back down to your computer
     - Review vi and how to do insert mode, write, quit - note that there are many other things, but that we aren't using them
-- Re-write translate.py to use a function!
-    -  copy this up to Wynton   
 
     
 ### Sept 19 - 9AM - SW
