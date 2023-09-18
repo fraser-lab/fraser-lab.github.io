@@ -20,5 +20,6 @@ description: "Christian graduated from Arizona State University with degrees in 
 
 Outside of lab, he enjoys books, music, being outdoors and/or on a bike, and drinking too much coffee.
 
+
 Christian is supported by a Kirschstein NRSA (F32) fellowship from [NIH/NIGMS](https://www.nigms.nih.gov/)."
 ---
