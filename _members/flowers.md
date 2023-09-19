@@ -2,7 +2,7 @@
 name: Jessica Flowers
 startdate: [2023-09-01]
 enddate: 
-image: /static/img/members/flowers.jpg #365 x 365 pixels, 72 dpi
+image: /static/img/members/Flowers.jpg #365 x 365 pixels, 72 dpi
 #altimage: /static/img/members/ #365 x 365 pixels, 72 dpi
 position: "Junior Specialist"
 #subsequent: 
