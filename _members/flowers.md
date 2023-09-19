@@ -19,4 +19,4 @@ description: "Jessica recently earned her Bachelor’s degree in chemical physic
 
 She has also taken an interest in structural biology, and in the Fraser lab, she's working on developing qFit. 
 
-Beyond the lab, Jessica loves climbing, biking, and painting."
+Beyond the lab, Jessica loves climbing, biking, and painting.
