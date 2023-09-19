@@ -13,7 +13,7 @@ website:
 UCSF:
 twitter: 
 linkedin: 
-github: jflowers
+github: jessicaflowers
 orcid:
 description: "Jessica recently earned her Bachelor’s degree in chemical physics from UC Davis, where her research focused on building new theoretical models to describe intrinsically disordered proteins. 
 
