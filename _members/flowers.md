@@ -6,13 +6,13 @@ image: /static/img/members/Flowers.jpg #365 x 365 pixels, 72 dpi
 #altimage: /static/img/members/ #365 x 365 pixels, 72 dpi
 position: "Junior Specialist"
 #subsequent: 
-pronouns: 
+pronouns: she/they
 email:  jflowers (at) fraserlab.com #Preferred public email address
 scholar:
 website:
 UCSF:
 twitter: 
-linkedin: 
+linkedin: jessicamflowers
 github: jessicaflowers
 orcid:
 description: "Jessica recently earned her Bachelor’s degree in chemical physics from UC Davis, where her research focused on building new theoretical models to describe intrinsically disordered proteins. 
