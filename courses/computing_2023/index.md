@@ -121,20 +121,11 @@ genetic_code = {
     - To transcribe and translate all sequences
     - glob to get a list of sequences
     - loop over function and write/save the amino acid sequences 
-- find restriction enzyme site in original DNA sequence
-    - functions and variable scoping
-    - restriction_digest.py
 
-```python
-  data = {
-    'Enzyme': ['EcoRI', 'HindIII', 'BamHI', 'HaeIII', 'SalI', 'PstI', 'NotI'],
-    'Recognition Site': ['GAATTC', 'AAGCTT', 'GGATCC', 'GGCC', 'GTCGAC', 'CTGCAG', 'GCGGCCGC']
-}
-```
-
-- command line and remote computers: [Wynton](https://wynton.ucsf.edu/hpc/index.html)
-    - ssh into Wynton
-    - Where are you?
+    
+### Sept 19 - 9AM - SW
+- how to make a bash script
+    - run your python script from bash script 
 
 - Working on [Wynton](https://wynton.ucsf.edu/hpc/index.html) 
     - logging in
@@ -144,15 +135,17 @@ genetic_code = {
     - Create another folder and a new file called myfavoritefile.txt
         - scp this file back down to your computer
     - Review vi and how to do insert mode, write, quit - note that there are many other things, but that we aren't using them
-
     
-### Sept 19 - 9AM - SW
-- how to make a bash script
 - job submission 101
-    - run the translation script in parallel rather than in a for loop in a single script
+    
      
-### Sept 20 - 9AM - JF
+### Sept 20 - 9AM - SW
 - review submission errors & outputs
 - plotting!
-    - plot the distribution of gene lengths in your folder
-    - show an example from ITC
+```python
+data = {
+    'Substrate Concentration (mM)': [0.1, 0.2, 0.4, 0.8, 1.6, 3.2, 6.4],
+    'Reaction Rate (µM/min)': [0.5, 0.9, 1.6, 2.5, 3.2, 3.8, 4.2]
+}
+diff_temp = [0.6, 1.2, 2.0, 3.0, 3.5, 4.0, 4.4]
+```
