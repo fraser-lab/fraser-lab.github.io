@@ -4,7 +4,7 @@ authors: "**Wolff AM**, Nango E, **Young ID**, Brewster AS, Kubo M, Nomura T, Su
 journal: "Nature Chemistry"
 pub_date: "2023-09-18"
 image: "/static/img/pub/2022_wolff.png"
-pmid: #"########"
+pmid: "37723259"
 pmcid: #"PMC#######"
 biorxiv_version: "2022.06.10.495662v1"
 pdf: "http://cdn.fraserlab.com/publications/2022_wolff.pdf"
