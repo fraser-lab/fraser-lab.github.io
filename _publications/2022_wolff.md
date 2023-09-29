@@ -37,4 +37,6 @@ links:
     url: "https://biosciences.lbl.gov/"
   - name: "Celebratory Tweetstorm by senior author Mike Thompson"
     url: "https://twitter.com/MThompsonLab/status/1536365959174234112"
+  - name: "In the Pipeline - Warming Proteins Up Under the X-ray Beam"
+    url: "https://www.science.org/content/blog-post/warming-proteins-under-x-ray-beam"
 ---
