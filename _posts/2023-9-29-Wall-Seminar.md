@@ -9,7 +9,7 @@ tags: seminar
 
 Longtime friend of the lab, [Michael Wall](https://public.lanl.gov/mewall), will be visiting and deliver a seminar on his pioneering work using diffuse X-ray scattering and molecular dynamics to study proteins.
 
-**November 2nd, 2023 4:00pm in LOCATION TBD**
+**November 2nd, 2023 4:00pm in GH S201**
 
 ***Diffuse X-Ray Scattering to Shed Light on Protein Dynamics***
 
