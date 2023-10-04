@@ -116,6 +116,11 @@ and in the <a href="https://fraserlab.com/peer_review/" target="_blank" alt = "P
 			{% if record.url %}
 			<li>Link: <a href="{{record.url}}" target="_blank" alt = "link: {{record.url}}">{{record.url}}</a></li>
 			{% endif %}
+			<!--Disqus comment-->
+			{% if record.disqus %}
+			<li>Response: <a href="http://disq.us/p/{{record.disqus}}" target="_blank" alt = "link to response as Disqus comment: {{record.disqus}}">{{record.disqus}}</a></li>
+			{% endif %}
+
 		{% endfor %}
 		{% endif %}
 
