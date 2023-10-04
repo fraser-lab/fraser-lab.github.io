@@ -3,10 +3,10 @@ title: "Making sense of chaos: uncovering the mechanisms of conformational entro
 authors: "**Wankowicz SA**, **Fraser JS**"
 journal: 
 pub_date: "2023-10-04" #Date of publication. Change from Biorxiv date to Journal date once accepted
-image: "/static/img/pub/2023_wankowicz_2.jpg" #Minimum dimensions TBD
+image: "/static/img/pub/2023_wankowicz_2.png" #Minimum dimensions TBD
 pmid: 
 pmcid: 
-Chemrxiv Preprint: 2023-9b5k7
+chemrxiv: 2023-9b5k7
 pdf: 
 github:
 links:
