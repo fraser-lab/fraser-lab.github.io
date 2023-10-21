@@ -3,7 +3,7 @@ name: Martina Boga De Teresa
 startdate: [2023-09-01]
 enddate: []
 image: /static/img/members/Boga_De_Teresa.jpg
-#altimage: /static/img/members/
+altimage: /static/img/members/Boga_De_Teresa_pb.jpg
 position: Undergraduate Researcher
 timeline_positions: ["Research Associate (2022-)"]
 #subsequent:  update once you become an alumnus
