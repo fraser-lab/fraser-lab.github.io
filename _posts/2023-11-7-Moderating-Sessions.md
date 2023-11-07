@@ -7,7 +7,7 @@ group: news
 tags: 
 ---
 
-To effectively moderate sessions at a meeting or a graduate program retreat, it's crucial to manage time efficiently to ensure that the event runs smoothly and on schedule. This involves clear communication with presenters about the session rules, managing Q&A sessions judiciously, and being prepared to enforce time limits with a firm but fair approach. The goal is to create an environment where each speaker has their allotted time respected, the audience remains engaged, and the overall program adheres to its intended timeline. Here's a guide converted to markdown format to help moderators keep things on track.
+To effectively moderate sessions at a meeting or a graduate program retreat, it's crucial to manage time efficiently to ensure that the event runs smoothly and on schedule. This involves clear communication with presenters about the session rules, managing Q&A sessions judiciously, and being prepared to enforce time limits with a firm but fair approach. The goal is to create an environment where each speaker has their allotted time respected, the audience remains engaged, and the overall program adheres to its intended timeline. Here's a guide I wrote for the recent QBC retreat for student moderators.
 
 1. Days-hours before the session send the presenters an email to instruct them about the "rules" for the session.
 2. Prior to gathering speakers figure out how questions will work. Will people just shout from their seats, will there be a microphone runner passing the microphone to people in their seats, or a few microphone stands for people to queue up at.
