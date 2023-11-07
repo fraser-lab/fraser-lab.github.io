@@ -1,7 +1,7 @@
 ---
 title: "MET variants with activating N-lobe mutations identified in hereditary papillary renal cell carcinomas still require ligand stimulation"
 authors: "Guérin CM, Vinchent A, Damour I, Laratte A, Tellier R, Estevam G, Meneboo JP, Villenet C, Descarpentries C, **Fraser JS**, Figeac M, Cortot AB, Rouleau E, Tulasne D"
-journal: Cancer Discovery
+journal: 
 pub_date: "2023-11-02"
 image: /static/img/pub/2023_guerin.png
 pmid: 
