@@ -6,4 +6,9 @@ pub_date: "2023-11-02"
 image: /static/img/pub/2023_varkaris.png
 pmid: 37916956
 #pdf: http://cdn.fraserlab.com/publications/2023_varkaris.pdf
+links:
+  - name: "Relay Therapeutics"
+    url: https://relaytx.com/
+  - name: "D.E. Shaw Research"
+    url: https://www.deshawresearch.com/
 ---
