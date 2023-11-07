@@ -10,4 +10,6 @@ chemrxiv: 2023-ggd1w
 pdf: 
 github:
 links:
+- name: "Celebratory tweetstorm from Stephanie Wankowicz"
+  URL: https://twitter.com/stephanie_mul/status/1719033771494928777
 ---
