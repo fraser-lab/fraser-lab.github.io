@@ -31,11 +31,11 @@ To effectively moderate sessions at a meeting or a graduate program retreat, it'
 Here is an example email I sent for the Protein Society this summer, where I moderated a session:
 
 
-*Looking forward to meeting at the upcoming Protein Society meeting. As the session moderator for "RNA-Protein Machines: Ancient Synergies", I am passing along some of the instructions here:
-1. Session Preparation: Please make sure to be present in the session room at least 15 minutes before the scheduled start time. This will allow us to coordinate and ensure that there are no A/V hiccups.
-2. Time Management: To maintain the session's schedule, it is essential that each speaker starts and ends their presentation on time. I am an "activist moderator" and will cut you off if you go over time (maybe with some kind of beach ball or water gun)!
-3. The following time limits have been set for the respective presentation types:
-  - Senior Talks: 25 minutes for the presentation + 5 minutes for discussion
-  - Young Investigator Talks: 12 minutes for the presentation + 3 minutes for discussion
-  - Flash Talks: 2 minutes each for introducing your research/poster (with no Q&A session)
-Let me know if you have any questions and I look forward to a great session!*
+*Looking forward to meeting at the upcoming Protein Society meeting. As the session moderator for "RNA-Protein Machines: Ancient Synergies", I am passing along some of the instructions here:*
+*1. Session Preparation: Please make sure to be present in the session room at least 15 minutes before the scheduled start time. This will allow us to coordinate and ensure that there are no A/V hiccups.*
+*2. Time Management: To maintain the session's schedule, it is essential that each speaker starts and ends their presentation on time. I am an "activist moderator" and will cut you off if you go over time (maybe with some kind of beach ball or water gun)!*
+*3. The following time limits have been set for the respective presentation types:*
+  - *Senior Talks: 25 minutes for the presentation + 5 minutes for discussion*
+  - *Young Investigator Talks: 12 minutes for the presentation + 3 minutes for discussion*
+  - *Flash Talks: 2 minutes each for introducing your research/poster (with no Q&A session)*
+*Let me know if you have any questions and I look forward to a great session!*
