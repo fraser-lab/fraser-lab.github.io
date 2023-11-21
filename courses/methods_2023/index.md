@@ -7,7 +7,7 @@ group: courses
 # Biophysics 204B: Methods in Macromolecular Structure #
 
 
-## Winter 2023 Syllabus ##
+## Winter 2024 Syllabus ##
 
 <img class="img-fluid mx-auto d-block" src="/static/img/courses/aeronab.jpg" style="height: 300px" alt="What is the next experiment?">
 
