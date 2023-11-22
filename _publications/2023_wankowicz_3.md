@@ -6,7 +6,7 @@ pub_date: "2023-10-30" #Date of publication. Change from Biorxiv date to Journal
 image: "/static/img/pub/2023_wankowicz_3.png" 
 pmid: 
 pmcid: 
-chemrxiv: 2023-ggd1w
+chemrxiv: 2023-ggd1w-v2
 pdf: 
 github:
 links:
