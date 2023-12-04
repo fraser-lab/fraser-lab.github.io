@@ -26,10 +26,10 @@ group: courses
 **Instructors:** [John Gross](mailto:jdgross@cgl.ucsf.edu), [Aashish Manglik](mailto:Aashish.Manglik@ucsf.edu), [James Fraser](mailto:jfraser@fraserlab.com), [Klim Verba](verba@msg.ucsf.edu)
 
 **TAs:**
-- Radhika.Dalal@ucsf.edu
-- Catherine.Kuhn@ucsf.edu
-- Estelle.Ronayne@ucsf.edu
-- Maxwell.Tucker@ucsf.edu
+- Kevin.Delgado-Cunningham@ucsf.edu
+- Tracy.Lou@ucsf.edu
+- Henry.Scott@ucsf.edu
+- Yisheng.Zheng@ucsf.edu
 
 **Lecturers/Facilitators:**
 
