@@ -26,6 +26,8 @@ Consulting/speaker fees/travel:
 * [Relay Therapeutics](https://relaytx.com/)
 * [Octant](https://octant.bio/)
 * [Profluent Bio](https://www.profluent.bio/)
+* [Amgen](https://www.amgen.com/)
+* [Vilya Therapeutics](https://vilyatx.com/)
 * Past: Merck, Olema, RADD Pharmaceuticals, RA Capital, MoMa Therapeutics, Novartis, Arcadia Science, Genentech, Revolution Medicines, Third Rock Ventures, Calico, GSK, Schrodinger, CCG, OpenEye, Roche, AstraZeneca, Global Blood Therapeutics
 
 Sponsored and Collaborative Research:
