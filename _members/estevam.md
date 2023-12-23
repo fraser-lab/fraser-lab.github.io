@@ -1,11 +1,11 @@
 ---
-name: Gabriella Estevam
+name: Gabriella Estevam, Ph.D.
 startdate: [2019-07-19]
-enddate: []
+enddate: [2023-12-22]
 image: /static/img/members/Estevam.jpg
 altimage: /static/img/members/Estevam_pb.jpg
 position: Graduate Student, [Tetrad](https://tetrad.ucsf.edu)
-#subsequent:  update once you become an alumnus
+subsequent:  Scientist, [Profluent Bio](https://www.profluent.bio/)
 pronouns: she/her/hers
 email: gabriella.estevam (at) ucsf.edu
 scholar:
