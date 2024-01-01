@@ -98,7 +98,7 @@ This is a team-based class where students work in small groups develop their own
 
 ## Monday January 8
 - Welcome: structure of the class, teams and work-together recommendations, auditing, relationship to Macro mini-quals, final writeups for this class (AM)
-- Why structural biology (AM)
+- Why structural biology? (AM)
 - High-level review of thermodynamics and kinetics (JDG)
 - [Forces contributing to the conformational stability of proteins (JDG)](https://faseb.onlinelibrary.wiley.com/doi/pdfdirect/10.1096/fasebj.10.1.8566551)
 
