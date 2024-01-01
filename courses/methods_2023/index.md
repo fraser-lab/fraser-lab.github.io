@@ -99,7 +99,7 @@ This is a team-based class where students work in small groups develop their own
 	- JG NMR
 
 
-## Tuesday January 10
+## Tuesday January 9
 - [FFT 101](https://docs.google.com/presentation/d/13-tG0L3H70MA232TBcsvv3pkHsm3K2sVot4vDs9Xl5E/edit#slide=id.g10a62644d57_1_0) (AM, JDG, KV)
 	- Waves: amplitude/intensity, phase, frequency/wavelength (and in multiple dimensions: direction/index)
 	- How to sum sine waves together: weights/amplitude - can make any periodic function!
