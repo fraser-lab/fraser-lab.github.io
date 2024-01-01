@@ -100,7 +100,7 @@ This is a team-based class where students work in small groups develop their own
 - Welcome: structure of the class, teams and work-together recommendations, auditing, relationship to Macro mini-quals, final writeups for this class (AM)
 - Why structural biology (AM)
 - High-level review of thermodynamics and kinetics (JDG)
-- [Forces contributing to the conformational stability of proteins](https://faseb.onlinelibrary.wiley.com/doi/pdfdirect/10.1096/fasebj.10.1.8566551)
+- [Forces contributing to the conformational stability of proteins (JDG)](https://faseb.onlinelibrary.wiley.com/doi/pdfdirect/10.1096/fasebj.10.1.8566551)
 
 - The technique in a few minutes with reference to the importance of the Fourier Transform!
 	- AM Xray crystallography
@@ -127,11 +127,10 @@ This is a team-based class where students work in small groups develop their own
 	 - pymol
 	 - EMAN2
 	 - NMRBox signup
-- Additional Material, this could be deleted 
+- Additional Material
 	- [Fourier Transform from Grant Jensen](https://www.youtube.com/playlist?list=PL8_xPU5epJdctoHdQjpfHmd_z9WvGxK8-), especially videos 14-19, focusing on the 2D and 3D Fourier Tranform ones!
-	- [Andrea Thorn intro to Crystallography series](https://www.youtube.com/watch?v=mDbmfyOGLIM&list=PLHHBmgJ8vFm6xZPlWlRGuBaoOM3OGlN5T) - especially video 4 on the Fourier Transform and minute 37 of that video on Franklin's photograph
-	- [Cynthia Wolberger on Franklin](https://www.youtube.com/watch?v=62BYOReS7BU)
-		- [a longer video on Franklin featuring Cynthia Wolberger](https://www.mskcc.org/videos/kravis-wise-life-and-legacy-dr-rosalind-franklin-november-23-2020)
+	- [Andrea Thorn intro to Crystallography series](https://www.youtube.com/watch?v=mDbmfyOGLIM&list=PLHHBmgJ8vFm6xZPlWlRGuBaoOM3OGlN5T) 
+	
 
 
 
