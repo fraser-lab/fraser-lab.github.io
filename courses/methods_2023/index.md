@@ -56,34 +56,43 @@ This is a team-based class where students work in small groups develop their own
 
 ## TEAM ASSIGNMENTS
 
-- 1: Radhika.Dalal@ucsf.edu
-	- Dani Rodea
-	- David Byun
-	- Haley Ogasawara
-	- Jeffrey Zheng
-	- Jonathan Borowsky
-	- Kelmen Low
-- 2: Catherine.Kuhn@ucsf.edu
-	- Asa Kalish
-	- Catherine Shin
-	- Kamyar Yazdani
-	- Kevin Delgado-Cunningham
-	- Nicholas Freitas
-	- Yisheng Zheng
-- 3: Estelle.Ronayne@ucsf.edu
-	- Angelika Arada
-	- Giovanni Aviles
-	- Harry Wu
-	- Henry Scott
-	- Isiac Orr
-	- Kevin Choi
-- 4: Maxwell.Tucker@ucsf.edu
-	- Alex Long
-	- Colton Sanders
-	- Joseph Pepe
-	- Matthew Lyons
-	- Tracy Lou
-	- David Larwood 
+- 1: 
+	- Gysasu Bajracharya
+	- Jules Brunello
+	- Hunter Carrell
+	- Yifei Chen
+	- Maple Chen
+	- Karson Chrispens
+- 2: 
+	- Zoey Dingman
+	- Kevin Alexander Estrada Alamo
+	- Haoyu Fan
+	- Amy Flis
+	- David Gomez Siu
+	- Katherine Hansen
+- 3: 
+	- William Ho
+	- Javarcia Ivory
+	- Jasmine Keyes
+	- Divya Kranthi
+	- Sean Myers
+	- Ever O'Donnell
+   	- Sang Le
+- 4: 
+	- Angelica Lam
+	- Andreas Langen
+	- Ashley Lasko
+	- Mihn Le
+	- Kyrellos Ibrahim
+	- Luke Jaskowski
+ - 5:
+   	- Zack Mawaldi
+   	- Katie Holland
+   	- Dru Myerscough
+   	- Mingcheng Li
+   	- Sruthi Raguveer
+   	- Patrick Grimes
+   	- Luke Villarma
 
 # Jan 8-10 - Class intro
 
