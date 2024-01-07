@@ -123,7 +123,7 @@ This is a team-based class where students work in small groups develop their own
          	- NMRBox
           - Signup for beamline:
         	- Signup for [ALSHub account](https://alshub.als.lbl.gov/)
-            	- Fill out information on Google doc (link via email!)
+        	- Fill out information on Google doc (link via email!)
    
 - Out of class suggested reading: [Forces contributing to the conformational stability of proteins](https://faseb.onlinelibrary.wiley.com/doi/pdfdirect/10.1096/fasebj.10.1.8566551)
 
