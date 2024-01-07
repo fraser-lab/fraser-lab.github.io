@@ -33,18 +33,18 @@ group: courses
 
 **Lecturers/Facilitators:**
 
-James Fraser, Klim Verba, John Gross, Yifan Cheng, Aashish Manglik, Robert Stroud,  Tom Goddard, Tanja Kortemme, Lisa Eshun-Wilson
+Klim Verba, John Gross, Yifan Cheng, Aashish Manglik, Robert Stroud, Tom Goddard
 
 
 **Background:**
 
-Fluency in multiple biophysical methods is often critical for answering mechanistic questions. Traditionally, students are exposed to the fundamentals of multiple techniques through lectures that cover the theory prior to exposure, for some, in analysis or data collection during lab rotations. However, this structure means that only students that rotate in specific labs gain hands-on-exposure, which could limit adventurous experiments in future years. To train the next generation of biophysicists at UCSF, we have decided to alter this traditional structure by creating  “Macromolecular Methods”, a class that places emphasis on playing with data. Based on our experiences designing the project-based class [Physical Underpinnings of Biological Systems, aka PUBS!](/courses/pubs/), which used deep sequencing to assay the function of a comprehensive set of point mutants to introduce principles of [high-throughput interrogation of biological functions](http://cdn.fraserlab.com/publications/2016_mavor.pdf), we have designed Macromolecular Methods to be a team-based class where students develop their own analysis of real data that, in non-pandemic years, they have collected.
+Fluency in multiple biophysical methods is often critical for answering mechanistic questions. Traditionally, students are exposed to the fundamentals of multiple techniques through lectures that cover the theory prior to exposure, for some, in analysis or data collection during lab rotations. However, this structure means that only students that rotate in specific labs gain hands-on-exposure, which could limit adventurous experiments in future years. To train the next generation of biophysicists at UCSF, we have decided to alter this traditional structure by creating  “Macromolecular Methods”, a class that places emphasis on playing with data. We have designed Macromolecular Methods to be a team-based class where students develop their own analysis of real data that, in non-pandemic years, they have collected.
 
 **Course Description:**
 
 This is a team-based class where students work in small groups develop their own analysis of real data. Statistical aspects of rigor and reproducibility in structural biology will be emphasized throughout lectures, journal club presentations, and hands-on activities. The website for the [2017](/courses/methods_2017/),  [2018](/courses/methods_2018/), [2019](/courses/methods_2019), [2020](/courses/methods_2020) editions are available online.
 
-*Ethics*: This course is more than a training experience; it is an active research project whose results will be published to the broader scientific community. The community must be able to understand our work, replicate it, and have confidence in its findings. We must therefore ensure the integrity of the information we disseminate. To do so, it is essential that students perform and document their experiments and analyses as faithfully as possible. Mistakes and oversights are normal and to be expected, but they must not be ignored, concealed, or disguised. In addition, to merit authorship, students must contribute to three aspects of the project: intellectual conception or interpretation of the methods or data, technical execution of the experiments and/or analyses, and documentation or dissemination of the results. We fully expect that by actively participating in the course and working toward the course objectives, all students will merit authorship.
+*Ethics*: This course is more than a training experience; data analysis is part of ongoing active research projects, the results of which will be published to the broader scientific community. The community must be able to understand our work, replicate it, and have confidence in its findings. We must therefore ensure the integrity of the information we disseminate. To do so, it is essential that students perform and document their experiments and analyses as faithfully as possible. Mistakes and oversights are normal and to be expected, but they must not be ignored, concealed, or disguised. 
 
 *Respect*: This course is built around an open research project performed in teams. Successful completion of the course objectives will require that students work together effectively, so please respect the time and effort of your classmates and instructors. Moreover, as part of the research process, we will consider and debate a variety of ideas and approaches; however, we must not allow our position on a particular idea or argument to compromise our respect for its author. We therefore expect course participants to give all instructors and students, regardless of academic or personal background, their complete professional respect; anything less will not be tolerated.
 
@@ -56,21 +56,21 @@ This is a team-based class where students work in small groups develop their own
 
 ## TEAM ASSIGNMENTS
 
-- 1: 
+- Team name: A
 	- Gysasu Bajracharya
 	- Jules Brunello
 	- Hunter Carrell
 	- Yifei Chen
 	- Maple Chen
 	- Karson Chrispens
-- 2: 
+- Team name: B
 	- Zoey Dingman
 	- Kevin Alexander Estrada Alamo
 	- Haoyu Fan
 	- Amy Flis
 	- David Gomez Siu
 	- Katherine Hansen
-- 3: 
+- Team name: C 
 	- William Ho
 	- Javarcia Ivory
 	- Jasmine Keyes
@@ -78,14 +78,14 @@ This is a team-based class where students work in small groups develop their own
 	- Sean Myers
 	- Ever O'Donnell
    	- Sang Le
-- 4: 
+- Team name: D 
 	- Angelica Lam
 	- Andreas Langen
 	- Ashley Lasko
 	- Mihn Le
 	- Kyrellos Ibrahim
 	- Luke Jaskowski
- - 5:
+ - Team name: E
    	- Zack Mawaldi
    	- Katie Holland
    	- Dru Myerscough
@@ -97,19 +97,28 @@ This is a team-based class where students work in small groups develop their own
 # Jan 8-10 - Class intro
 
 ## Monday January 8
-- Welcome: structure of the class, teams and work-together recommendations, auditing, relationship to Macro mini-quals, final writeups for this class (AM)
-- Why structural biology? (AM)
-- High-level review of thermodynamics and kinetics (JDG)
-- [Forces contributing to the conformational stability of proteins (JDG)](https://faseb.onlinelibrary.wiley.com/doi/pdfdirect/10.1096/fasebj.10.1.8566551)
-
-- The technique in a few minutes with reference to the importance of the Fourier Transform!
-	- AM Xray crystallography
-	- KV CryoEM
-	- JG NMR
+- Course overview (AM)
+	- Introduction to instructors and TAs
+ 	- Structure of the class - timeline, topics covered, self-assessments
+ 	- Journal clubs
+ 	- Participation - teams and work-together recommendations/expectations
+  	- Auditing
+  	- Relationship to Macro mini-quals
+  	- Final writeups
+- High-level review of thermodynamics and kinetics (AM)
+- Why study methods in biophysics? (AM)
+- Few minute introduction to techniques covered
+	- Cryo-EM (KV)
+ 	- X-ray Crystallography (AM)
+  	- NMR (JG)
+ 
+- Out of class assignment (required!): watch: [A visual introduction to the Fourier Transform](https://www.youtube.com/watch?v=spUNpyF58BY)
+- Suggested reading: [Forces contributing to the conformational stability of proteins](https://faseb.onlinelibrary.wiley.com/doi/pdfdirect/10.1096/fasebj.10.1.8566551)
 
 
 ## Tuesday January 9
-- [FFT 101](https://docs.google.com/presentation/d/13-tG0L3H70MA232TBcsvv3pkHsm3K2sVot4vDs9Xl5E/edit#slide=id.g10a62644d57_1_0) (AM, JDG, KV)
+- Self assessment on [Fourier Transform and Fourier Series]
+- An intuitive understanding of the Fourier Transform (https://docs.google.com/presentation/d/13-tG0L3H70MA232TBcsvv3pkHsm3K2sVot4vDs9Xl5E/edit#slide=id.g10a62644d57_1_0) (AM)
 	- Waves: amplitude/intensity, phase, frequency/wavelength (and in multiple dimensions: direction/index)
 	- How to sum sine waves together: weights/amplitude - can make any periodic function!
 	- Intuitively decomposing a complex function into sine waves (Fourier transform!)
@@ -118,8 +127,9 @@ This is a team-based class where students work in small groups develop their own
 	- [interactive website used in class for demo](http://www.jezzamon.com/fourier/) 
 	- [sin wave grapher](https://www.desmos.com/calculator/w9jrdpvsmk)	
 	- [another cool fourier thing](https://www.tomasboril.cz/fourierseries3d/en/)
-   
-- software check:
+- Fourier transform lecture (JG)
+
+- Software installation and check:
 	 - coot
 	 - phenix
 	 - ccp4 (for dials, xia2)
@@ -127,10 +137,10 @@ This is a team-based class where students work in small groups develop their own
 	 - pymol
 	 - EMAN2
 	 - NMRBox signup
-- Additional Material
+- Out of class assignment suggested material:
 	- [Fourier Transform from Grant Jensen](https://www.youtube.com/playlist?list=PL8_xPU5epJdctoHdQjpfHmd_z9WvGxK8-), especially videos 14-19, focusing on the 2D and 3D Fourier Tranform ones!
 	- [Andrea Thorn intro to Crystallography series](https://www.youtube.com/watch?v=mDbmfyOGLIM&list=PLHHBmgJ8vFm6xZPlWlRGuBaoOM3OGlN5T) 
-	
+	- 
 
 
 
