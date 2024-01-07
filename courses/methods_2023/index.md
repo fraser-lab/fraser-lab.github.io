@@ -38,7 +38,7 @@ Klim Verba, John Gross, Yifan Cheng, Aashish Manglik, Robert Stroud, Tom Goddard
 
 **Background:**
 
-Fluency in multiple biophysical methods is often critical for answering mechanistic questions. Traditionally, students are exposed to the fundamentals of multiple techniques through lectures that cover the theory prior to exposure, for some, in analysis or data collection during lab rotations. However, this structure means that only students that rotate in specific labs gain hands-on-exposure, which could limit adventurous experiments in future years. To train the next generation of biophysicists at UCSF, we have decided to alter this traditional structure by creating  “Macromolecular Methods”, a class that places emphasis on playing with data. We have designed Macromolecular Methods to be a team-based class where students develop their own analysis of real data that, in non-pandemic years, they have collected.
+Fluency in multiple biophysical methods is often critical for answering mechanistic questions. Traditionally, students are exposed to the fundamentals of multiple techniques through lectures that cover the theory prior to exposure, for some, in analysis or data collection during lab rotations. However, this structure means that only students that rotate in specific labs gain hands-on-exposure, which could limit adventurous experiments in future years. To train the next generation of biophysicists at UCSF, we have decided to alter this traditional structure by creating  “Macromolecular Methods”, a class that places emphasis on playing with data. We have designed Macromolecular Methods to be a team-based class where students develop their own analysis of real data that, in non-pandemic years, they have collected. The goal of this course is to provide students sufficient exposure to major methods in biophysics to enable them to pursue these more fully in their independent research.
 
 **Course Description:**
 
@@ -112,8 +112,14 @@ This is a team-based class where students work in small groups develop their own
  	- X-ray Crystallography (AM)
   	- NMR (JG)
  
-- Out of class assignment (required!): watch: [A visual introduction to the Fourier Transform](https://www.youtube.com/watch?v=spUNpyF58BY)
-- Suggested reading: [Forces contributing to the conformational stability of proteins](https://faseb.onlinelibrary.wiley.com/doi/pdfdirect/10.1096/fasebj.10.1.8566551)
+- Out of class assignment (required!)
+	- Watch: [A visual introduction to the Fourier Transform](https://www.youtube.com/watch?v=spUNpyF58BY)
+	- Software installation:
+ 		- [CCP4/Phenix/ADXV/EMan2 download tutorial](https://docs.google.com/document/d/1pRA-pERFvX05yrGZcZjfugxiV5YDyrFsX64yHhcyOmw/edit#)
+   		- [ChimeraX](https://www.cgl.ucsf.edu/chimerax/download.html)
+     		- [PyMOL]()   
+   
+- Out of class suggested reading: [Forces contributing to the conformational stability of proteins](https://faseb.onlinelibrary.wiley.com/doi/pdfdirect/10.1096/fasebj.10.1.8566551)
 
 
 ## Tuesday January 9
@@ -129,19 +135,18 @@ This is a team-based class where students work in small groups develop their own
 	- [another cool fourier thing](https://www.tomasboril.cz/fourierseries3d/en/)
 - Fourier transform lecture (JG)
 
-- Software installation and check:
+- Software check
 	 - coot
 	 - phenix
 	 - ccp4 (for dials, xia2)
-	 - chimerax
+	 - [chimerax]
 	 - pymol
 	 - EMAN2
 	 - NMRBox signup
-- Out of class assignment suggested material:
+
+- Out of class suggested material:
 	- [Fourier Transform from Grant Jensen](https://www.youtube.com/playlist?list=PL8_xPU5epJdctoHdQjpfHmd_z9WvGxK8-), especially videos 14-19, focusing on the 2D and 3D Fourier Tranform ones!
 	- [Andrea Thorn intro to Crystallography series](https://www.youtube.com/watch?v=mDbmfyOGLIM&list=PLHHBmgJ8vFm6xZPlWlRGuBaoOM3OGlN5T) 
-	- 
-
 
 
 
@@ -180,7 +185,7 @@ MLK DAY - HOLIDAY
 - other teams work on data processing when not at microscope
 - rigor and reproducibility - lecture by Klim Verba
 
-- ## Wednesday January 24
+## Wednesday January 24
  Cryo show and tell, team 5
 - other teams work on data processing when not at microscope
 - 
