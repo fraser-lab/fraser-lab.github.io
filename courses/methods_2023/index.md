@@ -116,6 +116,7 @@ This is a team-based class where students work in small groups develop their own
  
 - Out of class assignment (required!)
 	- Watch: [A visual introduction to the Fourier Transform](https://www.youtube.com/watch?v=spUNpyF58BY)
+ 	- Self assessment on [Fourier Transform and Fourier Series](https://ucsf.co1.qualtrics.com/jfe/form/SV_559sgS910WkdoN0)
 	- Software installation:
  		- [CCP4/Phenix/ADXV/EMan2 download tutorial](https://docs.google.com/document/d/1pRA-pERFvX05yrGZcZjfugxiV5YDyrFsX64yHhcyOmw/edit#)
  		- [ChimeraX](https://www.cgl.ucsf.edu/chimerax/download.html)
@@ -129,7 +130,6 @@ This is a team-based class where students work in small groups develop their own
 
 
 ## Tuesday January 9
-- Self assessment on [Fourier Transform and Fourier Series](https://ucsf.co1.qualtrics.com/jfe/form/SV_559sgS910WkdoN0)
 - [An intuitive understanding of the Fourier Transform](https://docs.google.com/presentation/d/13-tG0L3H70MA232TBcsvv3pkHsm3K2sVot4vDs9Xl5E/edit#slide=id.g10a62644d57_1_0) (AM)
 	- Waves: amplitude/intensity, phase, frequency/wavelength (and in multiple dimensions: direction/index)
 	- How to sum sine waves together: weights/amplitude - can make any periodic function!
