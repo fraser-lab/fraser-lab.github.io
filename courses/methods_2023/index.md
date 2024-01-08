@@ -118,12 +118,12 @@ This is a team-based class where students work in small groups develop their own
 	- Watch: [A visual introduction to the Fourier Transform](https://www.youtube.com/watch?v=spUNpyF58BY)
 	- Software installation:
  		- [CCP4/Phenix/ADXV/EMan2 download tutorial](https://docs.google.com/document/d/1pRA-pERFvX05yrGZcZjfugxiV5YDyrFsX64yHhcyOmw/edit#)
-   		- [ChimeraX](https://www.cgl.ucsf.edu/chimerax/download.html)
-       		- [PyMOL]()
-         	- NMRBox
-          - Signup for beamline:
-        	- Signup for [ALSHub account](https://alshub.als.lbl.gov/)
-        	- Fill out information on Google doc (link via email!)
+ 		- [ChimeraX](https://www.cgl.ucsf.edu/chimerax/download.html)
+ 		- [PyMOL]()
+ 		- NMRBox
+	- Signup for beamline:
+ 		- Signup for [ALSHub account](https://alshub.als.lbl.gov/)
+ 		- Fill out information on Google doc (link via email!)
    
 - Out of class suggested reading: [Forces contributing to the conformational stability of proteins](https://faseb.onlinelibrary.wiley.com/doi/pdfdirect/10.1096/fasebj.10.1.8566551)
 
