@@ -87,14 +87,14 @@ This is a team-based class where students work in small groups develop their own
 	- Mihn Le
 	- Kyrellos Ibrahim
 	- Luke Jaskowski
- - Team name: E
-   	- Zack Mawaldi
-   	- Katie Holland
-   	- Dru Myerscough
-   	- Mingcheng Li
-   	- Sruthi Raguveer
-   	- Patrick Grimes
-   	- Luke Villarma
+ - Team name: E 
+	- Zack Mawaldi
+	- Katie Holland
+	- Dru Myerscough
+	- Mingcheng Li
+	- Sruthi Raguveer
+	- Patrick Grimes
+	- Luke Villarma
 
 # Jan 8-10 - Class intro
 
@@ -109,10 +109,10 @@ This is a team-based class where students work in small groups develop their own
   	- Final writeups
 - High-level review of thermodynamics and kinetics (AM)
 - Why study methods in biophysics? (AM)
-- Few minute introduction to techniques covered
+- Few minute introduction to techniques covered 
 	- Cryo-EM (KV)
- 	- X-ray Crystallography (AM)
-  	- NMR (JG)
+	- X-ray Crystallography (AM)
+	- NMR (JG)
  
 - Out of class assignment (required!)
 	- Watch: [A visual introduction to the Fourier Transform](https://www.youtube.com/watch?v=spUNpyF58BY)
