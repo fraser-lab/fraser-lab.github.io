@@ -129,17 +129,19 @@ This is a team-based class where students work in small groups develop their own
 
 
 ## Tuesday January 9
-- Self assessment on [Fourier Transform and Fourier Series]
-- An intuitive understanding of the Fourier Transform (https://docs.google.com/presentation/d/13-tG0L3H70MA232TBcsvv3pkHsm3K2sVot4vDs9Xl5E/edit#slide=id.g10a62644d57_1_0) (AM)
+- Self assessment on [Fourier Transform and Fourier Series](https://ucsf.co1.qualtrics.com/jfe/form/SV_559sgS910WkdoN0)
+- [An intuitive understanding of the Fourier Transform](https://docs.google.com/presentation/d/13-tG0L3H70MA232TBcsvv3pkHsm3K2sVot4vDs9Xl5E/edit#slide=id.g10a62644d57_1_0) (AM)
 	- Waves: amplitude/intensity, phase, frequency/wavelength (and in multiple dimensions: direction/index)
 	- How to sum sine waves together: weights/amplitude - can make any periodic function!
 	- Intuitively decomposing a complex function into sine waves (Fourier transform!)
-	- [Resolution](https://bl831.als.lbl.gov/~jamesh/movies/resolution.mpeg): start thinking about 3D objects like an X-ray or EM map, building intuition of more waves measured giving higher resolution
-	- Building up the MTZ (index = frequency and direction, amplitude/intensity, phase) and the concept of Nyquist frequency (why pixel size, changing values across pixels, and maximum resolution are related in EM)
 	- [interactive website used in class for demo](http://www.jezzamon.com/fourier/) 
 	- [sin wave grapher](https://www.desmos.com/calculator/w9jrdpvsmk)	
 	- [another cool fourier thing](https://www.tomasboril.cz/fourierseries3d/en/)
 - Fourier transform lecture (JG)
+- Fourier transform in the different methods (JG/AM/KV)
+	- [Resolution](https://bl831.als.lbl.gov/~jamesh/movies/resolution.mpeg): start thinking about 3D objects like an X-ray or EM map, building intuition of more waves measured giving higher resolution
+	- Building up the MTZ (index = frequency and direction, amplitude/intensity, phase) and the concept of Nyquist frequency (why pixel size, changing values across pixels, and maximum resolution are related in EM)
+ 	- Understanding NMR signals as frequency domain information 
 
 - Software check the following:
 	 - coot
