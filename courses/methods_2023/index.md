@@ -107,7 +107,7 @@ This is a team-based class where students work in small groups develop their own
   	- Auditing
   	- Relationship to Macro mini-quals
   	- Final writeups
-- High-level review of thermodynamics and kinetics (AM)
+- [High-level review of thermodynamics and kinetics](https://ucsf.box.com/s/mjqxgkoi14jm51nwst54kkld9a43m85q) (AM)
 - Why study methods in biophysics? (AM)
 - Few minute introduction to techniques covered 
 	- Cryo-EM (KV)
@@ -137,7 +137,7 @@ This is a team-based class where students work in small groups develop their own
 	- [interactive website used in class for demo](http://www.jezzamon.com/fourier/) 
 	- [sin wave grapher](https://www.desmos.com/calculator/w9jrdpvsmk)	
 	- [another cool fourier thing](https://www.tomasboril.cz/fourierseries3d/en/)
-- Fourier transform lecture (JG)
+- [Fourier transform lecture](https://ucsf.box.com/s/q5mpecz93q7x0dn4s1rbgba2s50zo9l7) (JG)
 - Fourier transform in the different methods (JG/AM/KV)
 	- [Resolution](https://bl831.als.lbl.gov/~jamesh/movies/resolution.mpeg): start thinking about 3D objects like an X-ray or EM map, building intuition of more waves measured giving higher resolution
 	- Building up the MTZ (index = frequency and direction, amplitude/intensity, phase) and the concept of Nyquist frequency (why pixel size, changing values across pixels, and maximum resolution are related in EM)
@@ -159,7 +159,7 @@ This is a team-based class where students work in small groups develop their own
 
 
 ## Wednesday January 10
-- [ChimeraX tutorial by Tom Goddard](https://www.rbvi.ucsf.edu/chimerax/data/stanford-apr2022/cryoem_intro.html)
+- [ChimeraX tutorial by Tom Goddard](https://www.rbvi.ucsf.edu/chimerax/data/methods-jan2024/methods.html)
 	- Some past tutorials:
 		- [Color by Chemical Shift Perturbations](https://www.rbvi.ucsf.edu/chimerax/data/nanobody-feb2021/chemshift.html)
 		- [How to View Nanobody Molecular Dynamics in ChimeraX](https://www.rbvi.ucsf.edu/chimerax/data/nanobody-feb2021/nanobody_md.html)
@@ -174,29 +174,23 @@ MLK DAY - HOLIDAY
 ### [9-11: Lecture 1 from Yifan Cheng](https://ucsf.box.com/s/8319vx3dci0gr5r33ge2y9am67fuzuoq) 
 
 ## Wednesday January 17
-### [Key questions to track understanding of CryoEM](https://docs.google.com/document/d/1swcAbr6AHVkPFQyuqr0sYSLOwMbF1G3zGRfvRY6O2zE/edit)
-### [9-10: Lecture 2 from Yifan Cheng](https://ucsf.box.com/s/8319vx3dci0gr5r33ge2y9am67fuzuoq)
-### 10-11: Intro to data processing by TAs after short intro by KV
-- TEAM 2 to negative stain with KV?
-- other teams work on data processing tutorial with TAs
-
-## Thursday January 18
-- TEAM 3 to negative stain with KV (outside of class time)
+### Hands on practical day with David Bulkley on cryo-EM grid freezing
+- Meet in Genentech Hall S101 at your team's specified time.
+- 9:00-9:30 AM: Teams 1&2
+- 9:40-10:10 AM: Teams 3&4
+- 10:20-10:50 AM: Team 5
 
 ## Monday January 22 
-- TEAM 4 to negative stain with KV
-- Cryo show and tell, teams 1 and 2
-- other teams work on data processing when not at microscope
+### Hands on practical day with Klim and David on negative stain
+- 40 minutes per team
+- Team 1 and 2 are 9-9:40 (team1-DB, team2-KV), Teams 3 and 4 are 9:40-10:20 (Team 3 upstairs, Team 4 downstairs), Team 5 10:20-11 (KV, upstairs).
 
 ## Tuesday January 23
-- Cryo show and tell, teams 3 and 4
-- other teams work on data processing when not at microscope
-- rigor and reproducibility - lecture by Klim Verba
+### [9-11: Lecture 2 from Yifan Cheng]
 
 ## Wednesday January 24
- Cryo show and tell, team 5
-- other teams work on data processing when not at microscope
-- 
+### KV talk about resolution metrics/validation 9-10:30, catch up on processing 10:30-11.
+
 ## Reading on rigor and reproducibility in EM:
 - [cisTEM paper](http://cdn.fraserlab.com/courses/methods/2018_grant.pdf)
 - [FSC](https://en.wikipedia.org/wiki/Fourier_shell_correlation) and [early example in EM](http://cdn.fraserlab.com/courses/methods/1982_saxton.pdf)
