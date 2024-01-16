@@ -175,9 +175,10 @@ MLK DAY - HOLIDAY
 
 ## Wednesday January 17
 ### Hands on practical day with David Bulkley on cryo-EM grid freezing
-- Meet in Genentech Hall S101 at your team's specified time.
-- 9:00-9:30 AM: Teams 1&2
-- 9:40-10:10 AM: Teams 3&4
+- 9:00-9:10AM: Journal club 
+Meet in Genentech Hall S101 at your team's specified time.
+- 9:10-9:40 AM: Teams 1&2
+- 9:45-10:15 AM: Teams 3&4
 - 10:20-10:50 AM: Team 5
 
 ## Monday January 22 
