@@ -184,7 +184,10 @@ Meet in Genentech Hall S101 at your team's specified time.
 ## Monday January 22 
 ### Hands on practical day with Klim and David on negative stain
 - 40 minutes per team
-- Team 1 and 2 are 9-9:40 (team1-DB, team2-KV), Teams 3 and 4 are 9:40-10:20 (Team 3 upstairs, Team 4 downstairs), Team 5 10:20-11 (KV, upstairs).
+- Upstairs is Genentech S416 with Klim Verba; Downstairs is Genentech S101 with David Bulkley
+- 9:00-9:40: Team 1 with Daivd and Team 2 with Klim)
+- 9:40-10:20: Team 3 with David and Team 4 with Klim
+- 10:20-11:00: Team 5 with Klim
 
 ## Tuesday January 23
 ### [9-11: Lecture 2 from Yifan Cheng]
