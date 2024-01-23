@@ -212,9 +212,16 @@ Meet in Genentech Hall S101 at your team's specified time.
 - Examine diffraction data in adxv
 - ### [Beamline trip logistics](https://docs.google.com/document/d/15U3DUiw0-ZLWWhC4zfXiKAnn0G1odUyRf1RXIWibkM0/edit?usp=sharing)
 
-## Tuesday January 30th-BEAMLINE TRIP!!!
-## Wednesday January 31st-BEAMLINE TRIP!!!
+## Tuesday January 30th
+### Beamline trip/X-ray facility tour 
+- Beamline trip logistics[]
+- If not going to beamline, please meet Violla Bassim in X-ray facility (Genentech ***) at 9AM
 
+## Wednesday January 31st
+### Beamline trip/X-ray facility tour 
+- Beamline trip logistics[]
+- If not going to beamline, please meet Violla Bassim in X-ray facility (Genentech ***) at 9AM
+  
 ## Monday February 5 
 ### 9-10:30: Lecture 2 from Bob Stroud
 ### 10:30-11: [Tutorial 2: Data Reduction](https://docs.google.com/document/d/1X3tadTbEAufeBVTrYBy6r9d9Tl5dael7KQTJv6_4ACA/edit#bookmark=kix.if962aravtol)
