@@ -96,6 +96,8 @@ This is a team-based class where students work in small groups develop their own
 	- Patrick Grimes
 	- Luke Villarma
 
+# Journal Club assignments[https://ucsf.box.com/s/d0wax9tfdjmvzgxqgw3425nhg1b49pnz]
+
 # Jan 8-10 - Class intro
 
 ## Monday January 8
