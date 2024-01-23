@@ -215,12 +215,12 @@ Meet in Genentech Hall S101 at your team's specified time.
 ## Tuesday January 30th
 ### Beamline trip/X-ray facility tour 
 - [Beamline trip logistics](https://docs.google.com/document/d/1_V7trQhxQCsUCHTDE7CipoKazJgy_h95SWVNk_rA5M4/edit?usp=sharing)
-- If not going to beamline, please meet Violla Bassim in X-ray facility (Genentech ***) at 9AM
+- If not going to beamline, please meet Violla Bassim in X-ray facility (Genentech S127) at 9AM
 
 ## Wednesday January 31st
 ### Beamline trip/X-ray facility tour 
 - [Beamline trip logistics](https://docs.google.com/document/d/1_V7trQhxQCsUCHTDE7CipoKazJgy_h95SWVNk_rA5M4/edit?usp=sharing)
-- If not going to beamline, please meet Violla Bassim in X-ray facility (Genentech ***) at 9AM
+- If not going to beamline, please meet Violla Bassim in X-ray facility (Genentech S127) at 9AM
   
 ## Monday February 5 
 ### 9-10:30: Lecture 2 from Bob Stroud
