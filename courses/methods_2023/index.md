@@ -96,7 +96,8 @@ This is a team-based class where students work in small groups develop their own
 	- Patrick Grimes
 	- Luke Villarma
 
-# Journal Club assignments[https://ucsf.box.com/s/d0wax9tfdjmvzgxqgw3425nhg1b49pnz]
+# Journal Club assignments
+- [Link](https://ucsf.box.com/s/d0wax9tfdjmvzgxqgw3425nhg1b49pnz)
 
 # Jan 8-10 - Class intro
 
@@ -213,12 +214,12 @@ Meet in Genentech Hall S101 at your team's specified time.
 
 ## Tuesday January 30th
 ### Beamline trip/X-ray facility tour 
-- Beamline trip logistics[https://docs.google.com/document/d/1_V7trQhxQCsUCHTDE7CipoKazJgy_h95SWVNk_rA5M4/edit?usp=sharing]
+- [Beamline trip logistics](https://docs.google.com/document/d/1_V7trQhxQCsUCHTDE7CipoKazJgy_h95SWVNk_rA5M4/edit?usp=sharing)
 - If not going to beamline, please meet Violla Bassim in X-ray facility (Genentech ***) at 9AM
 
 ## Wednesday January 31st
 ### Beamline trip/X-ray facility tour 
-- Beamline trip logistics[https://docs.google.com/document/d/1_V7trQhxQCsUCHTDE7CipoKazJgy_h95SWVNk_rA5M4/edit?usp=sharing]
+- [Beamline trip logistics](https://docs.google.com/document/d/1_V7trQhxQCsUCHTDE7CipoKazJgy_h95SWVNk_rA5M4/edit?usp=sharing)
 - If not going to beamline, please meet Violla Bassim in X-ray facility (Genentech ***) at 9AM
   
 ## Monday February 5 
