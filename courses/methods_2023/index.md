@@ -174,7 +174,7 @@ This is a team-based class where students work in small groups develop their own
 MLK DAY - HOLIDAY
 
 ## Tuesday January 16 
-### [9-11: Lecture 1 from Yifan Cheng](https://ucsf.box.com/s/8319vx3dci0gr5r33ge2y9am67fuzuoq) 
+### [9-11: Lecture 1 from Yifan Cheng](https://ucsf.app.box.com/s/i9d1bov4b8w3x7bxac0g9wl5lupp3bgu/file/1424671681577) 
 
 ## Wednesday January 17
 ### Hands on practical day with David Bulkley on cryo-EM grid freezing
@@ -193,7 +193,7 @@ Meet in Genentech Hall S101 at your team's specified time.
 - 10:20-11:00: Team 5 with Klim
 
 ## Tuesday January 23
-### [9-11: Lecture 2 from Yifan Cheng]
+### [9-11: Lecture 2 from Yifan Cheng](https://ucsf.app.box.com/s/i9d1bov4b8w3x7bxac0g9wl5lupp3bgu/file/1424668244483)
 
 ## Wednesday January 24
 ### KV talk about resolution metrics/validation 9-10:30, catch up on processing 10:30-11.
