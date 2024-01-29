@@ -208,7 +208,7 @@ Meet in Genentech Hall S101 at your team's specified time.
 
 ## Monday January 29th
 ### 9-1030: Lecture 1 from Bob Stroud
-### 10:30-11: [Tutorial 1: What's the deal with the spots](https://docs.google.com/document/d/1X3tadTbEAufeBVTrYBy6r9d9Tl5dael7KQTJv6_4ACA/)
+### 10:30-11: [Tutorial 1: What's the deal with the spots](https://docs.google.com/document/d/1-VUVeneU7NfJ6dS2AX3mqhU5JAXt8Tom6V6dQvylWkM/edit?usp=sharing)
 - What is the system?
 - Examine diffraction data in adxv
 
@@ -224,7 +224,7 @@ Meet in Genentech Hall S101 at your team's specified time.
   
 ## Monday February 5 
 ### 9-10:30: Lecture 2 from Bob Stroud
-### 10:30-11: [Tutorial 2: Data Reduction](https://docs.google.com/document/d/1X3tadTbEAufeBVTrYBy6r9d9Tl5dael7KQTJv6_4ACA/edit#bookmark=kix.if962aravtol)
+### 10:30-11: [Tutorial 2: Data Reduction](https://docs.google.com/document/d/1-VUVeneU7NfJ6dS2AX3mqhU5JAXt8Tom6V6dQvylWkM/edit#bookmark=kix.if962aravtol)
 - Use xia2 to process diffraction data
 - Understand various metrics for data reduction
 - What do we have at the end? MTZ files!
@@ -232,9 +232,9 @@ Meet in Genentech Hall S101 at your team's specified time.
 
 ## Tuesday February 6 
 ### 9-10:30: Lecture 3 from Bob Stroud
-### [Tutorial 3: Molecular Replacement](https://docs.google.com/document/d/1X3tadTbEAufeBVTrYBy6r9d9Tl5dael7KQTJv6_4ACA/edit#bookmark=id.snbyu3mveba6)
+### [Tutorial 3: Molecular Replacement](https://docs.google.com/document/d/1-VUVeneU7NfJ6dS2AX3mqhU5JAXt8Tom6V6dQvylWkM/edit#bookmark=id.snbyu3mveba6)
 
-### [Tutorial 4: Model Refinement](https://docs.google.com/document/d/1X3tadTbEAufeBVTrYBy6r9d9Tl5dael7KQTJv6_4ACA/edit#bookmark=id.m85sdq3icnmn)
+### [Tutorial 4: Model Refinement](https://docs.google.com/document/d/1-VUVeneU7NfJ6dS2AX3mqhU5JAXt8Tom6V6dQvylWkM/edit#bookmark=id.m85sdq3icnmn)
 
 - File formats and contents
 	- MTZ file format
@@ -259,7 +259,7 @@ Meet in Genentech Hall S101 at your team's specified time.
 		- conformational vs. compositional heterogeneity
 - Team 1+2
 	- Occupancy refinement
-- Team 3+4
+- Team 3-5
 	- Alternative conformations of loops
 	- Occupancy refinement
 	- A/B conformations
@@ -267,7 +267,7 @@ Meet in Genentech Hall S101 at your team's specified time.
 
 ## Wednesday February 7 
 ### 9-10:30: Lecture 4 from Bob Stroud
-### Continue Model Refinement and [Tutorial 5: Model Analysis](https://docs.google.com/document/d/1X3tadTbEAufeBVTrYBy6r9d9Tl5dael7KQTJv6_4ACA/edit#bookmark=kix.z40bd2t29nx4)
+### Continue Model Refinement and [Tutorial 5: Model Analysis](https://docs.google.com/document/d/1-VUVeneU7NfJ6dS2AX3mqhU5JAXt8Tom6V6dQvylWkM/edit#bookmark=kix.z40bd2t29nx4)
 ## Reading on rigor and reproducibility in Crystallography:
 - [R-free](http://cdn.fraserlab.com/courses/methods/1992_brunger.pdf)
 - [MolProbity](http://cdn.fraserlab.com/courses/methods/2010_chen.pdf)
