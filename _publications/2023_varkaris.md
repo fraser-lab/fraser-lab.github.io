@@ -20,4 +20,10 @@ links:
     url: https://relaytx.com/
   - name: "D.E. Shaw Research"
     url: https://www.deshawresearch.com/
+  - name: "Precision Targeting of Mutant PI3Kα"
+    url: https://aacrjournals.org/cancerdiscovery/article-abstract/14/2/204/734057/Precision-Targeting-of-Mutant-PI3K
+  - name: "A New Wave of PI3Kα Inhibitors"
+    url: https://aacrjournals.org/cancerdiscovery/article-abstract/13/11/2313/729871/A-New-Wave-of-PI3K-Inhibitors
+  - name: "Allosteric PI3Kα Inhibition Overcomes On-target Resistance to Orthosteric Inhibitors Mediated by Secondary PIK3CA Mutations"
+    url: https://aacrjournals.org/cancerdiscovery/article/14/2/227/734061/Allosteric-PI3K-Inhibition-Overcomes-On-target
 ---
