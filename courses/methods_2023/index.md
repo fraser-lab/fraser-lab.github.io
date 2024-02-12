@@ -279,7 +279,7 @@ Meet in Genentech Hall S101 at your team's specified time.
 ### [Lecture 1 from John Gross, Introduction to Multidimensional NMR](http://cdn.fraserlab.com/courses/Methods-NMR-2022-LECTURE1.pdf)
 - intro to the system (nanobodies)
 - demonstration of NMR data processing, John Gross
-- [from FID to 2D](http://cdn.fraserlab.com/courses/2022_2DNMR_Processing_Tutorial.pdf) (Allie Born and John Gross)
+- [from FID to 2D](https://ucsf.box.com/s/jcizdp2irfridwy054480oqr4tl33gnl) (John Gross)
 - Supplemental reading: [How does an HSQC work?](http://cdn.fraserlab.com/courses/methods/HSQC-Guided-tour.pdf)
 
 ## Tuesday February 13
