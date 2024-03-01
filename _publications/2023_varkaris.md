@@ -5,6 +5,7 @@ journal: Cancer Discovery
 pub_date: "2023-11-02"
 image: /static/img/pub/2023_varkaris.png
 pmid: 37916956
+pmcid: "PMC10850943"
 pdf: http://cdn.fraserlab.com/publications/2023_varkaris.pdf
 pdbs:
  - "8TU6" 
