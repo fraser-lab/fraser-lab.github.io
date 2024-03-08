@@ -108,6 +108,7 @@ After the round of sharing, the Discussion Leaders will present a joint talk sim
 
 ### April 25
 - short class, pitch 2 preprints you are interested in reviewing
+  - Our running [google doc of cool preprints in high throughput biophysics](https://docs.google.com/document/d/134KFcL3tbGVxgTOSnreCOSr2cicbPuJFQkSTp3ZSRds/edit)
 
 ### April 29
 - PAIR 1: PAPER
