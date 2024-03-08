@@ -1,5 +1,5 @@
 ---
-title: Peer Review in the Life Sciences
+title: Peer review in high throughput biophysics
 layout: default
 group: courses
 ---
@@ -10,9 +10,9 @@ group: courses
 
 **Course Days/Hours:**  
 
-**Location:** 
+**Location:** BH313
 
-**Instructors:** [James Fraser](mailto:jfraser@fraserlab.com), [Christian Macdonald](mailto:christian.macdonald@ucsf.edu)
+**Instructors:** [James Fraser](mailto:jfraser@fraserlab.com), [Willow Coyote-Maestas](mailto:willow.coyote-maestas@ucsf.edu)
 
 <figure>
 <blockquote class="blockquote">
@@ -32,7 +32,7 @@ from [The Lancet has made one of the biggest retractions in modern history. How 
 
 By far, the most widely accepted means of communication is through publishing papers in scientific journals. The process of peer review plays an important role in refining the body of work prior to final publication. Yet, peer review is rarely taught to students in a formal setting, and is largely dependent on individual labs and mentors, leading to variable standards of peer review. Reflecting the evolution of technology, society and scientific culture, preprints have gained popularity in the life sciences in recent years, resulting in a shift in how progress in the life sciences is communicated, and raising questions of how we, as a scientific community, may work towards optimizing the peer review process in the life sciences. This class will use preprint servers (for example, BioRxiv) as a platform for formally teaching students how to peer review manuscripts in a critical and constructive way.
 
-We have modeled this class (and previous versions in [2020](/courses/peer_review_2020/), [2021](/courses/peer_review_2021/), and [2022](/courses/peer_review_2022/)) based on [a course at NYU](http://bhabhaekiertlab.org/teaching) organized by Gira Bhabha, Damian Ekiert, Liam Holt & Timothee Lionnet.
+We have modeled this class (and previous [versions](/courses/)) after on [a course at NYU](http://bhabhaekiertlab.org/teaching) organized by Gira Bhabha, Damian Ekiert, Liam Holt & Timothee Lionnet.
 
 ## Racism and Bias in Peer review
 
@@ -77,17 +77,6 @@ After the round of sharing, the Discussion Leaders will present a joint talk sim
     - [eLife - Making the most of peer review](https://elifesciences.org/articles/12708)
     - [PreReview training path](https://content.prereview.org/openreviewers/)
 
-
-### April 24
-- Intro to class, overview of preprints to review, expectations for presentations and readers
-- [New developments in peer review](http://tinyurl.com/polkaucsf2023):
-  - [Jessica Polka](https://en.wikipedia.org/wiki/Jessica_Polka) - [Executive Director of ASAPbio](https://asapbio.org/dt_team/jessica-polka) - Jessica to join us on zoom
-
-### April 25
-- Writing and Receiving Peer Review and expecations for written reviews
-- Why do we peer review and what makes good peer review?
-  - [Jason Gestwicki](https://gestwickilab.ucsf.edu/), [Associate Editor of ACS Chemical Biology](https://pubs.acs.org/page/acbcct/editors.html), [Editorial Advisory Board Chemical Biology and Drug Design](https://onlinelibrary.wiley.com/page/journal/17470285/homepage/editorialboard.html)
-
 #### Some good guidelines for reviewing
 
 - Don't be an a$$hole
@@ -101,34 +90,43 @@ After the round of sharing, the Discussion Leaders will present a joint talk sim
 
 [Evaluate other reviews by this rubric](https://zenodo.org/record/6471333#.YmhgdC-B1pR)
 
+### April 22
+- Intro to class, overview of preprints to review, expectations for presentations and readers
+- [New developments in peer review](http://tinyurl.com/polkaucsf2023):
+  - [Jessica Polka](https://en.wikipedia.org/wiki/Jessica_Polka) - [Executive Director of ASAPbio](https://asapbio.org/dt_team/jessica-polka) - Jessica to join us on zoom?
+
+### April 23
+- Writing and Receiving Peer Review and expecations for written reviews
+- Why do we peer review and what makes good peer review?
+  - [Jason Gestwicki](https://gestwickilab.ucsf.edu/), [Associate Editor of ACS Chemical Biology](https://pubs.acs.org/page/acbcct/editors.html), [Editorial Advisory Board Chemical Biology and Drug Design](https://onlinelibrary.wiley.com/page/journal/17470285/homepage/editorialboard.html)?
+  - Max Krummel? (TBD)
+  - pairings for papers to review
+
+### April 24
+- no class
+
+### April 25
+- short class, pitch 2 preprints you are interested in reviewing
+
+### April 29
+- PAIR 1: PAPER
+
+### April 30 (JF AWAY)
+- no class
+
 ### May 1
+- GROUP OF THREE 2: PAPER
 
-- [Decoding the Cure-all Effects of Ginseng](https://www.biorxiv.org/content/10.1101/2023.04.05.535784v2)
-  - [PREreview review from Ivan and Dani](https://zenodo.org/record/8102883)
+### May 2 (JF AWAY)
+- no class
 
-### May 2 - JF at AVIDD meeting - CM to moderate!
+### May 3 (JF AWAY)
+- no class 
 
-- [Deep Boosted Molecular Dynamics (DBMD): Accelerating molecular simulations with Gaussian boost potentials generated using probabilistic Bayesian deep neural network](https://www.biorxiv.org/content/10.1101/2023.03.25.534210v2)
-  - [PREreview review from Ilayda and Freitas](https://zenodo.org/record/8102835)
+### May 6
+- PAIR 3: PAPER
 
-### May 3
+### May 7
+- PAIR 4: PAPER
 
-- [Phosphorylation of pyruvate dehydrogenase marks the inhibition of in vivo neuronal activity](https://www.biorxiv.org/content/10.1101/2023.03.13.532494v1)
-  - [PREreview review from Zhengya and Catherine](https://zenodo.org/record/7975274)
 
-### May 9 - JF out of town - CM to moderate!
-
-- [The herbicide acetochlor causes lipid peroxidation by inhibition of glutathione peroxidase 4](https://www.biorxiv.org/content/10.1101/2023.04.14.536563v1)
-  - [PREreview review from David and Jeffrey](https://zenodo.org/record/8239835)
-
-### May 10
-
-- [The conserved protein CBA1 is required for vitamin B12 uptake in different algal lineages](https://www.biorxiv.org/content/10.1101/2023.03.24.534157v1.full)
-  - [PREreview review](https://zenodo.org/record/7996088)
-
-### May 15
-
-- SPECIAL PRESENTATION AND DISCUSSION: eLife’s model and the future of science publishing
-  - Speaker: Michael Eisen, Professor, MCB UC Berkeley
-  - Editor-in-Chief, eLife
-- **Genentech Hall N114 from 3-4pm**
