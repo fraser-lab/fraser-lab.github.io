@@ -130,4 +130,6 @@ After the round of sharing, the Discussion Leaders will present a joint talk sim
 ### May 7
 - PAIR 4: PAPER
 
+### May 8
+- Feedback on Peer Reviews and reflection on course
 
