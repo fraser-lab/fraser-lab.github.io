@@ -34,11 +34,11 @@ group: contact
 
 <div class="col-md-4">
 
-  <h4> Steve Ha</h4>
-  Faculty Support Analyst to Dr. James Fraser and others<br>
+  <h4> Rebecca Niznak</h4>
+  Executive Business Adminstrator for James Fraser and<br>
   [Department of Bioengineering and Therapeutic Sciences](http://bts.ucsf.edu)<br>
-  email: Steve.Ha (at) ucsf.edu<br>
-  tel: 415 502-8084 <br>
+  email: rebecca.niznak2 (at) ucsf.edu<br>
+  tel: <br>
 
 </div>
 
