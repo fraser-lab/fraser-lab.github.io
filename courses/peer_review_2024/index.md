@@ -117,7 +117,7 @@ After the round of sharing, the Discussion Leaders will present a joint talk sim
 - no class
 
 ### May 1
-- GROUP OF THREE 2: PAPER
+- Pair 2: PAPER
 
 ### May 2 (JF AWAY)
 - no class
@@ -132,5 +132,5 @@ After the round of sharing, the Discussion Leaders will present a joint talk sim
 - PAIR 4: PAPER
 
 ### May 8
-- Feedback on Peer Reviews and reflection on course
+- PAIR 5: PAPER
 
