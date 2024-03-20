@@ -61,7 +61,6 @@ The Fraser lab recognizes that [the University of California San Francisco sits 
   * If you are being dropped off (by a rideshare service), use 1675 Owens St, San Francisco, CA 94158 as the destination address. There is convenient parking circle (red star on map below) for drop-off.
 
 ### Once on campus, proceed to Genentech Hall:
-0. Complete the [Vendor/Visitor Campus COVID screener](https://ucsf.co1.qualtrics.com/jfe/form/SV_d6elP7DE78J4oFT)
 1. You will have to enter through Genentech Hall from the Koret Quad side (Red arrow on the map below).
 2. Sign in at security for a meeting with Dr. James Fraser (Office - Genentech Hall S472E).
 3. Take the elevator or staircase to the 4th floor.

@@ -48,7 +48,7 @@ We idealize peer review process as an unbiased assessment of science. But bias c
 
 ## Course structure
 
-Students will be paired to serve as "Co-Discussion Leaders" for one BioRxiv manuscript of their choosing.  The co-discussion leaders will compose one joint written peer review, with a first draft due immediately to Chris prior to their presentation, reflecting their original thoughts on the manuscript. Please send your paper selections to Chris by March 30th so everyone can start reading. For each class, everyone, not just the co-discussion leaders, should be prepared by having the paper carefully. We will start each day by calling on each participant in the class and asking them to share: 1 confusing thing about the paper and 1 cool thing about the paper.
+Students will be paired to serve as "Co-Discussion Leaders" for one BioRxiv manuscript of their choosing.  The co-discussion leaders will compose one joint written peer review, with a first draft due immediately to us prior to their presentation, reflecting their original thoughts on the manuscript. For each class, everyone, not just the co-discussion leaders, should be prepared by having the paper carefully. We will start each day by calling on each participant in the class and asking them to share: 1 confusing thing about the paper and 1 cool thing about the paper.
 
 After the round of sharing, the Discussion Leaders will present a joint talk similar in content and quality to a Tetrad or QBC Journal Club presentation, with an estimated 30-40 minute duration (noting that interruptions and discussion may take us closer to an hour).
 
@@ -98,10 +98,9 @@ After the round of sharing, the Discussion Leaders will present a joint talk sim
 
 ### April 23
 - Writing and Receiving Peer Review and expecations for written reviews
-- Why do we peer review and what makes good peer review?
-  - [Jason Gestwicki](https://gestwickilab.ucsf.edu/), [Associate Editor of ACS Chemical Biology](https://pubs.acs.org/page/acbcct/editors.html), [Editorial Advisory Board Chemical Biology and Drug Design](https://onlinelibrary.wiley.com/page/journal/17470285/homepage/editorialboard.html)?
-  - Max Krummel? (TBD)
   - pairings for papers to review
+- Why do we peer review and what makes good peer review?
+  - Max Krummel - [Universal Principled Review](http://cdn.fraserlab.com/courses/peer_review_2020/2019_krummel.pdf) and other experiments
 
 ### April 24
 - no class
