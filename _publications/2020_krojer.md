@@ -5,6 +5,7 @@ journal: 'Current Opinions in Structural Biology'
 pub_date: '2020-11-07'
 image: '/static/img/pub/2020_krojer.jpg'
 pmid: '33171388'
+pmcid: "PMC10979522"
 pdf: 'http://cdn.fraserlab.com/publications/2020_krojer.pdf'
 links:
 - name: XChem - Fragment Screening @ Diamond Light Source
