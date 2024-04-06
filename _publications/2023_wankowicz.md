@@ -11,6 +11,9 @@ pdf:
 github:
 - description: qFit
   url: ExcitedStates/qfit-3.0
+zenodo:
+  - code: "10936292"
+    description: "qFit modeled PDBs"
 links:
 - name: Keedy lab @ CUNY Advanced Science Research Center
   url: https://keedylab.org/
