@@ -6,7 +6,7 @@ pub_date: "2023-06-29" #Date of publication. Change from Biorxiv date to Journal
 image: "/static/img/pub/2023_wankowicz.jpg" #Minimum dimensions TBD
 pmid: 
 pmcid: 
-biorxiv_version: "2023.06.28.546963v2"
+biorxiv_version: "2023.06.28.546963v3"
 pdf: 
 github:
 - description: qFit
