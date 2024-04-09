@@ -9,9 +9,8 @@ permalink: /peer_review/
 
 ## Spring 2024 Syllabus
 
-**Course Days/Hours:**  
+**Course Days/Hours/Locations:**  4/22 - BH413 - 3-5PM, 4/23 - BH413 - 3-5PM, 4/25 - BH413 - 3-4PM, 4/29 - BH41 - 3-5PM3, 5/1 - BH513 - 3-5PM, 5/6 - BH413 - 3-5PM, 5/7 - BH413 - 3-5PM, 5/8 - BH513 - 3-5PM
 
-**Location:** BH313
 
 **Instructors:** [James Fraser](mailto:jfraser@fraserlab.com), [Willow Coyote-Maestas](mailto:willow.coyote-maestas@ucsf.edu)
 
