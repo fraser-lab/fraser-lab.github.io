@@ -93,7 +93,7 @@ After the round of sharing, the Discussion Leaders will present a joint talk sim
 ### April 22
 - Intro to class, overview of preprints to review, expectations for presentations and readers
 - [New developments in peer review](http://tinyurl.com/polkaucsf2023):
-  - [Jessica Polka](https://en.wikipedia.org/wiki/Jessica_Polka) - [Executive Director of ASAPbio](https://asapbio.org/dt_team/jessica-polka) - Jessica to join us on zoom?
+  - [Jessica Polka](https://en.wikipedia.org/wiki/Jessica_Polka) - [Executive Director of ASAPbio](https://asapbio.org/dt_team/jessica-polka) - Jessica to join us on zoom
 
 ### April 23
 - Writing and Receiving Peer Review and expecations for written reviews
@@ -111,17 +111,8 @@ After the round of sharing, the Discussion Leaders will present a joint talk sim
 ### April 29
 - PAIR 1: PAPER
 
-### April 30 (JF AWAY)
-- no class
-
 ### May 1
 - Pair 2: PAPER
-
-### May 2 (JF AWAY)
-- no class
-
-### May 3 (JF AWAY)
-- no class 
 
 ### May 6
 - PAIR 3: PAPER
@@ -131,4 +122,3 @@ After the round of sharing, the Discussion Leaders will present a joint talk sim
 
 ### May 8
 - PAIR 5: PAPER
-
