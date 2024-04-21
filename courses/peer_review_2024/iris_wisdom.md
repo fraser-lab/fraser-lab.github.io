@@ -3,6 +3,10 @@ title: Iris's Wisdom
 layout: default
 group: philosophy
 ---
+With permission from Iris Young
+
+originally available [here](https://twitter.com/irisdyoung/status/1560390684489592832)
+
 - Personal take on how to give negative feedback that doesn't attack a person, as a self-professed extremely critical reviewer: 
 - First, remind yourself as many times as it takes that you do not know this person. You only know what they've presented of their work, and that's limited by their presentation of it, context, etc. It's a tiny shard of their actual existence. 2/
 - With that in mind, approach everything as if (1) you could be the one misunderstanding (because you could!), and (2) there could be very good reasons for any actual oversight or shortcoming in the work on the page (because there can be!) 3/
