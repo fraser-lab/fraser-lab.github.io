@@ -90,7 +90,7 @@ After the round of sharing, the Discussion Leaders will present a joint talk sim
 [Evaluate other reviews by this rubric](https://zenodo.org/record/6471333#.YmhgdC-B1pR)
 
 ### April 22
-- Intro to class, overview of preprints to review, expectations for presentations and readers
+- Intro to class, overview of preprints to review, assigning pairs, expectations for presentations and readers
 - [New developments in peer review](http://tinyurl.com/polkaucsf2023):
   - [Jessica Polka](https://en.wikipedia.org/wiki/Jessica_Polka) - [Executive Director of ASAPbio](https://asapbio.org/dt_team/jessica-polka) - Jessica to join us on zoom
 
