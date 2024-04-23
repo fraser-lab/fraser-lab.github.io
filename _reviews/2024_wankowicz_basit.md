@@ -1,4 +1,4 @@
-
+---
 title: "Prediction of Ca 2+ binding site in proteins with a fast and accurate method based on statistical mechanics and analysis of crystal structures"
 date: "2024-04-23"
 authors: "Basit A, Choudhury D, Bandyopadhyay P"
