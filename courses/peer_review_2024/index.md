@@ -108,13 +108,13 @@ After the round of sharing, the Discussion Leaders will present a joint talk sim
   - Our running [google doc of cool preprints in high throughput biophysics](https://docs.google.com/document/d/134KFcL3tbGVxgTOSnreCOSr2cicbPuJFQkSTp3ZSRds/edit)
 
 ### April 29
-- PAIR 1: PAPER
+- PAIR 1: [Targeting protein-ligand neosurfaces using a generalizable deep learning approach](https://www.biorxiv.org/content/10.1101/2024.03.25.585721v1)
 
 ### May 1
-- Pair 2: PAPER
+- TRIO 2: PAPER
 
 ### May 6
-- TRIO 3: PAPER
+- PAIR 3: PAPER
 
 ### May 7
 - PAIR 4: PAPER
