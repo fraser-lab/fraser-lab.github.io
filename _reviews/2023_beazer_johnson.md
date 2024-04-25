@@ -8,5 +8,10 @@ image: "/static/img/reviews/2023_johnson.png"
 peer-review:
 - biorxiv_version: "2023.03.04.531015v2"
   disqus: "2ue0lv9"
+
+highlight:
+- title: "Assessing the laboratory performance of AI-generated enzymes"
+  journal: "Nature Biotechnology"
+  pdf: "https://www.nature.com/articles/s41587-024-02239-7.epdf?sharing_token=sCf38Mjzzk5N1KEPO7t5KtRgN0jAjWel9jnR3ZoTv0Mc6KwXCcmCYQ6v02pxFIdlIbF1Ej_4B_fbEhV_A7dyE495AJS2D64HvyfP7zRGLUEhmeSwHNBz5tpTlgTLyi7_txOgY9HAXZR5_UbyA30C9Nnlf--Yah7AebsfmsQRk4E%3D"
 ---
 
