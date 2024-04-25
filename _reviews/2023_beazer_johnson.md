@@ -9,6 +9,9 @@ peer-review:
 - biorxiv_version: "2023.03.04.531015v2"
   disqus: "2ue0lv9"
 
+published:
+- pmid: "38653796"
+
 highlight:
 - title: "Assessing the laboratory performance of AI-generated enzymes"
   journal: "Nature Biotechnology"
