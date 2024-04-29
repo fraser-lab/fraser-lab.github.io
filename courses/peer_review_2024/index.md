@@ -9,7 +9,7 @@ permalink: /peer_review/
 
 ## Spring 2024 Syllabus
 
-**Course Days/Hours/Locations:**  4/22 - BH413 - 3-5PM, 4/23 - BH413 - 3-5PM, 4/25 - BH413 - 3-4PM, 4/29 - BH41 - 3-5PM3, 5/1 - BH513 - 3-5PM, 5/6 - BH413 - 3-5PM, 5/7 - BH413 - 3-5PM
+**Course Days/Hours/Locations:**  4/22 - BH413 - 3-5PM, 4/23 - BH413 - 3-5PM, 4/25 - BH413 - 3-4PM, 4/29 - BH413 - 3-5PM, **5/1 - BH513 - 3-5PM**, 5/6 - BH413 - 3-5PM, 5/7 - BH413 - 3-5PM
 
 **Instructors:** [James Fraser](mailto:jfraser@fraserlab.com), [Willow Coyote-Maestas](mailto:willow.coyote-maestas@ucsf.edu)
 
@@ -110,7 +110,7 @@ After the round of sharing, the Discussion Leaders will present a joint talk sim
 ### April 29
 - PAIR 1: [Targeting protein-ligand neosurfaces using a generalizable deep learning approach](https://www.biorxiv.org/content/10.1101/2024.03.25.585721v1)
 
-### May 1
+### May 1 - class is in BH-513
 - TRIO 2: [Dissecting translation elongation dynamics through ultra-long tracking of single ribosomes](https://www.biorxiv.org/content/10.1101/2024.04.08.588516v1)
 
 ### May 6
