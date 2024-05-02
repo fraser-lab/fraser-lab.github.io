@@ -91,10 +91,11 @@ After the round of sharing, the Discussion Leaders will present a joint talk sim
 
 ### April 22
 - Intro to class, overview of preprints to review, assigning pairs, expectations for presentations and readers
-- [New developments in peer review](http://tinyurl.com/polkaucsf2023):
-  - [Jessica Polka](https://en.wikipedia.org/wiki/Jessica_Polka) - [Executive Director of ASAPbio](https://asapbio.org/dt_team/jessica-polka) - Jessica to join us on zoom
+- [New developments in peer review](https://docs.google.com/presentation/d/1Nynk84mch7Avs4E8ilox0zKN3knnEp1R_k2DweuNgvg/edit#slide=id.g244a3cc443b_0_846):
+  - [Jessica Polka](https://en.wikipedia.org/wiki/Jessica_Polka) - [Program Director for Open Science, Astera Institute and former Executive Director of ASAPbio](https://asapbio.org/dt_team/jessica-polka) - Jessica to join us on zoom
 
 ### April 23
+- [How to read a paper for peer review - adapted from HHMI TAP presentation](https://docs.google.com/presentation/d/1TC2RuZS-AaFM0-A-gUsss4bdwDYcZkHgSsK59baJQyc/edit?usp=sharing)
 - Writing and Receiving Peer Review and expecations for written reviews
   - pairings for papers to review
 - Why do we peer review and what makes good peer review?
