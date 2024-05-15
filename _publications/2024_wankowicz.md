@@ -15,5 +15,6 @@ links:
   url: "https://forms.gle/d47w29eGHeL1ejXw9"
 - name: "Retraction Watch - \"Nature earns ire over lack of code availability for Google DeepMind protein folding paper\""
   url: https://retractionwatch.com/2024/05/14/nature-earns-ire-over-lack-of-code-availability-for-google-deepmind-protein-folding-paper/
-
+- name: "Science - \"ScienceInsider: Limits on access to DeepMind’s new protein program trigger backlash\""
+  url: https://www.science.org/content/article/limits-access-deepmind-s-new-protein-program-trigger-backlash
 ---
