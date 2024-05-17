@@ -109,7 +109,8 @@ After the round of sharing, the Discussion Leaders will present a joint talk sim
   - Our running [google doc of cool preprints in high throughput biophysics](https://docs.google.com/document/d/134KFcL3tbGVxgTOSnreCOSr2cicbPuJFQkSTp3ZSRds/edit)
 
 ### April 29
-- PAIR 1: [Targeting protein-ligand neosurfaces using a generalizable deep learning approach](https://www.biorxiv.org/content/10.1101/2024.03.25.585721v1)
+- Maple N Chen and Kevin Alexander Estrada Alamo: [Targeting protein-ligand neosurfaces using a generalizable deep learning approach](https://www.biorxiv.org/content/10.1101/2024.03.25.585721v1)
+  - [Review](https://prereview.org/reviews/11188199)
 
 ### May 1 - class is in BH-513
 - TRIO 2: [Dissecting translation elongation dynamics through ultra-long tracking of single ribosomes](https://www.biorxiv.org/content/10.1101/2024.04.08.588516v1)
