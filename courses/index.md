@@ -46,7 +46,7 @@ This minicourse will focus on the practice of peer review of scientific manuscri
 - [2021 - Peer Review minicourse](/courses/peer_review_2021/)
 - [2022 - Peer Review minicourse](/courses/peer_review_2022/)
 - [2023 - Peer Review minicourse](/courses/peer_review_2023/)
-- [2024 - Peer Review minicourse](/courses/peer_review_2024/)
+- [2024 - Peer Review minicourse](/peer_review/)
 
 
 # Previously Taught:
