@@ -11,10 +11,12 @@ zenodo:
   - code: "11179893"
     description: "Open letter and endorsement list"
 links:
-- name: Link for endorsement signatures
+- name: Link to add endorsement signatures
   url: "https://forms.gle/d47w29eGHeL1ejXw9"
 - name: "Retraction Watch - \"Nature earns ire over lack of code availability for Google DeepMind protein folding paper\""
   url: https://retractionwatch.com/2024/05/14/nature-earns-ire-over-lack-of-code-availability-for-google-deepmind-protein-folding-paper/
 - name: "Science - \"ScienceInsider: Limits on access to DeepMind’s new protein program trigger backlash\""
   url: https://www.science.org/content/article/limits-access-deepmind-s-new-protein-program-trigger-backlash
+- name: "C&EN - \"AlphaFold 3 to offer structure prediction via web browser\""
+  url: https://cen.acs.org/analytical-chemistry/structural-biology/AlphaFold-3-offer-structure-prediction/102/i15
 ---
