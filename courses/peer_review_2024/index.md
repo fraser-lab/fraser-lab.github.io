@@ -116,7 +116,8 @@ After the round of sharing, the Discussion Leaders will present a joint talk sim
 - TRIO 2: [Dissecting translation elongation dynamics through ultra-long tracking of single ribosomes](https://www.biorxiv.org/content/10.1101/2024.04.08.588516v1)
 
 ### May 6
-- PAIR 3: [Highly multiplexed design of an allosteric transcription factor to sense novel ligands](https://www.biorxiv.org/content/10.1101/2024.03.07.583947v2)
+- Zachary Mullin-Bernstein and Karson Chrispens: [Highly multiplexed design of an allosteric transcription factor to sense novel ligands](https://www.biorxiv.org/content/10.1101/2024.03.07.583947v2)
+  - [Review](https://prereview.org/reviews/11247730)
 
 ### May 7
 - PAIR 4: [A complete map of specificity encoding for a partially fuzzy protein interaction](https://www.biorxiv.org/content/10.1101/2024.04.25.591103v1)
