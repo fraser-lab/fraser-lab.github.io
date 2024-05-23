@@ -19,4 +19,8 @@ links:
   url: https://www.science.org/content/article/limits-access-deepmind-s-new-protein-program-trigger-backlash
 - name: "C&EN - \"AlphaFold 3 to offer structure prediction via web browser\""
   url: https://cen.acs.org/analytical-chemistry/structural-biology/AlphaFold-3-offer-structure-prediction/102/i15
+- name: "Nature Editorial - \"AlphaFold3 — why did Nature publish it without its code?\""
+  url: https://www.nature.com/articles/d41586-024-01463-0
+- name: "Nature News - \"Who will make AlphaFold3 open source? Scientists race to crack AI model\""
+  url: https://www.nature.com/articles/d41586-024-01555-x
 ---
