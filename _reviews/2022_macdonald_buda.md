@@ -9,4 +9,7 @@ peer-review:
 - biorxiv_version: "2022.09.07.505194v1"
   prereview_beta: "doi-10.1101-2022.09.07.505194"
 
+published:
+  - pmid: "38129396"
+
 ---
