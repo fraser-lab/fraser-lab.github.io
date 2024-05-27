@@ -2,7 +2,7 @@
 title: "The Herbicide Acetochlor Causes Lipid Peroxidation by Inhibition of Glutathione Peroxidase 4"
 date: "2023-05-26"
 authors: "Mesmar F, Muhsen M, Tourigny JP, Tennessen JM, Bondesson M"
-reviewers: "Byun D, Zheng J, Macdonald C, Fraser J"
+reviewers: "Byun D, Zheng J, Macdonald CB, Fraser J"
 image: "/static/img/reviews/2023_mesmar.png"
 
 peer-review:

@@ -3,7 +3,7 @@ title: "Mutation in glutamate transporter homologue GltTk provides insights into
 date: "2023-03-31"
 authors: "Colucci E, Anshari ZR, Patiño-Ruiz MF, Nemchinova M, Whittaker J, Slotboom DJ, Guskov A"
 
-reviewers: "Macdonald CM"
+reviewers: "Macdonald CB"
 image: "/static/img/reviews/2023_colucci.png"
 
 peer-review:

@@ -3,7 +3,7 @@ title: "Nitrogenase resurrection and the evolution of a singular enzymatic mecha
 date: "2023-02-17"
 authors: "Garcia AK, Harris DF, Rivier AJ, Carruthers BM, Pinochet-Barros A, Seefeldt L, Kaçar B"
 
-reviewers: "Macdonald CM, Lee S"
+reviewers: "Macdonald CB, Lee S"
 image: "/static/img/reviews/2023_garcia.png"
 
 peer-review:

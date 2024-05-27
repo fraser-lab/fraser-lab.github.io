@@ -2,7 +2,7 @@
 title: "Comprehensive fitness landscape of SARS-CoV-2 Mpro reveals insights into viral resistance mechanisms"
 date: "2022-06-20"
 authors: "Flynn JM, Samant N, Schneider-Nachum G, Barkan DT, Yilmaz NK, Schiffer CA, Moquin SA, Dovala D, Bolon DNA"
-reviewers: "Macdonald C, Fraser JS"
+reviewers: "Macdonald CB, Fraser JS"
 image: "/static/img/reviews/2022_flynn.png"
 abstract: ""
 
