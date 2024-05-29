@@ -8,11 +8,9 @@ pmcid:
 doi: "10.5281/zenodo.11179893"
 pdf: 
 zenodo:
-  - code: "11179893"
+  - code: "11391920"
     description: "Open letter and endorsement list"
 links:
-- name: Link to add endorsement signatures
-  url: "https://forms.gle/d47w29eGHeL1ejXw9"
 - name: "Retraction Watch - \"Nature earns ire over lack of code availability for Google DeepMind protein folding paper\""
   url: https://retractionwatch.com/2024/05/14/nature-earns-ire-over-lack-of-code-availability-for-google-deepmind-protein-folding-paper/
 - name: "Science - \"ScienceInsider: Limits on access to DeepMind’s new protein program trigger backlash\""
