@@ -21,4 +21,6 @@ links:
   url: https://www.nature.com/articles/d41586-024-01463-0
 - name: "Nature News - \"Who will make AlphaFold3 open source? Scientists race to crack AI model\""
   url: https://www.nature.com/articles/d41586-024-01555-x
+- name: "Undark - Why AlphaFold 3 Needs to Be Open Source"
+  url: https://undark.org/2024/06/06/opinion-alphafold-3-open-source/
 ---
