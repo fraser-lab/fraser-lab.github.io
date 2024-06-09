@@ -113,7 +113,8 @@ After the round of sharing, the Discussion Leaders will present a joint talk sim
   - [Review](https://prereview.org/reviews/11188199)
 
 ### May 1 - class is in BH-513
-- TRIO 2: [Dissecting translation elongation dynamics through ultra-long tracking of single ribosomes](https://www.biorxiv.org/content/10.1101/2024.04.08.588516v1)
+- Yifei Chen and 2 anonymous students: [Dissecting translation elongation dynamics through ultra-long tracking of single ribosomes](https://www.biorxiv.org/content/10.1101/2024.04.08.588516v1)
+   - [Review](https://prereview.org/reviews/11398206)
 
 ### May 6
 - Zachary Mullin-Bernstein and Karson Chrispens: [Highly multiplexed design of an allosteric transcription factor to sense novel ligands](https://www.biorxiv.org/content/10.1101/2024.03.07.583947v2)
