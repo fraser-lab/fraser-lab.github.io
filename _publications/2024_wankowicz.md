@@ -23,6 +23,6 @@ links:
   url: https://www.nature.com/articles/d41586-024-01555-x
 - name: "Undark - Why AlphaFold 3 Needs to Be Open Source"
   url: https://undark.org/2024/06/06/opinion-alphafold-3-open-source/
-- name: "GEN/EDGE - AlphaFold 3 Angst: Limited Accessibility Stirs Outcry from Researchers""
+- name: "GEN/EDGE - AlphaFold 3 Angst: Limited Accessibility Stirs Outcry from Researchers"
   url: https://www.genengnews.com/topics/artificial-intelligence/alphafold-3-angst-limited-accessibility-stirs-outcry-from-researchers/
 ---
