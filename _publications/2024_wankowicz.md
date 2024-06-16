@@ -11,6 +11,8 @@ zenodo:
   - code: "11391920"
     description: "Open letter and endorsement list"
 links:
+- name: "AlphaFold3 Validation and the Role of Journals"
+  url: https://fraserlab.com/2024/05/22/AlphaFold3/
 - name: "Retraction Watch - \"Nature earns ire over lack of code availability for Google DeepMind protein folding paper\""
   url: https://retractionwatch.com/2024/05/14/nature-earns-ire-over-lack-of-code-availability-for-google-deepmind-protein-folding-paper/
 - name: "Science - \"ScienceInsider: Limits on access to DeepMind’s new protein program trigger backlash\""
