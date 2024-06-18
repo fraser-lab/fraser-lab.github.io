@@ -121,4 +121,5 @@ After the round of sharing, the Discussion Leaders will present a joint talk sim
   - [Review](https://prereview.org/reviews/11247730)
 
 ### May 7
-- PAIR 4: [A complete map of specificity encoding for a partially fuzzy protein interaction](https://www.biorxiv.org/content/10.1101/2024.04.25.591103v1)
+- Beniamin Krupkin and Minh Le: [A complete map of specificity encoding for a partially fuzzy protein interaction](https://www.biorxiv.org/content/10.1101/2024.04.25.591103v1)
+  - [Review](https://prereview.org/reviews/12053815)
