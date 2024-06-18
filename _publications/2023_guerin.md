@@ -4,8 +4,8 @@ authors: "Guérin CM, Vinchent A, Damour I, Laratte A, Tellier R, **Estevam GO**
 journal: 
 pub_date: "2023-11-02"
 image: /static/img/pub/2023_guerin.png
-pmid: 
-#pmcid: 
+pmid: "37965202"
+pmcid: "PMC10635098"
 biorxiv: "2023.11.03.565283"
 #biorxiv_version: "2023.11.03.565283"
 #pdf: http://cdn.fraserlab.com/publications/2023_guerin.pdf
