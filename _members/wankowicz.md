@@ -1,16 +1,16 @@
 ---
 name: Stephanie Wankowicz, Ph.D.
 startdate: [2019-06-06, 2023-03-31]
-enddate: [2023-03-31,]
+enddate: [2023-03-31,2024-07-01]
 image: /static/img/members/Wankowicz.jpg
 altimage: /static/img/members/Wankowicz_pb.jpg
 position: Staff Scientist
-timeline_positions: ["Graduate Student (2019-2023)", "Staff Scientist (2023-)"]
-#subsequent:  update once you become an alumnus
+timeline_positions: ["Graduate Student (2019-2023)", "Staff Scientist (2023-2024)"]
+subsequent: Assistant Professor - [Wankowicz Lab @ Vanderbilt University](https://wankowiczlab.com/)
 pronouns: she/her/hers
 email: stephanie.wankowicz (at) ucsf.edu
 scholar: WJ9lxYMAAAAJ
-website: https://stephaniewankowicz.github.io/
+website: https://wankowiczlab.com/
 UCSF:
 twitter: stephanie_mul
 linkedin: stephanie-mullane-wankowicz-2657a726
