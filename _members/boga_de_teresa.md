@@ -6,7 +6,6 @@ image: /static/img/members/Boga_De_Teresa.jpg
 altimage: /static/img/members/Boga_De_Teresa_pb.jpg
 position: UC Berkeley Undergraduate Intern
 timeline_positions: ["Research Associate (2023-2024)"]
-subsequent:  Undergraduate at UC Berkeley majoring in chemical engineering
 pronouns: she/her/hers
 email: martinabdt (at) berkeley.edu
 scholar:
