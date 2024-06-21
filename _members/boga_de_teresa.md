@@ -4,7 +4,7 @@ startdate: [2023-09-01]
 enddate: [2024-05-01]
 image: /static/img/members/Boga_De_Teresa.jpg
 altimage: /static/img/members/Boga_De_Teresa_pb.jpg
-position: Undergraduate Researcher
+position: UC Berkeley Undergraduate Intern
 timeline_positions: ["Research Associate (2023-2024)"]
 subsequent:  Undergraduate at UC Berkeley majoring in chemical engineering
 pronouns: she/her/hers
