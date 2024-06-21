@@ -9,7 +9,7 @@ subsequent:  Lecturer of Biosciences at Rice University
 pronouns: he/him/his
 email: olmos (at) fraserlab.com
 scholar: exW-ul8AAAAJ
-website:
+website: https://profiles.rice.edu/faculty/jose-luis-olmos-jr
 UCSF:
 twitter: joseluisolmosjr
 linkedin: jose-olmos-120b9a144
