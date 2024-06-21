@@ -2,12 +2,12 @@
 title: "Uncovering Protein Ensembles: Automated Multiconformer Model Building for X-ray Crystallography and Cryo-EM"
 authors: "**Wankowicz SA**, **Ravikumar A**, Sharma S, Riley B, Raju A, **Hogan DW**, van den Bedem H, Keedy DA, **Fraser JS**"
 journal: eLife
-pub_date: "2024-04-06" #Date of publication. Change from Biorxiv date to Journal date once accepted
+pub_date: "2024-06-21" #Date of publication. Change from Biorxiv date to Journal date once accepted
 image: "/static/img/pub/2023_wankowicz.jpg" #Minimum dimensions TBD
-pmid: 
+pmid: "38904665"
 pmcid: 
 biorxiv_version: "2023.06.28.546963v3"
-pdf: 
+pdf: "http://cdn.fraserlab.com/publications/2024_wankowicz_2.pdf"
 github:
 - description: qFit
   url: ExcitedStates/qfit-3.0
