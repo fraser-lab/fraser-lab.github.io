@@ -5,7 +5,7 @@ journal: eLife
 pub_date: "2024-06-21" #Date of publication. Change from Biorxiv date to Journal date once accepted
 image: "/static/img/pub/2023_wankowicz.jpg" #Minimum dimensions TBD
 pmid: "38904665"
-pmcid: 
+pmcid: "PMC11192534"
 biorxiv_version: "2023.06.28.546963v3"
 pdf: "http://cdn.fraserlab.com/publications/2024_wankowicz_2.pdf"
 github:
