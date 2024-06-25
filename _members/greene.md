@@ -5,11 +5,11 @@ enddate: [2023-08-31]
 image: /static/img/members/greene.jpg
 altimage: /static/img/members/greene_pb.jpg
 position: Postdoctoral Scholar ([F32 NRSA](https://grants.nih.gov/grants/guide/contacts/parent_F32.html))
-subsequent: Assistant Professor - Greene Lab @ SFSU
+subsequent: Assistant Professor - [Greene Lab @ SFSU](https://www.egreenelab.org/)
 pronouns: he/him/his #personal pronouns
 email: Eric.Greene (at) ucsf.edu #Preferred public email address
 scholar: pKxedkEAAAAJ #Google Scholar User ID
-website: #https://website.com/
+website: https://www.egreenelab.org/
 UCSF: #XXXXXXXX #UCSF Profile ID - Employees only
 twitter: EricRGreene1
 linkedin: eric-greene-1b169847

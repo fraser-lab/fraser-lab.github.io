@@ -5,7 +5,7 @@ enddate: [2018-02-09]
 image: /static/img/members/hudson.jpg
 altimage: /static/img/members/hudson_pb.jpg
 position: Postdoctoral Fellow
-subsequent: Scientist @ Relay Therapeutics
+subsequent: Scientist @ Relay Therapeutics, Principal Scientist @ Remix Therapeutics
 pronouns: she/her/hers
 email: brandimhudson (at) gmail.com
 scholar: UQ7FMs8AAAAJ
