@@ -7,7 +7,7 @@ image: "/static/img/pub/2023_wankowicz_3.png"
 pmid: "38958015"
 pmcid: 
 chemrxiv: 2023-ggd1w-v3
-pdf: http://cdn.fraserlab.com/publications/2023_wankowicz_3.pdf"
+pdf: "http://cdn.fraserlab.com/publications/wankowicz_2023_3.pdf"
 github:
 links:
 - name: "Celebratory tweetstorm from Stephanie Wankowicz"
