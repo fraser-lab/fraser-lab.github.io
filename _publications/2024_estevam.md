@@ -15,6 +15,8 @@ github:
 links:
   - name: Jura lab @ UC San Francisco
     url: https://cvri.ucsf.edu/~jura/
-  - name: Collisson lab @ UC San Francisco
-    url: https://cancer.ucsf.edu/people/collisson.eric
+  - name: Collisson lab @ Fred Huch Cancer Center
+    url: https://www.fredhutch.org/en/faculty-lab-directory/collisson-eric.html
+  - name: "Celebratory Tweetstorm/Xstorm? by Gabriella Estevam"
+    url: "https://x.com/GabbyEstevam/status/1814186011301404890"
 ---
