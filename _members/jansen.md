@@ -4,7 +4,8 @@ startdate: [2024-01-01]
 enddate: [2024-07-10]
 image: /static/img/members/jansen.jpg
 altimage: /static/img/members/jansen_pb.jpg
-position: Junior Specialist
+position: Visiting Technician
+current: TU Delft
 #subsequent:  update once you become an alumnus
 pronouns: he/him/his
 email: flip.jansen (at) ucsf.edu
