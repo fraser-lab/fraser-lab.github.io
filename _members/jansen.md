@@ -1,7 +1,7 @@
 ---
 name: Flip Jansen
 startdate: [2024-01-01]
-enddate: []
+enddate: [2024-07-10]
 image: /static/img/members/jansen.jpg
 altimage: /static/img/members/jansen_pb.jpg
 position: Junior Specialist
