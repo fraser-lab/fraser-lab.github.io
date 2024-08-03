@@ -1,4 +1,4 @@
-# fraser-lab.github.io
+# cgenomicslab.github.io
 ====================
 
 Technologies this website uses:  
