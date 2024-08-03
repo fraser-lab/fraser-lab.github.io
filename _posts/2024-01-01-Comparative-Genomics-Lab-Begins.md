@@ -1,6 +1,6 @@
 ---
-title: The Fraser lab begins!
-author: James Fraser
+title: The Comparative Genomics Lab begins!
+author: Alexandros Pittis
 layout: post
 group: news
 ---
