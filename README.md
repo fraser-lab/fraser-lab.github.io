@@ -9,13 +9,28 @@ Technologies this website uses:
 
 Before pushing changes, please check that they will work on your system first with the plugins included in the Gemfile using the bundler tool (results served at [localhost:4000](localhost:4000)):
 
-    sudo gem install bundler
-    bundle install
-    bundle exec jekyll serve
-    
-To create a conda environment to locally test and host, the following should suffice:
+Getting started
+===============
 
-    conda create -n jekyll -c conda-forge rb-jekyll
-    conda activate jekyll
+ 1. Install all [prerequisites](https://jekyllrb.com/docs/installation/)
+ 1. Install the jekyll and bundler gems
+    ```
+    gem install jekyll bundler
+    ```
+ 1. Clone this repository
+    ```
+    git clone git@github.com:cgenomicslab/cgenomicslab.github.io.git
+    ```
+ 1. Change into your new directory
+    ```
+    cd cgenomicslab.github.io
+    ```
+1.  Install missing gems
+    ```
     bundle install
+    ```
+ 1. Build the site and make it available on a local server
+    ```
     bundle exec jekyll serve
+    ```
+ 1. Browse to `http://localhost:4000`

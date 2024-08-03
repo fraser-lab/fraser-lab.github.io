@@ -1,19 +1,19 @@
 ---
-title: Fraser Lab
+title: Comparative Genomics Lab
 layout: home
 group: home
 ---
 
-# Welcome to the Fraser Lab!
+# Welcome to the (**under construction based on fraserlab.com**) Comparative Genomics Lab web space!
 {: .display-4}
 <br>
-We are part of the [Department of Bioengineering and Therapeutic Sciences](http://bts.ucsf.edu/), the [Macromolecular Structure Group](http://msg.ucsf.edu/), and the [California Institute of Quantitative Biosciences (QB3)](http://qb3.org/).
+The [Comparative Genomics Lab](https://www.imbb.forth.gr/en/research-en/item/7417-alexandros-pittis) at IMBB-FORTH is led by Alexandros Pittis. We are part of the [Evolution, Development & Cell Biology](https://www.imbb.forth.gr/en/research-en/evolution-development-cell-biology) division.
 {: .welcomefont}
 
-![Fraser lab logo](static/img/logo/jf_retreat_logo.svg){:style="max-width: 100%; height: auto;"}
+[//]: # ![Comparative Genomics Lab logo](static/img/logo/jf_retreat_logo.svg){:style="max-width: 100%; height: auto;"}
 
-Research in the lab is focused on discovering the fundamental principles of macromolecular structure and dynamics.  We are interested in defining conformational states that are essential for function and understanding how conformational transitions couple to biological mechanisms.
+We are an interdisciplinary biology research group at the Institute of Molecular Biology and Biotechnology of the Foundation for Research and Technology Hellas (IMBB-FORTH) in Heraklion, Crete. Research in the lab is focused on computational biology, comparative genomics and single-cell transcriptomic methods to address questions on genome, protein/gene family, and cellular evolution. We are interested in the range of phenotypical and molecular adaptations across eukaryotic species, focusing on the study of the molecular complexity and diversity of neuronal cell types and the animal nervous systems.
 {: .welcomefont}
 
-We are located in Genentech Hall at the Mission Bay Campus of UCSF.
+We are located at the [main building](https://maps.app.goo.gl/qegs4c2FsbGV29r76) of FORTH.
 {: .welcomefont}
