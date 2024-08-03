@@ -1,7 +1,7 @@
-name: "Fraser Lab"
-description: "This is the official web page for the James Fraser Lab at UCSF."
+name: "Comparative Genomics Lab @ IMBB-FORTH"
+description: "This is the official web page for the Comparative Genomics Lab at the Institute of Molecular Biology and Biotechnology in Crete."
 
-url: "http://fraserlab.com"
+url: "http://cgenomicslab.com"
 
 paginate: 5
 plugins: [jekyll-paginate]
