@@ -1,5 +1,5 @@
 ---
-title: Comparative Genomics Lab
+title: ComparativeGenomicsLab
 layout: home
 group: home
 ---
