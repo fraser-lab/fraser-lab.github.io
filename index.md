@@ -15,5 +15,5 @@ The [Comparative Genomics Lab](https://www.imbb.forth.gr/en/research-en/item/741
 We are an interdisciplinary biology research group at the Institute of Molecular Biology and Biotechnology of the Foundation for Research and Technology Hellas (IMBB-FORTH) in Heraklion, Crete. Research in the lab is focused on computational biology, comparative genomics and single-cell transcriptomic methods to address questions on genome, protein/gene family, and cellular evolution. We are interested in the range of phenotypical and molecular adaptations across eukaryotic species, focusing on the study of the molecular complexity and diversity of neuronal cell types and the animal nervous systems.
 {: .welcomefont}
 
-We are located at the [main building](https://maps.app.goo.gl/qegs4c2FsbGV29r76) of FORTH.
+We are located at the [main building](https://maps.app.goo.gl/8AmNF7YQPdxtm8mK7) of FORTH.
 {: .welcomefont}
