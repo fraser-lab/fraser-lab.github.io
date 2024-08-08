@@ -3,7 +3,7 @@ name: Ann Nguyen
 startdate: [2024-07-15]
 #enddate: []
 image: /static/img/members/nguyen.jpg #365 x 365 pixels, 72 dpi
-#altimage: 
+altimage: /static/img/members/nguyen_pb.jpg
 position: Junior Specialist
 #subsequent:  update once you become an alumnus
 pronouns: she/her/hers
