@@ -20,10 +20,10 @@ group: publications
 		{% else %}
 			{% if publication.biorxiv %}
 			<i>Biorxiv,</i>
-				{{publication.biorxiv | split: "." | first }}
+				{{publication.pub_date | split: "-" | first }}
 			{% elsif publication.biorxiv_version %}
 			<i>Biorxiv,</i>
-				{{publication.biorxiv_version | split: "." | first }}
+				{{publication.pub_date | split: "-" | first }}
 			{% else %}
 			<i>Preprint,</i>
 				{{publication.pub_date | split: "-" | first }}
