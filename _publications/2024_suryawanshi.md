@@ -1,6 +1,6 @@
 ---
 title: "The Mac1 ADP-ribosylhydrolase is a Therapeutic Target for SARS-CoV-2"
-authors: "Suryawanshi RK&#42;, Jaishankar P&#42;, Correy GJ&#42;, Rachman MM&#42;, O'Leary PC&#42;, Taha TY&#42;, Zapatero-Belinchón FJ, McCavitt-Malvido M, Doruk YU, Stevens MGV, Diolati ME, Jogalekar MP, Richards AL, Montano M, Rosecrans J, Matthay M, Togo T, Gonciarz RL, Gopalkrishnan S, Neitz RJ, Krogan NJ, Swaney DL, Shoichet BK, Ott M#, Renslo AR#, Ashworth A#, Fraser JS#"
+authors: "Suryawanshi RK&#42;, Jaishankar P&#42;, **Correy GJ&#42;**, Rachman MM&#42;, O'Leary PC&#42;, Taha TY&#42;, Zapatero-Belinchón FJ, McCavitt-Malvido M, Doruk YU, Stevens MGV, Diolati ME, Jogalekar MP, Richards AL, Montano M, Rosecrans J, Matthay M, Togo T, Gonciarz RL, Gopalkrishnan S, Neitz RJ, Krogan NJ, Swaney DL, Shoichet BK, Ott M, Renslo AR, Ashworth A, **Fraser JS**"
 #journal: 
 pub_date: "2024-08-08"
 image: "/static/img/pub/2024_suryawanshi.jpg"
