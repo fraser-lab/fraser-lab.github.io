@@ -15,4 +15,6 @@ links:
   url: https://churchman.med.harvard.edu/
 - name: Fujimori lab @ UC San Francisco
   url: https://fujimorilab.ucsf.edu
+- name: "Celebratory Tweetstorm/Xstorm? by Brianna Bibel"
+  url: https://x.com/biochem_bri/status/1826727692861051304?s=46&t=vURdPMsf4ZA3xr27p7hPuw
 ---
