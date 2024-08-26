@@ -1,7 +1,7 @@
 ---
 name: Donovan Trinidad
 startdate: [2021-08-03]
-enddate: []
+enddate: [2024-08-31]
 image: /static/img/members/trinidad.jpg #365 x 365 pixels, 72 dpi
 altimage: /static/img/members/trinidad_pb.jpg  #365 x 365 pixels, 72 dpi
 position: "Affiliate, Graduate Student, [BMS](https://bms.ucsf.edu) ([F31 NRSA](https://www.nigms.nih.gov/))"
