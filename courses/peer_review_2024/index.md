@@ -5,7 +5,7 @@ group: courses
 permalink: /peer_review/
 ---
 
-# Peer Review in the Life Sciences
+# Peer Review in the High Throughput Biophysics
 
 ## Spring 2024 Syllabus
 
