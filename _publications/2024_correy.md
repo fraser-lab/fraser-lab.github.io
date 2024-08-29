@@ -147,6 +147,15 @@ pdbs:
   - "9D6G"
   - "9D6H"
   - "9D6I"
+zenodo:
+  - code: "13368547"
+    description: "PanDDA analysis of ligand screen against the NSP3 macrodomain of SARS-CoV-2: ligands from FrankenROCS fragment-linking pipeline and subsequent optimization of AVI-313"
+github:
+- description: "FrankenROCS"
+  url: PatWalters/frankenrocs
+github:
+- description: "Thompson Sampling"
+  url: PatWalters/TS
 links:
   - name: "Relay Therapeutics"
     url: https://relaytx.com/
