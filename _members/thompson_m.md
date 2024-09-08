@@ -13,7 +13,7 @@ website: https://thompsonlab.science
 UCSF: michael.c.thompson
 twitter: MThompsonLab
 linkedin: michael-thompson-612796ab
-github: miket928
+github: mthompson-lab
 orcid: 0000-0002-6099-2027
 description: "Mike's longstanding research interest lies in understanding how proteins function by dynamically interconverting between different conformational states. He was introduced to structural biology and X-ray crystallography as an undergraduate at UC Berkeley, where he was a research assistant in [Tom Alber](http://fraserlab.com/2014/04/04/Tom-Alber/)’s laboratory. In 2014, he received his Ph.D. in [Biochemistry and Molecular Biology](http://bmsb.chem.ucla.edu/) from UCLA under the direction of [Dr. Todd Yeates](http://yeateslab.mbi.ucla.edu/). As a graduate student, Mike investigated the role of conformational polymorphism in expanding the functional diversity of a key family of proteins that define a widespread class of prokaryotic organelles collectively known as “bacterial microcompartments.”
 
