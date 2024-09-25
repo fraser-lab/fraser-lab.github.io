@@ -65,7 +65,8 @@ The Fraser lab recognizes that [the University of California San Francisco sits 
 2. Sign in at security for a meeting with Dr. James Fraser (Office - Genentech Hall S472E).
 3. Take the elevator or staircase to the 4th floor.
 4. Walk west down the hall. The large windows facing the courtyard will be on your right. If the floor color changes to grey, you have gone the wrong way and are now in Byers Hall. Turn around and walk back towards Genentech Hall.
-5. You will encounter an intersection. Make a left (south) and head towards the S401-484 area.
+5. Keep walking until you are in a full hallway (past the large chandellier to your right in the atrium) and keep walking down the hall.
+5. You will encounter a 4 way intersection. Make a left (south) and head towards the S401-484 area.
 6. You should find a break room. James's office is through the clear doors straight ahead. The Fraser lab is on the right.
 
 <img class="img-fluid" src="/static/img/map_to_mission_bay.png" alt="Map of Mission Bay">
