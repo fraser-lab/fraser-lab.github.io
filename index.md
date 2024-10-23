@@ -1,10 +1,10 @@
 ---
-title: ComparativeGenomicsLab
+title: CGLab
 layout: home
 group: home
 ---
 
-# Comparative Genomics Lab web space! <br>
+# Comparative Genomics Lab page! <br>
 (under construction based on fraserlab.com)
 {: .display-6}
 <br>
