@@ -1,5 +1,5 @@
 ---
-title: Join the Comparative Genomics Lab
+title: Join CGL
 layout: default
 group: join
 ---
@@ -15,7 +15,7 @@ We are always in the market for motivated and talented people, even if we do not
 <br/>
 
 
-##### The Fraser Lab participates in the following UoC postgraduate programs:
+##### The Comparative Genomics Lab participates in the following UoC postgraduate programs:
   * **[MSc program in "Bioinformatics"](https://bioinfo-grad.gr/en/)**: The program leads to the award of a Master's of Science degree (M.Sc.) in "Bioinformatics" after the successful completion of four (4) academic semesters. The MSc in Bioinformatics aims at a highly competitive, interdisciplinary and international audience. Lectures and practical classes will be taught in English by professors of the University of Crete Faculties of Medicine, Biology, Computer Science and Mathematics as well as by experienced researchers from FORTH (Crete) and HCMR Research Centers.
   * **[MSc program in Molecular Biology and Biomedicine](https://www.imbb.forth.gr/mbb/index.php/en/)**: The Graduate Programme in Molecular Biology and Biomedicine (MBB) has been established and runs jointly by the Departments of Biology and Medicine, University of Crete and The Institute of Molecular Biology and Biotechnology (IMBB) of the Foundation for Research and Technology Hellas (FORTH). The collaborating partners have international reputation in cutting edge research in molecular biology and biomedicine and participate actively in educational training and research activities of the Programme.
 
