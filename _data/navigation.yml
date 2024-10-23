@@ -2,33 +2,33 @@
   link: "/"
   group: home
 
-- name: research
-  link: "/research"
-  group: research
+# - name: research
+#   link: "/research"
+#   group: research
 
-- name: publications
-  link: "/publications"
-  group: publications
+# - name: publications
+#   link: "/publications"
+#   group: publications
 
-- name: reviews
-  link: "/reviews"
-  group: reviews
+# - name: reviews
+#   link: "/reviews"
+#   group: reviews
 
-- name: members
-  link: "/members"
-  group: members
+# - name: members
+#   link: "/members"
+#   group: members
 
-- name: teaching
-  link: "/courses"
-  group: courses
+# - name: teaching
+#   link: "/courses"
+#   group: courses
 
-- name: philosophy
-  link: "/philosophy"
-  group: philosophy
+# - name: philosophy
+#   link: "/philosophy"
+#   group: philosophy
 
-- name: news
-  link: "/news"
-  group: news
+# - name: news
+#   link: "/news"
+#   group: news
 
 - name: join
   link: "/join"
@@ -38,6 +38,6 @@
   link: "/contact"
   group: contact
 
-- name: private
-  link: "https://sites.google.com/fraserlab.com/fraserlab-private/"
-  group: private
+# - name: private
+#   link: "https://sites.google.com/fraserlab.com/fraserlab-private/"
+#   group: private
