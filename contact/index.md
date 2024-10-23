@@ -47,11 +47,9 @@ group: contact
 
 </div>
 
-## Land Acknowledgement Statement
+<img class="img-fluid" src="/static/forth_dramatic.jpg" alt="FORTH main building - Copyright: Christos Tsoumplekas">
 
-The Fraser lab recognizes that [the University of California San Francisco sits on the unceded land of the Ramaytush Ohlone (pronounced Rah-mah-tush O-lone-ee) peoples, the original inhabitants of the San Francisco Peninsula](https://diversity.ucsf.edu/ucsf-land-acknowledgment). As settlers on this land, we want to recognize the historic, and ongoing, discrimination and violence inflicted upon Indigenous people in North America. Please read our [full statement](/land_ack).
-
-# Directions to the Fraser Lab
+# Directions to the Comparative Genomics Lab @ IMBB-FORTH
 ### The Mission Bay Campus can be reached:  
 * #### Public Transportation:
   * **Option 1**: Exit BART at the 16th St Station and wait for the free [UCSF Red shuttle](https://campuslifeservices.ucsf.edu/upload/transportation/files/Red.pdf) (weekdays only) that stops directly outside [what was once a Burger King and now has lovely graffiti](https://www.google.com/maps/@37.765092,-122.419164,3a,75y,5.38h,82.64t/data=!3m4!1e1!3m2!1sH_jzIrhuF8wnnEp0duvIEQ!2e0).
