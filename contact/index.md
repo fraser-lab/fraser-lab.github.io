@@ -4,18 +4,19 @@ layout: default
 group: contact
 ---
 
-# Contact the Comparative Genomics Lab
+# Contact us
 
 
 <div class="row">
 
 <div class="col-md-4">
 
-  <h4>Lab Area </h4>
+  <h4>Lab space </h4>
   [Main building of the Foundation for Research and Technology-Hellas (FORTH) in Heraklion](https://main.admin.forth.gr/en/content/How-to-find-us.102/)<br>
   Ν. Plastira 100, Vassilika Vouton, Main building, Floor -2, Room Δ030<br>
   GR - 700 13, Heraklion, Crete<br>
-  tel: +30 2810 39 1024
+  tel: +30 2810 39 1024<br>
+  [Google maps](https://maps.app.goo.gl/KR1YEVn2A74BcRrM8){:target="_blank"}
 
 </div>
 
@@ -48,6 +49,3 @@ group: contact
 </div>
 
 <img class="img-fluid" src="/static/forth_dramatic.jpg" alt="FORTH main building - Copyright: Christos Tsoumplekas">
-
-# How to find us
-* #### [Lab location in google maps](https://maps.app.goo.gl/KR1YEVn2A74BcRrM8){:target="_blank"}
