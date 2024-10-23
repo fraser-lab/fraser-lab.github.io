@@ -50,5 +50,4 @@ group: contact
 <img class="img-fluid" src="/static/forth_dramatic.jpg" alt="FORTH main building - Copyright: Christos Tsoumplekas">
 
 # How to find us
-### 
-* #### [Lab location in google maps](https://maps.app.goo.gl/KR1YEVn2A74BcRrM8)
+* #### [Lab location in google maps](https://maps.app.goo.gl/KR1YEVn2A74BcRrM8){:target="_blank"}
