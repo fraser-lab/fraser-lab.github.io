@@ -1,5 +1,5 @@
 ---
-title: The Comparative Genomics Lab begins!
+title: Getting started!
 author: Alexandros Pittis
 layout: post
 group: news
