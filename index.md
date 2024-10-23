@@ -16,5 +16,5 @@ The [Comparative Genomics Lab](https://www.imbb.forth.gr/en/research-en/item/741
 Research in the lab is focused on computational biology, comparative genomics and single-cell transcriptomic methods to address questions on genome, protein/gene family, and cellular evolution.
 {: .welcomefont}
 
-We are located at the [main building](https://maps.app.goo.gl/8AmNF7YQPdxtm8mK7) of FORTH.
+We are located at the [main building](https://maps.app.goo.gl/8AmNF7YQPdxtm8mK7){:target="_blank"} of FORTH.
 {: .welcomefont}
