@@ -6,7 +6,7 @@ group: join
 
 # Join the Comparative Genomics Lab @ IMBB-FORTH
 
-Our lab welcomes applicants background and we are committed to maintaining a supportive and collaborative lab environment.
+Our lab welcomes applicants from any background and we are committed to maintaining a supportive and collaborative lab environment.
 
 We are always in the market for motivated and talented people, even if we do not have an open position currently advertised. We are interested in engaging with you in a conversation about your scientific background and goals for your future career (in academia, industry, or other ventures). We strive to provide high standards training across a wide range of computational and experimental techniques. If interested please send your CV/Resume to [Dr. Alexandros Pittis](/contact).
 
