@@ -28,8 +28,8 @@ group: contact
   [Institute of Molecular Biology and Biotechnology (IMBB-FORTH)](https://www.imbb.forth.gr/en/)<br>
   Ν. Plastira 100, Vassilika Vouton, Main building, Floor -2, Room Δ031<br>
   GR - 700 13, Heraklion, Crete<br>
-  email: alexandros.pittis (at) imbb.forth.gr <br>
-  email: alexandros.pittis (at) gmail.com <br>
+  email: alexandros.pittis [at] imbb.forth.gr <br>
+  email: alexandros.pittis [at] gmail.com <br>
   tel: +30 2810 39 1024
 
 </div>
