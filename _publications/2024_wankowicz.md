@@ -1,8 +1,8 @@
 ---
 title: "AlphaFold3 Transparency and Reproducibility"
 authors: "**Wankowicz SA**, Beltrao P, Cravatt B, Dunbrack R, Gitter A, Lindorff-Larsen K, Ovchinnikov S, Polizzi N, Shoichet B, **Fraser JS**"
-pub_date: "2024-04-11" #Date of publication. Change from Biorxiv date to Journal date once accepted
-image: "/static/img/pub/2024_wankowicz.png" #Minimum dimensions TBD
+pub_date: "2024-04-11"
+image: "/static/img/pub/2024_wankowicz.png"
 pmid: 
 pmcid: 
 doi: "10.5281/zenodo.11179893"
@@ -27,4 +27,6 @@ links:
   url: https://undark.org/2024/06/06/opinion-alphafold-3-open-source/
 - name: "GEN/EDGE - AlphaFold 3 Angst: Limited Accessibility Stirs Outcry from Researchers"
   url: https://www.genengnews.com/topics/artificial-intelligence/alphafold-3-angst-limited-accessibility-stirs-outcry-from-researchers/
+- name: "Science - \"ScienceInsider: Google DeepMind releases code behind its most advanced protein prediction program\""
+  url: https://www.science.org/content/article/google-deepmind-releases-code-behind-its-most-advanced-protein-prediction-program
 ---

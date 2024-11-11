@@ -114,7 +114,14 @@ and in the <a href="https://fraserlab.com/peer_review/" target="_blank" alt = "P
 		<h6>Read the response</h6>
 		{% for record in review.response %}
 			{% if record.url %}
-			<li>Link: <a href="{{record.url}}" target="_blank" alt = "link: {{record.url}}">{{record.url}}</a></li>
+			<li>Link: <a href="{{record.url}}" target="_blank" alt = "link: {{record.url}}">
+				{% if record.description %}
+					{{record.description}}
+				{% else%}
+					{{record.url}}
+				{% endif %}
+				</a>
+			</li>
 			{% endif %}
 			<!--Disqus comment-->
 			{% if record.disqus %}
@@ -123,7 +130,7 @@ and in the <a href="https://fraserlab.com/peer_review/" target="_blank" alt = "P
 
 		{% endfor %}
 		{% endif %}
-
+	
 
 		</ul>
 		<ul class="col">
