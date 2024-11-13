@@ -8,7 +8,7 @@ pmid: "36862759"
 pmcid: "PMC10013918"
 biorxiv:
 biorxiv_version: "2022.10.12.511840v1"
-pdf: #"http://cdn.fraserlab.com/publications/2022_venkatesan.pdf"
+pdf: "http://cdn.fraserlab.com/publications/2022_venkatesan.pdf"
 github:
   - description: "Benzimidazole resistance growth measurements"
     url: "AndersenLab/2022_BZ_Resistance_ben1_Q134H"
