@@ -13,6 +13,7 @@ website:
 UCSF: james.fraser
 twitter: fraser_lab
 linkedin: jamesSfraser
+bsky: fraserlab.bsky.social
 github: fraserlab
 orcid: 0000-0002-5080-2859
 description: "James was an undergraduate at McGill University, where he worked in the lab of [Dr. Francois Fagotto](https://www.crbm.cnrs.fr/team/morphogenesis/?lang=en) on [Xenopus developmental biology](/publications#20974811).

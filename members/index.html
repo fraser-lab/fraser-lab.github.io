@@ -53,6 +53,10 @@ The Fraser lab welcomes people of any race, ethnicity, religion, national origin
                   <a href="http://twitter.com"><img class="inline-block mem-icon" src="/static/img/logo/twitter_logo.svg"></a>
                   <a href= "http://twitter.com/{{member.twitter}}"> @{{member.twitter}} </a> <br>
                 {% endif %}
+                {% if member.bsky %}
+                  <a href="https://bsky.app/"><img class="inline-bloc mem-icon" src="/static/img/logo/bsky_logo.svg"></a>
+                  <a href= "https://bsky.app/profile/{{member.github}}"> {{member.bsky}} </a> <br>
+                {% endif %}
                 {% if member.github %}
                   <a href="http://github.com"><img class="inline-bloc mem-icon" src="/static/img/logo/github_logo.svg"></a>
                   <a href= "http://github.com/{{member.github}}"> {{member.github}} </a> <br>
