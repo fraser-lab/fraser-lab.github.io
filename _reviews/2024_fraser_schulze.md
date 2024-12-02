@@ -2,7 +2,7 @@
 title: "Effects of residue substitutions on the cellular abundance of proteins"
 date: "2024-10-29"
 authors: "Schulze TK, Lindorff-Larsen K"
-reviewers: "Fraser JS"
+reviewers: "Zou Z, Fraser JS"
 image: "/static/img/reviews/2024_schulze.png"
 
 peer-review:
