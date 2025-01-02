@@ -24,15 +24,13 @@ Equity (held in Trust, with spouse):
 Consulting/speaker fees/travel:
 
 * [Relay Therapeutics](https://relaytx.com/)
-* [Octant](https://octant.bio/)
 * [Profluent Bio](https://www.profluent.bio/)
-* [Amgen](https://www.amgen.com/)
 * [Vilya Therapeutics](https://vilyatx.com/)
-* Past: Merck, Olema, RADD Pharmaceuticals, RA Capital, MoMa Therapeutics, Novartis, Arcadia Science, Genentech, Revolution Medicines, Third Rock Ventures, Calico, GSK, Schrodinger, CCG, OpenEye, Roche, AstraZeneca, Global Blood Therapeutics
+* Past: Amgen, Octant, Merck, Olema, RADD Pharmaceuticals, RA Capital, MoMa Therapeutics, Novartis, Arcadia Science, Genentech, Revolution Medicines, Third Rock Ventures, Calico, GSK, Schrodinger, CCG, OpenEye, Roche, AstraZeneca, Global Blood Therapeutics
 
 Sponsored and Collaborative Research:
 
 * [Relay Therapeutics](https://relaytx.com/)
-* [Salesforce](https://www.salesforce.com/)
+* Past: Salesforce, Eli Lilly and Company, JSR, Asahi Kasei
 
 I also am the head of the participating research team of beamline 8.3.1. at the Advanced Light Source. Many companies use that beamline or sponsor research and development activities by the beamline scientists, including: Plexxikon, Relay Therapeutics, Eli Lilly and Company, and Global Blood Therapeutics.
