@@ -53,7 +53,7 @@ The Fraser lab recognizes that [the University of California San Francisco sits 
 * #### Public Transportation:
   * **Option 1**: Exit BART at the 16th St Station and wait for the free [UCSF Red shuttle](https://campuslifeservices.ucsf.edu/upload/transportation/files/Red.pdf) (weekdays only) that stops directly outside [what was once a Burger King and now has lovely graffiti](https://www.google.com/maps/@37.765092,-122.419164,3a,75y,5.38h,82.64t/data=!3m4!1e1!3m2!1sH_jzIrhuF8wnnEp0duvIEQ!2e0).
   * **Option 2**: [Exit BART at the 16th St Station and take the 22 Muni Bus towards Mission Bay. Exit at 16th and 4th.](https://goo.gl/maps/gaD7sNsL947S4KcS9)
-  * **Option 3**: [Exit BART at the Powell St. Station and walk to the Union Square/Market St. MUNI station and then take the MUNI T-line inbound to Sunnydale. Exit at the UCSF/Chase Center stop on 3rd Street.](https://maps.app.goo.gl/GiRDHjF6xktsn5uZ9)
+  * **Option 3**: [Exit BART at the Powell St. Station and walk to the Union Square/Market St. MUNI station and then take the MUNI T-line inbound to Sunnydale. Exit at the UCSF/Chase Center stop on 3rd Street.](https://maps.app.goo.gl/swxcbhoR4VJutSwBA)
   * **Option 4**: Exit Caltrain and then walk along [4th St](https://goo.gl/maps/tpJHnJ2NgTyaCqXE9) for about 15 minutes until arriving at UCSF Mission Bay.
   * **Option 5**: There are many different [UCSF Shuttle routes](http://www.campuslifeservices.ucsf.edu/transportation/services/shuttles) that connect to the Mission Bay campus from various parts of the city (weekdays only).
 * #### Car:
