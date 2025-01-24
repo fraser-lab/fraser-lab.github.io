@@ -4,7 +4,7 @@ startdate: [2024-10-28]
 enddate: #[YYYY-MM-DD] Leave this blank until you leave the lab
 image: /static/img/members/bali.jpg #365 x 365 pixels, 72 dpi
 altimage: /static/img/members/bali_pb.jpg #365 x 365 pixels, 72 dpi
-position: Postdoc
+position: Postdoctoral Scholar
 subsequent: #Leave this blank until you leave the lab
 email: sofia.bali@ucsf.edu
 orcid: 0000-0002-4046-7081
