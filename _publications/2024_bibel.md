@@ -2,6 +2,7 @@
 title: "Context-specific inhibition of mitochondrial ribosomes by phenicol and oxazolidinone antibiotics"
 authors: "Bibel B, **Raskar T**, Couvillion M, Lee M, Kleinman JI, Takeuchi-Tomita N, Churchman LS, **Fraser JS**, Galonic Fujimori D"
 pub_date: "2025-01-24" #Date of publication. Change from Biorxiv date to Journal date once accepted
+journal: "Nucleic Acids Research"
 image: "/static/img/pub/2024_bibel.png"
 pmid: "39907106"
 pmcid: 
