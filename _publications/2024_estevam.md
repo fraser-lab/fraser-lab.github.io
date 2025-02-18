@@ -5,7 +5,7 @@ journal: eLife
 pub_date: "2025-02-17"
 image: "/static/img/pub/2024_estevam.png"
 pmid: 39960754
-#pmcid: 
+pmcid: "PMC11832172"
 #biorxiv:
 biorxiv_version: "2024.07.16.603579v2"
 pdf: "http://cdn.fraserlab.com/publications/2025_estevam.pdf"
