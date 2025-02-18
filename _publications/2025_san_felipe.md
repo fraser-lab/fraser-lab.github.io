@@ -4,7 +4,7 @@ authors: "**San Felipe CJ**, Batra J, Muralidharan M, Malpotra S, Anand D, Bauer
 # journal: 
 biorxiv_version: "2025.02.16.638509v1"
 pub_date: "2025-02-18" #Date of publication. Change from Biorxiv date to Journal date once accepted
-image: "/static/img/pub/2025_san_felipe.png"
+image: "/static/img/pub/2025_san_felipe.jpg"
 # pmid: ""
 # pmcid: ""
 # pdf: ""
