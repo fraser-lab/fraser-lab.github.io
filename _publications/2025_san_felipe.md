@@ -14,4 +14,6 @@ pdbs:
 links:
  - name: "Grabe Lab"
    url: "https://www.grabelab.org/"
+ - name: "Bluetorial Link"
+   url: "https://bsky.app/profile/fraserlab.bsky.social/post/3liice7uzqc26"
 ---
