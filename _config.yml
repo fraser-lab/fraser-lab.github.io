@@ -36,9 +36,9 @@ collections:
         alumni:
                 output: true
         sep:
-                output: true
+                output: false
         visitors:
-                output: true
+                output: false
         undergrads:
                 output: true
         pets:

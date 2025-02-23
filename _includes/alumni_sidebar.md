@@ -1,4 +1,5 @@
-## Fraser Lab Alumni
+<!--
+## Comparative Genomics Lab Alumni
 {% assign sorted = site.members | sort: "enddate" | reverse %}
 {% for member in sorted %}
 
@@ -76,6 +77,7 @@ Subsequently: {{member.subsequent}} <br>
 {% endfor %}
 
 <br>
+-->
 ## Undergraduate Interns
 {% for undergraduate in sorted %}
 
@@ -113,6 +115,7 @@ Subsequently: {{undergraduate.subsequent}}<br>
 
 
 <br>
+<!--
 ## [High School Interns](http://sep.ucsf.edu/hs_programs/high-school-intern-program/)
 {% for student in sorted %}
 
@@ -179,3 +182,4 @@ Subsequently: {{student.subsequent}}<br>
 {% endif %}
 </p>
 </div> {% endfor %}
+-->
