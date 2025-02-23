@@ -14,9 +14,9 @@
 #   link: "/reviews"
 #   group: reviews
 
-# - name: members
-#   link: "/members"
-#   group: members
+- name: members
+  link: "/members"
+  group: members
 
 # - name: teaching
 #   link: "/courses"
