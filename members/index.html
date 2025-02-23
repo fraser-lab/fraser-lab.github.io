@@ -41,7 +41,7 @@ group: members
                 {% endif %}
                 {% if member.IMBB %}
                   <a href="https://www.imbb.forth.gr/en/"><img class="inline-block mem-icon" src="/static/img/logo/imbb.png"></a>
-                  <a href= "https://www.imbb.forth.gr/en/research-en/item/{{member.UCSF}}"> Profile </a> <br>
+                  <a href= "https://www.imbb.forth.gr/en/research-en/item/{{member.IMBB}}"> Profile </a> <br>
                 {% endif %}
                 {% if member.scholar %}
                   <a href="http://scholar.google.com"><img class="inline-block mem-icon" src="/static/img/logo/gscholar_logo.svg"></a>
@@ -94,9 +94,9 @@ group: members
                   <a href="http://www.linkedin.com"><img class="inline-block mem-icon" src="/static/img/logo/linkedin_logo.svg"></a>
                   <a href= "http://www.linkedin.com/in/{{member.linkedin}}"> {{member.linkedin}} </a> <br>
                 {% endif %}
-                {% if member.UCSF %}
-                  <a href="http://www.ucsf.edu"><img class="inline-block mem-icon" src="/static/img/logo/ucsf_logo_black.svg"></a>
-                  <a href= "http://profiles.ucsf.edu/{{member.UCSF}}"> Profile </a> <br>
+                {% if member.IMBB %}
+                  <a href="https://www.imbb.forth.gr/en/"><img class="inline-block mem-icon" src="/static/img/logo/imbb.png"></a>
+                  <a href= "https://www.imbb.forth.gr/en/research-en/item/{{member.IMBB}}"> Profile </a> <br>
                 {% endif %}
                 {% if member.scholar %}
                   <a href="http://scholar.google.com"><img class="inline-block mem-icon" src="/static/img/logo/gscholar_logo.svg"></a>
@@ -176,6 +176,8 @@ group: members
 			{% assign color = "darkorange" %}
 		{% elsif position contains "graduate student" %}
 			{% assign color = "gold" %}
+		{% elsif position contains "undergraduate student" %}
+		        {% assign color = "silver" %}
 		{% elsif position contains "staff scientist" or position contains "programmer" or position contains "manager" %}
 			{% assign color = "green" %}
 		{% elsif position contains "specialist" or position contains "technician" or position contains "propel"%}
