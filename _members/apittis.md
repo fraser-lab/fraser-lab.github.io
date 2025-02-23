@@ -13,7 +13,8 @@ website:
 IMBB: 7417-alexandros-pittis
 #twitter: fraser_lab
 #linkedin: jamesSfraser
-github: alxndrsPittis
+#github: alxndrsPittis
+github: cgenomicslab
 orcid: 0000-0003-4116-9972
 description: "
 - Biology degree **University of Athens (NKUA), Athens, Greece**
