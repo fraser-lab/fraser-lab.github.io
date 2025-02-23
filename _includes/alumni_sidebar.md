@@ -146,8 +146,9 @@ Subsequently: {{student.subsequent}}<br>
 </p>
 </div> {% endfor %}
 
-
 <br>
+-->
+<!--
 ## Fraser Lab Visitors
 {% for visitor in sorted %}
 
