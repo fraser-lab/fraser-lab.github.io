@@ -27,7 +27,7 @@ description: "
 
 - EMBO Postdoctoral Fellow (*Keeling lab*) **University of British Columbia (UBC), Vancouver, Canada**
 
-- Fellow of the College for Life Science **Berlin Institute for Advanced Studies (WIKO), Berlin, Germany**
+- Fellow of the College for Life Sciences **Berlin Institute for Advanced Studies (WIKO), Berlin, Germany**
 
 - Postdoctoral Researcher (*Arendt lab*) **European Molecular Biology Laboratory (EMBL), Heidelberg, Germany**
 
