@@ -21,15 +21,15 @@ description: "
 
 - MSc Bioinformatics **Universitat Pompeu Fabra (UPF), Barcelona, Spain**
 
-- PhD in Comparative Genomics (Gabaldon lab) **Centre for Genomic Regulation (CRG), Barcelona, Spain**
+- PhD in Comparative Genomics (*Gabaldon lab*) **Centre for Genomic Regulation (CRG), Barcelona, Spain**
 
-- Postdoctoral Researcher (Kim lab) **American Museum of Natural History (AMNH), New York, US
+- Postdoctoral Researcher (*Kim lab*) **American Museum of Natural History (AMNH), New York, US**
 
-- EMBO Postdoctoral Fellow (Keeling lab) **University of British Columbia (UBC), Vancouver, Canada**
+- EMBO Postdoctoral Fellow (*Keeling lab*) **University of British Columbia (UBC), Vancouver, Canada**
 
 - Fellow of the College for Life Science **Berlin Institute for Advanced Studies (WIKO), Berlin, Germany**
 
-- Postdoctoral Researcher (Arendt lab) **European Molecular Biology Laboratory (EMBL), Heidelberg, Germany**
+- Postdoctoral Researcher (*Arendt lab*) **European Molecular Biology Laboratory (EMBL), Heidelberg, Germany**
 
 - Principal Investigator HFRI **University of Athens (NKUA), Athens, Greece**
 
