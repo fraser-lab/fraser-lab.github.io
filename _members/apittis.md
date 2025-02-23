@@ -2,7 +2,7 @@
 name: Alexandros Pittis, Ph.D.
 startdate: [2024-01-01]
 enddate: []
-# image: /static/img/members/Fraser.jpg
+image: /static/img/members/apittis.jpg
 # altimage: /static/img/members/Fraser_pb.jpg
 position: Principal Investigator
 #current:
