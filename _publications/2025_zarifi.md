@@ -5,6 +5,13 @@ authors: "Zarific N, **Asthana P**, Doustmohammadi H, Klaus C, Sanchez J, Hunt S
 biorxiv_version: "2025.02.21.639315v1"
 pub_date: "2025-02-27" #Date of publication. Change from Biorxiv date to Journal date once accepted
 image: "/static/img/pub/2025_zarifi.png"
+pdbs:
+  - 8FMC
+  - 8FOQ
+  - 8FMD
+  - 8FOR
+  - 8FME
+  - 8FOS
 # pmid: ""
 # pmcid: ""
 # pdf: ""
