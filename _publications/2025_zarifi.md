@@ -15,4 +15,9 @@ pdbs:
 # pmid: ""
 # pmcid: ""
 # pdf: ""
+links:
+- name: Chica lab @ University of Ottawa
+  url: https://mysite.science.uottawa.ca/rchica/
+- name: "Bluetorial Link"
+  url: https://bsky.app/profile/chicalab.bsky.social/post/3ljavjjzfxk2e
 ---
