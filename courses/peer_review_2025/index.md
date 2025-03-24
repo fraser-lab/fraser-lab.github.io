@@ -103,4 +103,9 @@ After the round of sharing, the Discussion Leaders will present a joint talk sim
 - Why do we peer review and what makes good peer review?
   - Max Krummel - [Universal Principled Review](http://cdn.fraserlab.com/courses/peer_review_2020/2019_krummel.pdf) and other experiments
 
+### April 24
+- pitch 2 preprints you are interested in reviewing
+  - Our running [google doc of cool preprints in high throughput biophysics](https://docs.google.com/document/d/134KFcL3tbGVxgTOSnreCOSr2cicbPuJFQkSTp3ZSRds/edit) - need a new version of this
+
+
 Willow will choose 3 dates
