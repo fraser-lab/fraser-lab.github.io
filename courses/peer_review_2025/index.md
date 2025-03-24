@@ -2,15 +2,18 @@
 title: Peer review in high throughput biophysics
 layout: default
 group: courses
+permalink: /peer_review/
 ---
 
 # Peer Review in the High Throughput Biophysics
 
-## Spring 2024 Syllabus
+## Spring 2025 Syllabus
 
-**Course Days/Hours/Locations:**  4/22 - BH413 - 3-5PM, 4/23 - BH413 - 3-5PM, 4/25 - BH413 - 3-4PM, 4/29 - BH413 - 3-5PM, **5/1 - BH513 - 3-5PM**, 5/6 - BH413 - 3-5PM, 5/7 - BH413 - 3-5PM
+**Course Days/Hours/Locations:**  
+* JF and WCM present: April 22 3-5, April 23 3-5, April 25 3-5
+* WCM select 3 presentation weekdays week of April 28-May 2 and week of May 5-9
 
-**Instructors:** [James Fraser](mailto:jfraser@fraserlab.com), [Willow Coyote-Maestas](mailto:willow.coyote-maestas@ucsf.edu)
+**Instructors:** [Willow Coyote-Maestas](mailto:willow.coyote-maestas@ucsf.edu), [James Fraser](mailto:jfraser@fraserlab.com)
 
 <figure>
 <blockquote class="blockquote">
@@ -90,8 +93,8 @@ After the round of sharing, the Discussion Leaders will present a joint talk sim
 
 ### April 22
 - Intro to class, overview of preprints to review, assigning pairs, expectations for presentations and readers
-- [New developments in peer review](https://docs.google.com/presentation/d/1Nynk84mch7Avs4E8ilox0zKN3knnEp1R_k2DweuNgvg/edit#slide=id.g244a3cc443b_0_846):
-  - [Jessica Polka](https://en.wikipedia.org/wiki/Jessica_Polka) - [Program Director for Open Science, Astera Institute and former Executive Director of ASAPbio](https://asapbio.org/dt_team/jessica-polka) - Jessica to join us on zoom
+- JF to give presentation based on Jessica Polka slides from ASAPbio [New developments in peer review](https://docs.google.com/presentation/d/1Nynk84mch7Avs4E8ilox0zKN3knnEp1R_k2DweuNgvg/edit#slide=id.g244a3cc443b_0_846):
+
 
 ### April 23
 - [How to read a paper for peer review - adapted from HHMI TAP presentation](https://docs.google.com/presentation/d/1TC2RuZS-AaFM0-A-gUsss4bdwDYcZkHgSsK59baJQyc/edit?usp=sharing)
@@ -100,25 +103,4 @@ After the round of sharing, the Discussion Leaders will present a joint talk sim
 - Why do we peer review and what makes good peer review?
   - Max Krummel - [Universal Principled Review](http://cdn.fraserlab.com/courses/peer_review_2020/2019_krummel.pdf) and other experiments
 
-### April 24
-- no class
-
-### April 25
-- short class, pitch 2 preprints you are interested in reviewing
-  - Our running [google doc of cool preprints in high throughput biophysics](https://docs.google.com/document/d/134KFcL3tbGVxgTOSnreCOSr2cicbPuJFQkSTp3ZSRds/edit)
-
-### April 29
-- Maple N Chen and Kevin Alexander Estrada Alamo: [Targeting protein-ligand neosurfaces using a generalizable deep learning approach](https://www.biorxiv.org/content/10.1101/2024.03.25.585721v1)
-  - [Review](https://prereview.org/reviews/11188199)
-
-### May 1 - class is in BH-513
-- Yifei Chen and 2 anonymous students: [Dissecting translation elongation dynamics through ultra-long tracking of single ribosomes](https://www.biorxiv.org/content/10.1101/2024.04.08.588516v1)
-   - [Review](https://prereview.org/reviews/11398206)
-
-### May 6
-- Zachary Mullin-Bernstein and Karson Chrispens: [Highly multiplexed design of an allosteric transcription factor to sense novel ligands](https://www.biorxiv.org/content/10.1101/2024.03.07.583947v2)
-  - [Review](https://prereview.org/reviews/11247730)
-
-### May 7
-- Beniamin Krupkin and Minh Le: [A complete map of specificity encoding for a partially fuzzy protein interaction](https://www.biorxiv.org/content/10.1101/2024.04.25.591103v1)
-  - [Review](https://prereview.org/reviews/12053815)
+Willow will choose 3 dates
