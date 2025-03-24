@@ -5,7 +5,7 @@ group: courses
 permalink: /peer_review/
 ---
 
-# Peer Review in the High Throughput Biophysics
+# Peer Review in High Throughput Biophysics
 
 ## Spring 2025 Syllabus
 
