@@ -11,7 +11,7 @@ permalink: /peer_review/
 
 **Course Days/Hours/Locations:**  
 * JF and WCM present: April 22 3-5, April 23 3-5, April 25 3-5
-* WCM select 3 presentation weekdays week of April 28-May 2 and week of May 5-9
+* WCM only: May 2, 6, 9 3-5PM
 
 **Instructors:** [Willow Coyote-Maestas](mailto:willow.coyote-maestas@ucsf.edu), [James Fraser](mailto:jfraser@fraserlab.com)
 
@@ -98,14 +98,21 @@ After the round of sharing, the Discussion Leaders will present a joint talk sim
 
 ### April 23
 - [How to read a paper for peer review - adapted from HHMI TAP presentation](https://docs.google.com/presentation/d/1TC2RuZS-AaFM0-A-gUsss4bdwDYcZkHgSsK59baJQyc/edit?usp=sharing)
+- Why do we peer review and what makes good peer review?
 - Writing and Receiving Peer Review and expecations for written reviews
   - pairings for papers to review
-- Why do we peer review and what makes good peer review?
-  - Max Krummel - [Universal Principled Review](http://cdn.fraserlab.com/courses/peer_review_2020/2019_krummel.pdf) and other experiments
+  - Jon Schlebach? 
+
 
 ### April 24
 - pitch 2 preprints you are interested in reviewing
   - Our running [google doc of cool preprints in high throughput biophysics](https://docs.google.com/document/d/134KFcL3tbGVxgTOSnreCOSr2cicbPuJFQkSTp3ZSRds/edit) - need a new version of this
 
+### May 2
+Pair 1
 
-Willow will choose 3 dates
+### May 6
+Pair 2
+
+### May 9
+Pair 3
