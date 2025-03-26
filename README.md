@@ -1,7 +1,9 @@
 # KAIST MIC Lab
 ====================
 
-Forked from fraser-lab.github.io
+Forked from fraser-lab.github.io;
+
+See, [here](https://fraserlab.com/2020/05/03/Clone-this-website/)
 
 Technologies this website uses:  
 
