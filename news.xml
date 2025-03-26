@@ -9,7 +9,7 @@
   <updated>{{ site.time | date_to_xmlschema }}</updated>
   <id>{{site.url}}</id>
   <author>
-    <name>James Fraser</name>
+    <name>Choi Kyunghwan</name>
     <!-- <email>you@example.com</email> -->
   </author>
 
