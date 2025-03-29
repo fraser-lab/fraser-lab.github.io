@@ -1,9 +1,10 @@
 ---
-name: James Fraser, Ph.D.
+name: Kyunghwan Choi, Ph.D.
 startdate: [2011-01-01]
 enddate: []
-image: /static/img/members/Fraser.jpg
-# altimage: /static/img/members/Fraser_pb.jpg
+image: /static/img/members/최경환.jpg
+# 마우스 위로 올리면 나오는 이미지
+altimage: /static/img/members/Fraser_pb.jpg 
 position: Principal Investigator
 #current:
 pronouns: he/him/his
@@ -11,9 +12,9 @@ email: jfraser (at) fraserlab.com
 scholar: j3iaoR8AAAAJ
 website:
 UCSF: james.fraser
-twitter: fraser_lab
+# twitter: fraser_lab
 linkedin: jamesSfraser
-bsky: "fraserlab.bsky.social"
+# bsky: "fraserlab.bsky.social"
 github: fraserlab
 orcid: 0000-0002-5080-2859
 description: "James was an undergraduate at McGill University, where he worked in the lab of [Dr. Francois Fagotto](https://www.crbm.cnrs.fr/team/morphogenesis/?lang=en) on [Xenopus developmental biology](/publications#20974811).
