@@ -1,8 +1,8 @@
 name: "MIC Lab"
 description: "This is the official web page for the Mobility Intelligence & Control Laboratory (MIC Lab) at Gwangju Insitute of Science and Technology (GIST)."
 
-permalink: "http://kaist-mic-lab.github.io"
-url: "http://kaist-mic-lab.github.io"
+# permalink: "http://kaist-mic-lab.github.io"
+url: "http://fraserlab.com"
 
 paginate: 5
 plugins: [jekyll-paginate]
