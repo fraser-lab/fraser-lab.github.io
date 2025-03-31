@@ -1,10 +1,10 @@
 ---
-title: Join the Fraser Lab
+title: Join the MIC Lab
 layout: default
 group: join
 ---
 
-# Join the Fraser Lab
+# Join the MIC Lab
 Our lab welcomes applicants from any race, ethnicity, religion, national origin, gender identity, gender expression, caregiver and family commitments, political affiliation, sexual orientation, and eligible age or disability status. Furthermore, we are committed to maintaining a supportive and collaborative lab environment.
 ##### Read more about [our lab compact and philosophy.](/philosophy/)
 

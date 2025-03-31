@@ -9,15 +9,33 @@ group: members
 The MIC lab welcomes people of any race, ethnicity, religion, national origin, gender identity, gender expression, caregiver and family commitments, political affiliation, sexual orientation, and eligible age or disability status.<br>
 <h5>See our<a href="/philosophy/"> lab compact and philosophy</a>.</h5>
 
-{% for member in site.members %}
+{% assign Positions = "Principal Investigator|Ph.D. Student|Master Student" | split: "|" %}
+<hr>
 
-{% unless member.enddate == empty or member.startdate.size != member.enddate.size %}
-{% continue %}
-{% endunless %}
+<br>
+<h4>Quick Links</h4>
+{% for position in Positions %}
+<li><a href="#{{ position }}">{{ position }}</a></li>
+{% endfor %}
+<hr>
+<br>
 
-{% if member.position contains "Affiliate" or member.position contains "Visiting" %}
-{% continue %}
-{% endif %}
+{% for position in Positions %}
+  {% assign sorted = site.members | where: "position", position | sort: "startdate" | reverse %}
+
+  <div id = "{{ position }}" >
+  <h4>{{ position }}</h4>
+  </div>
+  {% if sorted.size > 0 %}
+    <ul>
+      {% for member in sorted %}
+        {% unless member.enddate == empty or member.startdate.size != member.enddate.size %}
+          {% continue %}
+        {% endunless %}
+
+        {% if member.position contains "Affiliate" or member.position contains "Visiting" %}
+          {% continue %}
+        {% endif %}
 
         <hr>
         <!-- The paddingtop and margin-top edits allow anchors to link properly. -->
@@ -66,10 +84,23 @@ The MIC lab welcomes people of any race, ethnicity, religion, national origin, g
                 {{member.description | markdownify}}
             </div>
         </div>
+      {% endfor %}
+    </ul>
+  {% else %}
+    <p>None</p>
+
+  {% endif %}
 {% endfor %}
+
+<!-- EXAMPLES -->
+
 <hr>
 <h4>Affiliates</h4>
-{% for member in site.members %}
+{% assign sorted = site.members | where: "position", "Affiliate" | sort: "startdate" | reverse %}
+
+{% if sorted.size > 0 %}
+
+{% for member in sorted %}}
 
 {% unless member.enddate == empty %}
 {% continue %}
@@ -122,9 +153,13 @@ The MIC lab welcomes people of any race, ethnicity, religion, national origin, g
             </div>
         </div>
 {% endfor %}
+{% else %}
+  <p>None</p>
+{% endif %}
+
 <hr>
 
-<div>
+<!-- <div>
 {% assign stretch = 60 %}
 {% assign yheight = 16 %}
 {% assign yspacing = 18 %}
@@ -228,4 +263,4 @@ The MIC lab welcomes people of any race, ethnicity, religion, national origin, g
 <rect x="{{ xposition }}" y="{{ yposition }}" width="{{ legendboxsize }}" height="{{ legendboxsize }}" fill="purple" />
 <text x="{{ fontsize | times: 0.25 | plus: legendboxsize | plus: xposition }}" y="{{ fontsize | times: 0.75 | plus: legendboxsize | times: 0.5 | plus: yposition }}" font-family="sans-serif" font-size="{{ fontsize }}" stroke="black">Visitor</text>
 </svg>
-</div>
+</div> -->

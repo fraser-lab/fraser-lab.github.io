@@ -2,6 +2,8 @@ Required fields:
 Name, start date, image, altimage, position, email, ORCID, Google Scholar ID, description
 Optional fields:
 timeline_name, pronouns, scholar, website, UCSF, twitter, linkedin, github
+
+positions: Principal Investigator, Ph.D. Student, Master Student, Undergraduate Intern, Visiting Researcher
 ---
 #REQUIRED
 name: FirstName LastName #Include "Ph.D."" if applicable

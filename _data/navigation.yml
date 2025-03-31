@@ -1,34 +1,34 @@
-- name: home
+- name: Home
   link: "/"
   group: home
 
-- name: research
+- name: Research
   link: "/research"
   group: research
 
-- name: publications
-  link: "/publications"
-  group: publications
-
-- name: reviews
-  link: "/reviews"
-  group: reviews
-
-- name: members
+- name: People
   link: "/members"
   group: members
 
-- name: teaching
+- name: Publications
+  link: "/publications"
+  group: publications
+
+- name: Facilities
+  link: "/facilities"
+  group: facilities
+
+- name: Teaching
   link: "/courses"
   group: courses
 
-- name: philosophy
-  link: "/philosophy"
-  group: philosophy
-
-- name: news
+- name: News
   link: "/news"
   group: news
+
+- name: Gallery
+  link: "/gallery"
+  group: gallery
 
 - name: join
   link: "/join"

@@ -1,13 +1,13 @@
 ---
-title: Fraser Lab
+title: MIC Lab
 layout: home
 group: home
 ---
 
-# Welcome to the Fraser Lab!
+# Welcome to the MIC Lab!
 {: .display-4}
 <br>
-We are part of the [Department of Bioengineering and Therapeutic Sciences](http://bts.ucsf.edu/), the [Macromolecular Structure Group](http://msg.ucsf.edu/), and the [California Institute of Quantitative Biosciences (QB3)](http://qb3.org/).
+We are part of the [Cho Chun Shik Graduate School of Mobility (CCS Graduate School of Mobility)](https://mo.kaist.ac.kr) at [Korean Advanced Institute of Science and Technology (KAIST)](https://www.kaist.ac.kr/kr/).
 {: .welcomefont}
 
 ![Fraser lab logo](static/img/logo/jf_retreat_logo.svg){:style="max-width: 100%; height: auto;"}
