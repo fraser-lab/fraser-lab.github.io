@@ -4,6 +4,8 @@ Forked from fraser-lab.github.io;
 
 See, [here](https://fraserlab.com/2020/05/03/Clone-this-website/)
 
+Draft: https://sites.google.com/view/kaist-mic/home
+
 # How to adjust the website
 
 1. Change basic information in `_config.yml` file and `news.xml` file.
