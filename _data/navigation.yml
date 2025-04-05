@@ -2,13 +2,32 @@
   link: "/"
   group: home
 
+
 - name: Research
-  link: "/research"
-  group: research
+  group: Research
+  dropdown:
+    - name: Research
+      group: Research
+      link: "/research"
+    - name: Learning + Control Theory
+      group: Research
+      link: "/research/control_learning"
+    - name: Research Projects
+      group: Research
+      link: "/research/projects"
 
 - name: People
-  link: "/members"
   group: members
+  dropdown:
+    - name: Principle Investigators
+      group: members
+      link: "/members/PI"
+    - name: Researcher
+      group: members
+      link: "/members/researcher"
+    - name: Alumni
+      group: members
+      link: "/members/researcher"
 
 - name: Publications
   link: "/publications"
@@ -25,10 +44,6 @@
 - name: News
   link: "/news"
   group: news
-
-- name: Gallery
-  link: "/gallery"
-  group: gallery
 
 - name: join
   link: "/join"

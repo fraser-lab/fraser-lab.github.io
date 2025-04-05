@@ -1,5 +1,5 @@
 name: "MIC Lab"
-description: "This is the official web page for the Mobility Intelligence & Control Laboratory (MIC Lab) at Gwangju Insitute of Science and Technology (GIST)."
+description: "This is the official web page for the Mobility Intelligence & Control Laboratory (MIC Lab) at Korean Advanced Institute of Science and Technology (KAIST)."
 
 url: "http://kaistmic.com"
 
@@ -29,6 +29,8 @@ collections:
                 output: true
         members:
                 output: true
+        research:
+                output: true                
         publications:
                 output: true
         reviews:
