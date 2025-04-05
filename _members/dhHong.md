@@ -1,6 +1,6 @@
 ---
 #REQUIRED
-name: Hong #Include "Ph.D."" if applicable
+name: Donghwa Hong #Include "Ph.D."" if applicable
 timeline_name: Donghwa #If you would like your name to appear differently on the Lab timeline, fill out this line.
 startdate: [2026-03-01] #Enter your start date
 enddate: # [2025-02-02] # Leave this blank until you leave the lab

@@ -27,7 +27,7 @@
       link: "/members/researcher"
     - name: Alumni
       group: members
-      link: "/members/researcher"
+      link: "/members/alumni"
 
 - name: Publications
   link: "/publications"

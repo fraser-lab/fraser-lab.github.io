@@ -1,6 +1,6 @@
 ---
 #REQUIRED
-name: Kim #Include "Ph.D."" if applicable
+name: Jaejoon Kim #Include "Ph.D."" if applicable
 timeline_name: Jaejoon #If you would like your name to appear differently on the Lab timeline, fill out this line.
 startdate: [2024-09-02] #Enter your start date
 enddate:  [2025-01-01] # Leave this blank until you leave the lab

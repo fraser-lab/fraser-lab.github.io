@@ -1,7 +1,7 @@
 ---
 #REQUIRED
-name: Hyochan #Include "Ph.D."" if applicable
-timeline_name: Lee #If you would like your name to appear differently on the Lab timeline, fill out this line.
+name: Hyochan Lee #Include "Ph.D."" if applicable
+timeline_name: Hyochan #If you would like your name to appear differently on the Lab timeline, fill out this line.
 startdate: [2025-09-02] #Enter your start date
 enddate: # [2025-02-02] # Leave this blank until you leave the lab
 image: /static/img/members/hcLee.jpg #365 x 365 pixels, 72 dpi
