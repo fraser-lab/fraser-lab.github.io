@@ -2,6 +2,9 @@
   link: "/"
   group: home
 
+- name: Philosophy
+  link: "/philosophy"
+  group: philosophy
 
 - name: Research
   group: Research

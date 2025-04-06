@@ -4,6 +4,7 @@ layout: default
 group: members
 ---
 
+<div   style="max-width: 800px; margin: auto;">
 <h1>MIC Lab Members</h1>
 
 {% assign Positions = "Ph.D. Student|Master Student" | split: "|" %}
@@ -20,9 +21,9 @@ group: members
 {% for position in Positions %}
   {% assign sorted = site.members | where: "position", position | sort: "startdate" %}
 
-  <div id = "{{ position }}" >
+  <div id = "{{ position }}">
   <h4>{{ position }}</h4>
-  </div>
+  <div>
   {% if sorted.size > 0 %}
     <ul>
       {% for member in sorted %}
@@ -88,3 +89,107 @@ group: members
 
   {% endif %}
 {% endfor %}
+<hr>
+</div>
+
+
+<div>
+{% assign stretch = 200 %}
+{% assign yheight = 16 %}
+{% assign yspacing = 18 %}
+{% assign fontsize = 12 %}
+{% assign yearoffset = 2023 %}
+{% assign majortick = 0.05 %}
+{% assign minortick = 0.025 %}
+{% assign legendboxsize = 10 %}
+{% assign legendboxspacing = 14 %}
+<!-- {% assign people = site.members | concat: site.alumni | sort: "startdate" %} -->
+ {% assign people = site.members | sort: "startdate" %}
+{% assign finalyear = "now" | date: "%Y" | plus: 1 %}
+<?xml version="1.0" encoding="UTF-8" ?>
+<svg width="100%" height="auto" viewBox="0 0 {{ finalyear | minus: yearoffset | plus: majortick | times: stretch }} {{ people.size | plus: 1 | times: yspacing | plus: 5 }}" xmlns="http://www.w3.org/2000/svg">
+{% assign i = 0 %}
+{% for year in (yearoffset..finalyear)%}
+	{% assign year5 = year | modulo: 5 %}
+	{% if year5 == 0 %}
+		{% assign tick = majortick %}
+		<text x="{{ fontsize | divided_by: 4.0 | divided_by: stretch | plus: tick | plus: year | minus: yearoffset | times: stretch }}" y="{{ i | times: yspacing | plus: fontsize }}" font-family="sans-serif" font-size="{{ fontsize }}" stroke="black">{{ year }}</text>
+	{% else %}
+		{% assign tick = minortick %}
+	{% endif %}
+	<rect x="{{ year | minus: yearoffset | times: stretch }}" y="0" width="{{ tick | times: stretch }}" height="{{ yheight }}" fill="black" />
+{% endfor %}
+{% assign i = i | plus: 1 %}
+{% for member in people %}
+{% assign tenures = member.startdate.size | minus: 1 %}
+	{% for tenure in (0..tenures) %}
+		{% assign startyear = member.startdate[tenure] | date: "%Y" | minus: yearoffset %}
+		{% assign startmonth = member.startdate[tenure] | date: "%m" | minus: 1 | divided_by: 12.0 %}
+		{% assign start = startyear | plus: startmonth %}
+		{% if member.enddate[tenure] %}
+			{% assign endyear = member.enddate[tenure] | date: "%Y" | minus: yearoffset %}
+			{% assign endmonth = member.enddate[tenure] | date: "%m" | minus: 1 | divided_by: 12.0 %}
+			{% assign end = endyear | plus: endmonth %}
+		{% else %}
+			{% assign endyear = "now" | date: "%Y" | minus: yearoffset %}
+			{% assign endmonth = "now" | date: "%m" | minus: 1 | divided_by: 12.0 %}
+			{% assign end = endyear | plus: endmonth %}
+		{% endif %}
+		{% assign duration = end | minus: start %}
+    {% if duration < 0.083 %} # For plotting purposes, minimum duration is a month
+  		{% assign duration = 10 %}
+    {% endif %}
+    <!-- {% if member.timeline_group %} # Assign timeline color specifically from profile, otherwise from position
+      {% assign position = member.timeline_group | downcase %}
+		{% elsif member.timeline_positions %} #all search strings in following section must be lowercase or it will not find matches
+			{% assign position = member.timeline_positions[tenure] | downcase %}
+		{% else %}
+			{% assign position = member.position | downcase %}
+		{% endif %} -->
+    {% assign position = member.position | downcase %}
+		{% if position contains "Principal Investigator" %}
+			{% assign color = "red" %}
+		{% elsif position contains "Ph.D. Student" %}
+			{% assign color = "darkorange" %}
+		{% elsif position contains "Master Student" %}
+			{% assign color = "gold" %}
+		{% elsif position contains "Undergraduate Intern" %}
+			{% assign color = "green" %}
+		{% elsif position contains "Visiting Researcher" %}
+			{% assign color = "turquoise" %}
+		{% else %}
+			{% assign color = "purple" %}
+		{% endif %}
+
+		<rect x="{{ start | times: stretch }}" y="{{ i | times: yspacing }}" width="{{ duration | times: stretch }}" height="{{ yheight }}" fill="{{ color }}" />
+		{% if tenure == 0 %}
+		    <text text-anchor="end" x="{{ fontsize | divided_by: -4.0 | divided_by: stretch | plus: start | times: stretch }}" y="{{ i | times: yspacing | plus: fontsize }}" font-family="sans-serif" font-size="{{ fontsize }}" stroke="black">{% if member.timeline_name %}{{ member.timeline_name }}{% else %}{{ member.name | split: " " | first }}{% endif %}</text>
+		{% endif %}
+	{% endfor %}
+{% assign i = i | plus: 1 %}
+{% endfor %}
+
+{% assign legendn = 7 %}
+{% assign fontsize = 14 %}
+{% assign xposition = 10 %}
+{% assign yposition = i | times: yspacing %}
+{% assign yposition = legendn | plus: 0.5 | times: legendboxspacing | times: -1 | plus: yposition %}
+<rect x="{{ xposition }}" y="{{ yposition }}" width="{{ legendboxsize }}" height="{{ legendboxsize }}" fill="red" />
+<text x="{{ fontsize | times: 0.25 | plus: legendboxsize | plus: xposition }}" y="{{ fontsize | times: 0.75 | plus: legendboxsize | times: 0.5 | plus: yposition }}" font-family="sans-serif" font-size="{{ fontsize }}" stroke="black">Principal investigator</text>
+{% assign yposition = yposition | plus: legendboxspacing %}
+<rect x="{{ xposition }}" y="{{ yposition }}" width="{{ legendboxsize }}" height="{{ legendboxsize }}" fill="darkorange" />
+<text x="{{ fontsize | times: 0.25 | plus: legendboxsize | plus: xposition }}" y="{{ fontsize | times: 0.75 | plus: legendboxsize | times: 0.5 | plus: yposition }}" font-family="sans-serif" font-size="{{ fontsize }}" stroke="black">Ph.D. Student</text>
+{% assign yposition = yposition | plus: legendboxspacing %}
+<rect x="{{ xposition }}" y="{{ yposition }}" width="{{ legendboxsize }}" height="{{ legendboxsize }}" fill="gold" />
+<text x="{{ fontsize | times: 0.25 | plus: legendboxsize | plus: xposition }}" y="{{ fontsize | times: 0.75 | plus: legendboxsize | times: 0.5 | plus: yposition }}" font-family="sans-serif" font-size="{{ fontsize }}" stroke="black">Master Student</text>
+{% assign yposition = yposition | plus: legendboxspacing %}
+<rect x="{{ xposition }}" y="{{ yposition }}" width="{{ legendboxsize }}" height="{{ legendboxsize }}" fill="green" />
+<text x="{{ fontsize | times: 0.25 | plus: legendboxsize | plus: xposition }}" y="{{ fontsize | times: 0.75 | plus: legendboxsize | times: 0.5 | plus: yposition }}" font-family="sans-serif" font-size="{{ fontsize }}" stroke="black">Undergraduate Intern</text>
+{% assign yposition = yposition | plus: legendboxspacing %}
+<rect x="{{ xposition }}" y="{{ yposition }}" width="{{ legendboxsize }}" height="{{ legendboxsize }}" fill="turquoise" />
+<text x="{{ fontsize | times: 0.25 | plus: legendboxsize | plus: xposition }}" y="{{ fontsize | times: 0.75 | plus: legendboxsize | times: 0.5 | plus: yposition }}" font-family="sans-serif" font-size="{{ fontsize }}" stroke="black">Visiting Researcher</text>
+{% assign yposition = yposition | plus: legendboxspacing %}
+<!-- <rect x="{{ xposition }}" y="{{ yposition }}" width="{{ legendboxsize }}" height="{{ legendboxsize }}" fill="purple" />
+<text x="{{ fontsize | times: 0.25 | plus: legendboxsize | plus: xposition }}" y="{{ fontsize | times: 0.75 | plus: legendboxsize | times: 0.5 | plus: yposition }}" font-family="sans-serif" font-size="{{ fontsize }}" stroke="black">Visitor</text> -->
+</svg>
+</div>

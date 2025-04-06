@@ -3,6 +3,8 @@ title: Publications from the Fraser Lab
 layout: default
 group: publications
 ---
+<div   style="max-width: 800px; margin: auto;">
+
 <h1>Publications</h1>
 <div class="container-fluid">
 
@@ -14,71 +16,43 @@ group: publications
 	<div>
 		<h5>{{ publication.title | markdownify  | remove: '<p>' | remove: '</p>'}}</h5>
 		<h6>{{ publication.authors | markdownify | remove: '<p>' | remove: '</p>' }}</h6>
-		{% if publication.journal %}
-			<i>{{ publication.journal }},</i>
-			{{publication.pub_date | split: "-" | first }}
-		{% else %}
-			{% if publication.Techrxiv %}
-			<i>Techrxiv,</i>
-				{{publication.pub_date | split: "-" | first }}				
-			{% else %}
-			{% else if publication.Arxiv %}
-			<i>Arxiv,</i>
-				{{publication.pub_date | split: "-" | first }}				
-			{% else %}
-			<i>Preprint,</i>
-				{{publication.pub_date | split: "-" | first }}
-			{% endif %}
-		{% endif %}
+		{% assign pub = publication.pubs | last %}
+		<i>{{ pub.name }}</i> <b>{{ pub.state }}</b>
 	</div>
 </div>
 
 <div class="row" style="padding-top: 20px; margin-top: -20px">
-	<div class="col-sm-6">
+	<div class="col-sm-5">
 		<img class = "img-fluid" src = "{{publication.image}}" alt =  "Key Figure" style="max-height: 200px;">
 	</div>
-	<ul class="col-sm-6">
+	<ul class="col-sm-7">
 		<br>
-		<h6>Access the paper</h6>
+		<li><h6>Access the paper</h6></li>
 	
-		<!--Arxiv - optional -->
-		{% if publication.arxiv %}
-		<li>arXiv Preprint: <a href="https://doi.org/{{ publication.Arxiv }}" title = "aRxiv Preprint: {{publication.arxiv}} (opens in new tab)" target="_blank"> {{publication.arxiv}}</a></li>
-		{% endif %}
-
-		<!--Techrxiv - optional -->
-		{% if publication.Techrxiv %}
-		<li>Techrxiv Preprint: <a href="https://doi.org/{{ publication.Techrxiv }}" title = "aRxiv Preprint: {{publication.arxiv}} (opens in new tab)" target="_blank"> {{publication.Techrxiv}}</a></li>
-		{% endif %}
-		
-		<!-- PDF -->
-		{% if publication.journal %}
-			{% if publication.pdf %}
-		<li><a href="{{publication.pdf}}" title = "PDF for {{publication.title}} (opens in new tab)" target="_blank"> Full Text</a></li>
-			{% endif %}
-		{% endif %}
-
-		<!--OSF - optional -->
-		{% if publication.osf %}
-		<li>OSF Preprint: <a href="https://osf.io/{{publication.osf}}" title = "OSF Preprint: {{publication.osf}} (opens in new tab)" target="_blank"> {{publication.osf}}</a></li>
-		{% endif %}
-
-		<!--zenodo records - optional-->
-		{% if publication.zenodo %}
-		<li>Zenodo Record{% if publication.zenodo.size > 1 %}s{% endif %}:
-			{% for record in publication.zenodo %}
-			<a href="https://www.zenodo.org/record/{{record.code}}/" title =  "Zenodo: {{record.code}} (opens in new tab)" target="_blank">{{record.code}}</a>{% if record.description %} ({{record.description}}){% endif %}{% unless forloop.last %}, {% endunless %}
-			{% endfor %}
-		</li>
-		{% endif %}
+		{% for pub in publication.pubs reversed %}
+			{{ pub.name }}
+			{% if pub.state %}
+				&emsp; <b>{{ pub.state }}</b>
+				{% endif %}
+			<br/>
+			<ur>
+				{% if pub.doi %}
+				&emsp; <a href="https://doi.org/{{ pub.doi }}" title = "DOI: {{pub.doi}} (opens in new tab)" target="_blank">DOI: {{ pub.doi }}</a>
+				<br>
+				{% endif %}
+				{% if pub.pdf %}
+				&emsp; <a href="{{pub.pdf}}" title = "PDF for {{publication.title}} (opens in new tab)" target="_blank">PDF is available</a>
+				<br>
+				{% endif %}
+			</ur>
+		{% endfor %}
 
 		<!--Github - optional-->
 		{% if publication.github %}
-		<li>{% if publication.github.size > 1 %}GitHub Repositories:{%else%}GitHub Repository:{% endif %}
+		<li><h6>GitHub Repository</h6></li>
 			{% for record in publication.github %}
-				<a href="https://www.github.com/{{record.url}}/" alt="GitHub Repository: {{record.url}} (opens in new tab)" target="_blank">{{record.name}}</a>{% if record.description %} ({{record.description}}){% endif %}{% unless forloop.last %}, {% endunless %}
+			&emsp; <a href="https://www.github.com/{{record.url}}/" alt="GitHub Repository: {{record.url}} (opens in new tab)" target="_blank">{{record.name}}</a>{% if record.description %} ({{record.description}}){% endif %}{% unless forloop.last %}, {% endunless %}
 			{% endfor %}
-		</li>
 		{% endif %}
 
 		<!--additional links - optional-->
@@ -93,4 +67,6 @@ group: publications
 </div>
 <br>
 {% endfor %}
+</div>
+
 </div>

@@ -1,11 +1,14 @@
-Required fields:
-Name, start date, image, altimage, position, email, ORCID, Google Scholar ID, description
-Optional fields:
-timeline_name, pronouns, scholar, website, UCSF, twitter, linkedin, github
+# Style guide for Fraser Lab Publications.
+- Written by Myeongseok Ryu - last updated 07/04/25
 
-positions: Principal Investigator, Ph.D. Student, Master Student, Undergraduate Intern, Visiting Researcher
+# Required fields:
+- Name, start date, image, altimage, position, email, ORCID, Google Scholar ID, description
+
+# Posable positions:
+- Principal Investigator, Ph.D. Student, Master Student, Undergraduate Intern, Visiting Researcher 
+
+# Example below
 ---
-#REQUIRED
 name: FirstName LastName #Include "Ph.D."" if applicable
 timeline_name: #If you would like your name to appear differently on the Lab timeline, fill out this line.
 startdate: [YYYY-MM-DD] #Enter your start date

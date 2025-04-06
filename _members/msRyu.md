@@ -15,7 +15,8 @@ github: DDingR
 orcid: 0009-0004-3279-5765 #ORCID, create if you don't have one
 description: "
 
-Myeongseok Ryu was undergraduate at Incheon National University...
+Myeongseok Ryu was undergraduate at Incheon National University and Master's student at Korean Advanced Institute of Science and Technology (KAIST).
+He is currently a Ph.D. student in the Mobility Intelligence & Control Laboratory (MIC Lab) at KAIST.
 
 "
 ---

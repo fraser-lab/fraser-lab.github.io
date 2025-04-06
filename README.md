@@ -8,11 +8,20 @@ Draft: https://sites.google.com/view/kaist-mic/home
 
 # How to adjust the website
 
-- Members page: `members.md`
-- Publications page: `publications.md`
-- Research page: `research.md`
-- News page: `news.md`
-- Contact page: `contact.md`
+> [!Note]
+> Please follow the naming rule.
+
+- Research page: `./research/`
+- Philosophy page: `./_data/philosophy.yml`
+- Add Member Information
+  - Copy the template in `./_members/` and rename it to the new member's name (e.g., `msRyu.md`).
+- Add a new publication
+  -Copy the template in `./_publications/` and rename it to the new publication's name (e.g., `{year}-{first noun of paper}.md`, `2025-imposing.md`).
+- Faculty page: `./faculty/index.md`
+- Teaching page: `./course/index.md`
+- News page: `./news/index.md`
+- Join page: `./join/index.md`
+- Contact page: `./contact/index.md`
 
 # How to run this website locally
 
