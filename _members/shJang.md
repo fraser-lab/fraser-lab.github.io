@@ -10,12 +10,12 @@ position: Ph.D. Student #What is your job title in the Fraser lab?
 subsequent: #Leave this blank until you leave the lab
 pronouns: he/him/his
 email: shjang7071@gm.gist.ac.kr #Enter your preferred public e-mail address
-scholar:  #Google Scholar User ID, create if you don't have one
-github: 
+scholar:  tmdgns7071
+github: SHJang7071
 orcid:  #ORCID, create if you don't have one
 description: "
 
-Myeongseok Ryu was undergraduate at Incheon National University...
+Seunghun Jang was undergraduate at Pusan National University
 
 "
 ---
