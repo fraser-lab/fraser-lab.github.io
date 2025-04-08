@@ -32,6 +32,6 @@ Consulting/speaker fees/travel:
 Sponsored and Collaborative Research:
 
 * Through our work in [OpenADMET](https://openadmet.org/), we collaborate with [Octant](https://www.octant.bio/) (funded by ARPA-H and the Gates Foundation) and [Schrödinger](https://www.schrodinger.com/) (funded by the Gates Foundation). None of this work is proprietary and we make the data and code available to the public.
-* Past: [Relay Therapeutics](https://relaytx.com/), Salesforce, Eli Lilly and Company, JSR, Asahi Kasei
+* Past: Relay Therapeutics, Salesforce, Eli Lilly and Company, JSR, Asahi Kasei
 
 I also am the head of the participating research team of beamline 8.3.1. at the Advanced Light Source. Many companies use that beamline or sponsor research and development activities by the beamline scientists, including: Plexxikon, Relay Therapeutics, Eli Lilly and Company, and Global Blood Therapeutics.
