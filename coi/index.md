@@ -20,17 +20,18 @@ Equity (held in Trust, with spouse):
 * [Arda Therapeutics](https://www.ardatherapeutics.com/)
 * [Profluent Bio](https://www.profluent.bio/)
 * [Interdict Bio](https://www.interdictbio.com/) (co-founder)
+* [Vilya Therapeutics](https://vilyatx.com/)
 
 Consulting/speaker fees/travel:
 
 * [Relay Therapeutics](https://relaytx.com/)
 * [Profluent Bio](https://www.profluent.bio/)
 * [Vilya Therapeutics](https://vilyatx.com/)
-* Past: Amgen, Octant, Merck, Olema, RADD Pharmaceuticals, RA Capital, MoMa Therapeutics, Novartis, Arcadia Science, Genentech, Revolution Medicines, Third Rock Ventures, Calico, GSK, Schrodinger, CCG, OpenEye, Roche, AstraZeneca, Global Blood Therapeutics
+* Past: Amgen, Octant, Merck, Olema, RADD Pharmaceuticals, RA Capital, MoMa Therapeutics, Novartis, Arcadia Science, Genentech, Revolution Medicines, Third Rock Ventures, Calico, GSK, Schrödinger, CCG, OpenEye, Roche, AstraZeneca, Global Blood Therapeutics
 
 Sponsored and Collaborative Research:
 
-* [Relay Therapeutics](https://relaytx.com/)
-* Past: Salesforce, Eli Lilly and Company, JSR, Asahi Kasei
+* Through our work in [OpenADMET](https://openadmet.org/), we collaborate with [Octant](https://www.octant.bio/) (funded by ARPA-H and the Gates Foundation) and [Schrödinger](https://www.schrodinger.com/) (funded by the Gates Foundation). None of this work is proprietary and we make the data and code available to the public.
+* Past: [Relay Therapeutics](https://relaytx.com/), Salesforce, Eli Lilly and Company, JSR, Asahi Kasei
 
 I also am the head of the participating research team of beamline 8.3.1. at the Advanced Light Source. Many companies use that beamline or sponsor research and development activities by the beamline scientists, including: Plexxikon, Relay Therapeutics, Eli Lilly and Company, and Global Blood Therapeutics.
