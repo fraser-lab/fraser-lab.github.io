@@ -4,7 +4,7 @@ layout: home
 group: home
 ---
 
-# CGLab @ IMBB-FORTH <br>
+CGLab @ IMBB-FORTH <br>
 {: .display-6}
 [Comparative Genomics Lab](https://www.imbb.forth.gr/en/research-en/item/7417-alexandros-pittis) is hosted at the Institute of Molecular Biology and Biotechnology of the Foundation for Research and Technology Hellas (IMBB-FORTH) in Heraklion, Crete. We are an interdisciplinary biology research group, part of the [Evolution, Development & Cell Biology](https://www.imbb.forth.gr/en/research-en/evolution-development-cell-biology) division of the institute.
 {: .welcomefont}
