@@ -104,7 +104,7 @@ After the round of sharing, the Discussion Leaders will present a joint talk sim
 
 ### April 24
 - pitch 2 preprints you are interested in reviewing
-  - Our running [google doc of cool preprints in high throughput biophysics](https://docs.google.com/document/d/134KFcL3tbGVxgTOSnreCOSr2cicbPuJFQkSTp3ZSRds/edit) - need a new version of this
+  - Our running [google doc of cool preprints in high throughput biophysics](https://docs.google.com/document/d/134KFcL3tbGVxgTOSnreCOSr2cicbPuJFQkSTp3ZSRds/edit) 
 - [How to read a paper for peer review - adapted from HHMI TAP presentation](https://docs.google.com/presentation/d/1TC2RuZS-AaFM0-A-gUsss4bdwDYcZkHgSsK59baJQyc/edit?usp=sharing)
 - Why do we peer review and what makes good peer review?
 - Writing and Receiving Peer Review and expecations for written reviews
