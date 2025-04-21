@@ -97,16 +97,17 @@ After the round of sharing, the Discussion Leaders will present a joint talk sim
 
 
 ### April 23
-- [How to read a paper for peer review - adapted from HHMI TAP presentation](https://docs.google.com/presentation/d/1TC2RuZS-AaFM0-A-gUsss4bdwDYcZkHgSsK59baJQyc/edit?usp=sharing)
-- Why do we peer review and what makes good peer review?
-- Writing and Receiving Peer Review and expecations for written reviews
-  - pairings for papers to review
-  - Jon Schlebach? 
+  - confirm pairings for papers to review
+  - Jon Schlebach will present on experience with peer review on ["Divergent folding-mediated epistasis among unstable membrane protein variants"](https://elifesciences.org/articles/92406)
+    - also check out his seminar ["Cotranslational Assembly Defects Trigger a Proteostatic Killswitch in the Ribosome"](https://qbi.ucsf.edu/seminar-schlebach) on Weds April 23 12-1 in GH114
 
 
 ### April 24
 - pitch 2 preprints you are interested in reviewing
   - Our running [google doc of cool preprints in high throughput biophysics](https://docs.google.com/document/d/134KFcL3tbGVxgTOSnreCOSr2cicbPuJFQkSTp3ZSRds/edit) - need a new version of this
+- [How to read a paper for peer review - adapted from HHMI TAP presentation](https://docs.google.com/presentation/d/1TC2RuZS-AaFM0-A-gUsss4bdwDYcZkHgSsK59baJQyc/edit?usp=sharing)
+- Why do we peer review and what makes good peer review?
+- Writing and Receiving Peer Review and expecations for written reviews
 
 ### May 2
 Pair 1
