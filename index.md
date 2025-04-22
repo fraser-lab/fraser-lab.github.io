@@ -13,7 +13,7 @@ We are an interdisciplinary biology research group, part of the [Evolution, Deve
 
 [//]: # ![Comparative Genomics Lab logo](static/img/logo/jf_retreat_logo.svg){:style="max-width: 100%; height: auto;"}
 
-Our research is focused on **computational biology**, **comparative genomics** and **single-cell/nucleus transcriptomics** methods to address questions on **sequence** and **functional diversity**, **genome**, **protein/gene family**, and **cellular evolution**.
+Our research is focused on **computational biology**, **comparative genomics** and **single-cell/nucleus transcriptomics** methods to address questions on **sequence** and **functional DIVERSITY**, **genome**, **protein/gene family**, and **cellular EVOLUTION**.
 {: .welcomefont}
 
 We are located at the [main building](https://maps.app.goo.gl/8AmNF7YQPdxtm8mK7){:target="_blank"} of FORTH.
