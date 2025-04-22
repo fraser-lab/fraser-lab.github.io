@@ -24,10 +24,9 @@ group: contact
 
   <h4>Alexandros Pittis, Ph.D.</h4>
   Group leader (Researcher C)<br>
-  [Evolution, Development & Cell Biology division](https://www.imbb.forth.gr/en/research-en/item/7417-alexandros-pittis)<br>
-  [Institute of Molecular Biology and Biotechnology (IMBB-FORTH)](https://www.imbb.forth.gr/en/)<br>
+  [Institute of Molecular Biology and Biotechnology (IMBB-FORTH)](https://www.imbb.forth.gr/en/research-en/item/7417-alexandros-pittis)<br>
   Ν. Plastira 100, Vassilika Vouton, Main building, Floor -2, Room Δ031<br>
-  GR - 700 13, Heraklion, Crete<br>
+  GR - 70013, Heraklion, Crete<br>
   email: alexandros.pittis [at] imbb.forth.gr <br>
   email: alexandros.pittis [at] gmail.com <br>
   tel: +30 2810 39 1024
