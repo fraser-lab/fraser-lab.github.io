@@ -11,6 +11,6 @@ chemrxiv: 2023-9b5k7-v3
 links:
 - name: "Celebratory tweetstorm from Stephanie Wankowicz"
   URL: "https://twitter.com/stephanie_mul/status/1709613491328594371"
-- name: "Wankowicz Lab @ Vanderbilt
+- name: "Wankowicz Lab @ Vanderbilt"
   URL: "https://wankowiczlab.com/"
 ---
