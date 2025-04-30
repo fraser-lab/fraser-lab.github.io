@@ -12,7 +12,9 @@ group: home
 We are an interdisciplinary biology research group, part of the [Evolution, Development & Cell Biology](https://www.imbb.forth.gr/en/research/lab-Evolution-Development-Cell-Biology.4/){:target="_blank"} division of the institute.
 {: .welcomefont}
 
-[//]: # ![Comparative Genomics Lab logo](static/img/logo/jf_retreat_logo.svg){:style="max-width: 100%; height: auto;"}
+[//]: 
+
+[Comparative Genomics Lab logo](static/img/logo/jf_retreat_logo.svg){:style="max-width: 100%; height: auto;"}
 
 Our research is focused on **computational biology**, **comparative genomics** and **single-cell/nucleus transcriptomics** methods to address questions on **sequence** and **functional Diversity**, **genome**, **protein/gene family**, and **cellular Evolution**.
 {: .welcomefont}
