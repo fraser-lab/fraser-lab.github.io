@@ -5,14 +5,12 @@ group: home
 ---
 
 <!-- ## CGLab @ IMBB-FORTH <br> -->
-{: .display-6}
+
 [Comparative Genomics Lab](https://www.imbb.forth.gr/en/research/Alexandros-Pittis.62/){:target="_blank"} is based at the Institute of Molecular Biology and Biotechnology of the Foundation for Research and Technology Hellas (IMBB-FORTH) in Heraklion, Crete.
 {: .welcomefont} 
 
 We are an interdisciplinary biology research group, part of the [Evolution, Development & Cell Biology](https://www.imbb.forth.gr/en/research/lab-Evolution-Development-Cell-Biology.4/){:target="_blank"} division of the institute.
 {: .welcomefont}
-
-[//]: # ![Comparative Genomics Lab logo](static/img/logo/jf_retreat_logo.svg){:style="max-width: 100%; height: auto;"}
 
 Our research is focused on **computational biology**, **comparative genomics** and **single-cell/nucleus transcriptomics** methods to address questions on **sequence** and **functional Diversity**, **genome**, **protein/gene family**, and **cellular Evolution**.
 {: .welcomefont}
