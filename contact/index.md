@@ -8,7 +8,7 @@ group: contact
 
 <div class="col-md-4">
 
-  <h4>Lab space </h4>
+  <h4>CGLab space </h4>
   [Main building of the Foundation for Research and Technology-Hellas (FORTH) in Heraklion](https://main.admin.forth.gr/en/content/How-to-find-us.102/){:target="_blank"}<br>
   Ν. Plastira 100, Vassilika Vouton, Main building, Floor -2, Room Δ030<br>
   GR - 700 13, Heraklion, Crete<br>
