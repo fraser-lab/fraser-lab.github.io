@@ -3,10 +3,8 @@ title: CGLab
 layout: home
 group: home
 ---
-
 <!-- ## CGLab @ IMBB-FORTH <br> -->
-![CGLab logo](static/img/logo/cglab_logo.svg){:style="max-width: 10%; height: auto;"}
-
+![CGLab logo](static/img/logo/cglab_logo.svg){:style="max-width: 5%; height: auto;"}
 [Comparative Genomics Lab](https://www.imbb.forth.gr/en/research/Alexandros-Pittis.62/){:target="_blank"} is based at the Institute of Molecular Biology and Biotechnology of the Foundation for Research and Technology Hellas (IMBB-FORTH) in Heraklion, Crete.
 {: .welcomefont} 
 
