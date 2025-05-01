@@ -6,9 +6,9 @@ group: join
 
 # Join CGLab @ IMBB-FORTH
 
-Our lab welcomes applicants from all backgrounds, and we are committed to maintaining a supportive and collaborative lab environment.
+We are committed to maintaining a supportive and collaborative lab environment for all members.
 
-We are always interested in motivated and talented people, even if we do not have an open position currently advertised. Reach out to discuss about your scientific background and goals for your future career (in academia, industry, or other ventures). We strive to provide high standards training across a wide range of computational (and experimental) techniques. If interested please send your CV/Resume to [*Alexandros Pittis*](/contact).
+We are always interested in motivated and talented people, even if we do not have an open position currently advertised. Reach out to discuss about your scientific background and goals for your future career (in academia, industry, or other ventures). We strive to provide high standards training across a wide range of computational and experimental techniques. If interested please send your CV/Resume to [Alexandros Pittis](/contact).
 
 <!-- Currently we have **open positions** for people with the following skills:
 [Specialist](https://aprecruit.ucsf.edu/JPF03325) who will engage in research projects and also manage daily wet lab operations. -->
@@ -21,7 +21,7 @@ We are always interested in motivated and talented people, even if we do not hav
 
 ## Postdoctoral Fellows - Postgraduate students - Research technicians
 
-Inquiries about lab member positions should be emailed directly to [*Alexandros Pittis*](/contact). Postdoctoral / predoctoral fellow compensation levels are adjusted in accordance with the provisions of the Greek legislation and IMBB-FORTH. We encourage candidates to also explore applying for **fellowships** to support their research.
+Inquiries about lab member positions should be emailed directly to [Alexandros Pittis](/contact). Postdoctoral / predoctoral fellow compensation levels are adjusted in accordance with the provisions of the Greek legislation and IMBB-FORTH. We encourage candidates to also explore applying for **fellowships** to support their research.
 
 ## Other Visitors
 
