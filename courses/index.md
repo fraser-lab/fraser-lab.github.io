@@ -6,8 +6,19 @@ group: courses
 
 # KAIST (2025 - Present)
 
+To be updated.
+
 # GIST (2022 - 2025)
 
+To be updated.
+
+<!-- 
+      *** 교수님께 ***
+      아래의 내용을 참고하시어 작성하시면 됩니다.
+
+ -->
+
+<!-- 
 The Fraser lab is supportive of learning through research experiences, and has participated in a number of courses for first year graduate students which challenge students with real research challenges in which they conduct experiments and analyze data to answer interesting new questions.
 
 ## Biophysics: Introduction to Computing for Biophysicists
@@ -83,4 +94,4 @@ PUBS is now run by Martin Kampmann and examines alpha synuclein!
 
 ##  Engineering Life:  A Flipped Classroom with iBiology
 How did life evolve?  How can understand the principles of biological systems to create new proteins, new chemicals, biological structures, cells and tissues?  We will cover these topics in a "flipped course" where you will hear online lectures from scientific leaders in the field, read a paper, and then discuss as a group.  Tetrad minicourse.
-- [2015 - Engineering Life](/courses/flipped_2015/)
+- [2015 - Engineering Life](/courses/flipped_2015/) -->

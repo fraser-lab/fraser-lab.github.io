@@ -15,8 +15,17 @@ github: DDingR
 orcid: 0009-0004-3279-5765 #ORCID, create if you don't have one
 description: "
 
-Myeongseok Ryu was undergraduate at Incheon National University and Master's student at Korean Advanced Institute of Science and Technology (KAIST).
-He is currently a Ph.D. student in the Mobility Intelligence & Control Laboratory (MIC Lab) at KAIST.
+Myeongseok Ryu received the B.S. degree in mechanical engineering from Incheon National University, South Korea, in 2023, abd the M.S. degree in mechanical engineering from Gwangju Institute of Science and Technology (GIST), South Korea, in 2025. 
+He is currently pursuing the Ph.D. degree in mechanical engineering at GIST.
+
+\n
+
+His research interests include adaptive control, neural-networks, and constrained optimization.
+
+\n
+
+###### Selected Publications:
+
 
 "
 ---
