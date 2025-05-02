@@ -19,9 +19,14 @@ website:
 github: KAIST-MIC-Lab
 orcid: 0000-0002-5080-2859
 description: "
-[EXAMPLE]
-`./_members/khChoi.md` 에 가셔서 수정하셔야 합니다.
+
+To be updated.
+
+<!-- 
+./_members/khChoi.md` 에 가셔서 수정하셔야 합니다.
 James was an undergraduate at McGill University, where he worked in the lab of [Dr. Francois Fagotto](https://www.crbm.cnrs.fr/team/morphogenesis/?lang=en) on [Xenopus developmental biology](/publications#20974811).
 During the summers, he returned to his hometown of Toronto and worked in [Dr. Alan Davidson's lab](http://individual.utoronto.ca/Davidsonlab/) on TetR repressor biophysics and [bacteriophage genomics](/publications#16631788).
+
+-->
 "
 ---
