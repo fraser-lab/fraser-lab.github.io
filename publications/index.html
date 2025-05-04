@@ -8,7 +8,7 @@ group: publications
 <h1>Publications</h1>
 <div class="container-fluid">
 
-{% assign sorted = site.publications | sort: "pub_date" | reverse %}
+{% assign sorted = site.publications | sort: "pub_date" %}
 {% for publication in sorted %}
 
 <hr>
@@ -24,8 +24,7 @@ group: publications
 <div class="row" style="padding-top: 20px; margin-top: -20px">
 	<div class="col-sm-5">
 		<img class = "img-fluid" src = "{{publication.image}}" alt =  "Key Figure" style="max-height: 200px;">
-	</div>
-	<ul class="col-sm-7">
+
 		<br>
 		<li><h6>Access the paper</h6></li>
 	
@@ -37,11 +36,11 @@ group: publications
 			<br/>
 			<ur>
 				{% if pub.doi %}
-				&emsp; <a href="https://doi.org/{{ pub.doi }}" title = "DOI: {{pub.doi}} (opens in new tab)" target="_blank">DOI: {{ pub.doi }}</a>
-				<br>
+				&emsp; <a href="https://doi.org/{{ pub.doi }}" title = "DOI: {{pub.doi}} (opens in new tab)" target="_blank">[Online]</a>
+				<!-- <br> -->
 				{% endif %}
 				{% if pub.pdf %}
-				&emsp; <a href="{{pub.pdf}}" title = "PDF for {{publication.title}} (opens in new tab)" target="_blank">PDF is available</a>
+				<a href="{{pub.pdf}}" title = "PDF for {{publication.title}} (opens in new tab)" target="_blank">[PDF]</a>
 				<br>
 				{% endif %}
 			</ur>
@@ -63,6 +62,17 @@ group: publications
 				<li><a href="{{link.url}}" alt="{{link.name}} (opens in new tab)" target="_blank">{{link.name}}</a></li>
 			{% endfor %}
 		{% endif %}
+	</div>
+	<ul class="col-sm-7">
+		<li><h6>Abstract</h6></li>
+		{% if publication.abstract %}
+			<h15>
+				{{ publication.abstract | markdownify }}
+			</h15>
+		{% else %}
+			No abstract available
+		{% endif %}
+
 	</ul>
 </div>
 <br>

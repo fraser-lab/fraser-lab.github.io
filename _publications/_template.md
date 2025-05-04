@@ -36,6 +36,9 @@ github:
   - name: "CoNAC"
     url: "KAIST-MIC-Lab/CoNAC/tree/ECC25-weight-constraint"
     description: "Code for the paper"
+abstract: "
+  add abstract here
+"
 # links:
 #   - name: 
 #     url: 

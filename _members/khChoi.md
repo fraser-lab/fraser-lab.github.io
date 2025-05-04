@@ -3,9 +3,9 @@ name: Kyunghwan Choi, Ph.D.
 timeline_name: Kyunghwan
 startdate: [2025-05-13]
 enddate: # []
-image: /static/img/members/khChoi/khChoi.jpg
+image: /static/img/members/khChoi.jpg
 # 마우스 위로 올리면 나오는 이미지
-altimage: /static/img/members/khChoi/khChoi.jpg
+altimage: /static/img/members/khChoi.jpg
 position: Principal Investigator
 #current:
 pronouns: he/him/his
