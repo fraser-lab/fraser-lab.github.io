@@ -1,5 +1,6 @@
 ---
 #REQUIRED
+layout: members
 name: Myeongseok Ryu #Include "Ph.D."" if applicable
 timeline_name: Myeongseok #If you would like your name to appear differently on the Lab timeline, fill out this line.
 startdate: [2025-08-31] #Enter your start date
@@ -14,18 +15,10 @@ scholar: msryu00 #Google Scholar User ID, create if you don't have one
 github: DDingR
 orcid: 0009-0004-3279-5765 #ORCID, create if you don't have one
 description: "
-
 Myeongseok Ryu received the B.S. degree in mechanical engineering from Incheon National University, South Korea, in 2023, abd the M.S. degree in mechanical engineering from Gwangju Institute of Science and Technology (GIST), South Korea, in 2025. 
-He is currently pursuing the Ph.D. degree in mechanical engineering at GIST.
+He is currently pursuing the Ph.D. degree in mechanical engineering at GIST.   
 
-\n
 
 His research interests include adaptive control, neural-networks, and constrained optimization.
-
-\n
-
-###### Selected Publications:
-
-
 "
 ---

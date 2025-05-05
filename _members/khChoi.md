@@ -1,4 +1,5 @@
 ---
+layout: members
 name: Kyunghwan Choi, Ph.D.
 timeline_name: Kyunghwan
 startdate: [2025-05-13]
@@ -16,8 +17,8 @@ website:
 # twitter: fraser_lab
 # linkedin: jamesSfraser
 # bsky: "fraserlab.bsky.social"
-github: KAIST-MIC-Lab
-orcid: 0000-0002-5080-2859
+github: Kyunghwan-Choi
+orcid: 1111-1111-1111-1111
 description: "
 
 To be updated.

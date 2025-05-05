@@ -1,5 +1,6 @@
 ---
 #REQUIRED
+layout: members
 name: Hyochan Lee #Include "Ph.D."" if applicable
 timeline_name: Hyochan #If you would like your name to appear differently on the Lab timeline, fill out this line.
 startdate: [2025-09-02] #Enter your start date

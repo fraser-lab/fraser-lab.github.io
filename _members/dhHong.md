@@ -1,5 +1,6 @@
 ---
 #REQUIRED
+layout: members
 name: Donghwa Hong #Include "Ph.D."" if applicable
 timeline_name: Donghwa #If you would like your name to appear differently on the Lab timeline, fill out this line.
 startdate: [2025-03-01] #Enter your start date

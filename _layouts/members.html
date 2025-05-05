@@ -1,19 +1,76 @@
 {% include header.html %}
-<div class="container">
-   <!-- <img class="img-fluid" src="/static/img/members/drawings/members/current_members.png" title="This wonderful illustration was courtesy of Jennifer Li" alt="Lab Group Illustration (credit Jennifer Li)"> -->
-   <div class="row">
-       <div class="col-sm-9">
-        <!-- <div class="col"> -->
-           <br>
-           {{ content }}
-        </div>
-        <div class="col-sm-3 smalltxt">
-            <br>
-            {% capture sidebar %}{% include alumni_sidebar.md %}{% endcapture %}
-            {{ sidebar | markdownify }}
-        </div> 
-</div>
-<br>
-<!-- <img class="img-fluid" src="/static/img/members/drawings/alumni/recent_alumni.png" alt="We miss our alumni!"> -->
+<div id = "{{page.name}}" class="row" style="padding-top: 60px; margin-top: -60px;">
+    <div class="col-sm-3">
+        <img class="img-fluid" src="{{page.image}}" {% if page.altimage %} onmouseover="this.src='{{page.altimage}}';" onmouseout="this.src='{{page.image}}';" {% endif %} alt="{{page.name}}"; width="265"; height="365"><br>
+        <strong>{{page.name}}</strong> <br>
+        {% if page.pronouns %}
+          <em>{{page.pronouns}}</em> <br>
+        {% endif %}
+        {{page.position | markdownify | remove: '<p>' | remove: '</p>' }} <br>
+        <em><a href="mailto:{{page.email}}">{{page.email}}</a></em> <br>
+        {% if page.website %}
+          <a style="overflow-wrap: break-word;" href= "{{page.website}}">{{page.website}}</a> <br>
+        {% endif %}
+        {% if page.orcid %}
+          <a href="http://orcid.org"><img class="inline-block mem-icon" src="/static/img/logo/orcid_logo.svg"></a>
+          <a href="http://orcid.org/{{page.orcid}}"> {{page.orcid}}</a> <br>
+        {% endif %}
+        {% if page.linkedin %}
+          <a href="http://www.linkedin.com"><img class="inline-block mem-icon" src="/static/img/logo/linkedin_logo.svg"></a>
+          <a href= "http://www.linkedin.com/in/{{page.linkedin}}"> {{page.linkedin}} </a> <br>
+        {% endif %}
+        {% if page.UCSF %}
+          <a href="http://www.ucsf.edu"><img class="inline-block mem-icon" src="/static/img/logo/ucsf_logo_black.svg"></a>
+          <a href= "http://profiles.ucsf.edu/{{page.UCSF}}"> Profile </a> <br>
+        {% endif %}
+        {% if page.scholar %}
+          <a href="http://scholar.google.com"><img class="inline-block mem-icon" src="/static/img/logo/gscholar_logo.svg"></a>
+          <a href= "http://scholar.google.com/citations?user={{page.scholar}}"> {% if page.timeline_name %}{{ page.timeline_name }}{% else %}{{ page.name | split: " " | first }}{% endif %}'s Citations </a> <br>
+        {% endif %}
+        {% if page.twitter %}
+          <a href="http://twitter.com"><img class="inline-block mem-icon" src="/static/img/logo/twitter_logo.svg"></a>
+          <a href= "http://twitter.com/{{page.twitter}}"> @{{page.twitter}} </a> <br>
+        {% endif %}
+        {% if page.bsky %}
+          <a href="https://bsky.app/"><img class="inline-bloc mem-icon" src="/static/img/logo/bsky_logo.svg"></a>
+          <a href= "https://bsky.app/profile/{{page.bsky}}"> {{page.bsky}} </a> <br>
+        {% endif %}
+        {% if page.github %}
+          <a href="http://github.com"><img class="inline-bloc mem-icon" src="/static/img/logo/github_logo.svg"></a>
+          <a href= "http://github.com/{{page.github}}"> {{page.github}} </a> <br>
+        {% endif %}
+    </div>
+    <div class="col-sm-9">
+        {{page.description | markdownify}}
+    
+        {% assign sorted = site.publications | sort: "pub_date" %}
+  
+        <ol | reversed>
+          {% for publication in sorted %}
+            {% if publication.authors contains page.name %}
+            
+            <li>
+                <b>
+                  <a href="{{ publication.url }}">{{ publication.title }}</a>
+                </b>
+              <br>
+                {{ publication.authors | markdownify | remove: '<p>' | remove: '</p>' }}
+              <br>
+                {% assign pub = publication.pubs | last %}
+                <i>{{ pub.name }}</i> <b>{{ pub.state }}</b>
+                {% if pub.doi %}
+                  &emsp; <a href="https://doi.org/{{ pub.doi }}" title = "DOI: {{pub.doi}} (opens in new tab)" target="_blank">[Online]</a>
+                {% endif %}
+                {% if pub.pdf %}
+                  <a href="{{pub.pdf}}" title = "PDF for {{publication.title}} (opens in new tab)" target="_blank">[PDF]</a>
+                {% endif %}
+            </li>
+
+            {% endif %}
+          {% endfor %}
+        </ol>
+
+  </div>
+
 </div>
 {% include footer.html %}

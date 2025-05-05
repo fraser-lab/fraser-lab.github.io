@@ -5,6 +5,7 @@ group: members
 ---
 
 <div   style="max-width: 800px; margin: auto;">
+<!-- <div class="container-fluid"> -->
 <h1>MIC Lab Members</h1>
 
 {% assign Positions = "Ph.D. Student|Master Student" | split: "|" %}
@@ -40,7 +41,9 @@ group: members
         <div id = "{{member.name}}" class="row" style="padding-top: 60px; margin-top: -60px;">
             <div class="col-sm-4">
                 <img class="img-fluid" src="{{member.image}}" {% if member.altimage %} onmouseover="this.src='{{member.altimage}}';" onmouseout="this.src='{{member.image}}';" {% endif %} alt="{{member.name}}"; width="365"; height="365"><br>
-                <strong>{{member.name}}</strong> <br>
+
+                <a href="{{ member.url }}" title = "More about {{member.name}} (opens in new tab)" target="_blank"><strong>{{member.name}}</strong></a>
+                <br>
                 {% if member.pronouns %}
                   <em>{{member.pronouns}}</em> <br>
                 {% endif %}
@@ -80,7 +83,10 @@ group: members
             </div>
             <div class="col-sm-8">
                 {{member.description | markdownify}}
-            </div>
+              
+                Additional information and publications can be found <a href="{{ member.url }}" title = "More about {{member.name}} (opens in new tab)" target="_blank">here</a>.
+          </div>
+
         </div>
       {% endfor %}
     </ul>

@@ -1,5 +1,6 @@
 ---
 #REQUIRED
+layout: members
 name: Minseok Seo #Include "Ph.D."" if applicable
 timeline_name: Minseok #If you would like your name to appear differently on the Lab timeline, fill out this line.
 startdate: [2025-05-13] #Enter your start date
