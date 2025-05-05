@@ -24,6 +24,9 @@ group: publications
 			{% elsif publication.biorxiv_version %}
 			<i>Biorxiv,</i>
 				{{publication.pub_date | split: "-" | first }}
+			{% elsif publication.chemrxiv %}
+			<i>ChemRxiv,</i>
+				{{publication.pub_date | split: "-" | first }}
 			{% else %}
 			<i>Preprint,</i>
 				{{publication.pub_date | split: "-" | first }}
