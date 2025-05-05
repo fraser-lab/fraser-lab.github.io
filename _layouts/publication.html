@@ -1,0 +1,60 @@
+{% include header.html %}
+
+<h5>{{ page.title | markdownify  | remove: '<p>' | remove: '</p>'}}</h5>  
+<h6>{{ page.authors | markdownify | remove: '<p>' | remove: '</p>' }}</h6>
+{% assign pub = page.pubs | last %}
+<i>{{ pub.name }}</i> <b>{{ pub.state }}</b>
+    
+<div class="row" style="padding-top: 20px; margin-top: -20px">
+    
+    <div class="col-sm-5">
+      <img class = "img-fluid" src = "{{page.image}}" alt =  "Key Figure" style="max-height: 200px;">
+    
+      <br>
+      
+      <li><h6>Access the paper</h6></li>
+    
+      {% for pub in page.pubs reversed %}
+      <i>{{ pub.name }}</i> <b>{{ pub.state }}</b>
+      <ur>
+      {% if pub.doi %}
+      &emsp; <a href="https://doi.org/{{ pub.doi }}" title = "DOI: {{pub.doi}} (opens in new tab)" target="_blank">[Online]</a>
+      {% endif %}
+      {% if pub.pdf %}
+      <a href="{{pub.pdf}}" title = "PDF for {{page.title}} (opens in new tab)" target="_blank">[PDF]</a>
+      <br>
+      {% endif %}
+      </ur>
+      {% endfor %}
+    
+      <!--Github - optional-->
+      {% if page.github %}
+      <li><h6>GitHub Repository</h6></li>
+      {% for record in page.github %}
+      &emsp; <a href="https://www.github.com/{{record.url}}/" alt="GitHub Repository: {{record.url}} (opens in new tab)" target="_blank">{{record.name}}</a>{% if record.description %} ({{record.description}}){% endif %}{% unless forloop.last %}, {% endunless %}
+      {% endfor %}
+      {% endif %}
+    
+      <!--additional links - optional-->
+      {% if page.links %}
+      <br>
+      <h6>Additional Link{% if page.links.size > 1 %}s{% endif %}</h6>
+      {% for link in page.links %}
+        <li><a href="{{link.url}}" alt="{{link.name}} (opens in new tab)" target="_blank">{{link.name}}</a></li>
+      {% endfor %}
+      {% endif %}
+    </div>
+    
+    <ul class="col-sm-7">
+      <li><h6>Abstract</h6></li>
+      {% if page.abstract %}
+      <h15>
+      {{ page.abstract | markdownify }}
+      </h15>
+      {% else %}
+      No abstract available
+      {% endif %}
+    
+    </ul>
+</div>
+{% include footer.html %}

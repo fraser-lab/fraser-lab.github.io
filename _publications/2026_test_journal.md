@@ -1,18 +1,14 @@
 ---
-type: "Conference Paper"
+type: "Journal Paper"
 layout: publication
 group: publications
-title: "Constrained Optimization-Based Neuro-Adaptive Control (CONAC) for Synchronous Machine Drives Under Voltage Constraints"
+title: "Test Journal Paper"
 authors: "**Myeongseok Ryu**, Niklas Monzen, Pascal Seitter,  **Kyunghwan Choi**, Christoph M. Hackl&#42;"
 pubs: 
   - name: Techrxiv
     doi: "10.36227/techrxiv.174585949.94234666/v1"
     pdf: "/static/pub/2025_CONAC_SM.pdf"
     state: "published"
-  - name: IEEE Industrial Electronics Society (IECON) 2025
-    doi: 
-    pdf: "/static/pub/2025_CONAC_SM.pdf"
-    state: "submitted"
 pub_date: "2025-04-28" #Date of publication. Change from Biorxiv date to Journal date once accepted
 image: "/static/pub/2025_CONAC_SM.png"
 github: 

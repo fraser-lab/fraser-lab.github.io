@@ -1,82 +1,58 @@
 ---
-title: Publications from the Fraser Lab
+title: Publications from the MIC Lab
 layout: default
 group: publications
 ---
-<div   style="max-width: 800px; margin: auto;">
+<!-- <div style="max-width: 800px; margin: auto;"> -->
 
 <h1>Publications</h1>
+
 <div class="container-fluid">
 
-{% assign sorted = site.publications | sort: "pub_date" %}
-{% for publication in sorted %}
-
+{% assign paper_type = "Conference Paper|Journal Paper" | split: "|" %}
 <hr>
-<div class="row" style="padding-top: 60px; margin-top: -60px;" id="{{publication.pmid}}">
-	<div>
-		<h5>{{ publication.title | markdownify  | remove: '<p>' | remove: '</p>'}}</h5>
-		<h6>{{ publication.authors | markdownify | remove: '<p>' | remove: '</p>' }}</h6>
-		{% assign pub = publication.pubs | last %}
-		<i>{{ pub.name }}</i> <b>{{ pub.state }}</b>
-	</div>
-</div>
 
-<div class="row" style="padding-top: 20px; margin-top: -20px">
-	<div class="col-sm-5">
-		<img class = "img-fluid" src = "{{publication.image}}" alt =  "Key Figure" style="max-height: 200px;">
+<br>
+<h4>Quick Links</h4>
+{% for type in paper_type %}
+	<li><a href="#{{ type }}">{{ type }}</a></li>
+{% endfor %}
+<hr>
+<br>
 
-		<br>
-		<li><h6>Access the paper</h6></li>
-	
-		{% for pub in publication.pubs reversed %}
-			{{ pub.name }}
-			{% if pub.state %}
-				&emsp; <b>{{ pub.state }}</b>
-				{% endif %}
-			<br/>
-			<ur>
+{% for type in paper_type %}
+	{% assign sorted = site.publications | where: "type", type | sort: "pub_date" %}
+	<div id="{{ type }}">
+		<h4>{{ type }}</h4>
+		<ol | reversed>
+		{% for publication in sorted %}
+		
+		<li>
+			<h8>
+				<b>
+					<a href="{{ publication.url }}">{{ publication.title }}</a>
+				</b>
+			</h8>
+			<br>
+			<h8>
+				{{ publication.authors | markdownify | remove: '<p>' | remove: '</p>' }}
+			</h8>
+			<br>
+			<h8>
+				{% assign pub = publication.pubs | last %}
+				<i>{{ pub.name }}</i> <b>{{ pub.state }}</b>
 				{% if pub.doi %}
-				&emsp; <a href="https://doi.org/{{ pub.doi }}" title = "DOI: {{pub.doi}} (opens in new tab)" target="_blank">[Online]</a>
-				<!-- <br> -->
+					&emsp; <a href="https://doi.org/{{ pub.doi }}" title = "DOI: {{pub.doi}} (opens in new tab)" target="_blank">[Online]</a>
 				{% endif %}
 				{% if pub.pdf %}
-				<a href="{{pub.pdf}}" title = "PDF for {{publication.title}} (opens in new tab)" target="_blank">[PDF]</a>
-				<br>
+					<a href="{{pub.pdf}}" title = "PDF for {{publication.title}} (opens in new tab)" target="_blank">[PDF]</a>
 				{% endif %}
-			</ur>
+			</h8>
+		</li>
 		{% endfor %}
-
-		<!--Github - optional-->
-		{% if publication.github %}
-		<li><h6>GitHub Repository</h6></li>
-			{% for record in publication.github %}
-			&emsp; <a href="https://www.github.com/{{record.url}}/" alt="GitHub Repository: {{record.url}} (opens in new tab)" target="_blank">{{record.name}}</a>{% if record.description %} ({{record.description}}){% endif %}{% unless forloop.last %}, {% endunless %}
-			{% endfor %}
-		{% endif %}
-
-		<!--additional links - optional-->
-		{% if publication.links %}
-			<br>
-			<h6>Additional Link{% if publication.links.size > 1 %}s{% endif %}</h6>
-			{% for link in publication.links %}
-				<li><a href="{{link.url}}" alt="{{link.name}} (opens in new tab)" target="_blank">{{link.name}}</a></li>
-			{% endfor %}
-		{% endif %}
+		</ol>
+	<hr>
 	</div>
-	<ul class="col-sm-7">
-		<li><h6>Abstract</h6></li>
-		{% if publication.abstract %}
-			<h15>
-				{{ publication.abstract | markdownify }}
-			</h15>
-		{% else %}
-			No abstract available
-		{% endif %}
-
-	</ul>
-</div>
-<br>
 {% endfor %}
-</div>
 
 </div>

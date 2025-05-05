@@ -1,4 +1,4 @@
 ---
 layout: tags
-tag-name: how_to
+tag-name: general
 ---

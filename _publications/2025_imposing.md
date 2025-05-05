@@ -1,6 +1,10 @@
 ---
+type: "Conference Paper"
+layout: publication
+group: publications
 title: "Imposing a Weight Norm Constraint for Neuro-Adaptive Control"
 authors: "**Myeongseok Ryu**, **Jiyun Kim**, **Kyunghwan Choi**&#42;"
+domestic_or_international: "international" # or "domestic"
 pubs: 
   - name: Techrxiv
     doi: "10.36227/techrxiv.173014412.26480551/v1"
@@ -8,7 +12,7 @@ pubs:
     state: "published"
   - name: "IEEE European Control Conference (ECC) 2025"
     doi: 
-    pdf: 
+    pdf: "/static/pub/2025_imposing.pdf"
     state: "accepted"
 pub_date: "2025-06-30" #Date of publication. Change from Biorxiv date to Journal date once accepted
 image: "/static/pub/2025_imposing.png"
