@@ -4,7 +4,7 @@ description: "This is the official web page for the Mobility Intelligence & Cont
 url: "http://kaistmic.com"
 
 paginate: 5
-plugins: [jekyll-paginate]
+plugins: [jekyll-paginate, jekyll-sitemap]
 paginate_path: "news/page:num"
 
 permalink: pretty
