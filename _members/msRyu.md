@@ -16,10 +16,10 @@ scholar: msryu00 #Google Scholar User ID, create if you don't have one
 github: DDingR
 orcid: 0009-0004-3279-5765 #ORCID, create if you don't have one
 description: "
-Myeongseok Ryu received the B.S. degree in mechanical engineering from Incheon National University, South Korea, in 2023, abd the M.S. degree in mechanical engineering from Gwangju Institute of Science and Technology (GIST), South Korea, in 2025. 
+**Myeongseok Ryu** received the B.S. degree in mechanical engineering from [Incheon National University](https://www.inu.ac.kr/sites/inuengl/index.do?epTicket=LOG), South Korea, in 2023, abd the M.S. degree in mechanical engineering from [Gwangju Institute of Science and Technology (GIST)](https://www.gist.ac.kr/en/main.html), South Korea, in 2025. 
 He is currently pursuing the Ph.D. degree in mechanical engineering at GIST.   
 
 
-His research interests include adaptive control, neural-networks, and constrained optimization.
+His research interests include **adaptive control**, **neural-networks**, and **constrained optimization**.
 "
 ---
