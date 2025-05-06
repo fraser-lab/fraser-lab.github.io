@@ -9,6 +9,7 @@ position: Principal Investigator
 pronouns: he/him/his
 email: jfraser (at) fraserlab.com
 scholar: j3iaoR8AAAAJ
+nih: "james.fraser.1"
 website:
 UCSF: james.fraser
 twitter: fraser_lab
