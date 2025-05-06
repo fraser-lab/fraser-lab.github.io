@@ -42,7 +42,7 @@ group: members
             <div class="col-sm-4">
                 <img class="img-fluid" src="{{member.image}}" {% if member.altimage %} onmouseover="this.src='{{member.altimage}}';" onmouseout="this.src='{{member.image}}';" {% endif %} alt="{{member.name}}"; width="365"; height="365"><br>
 
-                <a href="{{ member.url }}" title = "More about {{member.name}} (opens in new tab)" target="_blank"><strong>{{member.name}}</strong></a>
+                <a href="{{ member.url }}" title = "More about {{member.name}} " target="_blank"><strong>{{member.name}}</strong></a>
                 <br>
                 {% if member.pronouns %}
                   <em>{{member.pronouns}}</em> <br>
