@@ -50,7 +50,7 @@ The Fraser lab welcomes people of any race, ethnicity, religion, national origin
                   <a href= "http://scholar.google.com/citations?user={{member.scholar}}"> {% if member.timeline_name %}{{ member.timeline_name }}{% else %}{{ member.name | split: " " | first }}{% endif %}'s Citations </a> <br>
                 {% endif %}
                 {% if member.nih %}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/"><img class="inline-block mem-icon" src="/static/img/logo/nih_logo.png"></a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/"><img class="inline-block mem-icon" src="/static/img/logo/nih_logo.svg"></a>
                   <a href= "https://www.ncbi.nlm.nih.gov/myncbi/{{member.nih}}/bibliography/public/"> {% if member.timeline_name %}{{ member.timeline_name }}{% else %}{{ member.name | split: " " | first }}{% endif %}'s Publications </a> <br>
                 {% endif %}                
                 {% if member.twitter %}
