@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   viewBox="0 0 336.87876 211.03879"
+   viewBox="0 0 208.10932 211.03879"
    version="1.1"
    id="svg8"
-   width="336.87875"
+   width="208.10931"
    height="211.03879"
-   sodipodi:docname="NIH Intramural Research Program_ Our Research Changes Lives.svg"
-   inkscape:version="1.3.2 (091e20e, 2023-11-25)"
+   sodipodi:docname="nih_logo_square_modified.svg"
+   inkscape:version="1.3.1 (91b66b0, 2023-11-16)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -24,8 +24,8 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="1.1182778"
-     inkscape:cx="168.56276"
-     inkscape:cy="105.51939"
+     inkscape:cx="33.086591"
+     inkscape:cy="104.62517"
      inkscape:window-width="1312"
      inkscape:window-height="449"
      inkscape:window-x="0"
@@ -48,20 +48,20 @@
   <g
      id="g293534"
      style="display:inline"
-     transform="translate(30.271816,431.43103)">
+     transform="translate(-98.49762,430.5368)">
     <g
        id="g23279"
        transform="matrix(2.2457257,0,0,2.2144497,-30.271816,-430.5368)">
       <path
-         d="m 111.00886,95.3 26.1,-47.7 -26,-47.6 h 6.5 c 3.6,0 7.9,2.6 9.6,5.7 l 22.8,41.9 -22.9,41.9 c -1.7,3.2 -6.1,5.7 -9.6,5.7 h -6.5 z"
+         d="M 125.08813,95.3 141.76585,47.6 125.15203,0 h 4.15345 c 2.30038,0 5.04805,2.6 6.13433,5.7 l 14.56905,41.9 -14.63294,41.9 c -1.08629,3.2 -3.89786,5.7 -6.13433,5.7 h -4.15346 z"
          fill="#20558a"
          id="path4"
-         style="display:inline"
+         style="display:inline;stroke-width:0.799371"
          inkscape:label="path4" />
       <path
          id="path22970"
-         d="M 8.6992188,0 C 3.8992188,0 0,3.9007812 0,8.8007812 V 86.5 c 0,4.8 3.8992188,8.800781 8.6992188,8.800781 H 104.5 L 130.59961,47.599609 104.5,0 Z"
-         style="fill:#616265"
+         d="M 62.686339,0 C 59.736253,0 57.339788,3.9007812 57.339788,8.8007812 V 86.5 c 0,4.8 2.396465,8.800781 5.346551,8.800781 H 121.56562 L 137.60649,47.599609 121.56562,0 Z"
+         style="fill:#616265;stroke-width:0.783966"
          inkscape:label="path22970"
          sodipodi:nodetypes="sssscccs" />
     </g>
