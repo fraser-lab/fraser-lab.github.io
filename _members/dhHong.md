@@ -1,6 +1,7 @@
 ---
 #REQUIRED
 layout: members
+title: Donghwa Hong #This is the title of your page. It will be displayed in the navigation bar and on the page itself.
 name: Donghwa Hong #Include "Ph.D."" if applicable
 timeline_name: Donghwa #If you would like your name to appear differently on the Lab timeline, fill out this line.
 startdate: [2025-03-01] #Enter your start date

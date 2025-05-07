@@ -21,7 +21,7 @@ group: publications
 <br>
 
 {% for type in paper_type %}
-	{% assign sorted = site.publications | where: "type", type | sort: "pub_date" %}
+	{% assign sorted = site.publications | where: "type", type | sort: "pub_date" | reverse %}
 	<div id="{{ type }}">
 		<h4>{{ type }}</h4>
 		<ol | reversed>
@@ -42,7 +42,7 @@ group: publications
 				{% assign pub = publication.pubs | last %}
 				<i>{{ pub.name }}</i> <b>{{ pub.state }}</b>
 				{% if pub.doi %}
-					&emsp; <a href="https://doi.org/{{ pub.doi }}" title = "DOI: {{pub.doi}} (opens in new tab)" target="_blank">[Online]</a>
+					<a href="https://doi.org/{{ pub.doi }}" title = "DOI: {{pub.doi}} (opens in new tab)" target="_blank">[Online]</a>
 				{% endif %}
 				{% if pub.pdf %}
 					<a href="{{pub.pdf}}" title = "PDF for {{publication.title}} (opens in new tab)" target="_blank">[PDF]</a>

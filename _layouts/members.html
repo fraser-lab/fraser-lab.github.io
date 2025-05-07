@@ -43,7 +43,7 @@
     <div class="col-sm-9">
         {{page.description | markdownify}}
     
-        {% assign sorted = site.publications | sort: "pub_date" %}
+        {% assign sorted = site.publications | sort: "pub_date" | reverse %}
   
         <ol | reversed>
           {% for publication in sorted %}

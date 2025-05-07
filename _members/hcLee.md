@@ -1,6 +1,7 @@
 ---
 #REQUIRED
 layout: members
+title: Hyochan Lee #This is the title of your page. It will be displayed in the navigation bar and on the page itself.
 name: Hyochan Lee #Include "Ph.D."" if applicable
 timeline_name: Hyochan #If you would like your name to appear differently on the Lab timeline, fill out this line.
 startdate: [2025-09-02] #Enter your start date

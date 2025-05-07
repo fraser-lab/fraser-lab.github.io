@@ -1,6 +1,7 @@
 ---
 #REQUIRED
 layout: members
+title: Jiyun Kim #This is the title of your page. It will be displayed in the navigation bar and on the page itself.
 name: Jiyun Kim #Include "Ph.D."" if applicable
 timeline_name: Jiyun #If you would like your name to appear differently on the Lab timeline, fill out this line.
 startdate: [2024-03-02] #Enter your start date
