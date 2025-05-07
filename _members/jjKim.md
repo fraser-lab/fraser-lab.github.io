@@ -18,7 +18,7 @@ orcid:  #ORCID, create if you don't have one
 description: "
 
 Jaejoon Kim was Master Student at MIC Lab. 
-Now he is in Master's program at [DCASL]((https://me.gist.ac.kr/dcas/index.do). 
+Now he is in Master's program at [DCASL](https://me.gist.ac.kr/dcas/index.do) in GIST. 
 
 "
 ---

@@ -8,7 +8,7 @@ group: members
 <!-- <div class="container-fluid"> -->
 <h1>MIC Lab Members</h1>
 
-{% assign Positions = "Ph.D. Student|Master Student" | split: "|" %}
+{% assign Positions = "Ph.D. Student|Master Student|Visiting Researcher|Intern" | split: "|" %}
 <hr>
 
 <br>
@@ -20,23 +20,34 @@ group: members
 <br>
 
 {% for position in Positions %}
-  {% assign sorted = site.members | where: "position", position | sort: "startdate" %}
+
+{% assign sorted = site.members | where: "position", position | sort: "startdate" %}
 
   <div id = "{{ position }}">
   <h4>{{ position }}</h4>
+  <hr>
   <div>
-  {% if sorted.size > 0 %}
+
+  {% assign filtered = "" | split: "" %}
+  {% for member in sorted %}
+    {% if member.enddate == empty or member.startdate.size != member.enddate.size %}
+      {% assign filtered = filtered | push: member %}
+    {% endif %}
+  {% endfor %}
+
+
+  {% if filtered.size > 0 %}
     <ul>
-      {% for member in sorted %}
+      {% for member in filtered %}
         {% unless member.enddate == empty or member.startdate.size != member.enddate.size %}
           {% continue %}
         {% endunless %}
 
-        {% if member.position contains "Affiliate" or member.position contains "Visiting" %}
+        {% if member.position contains "Affiliate" %}
           {% continue %}
         {% endif %}
 
-        <hr>
+        
         <!-- The paddingtop and margin-top edits allow anchors to link properly. -->
         <div id = "{{member.name}}" class="row" style="padding-top: 60px; margin-top: -60px;">
             <div class="col-sm-4">
@@ -91,14 +102,15 @@ group: members
       {% endfor %}
     </ul>
   {% else %}
-    <p>None</p>
-
+    <p>
+      We currently have no {{ position }}s in the lab.
+    </p>
   {% endif %}
 {% endfor %}
-<hr>
 </div>
 
 
+{% comment %}
 <div>
 {% assign stretch = 200 %}
 {% assign yheight = 16 %}
@@ -199,3 +211,4 @@ group: members
 <text x="{{ fontsize | times: 0.25 | plus: legendboxsize | plus: xposition }}" y="{{ fontsize | times: 0.75 | plus: legendboxsize | times: 0.5 | plus: yposition }}" font-family="sans-serif" font-size="{{ fontsize }}" stroke="black">Visitor</text> -->
 </svg>
 </div>
+{% endcomment %}

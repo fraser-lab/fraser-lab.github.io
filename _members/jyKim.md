@@ -4,7 +4,7 @@ layout: members
 title: Jiyun Kim #This is the title of your page. It will be displayed in the navigation bar and on the page itself.
 name: Jiyun Kim #Include "Ph.D."" if applicable
 timeline_name: Jiyun #If you would like your name to appear differently on the Lab timeline, fill out this line.
-startdate: [2024-03-02] #Enter your start date
+startdate: [2024-03-01] #Enter your start date
 enddate: # [2025-02-02] # Leave this blank until you leave the lab
 image: /static/img/members/jyKim.jpeg #365 x 365 pixels, 72 dpi
 altimage: /static/img/members/jyKim.jpeg #365 x 365 pixels, 72 dpi

@@ -4,7 +4,7 @@ layout: members
 title: Myeongseok Ryu #This is the title of your page. It will be displayed in the navigation bar and on the page itself.
 name: Myeongseok Ryu #Include "Ph.D."" if applicable
 timeline_name: Myeongseok #If you would like your name to appear differently on the Lab timeline, fill out this line.
-startdate: [2025-08-31] #Enter your start date
+startdate: [2025-05-11] #Enter your start date
 enddate: # [2025-02-02] # Leave this blank until you leave the lab
 image: /static/img/members/msRyu.jpg #365 x 365 pixels, 72 dpi
 altimage: /static/img/members/msRyu.jpg #365 x 365 pixels, 72 dpi
