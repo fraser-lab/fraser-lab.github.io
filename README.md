@@ -1,5 +1,9 @@
 # KAIST MIC Lab
 
+> [!Note]
+> Maintained by Ph.D. student **Myeongseok Ryu**.
+> Contact me at <a href="mailto:dding_98@gm.gist.ac.kr"> for any questions or suggestions.
+
 Forked from fraser-lab.github.io;
 
 See, [here](https://fraserlab.com/2020/05/03/Clone-this-website/)
