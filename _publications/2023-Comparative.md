@@ -8,7 +8,7 @@ domestic_or_international: "international" # or "domestic"
 pubs: 
   - name: IEEE International Workshop on Intelligent Systems (IWIS) 2023
     doi: 10.1109/IWIS58789.2023.10284677
-    pdf: "/static/pub/2023-Comparative.pdf"
+    pdf: "/static/pub/2023-Comparative-IWIS.pdf"
     state: "accepted"
 pub_date: "2023-10-23" #Date of publication. Change from Biorxiv date to Journal date once accepted
 image: "/static/pub/2023-Comparative.png"

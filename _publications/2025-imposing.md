@@ -8,11 +8,11 @@ domestic_or_international: "international" # or "domestic"
 pubs: 
   - name: Techrxiv
     doi: "10.36227/techrxiv.173014412.26480551/v1"
-    pdf: "/static/pub/2025-imposing.pdf"
+    pdf: "/static/pub/2025-imposing-Techrxiv.pdf"
     state: "published"
   - name: "IEEE European Control Conference (ECC) 2025"
     doi: 
-    pdf: "/static/pub/2025-imposing.pdf"
+    pdf: "/static/pub/2025-imposing-ECC.pdf"
     state: "accepted"
 pub_date: "2025-06-30" #Date of publication. Change from Biorxiv date to Journal date once accepted
 image: "/static/pub/2025-imposing.png"

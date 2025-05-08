@@ -7,18 +7,18 @@ authors: "**Myeongseok Ryu**, Niklas Monzen, Pascal Seitter,  **Kyunghwan Choi**
 pubs: 
   - name: Techrxiv
     doi: "10.36227/techrxiv.174585949.94234666/v1"
-    pdf: "/static/pub/2025-CONAC-SM.pdf"
+    pdf: "/static/pub/2025-CONAC-SM-Techrxiv.pdf"
     state: "published"
   - name: IEEE Industrial Electronics Society (IECON) 2025
     doi: 
-    pdf: "/static/pub/2025-CONAC-SM.pdf"
+    pdf: "/static/pub/2025-CONAC-SM-IECON.pdf"
     state: "submitted"
-pub_date: "2025-04-28" #Date of publication. Change from Biorxiv date to Journal date once accepted
+pub_date: "2025-10-01" #Date of publication. Change from Biorxiv date to Journal date once accepted
 image: "/static/pub/2025-CONAC-SM.png"
 github: 
   - name: "CoNAC on SM"
     url: "KAIST-MIC-Lab/CONAC-on-SM"
-    description: "Code for the paper"
+    description: "Code for the paper (not public yet)"
 abstract: "
   This paper presents a **constrained optimization-based neuro-adaptive control (CONAC)** for **nonlinear synchronous machines (SMs)** under **voltage constraints**, which allows to control the completely **unknown** electrical drive system, after a brief learning phase with very satisfactory control performance. 
   The artificial neural network (ANN) in the proposed neuro-adaptive controller (NAC) learns online and empowers the controller to handle parameter uncertainties. 
