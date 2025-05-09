@@ -12,7 +12,7 @@ position: Master Student #What is your job title in the Fraser lab?
 subsequent: #Leave this blank until you leave the lab
 pronouns: he/him/his
 email: bbang988@gm.gist.ac.kr  #Enter your preferred public e-mail address
-scholar: green4338 #Google Scholar User ID, create if you don't have one
+scholar: btNp4v4AAAAJ&hl #Google Scholar User ID, create if you don't have one
 github: YHJeong1231
 orcid: 0000-0002-2676-2535 #ORCID, create if you don't have one
 description: "
