@@ -4,25 +4,26 @@
 > Maintained by Ph.D. student [**Myeongseok Ryu**](https://github.com/DDingR).  
 > Contact me at <a href="mailto:dding_98@gm.gist.ac.kr">dding_98@gm.gist.ac.kr</a> for any questions or suggestions. 
 
-Forked from fraser-lab.github.io;
-
-See, [here](https://fraserlab.com/2020/05/03/Clone-this-website/)
-
-Draft: https://sites.google.com/view/kaist-mic/home
+Forked from [fraser-lab.github.io](https://fraserlab.com/2020/05/03/Clone-this-website/).
 
 # How to adjust the website
 
 > [!Note]
-> Please follow the naming rule.
+> Go to `_templates/` to contribute to the website.  
+> Or just contact maintainer **Myeongseok Ryu** for any questions or suggestions.
 
-- Research page: `./research/`
 - Philosophy page: `./_data/philosophy.yml`
+- Research page: `./research/`
+- Add a new project
+  - Copy the template in `./_templates/`.
 - Add Member Information
-  - Copy the template in `./_members/` and rename it to the new member's name (e.g., `msRyu.md`).
+  - Copy the template in `./_templates/`.
 - Add a new publication
-  -Copy the template in `./_publications/` and rename it to the new publication's name (e.g., `{year}-{first noun of paper}.md`, `2025-imposing.md`).
+  -Copy the template in `./_templates/`.
 - Faculty page: `./faculty/index.md`
 - Teaching page: `./course/index.md`
+- Add a news post
+  - Copy the template in `./_templates/`.
 - News page: `./news/index.md`
 - Join page: `./join/index.md`
 - Contact page: `./contact/index.md`

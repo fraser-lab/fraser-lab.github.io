@@ -33,3 +33,25 @@ abstract: "
 #   - name: 
 #     url: 
 ---
+
+***           Erase From...           ***
+
+* You should name this file as "YYYY-Title-of-the-paper.md"
+    - This rule is important for the Jekyll to recognize the post.
+* When you finalize the post, move this file to "_publications_" folder.
+* Save figures and pdf you use in "static/pub" folder.
+
+* Highly recommended to use the same name as the file name for figure, pdfs
+  so that you can easily find the figure later.
+* For pdfs, use the same name as the file name, but add "_Techrxiv" or "_ECC" at the end.
+    - For example, if you use "2025-imposing.pdf", use "2025-imposing-Techrxiv.pdf" for Techrxiv.
+
+* You can refer to previous projects for the format in "_publications_" folder.
+
+* Change the publication date to the journal date once published.
+
+Required: type, title, authors, domestic_or_international, pubs, pub_date, image, abstract
+
+- This template is made by Myeongseok Ryu on 2025-05-09.
+
+*** here, after you read every directions. ***
