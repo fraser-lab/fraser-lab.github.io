@@ -12,14 +12,10 @@ position: Principal Investigator
 #current:
 pronouns: he/him/his
 email: khchoi@gmail.com
-scholar: khchoi
+scholar: bvOhAiMAAAAJ
 website:
-# UCSF: james.fraser
-# twitter: fraser_lab
-# linkedin: jamesSfraser
-# bsky: "fraserlab.bsky.social"
 github: Kyunghwan-Choi
-orcid: 1111-1111-1111-1111
+orcid: 0000-0002-4832-1597
 description: "
 
 To be updated.

@@ -24,7 +24,7 @@ group: members
             <em>{{member.pronouns}}</em> <br>
           {% endif %}
           {{member.position | markdownify | remove: '<p>' | remove: '</p>' }} <br>
-          <em>{{member.email}}</em> <br>
+          <em><a href="mailto:{{member.email}}">{{member.email}}</a></em> <br>
           {% if member.website %}
             <a style="overflow-wrap: break-word;" href= "{{member.website}}">{{member.website}}</a> <br>
           {% endif %}
