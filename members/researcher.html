@@ -46,11 +46,9 @@ group: members
         {% if member.position contains "Affiliate" %}
           {% continue %}
         {% endif %}
-
-        
         <!-- The paddingtop and margin-top edits allow anchors to link properly. -->
         <div id = "{{member.name}}" class="row" style="padding-top: 60px; margin-top: -60px;">
-            <div class="col-sm-4">
+          <div class="col-sm-4">
                 <img class="img-fluid" src="{{member.image}}" {% if member.altimage %} onmouseover="this.src='{{member.altimage}}';" onmouseout="this.src='{{member.image}}';" {% endif %} alt="{{member.name}}"; width="365"; height="365"><br>
 
                 <a href="{{ member.url }}" title = "More about {{member.name}} " target="_blank"><strong>{{member.name}}</strong></a>

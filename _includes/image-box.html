@@ -1,0 +1,27 @@
+<!-- 이미지 박스 -->
+<!-- <div class="image-container">
+    <img src="/assets/images/sample.jpg" alt="샘플 이미지" />
+  </div>
+   -->
+   <div class="image-container">
+    <img src="{{ include.src }}" alt="{{ include.alt | default: 'image' }}" />
+  </div>
+
+  <style>
+  .image-container {
+    width: 240px;      /* 원하는 너비 */
+    height: 300px;     /* 원하는 높이 */
+    overflow: hidden;  /* 넘치는 부분 잘라냄 */
+    position: relative;
+  }
+  
+  .image-container img {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    min-width: 100%;
+    min-height: 100%;
+    transform: translate(-50%, -50%);
+    object-fit: cover;
+  }
+  </style>

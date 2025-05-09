@@ -7,12 +7,12 @@ timeline_name: Changeun #If you would like your name to appear differently on th
 startdate: [2024-12-26] #Enter your start date 
 enddate: # # Leave this blank until you leave the lab 
 image: /static/img/members/cePark.jpg #365 x 365 pixels 72 dpi 
-altimage: /static/img/members/cePark.jpg #365 x 365 pixels, 72 dpi 
+altimage: /static/img/members/cePark-alt.jpg #365 x 365 pixels, 72 dpi 
 position: Intern #What is your job title in the Fraser lab? 
 subsequent: #Leave this blank until you leave the lab 
 pronouns: he/him/his 
 email: qpalskzm1030@gm.gist.ac.kr #Enter your preferred public e-mail address 
-scholar: qpal1030 #Google Scholar User ID, create if you don't have one 
+scholar: tUIhPcIAAAAJ #Google Scholar User ID, create if you don't have one 
 github: qpal1030 
 orcid: 0009-0001-9350-5686 #ORCID, create if you don't have one 
 description: " 
