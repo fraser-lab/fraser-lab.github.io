@@ -17,7 +17,9 @@ github: seominseok00
 orcid:  #ORCID, create if you don't have one
 description: "
 
-Minseok Seo received B.S. degree from Hanbat National University and is currently pursuing an M.S. degree at the Gwangju Institute of Science and Technology (GIST).
+Minseok Seo received his B.S. degree in *Computer Engineering* from **[Hanbat National University](https://www.hanbat.ac.kr)** and is currently pursuing an M.S. degree at the *AI Graduate School* of the **[Gwangju Institute of Science and Technology (GIST)](https://www.gist.ac.kr)**.
 
+His research interests include **Constrained Reinforcement Learning (CRL)**, especially in guaranteeing state-wise safety.
 "
 ---
+
