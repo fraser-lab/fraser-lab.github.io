@@ -7,7 +7,7 @@ timeline_name: Donghwa #If you would like your name to appear differently on the
 startdate: [2024-03-01] #Enter your start date
 enddate: # [2025-02-02] # Leave this blank until you leave the lab
 image: /static/img/members/dhHong.jpg #365 x 365 pixels, 72 dpi
-altimage: /static/img/members/dhHong.jpg #365 x 365 pixels, 72 dpi
+altimage: /static/img/members/dhHong-alt.jpg #365 x 365 pixels, 72 dpi
 position: Master Student #What is your job title in the Fraser lab?
 subsequent: #Leave this blank until you leave the lab
 pronouns: he/him/his
