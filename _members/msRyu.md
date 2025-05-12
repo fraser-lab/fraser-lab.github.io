@@ -17,7 +17,7 @@ github: DDingR
 orcid: 0009-0004-3279-5765 #ORCID, create if you don't have one
 description: "
 **Myeongseok Ryu** received the B.S. degree in _Department of Mechanical Engineering_ from [**Incheon National University**](https://www.inu.ac.kr/sites/inuengl/index.do?epTicket=LOG), South Korea, in 2023, abd the M.S. degree in _Department of Mechanical Engineering_ from [**Gwangju Institute of Science and Technology (GIST)**](https://www.gist.ac.kr/en/main.html), South Korea, in 2025. 
-He is currently working as a researcher in the _Cho Chun Shik Graduate School of Mobility_ at [**KAIST**](https://www.kaist.ac.kr/en/index.html), South Korea, and a member of the _MIC Lab_ at **KAIST**.
+He is currently working as a researcher in the _Cho Chun Shik Graduate School of Mobility_ at the [**Korea Advanced Institute of Science and Technology (KAIST)**](https://www.kaist.ac.kr/en/index.html), Daejeon, South Korea, and a member of the _MIC Lab_.
 
 
 His research interests include **adaptive control**, **neural-networks**, and **constrained optimization**.
