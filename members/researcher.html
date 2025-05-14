@@ -14,7 +14,8 @@ group: members
 <br>
 <h4>Quick Links</h4>
 {% for position in Positions %}
-<li><a href="#{{ position }}">{{ position }}</a></li>
+{% assign pos_mem = site.members | where: "position", position %}
+<li><a href="#{{ position }}"><b>{{ position }}</b> ({{ pos_mem.size }})</a></li>
 {% endfor %}
 <hr>
 <br>
