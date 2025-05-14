@@ -25,3 +25,15 @@ He is currently working as a researcher in the _Cho Chun Shik Graduate School of
 His research interests include **adaptive control**, **neural-networks**, and **constrained optimization**.
 "
 ---
+<div class="row">
+<div>
+
+<h4>Grant and Awards</h4>
+<ul>
+    <li>2025, <b>European Control Association (EUCA) Student Support</b>; 400 EUR</li>
+    <li>2024, <b>Graduate International Research Experience Fellowship Certificate (IREF)</b>, GIST; 16,000,000 KRW</li>
+    <li>2023, <b>Best Paper Award</b>, Institute of Control, Robotics and Systems</li>
+</ul>
+
+</div>
+<div>

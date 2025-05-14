@@ -27,28 +27,31 @@ group: publications
 		<ol | reversed>
 		{% for publication in sorted %}
 		
-		<li>
-			<h8>
-				<b>
-					<a href="{{ publication.url }}">{{ publication.title }}</a>
-				</b>
-			</h8>
-			<br>
-			<h8>
-				{{ publication.authors | markdownify | remove: '<p>' | remove: '</p>' }}
-			</h8>
-			<br>
-			<h8>
-				{% assign pub = publication.pubs | last %}
-				<i>{{ pub.name }}</i> <b>{{ pub.state }}</b>
-				{% if pub.doi %}
-					<a href="https://doi.org/{{ pub.doi }}" title = "DOI: {{pub.doi}} (opens in new tab)" target="_blank">[Online]</a>
-				{% endif %}
-				{% if pub.pdf %}
-					<a href="{{pub.pdf}}" title = "PDF for {{publication.title}} (opens in new tab)" target="_blank">[PDF]</a>
-				{% endif %}
-			</h8>
-		</li>
+			{% if publication.authors contains "Kyunghwan Choi" %}
+				<li>
+					<h8>
+						<b>
+							<a href="{{ publication.url }}">{{ publication.title }}</a>
+						</b>
+					</h8>
+					<br>
+					<h8>
+						{{ publication.authors | markdownify | remove: '<p>' | remove: '</p>' }}
+					</h8>
+					<br>
+					<h8>
+						{% assign pub = publication.pubs | last %}
+						<i>{{ pub.name }}</i> <b>{{ pub.state }}</b>
+						{% if pub.doi %}
+							<a href="https://doi.org/{{ pub.doi }}" title = "DOI: {{pub.doi}} (opens in new tab)" target="_blank">[Online]</a>
+						{% endif %}
+						{% if pub.pdf %}
+							<a href="{{pub.pdf}}" title = "PDF for {{publication.title}} (opens in new tab)" target="_blank">[PDF]</a>
+						{% endif %}
+					</h8>
+				</li>
+			{% endif %}
+
 		{% endfor %}
 		</ol>
 	<hr>

@@ -48,34 +48,46 @@
         {% endif %}
     </div>
     <div class="col-sm-9">
+       <h4>Description</h4>
         {{page.description | markdownify}}
     
         {% assign sorted = site.publications | sort: "pub_date" | reverse %}
-  
-        <ol | reversed>
-          {% for publication in sorted %}
-            {% if publication.authors contains page.name %}
-            
-            <li>
-                <b>
-                  <a href="{{ publication.url }}">{{ publication.title }}</a>
-                </b>
-              <br>
-                {{ publication.authors | markdownify | remove: '<p>' | remove: '</p>' }}
-              <br>
-                {% assign pub = publication.pubs | last %}
-                <i>{{ pub.name }}</i> <b>{{ pub.state }}</b>
-                {% if pub.doi %}
-                  &emsp; <a href="https://doi.org/{{ pub.doi }}" title = "DOI: {{pub.doi}} (opens in new tab)" target="_blank">[Online]</a>
-                {% endif %}
-                {% if pub.pdf %}
-                  <a href="{{pub.pdf}}" title = "PDF for {{publication.title}} (opens in new tab)" target="_blank">[PDF]</a>
-                {% endif %}
-            </li>
+    
+        {% assign filtered = "" | split: "" %}
+        {% for pub in sorted %}
+          {% if pub.authors contains page.name %}
+            {% assign filtered = filtered | push: pub %}
+          {% endif %}
+        {% endfor %}
 
-            {% endif %}
-          {% endfor %}
-        </ol>
+        {% if filtered.size > 0 %}
+          <hr>
+          <h4>Publications</h4>
+          <ol | reversed>
+            {% for publication in filtered %}
+              {% if publication.authors contains page.name %}
+              
+              <li>
+                  <b>
+                    <a href="{{ publication.url }}">{{ publication.title }}</a>
+                  </b>
+                <br>
+                  {{ publication.authors | markdownify | remove: '<p>' | remove: '</p>' }}
+                <br>
+                  {% assign pub = publication.pubs | last %}
+                  <i>{{ pub.name }}</i> <b>{{ pub.state }}</b>
+                  {% if pub.doi %}
+                    &emsp; <a href="https://doi.org/{{ pub.doi }}" title = "DOI: {{pub.doi}} (opens in new tab)" target="_blank">[Online]</a>
+                  {% endif %}
+                  {% if pub.pdf %}
+                    <a href="{{pub.pdf}}" title = "PDF for {{publication.title}} (opens in new tab)" target="_blank">[PDF]</a>
+                  {% endif %}
+              </li>
+
+              {% endif %}
+            {% endfor %}
+          </ol>
+        {% endif %}
 
         <hr>
     
