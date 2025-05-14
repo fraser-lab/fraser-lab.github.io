@@ -51,11 +51,15 @@ group: members
           <div class="col-sm-4">
                 <img class="img-fluid" src="{{member.image}}" {% if member.altimage %} onmouseover="this.src='{{member.altimage}}';" onmouseout="this.src='{{member.image}}';" {% endif %} alt="{{member.name}}"; width="365"; height="365"><br>
 
-                <a href="{{ member.url }}" title = "More about {{member.name}} " ><strong>{{member.name}}</strong></a>
-                {% if member.kr_name %}
-                   / {{member.kr_name}}
+                {% if member.position == "Principal Investigator" %}
+                  <a href="{{ member.url }}" title = "More about {{member.name}} " ><strong>{{member.name}}, Ph.D.</strong></a> <br>
+                  {{ member.kr_name }} <br>
+                {% else %}
+                  <a href="{{ member.url }}" title = "More about {{member.name}} " ><strong>{{member.name}}</strong></a>
+                  / {{ member.kr_name }} <br>
                 {% endif %}
-                <br>
+                
+              
                 {% if member.pronouns %}
                   <em>{{member.pronouns}}</em> <br>
                 {% endif %}
