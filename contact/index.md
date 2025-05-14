@@ -12,7 +12,7 @@ group: contact
 
   <h4>Lab Area </h4>
   [CCS Graduate School of Mobility](https://mo.kaist.ac.kr)<br>
-  [KAIST](https://www.kaist.ac.kr/kr/)<br>
+  [Korea Advanced Institute of Science and Technology (KAIST)](https://www.kaist.ac.kr/kr/)<br>
   Korea Postcode 23051<br>
   193, Munji-ro, Yuseong-gu<br>
   Daejeon, Republic of Korea<br>
@@ -23,13 +23,13 @@ group: contact
 <div class="col-md-4">
 
   <h4>Kyunghwan Choi, Ph.D.</h4>
-  Professor<br>
+  Assistant Professor<br>
   [CCS Graduate School of Mobility](https://mo.kaist.ac.kr)<br>
-  [KAIST](https://www.kaist.ac.kr/kr/)<br>
+  [Korea Advanced Institute of Science and Technology (KAIST)](https://www.kaist.ac.kr/kr/)<br>
   Korea Postcode 23051<br>
   193, Munji-ro, Yuseong-gu<br>
   Daejeon, Republic of Korea<br>
-  email: khchoi@gist.ac.kr<br>
+  email: kh.choi@kaist.ac.kr<br>
   tel: 
 
 </div>
@@ -39,8 +39,8 @@ group: contact
   <h4>Seunghoon Jang</h4>
   Lab. Adminstrator<br>
   [CCS Graduate School of Mobility](https://mo.kaist.ac.kr)<br>
-  [KAIST](https://www.kaist.ac.kr/kr/)<br>
-  email: shjang7071@gm.gist.ac.kr<br>
+  [Korea Advanced Institute of Science and Technology (KAIST)](https://www.kaist.ac.kr/kr/)<br>
+  email: shjang7071@kaist.ac.kr<br>
   tel: <br>
 
 </div>
