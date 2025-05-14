@@ -3,6 +3,7 @@
 layout: members
 title: Yeongho Jeong #This is the title of your page. It will be displayed in the navigation bar and on the page itself.
 name: Yeongho Jeong #Include "Ph.D."" if applicable
+kr_name: 정영호
 timeline_name: Yeongho #If you would like your name to appear differently on the Lab timeline, fill out this line.
 startdate: [2023-09-01] #Enter your start date
 enddate: # [2025-08-14] # Leave this blank until you leave the lab

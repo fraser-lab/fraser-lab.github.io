@@ -8,7 +8,7 @@ group: members
 <!-- <div class="container-fluid"> -->
 <h1>MIC Lab Members</h1>
 
-{% assign Positions = "Ph.D. Student|Master Student|Visiting Researcher|Intern" | split: "|" %}
+{% assign Positions = "Principal Investigator|Ph.D. Student|Master Student|Visiting Researcher|Intern" | split: "|" %}
 <hr>
 
 <br>
@@ -51,7 +51,10 @@ group: members
           <div class="col-sm-4">
                 <img class="img-fluid" src="{{member.image}}" {% if member.altimage %} onmouseover="this.src='{{member.altimage}}';" onmouseout="this.src='{{member.image}}';" {% endif %} alt="{{member.name}}"; width="365"; height="365"><br>
 
-                <a href="{{ member.url }}" title = "More about {{member.name}} " target="_blank"><strong>{{member.name}}</strong></a>
+                <a href="{{ member.url }}" title = "More about {{member.name}} " ><strong>{{member.name}}</strong></a>
+                {% if member.kr_name %}
+                   / {{member.kr_name}}
+                {% endif %}
                 <br>
                 {% if member.pronouns %}
                   <em>{{member.pronouns}}</em> <br>

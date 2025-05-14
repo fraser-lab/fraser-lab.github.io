@@ -2,7 +2,14 @@
 <div id = "{{page.name}}" class="row" style="padding-top: 60px; margin-top: -60px;">
     <div class="col-sm-3">
         <img class="img-fluid" src="{{page.image}}" {% if page.altimage %} onmouseover="this.src='{{page.altimage}}';" onmouseout="this.src='{{page.image}}';" {% endif %} alt="{{page.name}}"; width="265"; height="365"><br>
-        <strong>{{page.name}}</strong> <br>
+        {% if page.position == "Principal Investigator" %}
+          <strong>{{page.name}}, Ph.D.</strong> <br>
+          {{ page.kr_name }} <br>
+        {% else %}
+          <strong>{{page.name}}</strong>
+          / {{ page.kr_name }} <br>
+        {% endif %}
+          
         {% if page.pronouns %}
           <em>{{page.pronouns}}</em> <br>
         {% endif %}
@@ -70,6 +77,11 @@
           {% endfor %}
         </ol>
 
+        <hr>
+    
+        <div class="col-sm-12 col-md-12">
+          {{ content }}
+        </div>
   </div>
 
 </div>

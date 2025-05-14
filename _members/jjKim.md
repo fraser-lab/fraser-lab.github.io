@@ -3,6 +3,7 @@
 layout: members
 title: Jaejoon Kim #This is the title of your page. It will be displayed in the navigation bar and on the page itself.
 name: Jaejoon Kim #Include "Ph.D."" if applicable
+kr_name: 김재준 #Your name in Korean, if applicable
 timeline_name: Jaejoon #If you would like your name to appear differently on the Lab timeline, fill out this line.
 startdate: [2024-09-02] #Enter your start date
 enddate:  [2025-01-01] # Leave this blank until you leave the lab

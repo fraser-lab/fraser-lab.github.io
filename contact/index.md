@@ -36,7 +36,7 @@ group: contact
 
 <div class="col-md-4">
 
-  <h4>Seunghoon Jang</h4>
+  <h4>Seunghun Jang</h4>
   Lab. Adminstrator<br>
   [CCS Graduate School of Mobility](https://mo.kaist.ac.kr)<br>
   [Korea Advanced Institute of Science and Technology (KAIST)](https://www.kaist.ac.kr/kr/)<br>

@@ -3,6 +3,7 @@
 layout: members 
 title: Changeun Park #This is the title of your page. It will be displayed in the navigation bar and on the page itself. 
 name: Changeun Park #Include "Intern"" if applicable 
+kr_name: 박창은 #Your name in Korean, if applicable
 timeline_name: Changeun #If you would like your name to appear differently on the Lab timeline, fill out this line. 
 startdate: [2024-12-26] #Enter your start date 
 enddate: # # Leave this blank until you leave the lab 

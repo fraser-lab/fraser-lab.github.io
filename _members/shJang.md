@@ -3,6 +3,7 @@
 layout: members
 title: Seunghun Jang #This is the title of your page. It will be displayed in the navigation bar and on the page itself.
 name: Seunghun Jang #Include "Ph.D."" if applicable
+kr_name: 장승훈
 timeline_name: Seunghun #If you would like your name to appear differently on the Lab timeline, fill out this line.
 startdate: [2022-09-01] #Enter your start dates
 enddate: # [2025-02-02] # Leave this blank until you leave the lab

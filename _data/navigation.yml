@@ -22,10 +22,10 @@
 - name: People
   group: members
   dropdown:
-    - name: Principle Investigators
-      group: members
-      link: "/members/PI"
-    - name: Researcher
+    # - name: Principle Investigators
+    #   group: members
+    #   link: "/members/PI"
+    - name: Lab Members
       group: members
       link: "/members/researcher"
     - name: Alumni

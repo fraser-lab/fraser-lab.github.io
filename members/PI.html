@@ -19,7 +19,12 @@ group: members
       <div class="col-sm-4">
           <img class="img-fluid" src="{{member.image}}" {% if member.altimage %} onmouseover="this.src='{{member.altimage}}';" onmouseout="this.src='{{member.image}}';" {% endif %} alt="{{member.name}}"; width="365"; height="365"><br>
           <!-- <img class="img-fluid" src="https://github.com/KAIST-MIC-Lab/KAIST-MIC-Lab.github.io/static/img/members/khchoi/khChoi.jpg" {% if member.altimage %} onmouseover="this.src='{{member.altimage}}';" onmouseout="this.src='{{member.image}}';" {% endif %} alt="{{member.name}}"; width="365"; height="365"><br> -->
-          <strong>{{member.name}}</strong> <br>
+          <strong>{{member.name}}</strong>
+          <br>
+          {% if member.kr_name %}
+            {{member.kr_name}}
+          {% endif %}
+          <br>
           {% if member.pronouns %}
             <em>{{member.pronouns}}</em> <br>
           {% endif %}
@@ -32,6 +37,10 @@ group: members
             <a href="http://orcid.org"><img class="inline-block mem-icon" src="/static/img/logo/orcid_logo.svg"></a>
             <a href="http://orcid.org/{{member.orcid}}"> {{member.orcid}}</a> <br>
           {% endif %}
+          {% if member.researchgate %}
+                  <a href="http://orcid.org"><img class="inline-block mem-icon" src="/static/img/logo/researchGate_logo.svg"></a>
+                  <a href="https://www.researchgate.net/profile/{{member.researchgate}}"> {% if member.timeline_name %}{{ member.timeline_name }}{% else %}{{ member.name | split: " " | first }}{% endif %}'s ResearchGate</a> <br>
+                {% endif %}
           {% if member.linkedin %}
             <a href="http://www.linkedin.com"><img class="inline-block mem-icon" src="/static/img/logo/linkedin_logo.svg"></a>
             <a href= "http://www.linkedin.com/in/{{member.linkedin}}"> {{member.linkedin}} </a> <br>
@@ -84,9 +93,9 @@ group: members
     <h2>Education</h2>
     
     <ul>
-      <li>Ph.D. in Mechanical Engineering, <b>KAIST</b>, 2020 (Advisor: Prof. <a href= "https://msc.kaist.ac.kr)">Kyung-soo Kim</a>)</li>
-      <li>M.S. in Mechanical Engineering, <b>KAIST</b>, 2015 (Advisor: Prof. <a href= "https://msc.kaist.ac.kr)">Kyung-soo Kim</a>)</li>
-      <li>B.S. in Mechanical Engineering, <b>KAIST</b>, 2013 (Advisor: Prof. <a href= "https://msc.kaist.ac.kr)">Kyung-soo Kim</a>)</li>
+      <li>Ph.D. in Mechanical Engineering, <b>KAIST</b>, 2020 (Advisor: Prof. <a href= "https://scholar.google.com/citations?user=PQLo0oEAAAAJ&hl=en)">Kyung-soo Kim</a>)</li>
+      <li>M.S. in Mechanical Engineering, <b>KAIST</b>, 2015 (Advisor: Prof. <a href= "https://scholar.google.com/citations?user=PQLo0oEAAAAJ&hl=en)">Kyung-soo Kim</a>)</li>
+      <li>B.S. in Mechanical Engineering, <b>KAIST</b>, 2013 (Advisor: Prof. <a href= "https://scholar.google.com/citations?user=PQLo0oEAAAAJ&hl=en)">Kyung-soo Kim</a>)</li>
     </ul>
     <br/>
   </div>
