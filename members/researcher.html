@@ -65,6 +65,10 @@ group: members
                   <a href="http://orcid.org"><img class="inline-block mem-icon" src="/static/img/logo/orcid_logo.svg"></a>
                   <a href="http://orcid.org/{{member.orcid}}"> {{member.orcid}}</a> <br>
                 {% endif %}
+                {% if member.researchgate %}
+                  <a href="http://orcid.org"><img class="inline-block mem-icon" src="/static/img/logo/researchGate_logo.svg"></a>
+                  <a href="https://www.researchgate.net/profile/{{member.researchgate}}"> {% if member.timeline_name %}{{ member.timeline_name }}{% else %}{{ member.name | split: " " | first }}{% endif %}'s ResearchGate</a> <br>
+                {% endif %}
                 {% if member.linkedin %}
                   <a href="http://www.linkedin.com"><img class="inline-block mem-icon" src="/static/img/logo/linkedin_logo.svg"></a>
                   <a href= "http://www.linkedin.com/in/{{member.linkedin}}"> {{member.linkedin}} </a> <br>

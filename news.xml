@@ -9,8 +9,8 @@
   <updated>{{ site.time | date_to_xmlschema }}</updated>
   <id>{{site.url}}</id>
   <author>
-    <name>Choi Kyunghwan</name>
-    <email>khchoi@gist.ac.kr</email>
+    <name>Myeongseok Ryu</name>
+    <email>dding_98@kaist.ac.kr</email>
   </author>
 
   {% for post in site.posts limit:20 %}

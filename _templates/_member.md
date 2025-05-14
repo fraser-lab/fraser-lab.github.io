@@ -39,6 +39,8 @@ email: dding_98@gm.gist.ac.kr # Enter your preferred public e-mail address
 scholar: gUHuDJ4AAAAJ # Google Scholar User ID, create if you don't have one
 github: DDingR # GitHub ID, create if you don't have one
 orcid: 0009-0004-3279-5765 #ORCID, create if you don't have one
+# For researchgate, go to `Settings/Privacy/Your\ public\ profile` and copy the last part of the URL.
+researchgate: Myeongseok-Ryu # ResearchGate
 # Write your description in markdown format.
 # I leave this as example for you.
 description: "
