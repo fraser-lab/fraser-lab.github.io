@@ -19,8 +19,8 @@ website:
 github: Kyunghwan-Choi
 orcid: 0000-0002-4832-1597
 description: "
-
-Kyunghwan Choi is an **Assistant Professor** at the _Cho Chun Shik Graduate School of Mobility_ at the [**Korea Advanced Institute of Science and Technology (KAIST)**](https://www.kaist.ac.kr/en/index.html) and Director of the **Mobility Intelligence and Control Laboratory (MIC Lab)**. 
+**
+Kyunghwan Choi** is an **Assistant Professor** at the _Cho Chun Shik Graduate School of Mobility_ at the [**Korea Advanced Institute of Science and Technology (KAIST)**](https://www.kaist.ac.kr/en/index.html) and Director of the **Mobility Intelligence and Control Laboratory (MIC Lab)**. 
 
 
 His research focuses on **optimal and learning-based control** for **connected, automated, and electrified vehicles (CAEVs)**. 
