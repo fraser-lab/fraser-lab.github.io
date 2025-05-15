@@ -1,6 +1,12 @@
 {% include header.html %}
 
-<h5>{{ page.title | markdownify  | remove: '<p>' | remove: '</p>'}}</h5>  
+<h5>
+  {{ page.title | markdownify  | remove: '<p>' | remove: '</p>'}} 
+  {% if page.domestic_or_international contains "Domestic" %}
+    / 
+    {{ page.krtitle }}
+  {% endif %}
+</h5> 
 <h6>{{ page.authors | markdownify | remove: '<p>' | remove: '</p>' }}</h6>
 {% assign pub = page.pubs | last %}
 <i>{{ pub.name }}</i> <b>{{ pub.state }}</b>
