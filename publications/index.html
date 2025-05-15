@@ -50,11 +50,19 @@ group: publications
 				<ol | reversed>
 				{% for publication in sorted %}
 				
+				
+				<!-- {{ publication.pub_date | date: "%Y" }} -->
+
+
 					{% if publication.authors contains "Kyunghwan Choi" %}
 						<li>
 							<h8>
 								<b>
 									<a href="{{ publication.url }}">{{ publication.title }}</a>
+									{% if publication.domestic_or_international contains "Domestic" %}
+										/ 
+										{{ publication.krtitle }}
+									{% endif %}
 								</b>
 							</h8>
 							<br>

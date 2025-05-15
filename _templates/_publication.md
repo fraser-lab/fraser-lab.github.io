@@ -27,6 +27,7 @@ type: "Conference Paper" # Conference Paper, Journal Paper
 layout: publication # Do not change this
 group: publications # Do not change this
 title: "paper title" # Title of the paper
+krtitle: # only for domestic papers
 authors: "**Myeongseok Ryu**, **Jiyun Kim**, **Kyunghwan Choi**&#42;" # Author of the paper
 domestic_or_international: "International" # "International" or "Domestic"
 pubs: # Publication information
