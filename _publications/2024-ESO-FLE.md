@@ -4,7 +4,7 @@ layout: publication
 group: publications
 title: "Extended State Observer Based Stator Flux Linkage Estimation of Nonlinear Synchronous Machines"
 authors: "**Seunghun Jang**, Bernd Pfeifer, Christoph M. Hackl, **Kyunghwan Choi**&#42;"
-domestic_or_international: "international" # or "domestic"
+domestic_or_international: "International" # or "domestic"
 pubs: 
   - name: IEEE International Symposium on Industrial Electronics (ISIE) 2024
     doi: "10.1109/ISIE54533.2024.10595772"

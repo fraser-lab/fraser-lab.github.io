@@ -13,9 +13,17 @@ group: members
 
 <br>
 <h4>Quick Links</h4>
+
 {% for position in Positions %}
-{% assign pos_mem = site.members | where: "position", position %}
-<li><a href="#{{ position }}"><b>{{ position }}</b> ({{ pos_mem.size }})</a></li>
+{% assign filtered = "" | split: "" %}
+  {% for member in site.members %}
+    {% if member.enddate == empty or member.startdate.size != member.enddate.size %}
+      {% if member.position == position %}
+        {% assign filtered = filtered | push: member %}
+      {% endif %}    
+    {% endif %}
+  {% endfor %}
+  <li><a href="#{{ position }}"><b>{{ position }}</b> ({{ filtered.size }})</a></li>
 {% endfor %}
 <hr>
 <br>

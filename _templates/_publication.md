@@ -28,7 +28,7 @@ layout: publication # Do not change this
 group: publications # Do not change this
 title: "paper title" # Title of the paper
 authors: "**Myeongseok Ryu**, **Jiyun Kim**, **Kyunghwan Choi**&#42;" # Author of the paper
-domestic_or_international: "international" # "international" or "domestic"
+domestic_or_international: "International" # "International" or "Domestic"
 pubs: # Publication information
   - name: Techrxiv 
     doi: "10.36227/techrxiv.173014412.26480551/v1"

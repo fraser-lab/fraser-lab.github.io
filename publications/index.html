@@ -9,53 +9,78 @@ group: publications
 
 <div class="container-fluid">
 
+{% assign dom_int = "International|Domestic" | split: "|" %}
 {% assign paper_type = "Conference Paper|Journal Paper" | split: "|" %}
 <hr>
 
 <br>
 <h4>Quick Links</h4>
-{% for type in paper_type %}
-	<li><a href="#{{ type }}">{{ type }}</a></li>
+{% for domInt in dom_int %}
+	{% for type in paper_type %}
+		{% assign filtered = "" | split: "" %}
+		{% for pubs in site.publications %}
+			{% if pubs.domestic_or_international == domInt and pubs.type == type %}
+				{% assign filtered = filtered | push: pubs %}
+			{% endif %}
+		{% endfor %}
+		{% if filtered.size > 0 %}
+			<li><a href="#{{domInt}} {{ type }}"><b>{{domInt}} {{ type }}</b> ({{filtered.size}})</a></li>
+		{% endif %}		
+	{% endfor %}
 {% endfor %}
 <hr>
 <br>
 
-{% for type in paper_type %}
-	{% assign sorted = site.publications | where: "type", type | sort: "pub_date" | reverse %}
-	<div id="{{ type }}">
-		<h4>{{ type }}</h4>
-		<ol | reversed>
-		{% for publication in sorted %}
-		
-			{% if publication.authors contains "Kyunghwan Choi" %}
-				<li>
-					<h8>
-						<b>
-							<a href="{{ publication.url }}">{{ publication.title }}</a>
-						</b>
-					</h8>
-					<br>
-					<h8>
-						{{ publication.authors | markdownify | remove: '<p>' | remove: '</p>' }}
-					</h8>
-					<br>
-					<h8>
-						{% assign pub = publication.pubs | last %}
-						<i>{{ pub.name }}</i> <b>{{ pub.state }}</b>
-						{% if pub.doi %}
-							<a href="https://doi.org/{{ pub.doi }}" title = "DOI: {{pub.doi}} (opens in new tab)" target="_blank">[Online]</a>
-						{% endif %}
-						{% if pub.pdf %}
-							<a href="{{pub.pdf}}" title = "PDF for {{publication.title}} (opens in new tab)" target="_blank">[PDF]</a>
-						{% endif %}
-					</h8>
-				</li>
-			{% endif %}
+{% for domInt in dom_int %}
+	
+	{% for type in paper_type %}
 
+		{% assign filtered = "" | split: "" %}
+		{% for pubs in site.publications %}
+			{% if pubs.domestic_or_international == domInt and pubs.type == type %}
+				{% assign filtered = filtered | push: pubs %}
+			{% endif %}
 		{% endfor %}
-		</ol>
-	<hr>
-	</div>
+
+		{% if filtered.size > 0 %}
+			{% assign sorted = filtered | sort: "pub_date" | reverse %}
+
+			<div id="{{domInt}} {{ type }}">
+				<h4>{{domInt}} {{ type }}</h4>
+				<ol | reversed>
+				{% for publication in sorted %}
+				
+					{% if publication.authors contains "Kyunghwan Choi" %}
+						<li>
+							<h8>
+								<b>
+									<a href="{{ publication.url }}">{{ publication.title }}</a>
+								</b>
+							</h8>
+							<br>
+							<h8>
+								{{ publication.authors | markdownify | remove: '<p>' | remove: '</p>' }}
+							</h8>
+							<br>
+							<h8>
+								{% assign pub = publication.pubs | last %}
+								<i>{{ pub.name }}</i> <b>{{ pub.state }}</b>
+								{% if pub.doi %}
+									<a href="https://doi.org/{{ pub.doi }}" title = "DOI: {{pub.doi}} (opens in new tab)" target="_blank">[Online]</a>
+								{% endif %}
+								{% if pub.pdf %}
+									<a href="{{pub.pdf}}" title = "PDF for {{publication.title}} (opens in new tab)" target="_blank">[PDF]</a>
+								{% endif %}
+							</h8>
+						</li>
+					{% endif %}
+
+				{% endfor %}
+				</ol>
+			<hr>
+			</div>
+		{% endif %}
+	{% endfor %}
 {% endfor %}
 
 </div>

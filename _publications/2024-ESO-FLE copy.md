@@ -4,7 +4,7 @@ layout: publication
 group: publications
 title: "Neural Network-based Nonlinearity Estimation of Voltage Source Inverter for Synchronous Machine Drives"
 authors: "**Yeongho Jeong**, **Seunghun Jang**, **Kyunghwan Choi**&#42;"
-domestic_or_international: "international" # or "domestic"
+domestic_or_international: "International" # or "domestic"
 pubs: 
   - name: IEEE International Symposium on Industrial Electronics (ISIE) 2024
     doi: "10.1109/ISIE54533.2024.10595703"
