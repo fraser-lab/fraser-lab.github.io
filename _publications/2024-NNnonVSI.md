@@ -11,7 +11,7 @@ pubs:
     pdf: "/static/pub/2024-NNnonVSI.pdf"
     state: "accepted"
 pub_date: "2024-7-19" #Date of publication. Change from Biorxiv date to Journal date once accepted
-image: ""
+image: "/static/pub/2024-NNnonVSI.png"
 github: 
   - name: "NNnonVSI"
     url: "" #"KAIST-MIC-Lab/ESO-FLE"
