@@ -1,5 +1,5 @@
 ---
-type: "Journal Paper"
+type: "Conference Paper"
 layout: publication
 group: publications
 title: "Using Deep Reinforcement Learning for Dynamic Gain Adjustment of a Disturbance Observer"
