@@ -87,6 +87,9 @@
                 <li>
                     <b>
                       <a href="{{ publication.url }}">{{ publication.title }}</a>
+                      {% if publication.domestic_or_international contains "Domestic" %}
+                        / {{ publication.krtitle }}
+                      {% endif %}
                     </b>
                   <br>
                     {{ publication.authors | markdownify | remove: '<p>' | remove: '</p>' }}
