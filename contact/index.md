@@ -11,6 +11,7 @@ group: contact
 <div class="col-md-4">
 
   <h4>Lab Area </h4>
+  F405 (Office), F418 (Lab)<br>
   [CCS Graduate School of Mobility](https://mo.kaist.ac.kr)<br>
   [Korea Advanced Institute of Science and Technology (KAIST)](https://www.kaist.ac.kr/kr/)<br>
   Korea Postcode 23051<br>
@@ -29,8 +30,8 @@ group: contact
   Korea Postcode 23051<br>
   193, Munji-ro, Yuseong-gu<br>
   Daejeon, Republic of Korea<br>
-  email: kh.choi@kaist.ac.kr<br>
-  tel: 
+  email: <a href="mailto:kh.choi@kaist.ac.kr">kh.choi@kaist.ac.kr</a><br>
+  tel: <a href="tel:+82-42-350-1764">+82-42-350-1764</a><br>
 
 </div>
 
@@ -40,8 +41,8 @@ group: contact
   Lab. Adminstrator<br>
   [CCS Graduate School of Mobility](https://mo.kaist.ac.kr)<br>
   [Korea Advanced Institute of Science and Technology (KAIST)](https://www.kaist.ac.kr/kr/)<br>
-  email: shjang7071@kaist.ac.kr<br>
-  tel: <br>
+  email: <a href="mailto:shjang7071@kaist.ac.kr">shjang7071@kaist.ac.kr<a><br>
+  <!-- tel:  -->
 
 </div>
 
