@@ -5,6 +5,8 @@ group: research
 ---
 
 <!-- ********************************** -->
+<div class="container-fluid">
+
 <div class="row">
 
 ## Learning + Control Theory
@@ -40,4 +42,5 @@ These results strongly validate the feasibility of the proposed online DL approa
 <br/>
 [6] Y. Jeong, S. Jang, and __K. Choi__\*, “[Neural Network-based Nonlinearity Estimation of Voltage Source Inverter for Synchronous Machine Drives](https://ieeexplore.ieee.org/abstract/document/10595703),” in __2024 IEEE 33rd International Symposium on Industrial Electronics (ISIE)__, 2024: IEEE. Link
 
+</div>
 </div>

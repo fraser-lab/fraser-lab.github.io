@@ -1,5 +1,5 @@
 ---
-title: Facilities
+title: MIC Lab Facilities
 layout: default
 group: facilities
 ---

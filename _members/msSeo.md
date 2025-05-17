@@ -1,6 +1,7 @@
 ---
 #REQUIRED
 layout: members
+group: members
 title: Minseok Seo #This is the title of your page. It will be displayed in the navigation bar and on the page itself.
 name: Minseok Seo #Include "Ph.D."" if applicable
 kr_name: 서민석 #Your name in Korean, if applicable

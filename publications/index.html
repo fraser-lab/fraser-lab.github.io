@@ -20,7 +20,9 @@ group: publications
 		{% assign filtered = "" | split: "" %}
 		{% for pubs in site.publications %}
 			{% if pubs.domestic_or_international == domInt and pubs.type == type %}
-				{% assign filtered = filtered | push: pubs %}
+				{% if pubs.authors contains "Kyunghwan Choi" %}
+					{% assign filtered = filtered | push: pubs %}
+				{% endif %}
 			{% endif %}
 		{% endfor %}
 		{% if filtered.size > 0 %}

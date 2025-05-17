@@ -1,6 +1,7 @@
 ---
 #REQUIRED
 layout: members
+group: members
 title: Jiyun Kim #This is the title of your page. It will be displayed in the navigation bar and on the page itself.
 name: Jiyun Kim #Include "Ph.D."" if applicable
 kr_name: 김지윤 #Your name in Korean, if applicable

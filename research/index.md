@@ -5,6 +5,7 @@ group: research
 ---
 
 <!-- ********************************** -->
+<div class="container-fluid">
 <div class="row">
 
 ## Research Background 
@@ -131,3 +132,4 @@ To fully unlock the potential of CAEVs, such as maximizing energy efficiency, op
 [1] __K. Choi__\*, S. Shin, and M. Seo, “Cooperative Merging in Mixed Traffic Based on Strategic Influence of Connected Automated Vehicles on Human-Driven Vehicle Behavior,” Under review for __Advanced Intelligent Systems__.
 <br/>
 [2] M. Seo, S. Shin, K. Kim, and __K. Choi__\*, “Reinforcement Learning-based Collision Avoidance of a Connected and Automated Vehicle at Merging Roads,” in __2023 International Workshop on Intelligent Systems (IWIS)__, 2023: IEEE.
+</div>

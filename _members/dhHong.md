@@ -1,6 +1,7 @@
 ---
 #REQUIRED
 layout: members
+group: members
 title: Donghwa Hong #This is the title of your page. It will be displayed in the navigation bar and on the page itself.
 name: Donghwa Hong #Include "Ph.D."" if applicable
 kr_name: 홍동화 #Your name in Korean, if applicable
