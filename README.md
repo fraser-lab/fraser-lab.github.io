@@ -38,6 +38,7 @@ Technologies this website uses:
 
 Before pushing changes, please check that they will work on your system first with the plugins included in the Gemfile using the bundler tool (results served at [localhost:4000](localhost:4000)):
 (For mac user; update your ruby; (https://mac.install.guide/ruby/update))
+(For Windows user follow https://velog.io/@kimsoyeong/github.io-jekyll )
 
     sudo gem install bundler
     bundle install
