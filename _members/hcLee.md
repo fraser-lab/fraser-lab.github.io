@@ -1,6 +1,7 @@
 ---
 #REQUIRED
 layout: members
+group: members
 title: Hyochan Lee #This is the title of your page. It will be displayed in the navigation bar and on the page itself.
 name: Hyochan Lee #Include "Ph.D."" if applicable
 kr_name: 이효찬 #Your name in Korean, if applicable
@@ -17,7 +18,7 @@ scholar: U6q0vDEAAAAJ  #Google Scholar User ID, create if you don't have one
 github: HyochanLee1007
 orcid: 0000-0002-7445-7412  #ORCID, create if you don't have one
 description: "
-**Hyochan Lee** received the B.S. and M.S. degrees in the _Department of Creative Convergence Engineering_ from [**Hanbat National University**](https://www.hanbat.ac.kr/eng/index.do), Daejeon, South Korea, in 2023 and 2024, respectively. He is currently pursuing the Ph.D. degree in the _Graduate School of Mobility_ at the [**Korea Advanced Institute of Science and Technology (KAIST)**](https://www.kaist.ac.kr/en/), Daejeon, South Korea.
+**Hyochan Lee** received the B.S. and M.S. degrees in the _Department of Creative Convergence Engineering_ from [**Hanbat National University**](https://www.hanbat.ac.kr/eng/index.do), Daejeon, South Korea, in 2023 and 2024, respectively. He is currently pursuing a _Part time Contract Research Scientist_ in the _Graduate School of Mobility_ at the [**Korea Advanced Institute of Science and Technology (KAIST)**](https://www.kaist.ac.kr/en/), Daejeon, South Korea.
 
 
 His current research interests include **intelligent control of mobility systems** using **reinforcement learning** and **deep learning**, **tracking control of electromechanical systems**, and the development of advanced control theories such as **nonlinear adaptive control**, **optimal control**, and **learning-based control**.

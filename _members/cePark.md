@@ -1,6 +1,7 @@
 ---
 #REQUIRED
 layout: members 
+group: members
 title: Changeun Park #This is the title of your page. It will be displayed in the navigation bar and on the page itself. 
 name: Changeun Park #Include "Intern"" if applicable 
 kr_name: 박창은 #Your name in Korean, if applicable

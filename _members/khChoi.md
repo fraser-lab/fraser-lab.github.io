@@ -1,5 +1,6 @@
 ---
 layout: members
+group: members
 title: Kyunghwan Choi, Ph.D. #This is the title of your page. It will be displayed in the navigation bar and on the page itself.
 name: Kyunghwan Choi
 kr_name: 최경환

@@ -26,6 +26,10 @@
           <a href="http://www.linkedin.com"><img class="inline-block mem-icon" src="/static/img/logo/linkedin_logo.svg"></a>
           <a href= "http://www.linkedin.com/in/{{page.linkedin}}"> {{page.linkedin}} </a> <br>
         {% endif %}
+        {% if page.researchgate %}
+                  <a href="http://orcid.org"><img class="inline-block mem-icon" src="/static/img/logo/researchGate_logo.svg"></a>
+                  <a href="https://www.researchgate.net/profile/{{page.researchgate}}"> {% if page.timeline_name %}{{ page.timeline_name }}{% else %}{{ page.name | split: " " | first }}{% endif %}'s ResearchGate</a> <br>
+                {% endif %}
         {% if page.UCSF %}
           <a href="http://www.ucsf.edu"><img class="inline-block mem-icon" src="/static/img/logo/ucsf_logo_black.svg"></a>
           <a href= "http://profiles.ucsf.edu/{{page.UCSF}}"> Profile </a> <br>

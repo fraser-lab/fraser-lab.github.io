@@ -1,5 +1,7 @@
 {% include header.html %}
 
+<div class="container-fluid">
+
 <h5>
   {{ page.title | markdownify  | remove: '<p>' | remove: '</p>'}} 
   {% if page.domestic_or_international contains "Domestic" %}
@@ -62,5 +64,6 @@
       {% endif %}
     
     </ul>
+</div>
 </div>
 {% include footer.html %}

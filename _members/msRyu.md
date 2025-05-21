@@ -1,6 +1,7 @@
 ---
 #REQUIRED
 layout: members
+group: members
 title: Myeongseok Ryu #This is the title of your page. It will be displayed in the navigation bar and on the page itself.
 name: Myeongseok Ryu #Include "Ph.D."" if applicable
 kr_name: 유명석
@@ -19,7 +20,7 @@ orcid: 0009-0004-3279-5765 #ORCID, create if you don't have one
 researchgate: Myeongseok-Ryu 
 description: "
 **Myeongseok Ryu** received the B.S. degree in _Department of Mechanical Engineering_ from [**Incheon National University**](https://www.inu.ac.kr/sites/inuengl/index.do?epTicket=LOG), South Korea, in 2023, and the M.S. degree in _Department of Mechanical Engineering_ from [**Gwangju Institute of Science and Technology (GIST)**](https://www.gist.ac.kr/en/main.html), South Korea, in 2025. 
-He is currently working as a researcher in the _Cho Chun Shik Graduate School of Mobility_ at the [**Korea Advanced Institute of Science and Technology (KAIST)**](https://www.kaist.ac.kr/en/index.html), Daejeon, South Korea, and a member of the _MIC Lab_.
+He is currently working as a _Part time Contract Research Scientist_ in the _Cho Chun Shik Graduate School of Mobility_ at the [**Korea Advanced Institute of Science and Technology (KAIST)**](https://www.kaist.ac.kr/en/index.html), Daejeon, South Korea, and a member of the _MIC Lab_.
 
 
 His research interests include **adaptive control**, **neural-networks**, and **constrained optimization**.
@@ -27,6 +28,18 @@ His research interests include **adaptive control**, **neural-networks**, and **
 ---
 <div class="row">
 <div>
+
+<h4>Professional Experience</h4>
+<ul>
+    <li>May 2025 - Present, Part time Contract Research Scientist, <b>KAIST</b>, South Korea</li>
+</ul>
+
+<h4>Education</h4>
+<ul>
+    <li>March 2025 - May 2025, Ph.D. in Mechanical Engineering, <b>GIST</b>, South Korea</li>
+    <li>May 2023 - February 2025, M.S. in Mechanical Engineering, <b>GIST</b>, South Korea</li>
+    <li>May 2017 - February 2023, B.S. in Mechanical Engineering, <b>Incheon National University</b>, South Korea</li>
+</ul>
 
 <h4>Grant and Awards</h4>
 <ul>
@@ -36,4 +49,4 @@ His research interests include **adaptive control**, **neural-networks**, and **
 </ul>
 
 </div>
-<div>
+</div>

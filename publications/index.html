@@ -10,7 +10,7 @@ group: publications
 <div class="container-fluid">
 
 {% assign dom_int = "International|Domestic" | split: "|" %}
-{% assign paper_type = "Conference Paper|Journal Paper" | split: "|" %}
+{% assign paper_type = "Journal Paper|Conference Paper" | split: "|" %}
 <hr>
 
 <br>
@@ -20,7 +20,9 @@ group: publications
 		{% assign filtered = "" | split: "" %}
 		{% for pubs in site.publications %}
 			{% if pubs.domestic_or_international == domInt and pubs.type == type %}
-				{% assign filtered = filtered | push: pubs %}
+				{% if pubs.authors contains "Kyunghwan Choi" %}
+					{% assign filtered = filtered | push: pubs %}
+				{% endif %}
 			{% endif %}
 		{% endfor %}
 		{% if filtered.size > 0 %}
@@ -38,7 +40,9 @@ group: publications
 		{% assign filtered = "" | split: "" %}
 		{% for pubs in site.publications %}
 			{% if pubs.domestic_or_international == domInt and pubs.type == type %}
-				{% assign filtered = filtered | push: pubs %}
+				{% if pubs.authors contains "Kyunghwan Choi" %}
+					{% assign filtered = filtered | push: pubs %}
+				{% endif %}
 			{% endif %}
 		{% endfor %}
 
@@ -47,41 +51,50 @@ group: publications
 
 			<div id="{{domInt}} {{ type }}">
 				<h4>{{domInt}} {{ type }}</h4>
+
+				 {% assign last_year = "" %}
+				
 				<ol | reversed>
 				{% for publication in sorted %}
 				
-				
-				<!-- {{ publication.pub_date | date: "%Y" }} -->
-
-
-					{% if publication.authors contains "Kyunghwan Choi" %}
-						<li>
-							<h8>
-								<b>
-									<a href="{{ publication.url }}">{{ publication.title }}</a>
-									{% if publication.domestic_or_international contains "Domestic" %}
-										/ 
-										{{ publication.krtitle }}
-									{% endif %}
-								</b>
-							</h8>
-							<br>
-							<h8>
-								{{ publication.authors | markdownify | remove: '<p>' | remove: '</p>' }}
-							</h8>
-							<br>
-							<h8>
-								{% assign pub = publication.pubs | last %}
-								<i>{{ pub.name }}</i> <b>{{ pub.state }}</b>
-								{% if pub.doi %}
-									<a href="https://doi.org/{{ pub.doi }}" title = "DOI: {{pub.doi}} (opens in new tab)" target="_blank">[Online]</a>
-								{% endif %}
-								{% if pub.pdf %}
-									<a href="{{pub.pdf}}" title = "PDF for {{publication.title}} (opens in new tab)" target="_blank">[PDF]</a>
-								{% endif %}
-							</h8>
-						</li>
+					{% assign year = publication.pub_date | date: "%Y" %}
+					{% if year != last_year %}
+					<br>
+						<h6 style="text-align: center; color: rgb(0, 0, 111);">
+							<b>
+								{{ year }}
+							</b>
+						</h6>
+						{% assign last_year = year %}
 					{% endif %}
+					
+
+					<li>
+						<h8>
+							<b>
+								<a href="{{ publication.url }}">{{ publication.title }}</a>
+								{% if publication.domestic_or_international contains "Domestic" %}
+									/ 
+									{{ publication.krtitle }}
+								{% endif %}
+							</b>
+						</h8>
+						<br>
+						<h8>
+							{{ publication.authors | markdownify | remove: '<p>' | remove: '</p>' }}
+						</h8>
+						<br>
+						<h8>
+							{% assign pub = publication.pubs | last %}
+							<i>{{ pub.name }}</i> <b>{{ pub.state }}</b>
+							{% if pub.doi %}
+								<a href="https://doi.org/{{ pub.doi }}" title = "DOI: {{pub.doi}} (opens in new tab)" target="_blank">[Online]</a>
+							{% endif %}
+							{% if pub.pdf %}
+								<a href="{{pub.pdf}}" title = "PDF for {{publication.title}} (opens in new tab)" target="_blank">[PDF]</a>
+							{% endif %}
+						</h8>
+					</li>
 
 				{% endfor %}
 				</ol>

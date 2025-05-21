@@ -7,16 +7,16 @@
   group: philosophy
 
 - name: Research
-  group: Research
+  group: research
   dropdown:
     - name: Research
-      group: Research
+      group: research
       link: "/research"
     - name: Learning + Control Theory
-      group: Research
+      group: research
       link: "/research/control_learning"
     - name: Research Projects
-      group: Research
+      group: research
       link: "/research/projects"
 
 - name: People

@@ -1,6 +1,7 @@
 ---
 #REQUIRED
 layout: members
+group: members
 title: Yeongho Jeong #This is the title of your page. It will be displayed in the navigation bar and on the page itself.
 name: Yeongho Jeong #Include "Ph.D."" if applicable
 kr_name: 정영호
