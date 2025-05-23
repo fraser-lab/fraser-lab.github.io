@@ -57,7 +57,7 @@
     
 
         {% assign dom_int = "International|Domestic" | split: "|" %}
-        {% assign paper_type = "Conference Paper|Journal Paper" | split: "|" %}
+        {% assign paper_type = "Journal Paper|Conference Paper" | split: "|" %}
 
         {% assign sorted = site.publications | sort: "pub_date" | reverse %}
         
