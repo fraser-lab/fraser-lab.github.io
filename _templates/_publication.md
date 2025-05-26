@@ -7,10 +7,10 @@
 
 * Highly recommended to use the same name as the file name for figure, pdfs
   so that you can easily find the figure later.
-* For pdfs, use the same name as the file name, but add "_Techrxiv" or "_ECC" at the end.
+* For pdfs, if you have multiple publications, please use the same name as the file name, but add the publisher such as "_Techrxiv" or "_ECC" at the end.
     - For example, if you use "2025-imposing.pdf", use "2025-imposing-Techrxiv.pdf" for Techrxiv.
 
-* You can refer to previous projects for the format in "_publications" folder.
+* You can refer to previous publications for the format in "_publications" folder.
 
 * Change the publication date to the journal date once published.
 
