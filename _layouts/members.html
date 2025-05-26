@@ -54,7 +54,10 @@
     <div class="col-sm-9">
        <h4>Description</h4>
         {{page.description | markdownify}}
-    
+  
+        <div class="col-sm-12 col-md-12">
+          {{ content }}
+        </div>
 
         {% assign dom_int = "International|Domestic" | split: "|" %}
         {% assign paper_type = "Journal Paper|Conference Paper" | split: "|" %}
@@ -70,57 +73,52 @@
 
         {% if myPubs.size > 0 %}
           <hr>
-          <h4>Publications</h4>
-        {% endif %}
+          <h4>Publications in MIC Lab</h4>
 
-        {% for domInt in dom_int %}
-          {% for type in paper_type %}
-            {% assign filtered = "" | split: "" %}
-            {% for pubs in myPubs %}
-              {% if pubs.domestic_or_international == domInt and pubs.type == type %}
-                {% assign filtered = filtered | push: pubs %}
-              {% endif %}
-            {% endfor %}
-            {% if filtered.size > 0 %}
-
-              <h5>{{domInt}} {{type}}</h5>
-              <ol | reversed>
-              {% for publication in filtered %}
-                {% if publication.authors contains page.name %}
-                
-                <li>
-                    <b>
-                      <a href="{{ publication.url }}">{{ publication.title }}</a>
-                      {% if publication.domestic_or_international contains "Domestic" %}
-                        / {{ publication.krtitle }}
-                      {% endif %}
-                    </b>
-                  <br>
-                    {{ publication.authors | markdownify | remove: '<p>' | remove: '</p>' }}
-                  <br>
-                    {% assign pub = publication.pubs | last %}
-                    <i>{{ pub.name }}</i> <b>{{ pub.state }}</b>
-                    {% if pub.doi %}
-                      &emsp; <a href="https://doi.org/{{ pub.doi }}" title = "DOI: {{pub.doi}} (opens in new tab)" target="_blank">[Online]</a>
-                    {% endif %}
-                    {% if pub.pdf %}
-                      <a href="{{pub.pdf}}" title = "PDF for {{publication.title}} (opens in new tab)" target="_blank">[PDF]</a>
-                    {% endif %}
-                </li>
-
+          {% for domInt in dom_int %}
+            {% for type in paper_type %}
+              {% assign filtered = "" | split: "" %}
+              {% for pubs in myPubs %}
+                {% if pubs.domestic_or_international == domInt and pubs.type == type %}
+                  {% assign filtered = filtered | push: pubs %}
                 {% endif %}
               {% endfor %}
-            </ol>
-            
-              {% endif %}		
-          {% endfor %}
-        {% endfor %}
+              {% if filtered.size > 0 %}
 
-        <hr>
-    
-        <div class="col-sm-12 col-md-12">
-          {{ content }}
-        </div>
+                <h5>{{domInt}} {{type}}</h5>
+                <ol | reversed>
+                {% for publication in filtered %}
+                  {% if publication.authors contains page.name %}
+                  
+                  <li>
+                      <b>
+                        <a href="{{ publication.url }}">{{ publication.title }}</a>
+                        {% if publication.domestic_or_international contains "Domestic" %}
+                          / {{ publication.krtitle }}
+                        {% endif %}
+                      </b>
+                    <br>
+                      {{ publication.authors | markdownify | remove: '<p>' | remove: '</p>' }}
+                    <br>
+                      {% assign pub = publication.pubs | last %}
+                      <i>{{ pub.name }}</i> <b>{{ pub.state }}</b>
+                      {% if pub.doi %}
+                        &emsp; <a href="https://doi.org/{{ pub.doi }}" title = "DOI: {{pub.doi}} (opens in new tab)" target="_blank">[Online]</a>
+                      {% endif %}
+                      {% if pub.pdf %}
+                        <a href="{{pub.pdf}}" title = "PDF for {{publication.title}} (opens in new tab)" target="_blank">[PDF]</a>
+                      {% endif %}
+                  </li>
+
+                  {% endif %}
+                {% endfor %}
+              </ol>
+              
+                {% endif %}		
+            {% endfor %}
+          {% endfor %}
+        {% endif %}
+        
   </div>
 
 </div>
