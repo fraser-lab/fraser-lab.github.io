@@ -89,4 +89,4 @@ After building a literature foundation, maintain it. Revisit core papers if a re
 
 Then repeat the process in another scientific space! This keeps things exciting, fresh, and creative when ideas are founded from multiple scientific domains.
 
-If you've made it this far, thanks for reading, and find this co-posted at [Gabriella's site](https://gestevam.github.io/blog/)!
+If you've made it this far, thanks for reading, and find this co-posted at [Gabriella's site](https://gestevam.github.io/writing/)!
