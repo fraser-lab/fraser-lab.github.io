@@ -5,8 +5,8 @@
 <h5>
   {{ page.title | markdownify  | remove: '<p>' | remove: '</p>'}} 
   {% if page.domestic_or_international contains "Domestic" %}
-    / 
-    {{ page.krtitle }}
+    <br>
+    <i>{{ page.krtitle }}</i>
   {% endif %}
 </h5> 
 <h6>{{ page.authors | markdownify | remove: '<p>' | remove: '</p>' }}</h6>
@@ -16,8 +16,11 @@
 <div class="row" style="padding-top: 20px; margin-top: -20px">
     
     <div class="col-sm-5">
-      <img class = "img-fluid" src = "{{page.image}}" alt =  "Key Figure" style="max-height: 200px;">
-    
+
+      {% if page.image %}
+        <img class = "img-fluid" src = "{{page.image}}" alt =  "Key Figure" style="max-height: 200px">  
+      {% endif %}
+
       <br>
       
       <li><h6>Access the paper</h6></li>

@@ -8,14 +8,14 @@ domestic_or_international: "International" # or "domestic"
 pubs: 
   - name: Techrxiv
     doi: "10.36227/techrxiv.172893538.89561848/v1"
-    pdf: "/static/pub/2025-PIOL.pdf"
+    pdf: "/static/pub/2025-physics-informed-Techrxiv.pdf"
     state: "published"
   - name: IEEE Industrial Electronics Society (IECON) 2025
     doi: 
-    pdf: "/static/pub/2025-PIOL-IECON.pdf"
+    pdf: "/static/pub/2025-physics-informed-IECON.pdf"
     state: "submitted"
 pub_date: "2025-10-01" #Date of publication. Change from Biorxiv date to Journal date once accepted
-image: "/static/pub/2025-PIOL-IECON.png"
+image: "/static/pub/2025-physics-informed.png"
 github: 
   - name: "PIOL"
     url: "KAIST-MIC-Lab/Online-PINN"

@@ -74,8 +74,8 @@ group: publications
 							<b>
 								<a href="{{ publication.url }}">{{ publication.title }}</a>
 								{% if publication.domestic_or_international contains "Domestic" %}
-									/ 
-									{{ publication.krtitle }}
+									    <br>
+    									<i>{{ publication.krtitle }}</i>
 								{% endif %}
 							</b>
 						</h8>
