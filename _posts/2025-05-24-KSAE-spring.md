@@ -21,14 +21,13 @@ From left to right:
 - **Minseok Seo** (Master Student)
 - **Donghwa Hong** (Master Student)
 
-Master student **Minseok Seo** presented a paper titled "**BlahBlah**" at the conference. 
-The paper introduces a new method for **blah**.
+Master student **Minseok Seo** presented a paper titled <a href="{{site.url}}/publications/2025-Statewise-RL/">**State-wise Safety in Autonomous Driving via Lagrangian-based Constrained Reinforcement Learning**</a> at the conference. 
 
 <div style="text-align: center;">
 <img class="img-fluid" src="/static/posts/2025-05-24-KSAE-spring2.jpg" style="width: 60%; height: auto;">
 </div>
 
-Prof. **Kyunghwan Choi** served as session chair for the **Blah** session.
+Prof. **Kyunghwan Choi** served as session chair for the **전기동력자동차 (Electric-Powered Vehicle)** session.
 <div style="text-align: center;">
 <img class="img-fluid" src="/static/posts/2025-05-24-KSAE-spring3.jpg" style="width: 60%; height: auto;">
 </div>
