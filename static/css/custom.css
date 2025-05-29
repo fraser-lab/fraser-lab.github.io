@@ -120,3 +120,8 @@ body {
   }
 }
 */
+
+.dropdown-item {
+    padding: 5px;
+    font-size: 15px;
+}
