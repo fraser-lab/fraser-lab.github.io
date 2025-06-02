@@ -6,7 +6,7 @@ enddate: [2025-06-03]]
 image: /static/img/members/lee_s.jpg #365 x 365 pixels, 72 dpi
 altimage: /static/img/members/lee_s_pb.jpg #365 x 365 pixels, 72 dpi
 position: Junior Specialist
-#subsequent:  update once you become an alumnus
+subsequent:  "MD-PhD Student"
 pronouns: she/her/hers #personal pronouns
 email: sonya.somin.lee (at) gmail.com #Preferred public email address
 scholar:  #Google Scholar User ID

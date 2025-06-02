@@ -5,7 +5,7 @@ enddate: [2023-05-23]
 image: /static/img/members/Flowers.jpg #365 x 365 pixels, 72 dpi
 altimage: /static/img/members/Flowers_pb.jpg #365 x 365 pixels, 72 dpi
 position: "Junior Specialist"
-#subsequent: 
+subsequent: "Graduate Student - UCSF"
 pronouns: she/they
 email:  jflowers (at) fraserlab.com #Preferred public email address
 scholar:
