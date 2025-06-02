@@ -2,7 +2,7 @@
 name: Sonya Lee
 timeline_name: #Fill this out if you'd like your name to appear differently on the Timeline.
 startdate: [2022-09-01]
-enddate: []
+enddate: [2025-06-03]]
 image: /static/img/members/lee_s.jpg #365 x 365 pixels, 72 dpi
 altimage: /static/img/members/lee_s_pb.jpg #365 x 365 pixels, 72 dpi
 position: Junior Specialist
