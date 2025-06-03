@@ -46,8 +46,7 @@
 .welcomefont {
   font-size: 1.5em;
   font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
-}
-
+} 
 
 /*
 body {
@@ -121,3 +120,8 @@ body {
   }
 }
 */
+
+.dropdown-item {
+    padding: 5px;
+    font-size: 15px;
+}

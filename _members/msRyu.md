@@ -36,7 +36,10 @@ His research interests include **adaptive control**, **neural-networks**, and **
 
 <h4>Education</h4>
 <ul>
-    <li>March 2025 - May 2025, Ph.D. in Mechanical Engineering, <b>GIST</b>, South Korea</li>
+    <li><s>March 2025 - May 2025, Ph.D. in Mechanical Engineering, <b>GIST</b>, South Korea,</s></li> 
+        <ul> 
+            <li>Withdrew for further studies</li>
+        </ul>
     <li>May 2023 - February 2025, M.S. in Mechanical Engineering, <b>GIST</b>, South Korea</li>
     <li>May 2017 - February 2023, B.S. in Mechanical Engineering, <b>Incheon National University</b>, South Korea</li>
 </ul>
@@ -44,7 +47,7 @@ His research interests include **adaptive control**, **neural-networks**, and **
 <h4>Grant and Awards</h4>
 <ul>
     <li>2025, <b>European Control Association (EUCA) Student Support</b>; 400 EUR</li>
-    <li>2024, <b>Graduate International Research Experience Fellowship Certificate (IREF)</b>, GIST; 16,000,000 KRW</li>
+    <li>2024, <b>Graduate International Research Experience Fellowship Certificate (IREF), GIST</b>; 16,000,000 KRW</li>
     <li>2023, <b>Best Paper Award</b>, Institute of Control, Robotics and Systems</li>
 </ul>
 

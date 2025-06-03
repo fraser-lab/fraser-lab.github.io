@@ -6,6 +6,13 @@
 
 Forked from [fraser-lab.github.io](https://fraserlab.com/2020/05/03/Clone-this-website/).
 
+<!-- 
+webpage made by Prof
+https://sites.google.com/view/kaist-mic/news 
+webpage (GIST)
+https://mic.gist.ac.kr/prog/lectureMaster/mic/ALL/65352/list.do
+-->
+
 # How to adjust the website
 
 > [!Note]

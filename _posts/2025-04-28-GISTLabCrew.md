@@ -5,13 +5,14 @@ author: Myeongseok Ryu
 layout: post
 group: news
 tags: general
+img: /static/posts/2025-04-28-GISTLabCrew.jpg
 ---
-<div class="row">
+<div class="container-fluid">
 
 We are moving to KAIST!.
 Remaining members of the GIST MIC lab took a group photo before leaving Gwangju.
 <div style="text-align: center;">
-<img class="img-fluid" src="/static/posts/GISTLabCrew.jpg" alt="qFit" style="width: 60%; height: auto;">
+<img class="img-fluid" src="/static/posts/2025-04-28-GISTLabCrew.jpg" alt="qFit" style="width: 60%; height: auto;">
 </div>
 
 From left to right:
