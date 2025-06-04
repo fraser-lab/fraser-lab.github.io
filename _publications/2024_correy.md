@@ -5,7 +5,7 @@ journal: "Science Advances"
 pub_date: "2025-05-30"
 image: "/static/img/pub/2024_correy.jpg"
 pmid: 40435250
-#pmcid: 
+pmcid: "PMC12118597"
 #biorxiv:
 biorxiv_version: "2024.08.25.609621v1"
 #pdf: 
