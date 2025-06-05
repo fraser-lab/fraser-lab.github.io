@@ -3,97 +3,118 @@ title: MIC Lab Members
 layout: default
 group: members
 ---
+
 <div class="container-fluid">
-
-<div   style="max-width: 800px; margin: auto;"> 
-
+<div   style="max-width: 800px; margin: auto;">
 <h1>MIC Lab Alumni</h1>
 
-{% assign Positions = "Ph.D. Student|Master Student" | split: "|" %}
+{% assign Positions = "Ph.D. Student|Master Student|Intern" | split: "|" %}
 <hr>
 
 <br>
 <h4>Quick Links</h4>
+
 {% for position in Positions %}
-<li><a href="#{{ position }}">{{ position }}</a></li>
+{% assign filtered = "" | split: "" %}
+  {% for member in site.members %}
+    {% if member.subsequent %}
+      {% if member.position == position %}
+        {% assign filtered = filtered | push: member %}
+      {% endif %}    
+    {% endif %}
+  {% endfor %}
+  <li><a href="#{{ position }}"><b>{{ position }} Alumni</b> ({{ filtered.size }})</a></li>
 {% endfor %}
 <hr>
 <br>
 
 {% for position in Positions %}
-  <div id = "{{ position }}" >
-    <h4>{{ position }}</h4>
-  </div>
-  
-  <!-- {% assign sorted = site.members | where_exp: "member", "member.position == position " | sort: "startdate" %} -->
-  {% assign sorted = site.members | where: "position", position | sort: "startdate" %}
 
-  {% if sorted.size > 0 %}
+{% assign sorted = site.members | where: "position", position | sort: "startdate" %}
+
+  <div id = "{{ position }}">
+  <h2>{{ position }}</h2>
+  <hr>
+  <div>
+
+  {% assign filtered = "" | split: "" %}
+  {% for member in sorted %}
+    {% if member.subsequent %}
+      {% assign filtered = filtered | push: member %}
+    {% endif %}
+  {% endfor %}
+
+
+  {% if filtered.size > 0 %}
     <ul>
-      {% for member in sorted %}
+      {% for member in filtered %}
 
-        {% unless member.enddate %}
-          {% continue %}
-        {% endunless %}
-
-        {% if member.position contains "Affiliate" or member.position contains "Visiting" %}
-          {% continue %}
-        {% endif %}
-
-        <hr>
         <!-- The paddingtop and margin-top edits allow anchors to link properly. -->
         <div id = "{{member.name}}" class="row" style="padding-top: 60px; margin-top: -60px;">
-            <div class="col-sm-4">
+          <div class="col-sm-4">
                 <img class="img-fluid" src="{{member.image}}" {% if member.altimage %} onmouseover="this.src='{{member.altimage}}';" onmouseout="this.src='{{member.image}}';" {% endif %} alt="{{member.name}}"; width="365"; height="365"><br>
-                <strong>{{member.name}}</strong> <br>
+
+                {% if member.position == "Principal Investigator" %}
+                  <a href="{{ member.url }}" title = "More about {{member.name}} " ><strong>{{member.name}}, Ph.D.</strong></a> <br>
+                  {{ member.kr_name }} <br>
+                {% else %}
+                  <a href="{{ member.url }}" title = "More about {{member.name}} " ><strong>{{member.name}}</strong></a>
+                  / {{ member.kr_name }} <br>
+                {% endif %}
+                
+              
                 {% if member.pronouns %}
                   <em>{{member.pronouns}}</em> <br>
                 {% endif %}
+
                 {{member.position | markdownify | remove: '<p>' | remove: '</p>' }} <br>
-                <em>{{member.email}}</em> <br>
+                <em><a href="mailto:{{member.email}}">{{member.email}}</a></em> <br>
+
                 {% if member.website %}
                   <a style="overflow-wrap: break-word;" href= "{{member.website}}">{{member.website}}</a> <br>
                 {% endif %}
+
                 {% if member.orcid %}
                   <a href="http://orcid.org"><img class="inline-block mem-icon" src="/static/img/logo/orcid_logo.svg"></a>
                   <a href="http://orcid.org/{{member.orcid}}"> {{member.orcid}}</a> <br>
                 {% endif %}
+
+                {% if member.researchgate %}
+                  <a href="http://orcid.org"><img class="inline-block mem-icon" src="/static/img/logo/researchGate_logo.svg"></a>
+                  <a href="https://www.researchgate.net/profile/{{member.researchgate}}"> {% if member.timeline_name %}{{ member.timeline_name }}{% else %}{{ member.name | split: " " | first }}{% endif %}'s ResearchGate</a> <br>
+                {% endif %}
+
                 {% if member.linkedin %}
                   <a href="http://www.linkedin.com"><img class="inline-block mem-icon" src="/static/img/logo/linkedin_logo.svg"></a>
                   <a href= "http://www.linkedin.com/in/{{member.linkedin}}"> {{member.linkedin}} </a> <br>
                 {% endif %}
-                {% if member.UCSF %}
-                  <a href="http://www.ucsf.edu"><img class="inline-block mem-icon" src="/static/img/logo/ucsf_logo_black.svg"></a>
-                  <a href= "http://profiles.ucsf.edu/{{member.UCSF}}"> Profile </a> <br>
-                {% endif %}
+
                 {% if member.scholar %}
                   <a href="http://scholar.google.com"><img class="inline-block mem-icon" src="/static/img/logo/gscholar_logo.svg"></a>
                   <a href= "http://scholar.google.com/citations?user={{member.scholar}}"> {% if member.timeline_name %}{{ member.timeline_name }}{% else %}{{ member.name | split: " " | first }}{% endif %}'s Citations </a> <br>
                 {% endif %}
-                {% if member.twitter %}
-                  <a href="http://twitter.com"><img class="inline-block mem-icon" src="/static/img/logo/twitter_logo.svg"></a>
-                  <a href= "http://twitter.com/{{member.twitter}}"> @{{member.twitter}} </a> <br>
-                {% endif %}
-                {% if member.bsky %}
-                  <a href="https://bsky.app/"><img class="inline-bloc mem-icon" src="/static/img/logo/bsky_logo.svg"></a>
-                  <a href= "https://bsky.app/profile/{{member.bsky}}"> {{member.bsky}} </a> <br>
-                {% endif %}
+                
                 {% if member.github %}
                   <a href="http://github.com"><img class="inline-bloc mem-icon" src="/static/img/logo/github_logo.svg"></a>
                   <a href= "http://github.com/{{member.github}}"> {{member.github}} </a> <br>
                 {% endif %}
+                
             </div>
             <div class="col-sm-8">
                 {{member.description | markdownify}}
-            </div>
+              
+                Additional information and publications can be found <a href="{{ member.url }}" title = "More about {{member.name}} (opens in new tab)" target="_blank">here</a>.
+          </div>
+
         </div>
+        
+        <hr>
       {% endfor %}
     </ul>
   {% else %}
-    <p>None</p>
+    <p>
+      We currently have no {{ position }} alumni in the lab.
+    </p>
   {% endif %}
 {% endfor %}
-
-<hr>
-
 </div>

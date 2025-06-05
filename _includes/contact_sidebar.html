@@ -1,3 +1,11 @@
+
+<h3> Recent Posts </h3>
+<ul>
+  {% for post in site.posts limit: 5 %}
+    <li><a href="{{ post.url }}"><b>{{ post.title }}</b></a></li>
+  {% endfor %}
+</ul>
+
 <h2>Contact Us</h2>
 <p>
   <b>
@@ -37,9 +45,3 @@
 </p>
 
 
-<h3> Recent Posts </h3>
-<ul>
-  {% for post in site.posts limit: 5 %}
-    <li><a href="{{ post.url }}"><b>{{ post.title }}</b></a></li>
-  {% endfor %}
-</ul>

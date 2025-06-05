@@ -27,9 +27,17 @@ Master student **Minseok Seo** presented a paper titled <a href="{{site.url}}/pu
 <img class="img-fluid" src="/static/posts/2025-05-24-KSAE-spring2.jpg" style="width: 60%; height: auto;">
 </div>
 
-Prof. **Kyunghwan Choi** served as session chair for the **전기동력자동차 (Electric-Powered Vehicle)** session.
+Prof. **Kyunghwan Choi** presented a paper titled Analytic Approach to **Predictive Energy Management of Connected EREVs**.
+
 <div style="text-align: center;">
 <img class="img-fluid" src="/static/posts/2025-05-24-KSAE-spring3.jpg" style="width: 60%; height: auto;">
 </div>
+
+He also served as session chair for the **전기동력자동차 (Electric-Powered Vehicle)** session.
+
+<div style="text-align: center;">
+<img class="img-fluid" src="/static/posts/2025-05-24-KSAE-spring4.jpg" style="width: 60%; height: auto;">
+</div>
+
 
 </div>

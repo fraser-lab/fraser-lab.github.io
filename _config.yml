@@ -1,5 +1,5 @@
 name: "MIC Lab"
-description: "This is the official web page for the Mobility Intelligence & Control Laboratory (MIC Lab) at Korean Advanced Institute of Science and Technology (KAIST)."
+description: "This is the official web page for the Mobility Intelligence & Control Laboratory (MIC Lab) at Korea Advanced Institute of Science and Technology (KAIST)."
 
 # url: "http://kaistmic.com"
 url: "https://kaist-mic-lab.github.io"
@@ -43,8 +43,6 @@ collections:
         visitors:
                 output: true
         undergrads:
-                output: true
-        pets:
                 output: true
         tags:
                 output: true
