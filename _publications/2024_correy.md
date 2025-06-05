@@ -8,7 +8,7 @@ pmid: 40435250
 pmcid: "PMC12118597"
 #biorxiv:
 biorxiv_version: "2024.08.25.609621v1"
-#pdf: 
+pdf: "http://cdn.fraserlab.com/publications/2025_correy.pdf"
 pdbs:
   - "7HCB"
   - "7HCC"
