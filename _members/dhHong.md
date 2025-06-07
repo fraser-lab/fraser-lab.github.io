@@ -19,8 +19,8 @@ github: fairytalef00
 orcid: 0009-0001-2462-6249 #ORCID, create if you don't have one
 description: "
 
-**Donghwa Hong** received the B.S. degree in _physics and Engineering physics_ from [**Yonsei University**](https://https://www.yonsei.ac.kr/en_wj/index.do), South Korea, in 2023. 
-He is currently pursuing the M.S. degree in the _Department of Mechanical Engineering_ at [**Gwangju Institute of Science and Technology (GIST)**](https://www.gist.ac.kr/en/main.html), South Korea.
+**Donghwa Hong** received the B.S. degree in _physics and Engineering physics_ from **Yonsei University**, South Korea, in 2023. 
+He is currently pursuing the M.S. degree in the _Department of Mechanical Engineering_ at **Gwangju Institute of Science and Technology (GIST)**, South Korea.
 
 
 His research interests include **robot control**, **neural-networks**, and **model identification**.

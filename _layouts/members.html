@@ -3,10 +3,10 @@
     <div class="col-sm-3">
         <img class="img-fluid" src="{{page.image}}" {% if page.altimage %} onmouseover="this.src='{{page.altimage}}';" onmouseout="this.src='{{page.image}}';" {% endif %} alt="{{page.name}}"; width="265"; height="365"><br>
         {% if page.position == "Principal Investigator" %}
-          <strong>{{page.name}}, Ph.D.</strong> <br>
+          {{page.name}}, Ph.D. <br>
           {{ page.kr_name }} <br>
         {% else %}
-          <strong>{{page.name}}</strong>
+          {{page.name}}
           / {{ page.kr_name }} <br>
         {% endif %}
           
@@ -22,30 +22,22 @@
           <a href="http://orcid.org"><img class="inline-block mem-icon" src="/static/img/logo/orcid_logo.svg"></a>
           <a href="http://orcid.org/{{page.orcid}}"> {{page.orcid}}</a> <br>
         {% endif %}
-        {% if page.linkedin %}
-          <a href="http://www.linkedin.com"><img class="inline-block mem-icon" src="/static/img/logo/linkedin_logo.svg"></a>
-          <a href= "http://www.linkedin.com/in/{{page.linkedin}}"> {{page.linkedin}} </a> <br>
-        {% endif %}
-        {% if page.researchgate %}
-                  <a href="http://orcid.org"><img class="inline-block mem-icon" src="/static/img/logo/researchGate_logo.svg"></a>
-                  <a href="https://www.researchgate.net/profile/{{page.researchgate}}"> {% if page.timeline_name %}{{ page.timeline_name }}{% else %}{{ page.name | split: " " | first }}{% endif %}'s ResearchGate</a> <br>
-                {% endif %}
-        {% if page.UCSF %}
-          <a href="http://www.ucsf.edu"><img class="inline-block mem-icon" src="/static/img/logo/ucsf_logo_black.svg"></a>
-          <a href= "http://profiles.ucsf.edu/{{page.UCSF}}"> Profile </a> <br>
-        {% endif %}
+
         {% if page.scholar %}
           <a href="http://scholar.google.com"><img class="inline-block mem-icon" src="/static/img/logo/gscholar_logo.svg"></a>
           <a href= "http://scholar.google.com/citations?user={{page.scholar}}"> {% if page.timeline_name %}{{ page.timeline_name }}{% else %}{{ page.name | split: " " | first }}{% endif %}'s Citations </a> <br>
         {% endif %}
-        {% if page.twitter %}
-          <a href="http://twitter.com"><img class="inline-block mem-icon" src="/static/img/logo/twitter_logo.svg"></a>
-          <a href= "http://twitter.com/{{page.twitter}}"> @{{page.twitter}} </a> <br>
+
+        {% if page.linkedin %}
+          <a href="http://www.linkedin.com"><img class="inline-block mem-icon" src="/static/img/logo/linkedin_logo.svg"></a>
+          <a href= "http://www.linkedin.com/in/{{page.linkedin}}"> {{page.linkedin}} </a> <br>
         {% endif %}
-        {% if page.bsky %}
-          <a href="https://bsky.app/"><img class="inline-bloc mem-icon" src="/static/img/logo/bsky_logo.svg"></a>
-          <a href= "https://bsky.app/profile/{{page.bsky}}"> {{page.bsky}} </a> <br>
-        {% endif %}
+
+        {% if page.researchgate %}
+                  <a href="http://orcid.org"><img class="inline-block mem-icon" src="/static/img/logo/researchGate_logo.svg"></a>
+                  <a href="https://www.researchgate.net/profile/{{page.researchgate}}"> {% if page.timeline_name %}{{ page.timeline_name }}{% else %}{{ page.name | split: " " | first }}{% endif %}'s ResearchGate</a> <br>
+                {% endif %}
+
         {% if page.github %}
           <a href="http://github.com"><img class="inline-bloc mem-icon" src="/static/img/logo/github_logo.svg"></a>
           <a href= "http://github.com/{{page.github}}"> {{page.github}} </a> <br>
@@ -59,64 +51,70 @@
           {{ content }}
         </div>
 
-        {% assign dom_int = "International|Domestic" | split: "|" %}
-        {% assign paper_type = "Journal Paper|Conference Paper" | split: "|" %}
+        {% if page.position == "Principal Investigator" %}
+          
+        {% else %}
 
-        {% assign sorted = site.publications | sort: "pub_date" | reverse %}
-        
-        {% assign myPubs = "" | split: "" %}
-        {% for pub in sorted %}
-          {% if pub.authors contains page.name %}
-            {% assign myPubs = myPubs | push: pub %}
-          {% endif %}
-        {% endfor %}
+          {% assign dom_int = "International|Domestic" | split: "|" %}
+          {% assign paper_type = "Journal Paper|Conference Paper" | split: "|" %}
 
-        {% if myPubs.size > 0 %}
-          <hr>
-          <h4>Publications in MIC Lab</h4>
+          {% assign sorted = site.publications | sort: "pub_date" | reverse %}
+          
+          {% assign myPubs = "" | split: "" %}
+          {% for pub in sorted %}
+            {% if pub.authors contains page.name %}
+              {% assign myPubs = myPubs | push: pub %}
+            {% endif %}
+          {% endfor %}
 
-          {% for domInt in dom_int %}
-            {% for type in paper_type %}
-              {% assign filtered = "" | split: "" %}
-              {% for pubs in myPubs %}
-                {% if pubs.domestic_or_international == domInt and pubs.type == type %}
-                  {% assign filtered = filtered | push: pubs %}
-                {% endif %}
-              {% endfor %}
-              {% if filtered.size > 0 %}
+          {% if myPubs.size > 0 %}
+            <hr>
+            <h4>Publications in MIC Lab</h4>
 
-                <h5>{{domInt}} {{type}}</h5>
-                <ol | reversed>
-                {% for publication in filtered %}
-                  {% if publication.authors contains page.name %}
-                  
-                  <li>
-                      <b>
-                        <a href="{{ publication.url }}">{{ publication.title }}</a>
-                        {% if publication.domestic_or_international contains "Domestic" %}
-                          / {{ publication.krtitle }}
-                        {% endif %}
-                      </b>
-                    <br>
-                      {{ publication.authors | markdownify | remove: '<p>' | remove: '</p>' }}
-                    <br>
-                      {% assign pub = publication.pubs | last %}
-                      <i>{{ pub.name }}</i> <b>{{ pub.state }}</b>
-                      {% if pub.doi %}
-                        &emsp; <a href="https://doi.org/{{ pub.doi }}" title = "DOI: {{pub.doi}} (opens in new tab)" target="_blank">[Online]</a>
-                      {% endif %}
-                      {% if pub.pdf %}
-                        <a href="{{pub.pdf}}" title = "PDF for {{publication.title}} (opens in new tab)" target="_blank">[PDF]</a>
-                      {% endif %}
-                  </li>
-
+            {% for domInt in dom_int %}
+              {% for type in paper_type %}
+                {% assign filtered = "" | split: "" %}
+                {% for pubs in myPubs %}
+                  {% if pubs.domestic_or_international == domInt and pubs.type == type %}
+                    {% assign filtered = filtered | push: pubs %}
                   {% endif %}
                 {% endfor %}
-              </ol>
-              
-                {% endif %}		
+                {% if filtered.size > 0 %}
+
+                  <h5>{{domInt}} {{type}}</h5>
+                  <ol | reversed>
+                  {% for publication in filtered %}
+                    {% if publication.authors contains page.name %}
+                    
+                    <li>
+                        <b>
+                          <a href="{{ publication.url }}">{{ publication.title }}</a>
+                          {% if publication.domestic_or_international contains "Domestic" %}
+                            / {{ publication.krtitle }}
+                          {% endif %}
+                        </b>
+                      <br>
+                        {{ publication.authors | markdownify | remove: '<p>' | remove: '</p>' }}
+                      <br>
+                        {% assign pub = publication.pubs | last %}
+                        <i>{{ pub.name }}</i> <b>{{ pub.state }}</b>
+                        {% if pub.doi %}
+                          &emsp; <a href="https://doi.org/{{ pub.doi }}" title = "DOI: {{pub.doi}} (opens in new tab)" target="_blank">[Online]</a>
+                        {% endif %}
+                        {% if pub.pdf %}
+                          <a href="{{pub.pdf}}" title = "PDF for {{publication.title}} (opens in new tab)" target="_blank">[PDF]</a>
+                        {% endif %}
+                    </li>
+
+                    {% endif %}
+                  {% endfor %}
+                </ol>
+                
+                  {% endif %}		
+              {% endfor %}
             {% endfor %}
-          {% endfor %}
+          {% endif %}
+
         {% endif %}
         
   </div>

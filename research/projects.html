@@ -22,14 +22,17 @@ group: research
 <hr>
 <div class="row" style="padding-top: 60px; margin-top: -60px;" id="{{project.pmid}}">
 	<div>
-		<h4>{{ project.krtitle | markdownify  | remove: '<p>' | remove: '</p>'}}</h4>
-		<h4>{{ project.engtitle | markdownify  | remove: '<p>' | remove: '</p>'}}</h4>
+		{% if project.krtitle %}
+			<h4>{{ project.krtitle | markdownify  | remove: '<p>' | remove: '</p>'}}</h4>
+		{% else if %}
+			<h4>{{ project.engtitle | markdownify  | remove: '<p>' | remove: '</p>'}}</h4>
+		{% endif %}
 	</div>
 </div>
 
 <div class="row" style="padding-top: 20px; margin-top: -20px">
 	<div class="col-sm-6">
-		<img class = "img-fluid" src = "{{project.image}}" alt =  "Key Figure">
+		<img class = "img-fluid" src = "{{project.image}}" alt =  "Key Figure" style="max-width: 400px;">
 		<!-- <img class = "img-fluid" src = "{{project.image}}" alt =  "Key Figure" style="max-height: 200px;"> -->
 	</div>
 	<ul class="col-sm-6">
@@ -37,32 +40,34 @@ group: research
 		{% if project.krsponsor %}
 			&emsp; {{ project.krsponsor | markdownify  | remove: '<p>' | remove: '</p>'}}
 			<br>
-		{% endif %}
-		{% if project.engsponsor %}
+		{% else if %}
 			&emsp; {{ project.engsponsor | markdownify  | remove: '<p>' | remove: '</p>'}}
 			<br>
 		{% endif %}
-		{% if project.amount %}
-			<li><h6>Amout</h6></li>
-			&emsp; {{ project.amount | markdownify  | remove: '<p>' | remove: '</p>'}}
-			<br>
-		{% endif %}
-		<li><h6>Period</h6></li>
-		&emsp; {{ project.startdate }} - {{ project.enddate }}
-		<br>
-		
-		<!-- Participants -->
-		{% if project.participants %}
-			<li><h6>Participants</h6></li>
-			{% for participant in project.participants %}
-				&emsp; <b>{{ participant.name }}</b> {{ participant.role }}
-				<br/>
-				&emsp;&emsp; <a href="mailto:{{ participant.email }}">{{ participant.email }}</a>
-				<br/>
-			{% endfor %}
-			<br>
-		{% endif %}
 
+		{% comment %}
+			{% if project.amount %}
+				<li><h6>Amout</h6></li>
+				&emsp; {{ project.amount | markdownify  | remove: '<p>' | remove: '</p>'}}
+				<br>
+			{% endif %}
+			<li><h6>Period</h6></li>
+			&emsp; {{ project.startdate }} - {{ project.enddate }}
+			<br>
+			
+			<!-- Participants -->
+			{% if project.participants %}
+				<li><h6>Participants</h6></li>
+				{% for participant in project.participants %}
+					&emsp; <b>{{ participant.name }}</b> {{ participant.role }}
+					<br/>
+					&emsp;&emsp; <a href="mailto:{{ participant.email }}">{{ participant.email }}</a>
+					<br/>
+				{% endfor %}
+				<br>
+			{% endif %}
+		{% endcomment %}
+		
 		{% if project.link %}
 			<li><h6>Additional Link</h6></li>
 			{% for link in project.link %}

@@ -1,14 +1,16 @@
 ---
-title: MIC Lab Members
+title: Current Members
 layout: default
 group: members
 ---
 
 <div class="container-fluid">
 <div   style="max-width: 800px; margin: auto;">
-<h1>MIC Lab Members</h1>
+<h1>Current Members</h1>
 
-{% assign Positions = "Principal Investigator|Ph.D. Student|Master Student|Visiting Researcher|Intern" | split: "|" %}
+<!-- {% assign Positions = "Principal Investigator|Ph.D. Student|Master Student|Visiting Researcher|Intern" | split: "|" %} -->
+{% assign Positions = "Principal Investigator|Ph.D. Student|Master Student|Intern" | split: "|" %}
+
 <hr>
 
 <br>
@@ -25,7 +27,7 @@ group: members
       {% endif %}    
     {% endif %}
   {% endfor %}
-  <li><a href="#{{ position }}"><b>{{ position }}</b> ({{ filtered.size }})</a></li>
+  <li><a href="#{{ position }}">{{ position }} ({{ filtered.size }})</a></li>
 {% endfor %}
 <hr>
 <br>
@@ -59,17 +61,16 @@ group: members
                 <img class="img-fluid" src="{{member.image}}" {% if member.altimage %} onmouseover="this.src='{{member.altimage}}';" onmouseout="this.src='{{member.image}}';" {% endif %} alt="{{member.name}}"; width="365"; height="365"><br>
 
                 {% if member.position == "Principal Investigator" %}
-                  <a href="{{ member.url }}" title = "More about {{member.name}} " ><strong>{{member.name}}, Ph.D.</strong></a> <br>
+                  <a href="{{ member.url }}" title = "More about {{member.name}} " >{{member.name}}, Ph.D.</a> <br>
                   {{ member.kr_name }} <br>
                 {% else %}
-                  <a href="{{ member.url }}" title = "More about {{member.name}} " ><strong>{{member.name}}</strong></a>
+                  <a href="{{ member.url }}" title = "More about {{member.name}} " >{{member.name}}</a>
                   / {{ member.kr_name }} <br>
                 {% endif %}
                 
-              
-                {% if member.pronouns %}
-                  <em>{{member.pronouns}}</em> <br>
-                {% endif %}
+                <!-- {% if member.pronouns %} -->
+                  <!-- <em>{{member.pronouns}}</em> <br> -->
+                <!-- {% endif %} -->
 
                 {{member.position | markdownify | remove: '<p>' | remove: '</p>' }} <br>
                 <em><a href="mailto:{{member.email}}">{{member.email}}</a></em> <br>
@@ -82,6 +83,11 @@ group: members
                   <a href="http://orcid.org"><img class="inline-block mem-icon" src="/static/img/logo/orcid_logo.svg"></a>
                   <a href="http://orcid.org/{{member.orcid}}"> {{member.orcid}}</a> <br>
                 {% endif %}
+                
+                {% if member.scholar %}
+                  <a href="http://scholar.google.com"><img class="inline-block mem-icon" src="/static/img/logo/gscholar_logo.svg"></a>
+                  <a href= "http://scholar.google.com/citations?user={{member.scholar}}"> {% if member.timeline_name %}{{ member.timeline_name }}{% else %}{{ member.name | split: " " | first }}{% endif %}'s Citations </a> <br>
+                {% endif %}
 
                 {% if member.researchgate %}
                   <a href="http://orcid.org"><img class="inline-block mem-icon" src="/static/img/logo/researchGate_logo.svg"></a>
@@ -91,11 +97,6 @@ group: members
                 {% if member.linkedin %}
                   <a href="http://www.linkedin.com"><img class="inline-block mem-icon" src="/static/img/logo/linkedin_logo.svg"></a>
                   <a href= "http://www.linkedin.com/in/{{member.linkedin}}"> {{member.linkedin}} </a> <br>
-                {% endif %}
-
-                {% if member.scholar %}
-                  <a href="http://scholar.google.com"><img class="inline-block mem-icon" src="/static/img/logo/gscholar_logo.svg"></a>
-                  <a href= "http://scholar.google.com/citations?user={{member.scholar}}"> {% if member.timeline_name %}{{ member.timeline_name }}{% else %}{{ member.name | split: " " | first }}{% endif %}'s Citations </a> <br>
                 {% endif %}
                 
                 {% if member.github %}
@@ -107,7 +108,10 @@ group: members
             <div class="col-sm-8">
                 {{member.description | markdownify}}
               
-                Additional information and publications can be found <a href="{{ member.url }}" title = "More about {{member.name}} (opens in new tab)" target="_blank">here</a>.
+                {% if member.cv %}
+                  Curriculum Vitae (CV) can be found <a href="{{ member.cv }}" title = "{{member.name}}'s CV" target="_blank">here</a>. <br>
+                {% endif %}
+                Further details are available <a href="{{ member.url }}" title = "More about {{member.name}} (opens in new tab)" target="_blank">here</a>.
           </div>
 
         </div>

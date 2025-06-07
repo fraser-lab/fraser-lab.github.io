@@ -19,7 +19,7 @@ github: jixyuxn
 orcid:  0009-0003-0026-4495 #ORCID, create if you don't have one
 description: "
 
-**Jiyun Kim** received the B.S. degree in _Department of Robot Engineering_ from [**Keimyung Universitiy**](https://www.kmu.ac.kr/uni/main/main.jsp), South Korea, in 2024, and is currently  pursuing an M.S. degree in _Artificial Intelligence Graduate School_ from [**Gwangju Institute of Science and Technology (GIST)**](https://www.gist.ac.kr/en/main.html), South Korea. 
+**Jiyun Kim** received the B.S. degree in _Department of Robot Engineering_ from **Keimyung Universitiy**, South Korea, in 2024, and is currently  pursuing an M.S. degree in _Artificial Intelligence Graduate School_ from **Gwangju Institute of Science and Technology (GIST)**, South Korea. 
 
 
 Her research interest is **solving various mobility optimization problems by neural networks**

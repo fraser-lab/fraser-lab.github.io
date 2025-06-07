@@ -7,10 +7,11 @@ krtitle: "경로 추종, 동적 승차감, 그리고 에너지 효율을 고려�
 authors: "**Myeongseok Ryu**, **Kyunghwan Choi**&#42;"
 domestic_or_international: "Domestic"
 pubs: 
-  - name: 한국자동차공학회 추계학술대회 (KSAE) 2023
+  - name: 한국자동차공학회 추계학술대회 (KSAE)
     doi: 
+    year: "2023"
     pdf: 
-    state: "accepted"
+    state: "published"
 pub_date: "2023-10-21" #Date of publication. Change from Biorxiv date to Journal date once accepted
 image: "/static/pub/2023-Integrated.png"
 abstract: "

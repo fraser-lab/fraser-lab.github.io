@@ -10,8 +10,10 @@ pubs:
     doi: "10.36227/techrxiv.172893538.89561848/v1"
     pdf: "/static/pub/2025-physics-informed-Techrxiv.pdf"
     state: "published"
-  - name: IEEE Industrial Electronics Society (IECON) 2025
+    year: "2025"
+  - name: Industrial Electronics Society (IECON) 
     doi: 
+    year: "2025"
     pdf: "/static/pub/2025-physics-informed-IECON.pdf"
     state: "submitted"
 pub_date: "2025-10-01" #Date of publication. Change from Biorxiv date to Journal date once accepted

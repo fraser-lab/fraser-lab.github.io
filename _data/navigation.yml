@@ -2,9 +2,9 @@
   link: "/"
   group: home
 
-- name: Philosophy
-  link: "/philosophy"
-  group: philosophy
+# - name: Philosophy
+#   link: "/philosophy"
+#   group: philosophy
 
 - name: Research
   group: research
@@ -25,7 +25,7 @@
     # - name: Principle Investigators
     #   group: members
     #   link: "/members/PI"
-    - name: Lab Members
+    - name: Current Members
       group: members
       link: "/members/researcher"
     - name: Alumni
@@ -44,15 +44,15 @@
   link: "/courses"
   group: courses
 
-- name: News
+- name: News & Events
   link: "/news"
   group: news
 
-- name: join
+- name: Join
   link: "/join"
   group: join
 
-- name: contact
+- name: Contact
   link: "/contact"
   group: contact
 

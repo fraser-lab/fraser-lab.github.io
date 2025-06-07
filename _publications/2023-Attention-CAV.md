@@ -7,11 +7,11 @@ krtitle: "어텐션 메커니즘 기반 강화학습을 활용한 교차로 및 
 authors: "**Minseok Seo**, **Kyunghwan Choi**&#42;"
 domestic_or_international: "Domestic"
 pubs: # Publication information
-
-  - name: 한국자동차공학회 추계학술대회 (KSAE) 2023 
+  - name: 한국자동차공학회 추계학술대회 (KSAE)
     doi: 
     pdf: 
-    state: "accepted"
+    year: "2023"
+    state: "published"
 pub_date: "2023-09-25" # abstract; emphasize the important part using **bold** or *italic* of markdown syntax
 image: "/static/pub/2023-Attention-CAV.png"
 abstract: "

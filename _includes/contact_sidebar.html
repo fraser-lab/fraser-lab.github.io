@@ -1,10 +1,4 @@
 
-<h3> Recent Posts </h3>
-<ul>
-  {% for post in site.posts limit: 5 %}
-    <li><a href="{{ post.url }}"><b>{{ post.title }}</b></a></li>
-  {% endfor %}
-</ul>
 
 <h2>Contact Us</h2>
 <p>
@@ -14,10 +8,10 @@
   <br>
   Assistant Professor <br>
   CCS Graduate School of Mobility <br>
-  Korea Advanced Institute of Science and Technology (KAIST) <br>
+  KAIST <br>
   <br>
-  phone: <a href="tel:+82-42-350-1764">+82-42-350-1764</a> <br>
-  email: <a href="mailto:kh.choi@kaist.ac.kr">kh.choi@kaist.ac.kr</a> <br>
+  Phone: <a href="tel:+82-42-350-1764">+82-42-350-1764</a> <br>
+  Email: <a href="mailto:kh.choi@kaist.ac.kr">kh.choi@kaist.ac.kr</a> <br>
   <br>
   F405 (Office), F418 (Lab) <br>
   Korea Postcode 23051 <br>
@@ -26,22 +20,21 @@
 </p>
 
 <p>
-  <h3> Visit our GitHub </h3>
+  <h3> Join Us </h3>
+  We are actively seeking highly motivated students and researchers who are eager to contribute to our mission. 
+  Open positions are listed on our <a href="{{ site.url }}/join">Join</a> page.
+  <br>
+
+<p>
+  <h3> Visit Our GitHub </h3>
   We share our research code on <a href="https://github.com/KAIST-MIC-Lab" target="_blank">GitHub</a>.
 </p>
 
 <p>
-  <h3> Interested in joining the MIC lab? </h3>
-  We are actively seeking highly motivated students eager to contribute to our mission.
-  Open positions are listed on our <a href="{{ site.url }}/join">Join</a> page.</b><br>
-  <br>
-  We welcome applicants from <b>all</b> backgrounds.
-  If you want to join our lab, please send me your CV and transcript to <a href="{{ site.url }}/contact">contact</a>.
-  <br>
-
-  <p>
-  <h3> Read our <a href="{{ site.url }}/philosophy/">lab compact and philosophy</a></h3>
-
+  <h3> Recent Posts </h3>
+  <ul>
+    {% for post in site.posts limit: 5 %}
+      <li><a href="{{ post.url }}"><b>{{ post.title }}</b></a></li>
+    {% endfor %}
+  </ul>
 </p>
-
-

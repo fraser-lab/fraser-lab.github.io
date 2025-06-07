@@ -6,10 +6,12 @@ title: "Neural Network-based Nonlinearity Estimation of Voltage Source Inverter 
 authors: "**Yeongho Jeong**, **Seunghun Jang**, **Kyunghwan Choi**&#42;"
 domestic_or_international: "International" # or "domestic"
 pubs: 
-  - name: IEEE International Symposium on Industrial Electronics (ISIE) 2024
+  - name: IEEE International Symposium on Industrial Electronics (ISIE)
     doi: "10.1109/ISIE54533.2024.10595703"
-    pdf: "/static/pub/2024-NNnonVSI.pdf"
-    state: "accepted"
+    # pdf: "/static/pub/2024-NNnonVSI.pdf"
+    year: "2024"
+    pp: "1-5"
+    state: "published"
 pub_date: "2024-7-19" #Date of publication. Change from Biorxiv date to Journal date once accepted
 image: "/static/pub/2024-NNnonVSI.png"
 github: 

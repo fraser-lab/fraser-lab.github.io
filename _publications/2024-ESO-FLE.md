@@ -6,10 +6,12 @@ title: "Extended State Observer Based Stator Flux Linkage Estimation of Nonlinea
 authors: "**Seunghun Jang**, Bernd Pfeifer, Christoph M. Hackl, **Kyunghwan Choi**&#42;"
 domestic_or_international: "International" # or "domestic"
 pubs: 
-  - name: IEEE International Symposium on Industrial Electronics (ISIE) 2024
+  - name: IEEE International Symposium on Industrial Electronics (ISIE)
     doi: "10.1109/ISIE54533.2024.10595772"
-    pdf: "/static/pub/2024-ESO-FLE.pdf"
-    state: "accepted"
+    year: "2024"
+    pp: "1-5"
+    # pdf: "/static/pub/2024-ESO-FLE.pdf"
+    state: "published"
 pub_date: "2024-7-19" #Date of publication. Change from Biorxiv date to Journal date once accepted
 image: "/static/pub/2024-ESO-FLE.png"
 github: 

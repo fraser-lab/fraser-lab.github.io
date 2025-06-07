@@ -7,10 +7,11 @@ krtitle: "온라인 강화학습 기반 서보 시스템의 최적 각도 추종
 authors: "**Hyochan Lee**, **Kyunghwan Choi**&#42;"
 domestic_or_international: "Domestic"
 pubs: 
-  - name: 제어로봇시스템학회 (ICROS) 2025
+  - name: 제어로봇시스템학회 (ICROS)
     doi: 
+    year: "2025"
     pdf: "/static/pub/2025-online-reinforcement.pdf"
-    state: "accepted"
+    state: "published"
 pub_date: "2025-6-25" #Date of publication. Change from Biorxiv date to Journal date once accepted
 image: "/static/pub/2025-online-reinforcement.png"
 abstract: "

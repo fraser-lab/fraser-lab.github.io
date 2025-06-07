@@ -18,7 +18,7 @@ scholar: 8uTeGWIAAAAJ
 github: SHJang7071
 orcid:  0009-0006-1091-3200 #create if you don't have one
 description: "
-**Seunghun Jang** received the B.S. degree in the _Department of Bio-Industrial Machinery Engineering_ from [**Pusan National University**](https://www.pusan.ac.kr/kor/Main.do), Pusan, South Korea, in 2021, and the M.S. degree in the _Department of Mechanical Engineering_ from [**Gwangju Institute of Science and Technology (GIST)**](https://www.gist.ac.kr/en/main.html), Gwangju, South Korea, in 2024. He is currently pursuing a _Part time Contract Research Scientist_ in the _Cho Chun Shik Graduate School of Mobility_ at the [**Korea Advanced Institute of Science and Technology (KAIST)**](https://www.kaist.ac.kr/en/index.html), Daejeon, South Korea, where he is a member of the _MIC Lab_ .
+**Seunghun Jang** received the B.S. degree in the _Department of Bio-Industrial Machinery Engineering_ from **Pusan National University**, Pusan, South Korea, in 2021, and the M.S. degree in the _Department of Mechanical Engineering_ from **Gwangju Institute of Science and Technology (GIST)**, Gwangju, South Korea, in 2024. He is currently pursuing a _Part time Contract Research Scientist_ in the _Cho Chun Shik Graduate School of Mobility_ at the **KAIST**, Daejeon, South Korea, where he is a member of the _MIC Lab_ .
 
 
 His current research interests include **state estimation of Synchronous Machines (SMs)**, **physics-informed online learning of SMs**, **optimal control of electric drives**.

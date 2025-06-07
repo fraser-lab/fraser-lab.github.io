@@ -7,10 +7,11 @@ krtitle: "비선형 시스템의 선형모델예측제어를 위한 데이터 �
 authors: "**Myeongseok Ryu**, **Kyunghwan Choi**&#42;"
 domestic_or_international: "Domestic"
 pubs: 
-  - name: 제어로봇시스템학회 (ICROS) 2023
+  - name: 제어로봇시스템학회 (ICROS)
     doi: 
+    year: "2023"
     pdf: "/static/pub/2023-Data-driven.pdf"
-    state: "accepted"
+    state: "published"
 pub_date: "2023-06-21" #Date of publication. Change from Biorxiv date to Journal date once accepted
 image: "/static/pub/2023-Data-driven.png"
 abstract: "

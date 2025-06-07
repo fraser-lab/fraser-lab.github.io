@@ -7,10 +7,11 @@ krtitle: "상태 관측기 기반 비선형 동기기의 고정자 쇄교자속 
 authors: "**Seunghun Jang**, **Kyunghwan Choi**&#42;"
 domestic_or_international: "Domestic"
 pubs: 
-  - name: 제어로봇시스템학회 (ICROS) 2024
+  - name: 제어로봇시스템학회 (ICROS)
     doi: 
+    year: "2024"
     pdf: "/static/pub/2024-Stator-Flux-StateObserver.pdf"
-    state: "accepted"
+    state: "published"
 pub_date: "2024-7-2" #Date of publication. Change from Biorxiv date to Journal date once accepted
 image: "/static/pub/2024-Stator-Flux-StateObserver.png"
 abstract: "

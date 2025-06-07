@@ -10,23 +10,56 @@ group: publications
 <div class="container-fluid">
 
 {% assign dom_int = "International|Domestic" | split: "|" %}
-{% assign paper_type = "Journal Paper|Conference Paper" | split: "|" %}
+{% assign paper_type = "Journal Paper|Conference Paper|Patent" | split: "|" %}
+
+{% assign names = "Preprint|Papers Under Review|International"}
 <hr>
 
 <br>
 <h4>Quick Links</h4>
+
+<li>
+	{% assign filtered = "" | split: "" %}
+	{% for pubs in site.publications %}
+		{% assign pub = pubs.pubs | last %}
+		{% if pub.name contains "rxiv" %}
+			{% assign filtered = filtered | push: pubs %}
+		{% endif %}
+	{% endfor %}
+
+	<a href="#Preprint"><b>Preprint</b> ({{filtered.size}})</a>
+</li>
+
+<li>
+	{% assign filtered = "" | split: "" %}
+	{% for pubs in site.publications %}
+		{% assign pub = pubs.pubs | last %}
+		{% if pub.state contains "submitted" or pub.state contains "accepted" %}
+			{% assign filtered = filtered | push: pubs %}
+		{% endif %}
+	{% endfor %}
+
+	<a href="#Papers Under Review"><b>Papers Under Review</b> ({{filtered.size}})</a>
+</li>
+
 {% for domInt in dom_int %}
 	{% for type in paper_type %}
 		{% assign filtered = "" | split: "" %}
 		{% for pubs in site.publications %}
 			{% if pubs.domestic_or_international == domInt and pubs.type == type %}
 				{% if pubs.authors contains "Kyunghwan Choi" %}
-					{% assign filtered = filtered | push: pubs %}
+					{% assign pub = pubs.pubs | last %}
+					{% if pub.state contains "published" %}
+						{% assign filtered = filtered | push: pubs %}	
+					{% endif %}
 				{% endif %}
 			{% endif %}
 		{% endfor %}
 		{% if filtered.size > 0 %}
-			<li><a href="#{{domInt}} {{ type }}"><b>{{domInt}} {{ type }}</b> ({{filtered.size}})</a></li>
+			<li>
+				<a href="#{{domInt}} {{ type }}"><b>{{domInt}} {{ type }}</b> ({{filtered.size}})
+				</a>
+			</li>
 		{% endif %}		
 	{% endfor %}
 {% endfor %}
@@ -47,61 +80,29 @@ group: publications
 		{% endfor %}
 
 		{% if filtered.size > 0 %}
-			{% assign sorted = filtered | sort: "pub_date" | reverse %}
+			
+			{% assign name = domInt | append: " " | append: type %}
 
-			<div id="{{domInt}} {{ type }}">
-				<h4>{{domInt}} {{ type }}</h4>
+			<div id="{{ name }}">
+			<h4>{{ name }}</h4>
 
-				 {% assign last_year = "" %}
-				
-				<ol | reversed>
-				{% for publication in sorted %}
-				
-					{% assign year = publication.pub_date | date: "%Y" %}
-					{% if year != last_year %}
-					<br>
-						<h6 style="text-align: center; color: rgb(0, 0, 111);">
-							<b>
-								{{ year }}
-							</b>
-						</h6>
-						{% assign last_year = year %}
-					{% endif %}
-					
+				{% include pub.html
+					name=name
+					filtered=filtered %}
 
-					<li>
-						<h8>
-							<b>
-								<a href="{{ publication.url }}">{{ publication.title }}</a>
-								{% if publication.domestic_or_international contains "Domestic" %}
-									    <br>
-    									<i>{{ publication.krtitle }}</i>
-								{% endif %}
-							</b>
-						</h8>
-						<br>
-						<h8>
-							{{ publication.authors | markdownify | remove: '<p>' | remove: '</p>' }}
-						</h8>
-						<br>
-						<h8>
-							{% assign pub = publication.pubs | last %}
-							<i>{{ pub.name }}</i> <b>{{ pub.state }}</b>
-							{% if pub.doi %}
-								<a href="https://doi.org/{{ pub.doi }}" title = "DOI: {{pub.doi}} (opens in new tab)" target="_blank">[Online]</a>
-							{% endif %}
-							{% if pub.pdf %}
-								<a href="{{pub.pdf}}" title = "PDF for {{publication.title}} (opens in new tab)" target="_blank">[PDF]</a>
-							{% endif %}
-						</h8>
-					</li>
-
-				{% endfor %}
-				</ol>
-			<hr>
 			</div>
+
 		{% endif %}
+		
 	{% endfor %}
 {% endfor %}
+
+<div id="{{ name }}">
+	<h4>Master's Theses </h4>
+
+
+
+</div>
+
 
 </div>

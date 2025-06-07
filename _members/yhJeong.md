@@ -18,7 +18,7 @@ scholar: btNp4v4AAAAJ&hl #Google Scholar User ID, create if you don't have one
 github: YHJeong1231
 orcid: 0000-0002-2676-2535 #ORCID, create if you don't have one
 description: "
-**Yeongho Jeong** received the B.S. degree in _Department of Electronic Engineering_ from [**Kumoh National Institute of Tecnology**](https://www.kumoh.ac.kr/ko/index.do?sso=ok) and is currently pursuing the M.S. degree in _Department of Mechanical Engineering_ at the [**Gwangju Institute of Science and Technology (GIST)**](https://www.gist.ac.kr/en/main.html), South Korea.
+**Yeongho Jeong** received the B.S. degree in _Department of Electronic Engineering_ from **Kumoh National Institute of Tecnology** and is currently pursuing the M.S. degree in _Department of Mechanical Engineering_ at the **Gwangju Institute of Science and Technology (GIST)**, South Korea.
 
 
 His research interests are **neural networks** and **robust control**.

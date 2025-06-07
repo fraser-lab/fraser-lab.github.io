@@ -11,7 +11,7 @@ enddate:  [2025-01-01] # Leave this blank until you leave the lab
 image: /static/img/members/jjKim.jpg #365 x 365 pixels, 72 dpi
 altimage: /static/img/members/jjKim.jpg #365 x 365 pixels, 72 dpi
 position: Master Student #What is your job title in the Fraser lab?
-subsequent: DCASL #Leave this blank until you leave the lab
+subsequent: Master Student at DCASL #Leave this blank until you leave the lab
 pronouns: he/him/his
 email: kjoon0807@gm.gist.ac.kr #Enter your preferred public e-mail address
 scholar:  #Google Scholar User ID, create if you don't have one
@@ -19,7 +19,7 @@ github:
 orcid:  #ORCID, create if you don't have one
 description: "
 
-**Jaejoon Kim** received the B.S. degree in _Department of Mechanical Engineering_ from [**Incheon National University**](https://www.inu.ac.kr/sites/inuengl/index.do?epTicket=LOG), South Korea, in 2023. He is currently proceeding the M.S. degree in _Department of Mechanical Engineering_ from [**Gwangju Institute of Science and Technology (GIST)**](https://www.gist.ac.kr/en/main.html), South Korea, in 2025. 
+**Jaejoon Kim** received the B.S. degree in _Department of Mechanical Engineering_ from **Incheon National University**, South Korea, in 2023. He is currently proceeding the M.S. degree in _Department of Mechanical Engineering_ from **Gwangju Institute of Science and Technology (GIST)**, South Korea, in 2025. 
 
 
 He was Master Student at MIC Lab at GIST and he moved to the [**DCASL**](https://me.gist.ac.kr/dcas/index.do) at GIST in January 2025.

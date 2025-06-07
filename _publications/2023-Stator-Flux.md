@@ -7,10 +7,11 @@ krtitle: "적분 오차 추정 기반 동기 전동기의 쇄교 자속 추정 �
 authors: "**Seunghun Jang**, **Kyunghwan Choi**&#42;"
 domestic_or_international: "Domestic"
 pubs: 
-  - name: 제어로봇시스템학회 (ICROS) 2023
+  - name: 제어로봇시스템학회 (ICROS)
     doi: 
+    year: "2023"
     pdf: "/static/pub/2023-Stator-Flux.pdf"
-    state: "accepted"
+    state: "published"
 pub_date: "2023-6-21" #Date of publication. Change from Biorxiv date to Journal date once accepted
 image: "/static/pub/2023-Stator-Flux.png"
 abstract: "

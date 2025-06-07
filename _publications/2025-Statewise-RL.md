@@ -8,10 +8,11 @@ authors: "**Minseok Seo**, **Kyunghwan Choi**&#42;"
 domestic_or_international: "Domestic"
 pubs: # Publication information
 
-  - name: 한국자동차공학회 춘계학술대회 (KSAE) 2025 
+  - name: 한국자동차공학회 춘계학술대회 (KSAE) 
     doi: 
+    year: "2025"
     pdf: 
-    state: "accepted"
+    state: "published"
 pub_date: "2025-03-31" # abstract; emphasize the important part using **bold** or *italic* of markdown syntax
 image: "/static/pub/2025-Statewise-RL.png"
 abstract: "

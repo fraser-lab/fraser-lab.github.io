@@ -3,13 +3,15 @@ type: "Conference Paper"
 layout: publication
 group: publications
 title: "A Comparative Study of Reinforcement Learning and Analytical Methods for Optimal Control"
-authors: "**Myeongseok Ryu**, **Junseo Ha**, **Minji Kim, **Kyunghwan Choi**&#42;"
+authors: "**Myeongseok Ryu**, **Junseo Ha**, **Minji Kim**, **Kyunghwan Choi**&#42;"
 domestic_or_international: "International" # or "Domestic"
 pubs: 
-  - name: IEEE International Workshop on Intelligent Systems (IWIS) 2023
+  - name: International Workshop on Intelligent Systems (IWIS)
     doi: 10.1109/IWIS58789.2023.10284677
-    pdf: "/static/pub/2023-Comparative-IWIS.pdf"
-    state: "accepted"
+    pp: "1-5"
+    year: "2023"
+    state: "published"
+    bib: "/static/pub/2023-Comparative.bib"
 pub_date: "2023-10-23" #Date of publication. Change from Biorxiv date to Journal date once accepted
 image: "/static/pub/2023-Comparative.png"
 abstract: "
