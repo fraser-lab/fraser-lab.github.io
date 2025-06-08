@@ -6,7 +6,7 @@ title: "Sator Flux Linkage Estimation Method of Synchronous Machines Based on In
 krtitle: "적분 오차 추정 기반 동기 전동기의 쇄교 자속 추정 기법"
 authors: "**Seunghun Jang**, **Kyunghwan Choi**&#42;"
 domestic_or_international: "Domestic"
-pubs: 
+pub: 
   - name: 제어로봇시스템학회 (ICROS)
     doi: 
     year: "2023"

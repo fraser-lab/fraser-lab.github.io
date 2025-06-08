@@ -1,6 +1,8 @@
 ***           Erase From...           ***
 
 * You should name this file as "YYYY-Title-of-the-paper.md"
+    - You don't use full title, but use the first word or first-second words of the title.
+      - This help to find the file easily.
     - This rule is important for the Jekyll to recognize the post.
 * When you finalize the post, move this file to "_publications" folder.
 * Save figures and pdf you use in "static/pub" folder.
@@ -23,23 +25,28 @@ Required: type, title, authors, domestic_or_international, pubs, pub_date, image
 *** here, after you read every directions. ***
 
 ---
-type: "Conference Paper" # Conference Paper, Journal Paper
+type: "Conference Paper" # Conference Paper, Journal Paper, Ph.D. Thesis, Master's Thesis
 layout: publication # Do not change this
 group: publications # Do not change this
 title: "paper title" # Title of the paper
 krtitle: # only for domestic papers
 authors: "**Myeongseok Ryu**, **Jiyun Kim**, **Kyunghwan Choi**&#42;" # Author of the paper
 domestic_or_international: "International" # "International" or "Domestic"
-pubs: # Publication information
+preprint: # Preprint information - REMOVE THIS FIELD IF NOT APPLICABLE!
   - name: Techrxiv 
     doi: "10.36227/techrxiv.173014412.26480551/v1"
+    year: 2024
     pdf: "/static/pub/2025-imposing-Techrxiv.pdf"
     state: "published" # published, accepted, submitted
-  - name: "IEEE European Control Conference (ECC) 2025"
+pubs: # Publication information - REMOVE THIS FIELD IF NOT APPLICABLE!
+  - name: "European Control Conference (ECC) 2025"
     doi: # Leave it blank if not applicable
-    pdf: # Leave it blank if not applicable
-    state: "accepted"
-pub_date: "2025-06-30" # Date of publication. Change Techrxiv (or other preprint) date to Journal date once accepted
+    vol: # Leave it blank if not applicable
+    no: # Leave it blank if not applicable
+    pp: # Leave it blank if not applicable
+    year: # Leave it blank if not applicable
+    state: "published" # published, accepted, submitted
+pub_date: "2025-06-30" # Date of publication. Change Techrxiv (or other preprint) date to Journal date once published.
 image: "/static/pub/2025-imposing.png" # Representative image of the paper
 github: # Leave this blank if not applicable
   - name: "CONAC/ECC25-weight-constraint" # GitHub repository name

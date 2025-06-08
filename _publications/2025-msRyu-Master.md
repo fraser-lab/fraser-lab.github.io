@@ -5,10 +5,10 @@ group: publications
 title: "Constrained Optimization-Based Neuro-Adaptive Control (CoNAC) for Euler-Lagrange Systems"
 krtitle: "오일러-라그랑주시스템을위한제약최적화기반 신경망 적응제어"
 authors: "**Myeongseok Ryu**, **Kyunghwan Choi**&#42;"
-pubs: # Publication information
-  - name: Gwangju Institute of Science and Technology (GIST)
+pub: # Publication information
+  - name: Gwangju Institute of Science and Technology (GIST) Library
     doi: 
-    pdf: "/static/dissertations/2025-msRyu-Master-pdf"
+    pdf: "/static/dissertations/2025-msRyu-Master.pdf"
     year: "2025"
     state: "published"
 pub_date: "2025-03-01" # abstract; emphasize the important part using **bold** or *italic* of markdown syntax

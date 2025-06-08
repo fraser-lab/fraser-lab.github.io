@@ -5,7 +5,7 @@ group: publications
 title: "Using Deep Reinforcement Learning for Dynamic Gain Adjustment of a Disturbance Observer"
 authors: "**Kyunghwan Choi**, **Hyochan Lee**, Wooyong Kim&#42;"
 domestic_or_international: "International" # or "domestic"
-pubs: 
+preprint: 
   - name: "TechRxiv"
     doi: "10.36227/techrxiv.171174527.70147690/v1"
     pdf: "/static/pub/2024-RL-DOB.pdf"

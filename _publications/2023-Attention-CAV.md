@@ -6,13 +6,13 @@ title: "Path Control of a Connected and Automated Vehicle at Intersections and M
 krtitle: "어텐션 메커니즘 기반 강화학습을 활용한 교차로 및 합류 구간에서의 커넥티드 자율주행차 경로 제어"
 authors: "**Minseok Seo**, **Kyunghwan Choi**&#42;"
 domestic_or_international: "Domestic"
-pubs: # Publication information
+pub: # Publication information
   - name: 한국자동차공학회 추계학술대회 (KSAE)
     doi: 
     pdf: 
     year: "2023"
     state: "published"
-pub_date: "2023-09-25" # abstract; emphasize the important part using **bold** or *italic* of markdown syntax
+pub_date: "2023-09-25" 
 image: "/static/pub/2023-Attention-CAV.png"
 abstract: "
   자율주행 기술이 Level 5(완전 자율주행)에 도달해 전면적으로 보급되기 전까지는, 도로 상에 자율주행 시스템과 운전자가 공존할 것으로 예상된다. 이러한 과도기적인 시점에서는 운전자와 자율주행 차량과의 상호작용이 중요하다. 하지만 교차로나 합류 구간과 같은 복잡한 상호작용 시나리오에서는 운전자주행차의 의도를 알아차릴 수 없기 때문에 자율주행 차량이 방어적으로 주행하는 경향성을 보이는데, 이는 곧 교통 체증이나 후미 충돌 사고로 이어질 가능성이 높다. 이러한 문제점을 해결하고 안정성을 향상시키기 위해 주변 차량의 위치, 속도, 방향 등의 정보를 활용하는 커넥티드 자율주행차가 주목받고 있다.

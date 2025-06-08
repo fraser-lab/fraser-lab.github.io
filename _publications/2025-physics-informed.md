@@ -5,12 +5,13 @@ group: publications
 title: "Physics-Informed Online Learning of Flux Linkage Model for Synchronous Machine"
 authors: "**Seunghun Jang**, **Myeongseok Ryu**, **Kyunghwan Choi**&#42;"
 domestic_or_international: "International" # or "domestic"
-pubs: 
+preprint: 
   - name: Techrxiv
     doi: "10.36227/techrxiv.172893538.89561848/v1"
     pdf: "/static/pub/2025-physics-informed-Techrxiv.pdf"
     state: "published"
     year: "2025"
+pub:
   - name: Industrial Electronics Society (IECON) 
     doi: 
     year: "2025"

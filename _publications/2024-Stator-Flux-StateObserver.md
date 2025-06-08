@@ -6,7 +6,7 @@ title: "Stator Flux Linkage Estimation of Nonlinear Synchronous Machines Based o
 krtitle: "상태 관측기 기반 비선형 동기기의 고정자 쇄교자속 추정"
 authors: "**Seunghun Jang**, **Kyunghwan Choi**&#42;"
 domestic_or_international: "Domestic"
-pubs: 
+pub: 
   - name: 제어로봇시스템학회 (ICROS)
     doi: 
     year: "2024"

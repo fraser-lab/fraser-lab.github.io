@@ -6,8 +6,7 @@ title: "State-wise Safety in Autonomous Driving via Lagrangian-based Constrained
 krtitle: "라그랑지안 기반 제약 강화 학습을 통한 자율주행 시스템의 상태별 안정성 보장"
 authors: "**Minseok Seo**, **Kyunghwan Choi**&#42;"
 domestic_or_international: "Domestic"
-pubs: # Publication information
-
+pub: # Publication information
   - name: 한국자동차공학회 춘계학술대회 (KSAE) 
     doi: 
     year: "2025"

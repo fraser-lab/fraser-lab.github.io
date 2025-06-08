@@ -3,9 +3,9 @@ type: "Conference Paper"
 layout: publication
 group: publications
 title: "Designing Performance Recovery Adaptive Feedback System for Mobile Robot Trajectory Tracking Applications via Order ReductionTechnique*"
-authors: " Seok-Kyoon Kim, **Hyochan Lee**, Chao Xu&#42;"
+authors: "Seok-Kyoon Kim, **Hyochan Lee**, Chao Xu&#42;"
 domestic_or_international: "International" # or "domestic"
-pubs: 
+pub: 
   - name: IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
     doi: #"submitted"
     pdf: #"submitted"

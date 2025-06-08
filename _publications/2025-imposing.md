@@ -5,12 +5,13 @@ group: publications
 title: "Imposing a Weight Norm Constraint for Neuro-Adaptive Control"
 authors: "**Myeongseok Ryu**, **Jiyun Kim**, **Kyunghwan Choi**&#42;"
 domestic_or_international: "International" # or "domestic"
-pubs: 
+preprint: 
   - name: Techrxiv
     doi: "10.36227/techrxiv.173014412.26480551/v1"
     pdf: "/static/pub/2025-imposing-Techrxiv.pdf"
     year: "2024"
     state: "published"
+pub:
   - name: "European Control Conference (ECC)"
     doi: 
     year: 2025

@@ -5,7 +5,7 @@ group: publications
 title: "Stator Flux Linkage Estimation of Synchronous Machines Based on Integration Error Estimation for Improved Transient Performance"
 authors: "**Seunghun Jang**,  **Kyunghwan Choi**&#42;"
 domestic_or_international: "International" # or "domestic"
-pubs: 
+pub: 
   - name: IEEE Conference on Decision and Control (CDC)
     doi: "10.1109/CDC49753.2023.10383827"
     pp: "4197-4202"

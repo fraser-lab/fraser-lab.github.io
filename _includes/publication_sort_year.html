@@ -1,0 +1,95 @@
+{% assign sorted = data | sort: "pub_date" | reverse %}
+
+    {% assign last_year = "" %}
+
+<ol | reversed>
+{% for publication in sorted %}
+
+    {% assign year = publication.pub_date | date: "%Y" %}
+    {% if year != last_year %}
+    <br>
+        <h6 style="text-align: center; color: rgb(0, 0, 0);">
+            <b>
+                {{ year }}
+            </b>
+        </h6>
+        {% assign last_year = year %}
+    {% endif %}
+    
+    <li>
+        <h8>
+            <b>
+                <a href="{{ publication.url }}">{{ publication.title }}</a>
+                {% if publication.domestic_or_international contains "Domestic" %}
+                        <br>
+                        <i>{{ publication.krtitle }}</i>
+                {% endif %}
+            </b>
+        </h8>
+
+        <br>
+
+        <h8>
+            {{ publication.authors | markdownify | remove: '<p>' | remove: '</p>' }}
+        </h8>
+
+        <br>
+
+        <h8>
+            {% if publication.type contains "Ph.D. Dissertation" or publication.type contains "Master's Thesis" %}
+
+                <!-- Dissertations -->
+                {% assign diss_info = publication.pub | last %}
+                <i><b>{{ diss_info.name }}</b></i>{% if diss_info.year %}, {{ diss_info.year }}{% endif %}                
+                                
+                {% if diss_info.pdf %}
+                    <a href="{{diss_info.pdf}}" title = "PDF for {{publication.title}} (opens in new tab)" target="_blank">[Full-Text]</a>
+                {% endif %}
+                {% if diss_info.bib %}
+                    <a href="{{diss_info.bib}}" title = "BibTex for {{publication.title}} (opens in new tab)" target="_blank">[Cite]</a>
+                {% endif %}
+
+            {% elsif publication.pub %}
+                {% assign pub_info = publication.pub | last %}
+                
+                <!-- Publications -->
+                {% assign pub = publication.pub | last %}
+                <i><b>{{ pub.name }}</b></i>{% if pub.vol %}, vol. {{ pub.vol }}{% endif %}{% if pub.no %}, no. {{ pub.no }}{% endif %}{% if pub.pp %}, pp. {{ pub.pp }}{% endif %}{% if pub.year %}, {{ pub.year }}{% endif %}
+                
+                {% if pub.doi %}
+                    <a href="https://doi.org/{{ pub.doi }}" title = "DOI: {{pub.doi}} (opens in new tab)" target="_blank">[Online]</a>
+                {% endif %}
+                {% if publication.preprint %}
+                    {% assign pre_info = publication.preprint | last %}
+                    {% if pre_info.pdf %}
+                    <a href="{{pre_info.pdf}}" title = "PDF for {{publication.title}} (opens in new tab)" target="_blank">[Full-Text]</a>
+                    {% endif %}
+                {% endif %}
+                {% if pub.bib %}
+                    <a href="{{pub.bib}}" title = "BibTex for {{publication.title}} (opens in new tab)" target="_blank">[Cite]</a>
+                {% endif %}
+
+            {% else %}
+                <!-- Preprints -->
+                {% assign pre_info = publication.preprint | last %}
+                <i><b>{{ pre_info.name }}</b></i>{% if pre_info.year %}, {{ pre_info.year }}{% endif %}                
+                                
+                {% if pre_info.doi %}
+                    <a href="https://doi.org/{{ pre_info.doi }}" title = "DOI: {{pre_info.doi}} (opens in new tab)" target="_blank">[Online]</a>
+                {% endif %}
+                {% if pre_info.pdf %}
+                    <a href="{{pre_info.pdf}}" title = "PDF for {{publication.title}} (opens in new tab)" target="_blank">[Full-Text]</a>
+                {% endif %}
+                {% if pre_info.bib %}
+                    <a href="{{pre_info.bib}}" title = "BibTex for {{publication.title}} (opens in new tab)" target="_blank">[Cite]</a>
+                {% endif %}
+
+            {% endif %}
+                
+        </h8>
+
+    </li>
+
+{% endfor %}
+</ol>
+<hr>

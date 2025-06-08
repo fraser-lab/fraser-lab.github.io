@@ -6,7 +6,7 @@ title: "Using Deep Reinforcement Learning for Intelligent Gain Adjustment of a D
 krtitle: "외란관측기의 심층강화학습 기반 지능형 자동 동조 기법"
 authors: "**Hyochan Lee**, **Kyunghwan Choi**&#42;"
 domestic_or_international: "Domestic"
-pubs: 
+pub: 
   - name: 제어로봇시스템학회 (ICROS)
     doi: 
     year: "2024"

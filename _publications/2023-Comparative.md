@@ -5,7 +5,7 @@ group: publications
 title: "A Comparative Study of Reinforcement Learning and Analytical Methods for Optimal Control"
 authors: "**Myeongseok Ryu**, **Junseo Ha**, **Minji Kim**, **Kyunghwan Choi**&#42;"
 domestic_or_international: "International" # or "Domestic"
-pubs: 
+pub: 
   - name: International Workshop on Intelligent Systems (IWIS)
     doi: 10.1109/IWIS58789.2023.10284677
     pp: "1-5"

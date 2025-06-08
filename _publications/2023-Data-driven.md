@@ -6,7 +6,7 @@ title: "Data-driven Modeling of Model Residuals for Linear Model Predictive Cont
 krtitle: "비선형 시스템의 선형모델예측제어를 위한 데이터 기반 시스템 잔차 모델링"
 authors: "**Myeongseok Ryu**, **Kyunghwan Choi**&#42;"
 domestic_or_international: "Domestic"
-pubs: 
+pub: 
   - name: 제어로봇시스템학회 (ICROS)
     doi: 
     year: "2023"

@@ -5,7 +5,7 @@ group: publications
 title: "Online Actor Critic Learning for Optimal Tracking in Servo Positioning Systems"
 authors: "**Hyochan Lee**, **Kyunghwan Choi**&#42;"
 domestic_or_international: "International" # or "domestic"
-pubs: 
+pub: 
   - name: Industrial Electronics Society (IECON)
     doi: 
     year: "2025"

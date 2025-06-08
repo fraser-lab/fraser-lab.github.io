@@ -6,7 +6,7 @@ title: "Approximation-based Steering Controller with Deep Neural Network"
 krtitle: "심층신경망 근사기반 조향 제어기"
 authors: "**Myeongseok Ryu**, **Kyunghwan Choi**&#42;"
 domestic_or_international: "Domestic"
-pubs: 
+pub: 
   - name: 제어로봇시스템학회 (ICROS)
     doi: 
     year: "2024"

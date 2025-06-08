@@ -5,7 +5,7 @@ group: publications
 title: "Reinforcement Learning-Based Collision Avoidance of a Connected and Automated Vehicle at Merging Roads"
 authors: "**Minseok Seo**, **Seongjae Shin**, Kyungjoong Kim, **Kyunghwan Choi**&#42;"
 domestic_or_international: "International" # or "Domestic"
-pubs: 
+pub: 
   - name: IEEE International Workshop on Intelligent Systems (IWIS)
     doi: 10.1109/IWIS58789.2023.10284616
     pp: "1-5"
