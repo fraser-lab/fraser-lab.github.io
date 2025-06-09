@@ -4,7 +4,7 @@ title: Institute of Control, Robotics and Systems (ICROS) 2024 Outstanding Young
 author: Myeongseok Ryu
 layout: post
 group: news
-tags: award
+tags: award, conference
 img: /static/posts/2024-07-03-ICROS-Young-Award2.png
 ---
 <div class="container-fluid">

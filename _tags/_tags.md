@@ -1,0 +1,7 @@
+Award(수상실적)
+Talk(초청세미나, 연구실 주관/참석 학술행사 등)
+Conference(학회참석)
+Publication(학회/저널 논문 accept)
+Service(보직, 위원회 등)
+Media(언론보도)
+Life @ MICLab(연구실 일상)

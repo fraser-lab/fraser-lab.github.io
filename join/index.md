@@ -4,17 +4,31 @@ layout: default
 group: join
 ---
 
-# Join the MIC Lab
-Our lab welcomes applicants from any race, ethnicity, religion, national origin, gender identity, gender expression, caregiver and family commitments, political affiliation, sexual orientation, and eligible age or disability status. Furthermore, we are committed to maintaining a supportive and collaborative lab environment.
-##### Read more about [our lab compact and philosophy.](/philosophy/)
+<div class="container-fluid">
 
-We are always in the market for motivated and talented people, even if we do not have an open position currently advertised. We are interested in engaging with you in a conversation about your scientific background and goals for your future career (in academia, industry, or other ventures). We strive to provide excellent training across a wide range of computational and experimental techniques. If interested please send your CV/Resume to [Dr. Kyunghwan Choi](/contact).
+## Join Us
+We are actively seeking highly motivated students and researchers who are eager to contribute to our mission.
+Below are the preferred qualifications and application procedures for each position.
 
-<br/>
+<!-- ##### Read more about [our lab compact and philosophy.](/philosophy/) 
 
-## Graduate Students
+We are always in the market for motivated and talented people, even if we do not have an open position currently advertised. We are interested in engaging with you in a conversation about your scientific background and goals for your future career (in academia, industry, or other ventures). We strive to provide excellent training across a wide range of computational and experimental techniques. If interested please send your CV/Resume to [Dr. Kyunghwan Choi](/contact). -->
 
-To be updated.
+
+### Graduate Programs (M.S. / Ph.D.)
+
+We warmly welcome students with __a strong background in control systems and a keen interest—or prior experience—in applying control theory to mobility systems__. However, prior experience is not mandatory. Students with __strong mathematical thinking and problem-solving skills__ will be well-prepared to begin research in our group and grow as researchers.
+
+If you are interested in joining us, please contact [Prof. Kyunghwan Choi](/contact) via <a href="mailto:kh.choi@kaist.ac.kr">email</a> with your CV and academic transcript attached.
+
+### Undergraduate Research Internships
+We invite undergraduate students who wish to study or conduct exploratory research on the following topics:
+- Model Predictive Control (MPC)
+- Neural Network-Based Control
+- Control experiments using vehicle dynamics simulator (CarMaker)
+
+If you are interested, feel free to contact [Prof. Kyunghwan Choi](/contact) via <a href="mailto:kh.choi@kaist.ac.kr">email</a>.
+
 
 <!-- 
 At KAIST, students can apply to a single [graduate program](https://graduate.ucsf.edu/programs) and do not apply directly to labs. The landscape of life science PhD programs and their admissions processes can be incredibly opaque, so Hersh Bhargava and I wrote a [guide on Applying to Quantitative Biology PhD Programs](https://hershbhargava.com/writing/applying-to-phd-programs/). 
@@ -29,16 +43,21 @@ Once students are admitted to UCSF, during the first year of a Ph.D. program, st
 
 As the 3rd rotation period comes to a close, we will talk with the year's rotation students (at least those who remain interested!) about joining the lab.  During this period, we encourage students to keep talking to the PI and lab members about what kind of project they might want to shape. We consider project fit, scientific chemistry, and alignment with lab values. Because we are a member of multiple graduate programs with different policies and timings for final lab decision making, we cannot make any final commitments until the end of the Spring Quarter to ensure all rotations students are given consideration. -->
 
-## Postdoctoral Fellows
+### Postdoctoral Positions
 
-To be updated.
+We welcome postdoctoral applications on a rolling basis. Please contact [Prof. Kyunghwan Choi](/contact) directly via email. While we are open to a wide range of topics related to mobility system control, we are particularly interested in candidates working on:
+-	Network-level control of Connected, Automated, and Electrified Vehicles (CAEVs)
+-	Reinforcement learning-based control of mobility systems
+
 
 <!-- Inquiries about Postdoctoral positions should be emailed directly to [Dr. James Fraser](/contact). We set our postdoctoral fellow compensation to the [Stanford rates](https://postdocs.stanford.edu/funding-levels-and-guidelines) **and** encourage candidates to explore applying for extramural fellowships to support their research. -->
 
+<!--
 ## Other Visitors
-
-To be updated.
+-->
 
 <!-- In the past, our lab has enjoyed having foreign exchange students, interns, sabbatical visitors from academia and industry, and post-bac research specialists in the lab.  We are open to other arrangements as well. As we expect people to be fairly compensated for their work by their home institution or by us, we do not have volunteer positions available.  -->
 
 <!-- **We take high school students exclusively through UCSF affiliated programs, e.g. [SEP](http://sep.ucsf.edu/), [BAYS](https://pharm.ucsf.edu/bays).** We cannot accomodate high school students outside of these programs and do not have volunteer positions for high school students. -->
+
+</div>

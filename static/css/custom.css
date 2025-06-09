@@ -44,9 +44,10 @@
 }
 
 .welcomefont {
-  font-size: 1.5em;
-  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+  /* font-size: 1.5em; */
+  font-family: 'Times New Roman', Times, serif;
 } 
+/* font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; */
 
 /*
 body {

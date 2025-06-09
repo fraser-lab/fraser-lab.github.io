@@ -19,7 +19,7 @@ github:
 orcid:  #ORCID, create if you don't have one
 description: "
 
-**Seongjae Shin** received the B.S. and Master degrees in _Department of Mechanical Engineering_ from **Gwangju Institute of Science and Technology (GIST)**, South Korea, in 2022 and 2024, respectively. He is currently proceeding the Ph.D. degree in _Department of Mechanical Engineering_ from **GIST**, South Korea, in 2025. 
+**Seongjae Shin** received the B.S. and Master degrees in Department of Mechanical Engineering from **Gwangju Institute of Science and Technology (GIST)**, South Korea, in 2022 and 2024, respectively. He is currently proceeding the Ph.D. degree in Department of Mechanical Engineering from **GIST**, South Korea, in 2025. 
 
 
 He was Master Student at MIC Lab at GIST and he moved to the [**MPIL**](https://mpil-gist.github.io) at GIST in January 2025, for his Ph.D. degree.

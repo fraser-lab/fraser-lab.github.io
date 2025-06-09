@@ -4,7 +4,7 @@ layout: publication
 group: publications
 title: "Constrained Optimization-Based Neuro-Adaptive Control (CONAC) for Euler-Lagrange Systems Under Weight and Input Constraints"
 domestic_or_international: "International" # or "Domestic"
-authors: "**Myeongseok Ryu**, **Donghwa Hong**,  **Kyunghwan Choi**&#42;"
+authors: "<u>Myeongseok Ryu</u>, <u>Donghwa Hong</u>, <u>Kyunghwan Choi</u>&#42;"
 preprint: 
   - name: Techrxiv
     doi: "10.36227/techrxiv.172954216.68720680/v1"

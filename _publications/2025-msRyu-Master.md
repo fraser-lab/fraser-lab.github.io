@@ -4,7 +4,7 @@ layout: publication
 group: publications
 title: "Constrained Optimization-Based Neuro-Adaptive Control (CoNAC) for Euler-Lagrange Systems"
 krtitle: "오일러-라그랑주시스템을위한제약최적화기반 신경망 적응제어"
-authors: "**Myeongseok Ryu**, **Kyunghwan Choi**&#42;"
+authors: "<u>Myeongseok Ryu</u>, <u>Kyunghwan Choi</u>&#42;"
 pub: # Publication information
   - name: Gwangju Institute of Science and Technology (GIST) Library
     doi: 

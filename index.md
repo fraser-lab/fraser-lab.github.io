@@ -4,14 +4,24 @@ layout: home
 group: home
 ---
 
-# Welcome to the __MIC Lab__!
-{: .display-4}
+<div class="container-fluid">
+
+<div style="text-align: center; margin-bottom: 5px;">
+  
+## <b>Mobility Intelligence and Control Laboratory</b>
+<!-- {: .welcomefont} -->
+#### KAIST CCS Graduate School of Mobility
+<!-- {: .welcomefont} -->
+</div>
+
 <br>
-The <b>Mobility Intelligence & Control Laboratory (MIC Lab)</b> is part of the [Cho Chun Shik Graduate School of Mobility (CCS Graduate School of Mobility)](https://mo.kaist.ac.kr) at [KAIST](https://www.kaist.ac.kr/kr/).
+
+The Mobility Intelligence and Control Laboratory (MIC Lab) focuses on enabling mobility intelligence through optimal and learning-based control of Connected, Automated, and Electrified Vehicles (CAEVs) across multiple levels of control.
 <!-- {: .welcomefont} -->
 
+<p align="center">
+  <img src="static/img/home.png" alt="MIC Lab Logo" style="max-width: 90%; height: auto;">
+</p>
 
-We Control __CAEVs__ across __Multiple Levels__ based on __Learning + Control Theory__.
-<!-- {: .welcomefont} -->
 
-![MIC lab Program](static/img/research/Research_Program.jpg){:style="max-width: 100%; height: auto;"}
+</div>

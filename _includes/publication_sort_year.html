@@ -9,22 +9,18 @@
     {% if year != last_year %}
     <br>
         <h6 style="text-align: center; color: rgb(0, 0, 0);">
-            <b>
-                {{ year }}
-            </b>
+            {{ year }}
         </h6>
         {% assign last_year = year %}
     {% endif %}
     
     <li>
         <h8>
-            <b>
-                <a href="{{ publication.url }}">{{ publication.title }}</a>
-                {% if publication.domestic_or_international contains "Domestic" %}
-                        <br>
-                        <i>{{ publication.krtitle }}</i>
-                {% endif %}
-            </b>
+            <a href="{{ publication.url }}">{{ publication.title }}</a>
+            {% if publication.domestic_or_international contains "Domestic" %}
+                    <br>
+                    <i>{{ publication.krtitle }}</i>
+            {% endif %}
         </h8>
 
         <br>
@@ -40,7 +36,7 @@
 
                 <!-- Dissertations -->
                 {% assign diss_info = publication.pub | last %}
-                <i><b>{{ diss_info.name }}</b></i>{% if diss_info.year %}, {{ diss_info.year }}{% endif %}                
+                <i>{{ diss_info.name }}</i>{% if diss_info.year %}, {{ diss_info.year }}{% endif %}                
                                 
                 {% if diss_info.pdf %}
                     <a href="{{diss_info.pdf}}" title = "PDF for {{publication.title}} (opens in new tab)" target="_blank">[Full-Text]</a>
@@ -55,15 +51,23 @@
                 <!-- Publications -->
                 {% assign pub = publication.pub | last %}
                 <i><b>{{ pub.name }}</b></i>{% if pub.vol %}, vol. {{ pub.vol }}{% endif %}{% if pub.no %}, no. {{ pub.no }}{% endif %}{% if pub.pp %}, pp. {{ pub.pp }}{% endif %}{% if pub.year %}, {{ pub.year }}{% endif %}
-                
                 {% if pub.doi %}
                     <a href="https://doi.org/{{ pub.doi }}" title = "DOI: {{pub.doi}} (opens in new tab)" target="_blank">[Online]</a>
+                {% elsif pub.url and publication.domestic_or_international contains "Domestic" %} 
+                    <a href="{{pub.url}}" title = "URL for {{publication.title}} (opens in new tab)" target="_blank">[DBpia Online]</a>
                 {% endif %}
+                
                 {% if publication.preprint %}
                     {% assign pre_info = publication.preprint | last %}
-                    {% if pre_info.pdf %}
-                    <a href="{{pre_info.pdf}}" title = "PDF for {{publication.title}} (opens in new tab)" target="_blank">[Full-Text]</a>
+
+                    {% if pre_info.doi %}
+                        <a href="https://doi.org/{{ pre_info.doi }}" title = "DOI: {{pre_info.doi}} (opens in new tab)" target="_blank">[Preprint Online]</a>
                     {% endif %}
+
+                    {% if pre_info.pdf %}
+                        <a href="{{pre_info.pdf}}" title = "PDF for {{publication.title}} (opens in new tab)" target="_blank">[Preprint Full-Text]</a>
+                    {% endif %}
+                    
                 {% endif %}
                 {% if pub.bib %}
                     <a href="{{pub.bib}}" title = "BibTex for {{publication.title}} (opens in new tab)" target="_blank">[Cite]</a>

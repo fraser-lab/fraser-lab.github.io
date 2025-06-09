@@ -4,13 +4,22 @@ layout: default
 group: courses
 ---
 
-# KAIST (2025 - Present)
+##### MOXXX: Special Topics on Unmanned Autonomous Systems &lt;Learning-Based Control for Mobility Systems&gt;
+- Abstract to apprear
 
-To be updated.
 
-# GIST (2022 - 2025)
+<!-- 과목 GitHub Repo 추가 예정 -->
 
-To be updated.
+<!--
+## KAIST (2025 - Present)
+- Learning-Based Control for Mobility Systems (Graduate course), Fall 2025
+
+
+## GIST (2022 - 2025)
+- Introduction to Mobility Engineering (Graduate course), Fall 2023/Spring 2025
+- Nonlinear Control (Graduate course), Fall 2022/2024
+- Microprocessor and Application (Undergraduate course), Spring 2022/2023/2024
+-->
 
 <!-- 
       *** 교수님께 ***

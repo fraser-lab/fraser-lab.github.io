@@ -27,7 +27,7 @@ group: members
       {% endif %}    
     {% endif %}
   {% endfor %}
-  <li><a href="#{{ position }}">{{ position }} ({{ filtered.size }})</a></li>
+  <li><a href="#{{ position }}">{{ position }}s ({{ filtered.size }})</a></li>
 {% endfor %}
 <hr>
 <br>
@@ -37,7 +37,7 @@ group: members
 {% assign sorted = site.members | where: "position", position | sort: "startdate" %}
 
   <div id = "{{ position }}">
-  <h2>{{ position }}</h2>
+  <h2>{{ position }}s</h2>
   <hr>
   <div>
 

@@ -4,7 +4,7 @@ layout: publication
 group: publications
 title: "Integrated Motion Control of Four in-Wheel Motor Actuated Vehicles Considering Path Tracking, Ride Comfort, and Energy Efficiency"
 krtitle: "경로 추종, 동적 승차감, 그리고 에너지 효율을 고려한 전륜 인휠모터 자동차의 통합 운동 제어"
-authors: "**Myeongseok Ryu**, **Kyunghwan Choi**&#42;"
+authors: "<u>Myeongseok Ryu</u>, <u>Kyunghwan Choi</u>&#42;"
 domestic_or_international: "Domestic"
 pub: 
   - name: 한국자동차공학회 추계학술대회 (KSAE)
@@ -12,6 +12,8 @@ pub:
     year: "2023"
     pdf: 
     state: "published"
+    url: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11665897
+    pp: "490"
 pub_date: "2023-10-21" #Date of publication. Change from Biorxiv date to Journal date once accepted
 image: "/static/pub/2023-Integrated.png"
 abstract: "

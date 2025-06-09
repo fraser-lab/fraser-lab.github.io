@@ -9,12 +9,12 @@
 - name: Research
   group: research
   dropdown:
-    - name: Research
+    - name: Overview
       group: research
       link: "/research"
-    - name: Learning + Control Theory
-      group: research
-      link: "/research/control_learning"
+    # - name: Learning + Control Theory
+    #   group: research
+    #   link: "/research/control_learning"
     - name: Research Projects
       group: research
       link: "/research/projects"

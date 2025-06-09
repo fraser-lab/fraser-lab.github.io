@@ -19,7 +19,7 @@ github:
 orcid:  #ORCID, create if you don't have one
 description: "
 
-**Jaejoon Kim** received the B.S. degree in _Department of Mechanical Engineering_ from **Incheon National University**, South Korea, in 2023. He is currently proceeding the M.S. degree in _Department of Mechanical Engineering_ from **Gwangju Institute of Science and Technology (GIST)**, South Korea, in 2025. 
+**Jaejoon Kim** received the B.S. degree in Department of Mechanical Engineering from **Incheon National University**, South Korea, in 2023. He is currently proceeding the M.S. degree in Department of Mechanical Engineering from **Gwangju Institute of Science and Technology (GIST)**, South Korea, in 2025. 
 
 
 He was Master Student at MIC Lab at GIST and he moved to the [**DCASL**](https://me.gist.ac.kr/dcas/index.do) at GIST in January 2025.

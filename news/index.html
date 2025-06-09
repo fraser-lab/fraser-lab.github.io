@@ -4,7 +4,7 @@ layout: default
 group: news
 ---
 
-<h1> News from the MIC Lab </h1>
+<h1> News & Events from the MIC Lab </h1>
 
 <div class="container-fluid">
   <hr>
@@ -12,15 +12,14 @@ group: news
 <br>
 
   <h3>
-    Available Tags
+    Tags
   </h3>
   {% for tag in site.tags %}
-
     {% assign tag_slug = tag.tag-name | slugify: "raw" %}
-    <li>
-        <a class="tag-link" href={{ site.baseurl | append: "/tags/" | append: tag_slug | append: "/" }} rel="category tag">#{{ tag.tag-name }}
-    </li>
+    <a class="tag-link" href={{ site.baseurl | append: "/tags/" | append: tag_slug | append: "/" }} rel="category tag">#{{ tag.tag-name }} </a>
+    {% if forloop.last == false %}, {% endif %}
   {% endfor %}
+
 </div>
 
 <!-- This loops through the paginated posts -->

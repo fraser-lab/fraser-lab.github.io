@@ -4,8 +4,46 @@ layout: default
 group: contact
 ---
 
-# Contact the MIC Lab
+<div class="container-fluid">
 
+<div class="row" style="padding-top: 20px; margin-top: -20px">
+
+<div class="col-md-5">
+
+## Contact Us
+
+**English Address**  
+Room F405 (Office), Room F418 (Lab)<br>
+193 Munji-ro, Yuseong-gu, Daejeon 34051<br>
+Republic of Korea<br>
+
+**Korean Address**  
+(34051) 대전광역시 유성구 문지로 193  
+학부동 F405호 (교수연구실), F418호 (학생연구실)
+
+**Phone**  
++82-42-350-1764 (Prof. Kyunghwan Choi)<br>
+
+**Email**  
+Prof. Kyunghwan Choi: <a href="mailto:kh.choi@kaist.ac.kr">kh.choi@kaist.ac.kr</a><br>
+Lab Representative: <a href="mailto:shjang7071@kaist.ac.kr">shjang7071@kaist.ac.kr<a><br>
+
+</div>
+
+<div class="col-md-4">
+
+<!-- https://ayastreb.me/jekyll-maps/#examples -->
+{% google_map
+   zoom="12"
+   latitude="36.391978"
+   longitude="127.398833"
+   marker_title="KAIST Munji Campus"
+   marker_url="https://mo.kaist.ac.kr/en/" %}
+
+</div>
+</div>
+
+<!--
 <div class="row">
 
 <div class="col-md-4">
@@ -19,6 +57,7 @@ group: contact
   Daejeon, Republic of Korea<br>
   <!-- tel: 415 502 3488 -->
 
+<!--
 </div>
 
 <div class="col-md-4">
@@ -46,6 +85,7 @@ group: contact
   email: <a href="mailto:shjang7071@kaist.ac.kr">shjang7071@kaist.ac.kr<a><br>
   <!-- tel:  -->
 
+<!--
 </div>
 
 </div>
@@ -62,6 +102,7 @@ To be updated.
   <!-- * **Option 4**: Exit Caltrain and then walk along [4th St](https://goo.gl/maps/tpJHnJ2NgTyaCqXE9) for about 15 minutes until arriving at UCSF Mission Bay. -->
   <!-- * **Option 5**: There are many different [UCSF Shuttle routes](http://www.campuslifeservices.ucsf.edu/transportation/services/shuttles) that connect to the Mission Bay campus from various parts of the city (weekdays only). -->
 
+<!--
 * #### Car:
 
 To be updated.
@@ -69,7 +110,11 @@ To be updated.
   <!-- * We are at 600 16th Street, between Owens St. and 4th St. There are three [UCSF parking garages](https://campuslifeservices.ucsf.edu/transportation/services/parking/public_parking) - [UCSF Medical Center](https://www.google.com/maps/dir//1835+Owens+Street,+San+Francisco,+CA/@37.766028,-122.3965034,16z/data=!4m8!4m7!1m0!1m5!1m1!1s0x808f7fc8cdb8207f:0x127c6a3dfd479d27!2m2!1d-122.3921259!2d37.7659687), [UCSF Community Center](https://www.google.com/maps/dir//1625+Owens+Street,+San+Francisco,+CA/@37.7683246,-122.3960538,17z/data=!4m8!4m7!1m0!1m5!1m1!1s0x808f7fce59453269:0x84e5cd7b11e40956!2m2!1d-122.3938649!2d37.7682654), and [UCSF Third Street](https://www.google.com/maps/dir//1650+3rd+Street,+San+Francisco,+CA/@37.7681787,-122.3917134,17z/data=!4m8!4m7!1m0!1m5!1m1!1s0x808f7fc5f2d2fc19:0xf5e85a2024424948!2m2!1d-122.3895247!2d37.7681745). Please park in one of the garages and not in the surface lots. --> 
   <!-- * If you are being dropped off (by a rideshare service), use 1675 Owens St, San Francisco, CA 94158 as the destination address. There is convenient parking circle (red star on map below) for drop-off. --> 
 
+<!--
 <div style="text-align: center;">
   <img class="img-fluid" src="/static/img/way_to_univ.png" alt="Way to Univ" width="45%">
   <img class="img-fluid" src="/static/img/campus_map.png" alt="Campus Map" width="45%">
+</div>
+-->
+
 </div>

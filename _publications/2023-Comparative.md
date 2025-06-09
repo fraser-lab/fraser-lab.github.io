@@ -3,8 +3,10 @@ type: "Conference Paper"
 layout: publication
 group: publications
 title: "A Comparative Study of Reinforcement Learning and Analytical Methods for Optimal Control"
-authors: "**Myeongseok Ryu**, **Junseo Ha**, **Minji Kim**, **Kyunghwan Choi**&#42;"
+authors: "<u>Myeongseok Ryu</u>, <u>Junseo Ha</u>, <u>Minji Kim</u>, <u>Kyunghwan Choi</u>&#42;"
 domestic_or_international: "International" # or "Domestic"
+preprint:
+  # - pdf: "/static/pub/2023-comparative.pdf"
 pub: 
   - name: International Workshop on Intelligent Systems (IWIS)
     doi: 10.1109/IWIS58789.2023.10284677

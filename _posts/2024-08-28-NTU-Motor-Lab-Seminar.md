@@ -4,7 +4,7 @@ title: NTU Motor Lab Seminar Presentation
 author: Myeongseok Ryu
 layout: post
 group: news
-tags: collaboration
+tags: talk
 img: /static/posts/2024-08-28-NTU-Motor-Lab-Seminar.jpg
 ---
 <div class="container-fluid">

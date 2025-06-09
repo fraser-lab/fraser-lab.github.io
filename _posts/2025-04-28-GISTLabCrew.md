@@ -4,7 +4,7 @@ title: GIST Lab Crew
 author: Myeongseok Ryu
 layout: post
 group: news
-tags: general
+tags: life
 img: /static/posts/2025-04-28-GISTLabCrew.jpg
 ---
 <div class="container-fluid">

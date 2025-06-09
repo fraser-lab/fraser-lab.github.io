@@ -1,0 +1,30 @@
+---
+type: "Conference Paper"
+layout: publication
+group: publications
+title: "Neural Network-based Nonlinearity Estimation of Voltage Source Inverter for Synchronous Machine Drives"
+authors: "<u>Yeongho Jeong</u>, <u>Seunghun Jang</u>, <u>Kyunghwan Choi</u>&#42;"
+domestic_or_international: "International" # or "domestic"
+preprint:
+  - name: 
+    pdf: 
+pub: 
+  - name: International Symposium on Industrial Electronics (ISIE)
+    doi: "10.1109/ISIE54533.2024.10595703"
+    year: "2024"
+    pp: "1-5"
+    state: "published"
+pub_date: "2024-7-19" #Date of publication. Change from Biorxiv date to Journal date once accepted
+image: "/static/pub/2024-neural-network-based.png"
+github: 
+  - name: "NNnonVSI"
+    url: "" #"KAIST-MIC-Lab/ESO-FLE"
+    description: "Code for the paper"
+abstract: "
+  This paper investigates the concept of using a neural network (NN)-based approach for the nonlinearity estimation of voltage source inverter (VSI) in synchronous machine (SM) drives. The proposed scheme utilizes an NN with one hidden layer to model the VSI nonlinearity, accompanied by an adaptive law that ensures stability and bounded weights during the NN’s update process. Assuming known stator flux linkages, the study primarily evaluates the feasibility of applying NN for this estimation. Simulation results from a 35 kW SM drive indicate that the proposed estimator successfully tracks the actual value of the VSI nonlinearity, demonstrating its efficacy.
+"
+# links:
+#   - name: 
+#     url: 
+---
+

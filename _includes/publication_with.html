@@ -1,6 +1,8 @@
 <!-- Only publications by of Target name -->
 <!-- assign author name in targetName -->
 
+ <!-- TODO: Add patent information -->
+
 <!-- Filtering -->
 {% assign preprint = "" | split: "" %}
 {% assign underReview = "" | split: "" %}
@@ -51,39 +53,35 @@
 <br>
 <h4>Quick Links</h4>
 
-	{% if preprint.size > 0 %}
-		<li><a href="#Preprint"><b>Preprint</b> ({{ preprint.size }})</a></li>
-	{% endif %}
 	{% if underReview.size > 0 %}
-		<li><a href="#Papers Under Review"><b>Papers Under Review</b> ({{ underReview.size }})</a></li>
+		<li><a href="#Papers Under Review">Papers Under Review ({{ underReview.size }})</a></li>
 	{% endif %}
 	{% if intJour.size > 0 %}
-		<li><a href="#International Journal Paper"><b>International Journal Paper</b> ({{ intJour.size }})</a></li>
+		<li><a href="#International Journal Paper">International Journal Papers ({{ intJour.size }})</a></li>
 	{% endif %}
 	{% if intConf.size > 0 %}
-		<li><a href="#International Conference Paper"><b>International Conference Paper</b> ({{ intConf.size }})</a></li>
+		<li><a href="#International Conference Paper">International Conference Papers ({{ intConf.size }})</a></li>
 	{% endif %}
 	{% if domJour.size > 0 %}
-		<li><a href="#Domestic Journal Paper"><b>Domestic Journal Paper</b> ({{ domJour.size }})</a></li>
+		<li><a href="#Domestic Journal Paper">Domestic Journal Papers ({{ domJour.size }})</a></li>
 	{% endif %}
 	{% if domConf.size > 0 %}
-		<li><a href="#Domestic Conference Paper"><b>Domestic Conference Paper</b> ({{ domConf.size }})</a></li>
+		<li><a href="#Domestic Conference Paper">Domestic Conference Papers ({{ domConf.size }})</a></li>
 	{% endif %}
 	{% if diss.size > 0 %}
-		<li><a href="#Ph.D. Dissertation"><b>Ph.D. Dissertation</b> ({{ diss.size }})</a></li>
+		<li><a href="#Ph.D. Dissertation">Ph.D. Dissertations ({{ diss.size }})</a></li>
 	{% endif %}
 	{% if thes.size > 0 %}
-		<li><a href="#Master's Thesis"><b>Master's Thesis</b> ({{ thes.size }})</a></li>
+		<li><a href="#Master's Thesis">Master's Theses ({{ thes.size }})</a></li>
+	{% endif %}
+	{% if preprint.size > 0 %}
+		<li><a href="#Preprint">Preprints ({{ preprint.size }})</a></li>
 	{% endif %}
 
 <hr>
 <br>
 
-{% if preprint.size > 0 %}
-	<h4 id="Preprint">Preprint</h4>
-	{% assign data = preprint %}
-	{% include publication_sort_year.html %}
-{% endif %}
+
 
 {% if underReview.size > 0 %}
 	<h4 id="Papers Under Review">Papers Under Review</h4>
@@ -92,37 +90,43 @@
 {% endif %}
 
 {% if intJour.size > 0 %}
-	<h4 id="International Journal Paper">International Journal Paper</h4>
+	<h4 id="International Journal Paper">International Journal Papers</h4>
 	{% assign data = intJour %}
 	{% include publication_sort_year.html %}
 {% endif %}
 
 {% if intConf.size > 0 %}
-	<h4 id="International Conference Paper">International Conference Paper</h4>
+	<h4 id="International Conference Paper">International Conference Papers</h4>
 	{% assign data = intConf %}
 	{% include publication_sort_year.html %}
 {% endif %}
 
 {% if domJour.size > 0 %}
-	<h4 id="Domestic Journal Paper">Domestic Journal Paper</h4>
+	<h4 id="Domestic Journal Paper">Domestic Journal Papers</h4>
 	{% assign data = domJour %}
 	{% include publication_sort_year.html %}
 {% endif %}
 
 {% if domConf.size > 0 %}
-	<h4 id="Domestic Conference Paper">Domestic Conference Paper</h4>
+	<h4 id="Domestic Conference Paper">Domestic Conference Papers</h4>
 	{% assign data = domConf %}
 	{% include publication_sort_year.html %}
 {% endif %}
 
 {% if diss.size > 0 %}
-	<h4 id="Ph.D. Dissertation">Ph.D. Dissertation</h4>
+	<h4 id="Ph.D. Dissertation">Ph.D. Dissertations</h4>
 	{% assign data = diss %}
 	{% include publication_sort_year.html %}
 {% endif %}
 
 {% if thes.size > 0 %}
-	<h4 id="Master's Thesis">Master's Thesis</h4>
+	<h4 id="Master's Thesis">Master's Theses</h4>
 	{% assign data = thes %}
+	{% include publication_sort_year.html %}
+{% endif %}
+
+{% if preprint.size > 0 %}
+	<h4 id="Preprint">Preprints</h4>
+	{% assign data = preprint %}
 	{% include publication_sort_year.html %}
 {% endif %}

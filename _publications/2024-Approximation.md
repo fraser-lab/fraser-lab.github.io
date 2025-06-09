@@ -4,12 +4,13 @@ layout: publication
 group: publications
 title: "Approximation-based Steering Controller with Deep Neural Network"
 krtitle: "심층신경망 근사기반 조향 제어기"
-authors: "**Myeongseok Ryu**, **Kyunghwan Choi**&#42;"
+authors: "<u>Myeongseok Ryu</u>, <u>Kyunghwan Choi</u>&#42;"
 domestic_or_international: "Domestic"
 pub: 
   - name: 제어로봇시스템학회 (ICROS)
     doi: 
     year: "2024"
+    pp: "292-293"
     pdf: "/static/pub/2024-Approximation.pdf"
     state: "published"
 pub_date: "2024-06-01" #Date of publication. Change from Biorxiv date to Journal date once accepted

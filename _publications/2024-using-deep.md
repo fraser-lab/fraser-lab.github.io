@@ -4,7 +4,7 @@ layout: publication
 group: publications
 title: "Using Deep Reinforcement Learning for Intelligent Gain Adjustment of a Disturbance Observer"
 krtitle: "외란관측기의 심층강화학습 기반 지능형 자동 동조 기법"
-authors: "**Hyochan Lee**, **Kyunghwan Choi**&#42;"
+authors: "<u>Hyochan Lee</u>, <u>Kyunghwan Choi</u>&#42;"
 domestic_or_international: "Domestic"
 pub: 
   - name: 제어로봇시스템학회 (ICROS)
@@ -12,6 +12,8 @@ pub:
     year: "2024"
     pdf: "/static/pub/2024-using-deep.pdf"
     state: "published"
+    pp: "292-293"
+    url: "https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11908872"
 pub_date: "2024-7-2" #Date of publication. Change from Biorxiv date to Journal date once accepted
 image: "/static/pub/2024-using-deep.png"
 abstract: "

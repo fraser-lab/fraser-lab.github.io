@@ -45,15 +45,17 @@ group: research
 			<br>
 		{% endif %}
 
+			<li><h6>Period</h6></li>
+			&emsp; {{ project.startdate }} - {{ project.enddate }}
+			<br>
+
 		{% comment %}
 			{% if project.amount %}
 				<li><h6>Amout</h6></li>
 				&emsp; {{ project.amount | markdownify  | remove: '<p>' | remove: '</p>'}}
 				<br>
 			{% endif %}
-			<li><h6>Period</h6></li>
-			&emsp; {{ project.startdate }} - {{ project.enddate }}
-			<br>
+
 			
 			<!-- Participants -->
 			{% if project.participants %}
