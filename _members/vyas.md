@@ -5,7 +5,7 @@ enddate: [2025-06-13] #Leave this blank until you leave the lab
 image: /static/img/members/vyas.jpg #365 x 365 pixels, 72 dpi
 altimage: /static/img/members/vyas_pb.jpg #365 x 365 pixels, 72 dpi
 position: "Junior Specialist"
-subsequent: MD Student 
+subsequent: "MD Student, California Northstate University College of Medicine"
 email: vijay.vyas@ucsf.edu
 orcid: #XXXX-XXXX-XXXX-XXXX #ORCID, create if you don't have one
 scholar: #XXXXXXXXXXXX #Google Scholar User ID, create if you don't have one
