@@ -2,7 +2,7 @@
 title: "InterPLM: Discovering Interpretable Features in Protein Language Models via Sparse Autoencoders"
 date: "2025-01-23" #Date of Public Review, then update to Date of Publication
 authors: "Simon E, Zou J"
-reviewers: "Chrispens K, Fraser JS"
+reviewers: "Chrispens KM, Fraser JS"
 image: "/static/img/reviews/2025_Simon.jpg"
 abstract: "InterPLM seeks to apply the recently developed techniques for mechanistic interpretability of large language models to protein language models, namely ESM-2."
 
