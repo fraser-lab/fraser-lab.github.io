@@ -21,6 +21,7 @@ Equity (held in Trust, with spouse):
 * [Profluent Bio](https://www.profluent.bio/)
 * [Interdict Bio](https://www.interdictbio.com/) (co-founder)
 * [Vilya Therapeutics](https://vilyatx.com/)
+* [Edison Scientific Inc.]()
 
 Consulting/speaker fees/travel:
 
