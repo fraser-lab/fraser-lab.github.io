@@ -5,7 +5,7 @@ journal: eLife
 pub_date: "2025-06-30"
 image: "/static/img/pub/2024_flowers.jpg" 
 pmid: "40586518"
-# pmcid:
+pmcid: "PMC12208665"
 pdbs:
   - "7HHS"
   - "7HHT"
