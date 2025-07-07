@@ -1,11 +1,11 @@
 ---
 name: Rishav Mitra, Ph.D.
 startdate: [2023-10-10]
-enddate: []
+enddate: [2025-06-27]
 image: /static/img/members/Mitra.jpg
 altimage: /static/img/members/Mitra_pb.jpg
 position: Postdoctoral Scholar
-#subsequent: update once you become an alumnus
+subsequent: Tulpule Lab, MSKCC
 pronouns: he/him/his
 email: rishav.mitra (at) ucsf.edu
 scholar: zfmMkMUAAAAJ
