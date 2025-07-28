@@ -21,5 +21,5 @@ description: "Nikhil graduated from CU Boulder with a degree in Biochemistry. As
 
 In the Fraser Lab, Nikhil aims to develop computational methods to improve the quality of multiconformational protein models particularly at interfaces.
 
-Outside of lab, Nikhil enjoys rock climbing, calisthenics, and playing piano.
+Outside of lab, Nikhil enjoys rock climbing, calisthenics, and playing piano."
 ---
