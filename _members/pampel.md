@@ -4,7 +4,7 @@ name: Julius Pampel
 startdate: [2025-06-23] 
 enddate: #[YYYY-MM-DD] Leave this blank until you leave the lab
 image: /static/img/members/Julius.JPG #365 x 365 pixels, 72 dpi
-altimage: /static/img/members/LastName_pb.jpg #365 x 365 pixels, 72 dpi
+#altimage: /static/img/members/LastName_pb.jpg #365 x 365 pixels, 72 dpi
 position: Graduate Student, [CCB](https://ccb.ucsf.edu) 
 subsequent: #Leave this blank until you leave the lab
 #timeline_positions: ["Graduate Student (2019-2023)]

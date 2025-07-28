@@ -4,7 +4,7 @@ timeline_name:
 startdate: [2025-07-01]
 enddate: #[]
 image: /static/img/members/zielinski.jpg
-altimage: 
+altimage: /static/img/members/zielinski_pb.jpg
 position: Postdoctoral Scholar
 pronouns: she/her/hers
 email: kara.zielinski (at) ucsf.edu
