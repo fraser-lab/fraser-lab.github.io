@@ -4,7 +4,7 @@ timeline_name:
 startdate: [2025-06-09]
 enddate: #[]
 image: /static/img/members/doruk.jpg
-altimage: /static/img/members/doruk_pb.jpg
+#altimage: /static/img/members/doruk_pb.jpg
 position: Graduate Student, [Biophysics](https://biophysics.ucsf.edu)
 #timeline_positions: ["Graduate Student (2024-)]
 #subsequent:  update once you become an alumnus
