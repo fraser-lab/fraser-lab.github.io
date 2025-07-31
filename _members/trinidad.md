@@ -1,5 +1,5 @@
 ---
-name: Donovan Trinidad
+name: Donovan Trinidad, Ph.D.
 startdate: [2021-08-03]
 enddate: [2024-08-31]
 image: /static/img/members/trinidad.jpg #365 x 365 pixels, 72 dpi
