@@ -1,11 +1,11 @@
 ---
-name: CJ San Felipe
+name: CJ San Felipe, Ph.D.
 startdate: [2021-06-11]
 enddate: [2025-06-13]
 image: /static/img/members/sanfelipe.jpg #365 x 365 pixels, 72 dpi
 altimage: /static/img/members/sanfelipe_pb.jpg #365 x 365 pixels, 72 dpi
 position: Graduate Student, [Tetrad](https://tetrad.ucsf.edu)
-subsequent:  "Structural biology intern, Vilya Therapeutics"
+subsequent:  "Structural Biology Intern, Vilya Therapeutics"
 pronouns: he/him/his #personal pronouns
 email: cj.sanfelipe (at) ucsf.edu #Preferred public email address
 scholar:  #Google Scholar User ID
