@@ -2,10 +2,10 @@
 name: "Mohamad Dandan, Ph.D."
 timeline_name:
 startdate: [2022-07-15]
-enddate:
+enddate: [2025-07-31]
 image: /static/img/members/dandan.jpg #365 x 365 pixels, 72 dpi
 altimage: /static/img/members/dandan_pb.jpg #365 x 365 pixels, 72 dpi
-position: "Postdoctoral Scholar"
+position: "Postdoctoral Scholar, IRACDA Fellow"
 #subsequent:  update once you become an alumnus
 pronouns: "he/him/his" #personal pronouns
 email: "mohamad.dandan (at) ucsf.edu" #Preferred public email address
