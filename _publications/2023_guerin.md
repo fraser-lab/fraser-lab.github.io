@@ -5,7 +5,7 @@ journal: "Molecular Oncology"
 pub_date: "2025-02-20"
 image: /static/img/pub/2023_guerin.png
 pmid: "39980226"
-#pmcid: "PMC10635098"
+pmcid: "PMC12330938"
 biorxiv: "2023.11.03.565283"
 #biorxiv_version: "2023.11.03.565283"
 pdf: http://cdn.fraserlab.com/publications/2023_guerin.pdf
