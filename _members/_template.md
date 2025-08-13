@@ -4,26 +4,32 @@ Optional fields:
 timeline_name, pronouns, scholar, website, UCSF, twitter, linkedin, github
 ---
 #REQUIRED
-name: Alexander Tong #Include "Ph.D."" if applicable
-timeline_name: Alex
-startdate: [2025-08-11]
+name: FirstName LastName #Include "Ph.D."" if applicable
+timeline_name: #If you would like your name to appear differently on the Lab timeline, fill out this line.
+startdate: [YYYY-MM-DD] #Enter your start date
 enddate: #[YYYY-MM-DD] Leave this blank until you leave the lab
-image: /static/img/members/Tong.jpg #365 x 365 pixels, 72 dpi
+image: /static/img/members/LastName.jpg #365 x 365 pixels, 72 dpi
 altimage: /static/img/members/LastName_pb.jpg #365 x 365 pixels, 72 dpi
-position: Junior Specialist
+position: #What is your job title in the Fraser lab?
 subsequent: #Leave this blank until you leave the lab
-email: alexander.tong (at) ucsf.edu
-orcid: 0009-0003-3986-7744
-scholar: tm2Q-D8AAAAJ
+email: #username (at) domain.com #Enter your preferred public e-mail address
+orcid: #XXXX-XXXX-XXXX-XXXX #ORCID, create if you don't have one
+scholar: #XXXXXXXXXXXX #Google Scholar User ID, create if you don't have one
 description: "
-Alex graduated with a degree in chemistry from the University of California, Berkeley, where he worked on structural genomic and structurally informed phylogenetic analyses of CRISPR-Cas systems with Dr. Jennifer Doudna. In the Fraser lab, Alex will use X-ray to study and predict interactions between small molecule drugs and metabolic anti-targets as part of the AVOID-OME project of the OpenADMET Consortium. Outside of the lab, he enjoys playing volleyball, rock climbing, and snacking.
+1-2 sentences about your prior education and research experience(s).
+
+
+1-2 sentences about your research project in the Fraser lab.
+
+
+1-2 sentences about your life outside lab (hobbies, pets, etc.)
 "
 
 #OPTIONAL
-pronouns: he/him/his
+pronouns: #example: they/them/theirs, he/him/his, she/her/hers, etc
 website: #https://website.com/ #Enter your personal/professional website
 UCSF: #XXXXXXXX #UCSF Employees Profile ID only
 twitter: #username
-linkedin: alexmtong
-github: alexmtong1
+linkedin: #username
+github: #username
 ---
