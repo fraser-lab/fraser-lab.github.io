@@ -1,9 +1,4 @@
-Required fields:
-Name, start date, image, altimage, position, email, ORCID, Google Scholar ID, description
-Optional fields:
-timeline_name, pronouns, scholar, website, UCSF, twitter, linkedin, github
 ---
-#REQUIRED
 name: Alexander Tong #Include "Ph.D."" if applicable
 timeline_name: Alex
 startdate: [2025-08-11]
