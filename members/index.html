@@ -75,7 +75,7 @@ The Fraser lab welcomes people of any race, ethnicity, religion, national origin
 <h4>Affiliates</h4>
 {% for member in site.members %}
 
-{% unless member.enddate == empty %}
+{% unless member.enddate == empty or member.startdate.size != member.enddate.size %}
 {% continue %}
 {% endunless %}
 
