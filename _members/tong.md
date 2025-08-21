@@ -11,7 +11,7 @@ email: alexander.tong (at) ucsf.edu
 orcid: 0009-0003-3986-7744
 scholar: tm2Q-D8AAAAJ
 description: "
-Alex graduated with a degree in chemistry from the University of California, Berkeley, where he worked on structural genomic and structurally informed phylogenetic analyses of CRISPR-Cas systems with Dr. Jennifer Doudna. In the Fraser lab, Alex will use X-ray to study and predict interactions between small molecule drugs and metabolic anti-targets as part of the AVOID-OME project of the OpenADMET Consortium. Outside of the lab, he enjoys playing volleyball, rock climbing, and snacking.
+Alex graduated with a degree in chemistry from the University of California, Berkeley, where he worked on structural genomic and structurally informed phylogenetic analyses of CRISPR-Cas systems with Dr. Jennifer Doudna. In the Fraser lab, Alex will use X-rays to study and predict interactions between small molecule drugs and metabolic anti-targets as part of the AVOID-OME project of the OpenADMET Consortium. Outside of the lab, he enjoys playing volleyball, rock climbing, and snacking.
 "
 
 #OPTIONAL
