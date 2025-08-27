@@ -1,11 +1,11 @@
 ---
 name: Pooja Asthana, Ph.D.
 startdate: [2021-09-01]
-enddate: []
+enddate: [2025-08-31]
 image: /static/img/members/asthana.jpg #365 x 365 pixels, 72 dpi
 altimage: /static/img/members/asthana_pb.jpg #365 x 365 pixels, 72 dpi
 position: Postdoctoral Scholar
-#subsequent:  update once you become an alumnus
+subsequent:  "Intern, Innovation Ventures, UCSF"
 pronouns: she/her/hers #personal pronouns
 email: pasthana (at) fraserlab.com #Preferred public email address
 scholar:  #Google Scholar User ID

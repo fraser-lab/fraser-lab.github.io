@@ -1,11 +1,11 @@
 ---
 name: Tushar Raskar, Ph.D.
 startdate: [2021-06-23]
-enddate: []
+enddate: [2025-08-31]
 image: /static/img/members/raskar.jpg #365 x 365 pixels, 72 dpi
 altimage: /static/img/members/raskar_pb.jpg #365 x 365 pixels, 72 dpi
 position: Postdoctoral Scholar
-#subsequent:  update once you become an alumnus
+subsequent: "Postdoctoral Scholar, Wan Lab, Vanderbilt University"
 pronouns: #personal pronouns
 email: rtushar61 (at) gmail.com #Preferred public email address
 scholar: BLtpSWIAAAAJ&hl #Google Scholar User ID
