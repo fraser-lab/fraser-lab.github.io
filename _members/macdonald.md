@@ -1,11 +1,11 @@
 ---
 name: Christian Macdonald, Ph.D.
 startdate: [2021-09-01]
-enddate: []
+enddate: [2025-09-12]
 image: /static/img/members/Macdonald.jpg #365 x 365 pixels, 72 dpi
 altimage: /static/img/members/Macdonald_pb.jpg #365 x 365 pixels, 72 dpi
 position: Postdoctoral Scholar ([F32 NRSA](https://grants.nih.gov/grants/guide/contacts/parent_F32.html))
-#subsequent:  update once you become an alumnus
+subsequent:  "Scientist and Lab Operations Coordinator, Wayment-Steele Lab, UW Madison"
 pronouns: he/him/his
 email: christian.macdonald (at) ucsf.edu #Preferred public email address
 scholar: pyTBwS0AAAAJ #Google Scholar User ID
