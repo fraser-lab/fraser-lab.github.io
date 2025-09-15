@@ -1,10 +1,10 @@
 ---
 title: "Initial leads to combat streptogramin resistance generated from X-ray fragment screening against VatD"
 authors: "**Asthana P, Lee S, MacDonald CM,** Seiple IB, **Fraser JS**"
-#journal: 
-pub_date: "2025-02-03"
+journal: "Structure"
+pub_date: "2025-09-12"
 image: "/static/img/pub/2025_asthana.jpg"
-#pmid: 
+pmid: "40945513"
 #pmcid: 
 #biorxiv:
 biorxiv_version: "2025.01.31.635826v2"
