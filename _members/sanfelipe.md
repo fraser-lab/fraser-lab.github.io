@@ -4,7 +4,7 @@ startdate: [2021-06-11]
 enddate: [2025-06-13]
 image: /static/img/members/sanfelipe.jpg #365 x 365 pixels, 72 dpi
 altimage: /static/img/members/sanfelipe_pb.jpg #365 x 365 pixels, 72 dpi
-position: "Graduate Student, [Tetrad](https://tetrad.ucsf.edu), Structural Biology Intern, Vilya Therapeutics"
+position: "Graduate Student, [Tetrad](https://tetrad.ucsf.edu)"
 subsequent:  "Scientist, Decade Bio"
 pronouns: he/him/his #personal pronouns
 email: cj.sanfelipe (at) ucsf.edu #Preferred public email address
