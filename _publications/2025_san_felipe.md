@@ -6,7 +6,7 @@ biorxiv_version: "2025.02.16.638509v3"
 pub_date: "2025-09-14" #Date of publication. Change from Biorxiv date to Journal date once accepted
 image: "/static/img/pub/2025_san_felipe.jpg"
 pmid: "40960494"
-# pmcid: ""
+pmcid: "PMC12443476"
 # pdf: ""
 pdbs:
   - 9MZB
