@@ -1,5 +1,5 @@
 ---
-title: Peer review in high throughput biophysics
+title: Peer review on AI in Biology
 layout: default
 group: courses
 # permalink: /peer_review/
