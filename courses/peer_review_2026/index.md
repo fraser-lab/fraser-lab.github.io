@@ -2,7 +2,7 @@
 title: Peer review in high throughput biophysics
 layout: default
 group: courses
-permalink: /peer_review/
+# permalink: /peer_review/
 ---
 
 # Peer Review on AI in Biology
