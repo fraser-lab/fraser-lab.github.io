@@ -10,4 +10,6 @@ image: "/static/img/pub/2025_hancock.png"
 #pdf: ""
 pdbs:
 links:
+  - name: "Sali Lab"
+    url: "https://salilab.org/"
 ---
