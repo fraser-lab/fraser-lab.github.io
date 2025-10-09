@@ -4,7 +4,7 @@ timeline_name: Alex
 startdate: [2025-08-11]
 enddate: #[YYYY-MM-DD] Leave this blank until you leave the lab
 image: /static/img/members/Tong.jpg #365 x 365 pixels, 72 dpi
-#altimage: /static/img/members/LastName_pb.jpg #365 x 365 pixels, 72 dpi
+altimage: /static/img/members/tong_pb.jpg #365 x 365 pixels, 72 dpi
 position: Junior Specialist
 subsequent: #Leave this blank until you leave the lab
 email: alexander.tong (at) ucsf.edu
