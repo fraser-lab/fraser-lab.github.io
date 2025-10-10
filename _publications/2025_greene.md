@@ -19,9 +19,10 @@ paired_maps_and_models:
     emdb: "70844"
   - pdb: "9OTQ"
     emdb: "70845"
+zenodo: 
+  - code: "15742546"
+    description: "Glutamine synthetase cryo-EM EMMIVox ensemble refinements"
 links:
-  - name: "Zenodo record: Glutamine synthetase cryo-EM EMMIVox ensemble refinements"
-    url: "https://zenodo.org/records/15742546"
   - name: "PLUMED-NEST entry: Product-stabilized filamentation by human glutamine synthetase allosterically tunes metabolic activity"
     url: "https://www.plumed-nest.org/eggs/25/017/"
   - name: "Kollman Lab @ UW"
