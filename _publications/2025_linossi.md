@@ -1,5 +1,5 @@
 ---
-title: "**Autoregulation** of the MET receptor tyrosine kinase by its intracellular juxtamembrane domain"
+title: "Autoregulation of the MET receptor tyrosine kinase by its intracellular juxtamembrane domain"
 authors: "Linossi EM, Espinoza CA, **Estevam GO, Fraser JS**, Jura N"
 # journal: ""
 pub_date: "2025-10-19"
