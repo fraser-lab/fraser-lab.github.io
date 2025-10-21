@@ -7,7 +7,7 @@ pub_date: "2025-09-14" #Date of publication. Change from Biorxiv date to Journal
 image: "/static/img/pub/2025_san_felipe.jpg"
 pmid: "40960494"
 pmcid: "PMC12443476"
-pdf: "https://cdn.fraserlab.com/publications/2025_san_felipe.pdf"
+pdf: "http://cdn.fraserlab.com/publications/2025_san_felipe.pdf"
 pdbs:
   - 9MZB
   - 9N55
