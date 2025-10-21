@@ -13,7 +13,7 @@ pdbs:
   - 8FME
   - 8FOS
 pmid: "41027962"
-# pmcid: ""
+pmcid: "PMC12484545"
 # pdf: ""
 links:
 - name: Chica lab @ University of Ottawa
