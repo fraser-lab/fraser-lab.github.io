@@ -1,18 +1,18 @@
 ---
 name: Daphne Chen
 startdate: [2021-06-21]
-enddate: []
+enddate: [2025-10-25]
 image: /static/img/members/chen.jpg #365 x 365 pixels, 72 dpi
 altimage: /static/img/members/chen_pb.jpg #365 x 365 pixels, 72 dpi
 position: "Graduate Student, [Biophysics](https://biophysics.ucsf.edu) ([Discovery Fellow](https://graduate.ucsf.edu/discovery-fellows-program))"
-#subsequent:  update once you become an alumnus
+subsequent:  Scientist, Escalante Bio
 pronouns: she/her/hers #personal pronouns
 email: daphne.chen (at) ucsf.edu #Preferred public email address
 scholar:
 website:
 UCSF:
 twitter:
-linkedin:
+linkedin: "daphne-chen-58a016156"
 github:
 orcid: 0000-0002-5571-3548
 description: "Daphne graduated from UCLA with a degree in Biophysics. As an undergraduate, she studied the effects of chaotropes and kosmotropes on protein hydration layers under the guidance of [Dr. Giovanni Zocchi](https://zocchi.physics.ucla.edu).
