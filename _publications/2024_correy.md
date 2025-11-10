@@ -157,6 +157,8 @@ github:
 - description: "Thompson Sampling"
   url: PatWalters/TS
 links:
+  - name: "Practical Fragments:Searching monstrously large chemical space with FrankenROCS"
+    url: https://practicalfragments.blogspot.com/2025/11/searching-monstrously-large-chemical.html
   - name: "Relay Therapeutics"
     url: https://relaytx.com/
   - name: "QCRG AViDD Program"
