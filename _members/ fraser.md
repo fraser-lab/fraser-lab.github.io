@@ -10,7 +10,7 @@ pronouns: he/him/his
 email: jfraser (at) fraserlab.com
 scholar: j3iaoR8AAAAJ
 nih: "james.fraser.1"
-website:
+website: https://fraserlab.com
 UCSF: james.fraser
 #twitter: fraser_lab
 linkedin: jamesSfraser
@@ -34,12 +34,12 @@ In January 2011, James started his [independent career](http://fellows.ucsf.edu/
 In January 2013, he was appointed as an Assistant Professor in the [Department of Bioengineering and Therapeutic Sciences](http://bts.ucsf.edu) and the California Institute for Quantitative Biosciences ([QB3](http://qb3.org)) with promotion to Associate Professor in 2016, and Full Professor in 2020. From 2022-2023, he was Vice Dean of Research for the [UCSF School of Pharmacy](https://pharmacy.ucsf.edu/). Since August 2023, he has been the Ernest L. Prien Professor and Chair of the [Department of Bioengineering and Therapeutic Sciences](https://pharmacy.ucsf.edu/news/2023/08/fraser-named-chair-ucsf-department-bioengineering-therapeutic-sciences).
 
 
-The lab is also part of the [Macromolecular Structure Group at UCSF](http://msg.ucsf.edu). We maintain a deep connection with Macomolecular Crystallography [Beamline 8.3.1.](http://bl831.als.lbl.gov/~mcfuser/), directed by [Dr. James Holton](http://bl831.als.lbl.gov/~jamesh/), at the [Advanced Light Source](http://www-als.lbl.gov/). James is also a Faculty Scientist in the Molecular Biophysics and Integrated Bioimaging Division of Lawrence Berkeley National Lab, and Associate Director of the [Quantitative Biosciences Initiative](https://qbi.ucsf.edu/). He is the Program Director of the [OpenADMET](https://openadmet.org/) project, which integrates funding from ARPA-H and the Gates Foundation to accelerate drug discovery by focusing on the chemical space recognized by the \"anti-targets\" that most projects seek to avoid.
+The lab is also part of the [Macromolecular Structure Group at UCSF](http://msg.ucsf.edu). It maintains a deep connection with Macomolecular Crystallography [Beamline 8.3.1.](http://bl831.als.lbl.gov/~mcfuser/), directed by [Dr. James Holton](http://bl831.als.lbl.gov/~jamesh/), at the [Advanced Light Source](http://www-als.lbl.gov/). James is also a Faculty Scientist in the Molecular Biophysics and Integrated Bioimaging Division of Lawrence Berkeley National Lab, and Associate Director of the [Quantitative Biosciences Initiative](https://qbi.ucsf.edu/). He is a Board Member and Principal Investigator of the [OpenADMET](https://openadmet.org/) project, which integrates funding from ARPA-H and the Gates Foundation to accelerate drug discovery by focusing on the chemical space recognized by the \"anti-targets\" that most projects seek to avoid.
 
 
-In addition to all the exciting developments in the lab, James has long standing interests in [teaching](/courses), [baseball statistics](http://ibiomagazine.org/issues/november-2011-issue/james-fraser-a-michael-eisen.html), and [juggling](https://pharmacy.ucsf.edu/news/2020/10/labs-juggle-community-distance-during-covid-19). James was also on the board of ASAPbio, a non-profit organization dedicated to accelerating the pace of scientific discovery by making research outputs more accessible and reusable. The lab is committed to [publishing our code](https://github.com/fraser-lab), disseminating our datasets, posting manuscripts on preprint servers, and [participating in open peer review](https://www.youtube.com/watch?v=hYG5wTGh6aw&list=PLezPfyQ6lSolc6sOZ-an18oG3mZojuwb6&t=1280s). 
+In addition to all the exciting developments in the lab, James has long standing interests in [teaching](/courses), [baseball statistics](http://ibiomagazine.org/issues/november-2011-issue/james-fraser-a-michael-eisen.html), and [juggling](https://pharmacy.ucsf.edu/news/2020/10/labs-juggle-community-distance-during-covid-19). For many years, James was on the board of ASAPbio, a non-profit organization dedicated to accelerating the pace of scientific discovery by making research outputs more accessible and reusable. The lab is committed to [publishing our code](https://github.com/fraser-lab), disseminating our datasets, posting manuscripts on preprint servers, and [participating in open peer review](https://www.youtube.com/watch?v=hYG5wTGh6aw&list=PLezPfyQ6lSolc6sOZ-an18oG3mZojuwb6&t=1280s). 
 
-He is the co-creator of [UCSF Talks](https://ucsftalks.com), an aggregator of all the discovery science seminars at UCSF.
+He is the co-creator of [UCSF Talks](https://ucsftalks.com), an aggregator of all the discovery science seminars at UCSF and records the [Tortured Proteins Department Podcast](https://open.spotify.com/show/10PHVouHr7pY8Q1p4QJ2EQ) with [Prof. Stephanie Wankowicz](https://wankowiczlab.com/)
 
 His full conflicts of interest are available [here](/coi)."
 ---
