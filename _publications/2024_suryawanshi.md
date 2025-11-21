@@ -5,7 +5,7 @@ journal: eLife
 pub_date: "2025-11-19"
 image: "/static/img/pub/2024_suryawanshi.jpg"
 pmid: "41258893"
-#pmcid: 
+pmcid: "PMC12629595" 
 biorxiv_version: "2024.08.08.606661v4"
 pdf: "http://cdn.fraserlab.com/publications/2024_suryawanshi.pdf"
 pdbs:
