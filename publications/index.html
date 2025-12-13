@@ -27,6 +27,9 @@ group: publications
 			{% elsif publication.chemrxiv %}
 			<i>ChemRxiv,</i>
 				{{publication.pub_date | split: "-" | first }}
+			{% elsif publication.preprints %}
+			<i>Preprints.org,</i>
+				{{publication.pub_date | split: "-" | first }}
 			{% else %}
 			<i>Preprint,</i>
 				{{publication.pub_date | split: "-" | first }}
@@ -70,6 +73,11 @@ group: publications
 		<!--Chemrxiv - optional -->
 		{% if publication.chemrxiv %}
 		<li>ChemRxiv Preprint: <a href="https://doi.org/10.26434/chemrxiv-{{publication.chemrxiv}}" title = "ChemRxiv Preprint: {{publication.chemrxiv}} (opens in new tab)" target="_blank"> {{publication.chemrxiv}}</a></li>
+		{% endif %}
+
+		<!--Preprints.org - optional -->
+		{% if publication.preprints %}
+		<li>Preprints.org Preprint: <a href="https://www.preprints.org/manuscript/{{publication.preprints}}" title = "Preprints.org Preprint: {{publication.preprints}} (opens in new tab)" target="_blank"> {{publication.preprints}}</a></li>
 		{% endif %}
 
 		<!-- PDF -->
