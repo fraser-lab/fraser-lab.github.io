@@ -40,7 +40,7 @@ The lab is also part of the [Macromolecular Structure Group at UCSF](http://msg.
 In addition to all the exciting developments in the lab, James has long standing interests in [teaching](/courses), [baseball statistics](http://ibiomagazine.org/issues/november-2011-issue/james-fraser-a-michael-eisen.html), and [juggling](https://pharmacy.ucsf.edu/news/2020/10/labs-juggle-community-distance-during-covid-19). For many years, James was on the board of ASAPbio, a non-profit organization dedicated to accelerating the pace of scientific discovery by making research outputs more accessible and reusable. The lab is committed to [publishing our code](https://github.com/fraser-lab), disseminating our datasets, posting manuscripts on preprint servers, and [participating in open peer review](https://www.youtube.com/watch?v=hYG5wTGh6aw&list=PLezPfyQ6lSolc6sOZ-an18oG3mZojuwb6&t=1280s). 
 
 
-He is the co-creator of [UCSF Talks](https://ucsftalks.com), an aggregator of all the discovery science seminars at UCSF and records the [Tortured Proteins Department Podcast](https://open.spotify.com/show/10PHVouHr7pY8Q1p4QJ2EQ) with [Prof. Stephanie Wankowicz](https://wankowiczlab.com/).
+He is the co-creator of [UCSF Talks](https://ucsftalks.com), an aggregator of all the discovery science seminars at UCSF, and records the [Tortured Proteins Department Podcast](https://open.spotify.com/show/10PHVouHr7pY8Q1p4QJ2EQ) with [Prof. Stephanie Wankowicz](https://wankowiczlab.com/).
 
 
 His full conflicts of interest are available [here](/coi)."
