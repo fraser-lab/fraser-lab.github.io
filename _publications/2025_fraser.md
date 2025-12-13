@@ -1,6 +1,6 @@
 ---
 title: "OpenADMET: Embracing the Avoid-Ome to Transform Drug Discovery"
-authors: "**Fraser JS**;, Edgar S, Handly LN, Kosuri S, Chodera JD, Murcko M, Walters WP"
+authors: "**Fraser JS**, Edgar S, Handly LN, Kosuri S, Chodera JD, Murcko M, Walters WP"
 # journal: ""
 pub_date: "2025-12-12"
 image: "/static/img/pub/2025_fraser.jpg"

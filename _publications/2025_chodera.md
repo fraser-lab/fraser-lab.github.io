@@ -1,6 +1,6 @@
 ---
 title: "Blind Challenges Let Us See the Path Forward for Predictive Models"
-authors: "Chodera JD, Walters WP&#42;, Kosuri S, **Fraser JS**"
+authors: "Chodera JD, Walters WP, Kosuri S, **Fraser JS**"
 # journal: ""
 pub_date: "2025-12-11"
 image: "/static/img/pub/2025_chodera.png"
