@@ -1,13 +1,13 @@
 ---
 title: "Discovery of AVI-6451, a Potent and Selective Inhibitor of the SARS-CoV-2 ADP-Ribosylhydrolase Mac1 with Oral Efficacy in vivo"
 authors: "Jaishankar P&#42;, **Correy GJ&#42;**, Matsui Y&#42;, Togo T&#42;, Rachman MM, Stevens MGV, Hantz ER, Zheng J, Diolaiti ME, Montano M, Taha TY, Rosecrans J, **Pampel J**, Krogan NJ, Shoichet BK, Ashworth A, Ott M, **Fraser JS**, Renslo AR"
-journal: #" "
-pub_date: "2025-10-14"
+journal: "Journal of Medicinal Chemistry"
+pub_date: "2025-12-17"
 image: "/static/img/pub/2025_jaishankar.jpg"
-pmid: #"########"
+pmid: "41406955"
 pmcid: #"PMC#######"
 biorxiv_version: "2025.10.11.681833v1"
-pdf: #" "
+pdf: "http://cdn.fraserlab.com/publications/2025_jaishankar.pdf"
 pdbs:
   - "13RI"
   - "13RJ"
