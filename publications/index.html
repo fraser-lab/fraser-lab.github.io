@@ -57,12 +57,22 @@ group: publications
 
 		<!--Biorxiv - optional -->
 		{% if publication.biorxiv %}
+		{% assign biorxiv_date = publication.biorxiv | slice: 0, 10 %}
+		{% if biorxiv_date > '2025.12.23' %}
+		<li>Biorxiv Preprint: <a href="https://doi.org/10.64898/{{publication.biorxiv}}" title =  "BioRxiv Preprint: {{publication.biorxiv}} (opens in new tab)" target="_blank"> {{publication.biorxiv | split: "." | last }}</a></li>
+		{% else %}
 		<li>Biorxiv Preprint: <a href="http://dx.doi.org/10.1101/{{publication.biorxiv}}" title =  "BioRxiv Preprint: {{publication.biorxiv}} (opens in new tab)" target="_blank"> {{publication.biorxiv | split: "." | last }}</a></li>
+		{% endif %}
 		{% endif %}
 
 		<!--Biorxiv specific version-->
 		{% if publication.biorxiv_version %}
+		{% assign biorxivv_date = publication.biorxiv_version | slice: 0, 10 %}
+		{% if biorxivv_date > '2025.12.23' %}
+		<li>Biorxiv Preprint v{{publication.biorxiv_version | split: "." | last | split: "v" | last }}: <a href="https://doi.org/10.64898/{{publication.biorxiv_version}}" title =  "BioRxiv Preprint: {{publication.biorxiv_version}} (opens in new tab)" target="_blank">{{publication.biorxiv_version | split: "." | last | split: "v" | first }}</a></li>
+		{% else %}
 		<li>Biorxiv Preprint v{{publication.biorxiv_version | split: "." | last | split: "v" | last }}: <a href="http://www.biorxiv.org/content/10.1101/{{publication.biorxiv_version}}" title =  "BioRxiv Preprint: {{publication.biorxiv_version}} (opens in new tab)" target="_blank">{{publication.biorxiv_version | split: "." | last | split: "v" | first }}</a></li>
+		{% endif %}
 		{% endif %}
 
 		<!--Arxiv - optional -->
