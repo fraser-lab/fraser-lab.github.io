@@ -2,7 +2,7 @@
 title: "Distal mutations enhance catalysis in designed enzymes by facilitating substrate binding and product release"
 authors: "Zarifi N, **Asthana P**, Doustmohammadi H, Klaus C, Sanchez J, Hunt SE, Rakotoharisoa RV, Osuna S, **Fraser JS**, Chica RA"
 journal: Nature Communications
-biorxiv_version: "2025.02.21.639315v1"
+biorxiv: "2025.02.21.639315"
 pub_date: "2025-09-30" #Date of publication. Change from Biorxiv date to Journal date once accepted
 image: "/static/img/pub/2025_zarifi.png"
 pdbs:

@@ -6,6 +6,6 @@ reviewers: "Wankowicz SA"
 image: "/static/img/reviews/2024_Basit.png"
 
 peer-review:
- - biorxiv_version: "https://doi.org/10.1101/2024.03.03.583063"
+ - biorxiv: "https://doi.org/10.1101/2024.03.03.583063"
  - prereview: "11048024"
 ---

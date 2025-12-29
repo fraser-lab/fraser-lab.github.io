@@ -7,7 +7,7 @@ image: "/static/img/pub/2021_gupta_azuyama_moritz_pourmal_diallo_merz_jang_bouha
 pmid: #"######"
 pmcid:
 biorxiv:
-biorxiv_version: "2021.05.10.443524v1"
+biorxiv: "2021.05.10.443524"
 pdf:
 pdbs:
   - "7MSW"

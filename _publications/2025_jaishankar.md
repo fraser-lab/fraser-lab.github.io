@@ -6,7 +6,7 @@ pub_date: "2025-12-17"
 image: "/static/img/pub/2025_jaishankar.jpg"
 pmid: "41406955"
 pmcid: #"PMC#######"
-biorxiv_version: "2025.10.11.681833v1"
+biorxiv: "2025.10.11.681833"
 pdf: "http://cdn.fraserlab.com/publications/2025_jaishankar.pdf"
 pdbs:
   - "13RI"

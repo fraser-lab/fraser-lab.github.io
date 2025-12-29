@@ -6,6 +6,6 @@ reviewers: "Wankowicz SA"
 image: "/static/img/reviews/2024_Shub.png"
 
 peer-review:
- - biorxiv_version: "2024.03.18.585639"
+ - biorxiv: "2024.03.18.585639"
  - prereview: "8128617"
 ---

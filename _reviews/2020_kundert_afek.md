@@ -8,7 +8,7 @@ abstract:
 
 peer-review:
 - biorxiv:
-  biorxiv_version: "705558v1"
+  biorxiv: "705558"
   arxiv:
   chemrxiv:
   preprintsorg:

@@ -6,6 +6,6 @@ reviewers: "Chen Y, Student 1, Student 2, Coyote-Maestas W, Fraser JS"
 image: "/static/img/reviews/2024_madern.png"
 
 peer-review:
- - biorxiv_version: "2024.04.08.588516v1"
+ - biorxiv: "2024.04.08.588516"
  - prereview: "11398206"
 ---

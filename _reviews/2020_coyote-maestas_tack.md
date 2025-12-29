@@ -6,7 +6,7 @@ reviewers: "Coyote-Maestas W, Fraser JS"
 image: "/static/img/reviews/2020_tack.jpg"
 
 peer-review:
-- biorxiv_version: "2020.09.30.320812v1"
+- biorxiv: "2020.09.30.320812"
   disqus: "2cxhqrd"
 
 published:

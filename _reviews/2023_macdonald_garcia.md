@@ -7,7 +7,7 @@ reviewers: "Macdonald CB, Lee S"
 image: "/static/img/reviews/2023_garcia.png"
 
 peer-review:
- - biorxiv_version: "2022.05.17.492308v3"
+ - biorxiv: "2022.05.17.492308"
  - trip: "3"
 
 published:

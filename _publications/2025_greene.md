@@ -6,7 +6,7 @@ pub_date: "2025-07-04"
 image: "/static/img/pub/2025_greene.jpg"
 # pmid: #""
 # pmcid: #""
-biorxiv_version: "2025.07.04.663231v1"
+biorxiv: "2025.07.04.663231"
 # pdf: #""
 paired_maps_and_models:
   - pdb: "9OTM"

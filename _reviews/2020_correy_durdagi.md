@@ -6,7 +6,7 @@ reviewers: "Correy G, Fraser JS"
 image: "/static/img/reviews/2020_durdagi.png"
 
 peer-review:
-- biorxiv_version: "2020.09.09.287987v1"
+- biorxiv: "2020.09.09.287987"
   disqus: "2emfmxk"
 published:
 - pmid: "34403647"

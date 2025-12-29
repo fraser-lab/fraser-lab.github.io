@@ -6,6 +6,6 @@ reviewers: "Mitra R, Bajaj P, Fraser JS"
 image: "/static/img/reviews/2024_braun.jpg"
 
 peer-review:
- - biorxiv_version: "2024.08.02.606416v1"
+ - biorxiv: "2024.08.02.606416"
  - prereview: "14480475"
 ---

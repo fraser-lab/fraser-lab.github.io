@@ -6,7 +6,7 @@ reviewers: "Young ID, Fraser JS"
 image: "/static/img/reviews/2020_martynowycz.jpg"
 
 peer-review:
-- biorxiv_version: "2020.09.27.316109v1"
+- biorxiv: "2020.09.27.316109"
   disqus: "2eurwi3"
 published:
 - pmid: "34462357"

@@ -6,6 +6,6 @@ reviewers: "Bajaj P, Macdonald CB"
 image: "/static/img/reviews/2024_vincoff.jpg"
 
 peer-review:
- - biorxiv_version: "2024.06.03.597245"
+ - biorxiv: "2024.06.03.597245"
  - disqus: "2zjkxac"
 ---

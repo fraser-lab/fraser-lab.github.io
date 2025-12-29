@@ -6,7 +6,7 @@ pub_date: "2023-01-04"
 image: "/static/img/pub/2022_gahbauer_correy.gif" #Minimum dimensions of
 pmid: "36598939"
 pmcid: "PMC9926234"
-biorxiv_version: "2022.06.27.497816v2"
+biorxiv: "2022.06.27.497816"
 pdf: "http://cdn.fraserlab.com/publications/2022_gahbauer_correy.pdf"
 pdbs:
   - 5SOI

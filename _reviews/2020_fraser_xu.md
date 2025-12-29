@@ -6,7 +6,7 @@ reviewers: "Fraser JS"
 image: "/static/img/reviews/2020_xu.png"
 
 peer-review:
-- biorxiv_version: "2020.06.09.143289v1"
+- biorxiv: "2020.06.09.143289"
   disqus: "2aiqbcl"
 published:
 - pmid: "34633194"

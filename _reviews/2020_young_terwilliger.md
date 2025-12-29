@@ -6,7 +6,7 @@ reviewers: "Young ID, Rohou A, Fraser JS"
 image: "/static/img/reviews/2020_terwilliger.png"
 
 peer-review:
-- biorxiv_version: "845032v3"
+- biorxiv: "845032"
   disqus: "280esu0"
 
 published:

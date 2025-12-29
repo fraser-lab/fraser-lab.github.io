@@ -6,7 +6,7 @@ reviewers: "Anonymous Reviewer, Fraser JS"
 image: "/static/img/reviews/2023_miller.png"
 
 peer-review:
-- biorxiv_version: "2022.09.02.506428v1"
+- biorxiv: "2022.09.02.506428"
   disqus: "2t15ojf"
 
 links:

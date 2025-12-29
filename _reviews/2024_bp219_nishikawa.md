@@ -6,6 +6,6 @@ reviewers: "Mullin-Bernstein Z, Chrispens K, Coyote-Maestas W, Fraser JS"
 image: "/static/img/reviews/2024_nishikawa.png"
 
 peer-review:
- - biorxiv_version: "2024.03.07.583947v2"
+ - biorxiv: "2024.03.07.583947"
  - prereview: "11247730"
 ---

@@ -6,7 +6,7 @@ pub_date: "2022-11-24" #Change from Biorxiv date to Journal date once accepted
 image: "/static/img/pub/2022_mccorkindale.png" #Minimum dimensions TBD
 pmid: #"########"
 pmcid: #"PMC#######"
-biorxiv_version: "2022.11.21.517375v1"
+biorxiv: "2022.11.21.517375"
 pdf: #"http://cdn.fraserlab.com/publications/YYYY_SurnameFirstAuthor.pdf"
 pdbs:
   - "7FR0"

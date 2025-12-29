@@ -6,7 +6,7 @@ reviewers: "Díaz RE, Chaires HA, Fraser JS"
 image: "/static/img/reviews/2020_ribeiro.jpeg"
 
 peer-review:
-- biorxiv_version: "2020.03.30.016204v1"
+- biorxiv: "2020.03.30.016204"
   disqus: "2auqwng"
 
 published:

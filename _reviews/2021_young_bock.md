@@ -6,7 +6,7 @@ reviewers: "Young ID, Fraser JS"
 image: "/static/img/reviews/2021_bock.png"
 
 peer-review:
-- biorxiv_version: "2021.10.08.463658v1"
+- biorxiv: "2021.10.08.463658"
   disqus: "2ks2kwf"
 published:
 - pmid: "35361752"

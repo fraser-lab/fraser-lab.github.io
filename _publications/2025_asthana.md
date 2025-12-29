@@ -7,7 +7,7 @@ image: "/static/img/pub/2025_asthana.jpg"
 pmid: "40945513"
 pmcid: "PMC12435910"
 #biorxiv:
-biorxiv_version: "2025.01.31.635826v2"
+biorxiv: "2025.01.31.635826"
 #pdf: 
 pdbs:
   - 7HZV

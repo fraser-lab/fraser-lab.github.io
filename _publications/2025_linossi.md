@@ -7,7 +7,7 @@ image: "/static/img/pub/2025_linossi.jpg"
 pmid: "41383124"
 pmcid: #"PMC#######"
 pdf: "http://cdn.fraserlab.com/publications/2025_linossi.pdf"
-biorxiv_version: "2025.10.19.683305v1"
+biorxiv: "2025.10.19.683305"
 links:
   - name: "Jura Lab"
     url: "https://juralab.ucsf.edu/"

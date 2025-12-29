@@ -6,7 +6,7 @@ reviewers: "Correy G, Fraser JS"
 image: "/static/img/reviews/2019_rocchio.png"
 
 peer-review:
-- biorxiv_versioned: "642686v1"
+- biorxiv: "642686"
   disqus: "22r07rv"
 
 published:

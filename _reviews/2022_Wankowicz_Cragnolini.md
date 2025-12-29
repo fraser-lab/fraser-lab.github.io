@@ -7,7 +7,7 @@ image: "/static/img/reviews/2022_Cragnolini.jpeg"
 abstract:
 
 peer-review:
-- biorxiv_version: "2022.06.08.495259v1" #biorxiv versioned ID, example "5533316v1"
+- biorxiv: "2022.06.08.495259" #biorxiv versioned ID, example "5533316v1"
   disqus: "2qhd7ls" #Link to Public Review, ID only
 
 #published:

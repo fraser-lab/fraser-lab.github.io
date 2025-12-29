@@ -7,6 +7,6 @@ image: "/static/img/reviews/2025_rocket.png"
 abstract: "The authors present ROCKET, a method to improve structures from AlphaFold 2 with experimental data from X-ray crystallography, cryoEM, and cryoET."
 
 peer-review:
-- biorxiv_version: "2025.02.18.638828v2" #biorxiv versioned ID, example "5533316v1"
+- biorxiv: "2025.02.18.638828" #biorxiv versioned ID, example "5533316v1"
 - prereview: "15946798" #PREreview.org ID, example "arxiv-2106.14108"
 ---

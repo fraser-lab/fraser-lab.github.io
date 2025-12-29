@@ -6,7 +6,7 @@ reviewers: "Beazer J, Fraser JS"
 image: "/static/img/reviews/2023_johnson.png"
 
 peer-review:
-- biorxiv_version: "2023.03.04.531015v2"
+- biorxiv: "2023.03.04.531015"
   disqus: "2ue0lv9"
 
 published:

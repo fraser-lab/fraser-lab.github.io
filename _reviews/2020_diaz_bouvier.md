@@ -6,7 +6,7 @@ reviewers: "Díaz RE, Young ID, Fraser JS"
 image: "/static/img/reviews/2020_bouvier.png"
 
 peer-review:
-- biorxiv_version: "2020.01.03.893669v1"
+- biorxiv: "2020.01.03.893669"
   disqus: "27is5rt"
 published:
 - pmid: "36139128"

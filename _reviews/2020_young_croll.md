@@ -6,7 +6,7 @@ reviewers: "Young ID, Fraser JS"
 image: "/static/img/reviews/2020_croll.jpg"
 
 peer-review:
-- biorxiv_version: "2020.10.07.307546v1"
+- biorxiv: "2020.10.07.307546"
   disqus: "2d8qwn5"
 published:
 - pmid: "33972785"

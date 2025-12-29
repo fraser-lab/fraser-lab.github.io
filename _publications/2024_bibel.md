@@ -6,7 +6,7 @@ journal: "Nucleic Acids Research"
 image: "/static/img/pub/2024_bibel.png"
 pmid: "39907106"
 pmcid: PMC11795202
-biorxiv_version: "2024.08.21.609012v1"
+biorxiv: "2024.08.21.609012"
 pdf: "http://cdn.fraserlab.com/publications/2024_bibel.pdf"
 paired_maps_and_models:
 - pdb: '9CN3'

@@ -7,7 +7,7 @@ image: "/static/img/reviews/2022_clabbers.jpg"
 abstract:
 
 peer-review:
-- biorxiv_version: "2022.04.08.487606v1" #biorxiv versioned ID, example "5533316v1"
+- biorxiv: "2022.04.08.487606" #biorxiv versioned ID, example "5533316v1"
   disqus: "2q5fglq" #Link to Public Review, ID only
 
 published:

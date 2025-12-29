@@ -7,7 +7,7 @@ image: "/static/img/reviews/2022_langstein-skora.png"
 abstract: ""
 
 peer-review:
-- biorxiv_version: "2022.02.10.480018v1" #biorxiv versioned ID, example "5533316v1"
+- biorxiv: "2022.02.10.480018" #biorxiv versioned ID, example "5533316v1"
   disqus: "2pdi1es" #Link to Public Review, ID only
 
 response:

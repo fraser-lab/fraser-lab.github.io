@@ -6,7 +6,7 @@ reviewers: "Díaz RE, Fraser JS"
 image: "/static/img/reviews/2021_bansia.jpeg"
 
 peer-review:
-- biorxiv_version: "605121v2"
+- biorxiv: "605121"
   disqus: "2desofk"
 
 published:

@@ -6,7 +6,7 @@ reviewers: "Young ID, Fraser JS"
 image: "/static/img/reviews/2019_cook.jpg"
 
 peer-review:
-- biorxiv_version: "673566v1"
+- biorxiv: "673566"
   disqus: "22xpkty"
 
 published:

@@ -6,7 +6,7 @@ reviewers: "Fraser JS"
 image: "/static/img/reviews/2015_vale.png"
 
 peer-review:
-- biorxiv_version: "022368v1"
+- biorxiv: "022368"
   disqus: "z8jag1"
 
 published:

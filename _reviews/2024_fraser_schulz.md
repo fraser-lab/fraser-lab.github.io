@@ -6,6 +6,6 @@ reviewers: "Fraser JS"
 image: "/static/img/reviews/2024_schulz.png"
 
 peer-review:
- - biorxiv_version: "2021.11.07.467596v3"
+ - biorxiv: "2021.11.07.467596"
  - prereview: "13826411"
 ---

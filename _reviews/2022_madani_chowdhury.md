@@ -6,7 +6,7 @@ reviewers: "Madani A, Fraser JS"
 image: "/static/img/reviews/2022_chowdhury.png"
 
 peer-review:
-- biorxiv_version: "2021.08.02.454840v1"
+- biorxiv: "2021.08.02.454840"
   disqus: "2mpkjvz"
 published:
 - pmid:

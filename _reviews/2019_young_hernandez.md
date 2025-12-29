@@ -6,7 +6,7 @@ reviewers: "Young ID, Fraser JS"
 image: "/static/img/pub/2019_young.jpg"
 
 peer-review:
-- biorxiv_version: "274183v1"
+- biorxiv: "274183"
   disqus: "1xokwvr"
 
 published:

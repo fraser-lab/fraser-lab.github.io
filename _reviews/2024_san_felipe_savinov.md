@@ -6,6 +6,6 @@ reviewers: "San Felipe CJ, Bajaj P, Fraser JS"
 image: "/static/img/reviews/2024_savinov.png"
 
 peer-review:
- - biorxiv_version: "2023.12.19.572389v1"
+ - biorxiv: "2023.12.19.572389"
  - disqus: "2xsgb7k"
 ---

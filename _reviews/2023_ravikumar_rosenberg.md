@@ -6,7 +6,7 @@ reviewers: "Ravikumar A, Fraser JS"
 image: "/static/img/reviews/2022_rosenberg.jpg"
 abstract:
 peer-review:
-- biorxiv_version: "2022.10.23.513383v1" #biorxiv versioned ID, example "5533316v1"
+- biorxiv: "2022.10.23.513383" #biorxiv versioned ID, example "5533316v1"
   disqus: "2u3hl6k" #Link to Public Review, ID only
 
 # published:

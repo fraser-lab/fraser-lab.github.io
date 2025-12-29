@@ -6,7 +6,7 @@ reviewers: "Estevam G, Fraser JS"
 image: "/static/img/reviews/2020_heyne.jpg"
 
 peer-review:
-- biorxiv_version: "2020.10.14.338756v1"
+- biorxiv: "2020.10.14.338756"
   disqus: "2ek4qjc"
 published:
 - pmid: "34609866"

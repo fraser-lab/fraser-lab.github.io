@@ -6,6 +6,6 @@ reviewers: "Zou Z, Fraser JS"
 image: "/static/img/reviews/2024_schulze.png"
 
 peer-review:
- - biorxiv_version: "2024.09.23.614650v1"
+ - biorxiv: "2024.09.23.614650"
  - prereview: "14004609"
 ---

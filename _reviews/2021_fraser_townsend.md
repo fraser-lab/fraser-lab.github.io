@@ -6,7 +6,7 @@ reviewers: "Fraser JS, Anonymous Reviewer #1, Anonymous Reviewer #2, Anonymous R
 image: "/static/img/reviews/2021_townsend.png"
 
 peer-review:
-- biorxiv_version: "2021.05.07.443160v1"
+- biorxiv: "2021.05.07.443160"
   disqus: "2hmtrol" #Link to Public Review
   pdf: "http://cdn.fraserlab.com/reviews/PNAjS_2021.pdf"
 published:

@@ -6,7 +6,7 @@ reviewers: "San Felipe CJ, Fraser J"
 image: "/static/img/reviews/2023_greisman.png"
 
 peer-review:
- - biorxiv_version: "2022.11.14.516467v2"
+ - biorxiv: "2022.11.14.516467"
  - disqus: "2tiiqzd"
  - prereview_beta: "doi-10.1101-2022.11.14.516467"
 ---

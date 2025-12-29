@@ -7,7 +7,7 @@ image: "/static/img/reviews/YYYY_Author.jpg"
 abstract: "optional one-sentence abstract"
 
 peer-review:
-- biorxiv_version: "" #biorxiv versioned ID, example "5533316v1"
+- biorxiv: "" #biorxiv versioned ID, example "5533316v1"
   disqus: "" #Link to Public Review, ID only
   trip: "" #link to TRiP review, Reviewer ID only, example Reviewer #2 is "2"
   biorxiv: "" #biorxiv ID, example "5533316"

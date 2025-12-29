@@ -6,7 +6,7 @@ reviewers: "Wankowicz S, Pierce L, Fraser JS"
 image: "/static/img/reviews/2020_moriarty.png"
 
 peer-review:
-- biorxiv_version: "724567v1"
+- biorxiv: "724567"
   disqus: "24kzuvq"
 
 published:

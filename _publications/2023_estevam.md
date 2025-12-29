@@ -6,7 +6,7 @@ pub_date: "2024-09-13"
 image: "/static/img/pub/2023_estevam.png"
 pmid: "39268701"
 pmcid: "PMC11398868"
-biorxiv_version: "2023.08.03.551866v3"
+biorxiv: "2023.08.03.551866"
 pdf: "http://cdn.fraserlab.com/publications/2023_estevam.pdf"
 github:
 - description: "MET_KinaseDomain_DMS"

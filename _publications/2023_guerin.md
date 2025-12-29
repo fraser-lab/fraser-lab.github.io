@@ -7,7 +7,7 @@ image: /static/img/pub/2023_guerin.png
 pmid: "39980226"
 pmcid: "PMC12330938"
 biorxiv: "2023.11.03.565283"
-#biorxiv_version: "2023.11.03.565283"
+#biorxiv: "2023.11.03.565283"
 pdf: http://cdn.fraserlab.com/publications/2023_guerin.pdf
 ---
 

@@ -6,7 +6,7 @@ pub_date: "2023-02-06"
 image: "/static/img/pub/2023_huiting_cao.jpg"
 pmid: "36750095"
 pmcid: "PMC9975087"
-biorxiv_version: "2022.03.30.486325v1"
+biorxiv: "2022.03.30.486325"
 pdf: "http://cdn.fraserlab.com/publications/2023_huiting_cao.pdf"
 pdbs:
   - 8H2X

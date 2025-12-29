@@ -7,6 +7,6 @@ image: "/static/img/reviews/2025_miller.png"
 abstract: "This paper analyzes the role of each residue in exporter efficiency by comparing exporter function in different pH conditions, which provide different proton gradients to drive transport." 
 
 peer-review:
-- biorxiv_version: "2025.04.09.647630v2" #biorxiv versioned ID, example "5533316v1"
+- biorxiv: "2025.04.09.647630" #biorxiv versioned ID, example "5533316v1"
 - prereview: "15421743" #PREreview.org ID, example "arxiv-2106.14108"
 ---

@@ -6,6 +6,6 @@ reviewers: "Raskar T, Dandan M, Fraser JS"
 image: "/static/img/reviews/2023_mesa.jpg"
 
 peer-review:
-- biorxiv_version: "2023.06.13.544509v1" #biorxiv versioned ID, example "5533316v1"
+- biorxiv: "2023.06.13.544509" #biorxiv versioned ID, example "5533316v1"
   disqus: "2vrsll6"
 ---

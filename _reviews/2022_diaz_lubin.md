@@ -6,7 +6,7 @@ reviewers: "Díaz RE, Fraser JS"
 image: "/static/img/reviews/2022_lubin.jpg"
 
 peer-review:
-- biorxiv_version: "2021.12.12.472313v1"
+- biorxiv: "2021.12.12.472313"
   disqus: "2njlme7"
 
 published:

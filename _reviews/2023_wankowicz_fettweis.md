@@ -6,6 +6,6 @@ reviewers: "Wankowicz S, Bergmann L, Fraser JS"
 image: "/static/img/reviews/2023_fettweis.jpg"
 
 peer-review:
- - biorxiv_version: "2023.01.26.525752v2"
+ - biorxiv: "2023.01.26.525752"
  - disqus: "2us33ce"
 ---

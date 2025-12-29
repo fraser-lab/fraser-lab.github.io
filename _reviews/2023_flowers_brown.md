@@ -6,7 +6,7 @@ reviewers: "Flowers J, Lam A, Ravikumar A, Fraser J"
 image: "/static/img/reviews/2023_brown.jpg"
 abstract:
 peer-review:
- - biorxiv_version: "2023.08.06.552168"
+ - biorxiv: "2023.08.06.552168"
  - prereview: "10048116"
 
 # published:

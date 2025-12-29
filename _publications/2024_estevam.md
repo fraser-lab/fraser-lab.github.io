@@ -7,7 +7,7 @@ image: "/static/img/pub/2024_estevam.png"
 pmid: 39960754
 pmcid: "PMC11832172"
 #biorxiv:
-biorxiv_version: "2024.07.16.603579v2"
+biorxiv: "2024.07.16.603579"
 pdf: "http://cdn.fraserlab.com/publications/2025_estevam.pdf"
 github:
 - description: "MET_kinase_Inhibitor_DMS"

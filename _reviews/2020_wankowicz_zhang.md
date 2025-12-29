@@ -6,7 +6,7 @@ reviewers: "Wankowicz S, Fraser JS"
 image: "/static/img/reviews/2020_zhang.png"
 
 peer-review:
-- biorxiv_version: "2020.08.19.256909v1"
+- biorxiv: "2020.08.19.256909"
   disqus: "2c1buq7"
 
 published:

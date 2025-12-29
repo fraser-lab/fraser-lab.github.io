@@ -7,6 +7,6 @@ image: "/static/img/reviews/2025_Boltz2.png"
 abstract: "Boltz-2 presents a major update to the Boltz-1 structure prediction model, improves performance, and introduces a new affinity prediction module."
 
 peer-review:
-- biorxiv_version: "2025.06.14.659707v1" #biorxiv versioned ID, example "5533316v1"
+- biorxiv: "2025.06.14.659707" #biorxiv versioned ID, example "5533316v1"
 - prereview: "15707440" #PREreview.org ID, example "arxiv-2106.14108"
 ---

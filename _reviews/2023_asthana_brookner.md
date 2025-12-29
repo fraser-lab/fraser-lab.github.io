@@ -6,6 +6,6 @@ reviewers: "Asthana P, Correy GJ, Fraser JS"
 image: "/static/img/reviews/2023_brookner.png"
 
 peer-review:
- - biorxiv_version: "2023.09.01.555333v1"
+ - biorxiv: "2023.09.01.555333"
  - disqus: "2wickqk"
 ---

@@ -6,7 +6,7 @@ reviewers: "Ravikumar A, Lee S, Fraser Lab"
 image: "/static/img/reviews/2023_silva.jpg"
 abstract:
 peer-review:
- - biorxiv_version: "2023.07.25.550545"
+ - biorxiv: "2023.07.25.550545"
  - prereview: "8235543"
 
 response:

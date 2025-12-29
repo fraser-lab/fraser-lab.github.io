@@ -6,7 +6,7 @@ reviewers: "Pellegrino J, Fraser JS"
 image: "/static/img/reviews/2020_cruz.png"
 
 peer-review:
-- biorxiv_version: "2020.02.09.940510v1"
+- biorxiv: "2020.02.09.940510"
   disqus: "2aze9pf"
 published:
 - pmid: "35477718"

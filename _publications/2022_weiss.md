@@ -6,7 +6,7 @@ pub_date: "2022-08-29"
 image: "/static/img/pub/2022_weiss.png" #Minimum dimensions of
 pmid: "36040268"
 pmcid: "PMC9424839"
-biorxiv_version: "2022.06.01.492756v1"
+biorxiv: "2022.06.01.492756"
 pdf: "http://cdn.fraserlab.com/publications/2022_weiss.pdf"
 links:
   - name: "Structural Genomics Consortium"

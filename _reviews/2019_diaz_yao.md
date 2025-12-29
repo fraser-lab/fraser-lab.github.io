@@ -6,7 +6,7 @@ reviewers: "Díaz RE, Fraser JS"
 image: "/static/img/reviews/2020_yao.jpg"
 
 peer-review:
-- biorxiv_version: "613109v1"
+- biorxiv: "613109"
   disqus: "24ilwcc"
 
 published:

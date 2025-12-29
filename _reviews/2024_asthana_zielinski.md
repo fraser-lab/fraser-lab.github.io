@@ -6,6 +6,6 @@ reviewers: "Asthana P, Correy GJ, Fraser JS"
 image: "/static/img/reviews/2024_zielinski.png"
 
 peer-review:
- - biorxiv_version: "2024.07.19.604369v1"
+ - biorxiv: "2024.07.19.604369"
  - disqus: "306zf5d"
 ---

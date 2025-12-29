@@ -6,7 +6,7 @@ reviewers: "Estevam G, Fraser JS"
 image: "/static/img/reviews/2020_jones.png"
 
 peer-review:
-- biorxiv_version: "623108v3"
+- biorxiv: "623108"
   disqus: "27iu4y6"
 
 published:

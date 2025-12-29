@@ -7,7 +7,7 @@ image: "/static/img/pub/2022_venkatesan.png" #Minimum dimensions of
 pmid: "36862759"
 pmcid: "PMC10013918"
 biorxiv:
-biorxiv_version: "2022.10.12.511840v1"
+biorxiv: "2022.10.12.511840"
 pdf: "http://cdn.fraserlab.com/publications/2022_venkatesan.pdf"
 github:
   - description: "Benzimidazole resistance growth measurements"

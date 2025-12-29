@@ -6,7 +6,7 @@ reviewers: "Barad B, Fraser JS"
 image: "/static/img/reviews/2020_pintilie.png"
 
 peer-review:
-- biorxiv_version: "722991v2"
+- biorxiv: "722991"
   disqus: "24cfl1i"
 
 published:

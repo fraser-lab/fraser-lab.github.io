@@ -23,7 +23,7 @@ pdbs:
   - "7HI5"
   - "7HI6"
   - "7HI7" 
-biorxiv_version: "2024.09.20.613996v1"
+biorxiv: "2024.09.20.613996"
 pdf: "http://cdn.fraserlab.com/publications/2025_flowers.pdf"
 github:
 - description: qFit

@@ -6,6 +6,6 @@ reviewers: "Chen D, Flowers J, Fraser JS"
 image: "/static/img/reviews/2024_patel.png"
 
 peer-review:
- - biorxiv_version: "2024.06.21.600075v1"
+ - biorxiv: "2024.06.21.600075"
  - prereview: "13625755"
 ---

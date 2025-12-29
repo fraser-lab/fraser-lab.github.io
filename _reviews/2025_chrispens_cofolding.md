@@ -7,6 +7,6 @@ image: "/static/img/reviews/2025_cofolding.png"
 abstract: "This paper assesses the performance of recent docking/co-folding methods through a series of stringent tests."
 
 peer-review:
-- biorxiv_version: "2025.02.03.636309v2" #biorxiv versioned ID, example "5533316v1"
+- biorxiv: "2025.02.03.636309" #biorxiv versioned ID, example "5533316v1"
 - prereview: "15708197" #PREreview.org ID, example "arxiv-2106.14108"
 ---

@@ -6,6 +6,6 @@ reviewers: "Wankowicz S, Fraser JS"
 image: "/static/img/reviews/2023_Coricello.png"
 
 peer-review:
- - biorxiv_version: "2023.05.16.541009"
+ - biorxiv: "2023.05.16.541009"
  - prereview: "8128617"
 ---

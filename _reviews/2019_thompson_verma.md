@@ -6,7 +6,7 @@ reviewers: "Thompson E, Fraser JS"
 image: "/static/img/reviews/2020_verma.png"
 
 peer-review:
-- biorxiv_version: "540039v1"
+- biorxiv: "540039"
   disqus: "1ztc6zo"
 
 published:

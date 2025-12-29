@@ -7,7 +7,7 @@ image: "/static/img/pub/2024_chen_roe.jpg"
 pmid: "40810510" 
 pmcid: "PMC12421852"
 #biorxiv:
-biorxiv_version: "2024.08.26.609590v1"
+biorxiv: "2024.08.26.609590"
 pdf: "http://cdn.fraserlab.com/publications/2025_chen_roe.pdf"
 pdbs:
   - "8DWQ"

@@ -6,7 +6,7 @@ reviewers: "Coyote-Maestas W, Fraser JS"
 image: "/static/img/reviews/2021_huss.jpg"
 
 peer-review:
-- biorxiv_version: "2020.07.28.225284v2"
+- biorxiv: "2020.07.28.225284"
   disqus: "2eed3r2"
 
 published:

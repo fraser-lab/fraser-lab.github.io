@@ -7,6 +7,6 @@ image: "/static/img/reviews/2025_Bielskute.png"
 abstract: 
 
 peer-review:
-- biorxiv_version: "2025.03.21.644603v1" #biorxiv versioned ID, example "5533316v1"
+- biorxiv: "2025.03.21.644603" #biorxiv versioned ID, example "5533316v1"
 - prereview: "15677507" #PREreview.org ID, example "arxiv-2106.14108"
 ---

@@ -7,7 +7,7 @@ image: "/static/img/reviews/2022_flynn.png"
 abstract: ""
 
 peer-review:
-- biorxiv_version: "2022.01.26.477860v2" #biorxiv versioned ID, example "5533316v1"
+- biorxiv: "2022.01.26.477860" #biorxiv versioned ID, example "5533316v1"
   trip: "1"
 
 published:

@@ -6,6 +6,6 @@ reviewers: "San Felipe CJ, Flowers J, Fraser JS"
 image: "/static/img/reviews/2024_aplin.png"
 
 peer-review:
- - biorxiv_version: "2024.10.07.617120v1"
+ - biorxiv: "2024.10.07.617120"
  - prereview: "14269993"
 ---

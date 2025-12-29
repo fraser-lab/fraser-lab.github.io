@@ -6,7 +6,7 @@ reviewers: "Macdonald CB, Lee S, Fraser JS"
 image: "/static/img/reviews/2022_buda.png"
 
 peer-review:
-- biorxiv_version: "2022.09.07.505194v1"
+- biorxiv: "2022.09.07.505194"
   prereview_beta: "doi-10.1101-2022.09.07.505194"
 
 published:

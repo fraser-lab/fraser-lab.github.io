@@ -6,7 +6,7 @@ reviewers: "Wolff A, Fraser JS"
 image: "/static/img/reviews/2020_meisburger.png"
 
 peer-review:
-- biorxiv_versioned: "805424v1"
+- biorxiv: "805424"
   disqus: "26dyfu3"
 
 published:

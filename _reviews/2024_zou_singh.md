@@ -7,6 +7,6 @@ reviewers: "Zou Z, Mitra R, Fraser JS"
 image: "/static/img/reviews/2024_singh.jpg"
 
 peer-review:
- - biorxiv_version: "2024.11.15.623861v1"
+ - biorxiv: "2024.11.15.623861"
  - disqus: "317t018"
 ---

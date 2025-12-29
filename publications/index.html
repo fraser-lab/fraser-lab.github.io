@@ -21,9 +21,6 @@ group: publications
 			{% if publication.biorxiv %}
 			<i>Biorxiv,</i>
 				{{publication.pub_date | split: "-" | first }}
-			{% elsif publication.biorxiv_version %}
-			<i>Biorxiv,</i>
-				{{publication.pub_date | split: "-" | first }}
 			{% elsif publication.chemrxiv %}
 			<i>ChemRxiv,</i>
 				{{publication.pub_date | split: "-" | first }}
@@ -56,26 +53,26 @@ group: publications
 		{% endif %}
 
 		<!--Biorxiv - optional -->
-		{% if publication.biorxiv %}
-		{% assign biorxiv_date = publication.biorxiv | slice: 0, 10 %}
-		{% assign biorxiv_base = publication.biorxiv | split: 'v' | first %}
-		{% if biorxiv_date > '2025.12.01' %}
-		<li>BioRxiv Preprint: <a href="https://doi.org/10.64898/{{biorxiv_base}}" title =  "BioRxiv Preprint: {{publication.biorxiv}} (opens in new tab)" target="_blank"> {{biorxiv_base | split: "." | last }}</a></li>
-		{% else %}
-		<li>BioRxiv Preprint: <a href="https://doi.org/10.1101/{{biorxiv_base}}" title =  "BioRxiv Preprint: {{publication.biorxiv}} (opens in new tab)" target="_blank"> {{biorxiv_base | split: "." | last }}</a></li>
-		{% endif %}
-		{% endif %}
-
-		<!--Biorxiv specific version-->
-		{% if publication.biorxiv_version %}
-		{% assign biorxivv_date = publication.biorxiv_version | slice: 0, 10 %}
-		{% assign biorxivv_base = publication.biorxiv_version | split: 'v' | first %}
-		{% if biorxivv_date > '2025.12.01' %}
-		<li>BioRxiv Preprint: <a href="https://doi.org/10.64898/{{biorxivv_base}}" title =  "BioRxiv Preprint: {{publication.biorxiv_version}} (opens in new tab)" target="_blank">{{biorxivv_base | split: "." | last }}</a></li>
-		{% else %}
-		<li>BioRxiv Preprint: <a href="https://doi.org/10.1101/{{biorxivv_base}}" title =  "BioRxiv Preprint: {{publication.biorxiv_version}} (opens in new tab)" target="_blank">{{biorxivv_base | split: "." | last }}</a></li>
-		{% endif %}
-		{% endif %}
+			{% if publication.biorxiv %}
+			{% assign bval = publication.biorxiv %}
+			{% if bval contains 'http' or bval contains 'doi' %}
+			<li>BioRxiv Preprint: <a href="{{ bval }}" title =  "BioRxiv Preprint: {{bval}} (opens in new tab)" target="_blank">{{ bval }}</a></li>
+			{% else %}
+			{% assign has_dot = bval contains '.' %}
+			{% if has_dot %}
+			{% assign biorxiv_date = bval | slice: 0, 10 %}
+			{% assign biorxiv_base = bval %}
+			{% if biorxiv_date > '2025.12.01' %}
+			<li>BioRxiv Preprint: <a href="https://doi.org/10.64898/{{biorxiv_base}}" title =  "BioRxiv Preprint: {{bval}} (opens in new tab)" target="_blank"> {{biorxiv_base | split: "." | last }}</a></li>
+			{% else %}
+			<li>BioRxiv Preprint: <a href="https://doi.org/10.1101/{{biorxiv_base}}" title =  "BioRxiv Preprint: {{bval}} (opens in new tab)" target="_blank"> {{biorxiv_base | split: "." | last }}</a></li>
+			{% endif %}
+			{% else %}
+			{% assign biorxiv_base = bval %}
+			<li>BioRxiv Preprint: <a href="https://doi.org/10.1101/{{biorxiv_base}}" title =  "BioRxiv Preprint: {{bval}} (opens in new tab)" target="_blank"> {{biorxiv_base}}</a></li>
+			{% endif %}
+			{% endif %}
+			{% endif %}
 
 		<!--Arxiv - optional -->
 		{% if publication.arxiv %}

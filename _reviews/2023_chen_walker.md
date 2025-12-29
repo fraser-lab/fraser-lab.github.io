@@ -6,6 +6,6 @@ reviewers: "Chen D, Muir D, Pinney M, Fraser JS"
 image: "/static/img/reviews/2023_walker.jpg"
 
 peer-review:
- - biorxiv_version: "2023.07.06.548038v1"
+ - biorxiv: "2023.07.06.548038"
  - disqus: "2vxeczg"
 ---

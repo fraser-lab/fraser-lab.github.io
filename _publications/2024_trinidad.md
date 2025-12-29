@@ -7,7 +7,7 @@ image: "/static/img/pub/2024_trinidad.jpg"
 #pmid: 
 #pmcid: 
 #biorxiv:
-biorxiv_version: "2024.08.23.609456v1"
+biorxiv: "2024.08.23.609456"
 #pdf: 
 github:
 - description: "EccD3_DMS"

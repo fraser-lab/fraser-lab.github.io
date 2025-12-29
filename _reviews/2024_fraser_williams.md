@@ -6,6 +6,6 @@ reviewers: "Fraser JS"
 image: "/static/img/reviews/2024_williams.png"
 
 peer-review:
- - biorxiv_version: "2024.08.27.609898v1"
+ - biorxiv: "2024.08.27.609898"
  - prereview: "13826368"
 ---

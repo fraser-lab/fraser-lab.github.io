@@ -6,7 +6,7 @@ reviewers: "Fraser JS"
 image: "/static/img/reviews/2018_yesselman.jpg"
 
 peer-review:
-- biorxiv_version: "341107v1"
+- biorxiv: "341107"
   disqus: "20izljl"
 published:
 - pmid: "31375637"

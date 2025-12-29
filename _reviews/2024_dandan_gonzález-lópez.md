@@ -6,6 +6,6 @@ reviewers: "Dandan M, Chen D, Fraser JS"
 image: "/static/img/reviews/2024_gonzález-lópez.png"
 
 peer-review:
- - biorxiv_version: "2023.11.17.567578v1"
+ - biorxiv: "2023.11.17.567578"
  - disqus: "2xsh6hv"
 ---

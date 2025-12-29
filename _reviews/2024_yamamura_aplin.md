@@ -6,6 +6,6 @@ reviewers: "Yamamura H, Mitra R, Fraser JS"
 image: "/static/img/reviews/2024_aplin.png"
 
 peer-review:
- - biorxiv_version: "2024.02.04.578794v1"
+ - biorxiv: "2024.02.04.578794"
  - disqus: "2yhrq2s"
 ---

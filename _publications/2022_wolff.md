@@ -6,7 +6,7 @@ pub_date: "2023-09-18"
 image: "/static/img/pub/2022_wolff.png"
 pmid: "37723259"
 pmcid: "PMC10624634"
-biorxiv_version: "2022.06.10.495662v1"
+biorxiv: "2022.06.10.495662"
 pdf: "http://cdn.fraserlab.com/publications/2022_wolff.pdf"
 pdbs:
   - "8CVU"

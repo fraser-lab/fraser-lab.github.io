@@ -6,7 +6,7 @@ reviewers: "San Felipe CJ, Asthana P, Fraser J"
 image: "/static/img/reviews/2022_mehlman.png"
 
 peer-review:
- - biorxiv_version: "2022.11.02.514751v1"
+ - biorxiv: "2022.11.02.514751"
  - disqus: "2t152od"
 
 published:

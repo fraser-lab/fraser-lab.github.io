@@ -7,7 +7,7 @@ image: "/static/img/pub/2024_correy.jpg"
 pmid: 40435250
 pmcid: "PMC12118597"
 #biorxiv:
-biorxiv_version: "2024.08.25.609621v1"
+biorxiv: "2024.08.25.609621"
 pdf: "http://cdn.fraserlab.com/publications/2025_correy.pdf"
 pdbs:
   - "7HCB"

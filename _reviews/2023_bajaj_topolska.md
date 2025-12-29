@@ -6,6 +6,6 @@ reviewers: "Bajaj P, Chrispens K, Fraser JS, Coyote-Maestas W"
 image: "/static/img/reviews/2023_topolska.png"
 
 peer-review:
- - biorxiv_version: "2023.10.06.561180v1"
+ - biorxiv: "2023.10.06.561180"
  - disqus: "2wqhssd"
 ---

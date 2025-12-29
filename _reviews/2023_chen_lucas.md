@@ -6,7 +6,7 @@ reviewers: "Raskar T, Chen D, Fraser JS"
 image: "/static/img/reviews/2023_lucas.png"
 
 peer-review:
-- biorxiv_version: "2023.02.01.526705v1"
+- biorxiv: "2023.02.01.526705"
   disqus: "2u852i1"
 
 response:

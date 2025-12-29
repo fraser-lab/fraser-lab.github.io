@@ -6,7 +6,7 @@ reviewers: "Coyote-Maestas W, Díaz RE, Fraser JS"
 image: "/static/img/reviews/2021_knoverek.jpg"
 
 peer-review:
-- biorxiv_version: "2021.04.14.439842v1"
+- biorxiv: "2021.04.14.439842"
   disqus: "2gxrwir"
 published:
 - pmid: "34799442"

@@ -6,7 +6,7 @@ reviewers: "Coyote-Maestas W, Fraser JS"
 image: "/static/img/reviews/2020_leander.png"
 
 peer-review:
-- biorxiv_version: "2020.02.10.942417v1"
+- biorxiv: "2020.02.10.942417"
   disqus: "27tk0w1"
 
 published:

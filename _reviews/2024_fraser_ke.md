@@ -6,6 +6,6 @@ reviewers: "Fraser JS, HHMI TAP participants"
 image: "/static/img/reviews/2024_ke.png"
 
 peer-review:
- - biorxiv_version: "2023.12.21.572824v1"
+ - biorxiv: "2023.12.21.572824"
  - prereview: "10779310"
 ---

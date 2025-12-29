@@ -6,7 +6,7 @@ reviewers: "Ravikumar A, Fraser JS"
 image: "/static/img/reviews/2022_jablonska.jpg"
 abstract:
 peer-review:
-- biorxiv_version: "2022.06.09.495570v2" #biorxiv versioned ID, example "5533316v1"
+- biorxiv: "2022.06.09.495570" #biorxiv versioned ID, example "5533316v1"
   disqus: "2psc282" #Link to Public Review, ID only
 
 # published:

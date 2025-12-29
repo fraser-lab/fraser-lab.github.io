@@ -6,7 +6,7 @@ reviewers: "Fraser JS"
 image: "/static/img/reviews/2019_martynowycz.jpg"
 
 peer-review:
-- biorxiv_version: "425611v1"
+- biorxiv: "425611"
   disqus: "1x4qaqy"
 
 published:

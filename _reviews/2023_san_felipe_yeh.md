@@ -6,7 +6,7 @@ reviewers: "San Felipe CJ, Fraser J"
 image: "/static/img/reviews/2023_yeh.png"
 
 peer-review:
- - biorxiv_version: "2023.02.28.529746v1"
+ - biorxiv: "2023.02.28.529746"
  - disqus: "2tjkmcx"
  - prereview_beta: "doi-10.1101-2023.02.28.529746"
 ---

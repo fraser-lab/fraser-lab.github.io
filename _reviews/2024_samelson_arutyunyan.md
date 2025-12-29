@@ -6,6 +6,6 @@ reviewers: "Samelson A, Fraser JS"
 image: "/static/img/reviews/2024_arutyunyan.png"
 
 peer-review:
- - biorxiv_version: "2024.07.24.604935v1"
+ - biorxiv: "2024.07.24.604935"
  - prereview: "13826334"
 ---

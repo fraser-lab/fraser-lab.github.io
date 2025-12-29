@@ -6,7 +6,7 @@ reviewers: "Correy G, Fraser JS"
 image: "/static/img/reviews/2021_kneller.jpg"
 
 peer-review:
-- biorxiv_version: "2021.01.12.426388v1"
+- biorxiv: "2021.01.12.426388"
   disqus: "2f8pxlq"
 published:
 - pmid: "33755450"

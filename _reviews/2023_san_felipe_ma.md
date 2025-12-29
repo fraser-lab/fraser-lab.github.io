@@ -6,6 +6,6 @@ reviewers: "San Felipe CJ, Yamamura H, Fraser J"
 image: "/static/img/reviews/2023_ma.png"
 
 peer-review:
- - biorxiv_version: "2023.04.04.535535"
+ - biorxiv: "2023.04.04.535535"
  - prereview_beta: "doi-10.1101-2023.04.04.535535"
 ---
