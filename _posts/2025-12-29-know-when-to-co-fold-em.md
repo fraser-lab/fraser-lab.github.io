@@ -34,6 +34,6 @@ Test 2 was to look at whether co-folding confidence or affinity predictions coul
 
 ## So where are we with co-folding? 
 
-I think the Mac1 case represents a "best case" for early hit-to-lead use and right now. AF3 performs better than YAAFCs, but misses enough complexes and conformational changes that it isn't close enough to be an experiment replacement. Our work, and the related work from [**Jiankun Lyu's lab at Rockefeller**](https://www.rockefeller.edu/our-scientists/heads-of-laboratories/10783-jiankun-lyu/), also suggests that conventional docking and co-folding could be complementary to enrich initial hit lists to find promising starting points. 
+I think the Mac1 case represents a "best case" for early hit-to-lead use. Right now AF3 performs slightly better than YAAFCs, but misses enough complexes and conformational changes that it isn't close enough to be an experiment replacement. Our work, and the related work from [**Jiankun Lyu's lab at Rockefeller**](https://www.rockefeller.edu/our-scientists/heads-of-laboratories/10783-jiankun-lyu/), also suggests that conventional docking and co-folding could be complementary to enrich initial hit lists to find promising starting points. 
 
 My final takeaway: it is way easier to generate predictions at scale than to make measurements at scale. But to know which methods make predictions worth following, we are going to need to make a lot more measurements like the ones done here!
