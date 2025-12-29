@@ -54,14 +54,15 @@ and in the <a href="https://fraserlab.com/peer_review/" target="_blank" alt = "P
 								{% assign parts = bval | split: '.' %}
 								{% if parts.size >= 3 %}
 									{% assign date_string = parts[0] | append: '.' | append: parts[1] | append: '.' | append: parts[2] %}
+									{% assign biorxiv_base = bval %}
+									{% if date_string > '2025.12.01' %}
+									<li>Biorxiv Preprint: <a href="https://doi.org/10.64898/{{biorxiv_base}}" target="_blank" alt = "biorxiv preprint link: {{biorxiv_base}}">{{biorxiv_base | split: "." | last }}</a></li>
+									{% else %}
+									<li>Biorxiv Preprint: <a href="https://doi.org/10.1101/{{biorxiv_base}}" target="_blank" alt = "biorxiv preprint link: {{biorxiv_base}}">{{biorxiv_base | split: "." | last }}</a></li>
+									{% endif %}
 								{% else %}
-									{% assign date_string = bval | slice: 0, 10 %}
-								{% endif %}
-								{% assign biorxiv_base = bval %}
-								{% if date_string > '2025.12.01' %}
-								<li>Biorxiv Preprint: <a href="https://doi.org/10.64898/{{biorxiv_base}}" target="_blank" alt = "biorxiv preprint link: {{biorxiv_base}}">{{biorxiv_base | split: "." | last }}</a></li>
-								{% else %}
-								<li>Biorxiv Preprint: <a href="https://doi.org/10.1101/{{biorxiv_base}}" target="_blank" alt = "biorxiv preprint link: {{biorxiv_base}}">{{biorxiv_base | split: "." | last }}</a></li>
+									{% assign biorxiv_base = bval %}
+									<li>Biorxiv Preprint: <a href="https://doi.org/10.1101/{{biorxiv_base}}" target="_blank" alt = "biorxiv preprint link: {{biorxiv_base}}">{{biorxiv_base}}</a></li>
 								{% endif %}
 								{% else %}
 								<li>Biorxiv Preprint: <a href="https://doi.org/10.1101/{{bval}}" target="_blank" alt = "biorxiv preprint link: {{bval}}">{{bval}}</a></li>
@@ -108,16 +109,16 @@ and in the <a href="https://fraserlab.com/peer_review/" target="_blank" alt = "P
 									{% assign parts_trip = bval | split: '.' %}
 									{% if parts_trip.size >= 3 %}
 										{% assign date_string_trip = parts_trip[0] | append: '.' | append: parts_trip[1] | append: '.' | append: parts_trip[2] %}
+										{% if date_string_trip > '2025.12.01' %}
+											<li>Reviewer: <a href="https://doi.org/10.64898/{{bval}}#review" target="_blank" alt = "link to review as TRiP comment: {{record.trip}}">#{{record.trip}}</a></li>
+										{% else %}
+											<li>Reviewer: <a href="https://doi.org/10.1101/{{bval}}#review" target="_blank" alt = "link to review as TRiP comment: {{record.trip}}">#{{record.trip}}</a></li>
+										{% endif %}
 									{% else %}
-										{% assign date_string_trip = bval | slice: 0, 10 %}
+										<li>Reviewer: <a href="https://doi.org/10.1101/{{bval}}#review" target="_blank" alt = "link to review as TRiP comment: {{record.trip}}">#{{record.trip}}</a></li>
 									{% endif %}
 								{% else %}
-									{% assign date_string_trip = '' %}
-								{% endif %}
-								{% if has_dot_trip and date_string_trip > '2025.12.01' %}
-								<li>Reviewer: <a href="https://doi.org/10.64898/{{bval}}#review" target="_blank" alt = "link to review as TRiP comment: {{record.trip}}">#{{record.trip}}</a></li>
-								{% else %}
-								<li>Reviewer: <a href="https://doi.org/10.1101/{{bval}}#review" target="_blank" alt = "link to review as TRiP comment: {{record.trip}}">#{{record.trip}}</a></li>
+									<li>Reviewer: <a href="https://doi.org/10.1101/{{bval}}#review" target="_blank" alt = "link to review as TRiP comment: {{record.trip}}">#{{record.trip}}</a></li>
 								{% endif %}
 								{% endif %}
 
