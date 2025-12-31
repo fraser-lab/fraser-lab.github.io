@@ -1,26 +1,36 @@
 ## Fraser Lab Alumni
-{% assign sorted = site.members | sort: "enddate" | reverse %}
-{% for member in sorted %}
+{% comment %}
+Create an array of members with their final enddate for proper sorting.
+For members with multiple enddates (arrays), we use the last enddate.
+This ensures alumni are sorted by their most recent end date.
+{% endcomment %}
+{% assign members_with_final_date = "" | split: "" %}
+{% for member in site.members %}
+  {% if member.enddate != empty and member.startdate.size == member.enddate.size %}
+    {% assign final_enddate = member.enddate | last %}
+    {% assign enddate_seconds = final_enddate | date: "%s" %}
+    {% assign now_seconds = "now" | date: "%s" %}
+    {% if enddate_seconds < now_seconds %}
+      {% assign position = member.position | downcase %}
+      {% unless position contains "srtp" or position contains "intern" or position contains "sep" or position contains "visiting" or position contains "high school" %}
+        {% assign member_with_date = final_enddate | append: "|" | append: forloop.index0 %}
+        {% assign members_with_final_date = members_with_final_date | push: member_with_date %}
+      {% else %}
+        {% if position contains "affiliate" %}
+          {% assign member_with_date = final_enddate | append: "|" | append: forloop.index0 %}
+          {% assign members_with_final_date = members_with_final_date | push: member_with_date %}
+        {% endif %}
+      {% endunless %}
+    {% endif %}
+  {% endif %}
+{% endfor %}
 
-{% if member.enddate == empty or member.startdate.size != member.enddate.size %}
-{% continue %}
-{% endif %}
-
-{% assign last_enddate = member.enddate | last %}
-{% assign enddate_seconds = last_enddate | date: "%s" %}
-{% assign now_seconds = "now" | date: "%s" %}
-{% if enddate_seconds >= now_seconds %}
-{% continue %}
-{% endif %}
-
-{% assign position = member.position | downcase %}
-{% if position contains "srtp" or position contains "intern" or position 
-  contains "sep" or position contains "visiting"
-  or position contains "high school" %}
-{% unless position contains "affiliate" %}
-{% continue %}
-{% endunless %}
-{% endif %}
+{% assign sorted_members = members_with_final_date | sort | reverse %}
+{% for member_entry in sorted_members %}
+  {% assign member_parts = member_entry | split: "|" %}
+  {% assign member_index = member_parts[1] | plus: 0 %}
+  {% assign member = site.members[member_index] %}
+  {% assign last_enddate = member.enddate | last %}
 
 <hr>
 <div id = "{{member.name}}" style="padding-top: 60px; margin-top: -60px;">
@@ -84,16 +94,26 @@ Subsequently: {{member.subsequent}} <br>
 
 <br>
 ## Undergraduate Interns
-{% for undergraduate in sorted %}
+{% comment %}Sort undergraduate interns by final enddate{% endcomment %}
+{% assign undergrads_with_final_date = "" | split: "" %}
+{% for undergraduate in site.members %}
+  {% if undergraduate.enddate != empty and undergraduate.startdate.size == undergraduate.enddate.size %}
+    {% assign final_enddate = undergraduate.enddate | last %}
+    {% assign position = undergraduate.position | downcase %}
+    {% if position contains "srtp" or position contains "intern" %}
+      {% unless position contains "affiliate" %}
+        {% assign member_with_date = final_enddate | append: "|" | append: forloop.index0 %}
+        {% assign undergrads_with_final_date = undergrads_with_final_date | push: member_with_date %}
+      {% endunless %}
+    {% endif %}
+  {% endif %}
+{% endfor %}
 
-{% assign position = undergraduate.position | downcase %}
-
-{% unless position contains "srtp" or position contains "intern" %}
-    {% continue %}
-{% endunless %}
-{% if position contains "affiliate"%}
-    {% continue %}
-{% endif %}
+{% assign sorted_undergrads = undergrads_with_final_date | sort | reverse %}
+{% for undergrad_entry in sorted_undergrads %}
+  {% assign undergrad_parts = undergrad_entry | split: "|" %}
+  {% assign undergrad_index = undergrad_parts[1] | plus: 0 %}
+  {% assign undergraduate = site.members[undergrad_index] %}
 
 <hr>
 <div id = "{{undergraduate.name}}" style="padding-top: 60px; margin-top: -60px;">
@@ -121,12 +141,24 @@ Subsequently: {{undergraduate.subsequent}}<br>
 
 <br>
 ## [High School Interns](http://sep.ucsf.edu/hs_programs/high-school-intern-program/)
-{% for student in sorted %}
+{% comment %}Sort high school interns by final enddate{% endcomment %}
+{% assign students_with_final_date = "" | split: "" %}
+{% for student in site.members %}
+  {% if student.enddate != empty and student.startdate.size == student.enddate.size %}
+    {% assign final_enddate = student.enddate | last %}
+    {% assign position = student.position | downcase %}
+    {% if position contains "sep" or position contains "high school" %}
+      {% assign member_with_date = final_enddate | append: "|" | append: forloop.index0 %}
+      {% assign students_with_final_date = students_with_final_date | push: member_with_date %}
+    {% endif %}
+  {% endif %}
+{% endfor %}
 
-{% assign position = student.position | downcase %}
-{% unless position contains "sep" or position contains "high school"%}
-{% continue %}
-{% endunless %}
+{% assign sorted_students = students_with_final_date | sort | reverse %}
+{% for student_entry in sorted_students %}
+  {% assign student_parts = student_entry | split: "|" %}
+  {% assign student_index = student_parts[1] | plus: 0 %}
+  {% assign student = site.members[student_index] %}
 
 <hr>
 <div id = "{{student.name}}" style="padding-top: 60px; margin-top: -60px;">
@@ -153,18 +185,24 @@ Subsequently: {{student.subsequent}}<br>
 
 <br>
 ## Fraser Lab Visitors
-{% comment %}
-Separate current visitors (no enddate) from past visitors (with enddate)
-Current visitors should appear first, followed by past visitors sorted by most recent enddate
-{% endcomment %}
-{% assign current_visitors = "" | split: "" %}
-{% assign past_visitors = "" | split: "" %}
-
+{% comment %}Sort visitors by final enddate{% endcomment %}
+{% assign visitors_with_final_date = "" | split: "" %}
 {% for visitor in site.members %}
-{% assign position = visitor.position | downcase %}
-{% unless position contains "visiting" %}
-{% continue %}
-{% endunless %}
+  {% if visitor.enddate != empty and visitor.startdate.size == visitor.enddate.size %}
+    {% assign final_enddate = visitor.enddate | last %}
+    {% assign position = visitor.position | downcase %}
+    {% if position contains "visiting" %}
+      {% assign member_with_date = final_enddate | append: "|" | append: forloop.index0 %}
+      {% assign visitors_with_final_date = visitors_with_final_date | push: member_with_date %}
+    {% endif %}
+  {% endif %}
+{% endfor %}
+
+{% assign sorted_visitors = visitors_with_final_date | sort | reverse %}
+{% for visitor_entry in sorted_visitors %}
+  {% assign visitor_parts = visitor_entry | split: "|" %}
+  {% assign visitor_index = visitor_parts[1] | plus: 0 %}
+  {% assign visitor = site.members[visitor_index] %}
 
 {% if visitor.enddate == empty or visitor.startdate.size != visitor.enddate.size %}
 {% assign current_visitors = current_visitors | push: visitor %}
