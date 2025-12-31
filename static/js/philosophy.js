@@ -77,6 +77,7 @@
     });
     
     // Also handle links that have data-toggle="collapse" but also need scrolling
+    // Bootstrap handles the collapse, we just add URL update and scrolling
     $('a[href^="#"][data-toggle="collapse"]').on('click', function(e) {
       var href = $(this).attr('href');
       var targetId = href.substring(1);
@@ -84,9 +85,11 @@
       // Update URL hash
       if (history.pushState) {
         history.pushState(null, null, href);
+      } else {
+        window.location.hash = href;
       }
       
-      // Wait for Bootstrap to expand, then scroll
+      // Bootstrap will expand the section, we just need to scroll after it's shown
       var target = document.getElementById(targetId);
       if (target) {
         $(target).one('shown.bs.collapse', function() {
