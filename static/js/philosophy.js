@@ -7,109 +7,137 @@
 
   // Configuration
   var HEADER_OFFSET = 70; // Offset for fixed header when scrolling
+  var HASH_LOAD_DELAY = 300; // Delay before handling hash on page load (ms)
+  var DEPENDENCY_RETRY_INTERVAL = 50; // Interval between dependency checks (ms)
+  var MAX_DEPENDENCY_RETRIES = 100; // Max retries for dependency loading (50ms * 100 = 5 seconds)
 
-  // Utility function to scroll to a target element
-  function scrollToElement(element) {
-    var elementPosition = element.getBoundingClientRect().top;
-    var offsetPosition = elementPosition + window.pageYOffset - HEADER_OFFSET;
+  // Initialize the philosophy page functionality
+  function init() {
+    // Utility function to scroll to a target element
+    function scrollToElement(element) {
+      var elementPosition = element.getBoundingClientRect().top;
+      var offsetPosition = elementPosition + window.pageYOffset - HEADER_OFFSET;
 
-    window.scrollTo({
-      top: offsetPosition,
-      behavior: 'smooth'
-    });
-  }
-
-  // Function to expand and scroll to a section
-  function expandAndScrollTo(targetId) {
-    var target = document.getElementById(targetId);
-    if (!target) return;
-
-    // Check if the target is a collapse element
-    var $target = $(target);
-    
-    // If the section is not already shown, expand it
-    if (!$target.hasClass('show')) {
-      // Wait for the collapse animation to complete before scrolling
-      $target.one('shown.bs.collapse', function() {
-        scrollToElement(target);
+      window.scrollTo({
+        top: offsetPosition,
+        behavior: 'smooth'
       });
-      $target.collapse('show');
-    } else {
-      // If already shown, just scroll immediately
-      scrollToElement(target);
     }
-  }
 
-  // Handle hash in URL on page load
-  function handleHashOnLoad() {
-    if (window.location.hash) {
-      var hash = window.location.hash.substring(1); // Remove the #
-      // Small delay to ensure DOM is ready
-      setTimeout(function() {
-        expandAndScrollTo(hash);
-      }, 100);
-    }
-  }
-
-  // Handle clicks on hash links
-  function handleHashLinks() {
-    // Find all links with hash targets (excluding the card headers which are buttons)
-    $('a[href^="#"]').not('[data-toggle="collapse"]').on('click', function(e) {
-      var href = $(this).attr('href');
-      if (href === '#' || href === '#top') return; // Skip empty hash links and #top
-      
-      var targetId = href.substring(1); // Remove the #
+    // Function to expand and scroll to a section
+    function expandAndScrollTo(targetId) {
       var target = document.getElementById(targetId);
+      if (!target) return;
+
+      // Check if the target is a collapse element
+      var $target = $(target);
       
-      // Only handle if target is a collapse element
-      if (target && $(target).hasClass('collapse')) {
-        e.preventDefault();
+      // If the section is not already shown, expand it
+      if (!$target.hasClass('show')) {
+        // Wait for the collapse animation to complete before scrolling
+        $target.one('shown.bs.collapse', function() {
+          scrollToElement(target);
+        });
+        $target.collapse('show');
+      } else {
+        // If already shown, just scroll immediately
+        scrollToElement(target);
+      }
+    }
+
+    // Handle hash in URL on page load
+    function handleHashOnLoad() {
+      if (window.location.hash) {
+        var hash = window.location.hash.substring(1); // Remove the #
+        // Small delay to ensure DOM is ready and collapse functionality is available
+        setTimeout(function() {
+          expandAndScrollTo(hash);
+        }, HASH_LOAD_DELAY);
+      }
+    }
+
+    // Handle clicks on hash links
+    function handleHashLinks() {
+      // Find all links with hash targets (excluding the card headers which are buttons)
+      $('a[href^="#"]').not('[data-toggle="collapse"]').on('click', function(e) {
+        var href = $(this).attr('href');
+        if (href === '#' || href === '#top') return; // Skip empty hash links and #top
         
-        // Update the URL hash
+        var targetId = href.substring(1); // Remove the #
+        var target = document.getElementById(targetId);
+        
+        // Only handle if target is a collapse element
+        if (target && $(target).hasClass('collapse')) {
+          e.preventDefault();
+          
+          // Update the URL hash
+          if (history.pushState) {
+            history.pushState(null, null, href);
+          } else {
+            window.location.hash = href;
+          }
+          
+          expandAndScrollTo(targetId);
+        }
+      });
+      
+      // Also handle links that have data-toggle="collapse" but also need scrolling
+      // Bootstrap handles the collapse, we just add URL update and scrolling
+      $('a[href^="#"][data-toggle="collapse"]').on('click', function(e) {
+        var href = $(this).attr('href');
+        var targetId = href.substring(1);
+        
+        // Update URL hash
         if (history.pushState) {
           history.pushState(null, null, href);
         } else {
           window.location.hash = href;
         }
         
-        expandAndScrollTo(targetId);
-      }
-    });
-    
-    // Also handle links that have data-toggle="collapse" but also need scrolling
-    // Bootstrap handles the collapse, we just add URL update and scrolling
-    $('a[href^="#"][data-toggle="collapse"]').on('click', function(e) {
-      var href = $(this).attr('href');
-      var targetId = href.substring(1);
-      
-      // Update URL hash
-      if (history.pushState) {
-        history.pushState(null, null, href);
-      } else {
-        window.location.hash = href;
-      }
-      
-      // Bootstrap will expand the section, we just need to scroll after it's shown
-      var target = document.getElementById(targetId);
-      if (target) {
-        $(target).one('shown.bs.collapse', function() {
-          scrollToElement(target);
-        });
+        // Bootstrap will expand the section, we just need to scroll after it's shown
+        var target = document.getElementById(targetId);
+        if (target) {
+          $(target).one('shown.bs.collapse', function() {
+            scrollToElement(target);
+          });
+        }
+      });
+    }
+
+    // Initialize handlers
+    handleHashLinks();
+    handleHashOnLoad();
+
+    // Also handle when navigating with browser back/forward
+    $(window).on('hashchange', function() {
+      if (window.location.hash) {
+        var hash = window.location.hash.substring(1);
+        expandAndScrollTo(hash);
       }
     });
   }
 
-  // Initialize when DOM is ready
-  $(document).ready(function() {
-    handleHashLinks();
-    handleHashOnLoad();
-  });
-
-  // Also handle when navigating with browser back/forward
-  $(window).on('hashchange', function() {
-    if (window.location.hash) {
-      var hash = window.location.hash.substring(1);
-      expandAndScrollTo(hash);
+  // Wait for jQuery and Bootstrap to be available, then initialize
+  function waitForDependencies(retryCount) {
+    retryCount = retryCount || 0;
+    
+    if (typeof jQuery !== 'undefined' && typeof jQuery.fn.collapse !== 'undefined') {
+      // jQuery and Bootstrap are loaded, initialize when DOM is ready
+      jQuery(document).ready(init);
+    } else if (retryCount < MAX_DEPENDENCY_RETRIES) {
+      // Dependencies not ready, wait and try again
+      setTimeout(function() {
+        waitForDependencies(retryCount + 1);
+      }, DEPENDENCY_RETRY_INTERVAL);
+    } else {
+      // Dependencies didn't load within timeout - log error but don't break the page
+      if (typeof console !== 'undefined' && console.error) {
+        console.error('Philosophy.js: jQuery and Bootstrap dependencies failed to load within timeout');
+      }
     }
-  });
+    }
+  }
+
+  // Start waiting for dependencies
+  waitForDependencies();
 })();
