@@ -6,6 +6,13 @@
 {% continue %}
 {% endif %}
 
+{% assign last_enddate = member.enddate | last %}
+{% assign enddate_seconds = last_enddate | date: "%s" %}
+{% assign now_seconds = "now" | date: "%s" %}
+{% if enddate_seconds >= now_seconds %}
+{% continue %}
+{% endif %}
+
 {% assign position = member.position | downcase %}
 {% if position contains "srtp" or position contains "intern" or position 
   contains "sep" or position contains "visiting"

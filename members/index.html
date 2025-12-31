@@ -11,9 +11,14 @@ The Fraser lab welcomes people of any race, ethnicity, religion, national origin
 
 {% for member in site.members %}
 
-{% unless member.enddate == empty or member.startdate.size != member.enddate.size %}
-{% continue %}
-{% endunless %}
+{% if member.enddate != empty and member.startdate.size == member.enddate.size %}
+  {% assign last_enddate = member.enddate | last %}
+  {% assign enddate_seconds = last_enddate | date: "%s" %}
+  {% assign now_seconds = "now" | date: "%s" %}
+  {% if enddate_seconds < now_seconds %}
+    {% continue %}
+  {% endif %}
+{% endif %}
 
 {% if member.position contains "Affiliate" or member.position contains "Visiting" %}
 {% continue %}
@@ -75,9 +80,14 @@ The Fraser lab welcomes people of any race, ethnicity, religion, national origin
 <h4>Affiliates</h4>
 {% for member in site.members %}
 
-{% unless member.enddate == empty or member.startdate.size != member.enddate.size %}
-{% continue %}
-{% endunless %}
+{% if member.enddate != empty and member.startdate.size == member.enddate.size %}
+  {% assign last_enddate = member.enddate | last %}
+  {% assign enddate_seconds = last_enddate | date: "%s" %}
+  {% assign now_seconds = "now" | date: "%s" %}
+  {% if enddate_seconds < now_seconds %}
+    {% continue %}
+  {% endif %}
+{% endif %}
 
 {% unless member.position contains "Affiliate" %}
 {% continue %}
