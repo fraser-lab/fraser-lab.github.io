@@ -185,33 +185,33 @@ Subsequently: {{student.subsequent}}<br>
 
 <br>
 ## Fraser Lab Visitors
-{% comment %}Sort visitors by final enddate{% endcomment %}
+{% comment %}Separate current and past visitors, then sort past visitors by final enddate{% endcomment %}
+{% assign current_visitors = "" | split: "" %}
 {% assign visitors_with_final_date = "" | split: "" %}
 {% for visitor in site.members %}
-  {% if visitor.enddate != empty and visitor.startdate.size == visitor.enddate.size %}
-    {% assign final_enddate = visitor.enddate | last %}
-    {% assign position = visitor.position | downcase %}
-    {% if position contains "visiting" %}
+  {% assign position = visitor.position | downcase %}
+  {% if position contains "visiting" %}
+    {% if visitor.enddate == empty or visitor.startdate.size != visitor.enddate.size %}
+      {% comment %}Current visitor - no enddate or mismatched start/end dates{% endcomment %}
+      {% assign current_visitors = current_visitors | push: visitor %}
+    {% else %}
+      {% comment %}Past visitor - has enddate{% endcomment %}
+      {% assign final_enddate = visitor.enddate | last %}
       {% assign member_with_date = final_enddate | append: "|" | append: forloop.index0 %}
       {% assign visitors_with_final_date = visitors_with_final_date | push: member_with_date %}
     {% endif %}
   {% endif %}
 {% endfor %}
 
-{% assign sorted_visitors = visitors_with_final_date | sort | reverse %}
-{% for visitor_entry in sorted_visitors %}
+{% comment %}Sort past visitors by most recent enddate first{% endcomment %}
+{% assign sorted_past_visitors = visitors_with_final_date | sort | reverse %}
+{% assign past_visitors = "" | split: "" %}
+{% for visitor_entry in sorted_past_visitors %}
   {% assign visitor_parts = visitor_entry | split: "|" %}
   {% assign visitor_index = visitor_parts[1] | plus: 0 %}
   {% assign visitor = site.members[visitor_index] %}
-
-{% if visitor.enddate == empty or visitor.startdate.size != visitor.enddate.size %}
-{% assign current_visitors = current_visitors | push: visitor %}
-{% else %}
-{% assign past_visitors = past_visitors | push: visitor %}
-{% endif %}
+  {% assign past_visitors = past_visitors | push: visitor %}
 {% endfor %}
-
-{% assign past_visitors = past_visitors | sort: "enddate" | reverse %}
 
 {% comment %}Display current visitors first{% endcomment %}
 {% for visitor in current_visitors %}
