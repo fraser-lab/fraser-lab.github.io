@@ -4,7 +4,7 @@ startdate: [2019-06-06, 2023-03-31]
 enddate: [2023-03-31,2024-07-01]
 image: /static/img/members/Wankowicz.jpg
 altimage: /static/img/members/Wankowicz_pb.jpg
-position: "Graduate Student, [Biophysics](http://biophysics.ucsf.edu) ([NSF GRFP](http://www.nsfgrfp.org/) (2019-2023), 
+position: "Graduate Student, [Biophysics](http://biophysics.ucsf.edu) ([NSF GRFP](http://www.nsfgrfp.org/), [Discovery Fellow](https://graduate.ucsf.edu/admission/financial-support/fellowships/discovery-fellows-program) (2019-2023), 
 <br>Staff Scientist, [AViDD Mentored Project Award](https://qcrg.ucsf.edu/mentored-project-awards)  (2023-2024)"
 timeline_positions: ["Graduate Student (2019-2023)", "Staff Scientist (2023-2024)"]
 subsequent: Assistant Professor - [Wankowicz Lab @ Vanderbilt University](https://wankowiczlab.com/)
