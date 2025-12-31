@@ -7,6 +7,9 @@
 
   // Configuration
   var HEADER_OFFSET = 70; // Offset for fixed header when scrolling
+  var HASH_LOAD_DELAY = 300; // Delay before handling hash on page load (ms)
+  var DEPENDENCY_RETRY_INTERVAL = 50; // Interval between dependency checks (ms)
+  var MAX_DEPENDENCY_RETRIES = 100; // Max retries for dependency loading (50ms * 100 = 5 seconds)
 
   // Initialize the philosophy page functionality
   function init() {
@@ -49,7 +52,7 @@
         // Small delay to ensure DOM is ready and collapse functionality is available
         setTimeout(function() {
           expandAndScrollTo(hash);
-        }, 300);
+        }, HASH_LOAD_DELAY);
       }
     }
 
@@ -117,21 +120,21 @@
   // Wait for jQuery and Bootstrap to be available, then initialize
   function waitForDependencies(retryCount) {
     retryCount = retryCount || 0;
-    var MAX_RETRIES = 100; // Max wait time: 100 * 50ms = 5 seconds
     
     if (typeof jQuery !== 'undefined' && typeof jQuery.fn.collapse !== 'undefined') {
       // jQuery and Bootstrap are loaded, initialize when DOM is ready
       jQuery(document).ready(init);
-    } else if (retryCount < MAX_RETRIES) {
+    } else if (retryCount < MAX_DEPENDENCY_RETRIES) {
       // Dependencies not ready, wait and try again
       setTimeout(function() {
         waitForDependencies(retryCount + 1);
-      }, 50);
+      }, DEPENDENCY_RETRY_INTERVAL);
     } else {
       // Dependencies didn't load within timeout - log error but don't break the page
       if (typeof console !== 'undefined' && console.error) {
         console.error('Philosophy.js: jQuery and Bootstrap dependencies failed to load within timeout');
       }
+    }
     }
   }
 
