@@ -27,3 +27,5 @@ group: philosophy
 <!-- End  block -->
 {% endfor %}
 </div>
+
+<script src="/static/js/philosophy.js"></script>
