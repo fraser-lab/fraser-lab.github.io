@@ -46,26 +46,28 @@
       var links = document.querySelectorAll('a[href^="#"]');
       
       for (var i = 0; i < links.length; i++) {
-        links[i].addEventListener('click', function(e) {
-          var href = this.getAttribute('href');
-          if (href === '#' || href === '#top') return; // Skip empty hash links and #top
-          
-          var targetId = href.substring(1); // Remove the #
-          var target = document.getElementById(targetId);
-          
-          if (target) {
-            e.preventDefault();
+        (function(link) {
+          link.addEventListener('click', function(e) {
+            var href = link.getAttribute('href');
+            if (href === '#' || href === '#top') return; // Skip empty hash links and #top
             
-            // Update the URL hash
-            if (history.pushState) {
-              history.pushState(null, null, href);
-            } else {
-              window.location.hash = href;
+            var targetId = href.substring(1); // Remove the #
+            var target = document.getElementById(targetId);
+            
+            if (target) {
+              e.preventDefault();
+              
+              // Update the URL hash
+              if (history.pushState) {
+                history.pushState(null, null, href);
+              } else {
+                window.location.hash = href;
+              }
+              
+              scrollToSection(targetId);
             }
-            
-            scrollToSection(targetId);
-          }
-        });
+          });
+        })(links[i]);
       }
     }
 
@@ -86,6 +88,7 @@
   if (document.readyState === 'loading') {
     document.addEventListener('DOMContentLoaded', init);
   } else {
+    // DOM already loaded, initialize immediately
     init();
   }
 })();
