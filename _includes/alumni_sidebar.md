@@ -2,16 +2,16 @@
 {% assign sorted = site.members | sort: "enddate" | reverse %}
 {% for member in sorted %}
 
-{% unless member.enddate != empty and member.startdate.size == member.enddate.size %}
+{% if member.enddate == empty or member.startdate.size != member.enddate.size %}
 {% continue %}
-{% endunless %}
+{% endif %}
 
 {% assign last_enddate = member.enddate | last %}
 {% assign enddate_seconds = last_enddate | date: "%s" %}
 {% assign now_seconds = "now" | date: "%s" %}
-{% unless enddate_seconds < now_seconds %}
+{% if enddate_seconds >= now_seconds %}
 {% continue %}
-{% endunless %}
+{% endif %}
 
 {% assign position = member.position | downcase %}
 {% if position contains "srtp" or position contains "intern" or position 
