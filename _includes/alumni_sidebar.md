@@ -153,12 +153,60 @@ Subsequently: {{student.subsequent}}<br>
 
 <br>
 ## Fraser Lab Visitors
-{% for visitor in sorted %}
+{% comment %}
+Separate current visitors (no enddate) from past visitors (with enddate)
+Current visitors should appear first, followed by past visitors sorted by most recent enddate
+{% endcomment %}
+{% assign current_visitors = "" | split: "" %}
+{% assign past_visitors = "" | split: "" %}
 
+{% for visitor in site.members %}
 {% assign position = visitor.position | downcase %}
 {% unless position contains "visiting" %}
 {% continue %}
 {% endunless %}
+
+{% if visitor.enddate == empty or visitor.startdate.size != visitor.enddate.size %}
+{% assign current_visitors = current_visitors | push: visitor %}
+{% else %}
+{% assign past_visitors = past_visitors | push: visitor %}
+{% endif %}
+{% endfor %}
+
+{% assign past_visitors = past_visitors | sort: "enddate" | reverse %}
+
+{% comment %}Display current visitors first{% endcomment %}
+{% for visitor in current_visitors %}
+
+<hr>
+<div id = "{{visitor.name}}" style="padding-top: 60px; margin-top: -60px;">
+{% if visitor.current %}
+<p><strong>{{visitor.name}}</strong> - <em>{{visitor.position | markdownify | remove: '<p>' | remove: '</p>' }} from {{visitor.current}}</em><br>
+{% else  %}
+<p><strong>{{visitor.name}}</strong> - <em>{{visitor.position | markdownify | remove: '<p>' | remove: '</p>' }}</em><br>
+{% endif %}
+
+{% assign start = visitor.startdate | first | date:"%Y" %}
+{% assign end = visitor.enddate | last | date:"%Y" %}
+
+{% if end %}
+{% if start == end %}
+{{ start }}<br>
+{% else %}
+{{ start }} - {{ end }}<br>
+{% endif %}
+{% else %}
+{{ start }} - Present<br>
+{% endif %}
+
+{% if visitor.pronouns %}
+<em>{{visitor.pronouns}}</em> <br>
+{% endif %}
+</p>
+</div> {% endfor %}
+
+{% comment %}Display past visitors sorted by most recent enddate{% endcomment %}
+{% for visitor in past_visitors %}
 
 <hr>
 <div id = "{{visitor.name}}" style="padding-top: 60px; margin-top: -60px;">
