@@ -184,7 +184,7 @@ and in the <a href="https://fraserlab.com/peer_review/" target="_blank" alt = "P
 				{% for record in review.highlight %}
 					<!--Article Title-->
 					{% if record.title %}
-						<li>{{record.title | markdownify | remove: '<p>' | remove: '</p>' | strip }}.</li>
+						<li>{{record.title | markdownify | remove: '<p>' | remove: '</p>' | strip }}</li>
 					{% endif %}
 
 					<!--Authors-->
