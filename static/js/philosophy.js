@@ -6,7 +6,7 @@
 
   // Configuration
   var HEADER_OFFSET = 70; // Offset for fixed header when scrolling
-  var HASH_LOAD_DELAY = 100; // Delay before handling hash on page load (ms)
+  var HASH_LOAD_DELAY = 50; // Small delay to ensure DOM rendering is complete
 
   // Initialize the philosophy page functionality
   function init() {
@@ -45,30 +45,28 @@
       // Find all links with hash targets
       var links = document.querySelectorAll('a[href^="#"]');
       
-      for (var i = 0; i < links.length; i++) {
-        (function(link) {
-          link.addEventListener('click', function(e) {
-            var href = link.getAttribute('href');
-            if (href === '#' || href === '#top') return; // Skip empty hash links and #top
+      links.forEach(function(link) {
+        link.addEventListener('click', function(e) {
+          var href = link.getAttribute('href');
+          if (href === '#' || href === '#top') return; // Skip empty hash links and #top
+          
+          var targetId = href.substring(1); // Remove the #
+          var target = document.getElementById(targetId);
+          
+          if (target) {
+            e.preventDefault();
             
-            var targetId = href.substring(1); // Remove the #
-            var target = document.getElementById(targetId);
-            
-            if (target) {
-              e.preventDefault();
-              
-              // Update the URL hash
-              if (history.pushState) {
-                history.pushState(null, null, href);
-              } else {
-                window.location.hash = href;
-              }
-              
-              scrollToSection(targetId);
+            // Update the URL hash
+            if (history.pushState) {
+              history.pushState(null, null, href);
+            } else {
+              window.location.hash = href;
             }
-          });
-        })(links[i]);
-      }
+            
+            scrollToSection(targetId);
+          }
+        });
+      });
     }
 
     // Initialize handlers
