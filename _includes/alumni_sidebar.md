@@ -204,6 +204,48 @@ Subsequently: {{student.subsequent}}<br>
   {% assign visitor_index = visitor_parts[1] | plus: 0 %}
   {% assign visitor = site.members[visitor_index] %}
 
+{% if visitor.enddate == empty or visitor.startdate.size != visitor.enddate.size %}
+{% assign current_visitors = current_visitors | push: visitor %}
+{% else %}
+{% assign past_visitors = past_visitors | push: visitor %}
+{% endif %}
+{% endfor %}
+
+{% assign past_visitors = past_visitors | sort: "enddate" | reverse %}
+
+{% comment %}Display current visitors first{% endcomment %}
+{% for visitor in current_visitors %}
+
+<hr>
+<div id = "{{visitor.name}}" style="padding-top: 60px; margin-top: -60px;">
+{% if visitor.current %}
+<p><strong>{{visitor.name}}</strong> - <em>{{visitor.position | markdownify | remove: '<p>' | remove: '</p>' }} from {{visitor.current}}</em><br>
+{% else  %}
+<p><strong>{{visitor.name}}</strong> - <em>{{visitor.position | markdownify | remove: '<p>' | remove: '</p>' }}</em><br>
+{% endif %}
+
+{% assign start = visitor.startdate | first | date:"%Y" %}
+{% assign end = visitor.enddate | last | date:"%Y" %}
+
+{% if end %}
+{% if start == end %}
+{{ start }}<br>
+{% else %}
+{{ start }} - {{ end }}<br>
+{% endif %}
+{% else %}
+{{ start }} - Present<br>
+{% endif %}
+
+{% if visitor.pronouns %}
+<em>{{visitor.pronouns}}</em> <br>
+{% endif %}
+</p>
+</div> {% endfor %}
+
+{% comment %}Display past visitors sorted by most recent enddate{% endcomment %}
+{% for visitor in past_visitors %}
+
 <hr>
 <div id = "{{visitor.name}}" style="padding-top: 60px; margin-top: -60px;">
 {% if visitor.current %}
