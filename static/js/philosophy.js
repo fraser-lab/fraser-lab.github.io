@@ -115,13 +115,23 @@
   }
 
   // Wait for jQuery and Bootstrap to be available, then initialize
-  function waitForDependencies() {
+  function waitForDependencies(retryCount) {
+    retryCount = retryCount || 0;
+    var MAX_RETRIES = 100; // Max wait time: 100 * 50ms = 5 seconds
+    
     if (typeof jQuery !== 'undefined' && typeof jQuery.fn.collapse !== 'undefined') {
       // jQuery and Bootstrap are loaded, initialize when DOM is ready
       jQuery(document).ready(init);
-    } else {
+    } else if (retryCount < MAX_RETRIES) {
       // Dependencies not ready, wait and try again
-      setTimeout(waitForDependencies, 50);
+      setTimeout(function() {
+        waitForDependencies(retryCount + 1);
+      }, 50);
+    } else {
+      // Dependencies didn't load within timeout - log error but don't break the page
+      if (typeof console !== 'undefined' && console.error) {
+        console.error('Philosophy.js: jQuery and Bootstrap dependencies failed to load within timeout');
+      }
     }
   }
 
