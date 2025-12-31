@@ -10,7 +10,7 @@ group: philosophy
 
 {% for item in site.data.philosophy %}
 {% if item.id == "overview" %}
-## {{item.title}}
+## <a id="{{item.id}}"></a>{{item.title}}
 
 {{item.body}}
 
@@ -26,7 +26,7 @@ group: philosophy
 
 ---
 {% else %}
-## <a id="{{item.id}}">{{item.title}}</a>
+## <a id="{{item.id}}"></a>{{item.title}}
 
 {{item.body}}
 
