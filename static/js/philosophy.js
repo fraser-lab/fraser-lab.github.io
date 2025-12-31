@@ -5,6 +5,20 @@
 (function() {
   'use strict';
 
+  // Configuration
+  var HEADER_OFFSET = 70; // Offset for fixed header when scrolling
+
+  // Utility function to scroll to a target element
+  function scrollToElement(element) {
+    var elementPosition = element.getBoundingClientRect().top;
+    var offsetPosition = elementPosition + window.pageYOffset - HEADER_OFFSET;
+
+    window.scrollTo({
+      top: offsetPosition,
+      behavior: 'smooth'
+    });
+  }
+
   // Function to expand and scroll to a section
   function expandAndScrollTo(targetId) {
     var target = document.getElementById(targetId);
@@ -13,28 +27,16 @@
     // Check if the target is a collapse element
     var $target = $(target);
     
-    // Function to scroll to the target
-    function scrollToTarget() {
-      var headerOffset = 70; // Account for fixed header if any
-      var elementPosition = target.getBoundingClientRect().top;
-      var offsetPosition = elementPosition + window.pageYOffset - headerOffset;
-
-      window.scrollTo({
-        top: offsetPosition,
-        behavior: 'smooth'
-      });
-    }
-    
     // If the section is not already shown, expand it
     if (!$target.hasClass('show')) {
       // Wait for the collapse animation to complete before scrolling
       $target.one('shown.bs.collapse', function() {
-        scrollToTarget();
+        scrollToElement(target);
       });
       $target.collapse('show');
     } else {
       // If already shown, just scroll immediately
-      scrollToTarget();
+      scrollToElement(target);
     }
   }
 
@@ -88,14 +90,7 @@
       var target = document.getElementById(targetId);
       if (target) {
         $(target).one('shown.bs.collapse', function() {
-          var headerOffset = 70;
-          var elementPosition = target.getBoundingClientRect().top;
-          var offsetPosition = elementPosition + window.pageYOffset - headerOffset;
-
-          window.scrollTo({
-            top: offsetPosition,
-            behavior: 'smooth'
-          });
+          scrollToElement(target);
         });
       }
     });
