@@ -5,15 +5,15 @@
   'use strict';
 
   // Configuration
-  var HEADER_OFFSET = 70; // Offset for fixed header when scrolling
-  var HASH_LOAD_DELAY = 50; // Small delay to ensure DOM rendering is complete
+  var HEADER_OFFSET_PX = 70; // Offset in pixels for fixed header when scrolling
+  var HASH_LOAD_DELAY_MS = 50; // Delay in milliseconds to ensure DOM rendering is complete
 
   // Initialize the philosophy page functionality
   function init() {
     // Utility function to scroll to a target element
     function scrollToElement(element) {
       var elementPosition = element.getBoundingClientRect().top;
-      var offsetPosition = elementPosition + window.pageYOffset - HEADER_OFFSET;
+      var offsetPosition = elementPosition + window.pageYOffset - HEADER_OFFSET_PX;
 
       window.scrollTo({
         top: offsetPosition,
@@ -36,7 +36,7 @@
         // Small delay to ensure DOM is ready
         setTimeout(function() {
           scrollToSection(hash);
-        }, HASH_LOAD_DELAY);
+        }, HASH_LOAD_DELAY_MS);
       }
     }
 
