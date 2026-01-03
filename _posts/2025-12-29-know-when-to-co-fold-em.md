@@ -1,5 +1,6 @@
 ---
 layout: post
+author: James Fraser
 title: "Know when to co-fold'em"
 date: 2025-12-29 00:00:00
 ---
