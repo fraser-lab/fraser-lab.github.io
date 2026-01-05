@@ -3,6 +3,20 @@
     <div class="row">
         <div class="col-sm-7 col-md-8">
             <div class = "page header"><h1>{{ page.title }}</h1></div>
+            <p class="author">
+              {% assign author_slug = page.author | slugify: "raw" %}
+              <span class="author"><a href="/authors/{{ author_slug }}/">{{page.author}}</a></span><br>
+              <span class="date"><em>{{ page.date | date_to_long_string }}</em></span>
+              {% if page.tags.size > 0 %}
+              <br>tags:
+              {% for tag in page.tags %}
+              {% assign tag_slug = tag | slugify: "raw" %}
+              <a class="tag-link" href="{{ site.baseurl | append: "/tags/" | append: tag_slug | append: "/" }}" rel="category tag">
+                #{{ tag }}
+              </a>
+              {% endfor %}
+              {% endif %}
+            </p>
                 {{ content }}
         </div>
         <!-- <div class="col-sm-5 col-md-4 hidden-xs">
