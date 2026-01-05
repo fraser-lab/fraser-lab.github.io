@@ -1,6 +1,6 @@
 ---
 title: Clone this website!
-author: Ben Barad and James Fraser
+author: Ben Barad
 layout: post
 group: news
 tags: how_to
