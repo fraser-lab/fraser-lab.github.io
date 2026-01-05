@@ -3,6 +3,7 @@ title: A long overdue update
 author: James Fraser
 layout: post
 group: news
+tags: labnews
 ---
 It's been over a year since I wrote an update for our lab news section (parenthood has slowed me down a bit). There have been a lot of changes:
 

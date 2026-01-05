@@ -3,6 +3,7 @@ title: Welcome to roton Ben
 author: James Fraser
 layout: post
 group: news
+tags: labnews
 ---
 Ben Barad will be rotating with us this quarter - welcome Ben!
 

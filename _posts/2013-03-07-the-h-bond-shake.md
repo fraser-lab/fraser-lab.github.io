@@ -3,6 +3,7 @@ title: The H-Bond Shake
 author: James Fraser
 layout: post
 group: news
+tags: labnews
 ---
 Daniel tapped into the Harlem Shake meme to describe CypA's transition from cryo to RT!
 

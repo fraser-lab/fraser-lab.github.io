@@ -3,6 +3,7 @@ title: Spring quarter has sprung
 author: James Fraser
 layout: post
 group: news
+tags: labnews
 ---
 A belated welcome to our new rotation student Eugene!
 

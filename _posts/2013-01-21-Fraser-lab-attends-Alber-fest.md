@@ -3,6 +3,7 @@ title: Fraser Lab attends Alber fest
 author: James Fraser
 layout: post
 group: news
+tags: labnews
 ---
 Rahel, Daniel, and David joined James for a [symposium](http://qb3.berkeley.edu/qb3/alber.cfm) held in honor of his PhD advisor Tom Alber.
 

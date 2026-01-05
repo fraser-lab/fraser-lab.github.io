@@ -3,6 +3,7 @@ title: How to structure 1:1 meetings
 author: Gabriella Estevam
 layout: post
 group: news
+tags: how_to
 ---
 
 One of the best things we can give each other as colleagues is our time and attention.

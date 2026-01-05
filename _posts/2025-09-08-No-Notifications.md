@@ -4,7 +4,7 @@ title: No Notifications
 author: James Fraser
 layout: post
 group: news
-tags: papers
+tags: opinion
 ---
 # Why Hasn’t Preprint Peer Review Caught On?  
 

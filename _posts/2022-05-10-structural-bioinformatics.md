@@ -3,7 +3,7 @@ title: So you want to do a structural bioinformatic analysis…
 author: Stephanie Wankowicz
 layout: post
 group: news
-tag: how_to
+tags: how_to
 ---
 
 

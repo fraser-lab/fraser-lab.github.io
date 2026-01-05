@@ -3,6 +3,7 @@ title: Posting Peer Reviews
 author: James Fraser
 layout: post
 group: news
+tags: opinion
 ---
 A few years ago I started signing my manuscript reviews. My major motivation was to give the authors an opportunity to contact me to clarify what I meant or to ask how strongly I felt about statements without the delays of multiple rounds of review mediated by an editor. I figured that the positives for increasing the clarity, transparency, and speed of scientific communication would outweigh any potential negative side effects, such as “retribution”. Another positive was that I had to write each review thoroughly and fairly.
 

@@ -3,6 +3,7 @@ title: The role of mobility in the substrate binding and catalytic machinery of 
 author: James Fraser
 layout: post
 group: news
+tags: labnews
 ---
 
 One of the most interesting and provocative papers published by [Tom Alber](http://fraserlab.com/2014/04/04/Tom-Alber/) is this gem:

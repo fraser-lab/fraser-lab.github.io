@@ -3,6 +3,7 @@ title: David passes quals
 author: James Fraser
 layout: post
 group: news
+tags: labnews
 ---
 Describing how he felt **while** Bob Stroud asked him about desolvation energy... 
 ![while](/static/img/news/david-quals1.jpg "while"){:.img-fluid}

@@ -3,6 +3,7 @@ title: Diffuse Scattering Workshop
 author: James Fraser
 layout: post
 group: news
+tags: labnews
 ---
 The [Diffuse Scattering Workshop](http://cci.lbl.gov/dials/oct_2013_diffuse.htm) was a great success thanks primarily to the organizational efforts of Nick Sauter. Andrew gave a great talk updating the (growing) diffuse scattering community on his progress. 
 

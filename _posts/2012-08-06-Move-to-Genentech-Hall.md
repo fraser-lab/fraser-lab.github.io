@@ -3,6 +3,7 @@ title: Move to Genentech Hall
 author: James Fraser
 layout: post
 group: news
+tags: labnews
 ---
  <img src="/static/img/news/new-digs.jpg" alt="GH1" class="img-fluid">
 

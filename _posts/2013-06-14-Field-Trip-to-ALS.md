@@ -3,6 +3,7 @@ title: ALS Trip
 author: James Fraser
 layout: post
 group: news
+tags: labnews
 ---
 <img src="/static/img/news/als-group.jpg" alt="group" class="img-fluid">
 \#groupshot

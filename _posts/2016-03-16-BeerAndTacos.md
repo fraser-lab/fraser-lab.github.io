@@ -3,6 +3,7 @@ title: On being quoted in the NYT, Preprints, and Beer (and Tacos)
 author: James Fraser
 layout: post
 group: news
+tags: labnews
 ---
 At the [ASAPbio](http://asapbio.org) meeting, I [talked](http://mediasiteex.hhmi.org/Mediasite/Play/8a05402484b341969d4df048a2af0f131d?catalog=4507882c-4252-4555-9719-ea0ee2870617) about the importance of building a lab culture as a [junior faculty member](http://asapbio.org/junior-faculty). Two of the most important things about the culture we are trying to build in the Fraser lab are: 1)  we have high scientific standards and 2) we enjoy communicating our results.  Preprints help us with both. We set a high standard by showing the world our results when *we* are ready by posting a preprint, not after weeks or months in review. We also do this because we hope that other scientists will give us feedback and build on our work. We celebrate posting the preprint (which we do simultaneously upon submitting to a journal, but more on that later) because we want to congratulate each other on the hard work that went into the paper.  Preprints return the control over both of these important aspects of culture to us, the scientists.  
 

@@ -3,6 +3,7 @@ title: My Approach to Evaluating Faculty Applications
 author: James Fraser
 layout: post
 group: news
+tags: opinion
 ---
 
 As a faculty member at the University of California, San Francisco (UCSF), I am often asked about my approach to evaluating faculty applications. In writing it out, I not only clarify my thinking, but also provide transparency about how one faculty member evaluates applications. Additionally, by sharing this, I hope to get feedback to help improve my own process for evaluating applications in the future.

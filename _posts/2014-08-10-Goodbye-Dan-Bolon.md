@@ -3,6 +3,7 @@ title: Goodbye Dan Bolon!
 author: James Fraser
 layout: post
 group: news
+tags: labnews
 ---
  <img src="/static/img/news/dan_scotch.jpg" alt="salty dog" class="img-fluid">
 

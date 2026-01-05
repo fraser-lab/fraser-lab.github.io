@@ -3,6 +3,7 @@ title: Syntax Highlighting for Pymol Scripts
 author: Ben Barad
 layout: post
 group: news
+tags: how_to
 ---
 
 

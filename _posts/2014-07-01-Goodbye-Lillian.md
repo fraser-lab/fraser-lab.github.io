@@ -3,6 +3,7 @@ title: Goodbye Lillian
 author: James Fraser
 layout: post
 group: news
+tags: labnews
 ---
 We celebrated Lillian, the founding member of the Fraser Lab, at the ramp.  She was as sad to leave as we were to see here go:
 

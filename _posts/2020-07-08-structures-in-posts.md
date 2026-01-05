@@ -3,6 +3,7 @@ title: How we include protein structures in our posts
 author: Daniel Hogan
 layout: post
 group: news
+tags: how_to
 ---
 
 To display 3D structural models, we use [UglyMol](https://github.com/uglymol/uglymol/), an open-source web-based macromolecular viewer focused on electron density.

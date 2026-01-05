@@ -4,6 +4,7 @@ title: Clone this website! (updated!)
 author: Robbie Díaz
 layout: post
 group: news
+tags: how_to
 ---
 If you are starting a new lab or want an easy (democratized) way to run your lab website - please: Clone this website - with updates!
 

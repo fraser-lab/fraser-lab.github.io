@@ -3,6 +3,7 @@ title: James takes the Ice Bucket Challenge
 author: James Fraser
 layout: post
 group: news
+tags: labnews
 ---
 Yesterday [Peter Kim](http://web.stanford.edu/group/kimlab/) presented me (and [Bob Stroud](http://www.msg.ucsf.edu/stroud/index.htm) and [Charly Craik](http://www.craiklab.ucsf.edu/)) with the [Ice Bucket Challenge](http://www.alsa.org/fight-als/ice-bucket-challenge.html). Peter and Susan Marqusee were challenged by [Terry Oas](https://www.youtube.com/watch?v=-ils6pggkGg). This fundraiser holds special significance for all of us because Tom Alber, our friend and my PhD advisor, recently passed away from ALS. I think that Tom would have loved the Ice Bucket Challenge.
 

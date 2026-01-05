@@ -3,6 +3,7 @@ title: "Making Publication-quality Charts using Python and Matplotlib"
 author: Ben Barad
 layout: post
 group: blog
+tags: how_to
 ---
 
 _I originally wrote this article for my [personal website](http://benjaminbarad.com), but I think it is relevant here, so with James's blessing I am crossposting it._

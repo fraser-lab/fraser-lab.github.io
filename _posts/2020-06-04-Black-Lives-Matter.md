@@ -3,6 +3,7 @@ title: Black Lives Matter!
 author: James Fraser
 layout: post
 group: news
+tags: opinion
 ---
 We don't have the language to describe the brutality of the murder of George Floyd, Breonna Taylor, Tony McDade, Ahmaud Arbery, and so many more. We believe Black Lives Matter. We are disgusted by the police brutality that we are observing and that has gone unchecked in this country for too long. We are shocked by the militaristic actions going on right now. It's hard to focus on anything - and it's even more horrible we can't be together in person because of the global pandemic.
 

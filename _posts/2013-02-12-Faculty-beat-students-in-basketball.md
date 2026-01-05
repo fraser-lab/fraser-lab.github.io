@@ -3,6 +3,7 @@ title: Faculty beat students
 author: James Fraser
 layout: post
 group: news
+tags: labnews
 ---
 Final score: Thesis Committee 30 to Tetrad Students 25! Thanks to Daniel and Pradeep for refereeing and to Brian for scorekeeping
 

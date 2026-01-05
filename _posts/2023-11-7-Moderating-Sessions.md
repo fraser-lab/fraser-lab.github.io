@@ -4,7 +4,7 @@ title: How to moderate a session at a meeting
 author: James Fraser
 layout: post
 group: news
-tags: 
+tags: how_to 
 ---
 
 To effectively moderate sessions at a meeting or a graduate program retreat, it's crucial to manage time efficiently to ensure that the event runs smoothly and on schedule. This involves clear communication with presenters about the session rules, managing Q&A sessions judiciously, and being prepared to enforce time limits with a firm but fair approach. The goal is to create an environment where each speaker has their allotted time respected, the audience remains engaged, and the overall program adheres to its intended timeline. Here's a guide I wrote for the recent QBC retreat for student moderators.

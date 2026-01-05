@@ -3,6 +3,7 @@ title: Blue Jays v Giants
 author: James Fraser
 layout: post
 group: news
+tags: labnews
 ---
 The Fraser lab took advantage of our proximity to ATT park to catch the Toronto Blue Jays humiliate the SF Giants 4-0.  RA Dickey's knuckball was floating and the BLLs were flowing!
 

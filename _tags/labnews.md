@@ -1,4 +1,4 @@
 ---
 layout: tags
-tag-name: papers
+tag-name: labnews
 ---

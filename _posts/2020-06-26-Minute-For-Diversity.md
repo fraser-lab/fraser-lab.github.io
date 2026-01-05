@@ -3,6 +3,7 @@ title: The Minute for Diversity Slide
 author: Leah T. Roe
 layout: post
 group: news
+tags: labnews
 ---
 ...is a slide during every person’s group meeting presentation about what makes you a diverse individual or a diversity topic you are passionate about. It is a quick moment at the start or end of every group meeting devoted to bringing awareness to our varied life experiences. The slide is meant to help us get to know colleagues beyond science, understand cultural differences, and develop respect for one another.
 

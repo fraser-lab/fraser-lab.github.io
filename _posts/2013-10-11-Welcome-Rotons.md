@@ -3,6 +3,7 @@ title: Welcome Rotons
 author: James Fraser
 layout: post
 group: news
+tags: labnews
 ---
 A belated welcome to our fall quarter rotation students: Jess Friedman (PSPG) and Justin Biel (Biophysics)
 

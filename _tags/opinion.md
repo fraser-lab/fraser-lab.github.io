@@ -1,4 +1,4 @@
 ---
 layout: tags
-tag-name: publishing
+tag-name: opinion
 ---

@@ -3,6 +3,7 @@ title: Diffuse Scattering Workshop
 author: James Fraser
 layout: post
 group: news
+tags: labnews
 ---
 We are helping to organize a workshop on Diffuse Scattering as part of the [Advanced Light Source user meeting](http://www-als.lbl.gov/index.php/user-information/users-meeting/835-2013-workshops.html).
 

@@ -3,6 +3,7 @@ title: Canada Day BBQ
 author: James Fraser
 layout: post
 group: news
+tags: labnews
 ---
 The Fraser lab continues our annual tradition of a Canada Day BBQ.
 

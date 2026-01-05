@@ -3,6 +3,7 @@ title: Clone this website!
 author: Ben Barad and James Fraser
 layout: post
 group: news
+tags: how_to
 ---
 If you are starting a new lab or want an easy (democratized) way to run your lab website - please: Clone this website!
 

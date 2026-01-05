@@ -3,6 +3,7 @@ title: Inspecting PanDDA event maps deposited in the Protein Data Bank
 author: Galen Correy
 layout: post
 group: news
+tags: how_to
 ---
 
 #### Background

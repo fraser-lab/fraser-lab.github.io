@@ -3,6 +3,7 @@ title: The Fraser Lab Method of Following the Scientific Literature
 author: James Fraser
 layout: post
 group: news
+tags: how_to
 ---
 
 A guide to using RSS Feeds to quickly scan and triage the scientific literature by James Fraser

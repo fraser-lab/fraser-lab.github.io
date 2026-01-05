@@ -4,7 +4,7 @@ title: Chalk talk guideines
 author: James Fraser
 layout: post
 group: news
-tags: 
+tags: how_to 
 ---
 
 We recently drafted this guide for the chalk talks for faculty candidates to our search in BTS. We thought it might be useful to others, so we are posting it here.

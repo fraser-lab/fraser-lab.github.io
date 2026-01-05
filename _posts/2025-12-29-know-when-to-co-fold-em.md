@@ -3,6 +3,7 @@ layout: post
 author: James Fraser
 title: "Know when to co-fold'em"
 date: 2025-12-29 00:00:00
+tags: paper_highlights
 ---
 
 I'm really excited to share a [new preprint](https://doi.org/10.64898/2025.12.25.696505) that benchmarks AlphaFold3 (AF3) and other related "co-folding" methods with two new stringent tests.

@@ -3,6 +3,7 @@ title: Summer's Gone
 author: James Fraser
 layout: post
 group: news
+tags: labnews
 ---
 
 <div class="video-container">

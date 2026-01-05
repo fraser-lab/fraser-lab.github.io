@@ -3,6 +3,7 @@ title: How to make depositing a ligand-bound ribosome model and raw CryoEM movie
 author: Jenna Pellegrino
 layout: post
 group: news
+tags: how_to
 ---
 
 I've learned quite a bit through my experiences with the PDB and EMPIAR deposition processes of ligand-bound ribosome CryoEM data. The below are some of my guidelines and tips for how to make going through these two deposition processes less confusing and/or frustrating.
