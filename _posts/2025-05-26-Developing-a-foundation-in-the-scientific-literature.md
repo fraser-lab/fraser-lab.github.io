@@ -1,6 +1,6 @@
 ---
 title: "Developing a foundation in the scientific literature"
-author: "Gabriella Estevam"
+author: Gabriella Estevam
 layout: post
 group: news
 tags: teaching

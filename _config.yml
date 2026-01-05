@@ -45,3 +45,5 @@ collections:
                 output: true
         tags:
                 output: true
+        authors:
+                output: true

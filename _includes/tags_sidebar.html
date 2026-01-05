@@ -7,3 +7,13 @@
   </li>
 {% endfor %}
 </ul>
+
+<h3>Browse by Author</h3>
+<ul class="list-unstyled">
+{% for author in site.authors %}
+  {% assign author_slug = author.author-name | slugify: "raw" %}
+  <li>
+    <a href="{{ site.baseurl }}/authors/{{ author_slug }}/">{{ author.author-name }}</a>
+  </li>
+{% endfor %}
+</ul>
