@@ -4,7 +4,7 @@ title: IT suggestions for new faculty
 author: Daniel Hogan
 layout: post
 group: news
-tags: it
+tags: how_to
 ---
 
 This is an opinionated guide for how to set up IT infrastructure for a new lab.
