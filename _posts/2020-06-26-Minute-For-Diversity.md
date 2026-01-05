@@ -1,6 +1,6 @@
 ---
 title: The Minute for Diversity Slide
-author: Leah T. Roe
+author: Leah Roe
 layout: post
 group: news
 tags: labnews

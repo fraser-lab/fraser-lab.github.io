@@ -1,7 +1,7 @@
 ---
 published: false
 title: Clone this website! (updated!)
-author: Robbie Díaz
+author: Roberto Efraín (Robbie) Díaz
 layout: post
 group: news
 tags: how_to
