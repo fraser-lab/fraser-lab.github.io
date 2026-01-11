@@ -1,7 +1,7 @@
 {% include header.html %}
 <div class="container px-0 max-width: 100%">
     <div class="row">
-        <div class="col-sm-7 col-md-8">
+        <div class="col-sm-8 col-md-9">
             <div class = "page header"><h1>{{ page.title }}</h1></div>
             <p class="author">
               {% assign author_slug = page.author | slugify: "raw" %}
@@ -19,9 +19,9 @@
             </p>
                 {{ content }}
         </div>
-        <!-- <div class="col-sm-5 col-md-4 hidden-xs">
-            {% include twitter_sidebar.html %}
-         </div> -->
+        <div class="col-sm-4 col-md-3">
+            {% include post_sidebar.html %}
+        </div>
     </div>
 </div>
 {% include footer.html %}

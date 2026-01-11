@@ -1,0 +1,37 @@
+<h3>Browse by Tag</h3>
+<ul class="list-unstyled">
+{% for tag in site.tags %}
+  {% assign tag_slug = tag.tag-name | slugify: "raw" %}
+  {% assign is_active = false %}
+  {% for page_tag in page.tags %}
+    {% if page_tag == tag.tag-name %}
+      {% assign is_active = true %}
+    {% endif %}
+  {% endfor %}
+  <li>
+    {% if is_active %}
+      <strong><a href="{{ site.baseurl }}/tags/{{ tag_slug }}/">#{{ tag.tag-name }}</a></strong>
+    {% else %}
+      <a href="{{ site.baseurl }}/tags/{{ tag_slug }}/">#{{ tag.tag-name }}</a>
+    {% endif %}
+  </li>
+{% endfor %}
+</ul>
+
+<h3>Browse by Author</h3>
+<ul class="list-unstyled">
+{% for author in site.authors %}
+  {% assign author_slug = author.author-name | slugify: "raw" %}
+  {% assign is_active = false %}
+  {% if page.author == author.author-name %}
+    {% assign is_active = true %}
+  {% endif %}
+  <li>
+    {% if is_active %}
+      <strong><a href="{{ site.baseurl }}/authors/{{ author_slug }}/">{{ author.author-name }}</a></strong>
+    {% else %}
+      <a href="{{ site.baseurl }}/authors/{{ author_slug }}/">{{ author.author-name }}</a>
+    {% endif %}
+  </li>
+{% endfor %}
+</ul>

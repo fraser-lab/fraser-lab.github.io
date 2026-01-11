@@ -5,7 +5,7 @@ group: news
 ---
 
 <div class="row">
-  <div class="col-sm-7 col-md-8">
+  <div class="col-sm-8 col-md-9">
     <!-- This loops through the paginated posts -->
     {% for post in paginator.posts %}
     <hr>
@@ -50,7 +50,7 @@ group: news
     {% endif %}
   </div>
 
-  <div class="col-sm-5 col-md-4">
+  <div class="col-sm-4 col-md-3">
     {% include tags_sidebar.html %}
   </div>
 </div>
