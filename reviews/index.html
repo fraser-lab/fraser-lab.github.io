@@ -37,7 +37,7 @@ and in the <a href="https://fraserlab.com/peer_review/" target="_blank" alt = "P
 	<div class="row" style="padding-top: 20px; margin-top: -20px">
 		<div class="col">
 			{% if review.image %}
-			<img class = "img-fluid" src = "{{review.image}}" alt = "Representative Image" style="max-height: 250px;; margin-right: 30px">
+			<img class = "img-fluid" src = "{{review.image}}" alt = "Representative Image" style="max-height: 250px; margin-right: 30px" loading="lazy" decoding="async">
 			{% endif %}
 		</div>
 		<ul class="col">

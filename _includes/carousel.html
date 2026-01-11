@@ -30,7 +30,7 @@
         <div class="carousel__track">
           <ul>
             {% for item in images %}
-            <li class="carousel__slide" style="background-image: url('{{ item }}'); background-size: contain; background-repeat: no-repeat;"></li>
+            <li class="carousel__slide" style="background-image: url('{{ item }}');"></li>
             {% endfor %}
           </ul>
         </div>
@@ -138,9 +138,8 @@
   left: 0;
   padding: 0;
   margin: 0;
-  transition: -webkit-transform 0.5s ease 0s;
   transition: transform 0.5s ease 0s;
-  transition: transform 0.5s ease 0s, -webkit-transform 0.5s ease 0s;
+  will-change: transform;
 }
 .carousel__track .carousel__slide {
   display: block;
@@ -165,6 +164,9 @@
   position: absolute;
   opacity: 0;
   overflow: hidden;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
 }
 .carousel__slide .overlay {height: 100%;}
 .carousel--thumb .carousel__indicator {

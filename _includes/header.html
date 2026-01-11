@@ -8,6 +8,10 @@
     <meta name="description" content="{{ site.description }}">
     <meta name="theme-color" content="#052049">
     <meta http-equiv="Permissions-Policy" content="interest-cohort=()"/>
+    <!-- Preconnect to external domains for faster resource loading -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" crossorigin>
+    <!-- Preload critical CSS -->
+    <link rel="preload" href="/static/css/bootstrap.min.css" as="style">
     <link rel="stylesheet" href="/static/css/bootstrap.min.css">
     {% if page.group == 'news' %}
     <link rel="alternate" type="application/atom+xml" title="Fraser Lab News Feed" href="/news.xml">
