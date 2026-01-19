@@ -1,6 +1,6 @@
 ---
 title: "Evaluating beta-tubulin variants as predictors of benzimidazole resistance across Caenorhabditis nematodes"
-authors: "Shaver AO, McKeown R, Reyes Otero JM, Collins JB, Hogan DW, **Fraser JS**, Dreyer S, Ragsdale EJ, Andersen EC"
+authors: "Shaver AO, McKeown R, Reyes Otero JM, Collins JB, **Hogan DW**, **Fraser JS**, Dreyer S, Ragsdale EJ, Andersen EC"
 # journal: ""
 pub_date: "2026-01-19"
 image: "/static/img/pub/2025_shaver.jpg"
