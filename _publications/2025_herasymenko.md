@@ -7,7 +7,7 @@ image: "/static/img/pub/2025_herasymenko.jpg"
 pmid: 41565251
 # pmcid: #""
 chemrxiv: "2025-d1v7v"
-# pdf: ""
+pdf: "http://cdn.fraserlab.com/publications/2025_herasymenko.pdf"
 pdbs:
   - "7HPI"
   - "7HPJ"
