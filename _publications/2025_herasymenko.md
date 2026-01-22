@@ -6,7 +6,6 @@ pub_date: "2026-01-21"
 image: "/static/img/pub/2025_herasymenko.jpg"
 pmid: 41565251
 # pmcid: #""
-doi: "10.1021/acs.jcim.5c02441"
 chemrxiv: "2025-d1v7v"
 # pdf: ""
 pdbs:
