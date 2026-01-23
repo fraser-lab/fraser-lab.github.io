@@ -1,8 +1,9 @@
-name: "CGLab @ "
-description: "Webpage of the Comparative Genomics Lab at the Institute of Molecular Biology and Biotechnology in Crete"
+name: "CGLab"
+description: "Comparative Genomics Lab @ IMBB-FORTH"
 
 url: "https://cgenomicslab.org"
 
+# Pagination for news
 paginate: 5
 plugins: [jekyll-paginate]
 paginate_path: "news/page:num"
@@ -12,36 +13,42 @@ markdown: kramdown
 kramdown:
   parse_block_html: true
 
+# Exclude from build
 exclude:
-        - .sass-cache/
-        - .jekyll-cache/
-        - gemfiles/
-        - Gemfile
-        - Gemfile.lock
-        - node_modules/
-        - vendor/bundle/
-        - vendor/cache/
-        - vendor/gems/
-        - vendor/ruby/
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/
+  - README.md
 
+# Collections - simplified
 collections:
-        affiliates:
-                output: true
-        members:
-                output: true
-        publications:
-                output: true
-        reviews:
-                output: true
-        alumni:
-                output: true
-        sep:
-                output: false
-        visitors:
-                output: false
-        undergrads:
-                output: true
-        pets:
-                output: true
-        tags:
-                output: true
+  members:
+    output: true
+  alumni:
+    output: true
+  publications:
+    output: false
+  posts:
+    output: true
+
+# Default front matter
+defaults:
+  - scope:
+      path: ""
+      type: "members"
+    values:
+      layout: "member"
+  - scope:
+      path: ""
+      type: "alumni"
+    values:
+      layout: "member"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"

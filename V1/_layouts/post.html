@@ -1,0 +1,13 @@
+{% include header.html %}
+<div class="container px-0 max-width: 100%">
+    <div class="row">
+        <div class="col-sm-7 col-md-8">
+            <div class = "page header"><h1>{{ page.title }}</h1></div>
+                {{ content }}
+        </div>
+        <div class="col-sm-5 col-md-4 hidden-xs">
+            {% include twitter_sidebar.html %}
+         </div>
+    </div>
+</div>
+{% include footer.html %}

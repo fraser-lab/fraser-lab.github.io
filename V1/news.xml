@@ -1,0 +1,31 @@
+---
+---
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+  <title>Comparative Genomics Lab News</title>
+  <link href="{{ site.url }}"/>
+  <link type="application/atom+xml" rel="self" href="{{site.url}}/news.xml"/>
+  <updated>{{ site.time | date_to_xmlschema }}</updated>
+  <id>{{site.url}}</id>
+  <author>
+    <name>Alexandros Pittis</name>
+    <!-- <email>alexandros.pittis@imbb.forth.gr</email> -->
+  </author>
+
+  {% for post in site.posts limit:20 %}
+  <entry>
+    <id>{{site.url}}{{ post.id }}</id>
+    <link type="text/html" rel="alternate" href="{{site.url}}{{ post.url }}"/>
+    <title>{{ post.title }}</title>
+    <published>{{ post.date | date_to_xmlschema }}</published>
+    <updated>{{ post.date | date_to_xmlschema }}</updated>
+    <author>
+      <name>{{post.author}}</name>
+      <uri>{{post.url}}</uri>
+    </author>
+    <content type="html">{{ post.content | xml_escape }}</content>
+  </entry>
+  {% endfor %}
+ 
+</feed>

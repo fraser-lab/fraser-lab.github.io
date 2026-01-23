@@ -1,47 +1,65 @@
 ---
-title: Contact the Comparative Genomics Lab @ IMBB-FORTH
+title: Contact
 layout: default
 group: contact
 ---
 
-<div class="row">
+<div class="container">
+<section style="padding: 2rem 0;">
 
-<div class="col-md-4">
+<h1 class="section-title" style="font-size: 1.5rem; margin-bottom: 1.5rem;">Contact</h1>
 
-  <h4>CGLab space </h4>
-  [Main building of the Foundation for Research and Technology-Hellas (FORTH) in Heraklion](https://main.admin.forth.gr/en/content/How-to-find-us.102/){:target="_blank"}<br>
-  Ν. Plastira 100, Vassilika Vouton, Main building, Floor -2, Room Δ030<br>
-  GR - 700 13, Heraklion, Crete<br>
-  tel: +30 2810 39 1024<br>
-  [Google maps](https://maps.app.goo.gl/KR1YEVn2A74BcRrM8){:target="_blank"}
+<div class="contact-grid">
+<div class="contact-blocks">
+<div class="contact-block">
+<h3>Alexandros Pittis, Ph.D.</h3>
+<p>
+Group Leader · IMBB-FORTH<br>
+alexandros.pittis [at] imbb.forth.gr<br>
++30 2810 391024
+</p>
 
+<div class="profile-links">
+<a href="https://orcid.org/0000-0000-0000-0000" target="_blank" class="icon-link" title="ORCID">
+<svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 0C5.372 0 0 5.372 0 12s5.372 12 12 12 12-5.372 12-12S18.628 0 12 0zM7.369 4.378c.525 0 .947.431.947.947s-.422.947-.947.947a.95.95 0 0 1-.947-.947c0-.525.422-.947.947-.947zm-.722 3.038h1.444v10.041H6.647V7.416zm3.562 0h3.9c3.712 0 5.344 2.653 5.344 5.025 0 2.578-2.016 5.025-5.325 5.025h-3.919V7.416zm1.444 1.303v7.444h2.297c3.272 0 4.022-2.484 4.022-3.722 0-2.016-1.284-3.722-4.097-3.722h-2.222z"/></svg>
+ORCID
+</a>
+<a href="https://scholar.google.com/citations?user=XXXXXXXX" target="_blank" class="icon-link" title="Google Scholar">
+<svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 24a7 7 0 1 1 0-14 7 7 0 0 1 0 14zm0-24L0 9.5l4.838 3.94A8 8 0 0 1 12 9a8 8 0 0 1 7.162 4.44L24 9.5z"/></svg>
+Scholar
+</a>
+<a href="https://github.com/cgenomicslab" target="_blank" class="icon-link" title="GitHub">
+<svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 0C5.374 0 0 5.373 0 12c0 5.302 3.438 9.8 8.207 11.387.599.111.793-.261.793-.577v-2.234c-3.338.726-4.033-1.416-4.033-1.416-.546-1.387-1.333-1.756-1.333-1.756-1.089-.745.083-.729.083-.729 1.205.084 1.839 1.237 1.839 1.237 1.07 1.834 2.807 1.304 3.492.997.107-.775.418-1.305.762-1.604-2.665-.305-5.467-1.334-5.467-5.931 0-1.311.469-2.381 1.236-3.221-.124-.303-.535-1.524.117-3.176 0 0 1.008-.322 3.301 1.23A11.509 11.509 0 0 1 12 5.803c1.02.005 2.047.138 3.006.404 2.291-1.552 3.297-1.23 3.297-1.23.653 1.653.242 2.874.118 3.176.77.84 1.235 1.911 1.235 3.221 0 4.609-2.807 5.624-5.479 5.921.43.372.823 1.102.823 2.222v3.293c0 .319.192.694.801.576C20.566 21.797 24 17.3 24 12c0-6.627-5.373-12-12-12z"/></svg>
+GitHub
+</a>
+</div>
+</div>
+<div class="contact-block">
+<h3>Address</h3>
+<p>
+Institute of Molecular Biology and Biotechnology<br>
+Foundation for Research and Technology - Hellas (FORTH)<br>
+Main Building<br>
+N. Plastira 100, Vassilika Vouton<br>
+70013 Heraklion, Crete, Greece
+</p>
+</div>
 </div>
 
-<div class="col-md-4">
-
-  <h4>Alexandros Pittis, Ph.D.</h4>
-  Group leader (Researcher C)<br>
-  [Institute of Molecular Biology and Biotechnology (IMBB-FORTH)](https://www.imbb.forth.gr/en/research-en/item/7417-alexandros-pittis)<br>
-  Ν. Plastira 100<br>
-  GR - 70013, Heraklion, Crete<br>
-  email: alexandros.pittis [at] imbb.forth.gr <br>
-  email: alexandros.pittis [at] gmail.com <br>
-  tel: +30 2810 39 1024
-
+<div class="contact-map">
+<iframe 
+src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3226.8899772741!2d25.0713!3d35.3097!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x149a5b0369f0c3a3%3A0x2da6f1d2c7c83c0d!2sFORTH%20-%20Foundation%20for%20Research%20and%20Technology%20-%20Hellas!5e1!3m2!1sen!2sgr!4v1700000000000!5m2!1sen!2sgr"
+allowfullscreen="" 
+loading="lazy" 
+referrerpolicy="no-referrer-when-downgrade">
+</iframe>
+<a href="https://maps.app.goo.gl/kEsXLobs46BUQJfG7" target="_blank" class="map-link">
+Open in Google Maps ↗
+</a>
+</div>
 </div>
 
-<!---
-<div class="col-md-4">
+<a href="/" class="section-link" style="margin-top: 2rem;">← Back to home</a>
 
-  <h4> Rebecca Niznak</h4>
-  Executive Business Adminstrator for James Fraser and<br>
-  [Department of Bioengineering and Therapeutic Sciences](http://bts.ucsf.edu)<br>
-  email: rebecca.niznak2 (at) ucsf.edu<br>
-  tel: <br>
-
+</section>
 </div>
--->
-
-</div>
-
-<img class="img-fluid" src="/static/forth_dramatic.jpg" alt="FORTH main building - Copyright: Christos Tsoumplekas">
