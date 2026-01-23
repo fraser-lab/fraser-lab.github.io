@@ -9,7 +9,7 @@ layout: default
 <div class="hero-content">
 <h1>Comparative Genomics Lab @ IMBB-FORTH</h1>
 <p class="hero-intro">
-The <a href="https://www.imbb.forth.gr/en/research/Alexandros-Pittis.62/" target="_blank">CGLab</a>
+<a href="https://www.imbb.forth.gr/en/research/Alexandros-Pittis.62/" target="_blank">CGLab</a>
 is based at the Institute of Molecular Biology and Biotechnology of the Foundation for Research and Technology Hellas
 (<a href="https://www.imbb.forth.gr/" target="_blank">IMBB-FORTH</a>) in Heraklion, Crete. We are part of the
 <a href="https://www.imbb.forth.gr/en/research/lab-Evolution-Development-Cell-Biology.4/" target="_blank">Evolution, Development & Cell Biology</a> division.
@@ -17,7 +17,7 @@ is based at the Institute of Molecular Biology and Biotechnology of the Foundati
 </div>
 <div class="hero-figure">
 <!-- Replace with: <img src="/static/img/logo/hero-visual.png" alt=""> -->
-Your visual here
+<img src="/static/img/logo/4squares.jpg" alt="">
 </div>
 </div>
 </div>
