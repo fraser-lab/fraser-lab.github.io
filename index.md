@@ -7,11 +7,11 @@ layout: default
 <div class="container">
 <div class="hero-inner">
 <div class="hero-content">
-<h1>Comparative Genomics Lab</h1>
+<h1>Comparative Genomics Lab @ IMBB-FORTH</h1>
 <p class="hero-intro">
-The <a href="https://www.imbb.forth.gr/en/research/Alexandros-Pittis.62/" target="_blank">Comparative Genomics Lab</a> 
-is based at the Institute of Molecular Biology and Biotechnology of the Foundation for Research and Technology Hellas 
-(<a href="https://www.imbb.forth.gr/" target="_blank">IMBB-FORTH</a>) in Heraklion, Crete. We are part of the 
+The <a href="https://www.imbb.forth.gr/en/research/Alexandros-Pittis.62/" target="_blank">CGLab</a>
+is based at the Institute of Molecular Biology and Biotechnology of the Foundation for Research and Technology Hellas
+(<a href="https://www.imbb.forth.gr/" target="_blank">IMBB-FORTH</a>) in Heraklion, Crete. We are part of the
 <a href="https://www.imbb.forth.gr/en/research/lab-Evolution-Development-Cell-Biology.4/" target="_blank">Evolution, Development & Cell Biology</a> division.
 </p>
 </div>
@@ -28,7 +28,7 @@ Your visual here
 <h2 class="section-title">Research</h2>
 
 <p class="research-intro">
-We use computational biology, comparative genomics, and single-cell transcriptomics to study questions 
+We use computational biology, comparative genomics, and single-cell transcriptomics to study questions
 on sequence and functional diversity, genome evolution, protein/gene family evolution, and cellular evolution.
 </p>
 
@@ -39,7 +39,7 @@ on sequence and functional diversity, genome evolution, protein/gene family evol
 </div>
 <div class="research-area">
 <h3>Gene Family Evolution</h3>
-<p>Tracing the ancestry and diversification of gene families to understand how molecular functions emerged.</p>
+<p>Tracing the ancestry and diversification of gene families to understand how molecular functions emerged and evolved.</p>
 </div>
 <div class="research-area">
 <h3>Single-Cell Transcriptomics</h3>
@@ -127,12 +127,12 @@ on sequence and functional diversity, genome evolution, protein/gene family evol
 
 <div class="join-content">
 <p>
-We are looking for motivated researchers at all career stages who share 
+We are looking for motivated researchers at all career stages who share
 our interest in evolutionary biology and computational approaches.
 </p>
 
 <ul>
-<li>MSc students through the <a href="https://bioinfo-grad.gr/en/" target="_blank">Bioinformatics</a> 
+<li>MSc students through the <a href="https://bioinfo-grad.gr/en/" target="_blank">Bioinformatics</a>
 and <a href="https://www.imbb.forth.gr/mbb/index.php/en/" target="_blank">MBB</a> programs</li>
 <li>PhD students and Postdoctoral researchers</li>
 <li>Research technicians and visiting scholars</li>
@@ -223,10 +223,10 @@ N. Plastira 100, Vassilika Vouton<br>
 </div>
 
 <div class="contact-map">
-<iframe 
+<iframe
 src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3226.8899772741!2d25.0713!3d35.3097!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x149a5b0369f0c3a3%3A0x2da6f1d2c7c83c0d!2sFORTH%20-%20Foundation%20for%20Research%20and%20Technology%20-%20Hellas!5e1!3m2!1sen!2sgr!4v1700000000000!5m2!1sen!2sgr"
-allowfullscreen="" 
-loading="lazy" 
+allowfullscreen=""
+loading="lazy"
 referrerpolicy="no-referrer-when-downgrade">
 </iframe>
 <a href="https://maps.app.goo.gl/kEsXLobs46BUQJfG7" target="_blank" class="map-link">
