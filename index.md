@@ -27,8 +27,9 @@ is based at the Institute of Molecular Biology and Biotechnology of the Foundati
 <h2 class="section-title">Research</h2>
 
 <p class="research-intro">
-We use computational biology, comparative genomics, and single-cell transcriptomics to study questions
-on sequence and functional diversity, genome evolution, protein/gene family evolution, and cellular evolution.
+Our research is focused on **computational biology**, **comparative genomics** and **single-cell/nucleus transcriptomics** methods to address questions on **sequence** and **functional Diversity**, **genome**, **protein/gene family**, and **cellular Evolution**.
+<!-- We use computational biology, comparative genomics, and single-cell transcriptomics to study questions -->
+<!-- on sequence and functional diversity, genome evolution, protein/gene family evolution, and cellular evolution. -->
 </p>
 
 <div class="research-areas">
