@@ -5,6 +5,9 @@ journal: 'Cell'
 pub_date: '2013-08-15'
 image: '/static/img/pub/2013_braberg.jpg'
 pmid: '23932120'
+tags:
+  - Deep Mutational Scanning
+  - Collaborations
 pmcid: 'PMC3932829'
 pdf: 'http://cdn.fraserlab.com/publications/2013_braberg.pdf'
 links:

@@ -5,6 +5,8 @@ journal: 'Science'
 pub_date: '2019-11-22'
 image: '/static/img/pub/2019_glasgow_huang_mandell.jpg'
 pmid: '31754004'
+tags:
+  - Protein Design
 pmcid: PMC7343396
 biorxiv: '648485'
 pdf: 'http://cdn.fraserlab.com/publications/2019_glasgow_huang_mandell.pdf'

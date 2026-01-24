@@ -5,6 +5,9 @@ pub_date: "2025-01-24" #Date of publication. Change from Biorxiv date to Journal
 journal: "Nucleic Acids Research"
 image: "/static/img/pub/2024_bibel.png"
 pmid: "39907106"
+tags:
+  - Ribosome Structure
+  - Drug Discovery
 pmcid: PMC11795202
 biorxiv: "2024.08.21.609012"
 pdf: "http://cdn.fraserlab.com/publications/2024_bibel.pdf"

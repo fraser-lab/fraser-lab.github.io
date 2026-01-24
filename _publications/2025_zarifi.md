@@ -13,6 +13,9 @@ pdbs:
   - 8FME
   - 8FOS
 pmid: "41027962"
+tags:
+  - Enzyme Mechanism
+  - Protein Design
 pmcid: "PMC12484545"
 pdf: "http://cdn.fraserlab.com/publications/2025_zarifi.pdf"
 links:

@@ -5,6 +5,9 @@ journal: 'Journal of Medicinal Chemistry'
 pub_date: '2018-12-27'
 image: '/static/img/pub/2018_VZ_Hudson.gif'
 pmid: '30457858'
+tags:
+  - Drug Discovery
+  - Computational Modeling Methods
 pmcid: 'PMC6820680'
 biorxiv: '253419'
 pdf: 'http://cdn.fraserlab.com/publications/2018_VZ_Hudson.pdf'

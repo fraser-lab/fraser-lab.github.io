@@ -5,6 +5,9 @@ journal: 'PNAS'
 pub_date: '2019-12-17'
 image: '/static/img/pub/2019_dasgupta.jpg'
 pmid: '31801874'
+tags:
+  - Enzyme Mechanism
+  - Structural Biology Methods
 pmcid: 'PMC6926069'
 biorxiv: '524751'
 pdbs:

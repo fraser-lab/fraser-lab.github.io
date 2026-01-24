@@ -5,6 +5,9 @@ journal: 'Journal of Molecular Biology'
 pub_date: '2016-02-22'
 image: '/static/img/pub/2016_cimermancic.jpg'
 pmid: '26854760'
+tags:
+  - Drug Discovery
+  - Computational Modeling Methods
 pmcid: 'PMC4794384'
 pdf: 'http://cdn.fraserlab.com/publications/2016_cimermancic.pdf'
 links:

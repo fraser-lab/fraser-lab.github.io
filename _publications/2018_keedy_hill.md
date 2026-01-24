@@ -5,6 +5,9 @@ journal: 'eLife'
 pub_date: '2018-06-07'
 image: '/static/img/pub/2018_keedy_hill.jpg'
 pmid: '29877794'
+tags:
+  - Drug Discovery
+  - Protein Dynamics
 pmcid: 'PMC6039181'
 biorxiv: '218966'
 pdf: 'http://cdn.fraserlab.com/publications/2018_keedy_hill.pdf'

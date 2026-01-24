@@ -5,6 +5,8 @@ journal: 'Clinical Cancer Research'
 pub_date: '2020-01-15'
 image: '/static/img/pub/2020_rotow.jpg'
 pmid: '31548343'
+tags:
+  - Collaborations
 pmcid: 'PMC6980768'
 biorxiv: '374181'
 pdf: 'http://cdn.fraserlab.com/publications/2020_rotow.pdf'

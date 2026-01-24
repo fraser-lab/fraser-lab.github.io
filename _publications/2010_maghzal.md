@@ -5,6 +5,8 @@ journal: 'Journal of Cell Biology'
 pub_date: '2010-11-01'
 image: '/static/img/pub/2010_magzhal_vogt.jpg'
 pmid: '20974811'
+tags:
+  - Collaborations
 pmcid: 'PMC3003323'
 pdf: 'http://cdn.fraserlab.com/publications/2010_magzhal_vogt.pdf'
 links:

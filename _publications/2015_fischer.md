@@ -5,6 +5,9 @@ journal: 'ChemBioChem'
 pub_date: '2015-07-27'
 image: '/static/img/pub/2015_fischer.jpg'
 pmid: '26032594'
+tags:
+  - Protein Dynamics
+  - Drug Discovery
 pmcid: 'PMC4539595'
 pdf: 'http://cdn.fraserlab.com/publications/2015_fischer.pdf'
 pdbs:

@@ -5,6 +5,8 @@ journal: 'Science'
 pub_date: '2020-10-15'
 image: '/static/img/pub/2020_gordonII.jpg'
 pmid: '33060197'
+tags:
+  - Collaborations
 pmcid: 'PMC7808408'
 pdf: 'http://cdn.fraserlab.com/publications/2020_gordon2.pdf'
 paired_maps_and_models:

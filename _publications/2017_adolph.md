@@ -5,6 +5,8 @@ journal: 'Nucleic Acids Research'
 pub_date: '2017-04-07'
 image: '/static/img/pub/2017_adolph.jpg'
 pmid: '28158858'
+tags:
+  - Collaborations
 pmcid: 'PMC5389708'
 pdf: 'http://cdn.fraserlab.com/publications/2017_adolph.pdf'
 links:

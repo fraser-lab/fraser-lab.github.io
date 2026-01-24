@@ -4,6 +4,9 @@ authors: "**Wankowicz SA, Fraser JS**"
 journal: 'Computational Crystallography Newsletter'
 pub_date: '2020-01-01'
 image: '/static/img/pub/2020_wankowicz.png'
+tags:
+  - Structural Biology Methods
+  - Computational Modeling Methods
 # pmid: '########'
 # pmcid: 'PMC#######'
 # biorxiv: 'YYYY.MM.DD.######'

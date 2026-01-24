@@ -5,6 +5,9 @@ journal: "Journal of Medicinal Chemistry"
 pub_date: "2025-12-17"
 image: "/static/img/pub/2025_jaishankar.jpg"
 pmid: "41406955"
+tags:
+  - Macrodomain
+  - Drug Discovery
 pmcid: #"PMC#######"
 biorxiv: "2025.10.11.681833"
 pdf: "http://cdn.fraserlab.com/publications/2025_jaishankar.pdf"

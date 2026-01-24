@@ -5,6 +5,9 @@ authors: "MacDermott-Opeskin H, Scheen J, Wognum C, Horton JT, West D, Payne AM,
 chemrxiv: "2025-zd9mr"
 pub_date: "2025-07-25" #Date of publication. Change from Biorxiv date to Journal date once accepted
 image: "/static/img/pub/2025_challenge.png"
+tags:
+  - Drug Discovery
+  - Computational Modeling Methods
 # pmcid: ""
 # pdf: ""
 links:

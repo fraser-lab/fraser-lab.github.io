@@ -5,6 +5,8 @@ journal: 'Nature Communications'
 pub_date: '2016-03-07'
 image: '/static/img/pub/2016_meyer.jpg'
 pmid: '26947396'
+tags:
+  - Scientific Community
 pmcid: 'PMC4786681'
 data:
 - '10.15785/SBGRID/68'

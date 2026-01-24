@@ -5,6 +5,8 @@ journal: "Genome Biology"
 pub_date: "2023-02-24"
 image: "/static/img/pub/2022_macdonald.png"
 pmid: "36829241"
+tags:
+  - Deep Mutational Scanning
 pmcid: "PMC9951526"
 biorxiv: "2022.07.26.501589"
 pdf: "http://cdn.fraserlab.com/publications/2022_macdonald.pdf"

@@ -5,6 +5,8 @@ journal: 'Nature'
 pub_date: '2009-12-03'
 image: '/static/img/pub/2009_fraser.jpg'
 pmid: '19956261'
+tags:
+  - Protein Dynamics
 pmcid: 'PMC2805857'
 pdf: 'http://cdn.fraserlab.com/publications/2009_fraser.pdf'
 pdbs:

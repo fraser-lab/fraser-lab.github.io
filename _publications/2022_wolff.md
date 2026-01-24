@@ -5,6 +5,9 @@ journal: "Nature Chemistry"
 pub_date: "2023-09-18"
 image: "/static/img/pub/2022_wolff.png"
 pmid: "37723259"
+tags:
+  - Protein Dynamics
+  - Structural Biology Methods
 pmcid: "PMC10624634"
 biorxiv: "2022.06.10.495662"
 pdf: "http://cdn.fraserlab.com/publications/2022_wolff.pdf"

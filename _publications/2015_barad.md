@@ -5,6 +5,8 @@ journal: 'Nature Methods'
 pub_date: '2015-08-17'
 image: '/static/img/pub/2015_barad.jpg'
 pmid: '26280328'
+tags:
+  - Structural Biology Methods
 pmcid: 'PMC4589481'
 biorxiv: '014738'
 pdf: 'http://cdn.fraserlab.com/publications/2015_barad.pdf'

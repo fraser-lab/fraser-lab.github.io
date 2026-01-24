@@ -5,6 +5,8 @@ authors: "Batra J, Rutkowska M, Zhou Y, Ye C, Adavikolanu R, Young JM, Anand D, 
 biorxiv: "2025.07.26.666918"
 pub_date: "2025-07-28" #Date of publication. Change from Biorxiv date to Journal date once accepted
 image: "/static/img/pub/2025_batra.png"
+tags:
+  - Collaborations
 # pmid: ""
 # pmcid: ""
 # pdf: ""

@@ -4,6 +4,9 @@ authors: "**Greene ER**, Muniz R, **Yamamura H**, **Bajaj P, Lee DJ, Thompson EM
 # journal: #""
 pub_date: "2025-07-04"
 image: "/static/img/pub/2025_greene.jpg"
+tags:
+  - Enzyme Mechanism
+  - Structural Biology Methods
 # pmid: #""
 # pmcid: #""
 biorxiv: "2025.07.04.663231"

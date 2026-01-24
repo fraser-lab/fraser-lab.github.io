@@ -5,6 +5,9 @@ journal:
 pub_date: '2018-10-20'
 image: '/static/img/pub/2018_babcock.jpg'
 biorxiv: '448795'
+tags:
+  - Structural Biology Methods
+  - Computational Modeling Methods
 pdf: 'http://cdn.fraserlab.com/publications/2018_babcock.pdf'
 links:
 - name: David Sivak @ Simon Fraser University

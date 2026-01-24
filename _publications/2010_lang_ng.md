@@ -5,6 +5,9 @@ journal: 'Protein Science'
 pub_date: '2010-06-23'
 image: '/static/img/pub/2010_lang_ng.jpg'
 pmid: '20499387'
+tags:
+  - Protein Dynamics
+  - Structural Biology Methods
 pmcid: 'PMC2974833'
 pdf: 'http://cdn.fraserlab.com/publications/2010_lang_ng.pdf'
 links:

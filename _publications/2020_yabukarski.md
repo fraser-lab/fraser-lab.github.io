@@ -5,6 +5,9 @@ journal: 'PNAS'
 pub_date: '2020-12-29'
 image: '/static/img/pub/2020_yabukarski.jpg'
 pmid: '33376217'
+tags:
+  - Enzyme Mechanism
+  - Protein Dynamics
 pmcid: 'PMC7776779'
 biorxiv: '786327'
 pdf: 'http://cdn.fraserlab.com/publications/2020_yabukarski.pdf'

@@ -5,6 +5,9 @@ journal: 'PNAS'
 pub_date: '2014-01-28'
 image: '/static/img/pub/2014_fenwick.jpg'
 pmid: '24474795'
+tags:
+  - Protein Dynamics
+  - Structural Biology Methods
 pmcid: 'PMC3910589'
 pdf: 'http://cdn.fraserlab.com/publications/2014_fenwick.pdf'
 pdbs:

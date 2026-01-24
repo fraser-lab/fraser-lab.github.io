@@ -5,6 +5,9 @@ journal: "Biochemical Society Transactions"
 pub_date: "2021-04-16"
 image: "/static/img/pub/2021_linossi.jpg"
 pmid: "33860789"
+tags:
+  - Collaborations
+  - Structural Biology Methods
 pmcid: "PMC8711257"
 pdf: "http://cdn.fraserlab.com/publications/2021_linossi.pdf"
 links:

@@ -5,6 +5,9 @@ journal: 'Nucleic Acids Research'
 pub_date: '2020-03-18'
 image: '/static/img/pub/2020_stojkovic.jpg'
 pmid: '31989172'
+tags:
+  - Ribosome Structure
+  - Structural Biology Methods
 pmcid: 'PMC7049716'
 biorxiv: '695429'
 pdf: 'http://cdn.fraserlab.com/publications/2020_stojkovic.pdf'

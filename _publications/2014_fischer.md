@@ -5,6 +5,9 @@ journal: "Nature Chemistry"
 pub_date: "2014-05-25"
 image: "/static/img/pub/2014_fischer_coleman.jpg"
 pmid: "24950326"
+tags:
+  - Drug Discovery
+  - Computational Modeling Methods
 pmcid: "PMC4144196"
 pdf: "http://cdn.fraserlab.com/publications/2014_fischer_coleman.pdf"
 pdbs:

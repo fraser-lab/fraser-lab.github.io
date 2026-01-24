@@ -5,6 +5,9 @@ journal: eLife
 pub_date: "2025-06-30"
 image: "/static/img/pub/2024_flowers.jpg" 
 pmid: "40586518"
+tags:
+  - Structural Biology Methods
+  - Drug Discovery
 pmcid: "PMC12208665"
 pdbs:
   - "7HHS"

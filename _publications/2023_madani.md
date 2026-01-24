@@ -5,6 +5,9 @@ journal: "Nature Biotechnology"
 pub_date: '2023-01-26'
 image: "/static/img/pub/2021_madani.gif"
 pmid: "36702895"
+tags:
+  - Protein Design
+  - Computational Modeling Methods
 pmcid: "PMC10400306"
 biorxiv: "2021.07.18.452833"
 pdf: "http://cdn.fraserlab.com/publications/2023_madani.pdf"

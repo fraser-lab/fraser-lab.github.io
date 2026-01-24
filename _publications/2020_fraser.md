@@ -5,6 +5,9 @@ journal: 'Journal of Chemical Information and Modeling'
 pub_date: '2020-02-24'
 image: '/static/img/pub/2020_fraser.jpg'
 pmid: '32090567'
+tags:
+  - Scientific Community
+  - Computational Modeling Methods
 pmcid: 'PMC8561786'
 arxiv: '2002.00151'
 pdf: 'http://cdn.fraserlab.com/publications/2020_fraser.pdf'

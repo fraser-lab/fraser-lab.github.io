@@ -6,6 +6,9 @@ pub_date: "2021-04-14"
 image: "/static/img/pub/2020_schuller_correy_gahbauer_fearon.jpg"
 pdf: "https://fraserlab.com/macrodomain/"
 pmid: "33853786"
+tags:
+  - Macrodomain
+  - Drug Discovery
 pmcid: "PMC8046379"
 biorxiv: "2020.11.24.393405"
 pdf: "http://cdn.fraserlab.com/publications/2021_schuller_correy_gahbauer_fearon.pdf"

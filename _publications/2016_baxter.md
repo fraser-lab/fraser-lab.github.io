@@ -5,6 +5,8 @@ journal: 'Acta Crystallographica D'
 pub_date: '2016-01-01'
 image: '/static/img/pub/2016_baxter.gif'
 pmid: '26894529'
+tags:
+  - Structural Biology Methods
 pmcid: 'PMC4756618'
 pdf: 'http://cdn.fraserlab.com/publications/2016_baxter.pdf'
 links:

@@ -5,6 +5,8 @@ journal: 'Acta Crystallographica D'
 pub_date: '2015-08-01'
 image: '/static/img/pub/2015_urzhumtsev.jpg'
 pmid: '26249348'
+tags:
+  - Structural Biology Methods
 pmcid: 'PMC4528800'
 biorxiv: '012930'
 pdf: 'http://cdn.fraserlab.com/publications/2015_urzhumtsev.pdf'

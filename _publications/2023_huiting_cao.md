@@ -5,6 +5,8 @@ journal: "Cell"
 pub_date: "2023-02-06"
 image: "/static/img/pub/2023_huiting_cao.jpg"
 pmid: "36750095"
+tags:
+  - Collaborations
 pmcid: "PMC9975087"
 biorxiv: "2022.03.30.486325"
 pdf: "http://cdn.fraserlab.com/publications/2023_huiting_cao.pdf"

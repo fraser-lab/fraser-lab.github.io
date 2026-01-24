@@ -5,6 +5,10 @@ journal: "Journal of Chemical Information and Modeling"
 pub_date: "2026-01-21"
 image: "/static/img/pub/2025_herasymenko.jpg"
 pmid: 41565251
+tags:
+  - Macrodomain
+  - Drug Discovery
+  - Collaborations
 # pmcid: #""
 chemrxiv: "2025-d1v7v"
 pdf: "http://cdn.fraserlab.com/publications/2025_herasymenko.pdf"

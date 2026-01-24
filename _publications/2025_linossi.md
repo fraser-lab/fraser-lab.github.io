@@ -5,6 +5,8 @@ journal: "Biochemical Journal"
 pub_date: "2025-12-11"
 image: "/static/img/pub/2025_linossi.jpg"
 pmid: "41383124"
+tags:
+  - Collaborations
 pmcid: #"PMC#######"
 pdf: "http://cdn.fraserlab.com/publications/2025_linossi.pdf"
 biorxiv: "2025.10.19.683305"

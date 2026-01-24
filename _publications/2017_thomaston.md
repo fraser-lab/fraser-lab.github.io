@@ -5,6 +5,9 @@ journal: 'PNAS'
 pub_date: '2017-12-19'
 image: '/static/img/pub/2017_thomaston.jpg'
 pmid: '28835537'
+tags:
+  - Structural Biology Methods
+  - Drug Discovery
 pmcid: 'PMC5754760'
 pdf: 'http://cdn.fraserlab.com/publications/2017_thomaston.pdf'
 pdbs:

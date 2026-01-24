@@ -5,6 +5,8 @@ journal: 'Cell'
 pub_date: '2012-07-20'
 image: '/static/img/pub/2012_beltrao.png'
 pmid: '22817900'
+tags:
+  - Collaborations
 pmcid: 'PMC3404735'
 pdf: 'http://cdn.fraserlab.com/publications/2012_beltrao.pdf'
 links:

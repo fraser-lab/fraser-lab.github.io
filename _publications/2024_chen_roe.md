@@ -4,7 +4,9 @@ authors: "**Chen DF&#42;**, **Roe LT&#42;**, Li Y, Borges AL, Zhang JY, Babbar P
 journal: mBio 
 pub_date: "2025-08-14"
 image: "/static/img/pub/2024_chen_roe.jpg"
-pmid: "40810510" 
+pmid: "40810510"
+tags:
+  - Collaborations
 pmcid: "PMC12421852"
 #biorxiv:
 biorxiv: "2024.08.26.609590"

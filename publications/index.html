@@ -4,13 +4,70 @@ layout: default
 group: publications
 ---
 <h1>Publications</h1>
+
+<div class="pub-filters" style="margin-bottom: 20px;">
+	<div style="margin-bottom: 10px;">
+		<strong>Filter:</strong>
+		<button class="btn btn-sm btn-outline-primary pub-filter active" data-filter="all">All Publications</button>
+		<button class="btn btn-sm btn-outline-primary pub-filter" data-filter="key">Key Publications</button>
+	</div>
+	<div id="tag-filters" style="display: none;">
+		<strong>Topics:</strong>
+		<button class="btn btn-sm btn-outline-secondary tag-filter" data-tag="Scientific Community">Scientific Community</button>
+		<button class="btn btn-sm btn-outline-secondary tag-filter" data-tag="Macrodomain">Macrodomain</button>
+		<button class="btn btn-sm btn-outline-secondary tag-filter" data-tag="Drug Discovery">Drug Discovery</button>
+		<button class="btn btn-sm btn-outline-secondary tag-filter" data-tag="Protein Dynamics">Protein Dynamics</button>
+		<button class="btn btn-sm btn-outline-secondary tag-filter" data-tag="Enzyme Mechanism">Enzyme Mechanism</button>
+		<button class="btn btn-sm btn-outline-secondary tag-filter" data-tag="Structural Biology Methods">Structural Biology Methods</button>
+		<button class="btn btn-sm btn-outline-secondary tag-filter" data-tag="Computational Modeling Methods">Computational Modeling Methods</button>
+		<button class="btn btn-sm btn-outline-secondary tag-filter" data-tag="Deep Mutational Scanning">Deep Mutational Scanning</button>
+		<button class="btn btn-sm btn-outline-secondary tag-filter" data-tag="Ribosome Structure">Ribosome Structure</button>
+		<button class="btn btn-sm btn-outline-secondary tag-filter" data-tag="Chitinases">Chitinases</button>
+		<button class="btn btn-sm btn-outline-secondary tag-filter" data-tag="Protein Design">Protein Design</button>
+		<button class="btn btn-sm btn-outline-secondary tag-filter" data-tag="Collaborations">Collaborations</button>
+	</div>
+</div>
+
 <div class="container-fluid">
 
 {% assign sorted = site.publications | sort: "pub_date" | reverse %}
 {% for publication in sorted %}
 
-<hr>
-<div class="row" style="padding-top: 60px; margin-top: -60px;" id="{{publication.pmid}}">
+{% comment %}
+Determine if Fraser JS is first or last author by checking author string
+{% endcomment %}
+{% assign is_first_author = false %}
+{% assign is_last_author = false %}
+{% assign authors_str = publication.authors %}
+
+{% comment %}Check if Fraser JS appears at the start (first author){% endcomment %}
+{% assign first_check = authors_str | slice: 0, 12 %}
+{% if first_check == "**Fraser JS**" or authors_str contains "**Fraser JS&#42;" and authors_str == authors_str %}
+	{% assign author_start = authors_str | split: "," | first %}
+	{% if author_start contains "Fraser JS" %}
+		{% assign is_first_author = true %}
+	{% endif %}
+{% endif %}
+
+{% comment %}Check if Fraser JS appears at the end (last author){% endcomment %}
+{% assign author_end = authors_str | split: "," | last %}
+{% if author_end contains "Fraser JS" %}
+	{% assign is_last_author = true %}
+{% endif %}
+
+{% assign is_key = false %}
+{% if is_first_author or is_last_author %}
+	{% assign is_key = true %}
+{% endif %}
+
+{% comment %}Build tags string for data attribute{% endcomment %}
+{% assign tags_str = "" %}
+{% if publication.tags %}
+	{% assign tags_str = publication.tags | join: "," %}
+{% endif %}
+
+<hr class="pub-entry" data-key="{{is_key}}" data-tags="{{tags_str}}">
+<div class="row pub-entry" style="padding-top: 60px; margin-top: -60px;" id="{{publication.pmid}}" data-key="{{is_key}}" data-tags="{{tags_str}}">
 	<div>
 		<h5>{{ publication.title | markdownify  | remove: '<p>' | remove: '</p>'}}</h5>
 		<h6>{{ publication.authors | markdownify | remove: '<p>' | remove: '</p>' }}</h6>
@@ -35,7 +92,7 @@ group: publications
 	</div>
 </div>
 
-<div class="row" style="padding-top: 20px; margin-top: -20px">
+<div class="row pub-entry" style="padding-top: 20px; margin-top: -20px" data-key="{{is_key}}" data-tags="{{tags_str}}">
 	<div class="col-sm-6">
 		<img class = "img-fluid" src = "{{publication.image}}" alt =  "Key Figure" style="max-height: 200px;" loading="lazy" decoding="async">
 	</div>
@@ -195,6 +252,95 @@ group: publications
 		{% endif %}
 	</ul>
 </div>
-<br>
+<br class="pub-entry" data-key="{{is_key}}" data-tags="{{tags_str}}">
 {% endfor %}
 </div>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+	var currentFilter = 'all';
+	var currentTag = null;
+
+	// Main filter buttons (All vs Key)
+	document.querySelectorAll('.pub-filter').forEach(function(btn) {
+		btn.addEventListener('click', function() {
+			document.querySelectorAll('.pub-filter').forEach(function(b) {
+				b.classList.remove('active');
+			});
+			this.classList.add('active');
+			currentFilter = this.getAttribute('data-filter');
+
+			// Show/hide tag filters based on selection
+			var tagFilters = document.getElementById('tag-filters');
+			if (currentFilter === 'all') {
+				tagFilters.style.display = 'block';
+			} else {
+				tagFilters.style.display = 'none';
+				currentTag = null;
+				document.querySelectorAll('.tag-filter').forEach(function(b) {
+					b.classList.remove('active');
+				});
+			}
+
+			applyFilters();
+		});
+	});
+
+	// Tag filter buttons
+	document.querySelectorAll('.tag-filter').forEach(function(btn) {
+		btn.addEventListener('click', function() {
+			if (this.classList.contains('active')) {
+				this.classList.remove('active');
+				currentTag = null;
+			} else {
+				document.querySelectorAll('.tag-filter').forEach(function(b) {
+					b.classList.remove('active');
+				});
+				this.classList.add('active');
+				currentTag = this.getAttribute('data-tag');
+			}
+			applyFilters();
+		});
+	});
+
+	function applyFilters() {
+		document.querySelectorAll('.pub-entry').forEach(function(entry) {
+			var isKey = entry.getAttribute('data-key') === 'true';
+			var tags = entry.getAttribute('data-tags') || '';
+			var show = true;
+
+			// Apply main filter
+			if (currentFilter === 'key' && !isKey) {
+				show = false;
+			}
+
+			// Apply tag filter (only when in 'all' mode)
+			if (show && currentFilter === 'all' && currentTag) {
+				if (tags.indexOf(currentTag) === -1) {
+					show = false;
+				}
+			}
+
+			entry.style.display = show ? '' : 'none';
+		});
+	}
+
+	// Show tag filters by default when viewing all
+	document.getElementById('tag-filters').style.display = 'block';
+});
+</script>
+
+<style>
+.pub-filters .btn {
+	margin: 2px;
+}
+.pub-filters .btn.active {
+	background-color: #052049;
+	color: white;
+	border-color: #052049;
+}
+.tag-filter.active {
+	background-color: #6c757d;
+	color: white;
+}
+</style>

@@ -5,6 +5,8 @@ journal: 'IUCrJ'
 pub_date: '2020-02-26'
 image: '/static/img/pub/2020_wolff.jpg'
 pmid: '32148858'
+tags:
+  - Structural Biology Methods
 pmcid: "PMC7055375"
 biorxiv: "767061"
 pdf: 'http://cdn.fraserlab.com/publications/2020_wolff.pdf'

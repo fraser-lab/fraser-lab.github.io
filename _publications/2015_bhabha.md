@@ -5,6 +5,9 @@ journal: 'Accounts of Chemical Research'
 pub_date: '2015-02-17'
 image: '/static/img/pub/2015_bhabha.jpg'
 pmid: '25539415'
+tags:
+  - Protein Dynamics
+  - Enzyme Mechanism
 pmcid: 'PMC4334266'
 pdf: 'http://cdn.fraserlab.com/publications/2015_bhabha.pdf'
 links:

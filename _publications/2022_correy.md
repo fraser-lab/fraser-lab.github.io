@@ -5,6 +5,9 @@ journal: "Science Advances"
 pub_date: '2022-05-27'
 image: '/static/img/pub/2022_correy.png'
 pmid: "35622909"
+tags:
+  - Macrodomain
+  - Structural Biology Methods
 pmcid: "PMC9140965"
 biorxiv: '2022.02.07.479477'
 pdf: "http://cdn.fraserlab.com/publications/2022_correy.pdf"

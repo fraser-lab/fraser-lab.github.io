@@ -3,7 +3,9 @@ title: "AlphaFold3 Transparency and Reproducibility"
 authors: "**Wankowicz SA**, Beltrao P, Cravatt B, Dunbrack R, Gitter A, Lindorff-Larsen K, Ovchinnikov S, Polizzi N, Shoichet B, **Fraser JS**"
 pub_date: "2024-04-11"
 image: "/static/img/pub/2024_wankowicz.png"
-pmid: 
+pmid:
+tags:
+  - Scientific Community 
 pmcid: 
 doi: "10.5281/zenodo.11179893"
 pdf: 

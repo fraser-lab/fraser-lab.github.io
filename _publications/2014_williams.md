@@ -5,6 +5,9 @@ journal: 'Cell Host and Microbe'
 pub_date: '2014-10-08'
 image: '/static/img/pub/2014_williams.jpg'
 pmid: '25263219'
+tags:
+  - Enzyme Mechanism
+  - Collaborations
 pmcid: 'PMC4260654'
 pdf: 'http://cdn.fraserlab.com/publications/2014_williams.pdf'
 pdbs:

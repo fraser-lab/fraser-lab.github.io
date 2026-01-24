@@ -4,6 +4,8 @@ authors: "Bardossy ES&#42;, **Bergmann L&#42;**, Henrion-Lacritick A, Nigg J, **
 #journal: #"" #Leave blank until accepted at journal
 pub_date: "2025-10-09"
 image: "/static/img/pub/2025_bardossy.jpg"
+tags:
+  - Macrodomain
 #pmid: #""
 #pmcid: #""
 biorxiv: "2025.10.09.681498"

@@ -5,6 +5,8 @@ journal: 'Molecular Microbiology'
 pub_date: '2007-07-03'
 image: '/static/img/pub/2007_fraser_1.jpg'
 pmid: '17573816'
+tags:
+  - Protein Dynamics
 pmcid: 'PMC1974792'
 pdf: 'http://cdn.fraserlab.com/publications/2007_fraser_1.pdf'
 pdbs:

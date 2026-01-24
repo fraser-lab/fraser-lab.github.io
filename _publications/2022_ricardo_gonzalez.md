@@ -5,6 +5,8 @@ journal: "Immunity"
 pub_date: "2022-10-11"
 image: "/static/img/pub/2021_ricardo_gonzalez.png"
 pmid: "36044899"
+tags:
+  - Collaborations
 pmcid: "PMC9561030"
 biorxiv: "2021.03.29.437438"
 pdf: "http://cdn.fraserlab.com/publications/2022_ricardo_gonzalez.pdf"

@@ -5,6 +5,9 @@ journal: 'ACS Central Science'
 pub_date: '2017-06-28'
 image: '/static/img/pub/2017_offenbacher.jpg'
 pmid: '28691068'
+tags:
+  - Enzyme Mechanism
+  - Protein Dynamics
 pmcid: 'PMC5492416'
 pdf: 'http://cdn.fraserlab.com/publications/2017_offenbacher.pdf'
 pdbs:

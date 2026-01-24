@@ -1,10 +1,13 @@
 ---
 title: "Extensive exploration of structure activity relationships for the SARS-CoV-2 macrodomain from shape-based fragment merging and active learning"
 authors: "**Correy GJ&#42;**, Rachman MM&#42;, Togo T, Gahbauer S, Doruk YU, Stevens MGV, Jaishankar P, Kelley B, Goldman B, Schmidt M, Kramer T, Ashworth A, Riley P, Shoichet BK, Renslo AR, Walters WP, **Fraser JS**"
-journal: "Science Advances" 
+journal: "Science Advances"
 pub_date: "2025-05-30"
 image: "/static/img/pub/2024_correy.jpg"
 pmid: 40435250
+tags:
+  - Macrodomain
+  - Drug Discovery
 pmcid: "PMC12118597"
 #biorxiv:
 biorxiv: "2024.08.25.609621"

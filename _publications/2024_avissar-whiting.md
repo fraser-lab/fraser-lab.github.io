@@ -4,6 +4,8 @@ authors: "Avissar-Whiting M, Belliard F, Bertozzi SM, Brand A, Brown K, Clément
 journal: "PLOS Biology"
 pub_date: "2024-02-29"
 pmid: "38421949"
+tags:
+  - Scientific Community
 pmcid: "PMC10903809"
 osf: "cht8p"
 image: "/static/img/pub/2023_avissar-whiting.png"

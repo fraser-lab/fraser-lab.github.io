@@ -5,6 +5,9 @@ journal: 'JACS'
 pub_date: '2017-08-30'
 image: '/static/img/pub/2017_acker.jpg'
 pmid: '28759216'
+tags:
+  - Drug Discovery
+  - Protein Dynamics
 pmcid: 'PMC6089631'
 pdf: 'http://cdn.fraserlab.com/publications/2017_acker.pdf'
 pdbs:

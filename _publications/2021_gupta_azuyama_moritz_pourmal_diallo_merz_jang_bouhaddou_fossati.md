@@ -4,6 +4,9 @@ authors: "Gupta M&#42;, Azumaya CM&#42;, Moritz M&#42;, Pourmal S&#42;, Diallo A
 journal: #"Journal Name"
 pub_date: '2021-05-10'
 image: "/static/img/pub/2021_gupta_azuyama_moritz_pourmal_diallo_merz_jang_bouhaddou_fossati.jpg"
+tags:
+  - Collaborations
+  - Structural Biology Methods
 pmid: #"######"
 pmcid:
 biorxiv:

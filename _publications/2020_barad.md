@@ -5,6 +5,9 @@ journal: 'Protein Science'
 pub_date: '2020-01-12'
 image: '/static/img/pub/2020_barad.jpg'
 pmid: '31930591'
+tags:
+  - Chitinases
+  - Enzyme Mechanism
 pmcid: 'PMC7096708'
 biorxiv: '762336'
 pdf: 'http://cdn.fraserlab.com/publications/2020_barad.pdf'

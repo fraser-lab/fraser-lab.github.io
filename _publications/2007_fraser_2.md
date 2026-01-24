@@ -5,6 +5,8 @@ journal: 'Current Opinion in Microbiology'
 pub_date: '2007-08-01'
 image: '/static/img/pub/2007_fraser_2.jpg'
 pmid: '17765600'
+tags:
+  - Protein Design
 pdf: 'http://cdn.fraserlab.com/publications/2007_fraser_2.pdf'
 links:
 - name: Davidson lab @ University of Toronto

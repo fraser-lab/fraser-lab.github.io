@@ -5,6 +5,8 @@ journal: 'Cell Reports'
 pub_date: '2019-08-27'
 image: '/static/img/pub/2019_chatterjee_pazarentzos.jpg'
 pmid: '31461649'
+tags:
+  - Collaborations
 pmcid: 'PMC6728083'
 biorxiv: '441295'
 pdf: 'http://cdn.fraserlab.com/publications/2019_chatterjee_pazarentzos.pdf'

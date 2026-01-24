@@ -5,6 +5,9 @@ journal: 'Nature Communications'
 pub_date: '2018-04-03'
 image: '/static/img/pub/2018_otten_liu.jpg'
 pmid: '29615624'
+tags:
+  - Enzyme Mechanism
+  - Protein Dynamics
 pmcid: 'PMC5883053'
 biorxiv: '185009'
 pdf: 'http://cdn.fraserlab.com/publications/2018_otten_liu.pdf'
