@@ -127,19 +127,11 @@ Our research is focused on **computational biology**, **comparative genomics** a
 
 <div class="join-content">
 <p>
-We are looking for motivated researchers at all career stages who share
-our interest in evolutionary biology and computational approaches.
+We are always interested in motivated people at all career stages who share our interest in evolutionary and computational approaches.
 </p>
 
-<ul>
-<li>MSc students through the <a href="https://bioinfo-grad.gr/en/" target="_blank">Bioinformatics</a>
-and <a href="https://www.imbb.forth.gr/mbb/index.php/en/" target="_blank">MBB</a> programs</li>
-<li>PhD students and Postdoctoral researchers</li>
-<li>Research technicians and visiting scholars</li>
-</ul>
-
 <p>
-Contact <a href="#contact">Alexandros Pittis</a> with your CV and research interests.
+If interested contact <a href="#contact">Alexandros Pittis</a> with a short CV and research interests.
 </p>
 </div>
 
