@@ -16,6 +16,9 @@ is based at the Institute of Molecular Biology and Biotechnology of the Foundati
 </p>
 </div>
 <div class="hero-figure">
+<img src="/static/img/logo/4squares.jpg" alt="Comparative Genomics" onerror="this.style.display='none'; this.parentElement.innerHTML='Add image:<br>/static/img/logo/<br>4squares.jpg';">
+</div>
+<div class="hero-figure">
 <!-- Replace with: <img src="/static/img/logo/hero-visual.png" alt=""> -->
 <img src="/static/img/logo/4squares.jpg" alt="">
 </div>
