@@ -2,8 +2,8 @@
 name: Alexandros Pittis
 startdate: 2024-01-01
 position: Group Leader
-image: /static/img/members/pittis.jpg
-altimage: /static/img/members/pittis_alt.jpg
+image: /static/img/members/apittis.jpg
+altimage: /static/img/members/apittis_alt.jpg
 email: alexandros.pittis [at] imbb.forth.gr
 orcid: 0000-0003-4116-9972
 scholar: YbX4E3cAAAAJ
@@ -11,7 +11,7 @@ github: alxndrsPittis
 twitter:
 website: https://imbb.forth.gr/en/research/Alexandros-Pittis.62/
 description: |
-  Alexandros Pittis is a Group Leader at IMBB-FORTH. His research focuses on the evolutionary origins of eukaryotic cells and the deep history of life, using comparative genomics and computational approaches.
+  I am interested in understanding how biological complexity emerges and which genetic changes underlie it. Genome fusion, lateral gene transfers, gene duplications and functional diversification, all continuously generate new material for selection and innovation, and have contributed to major shifts in evolution such as the emergence of complex eukaryotic cells, multicellularity, neural system and behavior. To gain insights, in the lab we use sequence diversity approaches, genome comparisons, we thoroughly study how key genes evolve via phylogenetic analyses, and integrate functional information coming from experimental and computational sources. I try and enjoy to approach questions by combining perspectives and methods, and by looking for connections across different levels of biological organization.
 
 - Biology degree **University of Athens (NKUA), Athens, Greece**
 
@@ -27,9 +27,9 @@ description: |
 
 - Postdoctoral Researcher (*Arendt lab*) **European Molecular Biology Laboratory (EMBL), Heidelberg, Germany**
 
-- Principal Investigator HFRI **University of Athens (NKUA), Athens, Greece**
+- Principal Investigator HFRI (hosted by *Diallinas lab*) **University of Athens (NKUA), Athens, Greece**
 
-- Group Leader **Institute of Molecular Biology and Biotechnology (IMBB-FORTH), Heraklion, Crete**
+- Group Leader (*CGLab*) **Institute of Molecular Biology and Biotechnology (IMBB-FORTH), Heraklion, Crete**
 ---
 
 ## Research Interests
