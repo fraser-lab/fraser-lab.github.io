@@ -13,18 +13,9 @@ group: publications
 	</div>
 	<div id="tag-filters" style="display: none;">
 		<strong>Topics:</strong>
-		<button class="btn btn-sm btn-outline-secondary tag-filter" data-tag="Scientific Community">Scientific Community</button>
-		<button class="btn btn-sm btn-outline-secondary tag-filter" data-tag="Macrodomain">Macrodomain</button>
-		<button class="btn btn-sm btn-outline-secondary tag-filter" data-tag="Drug Discovery">Drug Discovery</button>
-		<button class="btn btn-sm btn-outline-secondary tag-filter" data-tag="Protein Dynamics">Protein Dynamics</button>
-		<button class="btn btn-sm btn-outline-secondary tag-filter" data-tag="Enzyme Mechanism">Enzyme Mechanism</button>
-		<button class="btn btn-sm btn-outline-secondary tag-filter" data-tag="Structural Biology Methods">Structural Biology Methods</button>
-		<button class="btn btn-sm btn-outline-secondary tag-filter" data-tag="Computational Modeling Methods">Computational Modeling Methods</button>
-		<button class="btn btn-sm btn-outline-secondary tag-filter" data-tag="Deep Mutational Scanning">Deep Mutational Scanning</button>
-		<button class="btn btn-sm btn-outline-secondary tag-filter" data-tag="Ribosome Structure">Ribosome Structure</button>
-		<button class="btn btn-sm btn-outline-secondary tag-filter" data-tag="Chitinases">Chitinases</button>
-		<button class="btn btn-sm btn-outline-secondary tag-filter" data-tag="Protein Design">Protein Design</button>
-		<button class="btn btn-sm btn-outline-secondary tag-filter" data-tag="Collaborations">Collaborations</button>
+		{% for tag in site.data.publication_tags %}
+		<button class="btn btn-sm btn-outline-secondary tag-filter" data-tag="{{ tag.name }}">{{ tag.name }}</button>
+		{% endfor %}
 	</div>
 </div>
 
