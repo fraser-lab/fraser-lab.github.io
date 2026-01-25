@@ -11,7 +11,7 @@ group: join
 
 <div class="join-content">
 <p>
-We are looking for motivated researchers at all career stages who share 
+We are looking for motivated researchers at all career stages who share
 our interest in evolutionary biology and computational approaches.
 </p>
 
@@ -20,7 +20,7 @@ our interest in evolutionary biology and computational approaches.
 <p>We are currently recruiting:</p>
 
 <ul>
-<li><strong>MSc students</strong> through the <a href="https://bioinfo-grad.gr/en/" target="_blank">Bioinformatics</a> 
+<li><strong>MSc students</strong> through the <a href="https://bioinfo-grad.gr/en/" target="_blank">Bioinformatics</a>
 and <a href="https://www.imbb.forth.gr/mbb/index.php/en/" target="_blank">MBB</a> programs at the University of Crete</li>
 <li><strong>PhD students</strong> interested in comparative genomics and evolutionary biology</li>
 <li><strong>Postdoctoral researchers</strong> with experience in computational biology</li>
@@ -30,7 +30,7 @@ and <a href="https://www.imbb.forth.gr/mbb/index.php/en/" target="_blank">MBB</a
 <h3 style="font-size: 1rem; margin: 1.5rem 0 0.75rem; color: #333;">How to Apply</h3>
 
 <p>
-Interested candidates should send an email to <strong>alexandros.pittis [at] imbb.forth.gr</strong> with:
+Interested candidates should send an email to <strong>alexandros.pittis@imbb.forth.gr</strong> with:
 </p>
 
 <ul>

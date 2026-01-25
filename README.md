@@ -115,7 +115,7 @@ git commit -m "Your change description"
 git push
 ```
 
-GitHub Pages will automatically rebuild. This typically takes **1-5 minutes**. 
+GitHub Pages will automatically rebuild. This typically takes **1-5 minutes**.
 
 To check build status:
 1. Go to your repository on GitHub
@@ -168,7 +168,7 @@ startdate: 2024-01-01
 position: PhD Student
 image: /static/img/members/lastname.jpg
 altimage: /static/img/members/lastname_alt.jpg  # optional, shows on hover
-email: name [at] imbb.forth.gr
+email: name@imbb.forth.gr
 orcid: 0000-0000-0000-0000
 scholar: GOOGLESCHOLARID
 github: username

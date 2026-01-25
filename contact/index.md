@@ -15,7 +15,8 @@ group: contact
 <h3>Alexandros Pittis, Ph.D.</h3>
 <p>
 Group Leader · IMBB-FORTH<br>
-alexandros.pittis [at] imbb.forth.gr<br>
+alexandros.pittis@gmail.com<br>
+alexandros.pittis@imbb.forth.gr<br>
 +30 2810 391024
 </p>
 
@@ -47,10 +48,10 @@ N. Plastira 100, Vassilika Vouton<br>
 </div>
 
 <div class="contact-map">
-<iframe 
+<iframe
 src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3226.8899772741!2d25.0713!3d35.3097!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x149a5b0369f0c3a3%3A0x2da6f1d2c7c83c0d!2sFORTH%20-%20Foundation%20for%20Research%20and%20Technology%20-%20Hellas!5e1!3m2!1sen!2sgr!4v1700000000000!5m2!1sen!2sgr"
-allowfullscreen="" 
-loading="lazy" 
+allowfullscreen=""
+loading="lazy"
 referrerpolicy="no-referrer-when-downgrade">
 </iframe>
 <a href="https://maps.app.goo.gl/kEsXLobs46BUQJfG7" target="_blank" class="map-link">
