@@ -6,7 +6,7 @@ pub_date: '2019-02-05'
 image: '/static/img/pub/2019_herzik.jpg'
 pmid: '30449687'
 tags:
-  - Structural Biology Methods
+  - Computational Modeling Methods
 pmcid: 'PMC6365196'
 biorxiv: '128561'
 pdf: 'http://cdn.fraserlab.com/publications/2019_herzik.pdf'

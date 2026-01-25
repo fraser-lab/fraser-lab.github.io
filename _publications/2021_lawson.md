@@ -6,7 +6,7 @@ pub_date: '2021-02-04'
 image: '/static/img/pub/2020_lawson.jpg'
 pmid: '33542514'
 tags:
-  - Structural Biology Methods
+  - Scientific Community
 pmcid: 'PMC7864804'
 biorxiv: '2020.06.12.147033'
 pdf: 'http://cdn.fraserlab.com/publications/2021_lawson.pdf'

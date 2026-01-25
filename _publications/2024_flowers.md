@@ -7,7 +7,7 @@ image: "/static/img/pub/2024_flowers.jpg"
 pmid: "40586518"
 key: true
 tags:
-  - Structural Biology Methods
+  - Computational Modeling Methods
   - Drug Discovery
 pmcid: "PMC12208665"
 pdbs:

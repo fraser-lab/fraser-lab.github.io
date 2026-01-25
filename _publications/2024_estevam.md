@@ -8,7 +8,6 @@ pmid: 39960754
 key: true
 tags:
   - Deep Mutational Scanning
-  - Drug Discovery
 pmcid: "PMC11832172"
 #biorxiv:
 biorxiv: "2024.07.16.603579"

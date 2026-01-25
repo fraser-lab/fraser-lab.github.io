@@ -7,7 +7,7 @@ image: "/static/img/pub/2023_wankowicz_3.png"
 pmid: "38958015"
 key: true
 tags:
-  - Structural Biology Methods
+  - Scientific Community
   - Computational Modeling Methods
 pmcid: "PMC11220883"
 chemrxiv: 2023-ggd1w-v3

@@ -6,7 +6,7 @@ pub_date: "2022-08-29"
 image: "/static/img/pub/2022_weiss.png" #Minimum dimensions of
 pmid: "36040268"
 tags:
-  - Structural Biology Methods
+  - Scientific Community
   - Drug Discovery
 pmcid: "PMC9424839"
 biorxiv: "2022.06.01.492756"

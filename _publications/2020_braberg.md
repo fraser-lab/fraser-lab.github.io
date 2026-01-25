@@ -7,7 +7,7 @@ image: '/static/img/pub/2020_braberg.jpg'
 pmid: '33303586'
 tags:
   - Collaborations
-  - Computational Modeling Methods
+  - Deep Mutational Scanning
 pmcid: 'PMC7946025'
 pdf: 'http://cdn.fraserlab.com/publications/2020_braberg.pdf'
 links:

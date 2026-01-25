@@ -9,7 +9,6 @@ pmid: "40275100"
 key: true
 tags:
   - Protein Dynamics
-  - Structural Biology Methods
 pmcid:  "PMC12103944"
 chemrxiv: 2023-9b5k7-v3
 links:

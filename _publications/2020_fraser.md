@@ -7,7 +7,6 @@ image: '/static/img/pub/2020_fraser.jpg'
 pmid: '32090567'
 key: true
 tags:
-  - Scientific Community
   - Computational Modeling Methods
 pmcid: 'PMC8561786'
 arxiv: '2002.00151'

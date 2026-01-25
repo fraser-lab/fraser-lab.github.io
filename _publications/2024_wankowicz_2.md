@@ -7,7 +7,6 @@ image: "/static/img/pub/2023_wankowicz.jpg" #Minimum dimensions TBD
 pmid: "38904665"
 key: true
 tags:
-  - Structural Biology Methods
   - Computational Modeling Methods
 pmcid: "PMC11192534"
 biorxiv: "2023.06.28.546963"

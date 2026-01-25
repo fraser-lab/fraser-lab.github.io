@@ -7,7 +7,8 @@ image: "/static/img/pub/2024_chen_roe.jpg"
 pmid: "40810510"
 key: true
 tags:
-  - Collaborations
+- Enzyme Mechanism
+- Collaborations
 pmcid: "PMC12421852"
 #biorxiv:
 biorxiv: "2024.08.26.609590"

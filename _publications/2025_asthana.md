@@ -8,7 +8,6 @@ pmid: "40945513"
 key: true
 tags:
   - Drug Discovery
-  - Ribosome Structure
 pmcid: "PMC12435910"
 #biorxiv:
 biorxiv: "2025.01.31.635826"

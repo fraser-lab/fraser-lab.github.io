@@ -8,6 +8,7 @@ pmid: '26280328'
 key: true
 tags:
   - Structural Biology Methods
+  - Computational Modeling Methods
 pmcid: 'PMC4589481'
 biorxiv: '014738'
 pdf: 'http://cdn.fraserlab.com/publications/2015_barad.pdf'

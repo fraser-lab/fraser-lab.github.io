@@ -6,7 +6,6 @@ pub_date: '2020-01-01'
 image: '/static/img/pub/2020_wankowicz.png'
 key: true
 tags:
-  - Structural Biology Methods
   - Computational Modeling Methods
 # pmid: '########'
 # pmcid: 'PMC#######'

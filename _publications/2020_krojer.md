@@ -7,7 +7,6 @@ image: '/static/img/pub/2020_krojer.jpg'
 pmid: '33171388'
 tags:
   - Drug Discovery
-  - Structural Biology Methods
 pmcid: "PMC10979522"
 pdf: 'http://cdn.fraserlab.com/publications/2020_krojer.pdf'
 links:

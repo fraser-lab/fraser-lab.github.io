@@ -8,7 +8,6 @@ pmid: '24882744'
 key: true
 tags:
   - Protein Dynamics
-  - Enzyme Mechanism
   - Structural Biology Methods
 pmcid: 'PMC4082491'
 pdf: 'http://cdn.fraserlab.com/publications/2014_keedy.pdf'

@@ -7,7 +7,6 @@ image: '/static/img/pub/2019_eshun-wilson.jpg'
 pmid: '31072936'
 tags:
   - Collaborations
-  - Protein Dynamics
 pmcid: 'PMC6535015'
 biorxiv: '516591'
 pdf: 'http://cdn.fraserlab.com/publications/2019_eshun-wilson.pdf'

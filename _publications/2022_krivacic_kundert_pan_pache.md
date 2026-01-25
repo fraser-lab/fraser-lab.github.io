@@ -7,7 +7,6 @@ image: "/static/img/pub/2021_krivacic_kundert_pan_pache.png"
 pmid: "35254891"
 tags:
   - Protein Design
-  - Computational Modeling Methods
 pmcid: "PMC8931229"
 biorxiv: "2021.07.02.450934"
 biorxiv: ""

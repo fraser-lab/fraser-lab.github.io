@@ -7,7 +7,6 @@ image: '/static/img/pub/2015_thomaston.jpg'
 pmid: '26578770'
 tags:
   - Protein Dynamics
-  - Drug Discovery
 pmcid: 'PMC4655559'
 pdf: 'http://cdn.fraserlab.com/publications/2015_thomaston.pdf'
 pdbs:

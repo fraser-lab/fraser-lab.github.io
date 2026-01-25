@@ -8,7 +8,6 @@ pmid: "36702895"
 key: true
 tags:
   - Protein Design
-  - Computational Modeling Methods
 pmcid: "PMC10400306"
 biorxiv: "2021.07.18.452833"
 pdf: "http://cdn.fraserlab.com/publications/2023_madani.pdf"

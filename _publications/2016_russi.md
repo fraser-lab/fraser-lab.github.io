@@ -6,7 +6,6 @@ pub_date: '2017-01-01'
 image: '/static/img/pub/2017_russi.jpg'
 pmid: '28009548'
 tags:
-  - Protein Dynamics
   - Structural Biology Methods
 pmcid: 'PMC5182021'
 pdf: 'http://cdn.fraserlab.com/publications/2017_russi.pdf'

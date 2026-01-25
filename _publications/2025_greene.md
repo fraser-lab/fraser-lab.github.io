@@ -7,7 +7,6 @@ image: "/static/img/pub/2025_greene.jpg"
 key: true
 tags:
   - Enzyme Mechanism
-  - Structural Biology Methods
 # pmid: #""
 # pmcid: #""
 biorxiv: "2025.07.04.663231"

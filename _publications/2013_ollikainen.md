@@ -6,8 +6,7 @@ pub_date: '2013-02-17'
 image: '/static/img/pub/2013_ollikainen.jpg'
 pmid: '23422426'
 tags:
-  - Protein Dynamics
-  - Computational Modeling Methods
+  - Protein Design
 pmcid: 'PMC3750959'
 pdf: 'http://cdn.fraserlab.com/publications/2013_ollikainen.pdf'
 links:

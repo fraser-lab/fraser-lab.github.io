@@ -7,7 +7,7 @@ pub_date: "2025-07-25" #Date of publication. Change from Biorxiv date to Journal
 image: "/static/img/pub/2025_challenge.png"
 tags:
   - Drug Discovery
-  - Computational Modeling Methods
+  - Scientific Community
 # pmcid: ""
 # pdf: ""
 links:

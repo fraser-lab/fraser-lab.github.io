@@ -8,7 +8,6 @@ pmid: '31930591'
 key: true
 tags:
   - Chitinases
-  - Enzyme Mechanism
 pmcid: 'PMC7096708'
 biorxiv: '762336'
 pdf: 'http://cdn.fraserlab.com/publications/2020_barad.pdf'

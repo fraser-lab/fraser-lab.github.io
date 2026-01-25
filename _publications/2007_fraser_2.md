@@ -7,7 +7,7 @@ image: '/static/img/pub/2007_fraser_2.jpg'
 pmid: '17765600'
 key: true
 tags:
-  - Protein Design
+  - Collaborations
 pdf: 'http://cdn.fraserlab.com/publications/2007_fraser_2.pdf'
 links:
 - name: Davidson lab @ University of Toronto

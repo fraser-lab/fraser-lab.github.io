@@ -8,7 +8,7 @@ pmid: 41565251
 tags:
   - Macrodomain
   - Drug Discovery
-  - Collaborations
+  - Scientific Community
 # pmcid: #""
 chemrxiv: "2025-d1v7v"
 pdf: "http://cdn.fraserlab.com/publications/2025_herasymenko.pdf"

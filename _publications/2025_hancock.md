@@ -6,7 +6,6 @@ biorxiv: "2025.10.07.680994"
 pub_date: "2025-10-07" # Date of bioRxiv posting. Change to Journal date once accepted
 image: "/static/img/pub/2025_hancock.png"
 tags:
-  - Structural Biology Methods
   - Computational Modeling Methods
 # pmid: "" # To be updated upon publication
 # pmcid: "" # To be updated upon publication

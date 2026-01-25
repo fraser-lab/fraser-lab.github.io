@@ -7,7 +7,7 @@ image: '/static/img/pub/2014_woldeyes.jpg'
 pmid: '25113271'
 key: true
 tags:
-  - Protein Dynamics
+  - Computational Modeling Methods
   - Structural Biology Methods
 pmcid: 'PMC4253534'
 pdf: 'http://cdn.fraserlab.com/publications/2014_woldeyes.pdf'

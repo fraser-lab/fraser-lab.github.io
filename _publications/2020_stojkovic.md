@@ -7,7 +7,7 @@ image: '/static/img/pub/2020_stojkovic.jpg'
 pmid: '31989172'
 tags:
   - Ribosome Structure
-  - Structural Biology Methods
+  - Computational Modeling Methods
 pmcid: 'PMC7049716'
 biorxiv: '695429'
 pdf: 'http://cdn.fraserlab.com/publications/2020_stojkovic.pdf'

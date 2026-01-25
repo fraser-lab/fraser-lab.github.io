@@ -6,7 +6,6 @@ pub_date: '2021-01-01'
 image: '/static/img/pub/2020_riley.jpg'
 pmid: '33210433'
 tags:
-  - Structural Biology Methods
   - Computational Modeling Methods
 pmcid: PMC7737783
 biorxiv: '2020.09.03.280222'

@@ -7,7 +7,7 @@ image: '/static/img/pub/2013_fraser.jpg'
 pmid: '23352243'
 key: true
 tags:
-  - Scientific Community
+  - Collaborations
 pmcid: 'PMC3558917'
 pdf: 'http://cdn.fraserlab.com/publications/2013_fraser.pdf'
 links:

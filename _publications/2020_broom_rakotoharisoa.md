@@ -7,8 +7,6 @@ image: '/static/img/pub/2020_broom_rakotoharisoa.jpg'
 pmid: 32968058
 tags:
   - Protein Design
-  - Enzyme Mechanism
-  - Computational Modeling Methods
 pmcid: PMC7511930
 biorxiv: '2020.03.19.999235'
 pdf: 'http://cdn.fraserlab.com/publications/2020_broom_rakotoharisoa.pdf'

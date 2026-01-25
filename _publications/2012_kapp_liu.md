@@ -7,7 +7,6 @@ image: '/static/img/pub/2012_kapp_liu.jpg'
 pmid: '22403064'
 tags:
   - Protein Design
-  - Computational Modeling Methods
 pmcid: 'PMC3325720'
 pdf: 'http://cdn.fraserlab.com/publications/2012_kapp_liu.pdf'
 pdbs:

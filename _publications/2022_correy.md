@@ -8,6 +8,7 @@ pmid: "35622909"
 key: true
 tags:
   - Macrodomain
+  - Enzyme Mechanism
   - Structural Biology Methods
 pmcid: "PMC9140965"
 biorxiv: '2022.02.07.479477'

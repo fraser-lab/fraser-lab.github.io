@@ -8,6 +8,8 @@ pmid: '19956261'
 key: true
 tags:
   - Protein Dynamics
+  - Enzyme Mechanism
+  - Structural Biology Methods
 pmcid: 'PMC2805857'
 pdf: 'http://cdn.fraserlab.com/publications/2009_fraser.pdf'
 pdbs:
