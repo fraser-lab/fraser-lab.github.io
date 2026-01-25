@@ -184,6 +184,7 @@ N. Plastira 100, Vassilika Vouton<br>
 </div>
 
 <div class="contact-map">
+<!-- <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3183.980555435395!2d25.069276075546192!3d35.30462035057078!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x149a570027ec31bd%3A0xaaccc8115f93751f!2sComparative%20Genomics%20Lab%20%40%20IMBB-FORTH!5e1!3m2!1sen!2sgr!4v1769297448751!5m2!1sen!2sgr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe> -->
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3183.980555435395!2d25.069276075546192!3d35.30462035057078!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x149a570027ec31bd%3A0xaaccc8115f93751f!2sComparative%20Genomics%20Lab%20%40%20IMBB-FORTH!5e1!3m2!1sen!2sgr!4v1769297448751!5m2!1sen!2sgr" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <a href="https://maps.app.goo.gl/zGpFGo7fDnC1gNFm7" target="_blank" class="map-link">Open in Google Maps ↗</a>
 </div>
