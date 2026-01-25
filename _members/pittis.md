@@ -9,7 +9,7 @@ email2: alexandros.pittis [at] gmail.com
 orcid: 0000-0003-4116-9972
 scholar: YbX4E3cAAAAJ
 github: cgenomicslab
-<!-- github: alxndrsPittis -->
+# github: alxndrsPittis
 twitter:
 website: https://imbb.forth.gr/en/research/Alexandros-Pittis.62/
 ---
