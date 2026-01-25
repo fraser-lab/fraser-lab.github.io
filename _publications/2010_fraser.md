@@ -5,7 +5,6 @@ journal: 'PNAS'
 pub_date: '2011-09-27'
 image: '/static/img/pub/2011_fraser.jpg'
 pmid: '21918110'
-key: true
 tags:
   - Protein Dynamics
   - Structural Biology Methods

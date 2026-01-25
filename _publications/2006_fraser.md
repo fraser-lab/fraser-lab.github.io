@@ -5,7 +5,6 @@ journal: "Journal of Molecular Biology"
 pub_date: "2006-06-02"
 image: "/static/img/pub/2006_fraser.jpg"
 pmid: "16631788"
-key: true
 tags:
   - Collaborations
 pdf: "http://cdn.fraserlab.com/publications/2006_fraser.pdf"

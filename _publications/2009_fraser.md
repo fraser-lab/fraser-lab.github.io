@@ -5,7 +5,6 @@ journal: 'Nature'
 pub_date: '2009-12-03'
 image: '/static/img/pub/2009_fraser.jpg'
 pmid: '19956261'
-key: true
 tags:
   - Protein Dynamics
   - Enzyme Mechanism

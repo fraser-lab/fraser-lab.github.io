@@ -5,7 +5,6 @@ journal: "Science Advances"
 pub_date: '2022-05-27'
 image: '/static/img/pub/2022_correy.png'
 pmid: "35622909"
-key: true
 tags:
   - Macrodomain
   - Enzyme Mechanism

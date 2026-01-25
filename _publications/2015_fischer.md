@@ -5,7 +5,6 @@ journal: 'ChemBioChem'
 pub_date: '2015-07-27'
 image: '/static/img/pub/2015_fischer.jpg'
 pmid: '26032594'
-key: true
 tags:
   - Protein Dynamics
   - Drug Discovery

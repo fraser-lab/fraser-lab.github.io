@@ -5,7 +5,6 @@ journal: 'Nature Chemistry'
 pub_date: '2019-09-16'
 image: '/static/img/pub/2019_thompson.jpg'
 pmid: '31527847'
-key: true
 tags:
   - Protein Dynamics
   - Structural Biology Methods

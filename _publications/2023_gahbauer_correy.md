@@ -5,7 +5,6 @@ journal: "PNAS"
 pub_date: "2023-01-04"
 image: "/static/img/pub/2022_gahbauer_correy.gif" #Minimum dimensions of
 pmid: "36598939"
-key: true
 tags:
   - Macrodomain
   - Drug Discovery

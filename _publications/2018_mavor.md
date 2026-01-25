@@ -5,7 +5,6 @@ journal: 'Biology Open'
 pub_date: '2018-07-23'
 image: '/static/img/pub/2018_mavor.jpg'
 pmid: '30037883'
-key: true
 tags:
   - Deep Mutational Scanning
 pmcid: 'PMC6078352'

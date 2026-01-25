@@ -5,7 +5,6 @@ journal: eLife
 pub_date: "2024-09-13"
 image: "/static/img/pub/2023_estevam.png"
 pmid: "39268701"
-key: true
 tags:
   - Deep Mutational Scanning
 pmcid: "PMC11398868"

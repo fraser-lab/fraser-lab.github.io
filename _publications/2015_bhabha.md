@@ -5,7 +5,6 @@ journal: 'Accounts of Chemical Research'
 pub_date: '2015-02-17'
 image: '/static/img/pub/2015_bhabha.jpg'
 pmid: '25539415'
-key: true
 tags:
   - Protein Dynamics
   - Enzyme Mechanism

@@ -5,7 +5,6 @@ journal: 'eLife'
 pub_date: '2016-04-25'
 image: '/static/img/pub/2016_mavor.jpg'
 pmid: '27111525'
-key: true
 tags:
   - Deep Mutational Scanning
 pmcid: 'PMC4862753'

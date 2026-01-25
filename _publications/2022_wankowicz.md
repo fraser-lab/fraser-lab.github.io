@@ -5,7 +5,6 @@ journal: "eLife"
 pub_date: '2022-03-21'
 image: "/static/img/pub/2021_wankowicz.jpg"
 pmid: "35312477"
-key: true
 tags:
   - Protein Dynamics
   - Computational Modeling Methods

@@ -5,7 +5,6 @@ journal: 'Nature Methods'
 pub_date: '2015-08-17'
 image: '/static/img/pub/2015_barad.jpg'
 pmid: '26280328'
-key: true
 tags:
   - Structural Biology Methods
   - Computational Modeling Methods

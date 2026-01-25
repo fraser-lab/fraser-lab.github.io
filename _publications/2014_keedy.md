@@ -5,7 +5,6 @@ journal: 'Structure'
 pub_date: '2014-06-10'
 image: '/static/img/pub/2014_keedy.jpg'
 pmid: '24882744'
-key: true
 tags:
   - Protein Dynamics
   - Structural Biology Methods

@@ -5,7 +5,6 @@ journal: "Nature Biotechnology"
 pub_date: '2023-01-26'
 image: "/static/img/pub/2021_madani.gif"
 pmid: "36702895"
-key: true
 tags:
   - Protein Design
 pmcid: "PMC10400306"

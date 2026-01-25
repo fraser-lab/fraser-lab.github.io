@@ -5,7 +5,6 @@ journal: IUCrJ
 pub_date: "2024-07-01" #Date of publication. Change from Biorxiv date to Journal date once accepted
 image: "/static/img/pub/2023_wankowicz_3.png" 
 pmid: "38958015"
-key: true
 tags:
   - Scientific Community
   - Computational Modeling Methods

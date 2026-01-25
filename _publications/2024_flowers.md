@@ -5,7 +5,6 @@ journal: eLife
 pub_date: "2025-06-30"
 image: "/static/img/pub/2024_flowers.jpg" 
 pmid: "40586518"
-key: true
 tags:
   - Computational Modeling Methods
   - Drug Discovery

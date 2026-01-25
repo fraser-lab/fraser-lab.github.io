@@ -5,7 +5,6 @@ journal: "Nature Chemistry"
 pub_date: "2023-09-18"
 image: "/static/img/pub/2022_wolff.png"
 pmid: "37723259"
-key: true
 tags:
   - Protein Dynamics
   - Structural Biology Methods

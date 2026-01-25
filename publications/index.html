@@ -25,10 +25,23 @@ group: publications
 {% for publication in sorted %}
 
 {% comment %}
-Key publications are marked with "key: true" in frontmatter.
-Typically: lab member as first, co-first, or last author.
+Key publications have a Fraser lab member (bolded with **) as first, co-first, or last author.
+Co-first authors are marked with &#42; so we check for &#42;** which indicates a bolded co-first.
 {% endcomment %}
-{% assign is_key = publication.key %}
+{% assign first_two = publication.authors | slice: 0, 2 %}
+{% assign authors_length = publication.authors | size %}
+{% assign last_pos = authors_length | minus: 1 %}
+{% assign second_last_pos = authors_length | minus: 2 %}
+{% assign last_char = publication.authors | slice: last_pos, 1 %}
+{% assign second_last_char = publication.authors | slice: second_last_pos, 1 %}
+{% assign is_key = false %}
+{% if first_two == "**" %}
+	{% assign is_key = true %}
+{% elsif last_char == "*" and second_last_char == "*" %}
+	{% assign is_key = true %}
+{% elsif publication.authors contains "&#42;**" %}
+	{% assign is_key = true %}
+{% endif %}
 
 {% comment %}Build tags string for data attribute{% endcomment %}
 {% assign tags_str = "" %}

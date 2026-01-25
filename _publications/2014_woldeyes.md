@@ -5,7 +5,6 @@ journal: 'Current Opinion in Structural Biology'
 pub_date: '2014-10-01'
 image: '/static/img/pub/2014_woldeyes.jpg'
 pmid: '25113271'
-key: true
 tags:
   - Computational Modeling Methods
   - Structural Biology Methods

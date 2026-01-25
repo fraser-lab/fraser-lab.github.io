@@ -5,7 +5,6 @@ journal: 'Nature'
 pub_date: '2020-09-23'
 image: '/static/img/pub/2019_li_pellegrino.jpg'
 pmid: 32968273
-key: true
 tags:
   - Drug Discovery
   - Ribosome Structure

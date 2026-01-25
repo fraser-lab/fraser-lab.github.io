@@ -6,7 +6,6 @@ pub_date: "2025-04-25"
 image: "/static/img/pub/2023_Wankowicz_2.png" 
 pdf: "http://cdn.fraserlab.com/publications/2025_wankowicz.pdf"
 pmid: "40275100"
-key: true
 tags:
   - Protein Dynamics
 pmcid:  "PMC12103944"

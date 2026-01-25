@@ -4,7 +4,6 @@ authors: "**Greene ER**, Muniz R, **Yamamura H**, **Bajaj P, Lee DJ, Thompson EM
 # journal: #""
 pub_date: "2025-07-04"
 image: "/static/img/pub/2025_greene.jpg"
-key: true
 tags:
   - Enzyme Mechanism
 # pmid: #""

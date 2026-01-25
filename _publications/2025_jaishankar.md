@@ -5,7 +5,6 @@ journal: "Journal of Medicinal Chemistry"
 pub_date: "2025-12-17"
 image: "/static/img/pub/2025_jaishankar.jpg"
 pmid: "41406955"
-key: true
 tags:
   - Macrodomain
   - Drug Discovery

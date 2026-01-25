@@ -5,7 +5,6 @@ journal: "Science Advances"
 pub_date: "2025-05-30"
 image: "/static/img/pub/2024_correy.jpg"
 pmid: 40435250
-key: true
 tags:
   - Macrodomain
   - Drug Discovery
