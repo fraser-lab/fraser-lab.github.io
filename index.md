@@ -4,27 +4,28 @@ layout: home
 group: home
 ---
 
-# QBI Macromolecular Conformational Ensembles: Statistical Structural Biology
+# Conformational Ensembles: Statistical Structural Biology
 
 ![Conference Logo logo](static/img/Conference_Figure.jpg){:style="max-width: 100%; height: auto;"}
 
 <br>
-Statistical structural biology seeks to move beyond structural biology's classic single dataset-single structure paradigm. The most compelling questions in structural biology—such as elucidating the dynamics of transient biological events, understanding allostery, and investigating how binding events alter the protein conformational landscape—cannot be effectively addressed using only a single structure. To tackle these challenges, we must embrace large-scale data analysis, statistical interpretation of conformational ensembles, and exploring the modeling relationships between multiple maps and models. This also requires integrating other datasets and approaches, including molecular dynamics (MD), genomics, and proteomics. 
+Statistical structural biology seeks to move beyond the classic single-dataset-single-structure paradigm. The most compelling questions in structural biology, such as elucidating the dynamics of transient biological events, understanding allostery, and investigating how binding events alter the protein conformational landscape, cannot be effectively addressed with a single structure alone. To tackle these challenges, we must embrace large-scale data analysis, statistical interpretation of conformational ensembles, and explore the modeling relationships between multiple maps and models. 
 
-This workshop aims to ignite innovative thinking about how our community can address current challenges in capturing and modeling conformational ensembles. We will accept talks from papers on aspects of statistical structural biology, broadly defined. Please head to the [paper submission](/paper_submission) for more details. 
 
 <br>
 <br>
-The workshop will take place on June 9th/10th at UCSF Mission Bay. For more details, please visit the [information tab](/information). 
+The workshop will take place on June 8th/9th at UCSF Mission Bay. For more details, please visit the [information tab](/information). 
 
 Please head to the [registration tab](/register) to register.
 
 **Organizers:**
 
-[James Fraser, UCSF](https://fraserlab.com/)
+[Stephanie Wankowicz](https://wankowiczlab.com/)
 <br>
+[James Fraser](https://fraserlab.com/)
 
-[Stephanie Wankowicz, Vanderbilt University](https://wankowiczlab.com/)
+
+
 
 
 
