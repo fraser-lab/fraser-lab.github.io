@@ -146,8 +146,8 @@ For a publication list, see
 <h3>Alexandros Pittis</h3>
 <p>
 Group Leader · IMBB-FORTH<br>
-alexandros.pittis [at] gmail.com<br>
-alexandros.pittis [at] imbb.forth.gr<br>
+alexandros.pittis@gmail.com<br>
+alexandros.pittis@imbb.forth.gr<br>
 +30 2810 391024
 </p>
 <div class="profile-links">
