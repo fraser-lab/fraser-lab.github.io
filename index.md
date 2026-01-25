@@ -113,7 +113,7 @@ Our research is focused on <strong>computational biology</strong>, <strong>compa
 
 <div class="join-content">
 <p>
-We are always interested in motivated people at all career stages who share our interest in evolutionary and computational approaches.
+We are always open to discuss with motivated people at all career stages who share our interest in evolutionary and computational approaches.
 </p>
 
 <p>
