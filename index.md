@@ -1,4 +1,4 @@
----
+--
 title: CGLab
 layout: default
 ---
@@ -130,7 +130,7 @@ If interested contact <a href="#contact">Alexandros Pittis</a> with a short CV a
 <h2 class="section-title">Publications</h2>
 
 <p class="publications-intro">
-Our lab opened in 2024. For publications by lab members, see
+For a publication list, see
 <a href="https://scholar.google.com/citations?user=YbX4E3cAAAAJ" target="_blank">Google Scholar</a>.
 </p>
 
