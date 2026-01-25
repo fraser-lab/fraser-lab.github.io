@@ -23,7 +23,7 @@ layout: default
             {% if page.email2 %}
             <p class="member-email">{{ page.email2 }}</p>
             {% endif %}
-
+            
             <div class="profile-links">
                 {% if page.orcid %}
                 <a href="https://orcid.org/{{ page.orcid }}" target="_blank" class="icon-link" title="ORCID">
@@ -58,17 +58,17 @@ layout: default
             </div>
         </div>
     </div>
-
+    
     {% if page.description %}
     <div class="member-description">
         {{ page.description | markdownify }}
     </div>
     {% endif %}
-
+    
     <div class="member-content">
         {{ content }}
     </div>
-
+    
     <a href="/members" class="section-link">← Back to members</a>
 </section>
 </div>

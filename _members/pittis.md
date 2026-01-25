@@ -4,8 +4,8 @@ startdate: 2024-01-01
 position: Group Leader
 image: /static/img/members/apittis.jpg
 altimage: /static/img/members/apittis_alt.jpg
-email: alexandros.pittis [at] gmail.com
-email2: alexandros.pittis [at] imbb.forth.gr
+email: alexandros.pittis [at] imbb.forth.gr
+email2: alexandros.pittis [at] gmail.com
 orcid: 0000-0003-4116-9972
 scholar: YbX4E3cAAAAJ
 github: alxndrsPittis

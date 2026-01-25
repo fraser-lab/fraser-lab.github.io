@@ -157,21 +157,33 @@ If interested contact <a href="#contact">Alexandros Pittis</a> with a short CV a
 <h2 class="section-title">Publications</h2>
 
 <p class="publications-intro">
-For a complete list, see <a href="https://scholar.google.com/citations?user=XXXXXXXX" target="_blank">Google Scholar</a>.
+Our lab opened in 2024. For publications by lab members, see
+<a href="https://scholar.google.com/citations?user=YbX4E3cAAAAJ" target="_blank">Google Scholar</a>.
 </p>
 
-{% assign sorted_pubs = site.publications | sort: "year" | reverse %}
-{% for pub in sorted_pubs limit:5 %}
-<div class="publication-item">
-<div class="publication-year">{{ pub.year }}</div>
-<div class="publication-title"><a href="{{ pub.link }}" target="_blank">{{ pub.title }}</a></div>
-<div class="publication-authors">{{ pub.authors }}. <em>{{ pub.journal }}</em>.</div>
-</div>
-{% endfor %}
-
-<a href="/publications" class="section-link">All publications →</a>
 </div>
 </section>
+
+<!-- <section id="publications"> -->
+<!-- <div class="container"> -->
+<!-- <h2 class="section-title">Publications</h2> -->
+
+<!-- <p class="publications-intro"> -->
+<!-- For a complete list, see <a href="https://scholar.google.com/citations?user=XXXXXXXX" target="_blank">Google Scholar</a>. -->
+<!-- </p> -->
+
+<!-- {% assign sorted_pubs = site.publications | sort: "year" | reverse %} -->
+<!-- {% for pub in sorted_pubs limit:5 %} -->
+<!-- <div class="publication-item"> -->
+<!-- <div class="publication-year">{{ pub.year }}</div> -->
+<!-- <div class="publication-title"><a href="{{ pub.link }}" target="_blank">{{ pub.title }}</a></div> -->
+<!-- <div class="publication-authors">{{ pub.authors }}. <em>{{ pub.journal }}</em>.</div> -->
+<!-- </div> -->
+<!-- {% endfor %} -->
+
+<!-- <a href="/publications" class="section-link">All publications →</a> -->
+<!-- </div> -->
+<!-- </section> -->
 
 <section id="news">
 <div class="container">
