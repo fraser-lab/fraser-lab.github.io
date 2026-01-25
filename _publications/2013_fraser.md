@@ -5,6 +5,7 @@ journal: 'Nature Methods'
 pub_date: '2013-01-24'
 image: '/static/img/pub/2013_fraser.jpg'
 pmid: '23352243'
+key: true
 tags:
   - Scientific Community
 pmcid: 'PMC3558917'

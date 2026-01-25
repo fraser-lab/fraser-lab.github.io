@@ -5,6 +5,7 @@ journal: 'Protein Science'
 pub_date: '2020-01-12'
 image: '/static/img/pub/2020_barad.jpg'
 pmid: '31930591'
+key: true
 tags:
   - Chitinases
   - Enzyme Mechanism

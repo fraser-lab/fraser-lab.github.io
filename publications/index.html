@@ -34,31 +34,10 @@ group: publications
 {% for publication in sorted %}
 
 {% comment %}
-Determine if Fraser JS is first or last author by checking author string
+Key publications are marked with "key: true" in frontmatter.
+Typically: lab member as first, co-first, or last author.
 {% endcomment %}
-{% assign is_first_author = false %}
-{% assign is_last_author = false %}
-{% assign authors_str = publication.authors %}
-
-{% comment %}Check if Fraser JS appears at the start (first author){% endcomment %}
-{% assign first_check = authors_str | slice: 0, 12 %}
-{% if first_check == "**Fraser JS**" or authors_str contains "**Fraser JS&#42;" and authors_str == authors_str %}
-	{% assign author_start = authors_str | split: "," | first %}
-	{% if author_start contains "Fraser JS" %}
-		{% assign is_first_author = true %}
-	{% endif %}
-{% endif %}
-
-{% comment %}Check if Fraser JS appears at the end (last author){% endcomment %}
-{% assign author_end = authors_str | split: "," | last %}
-{% if author_end contains "Fraser JS" %}
-	{% assign is_last_author = true %}
-{% endif %}
-
-{% assign is_key = false %}
-{% if is_first_author or is_last_author %}
-	{% assign is_key = true %}
-{% endif %}
+{% assign is_key = publication.key %}
 
 {% comment %}Build tags string for data attribute{% endcomment %}
 {% assign tags_str = "" %}

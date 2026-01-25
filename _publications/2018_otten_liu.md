@@ -5,6 +5,7 @@ journal: 'Nature Communications'
 pub_date: '2018-04-03'
 image: '/static/img/pub/2018_otten_liu.jpg'
 pmid: '29615624'
+key: true
 tags:
   - Enzyme Mechanism
   - Protein Dynamics

@@ -5,6 +5,7 @@ journal: "Nature Structural and Molecular Biology"
 pub_date: "2022-02-14"
 image: "/static/img/pub/2021_tsai_stojkovic_lee.png"
 pmid: "35165456"
+key: true
 tags:
   - Ribosome Structure
   - Drug Discovery

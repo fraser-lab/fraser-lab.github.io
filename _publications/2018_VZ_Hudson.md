@@ -5,6 +5,7 @@ journal: 'Journal of Medicinal Chemistry'
 pub_date: '2018-12-27'
 image: '/static/img/pub/2018_VZ_Hudson.gif'
 pmid: '30457858'
+key: true
 tags:
   - Drug Discovery
   - Computational Modeling Methods

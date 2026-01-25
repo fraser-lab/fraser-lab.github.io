@@ -4,6 +4,7 @@ authors: "**Fraser JS**, Edgar S, Handly LN, Kosuri S, Chodera JD, Murcko M, Wal
 # journal: ""
 pub_date: "2025-12-12"
 image: "/static/img/pub/2025_fraser.jpg"
+key: true
 tags:
   - Scientific Community
   - Drug Discovery

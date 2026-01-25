@@ -4,6 +4,7 @@ authors: "**Trinidad DD**, **Macdonald CB**, Rosenberg OS, **Fraser JS**, Coyote
 #journal: 
 pub_date: "2024-08-26"
 image: "/static/img/pub/2024_trinidad.jpg"
+key: true
 tags:
   - Deep Mutational Scanning
 #pmid: 

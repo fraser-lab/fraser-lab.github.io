@@ -4,6 +4,7 @@ authors: "**Wankowicz SA**, Beltrao P, Cravatt B, Dunbrack R, Gitter A, Lindorff
 pub_date: "2024-04-11"
 image: "/static/img/pub/2024_wankowicz.png"
 pmid:
+key: true
 tags:
   - Scientific Community 
 pmcid: 

@@ -5,6 +5,7 @@ journal: eLife
 pub_date: "2025-11-19"
 image: "/static/img/pub/2024_suryawanshi.jpg"
 pmid: "41258893"
+key: true
 tags:
   - Macrodomain
   - Drug Discovery

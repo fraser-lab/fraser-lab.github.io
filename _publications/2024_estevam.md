@@ -5,6 +5,7 @@ journal: eLife
 pub_date: "2025-02-17"
 image: "/static/img/pub/2024_estevam.png"
 pmid: 39960754
+key: true
 tags:
   - Deep Mutational Scanning
   - Drug Discovery

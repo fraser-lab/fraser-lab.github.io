@@ -5,6 +5,7 @@ journal: 'eLife'
 pub_date: '2018-06-07'
 image: '/static/img/pub/2018_keedy_hill.jpg'
 pmid: '29877794'
+key: true
 tags:
   - Drug Discovery
   - Protein Dynamics

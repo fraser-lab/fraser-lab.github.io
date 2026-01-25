@@ -5,6 +5,7 @@ journal: "Structure"
 pub_date: "2025-09-12"
 image: "/static/img/pub/2025_asthana.jpg"
 pmid: "40945513"
+key: true
 tags:
   - Drug Discovery
   - Ribosome Structure

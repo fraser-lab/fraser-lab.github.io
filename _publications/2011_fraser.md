@@ -5,6 +5,7 @@ journal: 'Cellular and Molecular Life Sciences'
 pub_date: '2010-12-29'
 image: '/static/img/pub/2010_fraser.jpg'
 pmid: '21190057'
+key: true
 tags:
   - Protein Dynamics
   - Structural Biology Methods
