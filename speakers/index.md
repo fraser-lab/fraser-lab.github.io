@@ -12,9 +12,8 @@ group: Speakers
 - [Colin Jackson](https://chemistry.anu.edu.au/research/research-groups/jackson-group)
 - [Pilar Cossio](https://pilarcossio.org/)
 - [Polly Fordyce](https://www.fordycelab.com/)
-- [Stephanie Wankowicz](https://wankowiczlab.com/)
 
 # Organizers
 
-- [James Fraser, UCSF](https://fraserlab.com/)
-- [Stephanie Wankowicz, Vanderbilt Univeristy](https://wankowiczlab.com/)
+- [James Fraser](https://fraserlab.com/)
+- [Stephanie Wankowicz](https://wankowiczlab.com/)
