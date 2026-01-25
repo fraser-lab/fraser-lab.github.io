@@ -1,0 +1,52 @@
+<!-- ============================================
+     PUBLICATIONS SECTION - Choose one of these options
+     ============================================ -->
+
+<!-- OPTION A: Show "Selected Publications" framing (current PI work, not lab publications) -->
+<section id="publications">
+<div class="container">
+<h2 class="section-title">Publications</h2>
+
+<p class="publications-intro">
+For a complete list, see <a href="https://scholar.google.com/citations?user=YbX4E3cAAAAJ" target="_blank">Google Scholar</a>.
+</p>
+
+<h3 style="font-size: 0.9rem; color: var(--text-muted); margin-bottom: 1rem; font-weight: 500;">Selected work by lab members</h3>
+
+{% assign sorted_pubs = site.publications | sort: "year" | reverse %}
+{% for pub in sorted_pubs limit:5 %}
+<div class="publication-item">
+<div class="publication-year">{{ pub.year }}</div>
+<div class="publication-title"><a href="{{ pub.link }}" target="_blank">{{ pub.title }}</a></div>
+<div class="publication-authors">{{ pub.authors }}. <em>{{ pub.journal }}</em>.</div>
+</div>
+{% endfor %}
+
+<a href="/publications" class="section-link">All publications →</a>
+</div>
+</section>
+
+
+<!-- ============================================ -->
+<!-- OPTION B: Minimal version with just Scholar link -->
+<!-- ============================================ -->
+<!--
+<section id="publications">
+<div class="container">
+<h2 class="section-title">Publications</h2>
+
+<p class="publications-intro">
+Our lab opened in 2024. For publications by lab members, see 
+<a href="https://scholar.google.com/citations?user=YbX4E3cAAAAJ" target="_blank">Google Scholar</a>.
+</p>
+
+</div>
+</section>
+-->
+
+
+<!-- ============================================ -->
+<!-- OPTION C: Hide publications section entirely -->
+<!-- Just comment out or delete the publications section from index.md -->
+<!-- And remove "Publications" from the nav in _includes/header.html -->
+<!-- ============================================ -->

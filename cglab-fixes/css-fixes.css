@@ -1,0 +1,67 @@
+/* ============================================
+   CSS FIXES - Add these to your main.css
+   ============================================ */
+
+/* FIX 1: Member photo alignment - ensures both images crop identically */
+.member-photo img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center top; /* Both images align from top-center */
+    transition: opacity 0.3s ease;
+}
+
+.member-photo img.main-img {
+    position: relative;
+}
+
+.member-photo img.alt-img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    opacity: 0;
+}
+
+/* Same for large member photos on individual pages */
+.member-photo-large img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center top;
+    display: block;
+}
+
+.member-photo-large img.main-img {
+    position: relative;
+}
+
+.member-photo-large img.alt-img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    opacity: 0;
+}
+
+.member-photo-large:hover img.alt-img {
+    opacity: 1;
+}
+
+.member-photo-large:hover img.main-img {
+    opacity: 0;
+}
+
+/* FIX 2: Member email display on homepage */
+.member-email-inline {
+    font-size: 0.75rem;
+    color: var(--text-muted);
+    margin-top: 0.15rem;
+    word-break: break-all;
+}
+
+/* FIX 3: Remove timeline footer - just delete the entire .visual-footer section from index.md */
+/* Or hide it with CSS: */
+/*
+.visual-footer {
+    display: none;
+}
+*/

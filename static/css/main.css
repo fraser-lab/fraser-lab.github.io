@@ -296,6 +296,7 @@ section:last-of-type {
     width: 100%;
     height: 100%;
     object-fit: cover;
+    object-position: center top; /* Ensures both images align identically */
     transition: opacity 0.3s ease;
 }
 
@@ -312,7 +313,8 @@ section:last-of-type {
 }
 
 .member:hover .member-photo img.main-img {
-    opacity: 0;
+    position: relative;
+    /* opacity: 0; */
 }
 
 .member-photo-placeholder {
@@ -665,10 +667,11 @@ footer a {
 }
 
 .member-photo-large img {
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-    display: block;
+    object-position: center top;
+    /* width: 100%; */
+    /* height: 100%; */
+    /* object-fit: cover; */
+    /* display: block; */
 }
 
 .member-info h1 {
@@ -685,6 +688,13 @@ footer a {
 .member-email {
     font-size: 0.9rem;
     color: var(--text-light);
+}
+
+.member-email-inline {
+    font-size: 0.75rem;
+    color: var(--text-muted);
+    margin-top: 0.15rem;
+    word-break: break-all;
 }
 
 .member-description {
