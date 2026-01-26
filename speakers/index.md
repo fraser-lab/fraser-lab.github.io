@@ -13,7 +13,3 @@ group: Speakers
 - [Pilar Cossio](https://pilarcossio.org/)
 - [Polly Fordyce](https://www.fordycelab.com/)
 
-# Organizers
-
-- [James Fraser](https://fraserlab.com/)
-- [Stephanie Wankowicz](https://wankowiczlab.com/)
