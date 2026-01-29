@@ -5,7 +5,7 @@ startdate: [2024-06-10]
 enddate: #[]
 image: /static/img/members/chrispens.jpg
 altimage: /static/img/members/chrispens_pb.jpg
-position: Graduate Student, [Biophysics](https://biophysics.ucsf.edu)
+position: "Graduate Student, [Biophysics](https://biophysics.ucsf.edu) ([Discovery Fellow](https://graduate.ucsf.edu/discovery-fellows-program))"
 #timeline_positions: ["Graduate Student (2019-2023)]
 #subsequent:  update once you become an alumnus
 pronouns: he/him/his
