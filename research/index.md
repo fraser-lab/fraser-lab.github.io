@@ -13,9 +13,7 @@ The long-term goals of our research are to understand how protein conformational
 <br>
 <br>
 
-<div class="video-container mb-4">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Ktfy6SPZh4" title="YouTube video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="max-width: 100%; display: block; margin: 0 auto;"></iframe>
-</div>
+[James' Carl Branden Plenary Award Lecture at the 2025 Protein Society Meeting](https://www.youtube.com/watch?v=-Ktfy6SPZh4)
 
 </div>
 
