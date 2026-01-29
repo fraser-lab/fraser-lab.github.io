@@ -5,7 +5,7 @@ enddate: [2015-08-01, 2016-08-01, 2017-08-01]
 image: /static/img/members/cortez.jpg
 altimage: /static/img/members/cortez_pb.jpg
 position: Junior Specialist
-timeline_positions: ["SEP High School Student", "SEP High School Student", "SEP High School Student", "Junior Specialist"]
+timeline_positions: ["SEP Summer Student", "SEP Summer Student", "SEP Summer Student", "Junior Specialist"]
 pronouns: he/him/his
 subsequent:
 email:
