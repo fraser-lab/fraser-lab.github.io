@@ -93,6 +93,7 @@ After the round of sharing, the Discussion Leaders will present a joint talk sim
 ### 5/11, 5/12, 5/13, 
 Background material!
 - Intro to class, overview of preprints to review, assigning pairs, expectations for presentations and readers
+- Discussion on [this article on AI in peer review](https://www.timeshighereducation.com/opinion/ai-not-peer-so-it-cant-do-peer-review)
 - JF to give presentation based on Jessica Polka slides from ASAPbio [New developments in peer review](https://docs.google.com/presentation/d/1Nynk84mch7Avs4E8ilox0zKN3knnEp1R_k2DweuNgvg/edit#slide=id.g244a3cc443b_0_846):
 - BC to present on AI culture
 - confirm pairings for papers to review
