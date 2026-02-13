@@ -127,8 +127,10 @@ Co-first authors are marked with &#42; so we check for &#42;** which indicates a
 
 		<!--Chemrxiv - optional -->
 		{% if publication.chemrxiv %}
-			{% assign pub_year = publication.pub_date | split: "-" | first | plus: 0 %}
-			{% if pub_year >= 2026 %}
+			{% assign filename_parts = publication.id | split: "/" %}
+			{% assign filename = filename_parts | last %}
+			{% assign year_prefix = filename | slice: 0, 4 | plus: 0 %}
+			{% if year_prefix >= 2026 %}
 		<li>ChemRxiv Preprint: <a href="https://doi.org/10.26434/chemrxiv.{{publication.chemrxiv}}/v1" title = "ChemRxiv Preprint: {{publication.chemrxiv}} (opens in new tab)" target="_blank"> {{publication.chemrxiv}}</a></li>
 			{% else %}
 		<li>ChemRxiv Preprint: <a href="https://doi.org/10.26434/chemrxiv-{{publication.chemrxiv}}" title = "ChemRxiv Preprint: {{publication.chemrxiv}} (opens in new tab)" target="_blank"> {{publication.chemrxiv}}</a></li>
