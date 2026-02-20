@@ -1,7 +1,7 @@
 ---
 title: "Oligomerization enables the selective targeting of intrinisically disordered regions by small molecules"
 date: "2025-06-16" #Date of Public Review, then update to Date of Publication
-authors: "Stasė Bielskutė,  Borja Mateos,  Muhammad Awawdy,  Carla Garcia-Cabau,  Henri Niskanen,  Carolina Sánchez-Zarzalejo,  Lorenzo Bracaglia,  Roberta Pierattelli,  Isabella C. Felli,  Marta Frigolé-Vivas,  Jesús García,  Antoni Riera,  Denes Hnisz,  Xavier Salvatellay"
+authors: "Bielskutė S, Mateos B, Awawdy M, Garcia-Cabau C, Niskanen H, Sánchez-Zarzalejo C, Bracaglia L, Pierattelli R, Felli IC, Frigolé-Vivas M, García J, Riera A, Hnisz D, Salvatellay X"
 reviewers: "Gupta NG, Fraser JS, Coyote-Maestas W, Anonymous Student"
 image: "/static/img/reviews/2025_Bielskute.png"
 abstract: 

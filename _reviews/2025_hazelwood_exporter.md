@@ -1,7 +1,7 @@
 ---
 title: "Energetic and structural control of polyspecificity in a multidrug transporter"
 date: "2025-05-15" #Date of Public Review, then update to Date of Publication
-authors: "Silas T. Miller, Katherine A. Henzler-Wildman, Srivatsan Raman"
+authors: "Miller ST, Henzler-Wildman KA, Raman S"
 reviewers: "Hazelwood I, Fraser JS, Coyote-Maestas W, Anonymous Student"
 image: "/static/img/reviews/2025_miller.png"
 abstract: "This paper analyzes the role of each residue in exporter efficiency by comparing exporter function in different pH conditions, which provide different proton gradients to drive transport." 
