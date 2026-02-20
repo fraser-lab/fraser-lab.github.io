@@ -167,20 +167,9 @@ and in the <a href="https://fraserlab.com/peer_review/" target="_blank" alt = "P
 
 		</ul>
 		<ul class="col">
-		{% if review.published %}
+		{% if review.highlight %}
 			<h5>Post-Review</h5>
-			<h6>Access the paper</h6>
-			{% for record in review.published %}
-				{% if record.pmid %}
-				<li>PMID: <a href="http://www.ncbi.nlm.nih.gov/pubmed/{{record.pmid}}" target="_blank" alt = "pubmed link: {{record.pmid}}">{{record.pmid}}</a></li>
-				{% endif %}
-				{% if record.pdf %}
-				<li><a href="{{record.pdf}}" target="_blank" alt="link to full text: {{record.pdf}}">Full Text</a></li>
-				{% endif %}
-			{% endfor %}
-
-			{% if review.highlight %}
-				<br><h6>Highlight</h6>
+				<h6>Highlight</h6>
 				{% for record in review.highlight %}
 					<!--Article Title-->
 					{% if record.title %}
@@ -214,7 +203,6 @@ and in the <a href="https://fraserlab.com/peer_review/" target="_blank" alt = "P
 					{% endif %}
 
 				{% endfor %}
-			{% endif %}
 		{% endif %}
 		</ul>
 	</div>
