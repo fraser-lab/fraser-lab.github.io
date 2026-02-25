@@ -4,7 +4,6 @@ date: "2022-06-20"
 authors: "Flynn JM, Samant N, Schneider-Nachum G, Barkan DT, Yilmaz NK, Schiffer CA, Moquin SA, Dovala D, Bolon DNA"
 reviewers: "Macdonald CB, Fraser JS"
 image: "/static/img/reviews/2022_flynn.png"
-abstract: ""
 
 peer-review:
 - biorxiv: "2022.01.26.477860" #biorxiv versioned ID, example "5533316v1"

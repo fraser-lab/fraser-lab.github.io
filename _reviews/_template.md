@@ -4,8 +4,6 @@ date: "YYYY-MM-DD" #Date of Public Review
 authors: "Lastname AB, Lastname CD, Lastname EF" #Use Lastname Initials format, NOT full first names
 reviewers: "Lastname AB, Fraser JS"
 image: "/static/img/reviews/YYYY_FirstAuthorLastname.png"
-abstract: "" #optional one-sentence abstract
-
 peer-review:
 - biorxiv: "" #biorxiv versioned ID, example "2025.02.03.636309"
   chemrxiv: "" #ChemRxiv ID, example "10001784"

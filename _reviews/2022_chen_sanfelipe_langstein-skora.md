@@ -4,7 +4,6 @@ date: "2022-03-02"
 authors: "Langstein-Skora I, Schmid A, Emenecker RJ, Richardson MOG, Götz MJ, Payer SK, Korber P, Holehouse AS"
 reviewers: "Chen D, San Felipe CJ, Fraser JS"
 image: "/static/img/reviews/2022_langstein-skora.png"
-abstract: ""
 
 peer-review:
 - biorxiv: "2022.02.10.480018" #biorxiv versioned ID, example "5533316v1"

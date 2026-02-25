@@ -4,7 +4,6 @@ date: "2026-02-25" #Date of Public Review
 authors: "Zhao, K., Xiang, C., Cheng, B., Shen, Y., Wang, W., Chen, S., Su, B., Zhang, G., Peng, Z., and Yang, J." #Use Lastname Initials format, NOT full first names
 reviewers: "Tong A, Bali S,  Fraser JS"
 image: "/static/img/reviews/2026_Zhao.png"
-abstract: "This paper present a diffusion model that generates folding pathways with interpretable states across the diffusion denoising schedule leveraging evolutionary context allowing the rapid generation of pathway intermediates." #optional one-sentence abstract
 
 peer-review:
 - biorxiv: "2026.01.16.699856" #biorxiv versioned ID, example 

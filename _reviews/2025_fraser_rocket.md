@@ -4,7 +4,6 @@ date: "2025-07-15" #Date of Public Review, then update to Date of Publication
 authors: "Fadini A, Li M, McCoy AJ, Terwilliger TC, Read RJ, Hekstra D, AlQuraishi M"
 reviewers: "Fraser JS, Wankowicz SA, Chrispens KM"
 image: "/static/img/reviews/2025_rocket.png"
-abstract: "The authors present ROCKET, a method to improve structures from AlphaFold 2 with experimental data from X-ray crystallography, cryoEM, and cryoET."
 
 peer-review:
 - biorxiv: "2025.02.18.638828" #biorxiv versioned ID, example "5533316v1"

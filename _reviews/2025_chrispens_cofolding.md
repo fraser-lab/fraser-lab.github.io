@@ -4,7 +4,6 @@ date: "2025-06-20" #Date of Public Review, then update to Date of Publication
 authors: "Škrinjar P, Eberhardt J, Durairaj J, Schwede T"
 reviewers: "Chrispens KM, Hazelwood I, Fraser JS"
 image: "/static/img/reviews/2025_cofolding.png"
-abstract: "This paper assesses the performance of recent docking/co-folding methods through a series of stringent tests."
 
 peer-review:
 - biorxiv: "2025.02.03.636309" #biorxiv versioned ID, example "5533316v1"
