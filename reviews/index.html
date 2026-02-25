@@ -84,7 +84,14 @@ and in the <a href="https://fraserlab.com/peer_review/" target="_blank" alt = "P
 
 				<!--Chemrxiv-->
 				{% if record.chemrxiv %}
-				<li>ChemRxiv Preprint: <a href=" https://doi.org/10.26434/chemrxiv.{{record.chemrxiv}}" target="_blank" alt = "chemrxiv preprint link: {{record.chemrxiv}}">{{record.chemrxiv}}</a></li>
+					{% assign filename_parts = review.id | split: "/" %}
+					{% assign filename = filename_parts | last %}
+					{% assign year_prefix = filename | slice: 0, 4 | plus: 0 %}
+					{% if year_prefix >= 2026 %}
+				<li>ChemRxiv Preprint: <a href="https://doi.org/10.26434/chemrxiv.{{record.chemrxiv}}/v1" target="_blank" alt = "chemrxiv preprint link: {{record.chemrxiv}}">{{record.chemrxiv}}</a></li>
+					{% else %}
+				<li>ChemRxiv Preprint: <a href="https://doi.org/10.26434/chemrxiv-{{record.chemrxiv}}" target="_blank" alt = "chemrxiv preprint link: {{record.chemrxiv}}">{{record.chemrxiv}}</a></li>
+					{% endif %}
 				{% endif %}
 
 				<!--Preprints.org -->
