@@ -7,7 +7,6 @@ pmid:
 tags:
   - Scientific Community 
 pmcid: 
-doi: "10.31219/osf.io/2xh3w"
 pdf: 
 osf: "2xh3w"
 ---

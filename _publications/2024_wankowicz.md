@@ -7,7 +7,6 @@ pmid:
 tags:
   - Scientific Community 
 pmcid: 
-doi: "10.5281/zenodo.11179893"
 pdf: 
 zenodo:
   - code: "11391920"
