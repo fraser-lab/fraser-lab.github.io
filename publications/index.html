@@ -92,11 +92,6 @@ Co-first authors are marked with &#42; so we check for &#42;** which indicates a
 		<li>PMCID: <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/{{publication.pmcid}}" title = "PubMed Central: {{publication.pmcid}} (opens in new tab)" target="_blank"> {{publication.pmcid}}</a></li>
 		{% endif %}
 
-		<!--DOI - optional -->
-		{% if publication.doi %}
-		<li>DOI: <a href="https://doi.org/{{publication.doi}}" title = "DOI: {{publication.doi}} (opens in new tab)" target="_blank"> {{publication.doi}}</a></li>
-		{% endif %}
-
 		<!--Biorxiv - optional -->
 			{% if publication.biorxiv %}
 			{% assign bval = publication.biorxiv %}

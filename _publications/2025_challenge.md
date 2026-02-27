@@ -5,7 +5,6 @@ journal: "Journal of Chemical Information and Modeling"
 chemrxiv: "2025-zd9mr"
 pub_date: "2026-02-26"
 pmid: "41749419"
-doi: "10.1021/acs.jcim.5c02106"
 image: "/static/img/pub/2025_challenge.png"
 tags:
   - Drug Discovery
