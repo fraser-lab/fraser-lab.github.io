@@ -8,7 +8,6 @@ pmid: "38306978"
 tags:
   - Scientific Community
 pmcid: "PMC10947451"
-doi: "10.1016/j.cell.2024.01.003"
 pdf: "http://cdn.fraserlab.com/publications/2024_fraser.pdf"
 links:
 - name: "In the pipeline: John Keats Would Like a Word"
