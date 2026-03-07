@@ -23,5 +23,5 @@ paired_maps_and_models:
     emdb: "75634"
 links:
   - name: "Badran Lab @ Scripps"
-    url: "https://www.badranlab.org/"
+    url: "https://badran.scripps.edu/"
 ---
