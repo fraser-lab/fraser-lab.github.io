@@ -2,7 +2,6 @@
 title: Peer review in high throughput biophysics
 layout: default
 group: courses
-permalink: /peer_review/
 ---
 
 # Peer Review in High Throughput Biophysics

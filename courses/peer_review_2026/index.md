@@ -2,7 +2,7 @@
 title: Peer review on AI in Biology
 layout: default
 group: courses
-# permalink: /peer_review/
+permalink: /peer_review/
 ---
 
 # Peer Review on AI in Biology
@@ -98,7 +98,7 @@ Background material!
 - BC to present on AI culture
 - confirm pairings for papers to review
 - pitch 2 preprints you are interested in reviewing
-  - Our running [google doc of cool preprints on AI in Biology]()
+  - Our running [google doc of cool preprints on AI in Biology](https://docs.google.com/document/d/1lqdWA70yaETfPtemyNCtXIw01zjZMdJdoZ9y6ic4fiw/edit?tab=t.0)
 
 - [How to read a paper for peer review - adapted from HHMI TAP presentation](https://docs.google.com/presentation/d/1TC2RuZS-AaFM0-A-gUsss4bdwDYcZkHgSsK59baJQyc/edit?usp=sharing)
 - Why do we peer review and what makes good peer review?
