@@ -3,7 +3,7 @@ title: "Molecular evidence of widespread benzimidazole drug resistance in *Ancyl
 authors: "Venkatesan A, Jimenez Castro PD, Morosetti A, Horvath H, Chen R,  Redman E, Dunn K, Collins JB, **Fraser JS**, Andersen EC, Kaplan RM, Gilleard JS"
 journal: "PLoS Pathogens"
 pub_date: "2023-03-02" #Date of journal publication, NOT BIORXIV UPLOAD
-image: "/static/img/pub/2022_venkatesan.png" #Minimum dimensions of
+image: "/static/img/pub/2022_venkatesan.jpg" #Minimum dimensions of
 pmid: "36862759"
 tags:
   - Collaborations

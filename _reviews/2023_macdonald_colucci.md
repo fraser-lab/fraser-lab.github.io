@@ -4,7 +4,7 @@ date: "2023-03-31"
 authors: "Colucci E, Anshari ZR, Patiño-Ruiz MF, Nemchinova M, Whittaker J, Slotboom DJ, Guskov A"
 
 reviewers: "Macdonald CB"
-image: "/static/img/reviews/2023_colucci.png"
+image: "/static/img/reviews/2023_colucci.jpg"
 
 peer-review:
  - pdf: "http://cdn.fraserlab.com/reviews/2023_colucci_review.pdf"

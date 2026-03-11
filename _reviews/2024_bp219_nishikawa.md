@@ -3,7 +3,7 @@ title: "Highly multiplexed design of an allosteric transcription factor to sense
 date: "2024-05-22"
 authors: "Nishikawa KK, Chen J, Acheson JF, Harbaugh SV, Huss P, Frenkel M, Novy N, Sieren HR, Lodewyk EC, Lee DH, Chávez JL, Fox BG, Raman S"
 reviewers: "Mullin-Bernstein Z, Chrispens K, Coyote-Maestas W, Fraser JS"
-image: "/static/img/reviews/2024_nishikawa.png"
+image: "/static/img/reviews/2024_nishikawa.jpg"
 
 peer-review:
  - biorxiv: "2024.03.07.583947"

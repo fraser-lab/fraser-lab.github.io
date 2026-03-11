@@ -3,7 +3,7 @@ title: "Ab initio phasing macromolecular structures using electron-counted Micro
 date: "2022-05-30"
 authors: "Martynowycz MW, Clabbers MTB, Hattne J, and Gonen T"
 reviewers: "Young ID, Fraser JS"
-image: "/static/img/reviews/2021_martynowycz.png"
+image: "/static/img/reviews/2021_martynowycz.jpg"
 
 peer-review:
 - biorxiv: "2021.10.16.464672"

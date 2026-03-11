@@ -3,7 +3,7 @@ title: "Type 2 innate immunity regulates hair follicle homeostasis to control De
 authors: "Ricardo-Gonzalez RR, Kotas ME, Tenvooren I, Marquez DM, Fassett MS, Lee J, Daniel SG, Bittinger K, **Díaz RE, Fraser JS**, Ansel KM, Spitzer MH, Liang HE, Locksley RM"
 journal: "Immunity"
 pub_date: "2022-10-11"
-image: "/static/img/pub/2021_ricardo_gonzalez.png"
+image: "/static/img/pub/2021_ricardo_gonzalez.jpg"
 pmid: "36044899"
 tags:
   - Chitinases
