@@ -11,6 +11,7 @@ permalink: /peer_review/
 
 **Course Days/Hours/Locations:**  
 * 5/11, 5/12, 5/13, 5/18-22, 5/26 3-5PM
+* all classes in BH 215
 
 **Instructors:** [James Fraser](mailto:jfraser@fraserlab.com), [Brian Cheung]()
 
