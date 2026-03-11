@@ -6,7 +6,6 @@ reviewers: "Tong A, Bali S,  Fraser JS"
 image: "/static/img/reviews/2026_Zhao.png"
 
 peer-review:
-- biorxiv: "2026.01.16.699856" #biorxiv versioned ID, example 
-  prereview: "10.5281/zenodo.18764111
-" #PREreview.org ID, example "15708197"
+- biorxiv: "2026.01.16.699856" #biorxiv versioned ID, example "5533316v1"
+  prereview: "18764111" #PREreview.org ID, example "15708197"
 ---
