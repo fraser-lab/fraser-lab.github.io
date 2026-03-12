@@ -6,10 +6,13 @@ group: Speakers
 
 # 2026 Speakers
 
-- [Alisia Fadini](https://www.linkedin.com/in/alisia-fadini-baa1ba220?originalSubdomain=uk)
-- [Hannah Wayment-Steele](https://waymentsteelelab.org/)
-- [Rohith Krishna](https://r-krishna.github.io/)
-- [Colin Jackson](https://chemistry.anu.edu.au/research/research-groups/jackson-group)
-- [Pilar Cossio](https://pilarcossio.org/)
-- [Polly Fordyce](https://www.fordycelab.com/)
+- [Nozomi Ando, Cornell University](https://ando.chem.cornell.edu/)
+- [Pilar Cossio, Flatiron Institute](https://pilarcossio.org/)
+- [Alisia Fadini, Columbia University](https://www.linkedin.com/in/alisia-fadini-baa1ba220?originalSubdomain=uk)
+- [Polly Fordyce, Stanford University](https://www.fordycelab.com/)
+- [Colin Jackson, Australian National University](https://chemistry.anu.edu.au/research/research-groups/jackson-group)
+- [Rohith Krishna, Institute for Protein Design, University of Washington](https://r-krishna.github.io/)
+- [Matthew McPartlon, Chai Discovery](https://www.chaidiscovery.com/)
+- [Mike Thompson, UC Merced](https://thompsonlab.science/)
+- [Hannah Wayment-Steele, University of Wisconsin, Madison](https://waymentsteelelab.org/)
 
