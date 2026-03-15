@@ -1,5 +1,5 @@
 ---
-name: Daphne Chen
+name: Daphne Chen, Ph.D.
 startdate: [2021-06-21]
 enddate: [2025-10-25]
 image: /static/img/members/chen.jpg #365 x 365 pixels, 72 dpi
