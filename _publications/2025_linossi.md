@@ -7,7 +7,7 @@ image: "/static/img/pub/2025_linossi.jpg"
 pmid: "41383124"
 tags:
   - Collaborations
-pmcid: #"PMC#######"
+pmcid: "PMC12751062"
 pdf: "http://cdn.fraserlab.com/publications/2025_linossi.pdf"
 biorxiv: "2025.10.19.683305"
 links:

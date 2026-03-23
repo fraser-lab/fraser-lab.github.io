@@ -8,7 +8,7 @@ pmid: "41406955"
 tags:
   - Macrodomain
   - Drug Discovery
-pmcid: #"PMC#######"
+pmcid: "PMC12788873"
 biorxiv: "2025.10.11.681833"
 pdf: "http://cdn.fraserlab.com/publications/2025_jaishankar.pdf"
 pdbs:
