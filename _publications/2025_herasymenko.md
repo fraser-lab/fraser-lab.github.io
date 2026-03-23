@@ -9,7 +9,7 @@ tags:
   - Macrodomain
   - Drug Discovery
   - Scientific Community
-# pmcid: #""
+pmcid: "PMC12892310"
 chemrxiv: "2025-d1v7v"
 pdf: "http://cdn.fraserlab.com/publications/2025_herasymenko.pdf"
 pdbs:
