@@ -7,7 +7,7 @@ image: "/static/img/pub/2026_chodera.png"
 tags:
   - Scientific Community
 pmid: "41651797"
-# pmcid: ""
+pmcid: "PMC12933711"
 preprints: "202512.1130/v1"
 pdf: "https://cdn.fraserlab.com/publications/2026_chodera.pdf"
 
