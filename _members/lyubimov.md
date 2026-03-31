@@ -5,7 +5,7 @@ startdate: [2026-03-09]
 enddate: #[]
 image: /static/img/members/lyubimov.jpg
 altimage: /static/img/members/lyubimov_pb.jpg
-position: Full Specialist
+position: Staff Scientist
 pronouns: he/him/his, they/them/theirs
 email: artem.lyubimov (at) ucsf.edu
 scholar: 
