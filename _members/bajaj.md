@@ -2,11 +2,11 @@
 name: Priyanka Bajaj, Ph.D.
 timeline_name: #Fill this out if you'd like your name to appear differently on the Timeline.
 startdate: [2022-10-01]
-enddate: #[YYYY-MM-DD]
+enddate: [2026-03-31]
 image: /static/img/members/bajaj.jpg #365 x 365 pixels, 72 dpi
 altimage: /static/img/members/bajaj_pb.jpg #365 x 365 pixels, 72 dpi
 position: Postdoctoral Scholar
-#subsequent:  update once you become an alumnus
+subsequent: CEO/Founder, Stealth Biotech
 pronouns: she/her/hers #personal pronouns
 email: priyanka.bajaj (at) ucsf.edu #Preferred public email address
 scholar: npMdXYIAAAAJ #Google Scholar User ID
