@@ -14,6 +14,7 @@ group: Speakers
 - [Polly Fordyce, Stanford University](https://www.fordycelab.com/)
 - [Colin Jackson, Australian National University](https://chemistry.anu.edu.au/research/research-groups/jackson-group)
 - [Rohith Krishna, Institute for Protein Design, University of Washington](https://r-krishna.github.io/)
+- [Karson Chrispens, UCSF](https://k-chrispens.github.io/)
 - [Matthew McPartlon, Chai Discovery](https://www.chaidiscovery.com/)
 - [Frederic Poitevin, SLAC](https://profiles.stanford.edu/frdric-poitevin) 
 - [Mike Thompson, UC Merced](https://thompsonlab.science/)
