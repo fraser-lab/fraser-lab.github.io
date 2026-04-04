@@ -6,9 +6,13 @@ group: schedule
 
 9	9:30	Introduction & Welcome: Stephanie Wankowicz
 9:30	9:50	Nozomi Ando
+
 9:50	10:10	Hannah Wayment Steele
+
 10:10	10:30	Discussion
+
 10:30	11:10	Break
+
 11:10	11:30	Rotith Krishna
 11:30	11:50	Matt McPartlon
 11:50	12:10	Discussion
