@@ -6,17 +6,18 @@ group: Speakers
 
 # 2026 Speakers
 
-- [Nozomi Ando, Cornell University](https://ando.chem.cornell.edu/)
-- [Alex Bronstein, ISTA](https://jhdavislab.mit.edu/)
-- [Pilar Cossio, Flatiron Institute](https://pilarcossio.org/)
-- [Joey Davis, MIT](https://jhdavislab.mit.edu/)
-- [Alisia Fadini, Columbia University](https://www.linkedin.com/in/alisia-fadini-baa1ba220?originalSubdomain=uk)
-- [Polly Fordyce, Stanford University](https://www.fordycelab.com/)
-- [Colin Jackson, Australian National University](https://chemistry.anu.edu.au/research/research-groups/jackson-group)
-- [Rohith Krishna, Institute for Protein Design, University of Washington](https://r-krishna.github.io/)
-- [Karson Chrispens, UCSF](https://k-chrispens.github.io/)
-- [Matthew McPartlon, Chai Discovery](https://www.chaidiscovery.com/)
-- [Frederic Poitevin, SLAC](https://profiles.stanford.edu/frdric-poitevin) 
-- [Mike Thompson, UC Merced](https://thompsonlab.science/)
-- [Hannah Wayment-Steele, University of Wisconsin, Madison](https://waymentsteelelab.org/)
-
+| Speaker | Affiliation |
+|---------|-------------|
+| [Nozomi Ando](https://ando.chem.cornell.edu/) | Cornell University |
+| [Alex Bronstein](https://jhdavislab.mit.edu/) | ISTA |
+| [Karson Chrispens](https://k-chrispens.github.io/) | UCSF |
+| [Pilar Cossio](https://pilarcossio.org/) | Flatiron Institute |
+| [Joey Davis](https://jhdavislab.mit.edu/) | MIT |
+| [Alisia Fadini](https://www.linkedin.com/in/alisia-fadini-baa1ba220?originalSubdomain=uk) | Columbia University |
+| [Polly Fordyce](https://www.fordycelab.com/) | Stanford University |
+| [Colin Jackson](https://chemistry.anu.edu.au/research/research-groups/jackson-group) | Australian National University |
+| [Rohith Krishna](https://r-krishna.github.io/) | Institute for Protein Design, UW |
+| [Matthew McPartlon](https://www.chaidiscovery.com/) | Chai Discovery |
+| [Frederic Poitevin](https://profiles.stanford.edu/frdric-poitevin) | SLAC |
+| [Mike Thompson](https://thompsonlab.science/) | UC Merced |
+| [Hannah Wayment-Steele](https://waymentsteelelab.org/) | University of Wisconsin, Madison |

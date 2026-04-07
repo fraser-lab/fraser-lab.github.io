@@ -18,7 +18,4 @@
   link: "/register"
   group: register
 
-- name: paper submission
-  link: "/paper_submission"
-  group: paper_submission
 
