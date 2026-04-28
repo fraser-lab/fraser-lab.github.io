@@ -61,6 +61,9 @@ pdbs:
   - "13UY"
   - "13UZ"
   - "13VA"
+zenodo:
+  - code: "19750678"
+    description: "PanDDA analysis of Orf9b fragment screen"
 links:
   - name: "Grabe Lab @ UCSF"
     url: "https://www.grabelab.org/"
