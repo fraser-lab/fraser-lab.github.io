@@ -9,7 +9,7 @@ tags:
 pmid: "41651797"
 pmcid: "PMC12933711"
 preprints: "202512.1130/v1"
-pdf: "https://cdn.fraserlab.com/publications/2026_chodera.pdf"
+pdf: "http://cdn.fraserlab.com/publications/2026_chodera.pdf"
 
 links:
   - name: "Chodera lab @ MSKCC"

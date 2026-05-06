@@ -10,7 +10,7 @@ tags:
   - Drug Discovery
   - Scientific Community
 # pmcid: ""
-pdf: "https://cdn.fraserlab.com/publications/2025_challenge.pdf"
+pdf: "http://cdn.fraserlab.com/publications/2025_challenge.pdf"
 links:
 - name: "Dataset"
   url: https://blog.omsf.io/how-to-access-the-asap-discovery-x-polarishub-x-openadmet-challenge-data/
