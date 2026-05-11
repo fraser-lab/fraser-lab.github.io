@@ -106,8 +106,20 @@ Background material!
 - Writing and Receiving Peer Review and expecations for written reviews
 
 
-### 5/18-22, 
-Presentations by students
+### 5/18
+Adam Fillion & Beau Lonnquist
+
+### 5/19
+Janie Oberhauser & Bivas Nag
+
+### 5/20
+Barbara Perez & Parmis Abdoli
+
+### 5/21
+Varvara ("Barbara") Shvareva & Andres Olavarrieta Colasurdo
+
+### 5/22
+Jonah Frazier & Andoni Asencor
 
 ### 5/26
 Holding for final edits and presentation if needed
