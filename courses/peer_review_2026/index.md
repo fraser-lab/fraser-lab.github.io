@@ -107,19 +107,19 @@ Background material!
 
 
 ### 5/18
-Adam Fillion & Beau Lonnquist
+Adam Fillion & Beau Lonnquist - [biorxiv preprint](https://www.biorxiv.org/content/10.64898/2026.04.23.720277v1)
 
 ### 5/19
-Janie Oberhauser & Bivas Nag
+Janie Oberhauser & Bivas Nag - [biorxiv preprint](https://www.biorxiv.org/content/10.1101/2025.08.17.670735v2)
 
 ### 5/20
-Barbara Perez & Parmis Abdoli
+Barbara Perez & Parmis Abdoli - [biorxiv preprint](https://www.biorxiv.org/content/10.64898/2026.03.09.710548v1.full)
 
 ### 5/21
-Varvara ("Barbara") Shvareva & Andres Olavarrieta Colasurdo
+Varvara ("Barbara") Shvareva & Andres Olavarrieta Colasurdo - [biorxiv preprint](https://www.biorxiv.org/content/10.64898/2025.12.19.695620v2.full)
 
 ### 5/22
-Jonah Frazier & Andoni Asencor
+Jonah Frazier & Andoni Asencor - [biorxiv preprint](https://www.biorxiv.org/content/10.1101/2025.05.22.655474v1.full)
 
 ### 5/26
 Holding for final edits and presentation if needed
