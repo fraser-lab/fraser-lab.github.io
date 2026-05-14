@@ -5,7 +5,7 @@ enddate: [2024-08-18]
 image: /static/img/members/Ravikumar.jpg #365 x 365 pixels, 72 dpi
 altimage: /static/img/members/Ravikumar_pb.jpg #365 x 365 pixels, 72 dpi
 position: Postdoctoral Scholar
-#subsequent:  update once you become an alumnus
+subsequent: Structural Bioinformatician, [ALLOX](https://www.allox.bio/)
 pronouns: she/her/hers
 email: aravikumar (at) fraserlab.com #Preferred public email address
 scholar: _SvS-m8AAAAJ #Google Scholar User ID
