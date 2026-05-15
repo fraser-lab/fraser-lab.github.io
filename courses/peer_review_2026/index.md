@@ -116,10 +116,10 @@ Janie Oberhauser & Bivas Nag - [biorxiv preprint](https://www.biorxiv.org/conten
 Barbara Perez & Parmis Abdoli - [biorxiv preprint](https://www.biorxiv.org/content/10.64898/2026.03.09.710548v1.full)
 
 ### 5/21
-Varvara ("Barbara") Shvareva & Andres Olavarrieta Colasurdo - [biorxiv preprint](https://www.biorxiv.org/content/10.64898/2025.12.19.695620v2.full)
+Jonah Frazier & Andoni Asencor - [biorxiv preprint](https://www.biorxiv.org/content/10.1101/2025.05.22.655474v1.full)
 
 ### 5/22
-Jonah Frazier & Andoni Asencor - [biorxiv preprint](https://www.biorxiv.org/content/10.1101/2025.05.22.655474v1.full)
+Varvara ("Barbara") Shvareva & Andres Olavarrieta Colasurdo - [biorxiv preprint](https://www.biorxiv.org/content/10.64898/2025.12.19.695620v2.full)
 
 ### 5/26
 Holding for final edits and presentation if needed
