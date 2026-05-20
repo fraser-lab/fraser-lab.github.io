@@ -107,10 +107,10 @@ Background material!
 
 
 ### 5/18
-Adam Fillion & Beau Lonnquist - [biorxiv preprint](https://www.biorxiv.org/content/10.64898/2026.04.23.720277v1)
+Adam Fillion & Beau Lonnquist - [biorxiv preprint](https://www.biorxiv.org/content/10.64898/2026.04.23.720277v1) - [presentation](http://cdn.fraserlab.com/courses/peer_review_2026/enzyme.pdf)
 
 ### 5/19
-Janie Oberhauser & Bivas Nag - [biorxiv preprint](https://www.biorxiv.org/content/10.1101/2025.08.17.670735v2)
+Janie Oberhauser & Bivas Nag - [biorxiv preprint](https://www.biorxiv.org/content/10.1101/2025.08.17.670735v2) - [presentation](http://cdn.fraserlab.com/courses/peer_review_2026/tissueformer.pdf)
 
 ### 5/20
 Barbara Perez & Parmis Abdoli - [biorxiv preprint](https://www.biorxiv.org/content/10.64898/2026.03.09.710548v1.full)
