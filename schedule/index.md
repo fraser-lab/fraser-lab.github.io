@@ -23,7 +23,7 @@ group: Schedule
 | 11:30 - 11:50 | Matt McPartlon |
 | 11:50 - 12:10 | *Discussion* |
 | 12:10 - 1:30 | *Lunch* |
-| 1:30 - 1:50 | Fred Poitevin |
+| 1:30 - 1:50 | Karson Chrispens |
 | 1:50 - 2:10 | Alisia Fadini |
 | 2:30 - 2:55 | *Discussion* |
 | 2:55 - 3:40 | *Break* |
@@ -49,7 +49,7 @@ group: Schedule
 | 1:50 - 2:10 | Pilar Cossio |
 | 2:10 - 2:30 | *Discussion* |
 | 2:30 - 3:15 | *Break* |
-| 3:15 - 3:35 | Karson Chrispens |
+| 3:15 - 3:35 | Fred Poitevin, Jay Shenoy, Sonia Kim |
 | 3:35 - 3:55 | Alex Bronstein |
 | 3:55 - 4:04 | *Discussion* |
 | 4:04 - 4:10 | **Closing** |
