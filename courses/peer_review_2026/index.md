@@ -10,7 +10,7 @@ permalink: /peer_review/
 ## Spring 2026 Syllabus
 
 **Course Days/Hours/Locations:**  
-* 5/11, 5/12, 5/13, 5/18-22, 5/26 3-5PM
+* 5/11, 5/12, 5/13, 5/18-22 3-5PM
 * all classes in BH 215
 
 **Instructors:** [James Fraser](mailto:jfraser@fraserlab.com), [Brian Cheung]()
@@ -127,6 +127,3 @@ Jonah Frazier & Andoni Asencor - *Towards pharmacokinetic profile predictions fo
 ### 5/22
 Varvara ("Barbara") Shvareva & Andres Olavarrieta Colasurdo - *De novo design of protein nanoparticles with integrated functional motifs*  
 [biorxiv preprint](https://www.biorxiv.org/content/10.64898/2025.12.19.695620v2.full)
-
-### 5/26
-Holding for final edits and presentation if needed
