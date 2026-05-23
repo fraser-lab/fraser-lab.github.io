@@ -96,6 +96,8 @@ Background material!
 - Intro to class, overview of preprints to review, assigning pairs, expectations for presentations and readers
 - Discussion on [this article on AI in peer review](https://www.timeshighereducation.com/opinion/ai-not-peer-so-it-cant-do-peer-review)
 - [JF presentation on new developments in peer review](https://docs.google.com/presentation/d/1fJ0GSY6f3mYV4foIYc9GqwqQiA-0F0QU4gQzpJNp-Ng/edit?usp=sharing)
+  - [A proposal for the future of scientific publishing in the life sciences](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000116) by Bodo M. Stern & Erin K. O'Shea (HHMI)
+  - [Realigning incentives for biomedical researchers and journals through researcher-shared outputs](https://zenodo.org/records/19600714) by Bodo M. Stern & Erin K. O'Shea
 - BC to present on AI culture
 - confirm pairings for papers to review
 - pitch 2 preprints you are interested in reviewing
@@ -107,19 +109,24 @@ Background material!
 
 
 ### 5/18
-Adam Fillion & Beau Lonnquist - *Zero-shot design of a de novo metalloenzyme* - [biorxiv preprint](https://www.biorxiv.org/content/10.64898/2026.04.23.720277v1) - [presentation](http://cdn.fraserlab.com/courses/peer_review_2026/enzyme.pdf) - [prereview](https://prereview.org/reviews/20318681)
+Adam Fillion & Beau Lonnquist - *Zero-shot design of a de novo metalloenzyme*  
+[biorxiv preprint](https://www.biorxiv.org/content/10.64898/2026.04.23.720277v1) - [presentation](http://cdn.fraserlab.com/courses/peer_review_2026/enzyme.pdf) - [prereview](https://prereview.org/reviews/20318681)
 
 ### 5/19
-Janie Oberhauser & Bivas Nag - *TissueFormer: Extending single-cell foundation models to predict population-level phenotypes* - [biorxiv preprint](https://www.biorxiv.org/content/10.1101/2025.08.17.670735v2) - [presentation](http://cdn.fraserlab.com/courses/peer_review_2026/tissueformer.pdf) - [prereview](https://prereview.org/reviews/203348)
+Janie Oberhauser & Bivas Nag - *TissueFormer: Extending single-cell foundation models to predict population-level phenotypes*  
+[biorxiv preprint](https://www.biorxiv.org/content/10.1101/2025.08.17.670735v2) - [presentation](http://cdn.fraserlab.com/courses/peer_review_2026/tissueformer.pdf) - [prereview](https://prereview.org/reviews/203348)
 
 ### 5/20
-Barbara Perez & Parmis Abdoli - *Fung-AI: An AI/ML-driven pipeline for antifungal peptide discovery* - [biorxiv preprint](https://www.biorxiv.org/content/10.64898/2026.03.09.710548v1.full) - [presentation](http://cdn.fraserlab.com/peer_review_2026/fungai.pdf) - [prereview](https://prereview.org/reviews/20336038)
+Barbara Perez & Parmis Abdoli - *Fung-AI: An AI/ML-driven pipeline for antifungal peptide discovery*  
+[biorxiv preprint](https://www.biorxiv.org/content/10.64898/2026.03.09.710548v1.full) - [presentation](http://cdn.fraserlab.com/peer_review_2026/fungai.pdf) - [prereview](https://prereview.org/reviews/20336038)
 
 ### 5/21
-Jonah Frazier & Andoni Asencor - *Towards pharmacokinetic profile predictions for monoclonal antibodies using sequence based machine learning derived parameters and compartmental modeling* - [biorxiv preprint](https://www.biorxiv.org/content/10.1101/2025.05.22.655474v1.full) - [presentation](http://cdn.fraserlab.com/peer_review_2026/pk.pdf) - [prereview](https://prereview.org/reviews/20357886)
+Jonah Frazier & Andoni Asencor - *Towards pharmacokinetic profile predictions for monoclonal antibodies using sequence based machine learning derived parameters and compartmental modeling*  
+[biorxiv preprint](https://www.biorxiv.org/content/10.1101/2025.05.22.655474v1.full) - [presentation](http://cdn.fraserlab.com/peer_review_2026/pk.pdf) - [prereview](https://prereview.org/reviews/20357886)
 
 ### 5/22
-Varvara ("Barbara") Shvareva & Andres Olavarrieta Colasurdo - *De novo design of protein nanoparticles with integrated functional motifs* - [biorxiv preprint](https://www.biorxiv.org/content/10.64898/2025.12.19.695620v2.full)
+Varvara ("Barbara") Shvareva & Andres Olavarrieta Colasurdo - *De novo design of protein nanoparticles with integrated functional motifs*  
+[biorxiv preprint](https://www.biorxiv.org/content/10.64898/2025.12.19.695620v2.full)
 
 ### 5/26
 Holding for final edits and presentation if needed
