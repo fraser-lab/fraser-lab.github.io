@@ -1,16 +1,16 @@
 ---
-title: "OpenADMET: Embracing the Avoid-Ome to Transform Drug Discovery"
+title: "Mapping the avoid-ome: a systematic open-science approach to predictive ADMET"
 authors: "**Fraser JS**, Edgar S, Handly LN, Kosuri S, Chodera JD, Murcko M, Walters WP"
-# journal: ""
-pub_date: "2025-12-12"
-image: "/static/img/pub/2025_fraser.jpg"
+journal: "Nature Communications"
+pub_date: "2026-05-25"
+image: "/static/img/pub/2026_fraser.jpg"
 tags:
   - Scientific Community
   - Drug Discovery
-# pmid: ""
+pmid: "42185284"
 # pmcid: ""
 preprints: "202512.1202/v1"
-# pdf: ""
+pdf: "http://cdn.fraserlab.com/publications/2026_fraser.pdf"
 
 links:
   - name: "OpenADMET"
