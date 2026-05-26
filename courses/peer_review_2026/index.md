@@ -118,12 +118,12 @@ Janie Oberhauser & Bivas Nag - *TissueFormer: Extending single-cell foundation m
 
 ### 5/20
 Barbara Perez & Parmis Abdoli - *Fung-AI: An AI/ML-driven pipeline for antifungal peptide discovery*  
-[biorxiv preprint](https://www.biorxiv.org/content/10.64898/2026.03.09.710548v1.full) - [presentation](http://cdn.fraserlab.com/peer_review_2026/fungai.pdf) - [prereview](https://prereview.org/reviews/20336038)
+[biorxiv preprint](https://www.biorxiv.org/content/10.64898/2026.03.09.710548v1.full) - [presentation](http://cdn.fraserlab.com/courses/peer_review_2026/fungai.pdf) - [prereview](https://prereview.org/reviews/20336038)
 
 ### 5/21
 Jonah Frazier & Andoni Asencor - *Towards pharmacokinetic profile predictions for monoclonal antibodies using sequence based machine learning derived parameters and compartmental modeling*  
-[biorxiv preprint](https://www.biorxiv.org/content/10.1101/2025.05.22.655474v1.full) - [presentation](http://cdn.fraserlab.com/peer_review_2026/pk.pdf) - [prereview](https://prereview.org/reviews/20357886)
+[biorxiv preprint](https://www.biorxiv.org/content/10.1101/2025.05.22.655474v1.full) - [presentation](http://cdn.fraserlab.com/courses/peer_review_2026/pk.pdf) - [prereview](https://prereview.org/reviews/20357886)
 
 ### 5/22
 Varvara ("Barbara") Shvareva & Andres Olavarrieta Colasurdo - *De novo design of protein nanoparticles with integrated functional motifs*  
-[biorxiv preprint](https://www.biorxiv.org/content/10.64898/2025.12.19.695620v2.full)
+[biorxiv preprint](https://www.biorxiv.org/content/10.64898/2025.12.19.695620v2.full) - [presentation](http://cdn.fraserlab.com/courses/peer_review_2026/nanoparticles.pdf)
