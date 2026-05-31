@@ -126,4 +126,4 @@ Jonah Frazier & Andoni Asencor - *Towards pharmacokinetic profile predictions fo
 
 ### 5/22
 Varvara ("Barbara") Shvareva & Andres Olavarrieta Colasurdo - *De novo design of protein nanoparticles with integrated functional motifs*  
-[biorxiv preprint](https://www.biorxiv.org/content/10.64898/2025.12.19.695620v2.full) - [presentation](http://cdn.fraserlab.com/courses/peer_review_2026/nanoparticles.pdf)
+[biorxiv preprint](https://www.biorxiv.org/content/10.64898/2025.12.19.695620v2.full) - [presentation](http://cdn.fraserlab.com/courses/peer_review_2026/nanoparticles.pdf) - [prereview](https://prereview.org/reviews/20466862)
