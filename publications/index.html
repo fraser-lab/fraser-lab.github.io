@@ -67,6 +67,9 @@ Co-first authors are marked with &#42; so we check for &#42;** which indicates a
 			{% elsif publication.preprints %}
 			<i>Preprints.org,</i>
 				{{publication.pub_date | split: "-" | first }}
+			{% elsif publication.stacks %}
+			<i>The Stacks,</i>
+				{{publication.pub_date | split: "-" | first }}
 			{% else %}
 			<i>Preprint,</i>
 				{{publication.pub_date | split: "-" | first }}
@@ -140,6 +143,11 @@ Co-first authors are marked with &#42; so we check for &#42;** which indicates a
 		<!--Preprints.org - optional -->
 		{% if publication.preprints %}
 		<li>Preprints.org Preprint: <a href="https://www.preprints.org/manuscript/{{publication.preprints}}" title = "Preprints.org Preprint: {{publication.preprints}} (opens in new tab)" target="_blank"> {{publication.preprints}}</a></li>
+		{% endif %}
+
+		<!--The Stacks - optional -->
+		{% if publication.stacks %}
+		<li>The Stacks: <a href="https://thestacks.org/publications/{{publication.stacks.slug}}" title = "The Stacks: {{publication.stacks.slug}} (opens in new tab)" target="_blank"> {{publication.stacks.slug}}</a>{% if publication.stacks.doi %} (<a href="https://doi.org/{{publication.stacks.doi}}" title = "DOI: {{publication.stacks.doi}} (opens in new tab)" target="_blank">doi: {{publication.stacks.doi}}</a>){% endif %}</li>
 		{% endif %}
 
 		<!-- PDF -->
