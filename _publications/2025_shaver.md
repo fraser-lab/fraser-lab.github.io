@@ -7,7 +7,7 @@ image: "/static/img/pub/2025_shaver.jpg"
 tags:
   - Collaborations
 pmid: "42247472"
-# pmcid: ""
+pmcid: "PMC13262929"
 biorxiv: "2025.03.13.643047"
 # pdf: ""
 links:

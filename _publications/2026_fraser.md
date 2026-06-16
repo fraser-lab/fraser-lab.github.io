@@ -8,7 +8,7 @@ tags:
   - Scientific Community
   - Drug Discovery
 pmid: "42185284"
-# pmcid: ""
+pmcid: "PMC13201627"
 preprints: "202512.1202/v1"
 pdf: "http://cdn.fraserlab.com/publications/2026_fraser.pdf"
 
