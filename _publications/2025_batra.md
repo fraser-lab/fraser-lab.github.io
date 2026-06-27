@@ -8,7 +8,7 @@ image: "/static/img/pub/2025_batra.png"
 tags:
   - Collaborations
 pmid: "42134328"
-# pmcid: ""
+pmcid: "PMC13286030"
 pdf: "http://cdn.fraserlab.com/publications/2026_batra.pdf"
 links:
  - name: "Krogan Lab"
