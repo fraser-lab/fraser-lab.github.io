@@ -9,6 +9,8 @@ tags:
 #pmid:
 #pmcid:
 biorxiv: "2026.03.05.706023"
+zenodo:
+  - code: "21078135"
 #pdf:
 paired_maps_and_models:
   - pdb: "11BQ"
