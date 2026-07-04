@@ -9,7 +9,7 @@ pmid: "41749419"
 tags:
   - Drug Discovery
   - Scientific Community
-# pmcid: ""
+pmcid: "PMC13329884"
 pdf: "http://cdn.fraserlab.com/publications/2025_challenge.pdf"
 links:
 - name: "Dataset"
