@@ -4,7 +4,7 @@ timeline_name:
 startdate: [2026-07-01]
 enddate: #[]
 image: /static/img/members/rauh.jpg
-altimage: 
+altimage: /static/img/members/rauh_pb.jpg
 position: "Postdoctoral Scholar"
 pronouns: he/him/his
 email: arriensymon.rauh (at) ucsf.edu
