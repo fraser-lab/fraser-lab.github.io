@@ -1,5 +1,5 @@
 ---
-name: Dr. Arriën Symon Rauh
+name: Arriën Symon Rauh, Ph.D.
 timeline_name:
 startdate: [2026-07-01]
 enddate: #[]
