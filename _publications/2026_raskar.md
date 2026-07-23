@@ -1,12 +1,12 @@
 ---
 title: "Structural adaptations for enhanced translation kinetics in evolved ribosomes"
 authors: "**Raskar T**&#42;, Costello A&#42;, Badran AH, **Fraser JS**"
-#journal:
-pub_date: "2026-03-05"
+journal: "Nucleic Acids Research"
+pub_date: "2026-07-17"
 image: "/static/img/pub/2026_raskar.jpg"
 tags:
   - Ribosome Structure
-#pmid:
+pmid: "42483832"
 #pmcid:
 biorxiv: "2026.03.05.706023"
 zenodo:
