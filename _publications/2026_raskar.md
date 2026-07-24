@@ -7,7 +7,7 @@ image: "/static/img/pub/2026_raskar.jpg"
 tags:
   - Ribosome Structure
 pmid: "42483832"
-#pmcid:
+pmcid: "PMC13389312"
 biorxiv: "2026.03.05.706023"
 zenodo:
   - code: "21078135"
