@@ -11,7 +11,7 @@ pmcid: "PMC13389312"
 biorxiv: "2026.03.05.706023"
 zenodo:
   - code: "21078135"
-#pdf:
+pdf: "http://cdn.fraserlab.com/publications/2026_raskar.pdf"
 paired_maps_and_models:
   - pdb: "11BQ"
     emdb: "75605"
