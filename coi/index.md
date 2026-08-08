@@ -11,7 +11,7 @@ Appointments:
 * Professor and Chair, [Department of Bioengineering and Therapeutic Sciences, Schools of Pharmacy and Medicine, University of California San Francisco](https://bts.ucsf.edu/)
 * Faculty Scientist,[Molecular Biophysics and Integrated Bioimaging, Lawrence Berkeley National Laboratory](https://biosciences.lbl.gov/divisions/mbib/)
 * Associate Director and Member, [Quantitative Biosciences Institute, University of California San Francisco](http://qbi.ucsf.edu/)
-* Co-director, Bakar Computational Biomedicine Initiative(), UCSF and UC Berkeley
+* Co-director, Bakar Computational Biomedicine Initiative, UCSF and UC Berkeley
 * Governing Board Member, [OpenADMET](https://openadmet.org/)
 * Past: Board Member, [ASAPbio](https://asapbio.org/)
 
