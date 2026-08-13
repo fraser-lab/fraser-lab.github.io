@@ -15,7 +15,7 @@ Appointments:
 * Governing Board Member, [OpenADMET](https://openadmet.org/)
 * Past: Board Member, [ASAPbio](https://asapbio.org/)
 
-Equity (held in Trust, with spouse):
+Equity (including spouse):
 
 * [Relay Therapeutics](https://relaytx.com/)
 * [Impossible Foods](https://impossiblefoods.com/)
@@ -24,8 +24,8 @@ Equity (held in Trust, with spouse):
 * [Interdict Bio](https://www.interdictbio.com/) (co-founder)
 * [Vilya Therapeutics](https://vilyatx.com/)
 * [Edison Scientific Inc.](https://edisonscientific.com/)
-* [Alloz]()
-* [IsingTx]() (co-founder)
+* [Alloz Bio](https://alloz.bio/)
+* [IsingTx](https://isingtx.com/) (co-founder)
 
 Consulting/speaker fees/travel:
 
@@ -34,7 +34,7 @@ Consulting/speaker fees/travel:
 * [Vilya Therapeutics](https://vilyatx.com/)
 * [Monimoi Therapeutics](https://monimoitx.com/)
 * [Flagship Pioneering](https://www.flagshippioneering.com/)
-* [IsingTx]()
+* [IsingTx](https://isingtx.com/)
 * Past: Amgen, Octant, Merck, Olema, RADD Pharmaceuticals, RA Capital, MoMa Therapeutics, Novartis, Arcadia Science, Genentech, Revolution Medicines, Third Rock Ventures, Calico, GSK, Schrödinger, CCG, OpenEye, Roche, AstraZeneca, Global Blood Therapeutics
 
 Sponsored and Collaborative Research:
