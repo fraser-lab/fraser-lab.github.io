@@ -48,6 +48,13 @@
   font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
 }
 
+/* Fluid hero heading: at a fixed 3.5rem the "Welcome to the Fraser Lab!"
+   heading wraps to three lines on phones, leaving "Lab!" alone as a widow.
+   Scaling with the viewport keeps it to two balanced lines. */
+.jumbotron .display-4 {
+  font-size: clamp(2rem, 11.5vw, 3.5rem);
+}
+
 
 /*
 body {
