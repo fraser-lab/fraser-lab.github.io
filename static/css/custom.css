@@ -48,11 +48,18 @@
   font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
 }
 
-/* Fluid hero heading: at a fixed 3.5rem the "Welcome to the Fraser Lab!"
-   heading wraps to three lines on phones, leaving "Lab!" alone as a widow.
-   Scaling with the viewport keeps it to two balanced lines. */
+/* Hero heading: size it against the jumbotron's own width rather than the
+   viewport, so "Welcome to the Fraser Lab!" always breaks as two full lines
+   ("Welcome to the" / "Fraser Lab!") instead of stranding a single word
+   ("the", "Lab!") on a line of its own. The non-breaking space in index.md
+   keeps the lab name itself from ever splitting. */
+.jumbotron {
+  container-type: inline-size;
+}
+
 .jumbotron .display-4 {
-  font-size: clamp(2rem, 11.5vw, 3.5rem);
+  font-size: clamp(2rem, 8.5vw, 3.5rem); /* fallback: no container queries */
+  font-size: min(3.5rem, 14.5cqi);
 }
 
 
