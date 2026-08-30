@@ -117,3 +117,50 @@ main li a {
 }
 
 
+
+/* Research page: the two boxes under the intro index the sections below, so a
+   reader can jump straight to a pillar or a question instead of scrolling the
+   whole page. Bootstrap's card and col-md-6 rules were trimmed out of
+   bootstrap.min.css, so the two-up layout is its own grid here. */
+.section-index {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1rem;
+  margin: 1.5rem 0 2rem;
+}
+
+@media (min-width: 768px) {
+  .section-index {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+.section-index > div {
+  border: 1px solid #dee2e6;
+  border-radius: 0.25rem;
+  padding: 1rem 1.25rem;
+}
+
+.section-index .idx-label {
+  font-size: 0.75rem;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: #495057;
+  margin-bottom: 0.5rem;
+}
+
+.section-index .idx-blurb {
+  font-size: 0.9rem;
+  margin-bottom: 0.75rem;
+}
+
+.section-index ul {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem 1.25rem;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  font-size: 0.9rem;
+}
