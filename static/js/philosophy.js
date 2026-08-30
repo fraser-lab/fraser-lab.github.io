@@ -15,9 +15,10 @@
       var elementPosition = element.getBoundingClientRect().top;
       var offsetPosition = elementPosition + window.pageYOffset - HEADER_OFFSET_PX;
 
+      var reduce = window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches;
       window.scrollTo({
         top: offsetPosition,
-        behavior: 'smooth'
+        behavior: reduce ? 'auto' : 'smooth'
       });
     }
 

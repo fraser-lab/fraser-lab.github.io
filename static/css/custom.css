@@ -57,6 +57,19 @@
   left: 0;
 }
 
+/* Repo paths, DOIs, accession codes and handles are single unbreakable words.
+   Left alone they push the page sideways on a phone (WCAG 1.4.10 Reflow):
+   /publications/ overflowed a 320px viewport by 252px. */
+main a,
+main li,
+main p,
+main dd,
+main h1,
+main h2,
+main h3 {
+  overflow-wrap: break-word;
+}
+
 /* Bootstrap's default link blue (#007bff) is only 3.98:1 on white and 3.36:1
    on the jumbotron, below the WCAG AA minimum of 4.5:1. This darker blue is
    7.0:1 on white and keeps the same hue. */
@@ -104,75 +117,3 @@ main li a {
 }
 
 
-/*
-body {
-  padding-top: 60px;
-  padding-bottom: 40px;
-}
-
-/*
-.navbar-default {
-  background-color: #052049;
-  border-color: #668a75;
-}
-
-.navbar-default .navbar-brand {
-  font-family: "Lucida Bright", Georgia, serif;
-
-  color: #f6f6f6;
-}
-
-.navbar-default .navbar-brand:hover, .navbar-default .navbar-brand:focus {
-  color: #fdfdfd;
-}
-.navbar-default .navbar-text {
-  color: #f6f6f6;
-}
-.navbar-default .navbar-nav > li > a {
-  color: #f6f6f6;
-}
-.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
-  color: #fdfdfd;
-}
-.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
-  color: #fdfdfd;
-  background-color: #668a75;
-}
-.navbar-default .navbar-nav > .open > a, .navbar-default .navbar-nav > .open > a:hover, .navbar-default .navbar-nav > .open > a:focus {
-  color: #fdfdfd;
-  background-color: #668a75;
-}
-.navbar-default .navbar-toggle {
-  border-color: #668a75;
-}
-.navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
-  background-color: #668a75;
-}
-.navbar-default .navbar-toggle .icon-bar {
-  background-color: #f6f6f6;
-}
-.navbar-default .navbar-collapse,
-.navbar-default .navbar-form {
-  border-color: #f6f6f6;
-}
-.navbar-default .navbar-link {
-  color: #f6f6f6;
-}
-.navbar-default .navbar-link:hover {
-  color: #fdfdfd;
-}
-
-
-@media (max-width: 767px) {
-  .navbar-default .navbar-nav .open .dropdown-menu > li > a {
-    color: #f6f6f6;
-  }
-  .navbar-default .navbar-nav .open .dropdown-menu > li > a:hover, .navbar-default .navbar-nav .open .dropdown-menu > li > a:focus {
-    color: #fdfdfd;
-  }
-  .navbar-default .navbar-nav .open .dropdown-menu > .active > a, .navbar-default .navbar-nav .open .dropdown-menu > .active > a:hover, .navbar-default .navbar-nav .open .dropdown-menu > .active > a:focus {
-    color: #fdfdfd;
-    background-color: #668a75;
-  }
-}
-*/
