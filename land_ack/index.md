@@ -1,6 +1,6 @@
 ---
-#title: Land Acknowledgement Statement
-#layout: default
+title: Land Acknowledgement Statement
+layout: default
 group: land_ack
 ---
 

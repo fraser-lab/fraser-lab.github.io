@@ -1,5 +1,5 @@
 ---
-title: BP205 Server
+title: BP205 Server 2015
 layout: default
 group: courses
 ---

@@ -1,5 +1,5 @@
 ---
-title: BP205 Server
+title: BP205 Matplotlib on the Server 2014
 layout: default
 group: courses
 ---

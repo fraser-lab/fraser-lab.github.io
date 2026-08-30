@@ -1,5 +1,5 @@
 ---
-title: Peer Review in the Life Sciences
+title: Peer Review in the Life Sciences 2020
 layout: default
 group: courses
 ---

@@ -1,5 +1,5 @@
 ---
-title: BP205
+title: "BP205: PUBS"
 layout: default
 group: courses
 ---

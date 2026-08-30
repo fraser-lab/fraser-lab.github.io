@@ -3,7 +3,7 @@ title: "Of problems and opportunities-How to treat and how to not treat crystall
 authors: "Weiss MS, Wollenhaupt J, **Correy GJ, Fraser JS**, Heine A, Klebe G, Krojer T, Thunissen M, Pearce NM"
 journal: "Protein Science"
 pub_date: "2022-08-29"
-image: "/static/img/pub/2022_weiss.png" #Minimum dimensions of
+image: "/static/img/pub/2022_weiss.jpg" #Minimum dimensions of
 pmid: "36040268"
 tags:
   - Scientific Community

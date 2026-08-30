@@ -3,7 +3,7 @@ title: "Computational Scoring and Experimental Evaluation of Enzymes Generated b
 date: "2023-05-29"
 authors: "Johnson SR, Fu X, Viknander S, Goldin C, Monaco S, Zelezniak A, Yang KK"
 reviewers: "Beazer J, Fraser JS"
-image: "/static/img/reviews/2023_johnson.png"
+image: "/static/img/reviews/2023_johnson.jpg"
 
 peer-review:
 - biorxiv: "2023.03.04.531015"

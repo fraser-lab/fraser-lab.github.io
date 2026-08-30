@@ -8,7 +8,6 @@ pmid: '35149213'
 tags:
   - Computational Modeling Methods
 pmcid: "PMC9278553"
-biorxiv: ""
 pdf: "http://cdn.fraserlab.com/publications/2022_hancock.pdf"
 pdbs:
 links:

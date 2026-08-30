@@ -42,7 +42,7 @@ and in the <a href="https://fraserlab.com/peer_review/" target="_blank" rel="noo
 			<ul>
 			{% for record in review.peer-review %}
 				<!--Biorxiv-->
-				{% if record.biorxiv %}
+				{% if record.biorxiv and record.biorxiv != "" %}
 				{% assign bval = record.biorxiv %}
 				{% if bval contains 'http' or bval contains 'doi' %}
 				<li>Biorxiv Preprint: <a href="{{ bval }}" target="_blank" rel="noopener" title= "biorxiv preprint link: {{bval}}">{{ bval }}</a></li>
@@ -69,7 +69,7 @@ and in the <a href="https://fraserlab.com/peer_review/" target="_blank" rel="noo
 				{% endif %}
 
 				<!--Arxiv-->
-				{% if record.arxiv %}
+				{% if record.arxiv and record.arxiv != "" %}
 				<li>arXiv Preprint: <a href="https://arxiv.org/abs/{{record.arxiv}}" target="_blank" rel="noopener" title= "arxiv preprint link: {{record.arxiv}}">{{record.arxiv}}</a></li>
 				{% endif %}
 
@@ -84,7 +84,7 @@ and in the <a href="https://fraserlab.com/peer_review/" target="_blank" rel="noo
 				{% endif %}
 
 				<!--Chemrxiv-->
-				{% if record.chemrxiv %}
+				{% if record.chemrxiv and record.chemrxiv != "" %}
 					{% assign filename_parts = review.id | split: "/" %}
 					{% assign filename = filename_parts | last %}
 					{% assign year_prefix = filename | slice: 0, 4 | plus: 0 %}

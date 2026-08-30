@@ -3,7 +3,7 @@ title: "Single-sequence protein structure prediction using language models from 
 date: "2022-02-08"
 authors: "Chowdhury R, Bouatta N, Biswas S, Rochereau C, Church GM, Sorger PK, and AlQuraishi M"
 reviewers: "Madani A, Fraser JS"
-image: "/static/img/reviews/2022_chowdhury.png"
+image: "/static/img/reviews/2022_chowdhury.jpg"
 
 peer-review:
 - biorxiv: "2021.08.02.454840"

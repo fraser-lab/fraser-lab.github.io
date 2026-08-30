@@ -3,7 +3,7 @@ title: "Structural basis for context-specific inhibition of translation by oxazo
 authors: "Tsai K&#42;, Stojković V&#42;, **Lee DJ&#42;**, **Young ID**, Szal T, Vazquez-Laslop N, Mankin AS, **Fraser JS**, Fujimori DG"
 journal: "Nature Structural and Molecular Biology"
 pub_date: "2022-02-14"
-image: "/static/img/pub/2021_tsai_stojkovic_lee.png"
+image: "/static/img/pub/2021_tsai_stojkovic_lee.jpg"
 pmid: "35165456"
 tags:
   - Ribosome Structure

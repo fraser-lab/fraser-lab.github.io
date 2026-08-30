@@ -1,5 +1,5 @@
 ---
-title: Peer review on AI in Biology
+title: Peer review on AI in Biology 2026
 layout: default
 group: courses
 permalink: /peer_review/

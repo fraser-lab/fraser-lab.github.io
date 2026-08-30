@@ -3,7 +3,7 @@ title: "Discovery and validation of the binding poses of allosteric fragment hit
 date: "2023-03-15"
 authors: "Greisman JB, Willmore L, Yeh CY, Giordanetto F, Shahamadtar S, Nisonoff H, Maragakis P, Shaw DE"
 reviewers: "San Felipe CJ, Fraser J"
-image: "/static/img/reviews/2023_greisman.png"
+image: "/static/img/reviews/2023_greisman.jpg"
 
 peer-review:
  - biorxiv: "2022.11.14.516467"

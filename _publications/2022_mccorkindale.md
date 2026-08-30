@@ -3,7 +3,7 @@ title: "Fragment-based hit discovery via unsupervised learning of fragment-prote
 authors: "McCorkindale W, Ahel I, Barr H, **Correy GJ**, **Fraser JS**, London N, Schuller M, Shurrush K, Lee AA"
 journal: #"Journal Name"
 pub_date: "2022-11-24" #Change from Biorxiv date to Journal date once accepted
-image: "/static/img/pub/2022_mccorkindale.png" #Minimum dimensions TBD
+image: "/static/img/pub/2022_mccorkindale.jpg" #Minimum dimensions TBD
 tags:
   - Drug Discovery
   - Computational Modeling Methods

@@ -3,7 +3,7 @@ title: "AlphaFold as a Prior: Experimental Structure Determination Conditioned o
 date: "2025-07-15" #Date of Public Review, then update to Date of Publication
 authors: "Fadini A, Li M, McCoy AJ, Terwilliger TC, Read RJ, Hekstra D, AlQuraishi M"
 reviewers: "Fraser JS, Wankowicz SA, Chrispens KM"
-image: "/static/img/reviews/2025_rocket.png"
+image: "/static/img/reviews/2025_rocket.jpg"
 
 peer-review:
 - biorxiv: "2025.02.18.638828" #biorxiv versioned ID, example "5533316v1"

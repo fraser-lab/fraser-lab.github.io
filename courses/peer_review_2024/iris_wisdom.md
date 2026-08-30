@@ -1,5 +1,5 @@
 ---
-title: Iris's Wisdom
+title: Iris's Wisdom 2024
 layout: default
 group: philosophy
 ---

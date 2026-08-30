@@ -3,7 +3,7 @@ title: "Metric Ion Classification (MIC): A deep learning tool for assigning ions
 date: "2024-04-08"
 authors: "Shub L, Liu W, Skiniotis G, Keiser M, Robertson M"
 reviewers: "Wankowicz SA"
-image: "/static/img/reviews/2024_Shub.png"
+image: "/static/img/reviews/2024_Shub.jpg"
 
 peer-review:
  - biorxiv: "2024.03.18.585639"

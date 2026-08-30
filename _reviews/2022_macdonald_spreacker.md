@@ -3,7 +3,7 @@ title: "Activating alternative transport modes in a multidrug resistance efflux 
 date: "2022-11-08"
 authors: "Spreacker PJ, Thomas N, Beeninga WF, Brousseau M, Porter CJ, Hibbs KM, Henzler-Wildman KA"
 reviewers: "Macdonald CB"
-image: "/static/img/reviews/2022_spreacker.png"
+image: "/static/img/reviews/2022_spreacker.jpg"
 
 peer-review:
  - biorxiv: "2021.12.04.471113"

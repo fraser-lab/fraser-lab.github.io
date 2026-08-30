@@ -1,5 +1,6 @@
 ---
-Title: Two new Fraser Lab papers
+title: Two new Fraser Lab papers
+author: James Fraser
 layout: post
 group: news
 tags: paper_highlights

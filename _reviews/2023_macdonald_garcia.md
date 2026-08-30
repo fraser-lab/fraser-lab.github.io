@@ -4,7 +4,7 @@ date: "2023-02-17"
 authors: "Garcia AK, Harris DF, Rivier AJ, Carruthers BM, Pinochet-Barros A, Seefeldt L, Kaçar B"
 
 reviewers: "Macdonald CB, Lee S"
-image: "/static/img/reviews/2023_garcia.png"
+image: "/static/img/reviews/2023_garcia.jpg"
 
 peer-review:
  - biorxiv: "2022.05.17.492308"

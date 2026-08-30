@@ -1,5 +1,5 @@
 ---
-title: Peer review in high throughput biophysics
+title: Peer review in high throughput biophysics 2025
 layout: default
 group: courses
 ---

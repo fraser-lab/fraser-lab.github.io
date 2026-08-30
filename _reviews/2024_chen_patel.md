@@ -3,7 +3,7 @@ title: "Unveiling Cas8 Dynamics and Regulation within a transposon-encoded Casca
 date: "2024-09-01"
 authors: "Patel A, Sinha S, Arantes P, Palermo G"
 reviewers: "Chen D, Flowers J, Fraser JS"
-image: "/static/img/reviews/2024_patel.png"
+image: "/static/img/reviews/2024_patel.jpg"
 
 peer-review:
  - biorxiv: "2024.06.21.600075"

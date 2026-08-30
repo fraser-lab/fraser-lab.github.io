@@ -3,7 +3,7 @@ title: "The SARS-CoV-2 accessory protein Orf3a is not an ion channel, but does i
 date: "2023-02-07"
 authors: "Miller AN, Houlihan PR, Matamala E, Cabezas-Bratesco D, Lee GY, Cristofori-Armstrong B, Dilan T,  Sanchez-Martinez S,  Matthies D, Yan R, Yu Z, Ren D, Brauchi SE, and Clapham DE"
 reviewers: "Anonymous Reviewer, Fraser JS"
-image: "/static/img/reviews/2023_miller.png"
+image: "/static/img/reviews/2023_miller.jpg"
 
 peer-review:
 - biorxiv: "2022.09.02.506428"

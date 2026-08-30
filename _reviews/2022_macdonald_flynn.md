@@ -3,7 +3,7 @@ title: "Comprehensive fitness landscape of SARS-CoV-2 Mpro reveals insights into
 date: "2022-06-20"
 authors: "Flynn JM, Samant N, Schneider-Nachum G, Barkan DT, Yilmaz NK, Schiffer CA, Moquin SA, Dovala D, Bolon DNA"
 reviewers: "Macdonald CB, Fraser JS"
-image: "/static/img/reviews/2022_flynn.png"
+image: "/static/img/reviews/2022_flynn.jpg"
 
 peer-review:
 - biorxiv: "2022.01.26.477860" #biorxiv versioned ID, example "5533316v1"

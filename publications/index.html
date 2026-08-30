@@ -59,7 +59,7 @@ Co-first authors are marked with &#42; so we check for &#42;** which indicates a
 			<i>{{ publication.journal }},</i>
 			{{publication.pub_date | split: "-" | first }}
 		{% else %}
-			{% if publication.biorxiv %}
+			{% if publication.biorxiv and publication.biorxiv != "" %}
 			<i>Biorxiv,</i>
 				{{publication.pub_date | split: "-" | first }}
 			{% elsif publication.chemrxiv %}
@@ -88,17 +88,17 @@ Co-first authors are marked with &#42; so we check for &#42;** which indicates a
 		<h3 class="h6">Access the paper</h3>
 		<ul>
 		<!--PMID-->
-		{% if publication.pmid %}
+		{% if publication.pmid and publication.pmid != "" %}
 		<li>PMID: <a href="http://www.ncbi.nlm.nih.gov/pubmed/{{publication.pmid}}" title = "PubMed: {{publication.pmid}} (opens in new tab)" target="_blank" rel="noopener"> {{publication.pmid}}</a></li>
 		{% endif %}
 
 		<!--PMCID - optional -->
-		{% if publication.pmcid %}
+		{% if publication.pmcid and publication.pmcid != "" %}
 		<li>PMCID: <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/{{publication.pmcid}}" title = "PubMed Central: {{publication.pmcid}} (opens in new tab)" target="_blank" rel="noopener"> {{publication.pmcid}}</a></li>
 		{% endif %}
 
 		<!--Biorxiv - optional -->
-			{% if publication.biorxiv %}
+			{% if publication.biorxiv and publication.biorxiv != "" %}
 			{% assign bval = publication.biorxiv %}
 			{% if bval contains 'http' or bval contains 'doi' %}
 			<li>BioRxiv Preprint: <a href="{{ bval }}" title =  "BioRxiv Preprint: {{bval}} (opens in new tab)" target="_blank" rel="noopener">{{ bval }}</a></li>
@@ -126,12 +126,12 @@ Co-first authors are marked with &#42; so we check for &#42;** which indicates a
 			{% endif %}
 
 		<!--Arxiv - optional -->
-		{% if publication.arxiv %}
+		{% if publication.arxiv and publication.arxiv != "" %}
 		<li>arXiv Preprint: <a href="https://arxiv.org/abs/{{publication.arxiv}}" title = "aRxiv Preprint: {{publication.arxiv}} (opens in new tab)" target="_blank" rel="noopener"> {{publication.arxiv}}</a></li>
 		{% endif %}
 
 		<!--Chemrxiv - optional -->
-		{% if publication.chemrxiv %}
+		{% if publication.chemrxiv and publication.chemrxiv != "" %}
 			{% assign filename_parts = publication.id | split: "/" %}
 			{% assign filename = filename_parts | last %}
 			{% assign year_prefix = filename | slice: 0, 4 | plus: 0 %}
@@ -143,7 +143,7 @@ Co-first authors are marked with &#42; so we check for &#42;** which indicates a
 		{% endif %}
 
 		<!--Preprints.org - optional -->
-		{% if publication.preprints %}
+		{% if publication.preprints and publication.preprints != "" %}
 		<li>Preprints.org Preprint: <a href="https://www.preprints.org/manuscript/{{publication.preprints}}" title = "Preprints.org Preprint: {{publication.preprints}} (opens in new tab)" target="_blank" rel="noopener"> {{publication.preprints}}</a></li>
 		{% endif %}
 
