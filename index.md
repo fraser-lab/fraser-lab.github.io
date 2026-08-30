@@ -7,7 +7,7 @@ group: home
 # Welcome to the Fraser&nbsp;Lab!
 {: .display-4}
 <br>
-We are part of the [Department of Bioengineering and Therapeutic Sciences](http://bts.ucsf.edu/), the [Macromolecular Structure Group](http://msg.ucsf.edu/), and the [Quantitative Biosciences Institute (QBI)](https://qbi.ucsf.edu/).
+We are part of the [Department of Bioengineering and Therapeutic Sciences (BTS)](http://bts.ucsf.edu/), the [Macromolecular Structure Group (MSG)](http://msg.ucsf.edu/), and the [Quantitative Biosciences Institute (QBI)](https://qbi.ucsf.edu/).
 {: .welcomefont}
 
 ![Fraser lab logo](static/img/logo/jf_retreat_logo.svg){:style="max-width: 100%; height: auto;"}
