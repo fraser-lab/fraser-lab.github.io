@@ -80,18 +80,18 @@ After the round of sharing, the Discussion Leaders will present a joint talk sim
 
 
 
-### March 28
+## March 28
 - Intro to class, overview of preprints to review, expectations for presentations and readers
 - [New developments in peer review](http://tinyurl.com/polkaucsf2022):
   - [Jessica Polka](https://en.wikipedia.org/wiki/Jessica_Polka) - [Executive Director of ASAPbio](https://asapbio.org/dt_team/jessica-polka)
 
-### March 30
+## March 30
 - Writing and Receiving Peer Review and expecations for written reviews
 - Panel:
   - [Michael Eisen](http://eisenlab.org/) - [Editor in Chief of eLife](https://elifesciences.org/about/people)
   - [Vasanthi Jayaraman](https://en.wikipedia.org/wiki/Vasanthi_Jayaraman/) - [Editor-in-Chief -Biophysical Journal](https://www.cell.com/biophysj/editorial-board)
 
-#### Some good guidelines for reviewing
+## Some good guidelines for reviewing
 
 - Don't be an a$$hole
 - Consider that you may have misunderstood something and ask for clarification
@@ -104,7 +104,7 @@ After the round of sharing, the Discussion Leaders will present a joint talk sim
 
 [Evaluate other reviews by this rubric](https://zenodo.org/record/6471333#.YmhgdC-B1pR)
 
-### April 4
+## April 4
 
 - Catherine Kuhn, Nathan Ewing-Crystal
 
@@ -112,7 +112,7 @@ After the round of sharing, the Discussion Leaders will present a joint talk sim
 
 [Review by Catherine and Nathan](http://disq.us/p/2od0y0i)
 
-### April 6
+## April 6
 
 - Shivani Pandey, Anita Qualls
 
@@ -120,7 +120,7 @@ After the round of sharing, the Discussion Leaders will present a joint talk sim
 
 [Review by Shivani and Anita](http://disq.us/p/2oobdb4)
 
-### April 11
+## April 11
 
 - Anonymous Reviewer, Gabriel Braun
 
@@ -128,7 +128,7 @@ After the round of sharing, the Discussion Leaders will present a joint talk sim
 
 [Review by Anonymous Reviewer and Gabriel](http://disq.us/p/2ooscdf)
 
-### April 13
+## April 13
 
 - Andrés Betancourt-Torres, Scott Harris, Whitney Tamaki
 

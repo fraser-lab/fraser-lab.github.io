@@ -6,7 +6,7 @@ group: philosophy
 
 We reject the idea that it is impossible to “stay on top of the literature”. Scanning and reading papers is one of our most important and enjoyable responsibilities as scientists. The backstory is explained in [an older post](https://fraserlab.com/2013/09/28/The-Fraser-Lab-method-of-following-the-scientific-literature/) that editorializes on why this approach is superior to just leveraging twitter, relying on emailed tables of contents, or spending a lot of time organizing PDFs in apps like Mendeley. This page serves as a focused and updated “how to” guide on using RSS and efficiently scanning the literature.
 
-### The 80-20 theory of the literature
+# The 80-20 theory of the literature
 
 We navigate the literature at different levels and must become comfortable with two things: 1) not progressing the vast majority of articles past each level and 2) abandoning an article in the middle of each level.
 
@@ -25,7 +25,7 @@ Of the papers I open to scan through the figures and headings, I decide that ~20
 
 This strategy keeps me aware of what is being published and gives me a partial knowledge of what many of the papers look like, what kind of conclusions people are drawing, what techniques are emerging, etc.  I think it helps me develop a broad knowledge of what is going on in the literature and allows me to focus on a small subset of papers to read deeply. Is the 80/20 number totally made up? Yes. Many weeks it might end up as 95/5 in some steps and 50/50 in others.  It’s just a guideline that makes me very comfortable abandoning papers at any point in the process.
 
-### How to set up RSS feeds
+# How to set up RSS feeds
 
 The intial filter of titles relies on RSS. There are many RSS readers. This guide focuses on Feedly, but there are others, such as [The Old Reader](http://theoldreader.com/) that can also work.
 
@@ -76,26 +76,26 @@ The intial filter of titles relies on RSS. There are many RSS readers. This guid
 
 This is not an exhuastive list, add journals, people, etc liberally. Once you get used to sorting through the literature every day, you will find that you do not get overwhelmed. You can always "amnesty" and start fresh at any time by clicking "mark all read" and starting again. RSS is wonderful!
 
-### Isn’t there some redundancy?
+# Isn’t there some redundancy?
 
 Yes - but that presents more opportunities to actually read an important paper.
 
-### How to move through RSS feeds efficiently
+# How to move through RSS feeds efficiently
 
 Separate reading titles, sorting abstracts, and reading papers into distinct tasks at distinct times
 
-#### Level 1: Titles, while walking around
+## Level 1: Titles, while walking around
 
 I scan through the titles from RSS feeds very quickly. I have a good RSS reader on my phone (Feedly’s native app) that syncs with Feedly’s web version. Whenever I am walking, I use the app to swipe through article titles and star the ones with interesting sounding abstracts. I generally sneak a peek at the author list too and save based on authors.
 
 Similarly, when I’m on my computer, I scan through titles very quickly using keyboard shortcuts (`j` for next, `k` for previous) and save articles for later (keyboard shortcut `s`).  
 
-#### Level 2: Abstracts, while sitting and waiting
+## Level 2: Abstracts, while sitting and waiting
 
 When I have small pockets of time (usually waiting for someone or sitting somewhere), I go into my saved folder (on the phone or computer) and read the abstracts.  If I have a lot of time (more than 5 minutes) and am at my computer, I will open the interesting ones in the background (install [this extension](https://chrome.google.com/webstore/detail/feedly-background-tab/gjlijkhcebalcchkhgaiflaooghmoegk) and then the keyboard shortcut is `;`).
 
 This keeps the focus on the abstracts and doesn’t require touching the mouse or trackpad.  I get into a rhythm of hitting `j` (then `;`) then `s` to advance (, open) and unstar an article.  If I’m on my phone or don’t have a lot of time, I just unstar the ones that no longer interest me.
 
-#### Levels 3-5: Reading, while you have >5 minutes at your computer
+## Levels 3-5: Reading, while you have >5 minutes at your computer
 
 When I have time (generally first thing in the AM and on weekends) - I open up background tabs for all the articles have survived in my saved folder and start scanning through them.  I’m a fairly fast reader and have learned to get a lot out of scanning articles. I think this is an important skill to develop as a scientist.

@@ -3,7 +3,7 @@ title: Teaching Tools Guid
 layout: default
 group: courses
 ---
-#Teaching Tools- Guidelines for Formatting and Content#
+# Teaching Tools: Guidelines for Formatting and Content
 
 Thank you very much for preparing Teaching Tools for an iBiology talk.  We are happy to include your name on the Teaching Tools page to indicate your participation in preparing these resources.
 
@@ -11,7 +11,7 @@ The goal of providing Teaching Tools to accompany iBioSeminar videos is to give 
 
 Please use the same headings for your Teaching Tools for uniformity but feel free to vary the style of notes or questions.  See the accompanying Teaching Tools for examples.
 
-##For Part 1: The Introductory Lecture##
+## For Part 1: The Introductory Lecture
 
 **Key words and terms**
 
@@ -45,7 +45,7 @@ Students learn from teaching each other.  This section provides some key concept
 
 Here, you can provide a set of topics that are not covered within the lecture but which are closely related subjects that students could research on their own helping to build their ability to analyze and evaluate scientific literature.
 
-##For Part 2 or 3: Research Lecture (Please note, if you have more than one research lecture, it is only necessary to do this for one)##
+## For Part 2 or 3: Research Lecture (Please note, if you have more than one research lecture, it is only necessary to do this for one)
 
 NO lecture notes, but all other topics as described above:
 

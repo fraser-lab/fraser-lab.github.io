@@ -78,7 +78,7 @@ After the round of sharing, the Discussion Leaders will present a joint talk sim
 
 
 
-### May 10
+## May 10
 
 Optional event at 8AM PT:
 
@@ -92,12 +92,12 @@ Optional event at 8AM PT:
   - [Andrej Sali](https://salilab.org/) - [Editor of Structure](https://www.cell.com/structure/editors)
 
 
-### May 12
+## May 12
 - [New developments in peer review](https://tinyurl.com/polka-ucsf-pr):
   - [Jessica Polka](https://en.wikipedia.org/wiki/Jessica_Polka) - [Executive Director of ASAPbio](https://asapbio.org/dt_team/jessica-polka)
 - Writing and Receiving Peer Review and expecations for written reviews
 
-#### Some good guidelines for reviewing
+## Some good guidelines for reviewing
 
 - Don't be an a$$hole
 - Consider that you may have misunderstood something and ask for clarification
@@ -108,26 +108,26 @@ Optional event at 8AM PT:
 - It doesn’t need to be the paper YOU would have written
 - Don't be an a$$hole
 
-### May 14
+## May 14
 - [METTL8 is required for 3-methylcytosine modification in human mitochondrial tRNAs](https://www.biorxiv.org/content/10.1101/2021.05.02.442361v1.full)
   - [Review by Jack Stevenson](http://disq.us/p/2h67dlg)
 
-### May 17
+## May 17
 - [A biosensor to gauge protein homeostasis resilience differences in the nucleus compared to cytosol of mammalian cells](https://www.biorxiv.org/content/10.1101/2021.04.19.440383v1.full)
   - [Review by Andrew Alamban and Linh Tram](http://disq.us/p/2hfvrrg)
 
-### May 21
+## May 21
 - [Rapid induction of antigen-specific CD4+ T cells guides coordinated humoral and cellular immune responses to SARS-CoV-2 mRNA vaccination](https://www.biorxiv.org/content/10.1101/2021.04.21.440862v1.full)
   - [Anonymous review](http://disq.us/p/2hi2v6a)
 
-### May 24
+## May 24
 - [Mechanism and role of astrogliosis in the pathogenesis of HIV-associated pain](https://www.biorxiv.org/content/10.1101/2021.04.28.441838v1.full)
   - [Review by Cindy Liu and Dominic Grisingher](http://disq.us/p/2hi89c3)
 
-### May 26
+## May 26
 - [Precise and pervasive phasic bursting in locus coeruleus during maternal behavior](https://www.biorxiv.org/content/10.1101/2021.03.31.437751v1.full)
   - [Review by Eszter Kish and Marci Rosenberg](http://disq.us/p/2hertl0)
 
-### May 28
+## May 28
 - [A massively parallel reporter assay reveals focused and broadly encoded RNA localization signals in neurons](https://www.biorxiv.org/content/10.1101/2021.04.27.441590v1.full)
   - [Review by Seth Vigneron and Dianne Laboy Cintron](http://disq.us/p/2hipi0w)

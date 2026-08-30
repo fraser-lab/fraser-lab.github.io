@@ -20,7 +20,7 @@ group: philosophy
 
 When formatting a first draft of a review, create three sections:
 
-### Summary
+## Summary
 
 - Write 3-5 sentences on the major goals of the paper
 - State the major successes of the paper.
@@ -30,7 +30,7 @@ When formatting a first draft of a review, create three sections:
   - These can refer to the major points, which are elaborated below
 - Write 1-2 sentences on the place/impact of this paper in the field.
 
-### Major points
+## Major points
 
 - Enumerate only major issues that deal with data quality and data interpretation and reflect on the ability of the paper to accomplish it's major goals
 - Each major issue should be its own paragraph or list of questions
@@ -40,7 +40,7 @@ When formatting a first draft of a review, create three sections:
     - DO: "Your data do not fully support this specific (quote from paper) claim. Consider revising by either adding this specific control/technique described in this paper or altering the claim (paraphrase from paper) to allow for (reduced) alternative interpretation."
     - REMEMBER: Most often, changes can be textual only! Do not suggest new experiments or controls just for the sake of suggesting something.
 
-### Minor Points
+## Minor Points
 
 - List all minor technical questions you have
   - It is important that you distinguish between things you think are done incorrectly/incompletely and things that are not explained clearly enough for a reader to understand.

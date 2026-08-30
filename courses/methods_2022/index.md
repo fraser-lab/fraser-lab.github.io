@@ -23,7 +23,7 @@ group: courses
 
 **Textbook:** None. Lab protocols and course materials will be available in class or online
 
-**Instructors:** [John Gross](mailto:jdgross@cgl.ucsf.edu), [Aashish Manglik](mailto:Aashish.Manglik@ucsf.edu), [James Fraser](mailto:jfraser@fraserlab.com), [Klim Verba](verba@msg.ucsf.edu)
+**Instructors:** [John Gross](mailto:jdgross@cgl.ucsf.edu), [Aashish Manglik](mailto:Aashish.Manglik@ucsf.edu), [James Fraser](mailto:jfraser@fraserlab.com), [Klim Verba](mailto:verba@msg.ucsf.edu)
 
 **TAs:**
 - Radhika.Dalal@ucsf.edu

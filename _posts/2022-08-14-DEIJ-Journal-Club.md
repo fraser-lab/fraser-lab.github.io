@@ -15,7 +15,7 @@ Our goal is to provide an environment for continued learning, critical discussio
 
 **August 19th, 2022 - Peer Review**
 
-**Discussion Leader:** [Roberto Efraín (Robbie) Díaz](/members/#Roberto%20Efraín%20(Robbie)%20Díaz)
+**Discussion Leader:** [Roberto Efraín (Robbie) Díaz](/members/#Roberto%20Efraín%20(Robbie)%20Díaz,%20Ph.D.)
 
 **Article:** Unprofessional Peer Reviews Disproportionately Harm Underrepresented Groups in STEM. Silbiger NJ, & Stubler AD (2019) DOI: [10.1080/03626784.2018.1468211](https://www.tandfonline.com/doi/full/10.1080/03626784.2018.1468211)
 

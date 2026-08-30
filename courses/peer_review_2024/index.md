@@ -54,7 +54,7 @@ After the round of sharing, the Discussion Leaders will present a joint talk sim
 - Writing peer reviews:
     - [Fraser lab how-to-review](https://fraserlab.com/philosophy/peer_review_how_to/)
     - [Our lab's public reviews](/reviews)
-    - [Advice from Iris Young](https://twitter.com/irisdyoung/status/1560390684489592832), also captured [here](/courses/peer_review_2024/iris_wisdom/)
+    - [Advice from Iris Young](https://twitter.com/irisdyoung/status/1560390684489592832), also captured as [Iris Young's advice on reviewing](/courses/peer_review_2024/iris_wisdom/)
     - [Peer Review: reviewing as an early career researcher](https://www.blopig.com/blog/2021/03/peer-review-reviewing-as-an-early-career-researcher/)
     - [How to bring peer review ghostwriters out of the dark](https://www.molbiolcell.org/doi/full/10.1091/mbc.E20-10-0642)
     - [Advice for keeping on top of the literature](https://fraserlab.com/2013/09/28/The-Fraser-Lab-method-of-following-the-scientific-literature/)
@@ -75,7 +75,7 @@ After the round of sharing, the Discussion Leaders will present a joint talk sim
     - [eLife - Making the most of peer review](https://elifesciences.org/articles/12708)
     - [PreReview training path](https://content.prereview.org/openreviewers/)
 
-#### Some good guidelines for reviewing
+## Some good guidelines for reviewing
 
 - Don't be an a$$hole
 - Consider that you may have misunderstood something and ask for clarification
@@ -88,37 +88,37 @@ After the round of sharing, the Discussion Leaders will present a joint talk sim
 
 [Evaluate other reviews by this rubric](https://zenodo.org/record/6471333#.YmhgdC-B1pR)
 
-### April 22
+## April 22
 - Intro to class, overview of preprints to review, assigning pairs, expectations for presentations and readers
 - [New developments in peer review](https://docs.google.com/presentation/d/1Nynk84mch7Avs4E8ilox0zKN3knnEp1R_k2DweuNgvg/edit#slide=id.g244a3cc443b_0_846):
   - [Jessica Polka](https://en.wikipedia.org/wiki/Jessica_Polka) - [Program Director for Open Science, Astera Institute and former Executive Director of ASAPbio](https://asapbio.org/dt_team/jessica-polka) - Jessica to join us on zoom
 
-### April 23
+## April 23
 - [How to read a paper for peer review - adapted from HHMI TAP presentation](https://docs.google.com/presentation/d/1TC2RuZS-AaFM0-A-gUsss4bdwDYcZkHgSsK59baJQyc/edit?usp=sharing)
 - Writing and Receiving Peer Review and expecations for written reviews
   - pairings for papers to review
 - Why do we peer review and what makes good peer review?
   - Max Krummel - [Universal Principled Review](http://cdn.fraserlab.com/courses/peer_review_2020/2019_krummel.pdf) and other experiments
 
-### April 24
+## April 24
 - no class
 
-### April 25
+## April 25
 - short class, pitch 2 preprints you are interested in reviewing
   - Our running [google doc of cool preprints in high throughput biophysics](https://docs.google.com/document/d/134KFcL3tbGVxgTOSnreCOSr2cicbPuJFQkSTp3ZSRds/edit)
 
-### April 29
+## April 29
 - Maple N Chen and Kevin Alexander Estrada Alamo: [Targeting protein-ligand neosurfaces using a generalizable deep learning approach](https://www.biorxiv.org/content/10.1101/2024.03.25.585721v1)
   - [Review](https://prereview.org/reviews/11188199)
 
-### May 1 - class is in BH-513
+## May 1 - class is in BH-513
 - Yifei Chen and 2 anonymous students: [Dissecting translation elongation dynamics through ultra-long tracking of single ribosomes](https://www.biorxiv.org/content/10.1101/2024.04.08.588516v1)
    - [Review](https://prereview.org/reviews/11398206)
 
-### May 6
+## May 6
 - Zachary Mullin-Bernstein and Karson Chrispens: [Highly multiplexed design of an allosteric transcription factor to sense novel ligands](https://www.biorxiv.org/content/10.1101/2024.03.07.583947v2)
   - [Review](https://prereview.org/reviews/11247730)
 
-### May 7
+## May 7
 - Beniamin Krupkin and Minh Le: [A complete map of specificity encoding for a partially fuzzy protein interaction](https://www.biorxiv.org/content/10.1101/2024.04.25.591103v1)
   - [Review](https://prereview.org/reviews/12053815)

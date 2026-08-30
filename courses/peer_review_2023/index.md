@@ -78,17 +78,17 @@ After the round of sharing, the Discussion Leaders will present a joint talk sim
     - [PreReview training path](https://content.prereview.org/openreviewers/)
 
 
-### April 24
+## April 24
 - Intro to class, overview of preprints to review, expectations for presentations and readers
 - [New developments in peer review](http://tinyurl.com/polkaucsf2023):
   - [Jessica Polka](https://en.wikipedia.org/wiki/Jessica_Polka) - [Executive Director of ASAPbio](https://asapbio.org/dt_team/jessica-polka) - Jessica to join us on zoom
 
-### April 25
+## April 25
 - Writing and Receiving Peer Review and expecations for written reviews
 - Why do we peer review and what makes good peer review?
   - [Jason Gestwicki](https://gestwickilab.ucsf.edu/), [Associate Editor of ACS Chemical Biology](https://pubs.acs.org/page/acbcct/editors.html), [Editorial Advisory Board Chemical Biology and Drug Design](https://onlinelibrary.wiley.com/page/journal/17470285/homepage/editorialboard.html)
 
-#### Some good guidelines for reviewing
+## Some good guidelines for reviewing
 
 - Don't be an a$$hole
 - Consider that you may have misunderstood something and ask for clarification
@@ -101,32 +101,32 @@ After the round of sharing, the Discussion Leaders will present a joint talk sim
 
 [Evaluate other reviews by this rubric](https://zenodo.org/record/6471333#.YmhgdC-B1pR)
 
-### May 1
+## May 1
 
 - [Decoding the Cure-all Effects of Ginseng](https://www.biorxiv.org/content/10.1101/2023.04.05.535784v2)
   - [PREreview review from Ivan and Dani](https://zenodo.org/record/8102883)
 
-### May 2 - JF at AVIDD meeting - CM to moderate!
+## May 2 - JF at AVIDD meeting - CM to moderate!
 
 - [Deep Boosted Molecular Dynamics (DBMD): Accelerating molecular simulations with Gaussian boost potentials generated using probabilistic Bayesian deep neural network](https://www.biorxiv.org/content/10.1101/2023.03.25.534210v2)
   - [PREreview review from Ilayda and Freitas](https://zenodo.org/record/8102835)
 
-### May 3
+## May 3
 
 - [Phosphorylation of pyruvate dehydrogenase marks the inhibition of in vivo neuronal activity](https://www.biorxiv.org/content/10.1101/2023.03.13.532494v1)
   - [PREreview review from Zhengya and Catherine](https://zenodo.org/record/7975274)
 
-### May 9 - JF out of town - CM to moderate!
+## May 9 - JF out of town - CM to moderate!
 
 - [The herbicide acetochlor causes lipid peroxidation by inhibition of glutathione peroxidase 4](https://www.biorxiv.org/content/10.1101/2023.04.14.536563v1)
   - [PREreview review from David and Jeffrey](https://zenodo.org/record/8239835)
 
-### May 10
+## May 10
 
 - [The conserved protein CBA1 is required for vitamin B12 uptake in different algal lineages](https://www.biorxiv.org/content/10.1101/2023.03.24.534157v1.full)
   - [PREreview review](https://zenodo.org/record/7996088)
 
-### May 15
+## May 15
 
 - SPECIAL PRESENTATION AND DISCUSSION: eLife’s model and the future of science publishing
   - Speaker: Michael Eisen, Professor, MCB UC Berkeley

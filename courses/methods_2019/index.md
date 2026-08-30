@@ -39,9 +39,9 @@ group: courses
 **X-ray guru:** [Michael Thompson](mailto:mct.ucsf@gmail.com) (Fraser lab)
 
 **TAs:**
-- [Bryan Faust](Bryan.Faust@ucsf.edu)
-- [Aji Palar](Aji.Palar@ucsf.edu)
-- [Maru Jaime Garza](mjaimeg1@jhu.edu)
+- [Bryan Faust](mailto:Bryan.Faust@ucsf.edu)
+- [Aji Palar](mailto:Aji.Palar@ucsf.edu)
+- [Maru Jaime Garza](mailto:mjaimeg1@jhu.edu)
 
 
 **Lecturers/Facilitators:**
@@ -59,7 +59,7 @@ Fluency in multiple biophysical methods is often critical for answering mechanis
 
 **Course Description:**
 
-This is a team-based class where students work in small groups develop their own analysis of real data that they have collected. Statistical aspects of rigor and reproducibility in structural biology will be emphasized throughout lectures, journal club presentations, and hands-on activities. The course will function in three modules. In module 1 “data collection” students collect either NMR, negative stain EM, and X-ray crystallographic data. In module 2 “fundamentals of analysis”, students will are mixed into new groups for lectures and hands-on computational tutorials. These lessons emphasize connections to both the molecular interpretations and the fundamental physical principles that generated the data. In module 3 “integrative structural biology”, the students will finalize their analysis and lectures will emphasize rigorous theory of individual techniques and computational frameworks for integrative structural modeling. Finally, each group will present to their findings to the class and course faculty. The website for the 2017 version of the course can be accessed [here](/methods_2017/) and the 2018 version of the course can be accessed [here](/methods_2018/)
+This is a team-based class where students work in small groups develop their own analysis of real data that they have collected. Statistical aspects of rigor and reproducibility in structural biology will be emphasized throughout lectures, journal club presentations, and hands-on activities. The course will function in three modules. In module 1 “data collection” students collect either NMR, negative stain EM, and X-ray crystallographic data. In module 2 “fundamentals of analysis”, students will are mixed into new groups for lectures and hands-on computational tutorials. These lessons emphasize connections to both the molecular interpretations and the fundamental physical principles that generated the data. In module 3 “integrative structural biology”, the students will finalize their analysis and lectures will emphasize rigorous theory of individual techniques and computational frameworks for integrative structural modeling. Finally, each group will present to their findings to the class and course faculty. The website for the 2017 version of the course is archived at the [2017 course site](/courses/methods_2017/) and the 2018 version of the course is archived at the [2018 course site](/courses/methods_2018/)
 
 **Recommended reading:**
 
@@ -153,7 +153,7 @@ _Mon Oct 14_
 - 3:00 PM - [Software check](https://docs.google.com/document/d/1f8n5oUvlgYjCOk6ybq5GOF5H-riGmoSIo6Yjqa_1RZg/edit?usp=sharing) (Fraser+Tibble+Manglik)
 - LBL Registration (Manglik)
 - Thursday Nov 7 (CCB) and Friday Nov 8 (BP): Beamtime at Advanced Light Source: 8 AM-4 PM
-  - [link to registration material](https://docs.google.com/document/d/1V2-PNSKaoAF7rlRj-rJNA9xA8E-7zrwWzigpKhcNNDI/edit?usp=sharing) - register at [ALSHub](alshub.als.lbl.gov)
+  - [link to registration material](https://docs.google.com/document/d/1V2-PNSKaoAF7rlRj-rJNA9xA8E-7zrwWzigpKhcNNDI/edit?usp=sharing) - register at [ALSHub](https://alshub.als.lbl.gov/)
 
 _Tues Oct 15_
 - 1:00-1:30 PM Why Structural Biology? The importance of averaging and timescales (Fraser)

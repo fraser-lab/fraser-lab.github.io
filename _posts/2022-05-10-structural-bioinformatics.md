@@ -13,7 +13,7 @@ Below are many of the lessons, guidelines, and pitfalls for a structural bioinfo
 
 For specific suggestions, I have the code I created linked at the bottom of each section. This code is built on bash, python, Phenix/cctbx, and qFit. The code should be easily adaptable to other projects/inquiries. If there are any questions, feel free to [contact me](mailto:mullane.stephanie@gmail.com).
 
-#### Define your selection criteria early. 
+## Define your selection criteria early. 
 
 Before you start downloading structures, you need to decide what structures you would like to highlight. Some of these items can be subsetted using the PDB advanced selection criteria, including:
 1. Method of structure (X-ray, CryoEM, NMR, Neutron, ect)
@@ -37,7 +37,7 @@ At this stage, I suggest keeping duplicate pairs (ie if you have multiple apo or
 
 [Here is a pipeline](https://github.com/fraser-lab/Apo_Holo_Analysis/tree/main/selection_pipeline) you can use to select the PDBs to move forward in your analysis. 
 
-#### Re-refine structures.
+## Re-refine structures.
 
 The PDB has a lot of structures refined with many different software packages and versions. To ensure that you are comparing apples to apples, pick one refinement software version and re-refine all of your structures. 
 
@@ -58,7 +58,7 @@ Here is an example re-refinement pipeline that works with [Phenix version 1.19](
 [Here is a pipeline](https://github.com/fraser-lab/Apo_Holo_Analysis/tree/main/refinement) that will re-refine your structures, run qFit, and then refine your qFit structure.
 
 
-#### Quality control of structures.
+## Quality control of structures.
 
 The first, and easiest part of quality control of structures has to do with refinement metrics. 
 Are you decreasing the R-free or R-gap? This can be extracted through refinement log files or running additional analysis.
@@ -79,7 +79,7 @@ How much do the ligands overlap between the structures?
 [Here is a pipeline](https://github.com/fraser-lab/Apo_Holo_Analysis/tree/main/QC) that will extract and compare R-values, align your pairs, and spit out alpha RMSD and ligand overlap between the pairs.
 
 
-#### Analysis of structures
+## Analysis of structures
 
 Now we get to the fun stuff!
 
@@ -91,7 +91,7 @@ Finally, you also need to consider how you are going to look at certain sections
 
 [Here are a bunch of analyses](https://github.com/fraser-lab/Apo_Holo_Analysis/tree/main/analysis) that I ran on my pairs or individual models. 
 
-#### Quality control of the analysis
+## Quality control of the analysis
 
 For almost every single analysis I did, I would plot the result and have a few outrageous outliers. This was always a clue of something I coded wrong in the analysis, or something incorrect about the labeling of the PDBs. 
 

@@ -56,7 +56,7 @@ After the round of sharing, the Discussion Leaders will present a joint talk sim
 - Writing peer reviews:
     - [Fraser lab how-to-review](https://fraserlab.com/philosophy/peer_review_how_to/)
     - [Our lab's public reviews](/reviews)
-    - [Advice from Iris Young](https://twitter.com/irisdyoung/status/1560390684489592832), also captured [here](/courses/peer_review_2024/iris_wisdom/)
+    - [Advice from Iris Young](https://twitter.com/irisdyoung/status/1560390684489592832), also captured as [Iris Young's advice on reviewing](/courses/peer_review_2024/iris_wisdom/)
     - [Peer Review: reviewing as an early career researcher](https://www.blopig.com/blog/2021/03/peer-review-reviewing-as-an-early-career-researcher/)
     - [How to bring peer review ghostwriters out of the dark](https://www.molbiolcell.org/doi/full/10.1091/mbc.E20-10-0642)
     - [Advice for keeping on top of the literature](https://fraserlab.com/2013/09/28/The-Fraser-Lab-method-of-following-the-scientific-literature/)
@@ -77,7 +77,7 @@ After the round of sharing, the Discussion Leaders will present a joint talk sim
     - [eLife - Making the most of peer review](https://elifesciences.org/articles/12708)
     - [PreReview training path](https://content.prereview.org/openreviewers/)
 
-#### Some good guidelines for reviewing
+## Some good guidelines for reviewing
 
 - Don't be an a$$hole
 - Consider that you may have misunderstood something and ask for clarification
@@ -90,18 +90,18 @@ After the round of sharing, the Discussion Leaders will present a joint talk sim
 
 [Evaluate other reviews by this rubric](https://zenodo.org/record/6471333#.YmhgdC-B1pR)
 
-### April 22
+## April 22
 - Intro to class, overview of preprints to review, assigning pairs, expectations for presentations and readers
 - JF to give presentation based on Jessica Polka slides from ASAPbio [New developments in peer review](https://docs.google.com/presentation/d/1Nynk84mch7Avs4E8ilox0zKN3knnEp1R_k2DweuNgvg/edit#slide=id.g244a3cc443b_0_846):
 
 
-### April 23
+## April 23
   - confirm pairings for papers to review
   - Jon Schlebach will present on experience with peer review on ["Divergent folding-mediated epistasis among unstable membrane protein variants"](https://elifesciences.org/articles/92406)
     - also check out his seminar ["Cotranslational Assembly Defects Trigger a Proteostatic Killswitch in the Ribosome"](https://qbi.ucsf.edu/seminar-schlebach) on Weds April 23 12-1 in GH114
 
 
-### April 24
+## April 24
 - pitch 2 preprints you are interested in reviewing
   - Our running [google doc of cool preprints in high throughput biophysics](https://docs.google.com/document/d/134KFcL3tbGVxgTOSnreCOSr2cicbPuJFQkSTp3ZSRds/edit)
 
@@ -109,14 +109,14 @@ After the round of sharing, the Discussion Leaders will present a joint talk sim
 - Why do we peer review and what makes good peer review?
 - Writing and Receiving Peer Review and expecations for written reviews
 
-### May 2
+## May 2
 Nikhil and Anonymous student - [Oligomerization enables the selective targeting of intrinsically disordered regions by small molecules](https://www.biorxiv.org/content/10.1101/2025.03.21.644603v1.full)
 - [Review](https://prereview.org/reviews/15677507)
 
-### May 6
+## May 6
 Isaiah and Yagmur - [Energetic and structural control of polyspecificity in a multidrug transporter](https://www.biorxiv.org/content/10.1101/2025.04.09.647630v2)
 - [Review](https://prereview.org/reviews/15421743)
 
-### May 9
+## May 9
 Gyuna and Anonymous student - [Conserved energetic changes drive function in an ancient protein fold](https://www.biorxiv.org/content/10.1101/2025.04.02.646877v1)
 - [Review](https://prereview.org/reviews/15800986)

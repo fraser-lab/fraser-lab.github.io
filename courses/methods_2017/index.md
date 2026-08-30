@@ -55,7 +55,7 @@ James Fraser, John Gross, Dan Southworth, David Bulkley, James Holton, Yifan Che
 
 **Background:**
 
-Fluency in multiple biophysical methods is often critical for answering mechanistic questions. Traditionally, students are exposed to the fundamentals of multiple techniques through lectures that cover the theory prior to exposure, for some, in analysis or data collection during lab rotations. However, this structure means that only students that rotate in specific labs gain hands-on-exposure, which could limit adventurous experiments in future years. To train the next generation of biophysicists at UCSF, we have decided to alter this traditional structure by creating a new 6 week “Macromolecular Methods” class that places data collection at the beginning of the course. Based on our experiences designing the project-based class [Physical Underpinnings of Biological Systems, aka PUBS!](/pubs/), which used deep sequencing to assay the function of a comprehensive set of point mutants to introduce principles of [high-throughput interrogation of biological functions](http://cdn.fraserlab.com/publications/2016_mavor.pdf), we have designed Macromolecular Methods to be a team-based class where students develop their own analysis of real data that they have collected.
+Fluency in multiple biophysical methods is often critical for answering mechanistic questions. Traditionally, students are exposed to the fundamentals of multiple techniques through lectures that cover the theory prior to exposure, for some, in analysis or data collection during lab rotations. However, this structure means that only students that rotate in specific labs gain hands-on-exposure, which could limit adventurous experiments in future years. To train the next generation of biophysicists at UCSF, we have decided to alter this traditional structure by creating a new 6 week “Macromolecular Methods” class that places data collection at the beginning of the course. Based on our experiences designing the project-based class [Physical Underpinnings of Biological Systems, aka PUBS!](/courses/pubs/), which used deep sequencing to assay the function of a comprehensive set of point mutants to introduce principles of [high-throughput interrogation of biological functions](http://cdn.fraserlab.com/publications/2016_mavor.pdf), we have designed Macromolecular Methods to be a team-based class where students develop their own analysis of real data that they have collected.
 
 **Course Description:**
 
@@ -152,7 +152,7 @@ _X-ray_
 - Christopher John Pascal Mathy, Yessica Gomez, Colton Bracken, Conner Bardine, Adam Cotton, Paul Klauser, Lakshmi Miller-Vedam
 - Monday Nov 6: Crystal harvesting (Genentech Hall crystal room)
 - Tuesday Nov 7: Beamtime at Advanced Light Source: 12-4 PM
-  - [link to registration material](https://docs.google.com/document/d/1V2-PNSKaoAF7rlRj-rJNA9xA8E-7zrwWzigpKhcNNDI/edit?usp=sharing) - register at [ALSHub](alshub.als.lbl.gov)
+  - [link to registration material](https://docs.google.com/document/d/1V2-PNSKaoAF7rlRj-rJNA9xA8E-7zrwWzigpKhcNNDI/edit?usp=sharing) - register at [ALSHub](https://alshub.als.lbl.gov/)
   - [directions to the ALS](https://als.lbl.gov/onsite-access/), we will travel together on BART Nov 7 and 8, but just in case!
 - Wednesday Nov 8: Beamtime at Advanced Light Source: 8AM-4 PM
 

@@ -7,7 +7,7 @@ tags: labnews
 ---
 
 <div class="video-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NHbKUyq5m_w" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NHbKUyq5m_w" frameborder="0" allowfullscreen title="YouTube video: The Beach Boys - Summer's Gone"></iframe>
 </div>
 
 almost... it's been a bit too long since we updated the website:
@@ -20,4 +20,4 @@ almost... it's been a bit too long since we updated the website:
 * Jennifer did great lab work and updated the lab [cartoon](/members)!
 * We published a bunch of [papers](/publications)!
 * Joslyn got promoted and Eleanor took over our admin responsibilities!
-* and we started planning for this year's version of [PUBS](/pubs)
+* and we started planning for this year's version of [PUBS](/courses/pubs/)

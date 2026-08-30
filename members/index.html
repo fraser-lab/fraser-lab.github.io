@@ -7,7 +7,7 @@ group: members
 <h1>Fraser Lab Members</h1>
 
 The Fraser lab welcomes people of any race, ethnicity, religion, national origin, gender identity, gender expression, caregiver and family commitments, political affiliation, sexual orientation, and eligible age or disability status.<br>
-<h5>See our<a href="/philosophy/"> lab compact and philosophy</a>.</h5>
+<p class="h5">See our<a href="/philosophy/"> lab compact and philosophy</a>.</p>
 
 {% for member in site.members %}
 
@@ -77,7 +77,7 @@ The Fraser lab welcomes people of any race, ethnicity, religion, national origin
         </div>
 {% endfor %}
 <hr>
-<h4>Affiliates</h4>
+<h2 class="h4">Affiliates</h2>
 {% for member in site.members %}
 
 {% if member.enddate != empty and member.startdate.size == member.enddate.size %}

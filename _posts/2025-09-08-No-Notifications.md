@@ -14,7 +14,7 @@ But preprint *peer review* hasn’t taken off in the same way. This week, I real
 
 ## The Notifications Are Missing!
 
-When we give feedback on preprints (all of our reviews are posted [here](https://fraserlab.com/reviews/)), I used to use Disqus, which is embedded into [bioRxiv](https://www.biorxiv.org/). More recently, we’ve been posting through [PREreview](https://prereview.org/) (including in the graduate-level class we teach on peer review: [details here](https://fraserlab.com/peer_review/)).  
+When we give feedback on preprints (all of our reviews are posted on [our reviews page](https://fraserlab.com/reviews/)), I used to use Disqus, which is embedded into [bioRxiv](https://www.biorxiv.org/). More recently, we’ve been posting through [PREreview](https://prereview.org/) (including in the graduate-level class we teach on peer review: [details of the peer review course](https://fraserlab.com/peer_review/)).  
 
 But I've discovered that the authors never find out because:  
 - On **[bioRxiv](https://www.biorxiv.org/)**, notifications for Disqus comments are *opt-in*. Many authors never enable them.  

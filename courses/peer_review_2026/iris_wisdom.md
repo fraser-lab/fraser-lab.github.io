@@ -3,9 +3,11 @@ title: Iris's Wisdom
 layout: default
 group: philosophy
 ---
+
+# Iris Young's advice on reviewing
 With permission from Iris Young
 
-originally available [here](https://twitter.com/irisdyoung/status/1560390684489592832)
+originally available [as a thread on Twitter](https://twitter.com/irisdyoung/status/1560390684489592832)
 
 Personal take on how to give negative feedback that doesn't attack a person, as a self-professed extremely critical reviewer:
 

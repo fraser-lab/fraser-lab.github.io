@@ -4,7 +4,7 @@ layout: default
 group: courses
 ---
 
-**iPQB Reproducibility and Rigor: Experimental Controls Module**
+# iPQB Reproducibility and Rigor: Experimental Controls Module
 
 Introduction
 
@@ -28,7 +28,7 @@ Overall questions:
 
 {::nomarkdown}
 <div class="video-container">
-         <iframe src="//www.youtube.com/embed/wSWunBYzl8c" frameborder="0" width="280" height="107"></iframe>
+         <iframe src="//www.youtube.com/embed/wSWunBYzl8c" frameborder="0" width="280" height="107" title="Embedded YouTube video (no longer available)"></iframe>
 </div>
 <br>
 {:/nomarkdown}
@@ -62,7 +62,7 @@ Follow-up Questions:
 
 {::nomarkdown}
 <div class="video-container">
-         <iframe src="//www.youtube.com/embed/Pc0h-GOcBLE" frameborder="0" width="280" height="107"></iframe>
+         <iframe src="//www.youtube.com/embed/Pc0h-GOcBLE" frameborder="0" width="280" height="107" title="Embedded YouTube video (no longer available)"></iframe>
 </div>
 <br>
 {:/nomarkdown}

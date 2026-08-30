@@ -9,11 +9,11 @@ Yesterday [Peter Kim](http://web.stanford.edu/group/kimlab/) presented me (and [
 
 {::nomarkdown}
 <div class="video-container">
-         <iframe src="//www.youtube.com/embed/fQ7p9mHDJUw" frameborder="0" width="560" height="315"></iframe>
+         <iframe src="//www.youtube.com/embed/fQ7p9mHDJUw" frameborder="0" width="560" height="315" title="YouTube video: Peter Kim's Ice Bucket Challenge in Honor of Tom Alber"></iframe>
 </div>
 <br>
 <div class="video-container">
-         <iframe src="//www.youtube.com/embed/9VrzhmSkqfQ" frameborder="0" width="560" height="315"></iframe>
+         <iframe src="//www.youtube.com/embed/9VrzhmSkqfQ" frameborder="0" width="560" height="315" title="Embedded YouTube video (no longer available)"></iframe>
 </div>
 {:/nomarkdown}
 
@@ -21,7 +21,7 @@ Tom was incredibly courageous during the final years of his life. He never stopp
 
 {::nomarkdown}
 <div class="video-container">
-         <iframe src="//www.youtube.com/embed/UJ2mUbhzWic" frameborder="0" width="560" height="315"></iframe>
+         <iframe src="//www.youtube.com/embed/UJ2mUbhzWic" frameborder="0" width="560" height="315" title="YouTube video: Fraser Lab Ice Bucket Challenge in Honor of Tom Alber"></iframe>
 </div>
 {:/nomarkdown}
 

@@ -52,7 +52,7 @@
 
     I try to be mindful of the fact that people have different preferred communication styles, and that I lie on one extreme end of that spectrum, namely that I communicate best in person and in real time. I am open to you communicating with me however works best for you, whether that means giving you time to think through your responses, making use of notes, or writing to me asynchronously on Slack. I also want to reinforce that my apparent terseness on Slack is a reflection of the fact that writing out my thoughts is comparatively inefficient for me, but not an indication of my mood or disinterest in a topic!
 
-    #### <a id="conflict_resolution">Conflict Resolution</a>
+    ### <a id="conflict_resolution">Conflict Resolution</a>
 
     As mentioned in <a href="#values">Core Lab Values</a> we embrace people from different backgrounds and with diverse perspectives. Part of embracing a group of diverse people is that sometimes people’s different opinions and perspectives will lead to conflict. While our opinions or beliefs may differ, we believe in respecting each other’s opinions.
 
@@ -66,9 +66,9 @@
   body: >
     As transparency and openness are key values to the lab, sharing our information both within the lab and externally to the scientific community is a top priority.
 
-    ##### Lab Notebooks
+    ### Lab Notebooks
 
-    Transparency starts with thorough documentation of your work and all members are expected to record all of their work in a lab notebook. Our lab uses the electronic notebook [Benchling](https://benchling.com/){:target="_blank"} for recordkeeping, which allows us to share protocols and makes our work visible to all other lab members. Our lab’s guide to using Benchling can be found [here](https://docs.google.com/document/d/1ZsR7628PD5LOKuCUP11SHvOxUqh8PJQQ7SJvhFEXLlo/edit?usp=sharing){:target="_blank"}, and our guide on how to craft good notebook entries is [here](https://docs.google.com/document/d/10yrbA3tFgIFE7paOR6v2qmdy3AVGY2wNwkvW7B4HFPo/edit?usp=sharing){:target="_blank"}. UCSF has also published a [guide](https://compliance.ucsf.edu/sites/g/files/tkssra1886/f/wysiwyg/UCSFLabNotebookGuidance20210610.pdf){:target="_blank"} for record keeping. These guides should be read thoroughly before starting your lab notebook.
+    Transparency starts with thorough documentation of your work and all members are expected to record all of their work in a lab notebook. Our lab uses the electronic notebook [Benchling](https://benchling.com/){:target="_blank"} for recordkeeping, which allows us to share protocols and makes our work visible to all other lab members. Our lab’s [guide to using Benchling](https://docs.google.com/document/d/1ZsR7628PD5LOKuCUP11SHvOxUqh8PJQQ7SJvhFEXLlo/edit?usp=sharing){:target="_blank"} and our [guide on how to craft good notebook entries](https://docs.google.com/document/d/10yrbA3tFgIFE7paOR6v2qmdy3AVGY2wNwkvW7B4HFPo/edit?usp=sharing){:target="_blank"} are both available. UCSF has also published a [guide](https://compliance.ucsf.edu/sites/g/files/tkssra1886/f/wysiwyg/UCSFLabNotebookGuidance20210610.pdf){:target="_blank"} for record keeping. These guides should be read thoroughly before starting your lab notebook.
 
     Additionally, members are expected to keep the shared lab protocols up-to-date and to contribute new protocols as they become relevant to the lab. Lab notebooks are backed up biannually. Benchling also allows us to keep track of our samples and data through a registry/collection. While it is highly recommended you take advantage of the registry to organize your samples, especially for samples that should be made accessible to the rest of the lab, it is your choice how to organize your samples while a member of the lab. However, when you leave the lab, it is required that you clean out all superfluous samples and log the samples you keep in the lab’s collection so other lab members are able to locate them. Directions for using the registry and conventions for labelling locations are also in the Lab Notebook Guide.
 
@@ -99,13 +99,13 @@
 
     ![Benchling Folder Organization](/static/img/philosophy/benchling_example.png "Benchling Folder Organization Example"){: .img-fluid .w-75 p-3 .mx-auto .d-block}
 
-    ##### Data Deposition
+    ### Data Deposition
 
     Lab members always make their data, materials, processing details available to the public through deposition to various public repositories. Lab code is made accessible through [GitHub](https://github.com/fraser-lab){:target="_blank"}. Data and information are regularly deposited to the repositories listed below as well as others. We happily share our plasmids and other materials freely by request.
 
     As data deposition to some repositories can be involved, current lab efforts include making guides that will assist people through the process. A guide for depositing cryo-EM structures by [Jenna Pellegrino](https://fraserlab.com/members/#Jenna%20Pellegrino){:target="_blank"} is posted on [our blog](https://fraserlab.com/2020/10/20/CryoEM-deposition/){:target="_blank"}, and more will be added as they become available. Internally, these guides are located on our shared protocols in Benchling.
 
-    ###### List of <a id="repositories">repositories</a>
+    ### List of <a id="repositories">repositories</a>
 
     * **Addgene** - [Plasmids](https://www.addgene.org/c9d87dff_2638_427c_9b9f_f189bdd8f4bc/){:target="_blank"}
 
@@ -139,15 +139,15 @@
 
     If you are stuck writing, schedule a meeting and we can sit down with the document on the big screen and write together. This is one of my favourite things to do. We start by outlining section headings, then by writing topic sentences for each paragraph, then by filling in paragraphs with text. I find that adding references to sentences in the introduction early can be quite clarifying (always using an Author-Date reference style until the late stages). I generally do my best work with other people in the room. We will iterate a lot before we finalize a product. Sometimes my advice will focus on a specific piece of "bigger picture" feedback and sometimes we will wordsmith sentences.
 
-    #### Figures
+    ### Figures
 
     Panels for figures should be as scripted as possible. I like to do layouts in Keynote, which is a good middle ground between no features (embedding in Word/Google Docs) and too many features (Illustrator). But there are lots of different workflows in the lab. Generally, as we write, I prefer that you embed the figures in the document and share a folder with the raw files (images, Keynote files, illustrator files, etc). For simplicity, when writing grants and papers, I prefer to embed figures in the top row of a 2 row/1 column table that extends the entire width of the page. The figure legend should be written in the second row. Other workflows are possible, but less efficient for me. However, it is also a way to expose me to potential new tricks/programs, so while I may lose patience, I’m willing to entertain it from time to time.
 
-    #### Authorship
+    ### Authorship
 
     I believe that conversations about positions in author order should occur early in a project. Communicate with me and I will help navigate these conversations with collaborator labs. I err on having more authors on a paper: everyone with a meaningful contribution must be included.
 
-    ##### Resources on writing
+    ### Resources on writing
 
     * [David Mobley Writing Tips](https://github.com/MobleyLab/Training/blob/main/Writing/WritingTips.md){:target="_blank"}
 
@@ -186,7 +186,7 @@
   body: >
     We benefit from feedback on our manuscripts, most often in the form of journal organized peer review, and we are enthusiastic about offering our feedback to others to help improve their manuscripts.
 
-    #### Why review papers?
+    ### Why review papers?
 
     For our lab, we are motivated by the ability to potentially improve:
 
@@ -199,19 +199,19 @@
 
     These values represent a change of focus from some traditional ideas of peer review that center on gatekeeping (“does this paper belong in nature?”). We want to write reviews that are constructive, empathetic, and respectful - and we think that this can be done in a way that enhances the rigour of the manuscript.  [Our process for writing reviews](/philosophy/peer_review_how_to/){:target="_blank"} focuses on advice on reading manuscripts, writing the review, and editing ourselves so that our final reviews obey [FAST (Focused, Appropriate, Specific, Transparent) principles](https://asapbio.org/fast-principles){:target="_blank"} to foster a positive preprint feedback culture.
 
-    #### Transparency in peer review
+    ### Transparency in peer review
 
     Accordingly, we believe that transparency in peer review can improve the speed, quality, and collegiality of the publication process. As such, we only review manuscripts that have been posted on preprint servers and we [post our peer review comments publicly](/reviews){:target="_blank"}. We support other initiatives to improve peer review (such as [Review Commons](https://www.reviewcommons.org/){:target="_blank"} and [FeedbackASAP](https://asapbio.org/feedbackasap){:target="_blank"}.
 
-    #### Peer review as training
+    ### Peer review as training
 
     Peer review is also an important training opportunity for lab members in scientific thinking and writing. All lab members who co-review with JF are credited for their contribution to the [review](/reviews){:target="_blank"}. Following [our guidelines for drafting reviews](/philosophy/peer_review_how_to/){:target="_blank"}, we iteratively revise the review to make sure it is constructive. JF is always happy to look over reviews and if he hasn’t meaningfully contributed, lab members are encouraged to post as solo review authors. We have also run a [course on Peer Review in the Life Sciences](/courses/){:target="_blank"}.
 
-    #### Anonymity in peer review
+    ### Anonymity in peer review
 
     Additionally, JF recognizes that he holds certain privileges that allow him to post peer review comments non-anonymously without fear of repercussion. Unfortunately, this is not the case for all researchers. JF is willing to post reviews on behalf of anyone, both in and outside of the Fraser lab, who wishes to remain anonymous.
 
-    #### Responding to reviews
+    ### Responding to reviews
 
     On the other side of the coin, How do we react to our reviews? We try to put ourselves in the shoes of the review. We assume the best intentions and adopt a default state that this offers us an opportunity to clarify the communication of our science. A detailed guide of [how to respond to reviews](/philosophy/respond_to_reviews_how_to/){:target="_blank"} is also available.
 
@@ -252,7 +252,7 @@
 
     In summary, I think people’s primary aim while they’re here is to align the science they are doing with setting themselves up for life beyond the lab. People who have been very focused on this have been well motivated, and it becomes really easy to recognize when to cut losses on a project or when to wrap things up and publish. It provides me with clarity of how to direct their work, and I really like having a very constant back and forth about it.
 
-    ##### Some General Advice for Postdocs
+    ### Some General Advice for Postdocs
 
     I think it is good to have a decisive plan about industry, academia or other career goals very early in your postdoc. It is fine to change directions, but having an initial plan allows us to discuss the adjustments that need to be made as your career plans to.
 
@@ -262,7 +262,7 @@
 
       * For those pursuing other careers, I will often ask how I can help provide exposure (e.g. writing or presenting) and think about what aspects of my network can be most helpful. The UCSF Office of Career and Professional Development can also be helpful.
 
-    ##### Some General Advice for Graduate Students
+    ### Some General Advice for Graduate Students
 
     I find that many people think about how they perform in grad school as defining our career options, but it is also possible to envision working in grad school to explore or reinforce your long term career plans. One important thing to note: the end game timing is extremely different for applying for jobs in industry (weeks to a few months before you want to start) vs. academic postdocs (generally at least 6 months before you want to start).
 
@@ -272,7 +272,7 @@
 
     It is also important to think about activities outside of the lab that will help in your career development or career decision making process. These may include participation in a club, such as the Science Policy Group or a podcast group, becoming a teaching assistant at USF or SF State, or a leadership position within your graduate school program or club. UCSF also has some great course/exposure avenues such as industry internships, the MIND program, and start-up classes/clubs.
 
-    ##### Some General Advice for Postbaccs/Technicians
+    ### Some General Advice for Postbaccs/Technicians
 
     The calendar for graduate and professional school puts strong constraints on your career development. Engage me in a conversation early about what you want to highlight in your applications. I and others in the lab will also take an active role in to direct their work, and I really like having a very constant back and forth about it.
 
@@ -333,7 +333,7 @@
     This structure basic structure is expanded for longer talks as well. In a longer talk, there is usually a single broad narrative arc with sections of the talk that connect to each other. Ideally the talk flows so that each segment connects to the next with a WHY/WHAT/HOW/WHERE->WHY… structure.
 
 
-    ##### Practicing
+    ### Practicing
 
     Once again, we know that delivering a good presentation is hard work. Therefore, practice, feedback, iteration are key to deliverying good presentations. In practicing, you will receive advice from many people - be grateful. It is wonderful to get feedback. But, don't listen to all of it (even the advice on this page!). Pay special attention to those who say they didn't understand parts of your talk - this is the most valuable feedback: use it to refine and clarify your message.
 
@@ -347,7 +347,7 @@
     When I practice a new talk for the first time, I WRITE EXACTLY WHAT I WISH I COULD SAY FOR ALL SLIDES. When I give the talk, I don't stick to a script, but by writing out the talk once, I know the ideal version of what I would have covered. This exercise also helps to refine the content and flow of talks.
 
 
-    ##### Feedback Teams
+    ### Feedback Teams
 
     After each group meeting a rotating team consisting of 2-3 lab members will briefly give feedback on the presentation.
 
@@ -360,7 +360,7 @@
     As a member of the feedback team, you should also absorb the critique so that all our presentations benefit from participation.
 
 
-    ##### Slide design
+    ### Slide design
 
     An overarching philosophy of mine is "Minimize text on slides". Avoid walls of text bullet points and especially reading walls of text. The main text on a slide should be a single Title sentence at the top of the slide. This should be different for every slide and be a single sentence using simple and active language. You should be able to read the titles of the slides only and have a pretty good understanding of the talk.
 
@@ -369,12 +369,12 @@
     Note: You can consider a slightly different balance of text on slides if you are distributing the slide deck without presenting it (e.g. to a company). But in this case, it is good to have 2 versions of your slide deck, one text light (for presenting) and one text heavy (for distribution).
 
 
-    ##### Handling Q+A
+    ### Handling Q+A
 
     Be nice and don’t get stressed if someone misinterprets the talk (that is an opportunity to clarify for next time). Try not to be defensive in answers. It’s hard work! Start by rephrasing the question. This is a good practice in the zoom age and also makes sure you are answering the question they intended to ask. Get used to using the slide navigator in presentation mode so that you can quickly broadcast a relevant (and often backup!) slide in response to a qustion. Be honest, but have fun! If you don’t know or can't yet address a question with data, it is ok to speculate a little. Just be sure to clearly distinguish speculation and answers grounded in data or prior literature.
 
 
-    ##### Special considerations for non-external talks
+    ### Special considerations for non-external talks
 
     - Group meetings:
       - Start with the [Minute for Diversity](/2020/06/26/Minute-For-Diversity/){:target="_blank"} slide
@@ -402,15 +402,16 @@
   body: >
       I like to believe people are pretty good about self-regulating, but I recognize people are able to disguise that they are dealing with more than I can see. Bottom line, your primary concern should always be your physical and mental health. If you ever feel unwell, it's best to stop what you’re doing (safely) and address the issue. Don’t put off or sacrifice your health and well-being to get in one last experiment.
 
-      ##### Health and Personal Emergencies
+      ### Health and Personal Emergencies
 
       I trust people, and it’s expected that people will have emergencies. Take care of yourself and your loved ones. If somebody says, “I need some time” that's all I need to hear, but I'm here to listen, to help, and to provide whatever resources and support I can both personally and professionally. I don't need to hear any more details unless people are comfortable and they should not mistake my lack of asking with lack of caring or empathy, but rather just that I want to be respectful of people’s space. If you do have to leave the lab, if possible, please let me know what’s going on even if it’s as vague as “personal emergency” or “I need some time” so that we’re in communication about time away and that I know you are ok. In addition, try to pass off, reschedule, or communicate any time sensitive items like deadlines or microscope time. We are a community, and we are here for one another.
 
-      ##### Work-Life Balance
+      ### Work-Life Balance
 
       I’m not super prescriptive of how people work. I expect people to be really invested in their work and have a presence in the lab, but how they establish their rhythm of work-life balance is up to them. It’s easier to have balance when you’re working hard and enjoying it. I'm much more worried about when people aren't working hard and are seemingly dissatisfied with the work that they're doing; it seems to signal a misalignment of their work and life. As a parent, I am often not done with work when I have to leave the lab at the end of the day. I like what I do, and as a result I find myself catching up asynchronously. This means I often send messages and will very rarely (but not never) ask people to meet outside of working hours. While I try to minimize cutting into others personal time, this is how I achieve my work-life balance. I don’t expect people to respond to my late-night messages, and I expect people to arrange their time for their family, friends, health, relaxation, and recreation. People that don’t get enough recovery time aren’t as effective in the lab, and I want people to be happy.
 
-      ##### Resources
+      ### Support Resources
+      {: #support-resources }
 
       If you are in need of support, there are mental health resources provided by UCSF for [students](https://studenthealth.ucsf.edu/){:target="_blank"} and [staff](https://hr.ucsf.edu/hr.php/x/files?F=1&cms_id=5304){:target="_blank"}.
 
@@ -420,11 +421,11 @@
   id: "collaboration"
   show: False
   body: >
-    ##### Within the Fraser lab
+    ### Within the Fraser lab
 
     In addition to myself, all of your lab members are a resource. It is expected that you will develop collegial relationships within the lab and occasionally work on shared projects. The spirit between lab members should be of cooperation and not adversarial competition. To that end, we try not to reinvent the wheel and make efficient use of everyone’s time by sharing our knowledge. Protocols are updated and shared in Benchling for everyone in the lab to use and several guides exist on the internal lab site for nearly every task, administrative or scientific, that anyone may need. We are all here to help each other, but also be mindful and respectful of your fellow lab members' time. If someone in the lab has helped you a lot on a project they probably should be included as an author on your publications.
 
-    ##### Beyond the Fraser lab
+    ### Beyond the Fraser lab
 
     The diverse nature of work in the lab encourages a lot of collaboration with partner labs both within UCSF, at other universities, and in industry. We seek to collaborate with labs who share a positive environment and a commitment to open science. Lab members are expected to foster relationships with our collaborators inline with our values of transparency and cooperativity. In other environments collaborations have been tricky for some people. However, our collaborations have been very positive, and I try to do my part to ensure that continues to be the case. Lab members can expect me to be actively involved in both the details of the project as well as communication with the partner labs. I will have my lab members’ backs and manage difficult conversations such as authorship. I also feel an important factor to fruitful partnership is to all actually be in the same place from time to time and so I encourage travel for scientific collaborations. I’m happy to provide funding to facilitate these visits and meetings.
 

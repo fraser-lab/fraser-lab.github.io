@@ -4,6 +4,7 @@ layout: default
 group: coi
 ---
 
+# Conflicts of Interest
  I try to be as transparent as possible about my conflicts of interests. If these  conflicts cause an issue with the work or working relationship between me and a lab member, I want people to have those conversations with me early. The Dean of the UCSF School of Pharmacy would be a good person to talk to if you don’t feel comfortable talking to me about it directly.
 
 Appointments:

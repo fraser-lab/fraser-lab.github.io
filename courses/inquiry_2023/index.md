@@ -46,7 +46,7 @@ Alphafold is one of the buzziest breakthroughs of recent years. What does it mea
      - MPRA/MAVE/DMS - [Structural and functional characterization of G protein–coupled receptors with deep mutational scanning
 ](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7707821/)
      - [Pharmacogenomics of GPCR Drug Targets](https://www.cell.com/cell/fulltext/S0092-8674(17)31384-3)
-- Install ChimeraX before next class [link](https://www.rbvi.ucsf.edu/chimerax/download.html)
+- Install [ChimeraX](https://www.rbvi.ucsf.edu/chimerax/download.html) before next class
 
 
 **Wednesday Jan 11 - 3:00-4:45PM - Mission Hall 2105**
@@ -56,7 +56,7 @@ Alphafold is one of the buzziest breakthroughs of recent years. What does it mea
 
 **Thursday Jan 12 - 3:00-4:45PM - Mission Hall 2105**
 
-- [Moez Dawood](20230112_UCSFTalk.pdf) - [over zoom!](https://ucsf.zoom.us/j/94714411430?pwd=M1lNZ0tPbStLakJESnM2MzV0N1FlQT09)
+- Moez Dawood - [over zoom!](https://ucsf.zoom.us/j/94714411430?pwd=M1lNZ0tPbStLakJESnM2MzV0N1FlQT09)
 - who owns genomes?
     - [Establishing a blockchain-enabled Indigenous data sovereignty framework for genomic data](https://www.sciencedirect.com/science/article/pii/S0092867422007826?via%3Dihub)
     - [The Illusion of Inclusion — The “All of Us” Research Program and Indigenous Peoples’ DNA](https://www.nejm.org/doi/full/10.1056/NEJMp1915987)

@@ -8,15 +8,15 @@ Prior to composing the response, take a deep breath. The most important thing to
 
 It's a good idea to hold off on assembling this document until at least 24 hours after you have first read the reviews!
 
-### Assemble all the reviews in one "response" document
+# Assemble all the reviews in one "response" document
 
 I favor keeping the entire text of all reviews and any editor comments, even the positive comments that don't need a response. This should be plainly formatted.
 
-### Create a new version of your manuscript where the changes can be added
+# Create a new version of your manuscript where the changes can be added
 
 Carefully add all new text in red.
 
-### Add your comments into the response document blue text and any additions to the manuscript in red text  
+# Add your comments into the response document blue text and any additions to the manuscript in red text  
 
 This helps the editor and reviewer quickly go through the document. Not that you don't have to show the red text for simple spelling or word choice issues.
 
@@ -34,11 +34,11 @@ A caveat about the structural basis of NMR observables should be added on page 2
 <br><span style="color:blue">We have added the caveat:</span><br>
 "Conventional, synchrotron-based X-ray data can result in different structural characterizations, <span style="color:red"> which can additionally provide a structural basis of NMR observables."</span>
 
-### Respond to every comment and point
+# Respond to every comment and point
 
 Even if you disagree or the comment is super positive. Acknowledge points of disagreement and be emphathetic. You don't have to acquiese to every request, but you should honor the spirit in which it was given.
 
-### Write a summary paragraph at the top of the response
+# Write a summary paragraph at the top of the response
 
 Thank everyone for their time and highlight the positive.  If there is an overarching issue that is clarified in the response, write a short paragraph about it.  Then explain the scheme for colouring.
 
@@ -48,11 +48,11 @@ for example:
 <br> A significant change in the manuscript is to clarify the differences between ensemble and multiconformer refinement. Previously, we used the term “ensemble refinement” to denote any type of crystallographic refinement that deviates from modeling a single conformation for each residue. In the revised manuscript, we contrast our multiconformer approach with the ensemble refinement approach of phenix.ensemble_refine using our DHFR data.
 <br> Reviewers’ comments are in black, our responses are in <span style="color:blue"> blue</span>, and modifications to the manuscript are in marked in <span style="color:red">red</span> text.
 
-### Re-read your response
+# Re-read your response
 
 Put yourself in the reviewer's shoes - Are you being respectful of their time and effort? One of the main problems is usually that we haven't explained things clearly enough and so we should be thankful for the opportunity to explain our science better!
 
-### The Nature guidelines are not too bad! (even if they focus a bit too much on always adding MOAR DATA!)
+# The Nature guidelines are not too bad! (even if they focus a bit too much on always adding MOAR DATA!)
 
 Responding to reviewers' comments. Our advice is simple: tackle the scientific substance, and do it comprehensively. The best way to address reviewers' concerns is almost always to add data—this is far more effective than dismissing the concern, stating that it is beyond the scope of the paper, or making a cosmetic change.
 

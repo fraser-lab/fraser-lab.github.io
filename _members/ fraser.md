@@ -46,5 +46,5 @@ In addition to all the exciting developments in the lab, James has long standing
 He is the co-creator of [UCSF Talks](https://ucsftalks.com), an aggregator of all the discovery science seminars at UCSF, and records the [Tortured Proteins Department Podcast](https://open.spotify.com/show/10PHVouHr7pY8Q1p4QJ2EQ) with [Prof. Stephanie Wankowicz](https://wankowiczlab.com/).
 
 
-His full conflicts of interest are available [here](/coi)."
+His full [conflicts of interest](/coi) are listed on a separate page."
 ---

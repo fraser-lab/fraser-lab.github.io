@@ -1,6 +1,6 @@
 ---
 name: Lilly
-human: "[Daphne](/members/#Daphne%20Chen)"
+human: "[Daphne](/members/#Daphne%20Chen,%20Ph.D.)"
 adoptiondate: 2022-08-13
 image: /static/img/pets/Lilly.jpg
 altimage: /static/img/pets/Lilly_pb.jpg

@@ -51,7 +51,7 @@ Structure-based drug design promises to revolutionize drug discovery, yet despit
 
 **Tuesday Jan 4 - 3:00-4:45PM**
 
-- Install ChimeraX before class [link](https://www.rbvi.ucsf.edu/chimerax/download.html)
+- Install [ChimeraX](https://www.rbvi.ucsf.edu/chimerax/download.html) before class
 - Tom Goddard: [ChimeraX demo](https://www.rbvi.ucsf.edu/chimerax/data/delta-opioid-jan2020/binding.html)
   - [Elucidating the active delta-opioid receptor crystal structure with peptide and small-molecule agonists.](http://cdn.fraserlab.com/courses/inquiry_2020/2019_claff.pdf)
   - VR links:
@@ -60,7 +60,7 @@ Structure-based drug design promises to revolutionize drug discovery, yet despit
 
 **Wednesday Jan 5 - 3:00-4:45PM**
 
-- [John Irwin: Docking what works and what doesn't](To be posted...)
+- John Irwin: Docking what works and what doesn't (slides to be posted)
   - What docking is, how it works, and why it is hard; a review of some notable success stories "what docking can do for you" and failures; a detailed look at 2 or 3 stories, focusing on how to run a docking campaign, and what to expect from the outcome, with results.
   - resources DOCK Blaster, ZINC, DUDE, and how to use them.
 

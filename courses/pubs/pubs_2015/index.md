@@ -251,7 +251,7 @@ Other Class Material:
 - [APE file for PCR product](https://drive.google.com/file/d/0Bx0d95RwVYufMUhpcFdqRnN2aG8/view?usp=sharing)
 - [PCR Product Annotation](https://docs.google.com/document/d/12CGyjBaVTB1ncw00-yRyQl6Acga-LS7bfywvrpxLbNg/edit?usp=sharing)
 - [Information about the format of your fastq files](http://support.illumina.com/help/SequencingAnalysisWorkflow/Content/Vault/Informatics/Sequencing_Analysis/CASAVA/swSEQ_mCA_FASTQFiles.htm)
-- [Using Matplotlib on the Server](/pubs/matplotlib_server/)
+- [Using Matplotlib on the Server](/courses/pubs/pubs_2014/matplotlib_server/)
 - [Allele Dictionary With WT](https://drive.google.com/file/d/0B89bAF4_3DdIUE04UFhYdTR1MFE/view?usp=sharing)
 
 
@@ -292,9 +292,9 @@ Other Class Material:
 - WHANGEE: N-term linked poly-Ub - 2W9N
 - [ddG Data Website](https://guybrush.ucsf.edu/local/DDG/ubiquitin)
 
-#Tuesday November 24 - FINAL TEAM PRESENTATIONS
+# Tuesday November 24 - FINAL TEAM PRESENTATIONS
 
-#15 slide maximum, 15 minutes per team (plus questions)
+# 15 slide maximum, 15 minutes per team (plus questions)
 
 Schedule:
 - 1:10-1:30 PM - SHMOO: Nadja, Ryan, Daniel, Derek (TA: Leanna)

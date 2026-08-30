@@ -4,9 +4,9 @@ layout: default
 group: courses
 ---
 
-#Teaching Lab Shared Server for Sequence Analysis#
+# Teaching Lab Shared Server for Sequence Analysis
 
-##Sept. 2014 - BP205A##
+## Sept. 2014 - BP205A
 
 **Server:**	derisilab105.ucsf.edu
 

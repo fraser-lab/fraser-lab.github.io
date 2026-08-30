@@ -23,7 +23,7 @@ group: courses
 
 **Textbook:** None. Lab protocols and course materials will be available in class or online
 
-**Instructors:** [John Gross](mailto:jdgross@cgl.ucsf.edu), [Aashish Manglik](mailto:Aashish.Manglik@ucsf.edu), [James Fraser](mailto:jfraser@fraserlab.com), [Klim Verba](verba@msg.ucsf.edu)
+**Instructors:** [John Gross](mailto:jdgross@cgl.ucsf.edu), [Aashish Manglik](mailto:Aashish.Manglik@ucsf.edu), [James Fraser](mailto:jfraser@fraserlab.com), [Klim Verba](mailto:verba@msg.ucsf.edu)
 
 **TAs:**
 - Kevin.Delgado-Cunningham@ucsf.edu
@@ -97,7 +97,7 @@ This is a team-based class where students work in small groups develop their own
 	- Luke Villarma
 
 # Journal Club assignments
-- [Link](https://ucsf.box.com/s/d0wax9tfdjmvzgxqgw3425nhg1b49pnz)
+- [Journal club assignment schedule](https://ucsf.box.com/s/d0wax9tfdjmvzgxqgw3425nhg1b49pnz)
 
 # Jan 8-10 - Class intro
 

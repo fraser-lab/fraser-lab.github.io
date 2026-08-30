@@ -9,20 +9,21 @@ group: research
 # Our research
 The long-term goals of our research are to understand how protein conformational ensembles are reshaped by chemical, genetic, and physical perturbations. We seek to quantify how these perturbations impact protein function and organismal fitness. We are best known for creating multitemperature X-ray data collection approaches, which are especially powerful when paired with multiconformer computational modeling to reveal otherwise inaccessible features of conformational ensembles. Our group integrates high resolution structural biology (X-ray, EM, NMR), functional studies (deep mutational scanning, enzymology), and computation to study biological mechanisms and to improve protein engineering and small molecule discovery. Group members move fluidly between computation and experiment, often inventing new methods to answer their questions.
 
-#### We work on many different systems and proteins as we find ourselves drawn, again and again, to the tension of high resolution data in structural biology: as resolution gets better, modeling becomes easier... until the resolution gets too good... and then the ensemble begins to reveal itself and the fun challenges begin.
+We work on many different systems and proteins as we find ourselves drawn, again and again, to the tension of high resolution data in structural biology: as resolution gets better, modeling becomes easier... until the resolution gets too good... and then the ensemble begins to reveal itself and the fun challenges begin.
+{: .lead}
 <br>
 <br>
 
 <div class="text-center my-4">
 <p><a href="https://www.youtube.com/watch?v=-Ktfy6SPZh4">James' Carl Branden Plenary Award Lecture at the 2025 Protein Society Meeting</a></p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Ktfy6SPZh4?si=ClIuk79KpKqFEU-P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div class="video-container"><iframe src="https://www.youtube.com/embed/-Ktfy6SPZh4?si=ClIuk79KpKqFEU-P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 </div>
 
 </div>
 
 <div class="row">
 
-### Identifying hidden alternative conformations of proteins and ligands in biophysical data
+## Identifying hidden alternative conformations of proteins and ligands in biophysical data
 
 <div class="col-md-7 order-md-1">
 
@@ -43,7 +44,7 @@ These methods development efforts are central to discovering new allosteric liga
 </div>
 <div class="row">
 
-### Using multi-temperature X-ray data collection methods in mechanistic studies and ligand discovery campaigns
+## Using multi-temperature X-ray data collection methods in mechanistic studies and ligand discovery campaigns
 
 <div class="col-md-7 order-md-2">
 
@@ -58,7 +59,7 @@ Additionally, we have identified how temperature can bias small molecule discove
 </div>
 <div class="row">
 
-### Determining structures that influence microbial-host interactions
+## Determining structures that influence microbial-host interactions
 
 <div class="col-md-7 order-md-1 ">
 
@@ -72,7 +73,7 @@ We are interested in the structural enzymology and potential therapeutic applica
 </div>
 <div class="row">
 
-### Identifying unifying concepts between systems and structural biology
+## Identifying unifying concepts between systems and structural biology
 
 <div class="col-md-7 order-md-2">
 
@@ -86,7 +87,7 @@ We are intrigued by the similarities in genetic epistasis and thermodynamic meas
 </div>
 <div class="row">
 
-### Creating new time-resolved experiments to probe correlated motions in proteins
+## Creating new time-resolved experiments to probe correlated motions in proteins
 
 <div class="col-md-7 order-md-1">
 
