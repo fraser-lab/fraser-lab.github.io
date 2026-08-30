@@ -1,10 +1,4 @@
 
-@media (min-width: 992px) {
-   .navbar-collapse {
-       display: none !important;
-   }
-}
-
 .video-container {
     position: relative;
     padding-bottom: 56.25%;
@@ -46,6 +40,53 @@
 .welcomefont {
   font-size: 1.5em;
   font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+}
+
+/* Keyboard/screen-reader users can jump past the navbar to the page content. */
+.skip-link {
+  position: absolute;
+  top: 0;
+  left: -9999px;
+  z-index: 1030;
+  padding: 0.5rem 1rem;
+  background-color: #fff;
+  color: #052049;
+}
+
+.skip-link:focus {
+  left: 0;
+}
+
+/* Bootstrap's default link blue (#007bff) is only 3.98:1 on white and 3.36:1
+   on the jumbotron, below the WCAG AA minimum of 4.5:1. This darker blue is
+   7.0:1 on white and keeps the same hue. */
+a {
+  color: #0056b3;
+}
+
+a:hover,
+a:focus {
+  color: #003d80;
+}
+
+.btn-outline-primary {
+  color: #0056b3;
+  border-color: #0056b3;
+}
+
+.btn-outline-primary:hover,
+.btn-outline-primary:focus,
+.btn-outline-primary.active {
+  background-color: #0056b3;
+  border-color: #0056b3;
+  color: #fff;
+}
+
+/* Underline links inside running text so colour is not the only thing marking
+   them (WCAG 1.4.1). Standalone links and buttons keep the plain style. */
+main p a,
+main li a {
+  text-decoration: underline;
 }
 
 /* Hero heading: size it against the jumbotron's own width rather than the

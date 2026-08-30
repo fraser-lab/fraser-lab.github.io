@@ -65,27 +65,27 @@ Subsequently: {{member.subsequent}} <br>
 {% endif %}
 
 {% if member.orcid %}
-<a href="https://orcid.org"><img class="inline-block mem-icon" src="/static/img/logo/orcid_logo.svg"></a>
+<img class="inline-block mem-icon" src="/static/img/logo/orcid_logo.svg" alt="" aria-hidden="true">
 <a href="https://orcid.org/{{member.orcid}}"> {{member.orcid}}</a> <br>
 {% endif %}
 
 {% if member.linkedin %}
-<a href="https://www.linkedin.com"><img class="inline-block mem-icon" src="/static/img/logo/linkedin_logo.svg"></a>
+<img class="inline-block mem-icon" src="/static/img/logo/linkedin_logo.svg" alt="" aria-hidden="true">
 <a href= "https://www.linkedin.com/in/{{member.linkedin}}"> {{member.linkedin}} </a> <br>
 {% endif %}
 
 {% if member.scholar %}
-<a href="https://scholar.google.com"><img class="inline-block mem-icon" src="/static/img/logo/gscholar_logo.svg"></a>
+<img class="inline-block mem-icon" src="/static/img/logo/gscholar_logo.svg" alt="" aria-hidden="true">
 <a href= "https://scholar.google.com/citations?user={{member.scholar}}"> {% if member.timeline_name %}{{ member.timeline_name }}{% else %}{{ member.name | split: " " | first }}{% endif %}'s Citations </a> <br>
 {% endif %}
 
 {% if member.twitter %}
-<a href="https://twitter.com"><img class="inline-block mem-icon" src="/static/img/logo/twitter_logo.svg"></a>
+<img class="inline-block mem-icon" src="/static/img/logo/twitter_logo.svg" alt="" aria-hidden="true">
 <a href= "https://twitter.com/{{member.twitter}}"> @{{member.twitter}} </a> <br>
 {% endif %}
 
 {% if member.github %}
-<a href="https://github.com"><img class="inline-block mem-icon" src="/static/img/logo/github_logo.svg"></a>
+<img class="inline-block mem-icon" src="/static/img/logo/github_logo.svg" alt="" aria-hidden="true">
 <a href= "https://github.com/{{member.github}}"> {{member.github}} </a> <br>
 {% endif %}
 </p>
@@ -140,7 +140,7 @@ Subsequently: {{undergraduate.subsequent}}<br>
 
 
 <br>
-## [High School Interns](http://sep.ucsf.edu/hs_programs/high-school-intern-program/)
+## [High School Interns](https://sep.ucsf.edu/programs/high-school-students/intern-program/)
 {% comment %}Sort high school interns by final enddate{% endcomment %}
 {% assign students_with_final_date = "" | split: "" %}
 {% for student in site.members %}

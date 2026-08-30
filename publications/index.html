@@ -8,13 +8,13 @@ group: publications
 <div class="pub-filters" style="margin-bottom: 20px;">
 	<div style="margin-bottom: 10px;">
 		<strong>Filter:</strong>
-		<button class="btn btn-sm btn-outline-primary pub-filter active" data-filter="all">All Publications</button>
-		<button class="btn btn-sm btn-outline-primary pub-filter" data-filter="key">Key Publications</button>
+		<button class="btn btn-sm btn-outline-primary pub-filter active" data-filter="all" aria-pressed="true">All Publications</button>
+		<button class="btn btn-sm btn-outline-primary pub-filter" data-filter="key" aria-pressed="false">Key Publications</button>
 	</div>
 	<div id="tag-filters" style="display: none;">
 		<strong>Topics:</strong>
 		{% for tag in site.data.publication_tags %}
-		<button class="btn btn-sm btn-outline-secondary tag-filter" data-tag="{{ tag.name }}">{{ tag.name }}</button>
+		<button class="btn btn-sm btn-outline-secondary tag-filter" data-tag="{{ tag.name }}" aria-pressed="false">{{ tag.name }}</button>
 		{% endfor %}
 	</div>
 </div>
@@ -52,8 +52,8 @@ Co-first authors are marked with &#42; so we check for &#42;** which indicates a
 <hr class="pub-entry" data-key="{{is_key}}" data-tags="{{tags_str}}">
 <div class="row pub-entry" style="padding-top: 60px; margin-top: -60px;" id="{{publication.pmid}}" data-key="{{is_key}}" data-tags="{{tags_str}}">
 	<div>
-		<h5>{{ publication.title | markdownify  | remove: '<p>' | remove: '</p>'}}</h5>
-		<h6>{{ publication.authors | markdownify | remove: '<p>' | remove: '</p>' }}</h6>
+		<h2 class="h5">{{ publication.title | markdownify  | remove: '<p>' | remove: '</p>'}}</h2>
+		<p class="h6">{{ publication.authors | markdownify | remove: '<p>' | remove: '</p>' }}</p>
 		{% if publication.journal %}
 			<i>{{ publication.journal }},</i>
 			{{publication.pub_date | split: "-" | first }}
@@ -82,9 +82,10 @@ Co-first authors are marked with &#42; so we check for &#42;** which indicates a
 	<div class="col-sm-6">
 		<img class = "img-fluid" src = "{{publication.image}}" alt =  "Key Figure" style="max-height: 200px;" loading="lazy" decoding="async">
 	</div>
-	<ul class="col-sm-6">
+	<div class="col-sm-6">
 		<br>
-		<h6>Access the paper</h6>
+		<h3 class="h6">Access the paper</h3>
+		<ul>
 		<!--PMID-->
 		{% if publication.pmid %}
 		<li>PMID: <a href="http://www.ncbi.nlm.nih.gov/pubmed/{{publication.pmid}}" title = "PubMed: {{publication.pmid}} (opens in new tab)" target="_blank"> {{publication.pmid}}</a></li>
@@ -242,13 +243,15 @@ Co-first authors are marked with &#42; so we check for &#42;** which indicates a
 
 		<!--additional links - optional-->
 		{% if publication.links %}
-			<br>
-			<h6>Additional Link{% if publication.links.size > 1 %}s{% endif %}</h6>
+			</ul>
+			<h3 class="h6">Additional Link{% if publication.links.size > 1 %}s{% endif %}</h3>
+			<ul>
 			{% for link in publication.links %}
 				<li><a href="{{link.url}}" alt="{{link.name}} (opens in new tab)" target="_blank">{{link.name}}</a></li>
 			{% endfor %}
 		{% endif %}
 	</ul>
+</div>
 </div>
 <br class="pub-entry" data-key="{{is_key}}" data-tags="{{tags_str}}">
 {% endfor %}
@@ -264,8 +267,10 @@ document.addEventListener('DOMContentLoaded', function() {
 		btn.addEventListener('click', function() {
 			document.querySelectorAll('.pub-filter').forEach(function(b) {
 				b.classList.remove('active');
+				b.setAttribute('aria-pressed', 'false');
 			});
 			this.classList.add('active');
+			this.setAttribute('aria-pressed', 'true');
 			currentFilter = this.getAttribute('data-filter');
 
 			// Show/hide tag filters based on selection
@@ -277,6 +282,7 @@ document.addEventListener('DOMContentLoaded', function() {
 				currentTag = null;
 				document.querySelectorAll('.tag-filter').forEach(function(b) {
 					b.classList.remove('active');
+					b.setAttribute('aria-pressed', 'false');
 				});
 			}
 
@@ -289,12 +295,15 @@ document.addEventListener('DOMContentLoaded', function() {
 		btn.addEventListener('click', function() {
 			if (this.classList.contains('active')) {
 				this.classList.remove('active');
+				this.setAttribute('aria-pressed', 'false');
 				currentTag = null;
 			} else {
 				document.querySelectorAll('.tag-filter').forEach(function(b) {
 					b.classList.remove('active');
+					b.setAttribute('aria-pressed', 'false');
 				});
 				this.classList.add('active');
+				this.setAttribute('aria-pressed', 'true');
 				currentTag = this.getAttribute('data-tag');
 			}
 			applyFilters();

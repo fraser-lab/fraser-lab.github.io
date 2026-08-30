@@ -8,10 +8,19 @@
     <meta name="description" content="{{ site.description }}">
     <meta name="theme-color" content="#052049">
     <meta http-equiv="Permissions-Policy" content="interest-cohort=()"/>
-    <!-- Preconnect to external domains for faster resource loading -->
-    <link rel="preconnect" href="https://fonts.googleapis.com" crossorigin>
-    <!-- Preload critical CSS -->
-    <link rel="preload" href="/static/css/bootstrap.min.css" as="style">
+
+    <!-- Social preview card, used when a page is shared -->
+    <meta property="og:site_name" content="{{ site.name }}">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="{{ page.title | default: site.name }}">
+    <meta property="og:description" content="{{ page.description | default: site.description }}">
+    <meta property="og:url" content="{{ page.url | absolute_url }}">
+    <meta property="og:image" content="{{ '/static/img/logo/og-card.jpg' | absolute_url }}">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="{{ page.title | default: site.name }}">
+    <meta name="twitter:description" content="{{ page.description | default: site.description }}">
+    <meta name="twitter:image" content="{{ '/static/img/logo/og-card.jpg' | absolute_url }}">
+
     <link rel="stylesheet" href="/static/css/bootstrap.min.css">
     {% if page.group == 'news' %}
     <link rel="alternate" type="application/atom+xml" title="Fraser Lab News Feed" href="/news.xml">
@@ -24,6 +33,8 @@
   </head>
 
   <body>
+
+    <a class="skip-link" href="#main">Skip to main content</a>
 
     <!-- Static navbar -->
     <nav class="navbar navbar-expand-lg navbar-dark" style="background-color: #052049">
@@ -46,4 +57,4 @@
         </div><!--/.nav-collapse -->
       </nav>
 
-    <div class="container">
+    <main id="main" class="container">
