@@ -1,14 +1,22 @@
     </main>
     <hr>
-    <div id="footer">
+    <footer id="footer">
       <div class="container">
         <p class="text-muted credit"> This website is open-source and available on <a href="https://github.com/fraser-lab/fraser-lab.github.io" target="_blank" rel="noopener noreferrer">GitHub</a>.</p>
       </div>
-    </div>
+    </footer>
 
-    <!-- Placed at the end of the document so the pages load faster -->
-    <script src="/static/js/jquery.min.js" defer></script>
-    <script src="/static/js/popper.min.js" defer></script>
-    <script src="/static/js/bootstrap.min.js" defer></script>
+    <!-- The navbar toggle was the only thing the Bootstrap JS bundle (jQuery +
+         Popper + Bootstrap, ~170 KB) was doing on every page. -->
+    <script>
+      document.addEventListener('click', function (event) {
+        var toggle = event.target.closest('[data-toggle="collapse"]');
+        if (!toggle) { return; }
+        var target = document.querySelector(toggle.getAttribute('data-target'));
+        if (!target) { return; }
+        var open = target.classList.toggle('show');
+        toggle.setAttribute('aria-expanded', open ? 'true' : 'false');
+      });
+    </script>
   </body>
 </html>

@@ -34,12 +34,12 @@ For our UCSF class, our discussion time will focus primarily on the Research Lec
 If you want to talk to us about preparing your discussion session, please feel free to talk to us in advance with the faculty assigned for your discussion day.
 
 
-# May 15
+## May 15
 
 - Leaders: Kelsey Haas, Jasper Williams
 - Primary Faculty: Ron
 
-## Jack Szostack - The Origins of Life on Earth
+### Jack Szostack - The Origins of Life on Earth
 
 Assigned Paper:
 
@@ -59,7 +59,7 @@ Assigned Paper:
 </div>
 {:/nomarkdown}
 
-## Dianne Newman - Microbial Diversity and Evolution
+### Dianne Newman - Microbial Diversity and Evolution
 
 Assigned Paper:
 
@@ -81,12 +81,12 @@ Assigned Paper:
 
 - Discussion Questions: [Szostak and Newman](http://cdn.fraserlab.com/courses/flipped_2015/szostak_newman.pdf)
 
-# May 18
+## May 18
 
 - Leaders: Aditya Anand, Lynn Wang
 - Primary Faculty: Jaime
 
-## David Baker - Protein Design
+### David Baker - Protein Design
 
 Assigned Paper:
 
@@ -105,12 +105,12 @@ Assigned Paper:
 
 - Discussion Questions: [David Baker](http://cdn.fraserlab.com/courses/flipped_2015/baker.pdf)
 
-# May 20
+## May 20
 
 - Leaders: Ben Barsi-Rhyne, Becky Anderson
 - Primary Faculty: Jaime
 
-## Chaitan Khosla - Polyketide Assembly Lines
+### Chaitan Khosla - Polyketide Assembly Lines
 
 Assigned Paper:
 
@@ -133,12 +133,12 @@ Assigned Paper:
 - Discussion Questions: [Chaitan Khosla](http://cdn.fraserlab.com/courses/flipped_2015/khosla.pdf)
 
 
-# May 22
+## May 22
 
 - Leaders: Karen Cheng
 - Primary Faculty: Ron
 
-## William Shih - Nanofabrication via Structural DNA
+### William Shih - Nanofabrication via Structural DNA
 
 
 Assigned Papers:
@@ -163,12 +163,12 @@ Assigned Papers:
 - Discussion Questions: [William Shih](http://cdn.fraserlab.com/courses/flipped_2015/shih.pdf)
 
 
-# May 26
+## May 26
 
 - Leaders: Elijah Martin, Tess Veuthey
 - Primary Faculty: Jaime
 
-## Kristala Prather-Jones Synthetic Biology and Metabolic Engineering
+### Kristala Prather-Jones Synthetic Biology and Metabolic Engineering
 
 Assigned Paper:
 - [Sheppard MJ, Kunjapur AM, Wenck SJ, Prather KL. Retro-biosynthetic screening of a modular pathway design achieves selective route for microbial synthesis of 4-methyl-pentanol. Nat Commun. 2014. PMID: 25248664](http://cdn.fraserlab.com/courses/flipped_2015/2014_sheppard.pdf)
@@ -185,12 +185,12 @@ Assigned Paper:
 
 - Discussion Questions: [Kristala Prather](http://cdn.fraserlab.com/courses/flipped_2015/prather.pdf)
 
-# May 27
+## May 27
 
 - Leaders: Karina Perlaza, Brian Yang
 - Primary Faculty: Ron
 
-## Sangeeta Bhatia  Tissue Engineering
+### Sangeeta Bhatia  Tissue Engineering
 
 Assigned Paper:
 
@@ -209,12 +209,12 @@ Assigned Paper:
 - Discussion Questions: [Sangeeta Bhatia](http://cdn.fraserlab.com/courses/flipped_2015/bhatia.pdf)
 
 
-# May 29
+## May 29
 
 - Leaders:  Valentina Garcia, Lindsay Osso
 - Primary Faculty: Ron
 
-## Robert Langer  Biomaterials and Delivery Systems
+### Robert Langer  Biomaterials and Delivery Systems
 
 Assigned paper:
 - [Timko, B.P., Arruebo, M., Shankarappa, S.A., McAlvin, J.B., Okonkwo, O.S., Mizrahi, B., Stefanescu, C.F., Gomez, L., Zhu, J., Zhu, A., et al. (2014). Near-infrared-actuated devices for remotely controlled drug delivery. Proceedings of the National Academy of Sciences 111, 1349–1354.](http://cdn.fraserlab.com/courses/flipped_2015/2014_timko.pdf)
@@ -235,7 +235,7 @@ Assigned paper:
 
 - Discussion Questions: [Robert Langer](http://cdn.fraserlab.com/courses/flipped_2015/langer.pdf)
 
-## Desai/Bhisitkul Advancing the Treatment of Retinal Disease
+### Desai/Bhisitkul Advancing the Treatment of Retinal Disease
 
 No paper assigned
 

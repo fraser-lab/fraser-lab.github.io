@@ -45,7 +45,7 @@ Each students will serve as Discussion Leaders (pre-assigned below) for one pape
 - GSK [Drugs for bad bugs: confronting the challenges of antibacterial discovery](http://cdn.fraserlab.com/courses/amr_2019/2007_payne.pdf)
 - AZ [ESKAPEing the labyrinth of antibacterial discovery](http://cdn.fraserlab.com/courses/amr_2019/2015_tommasi.pdf)
 
-# April 8
+## April 8
 
 - Leader: Haley Gause
 - Assigned Paper: [Antibiotic collateral sensitivity is contingent on the repeatability of evolution ](http://cdn.fraserlab.com/courses/amr_2019/2019_nichol.pdf)
@@ -55,7 +55,7 @@ Each students will serve as Discussion Leaders (pre-assigned below) for one pape
 - Assigned Paper: [Spatiotemporal microbial evolution on antibiotic landscapes](http://cdn.fraserlab.com/courses/amr_2019/2016_baym.pdf)
 - Additional/Alternate reading:: [Genetic variation of a bacterial pathogen within individuals with cystic fibrosis provides a record of selective pressures.](http://cdn.fraserlab.com/courses/amr_2019/2014_lieberman.pdf)
 
-# April 9
+## April 9
 
 - Leader: Bryan Faust
 - Assigned Paper: [Heterogeneity in efflux pump expression predisposes antibiotic-resistant cells to mutation](http://cdn.fraserlab.com/courses/amr_2019/2018_el_menouche.pdf)
@@ -65,13 +65,13 @@ Each students will serve as Discussion Leaders (pre-assigned below) for one pape
 - Assigned Paper: [Bactericidal Antibiotics Induce Toxic Metabolic Perturbations that Lead to Cellular Damage.](http://cdn.fraserlab.com/courses/amr_2019/2015_belenky.pdf)
 - Additional/Alternate reading: [Oxidation of dCTP contributes to antibiotic lethality in stationary-phase mycobacteria](http://cdn.fraserlab.com/courses/amr_2019/2018_fan.pdf)
 
-# April 10 - start at 3PM
+## April 10 - start at 3PM
 
 - Leader: Matt Nalley
 - Assigned Paper: [High mutation rates limit evolutionary adaptation in Escherichia coli](http://cdn.fraserlab.com/courses/amr_2019/2018_sprouffske.pdf)
 - Additional/Alternate reading: [Identifying and exploiting genes that potentiate the evolution of antibiotic resistance](http://cdn.fraserlab.com/courses/amr_2019/2018_gifford.pdf)
 
-# April 15
+## April 15
 
 - Leader: Hayarpi Torosyan
 - Assigned Paper: [Inhibiting the Evolution of Antibiotic Resistance](http://cdn.fraserlab.com/courses/amr_2019/2019_ragheb.pdf)
@@ -81,7 +81,7 @@ Each students will serve as Discussion Leaders (pre-assigned below) for one pape
 - Assigned Paper: [Optimized arylomycins are a new class of Gram-negative antibiotics](http://cdn.fraserlab.com/courses/amr_2019/2018_smith.pdf)
 - Additional/Alternate reading: [A new class of synthetic retinoid antibiotics effective against bacterial persisters](http://cdn.fraserlab.com/courses/amr_2019/2018_kim.pdf)
 
-# April 16
+## April 16
 
 - Leader: Miriam Goldmon
 - Assigned Paper: [Prediction of ultra-high-order antibiotic combinations based on pairwise interactions](http://cdn.fraserlab.com/courses/amr_2019/2019_katzir.pdf)
@@ -91,13 +91,13 @@ Each students will serve as Discussion Leaders (pre-assigned below) for one pape
 - Assigned Paper: [Thermal proteome profiling in bacteria: probing protein state in vivo](http://cdn.fraserlab.com/courses/amr_2019/2018_mateus.pdf)
 - Additional/Alternate reading: [Thermal proteome profiling: unbiased assessment of protein state through heat-induced stability changes.](http://cdn.fraserlab.com/courses/amr_2019/2017_mateus.pdf) [Species-specific activity of antibacterial drug combinations.](http://cdn.fraserlab.com/courses/amr_2019/2018_brochado.pdf)
 
-# April 17 - start at 3PM
+## April 17 - start at 3PM
 
 - Leader: Evelyn Hernandez
 - Assigned Paper: [Resource misallocation as a mediator of fitness costs in antibiotic resistance.](http://cdn.fraserlab.com/courses/amr_2019/2018_trauner.pdf)
 - Additional/Alternate reading: [Antibiotic resistance and host immune evasion in Staphylococcus aureus mediated by a metabolic adaptation](http://cdn.fraserlab.com/courses/amr_2019/2019_jh_jiang.pdf)
 
-# if you don't like your paper, maybe one of these would be more fun?
+## if you don't like your paper, maybe one of these would be more fun?
 - [Invertible promoters mediate bacterial phase variation, antibiotic resistance, and host adaptation in the gut](http://cdn.fraserlab.com/courses/amr_2019/2019_x_jiang.pdf)
 - [Development and Use of Personalized Bacteriophage-Based Therapeutic Cocktails To Treat a Patient with a Disseminated Resistant Acinetobacter baumannii Infection.](http://cdn.fraserlab.com/courses/amr_2019/2017_schooley.pdf)
 - [Gamblers: An Antibiotic-Induced Evolvable Cell Subpopulation Differentiated by Reactive-Oxygen-Induced General Stress Response](http://cdn.fraserlab.com/courses/amr_2019/2019_pribis.pdf)

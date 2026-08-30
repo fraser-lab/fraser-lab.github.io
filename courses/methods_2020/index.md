@@ -65,9 +65,9 @@ This is a team-based class where students work in small groups develop their own
 - [Team Yonath](https://en.wikipedia.org/wiki/Ada_Yonath): TA - Jacqueline: Rian Kormos, Simone Harrison, Virginia Garda, Johanna Virta
 
 
-# Feb 16/17 - Class intro
+## Feb 16/17 - Class intro
 
-## Tuesday February 16
+### Tuesday February 16
 
 - Welcome: structure of the class, zoom norms, teams and work-together recommendations, relationship to Macro mini-quals, final presentations for this class (JF)
 - Why structural biology/Intro to Pchem (JG)
@@ -83,7 +83,7 @@ This is a team-based class where students work in small groups develop their own
 	- Review: [Dynamic personalities of proteins](https://www.nature.com/articles/nature06522)
 
 
-## Wednesday February 17
+### Wednesday February 17
 
 - Equity in structural biology - who is in the room, who has access to instrumentation, and who gets credit. (JF)
 	- Before class, watch the first 14 minutes of [this video](https://www.mskcc.org/videos/kravis-wise-life-and-legacy-dr-rosalind-franklin-november-23-2020) for the history of Rosalind Franklin (stop when Cynthia Wolberger starts her lecture!)
@@ -92,13 +92,13 @@ This is a team-based class where students work in small groups develop their own
 - [ChimeraX tutorial by Tom Goddard](https://www.rbvi.ucsf.edu/chimerax/data/nanobody-feb2021/nanobody.html)
 
 
-# Feb 22-24 - CryoEM - Lectures Yifan Cheng, Tutorials James Fraser
+## Feb 22-24 - CryoEM - Lectures Yifan Cheng, Tutorials James Fraser
 
-## Monday February 22
+### Monday February 22
 
-### [Lecture 1 from Yifan Cheng](http://cdn.fraserlab.com/methods/yc2021_1.pdf)
+#### [Lecture 1 from Yifan Cheng](http://cdn.fraserlab.com/methods/yc2021_1.pdf)
 
-### Tutorial 1:
+#### Tutorial 1:
  - Connecting to AWS - Thanks to Amazon Web Services Educate for computing credits
  - [cisTEM](https://cistem.org/) GUI and importing images (300kV, 2.7mm, 0.834 A/pix)
  - CTF (fit res better than 4A)
@@ -106,54 +106,54 @@ This is a team-based class where students work in small groups develop their own
  - Symmetry (C1 vs. C3)
  - 2D classifications (box size 512)
 
-## Tuesday February 23
+### Tuesday February 23
 
-### [Lecture 2 from Yifan Cheng](http://cdn.fraserlab.com/methods/yc2021_2.pdf)
+#### [Lecture 2 from Yifan Cheng](http://cdn.fraserlab.com/methods/yc2021_2.pdf)
 
-### Tutorial 2:
+#### Tutorial 2:
 - Examining 2D classes
 - Ab initio vs. starting 3D references (low pass filtered from [7KKK](https://www.rcsb.org/structure/7KKK))
 - 3D map refinement
 
-## Wednesday February 24
+### Wednesday February 24
 
-### [Lecture 3 from Yifan Cheng](http://cdn.fraserlab.com/methods/yc2021_3.pdf)
-### Tutorial 3:
+#### [Lecture 3 from Yifan Cheng](http://cdn.fraserlab.com/methods/yc2021_3.pdf)
+#### Tutorial 3:
 - Moving files off of AWS with scp
 - 3D map classification
 - [map sharpening](https://www.phenix-online.org/documentation/reference/auto_sharpen.html)
 - [model refinement](https://www.phenix-online.org/documentation/reference/real_space_refine.html)
 - Expectations for presentations: decision tree, summary of results, comparisons within decisions/to published, conformational analysis of Nb and confidence in that assessment.
 
-## Reading on rigor and reproducibility in EM:
+### Reading on rigor and reproducibility in EM:
 - [cisTEM paper](http://cdn.fraserlab.com/courses/methods/2018_grant.pdf)
 - [FSC](https://en.wikipedia.org/wiki/Fourier_shell_correlation) and [early example in EM](http://cdn.fraserlab.com/courses/methods/1982_saxton.pdf)
 - [half maps](http://cdn.fraserlab.com/courses/methods/2012_scheres.pdf) and [Optimal Determination of Particle Orientation, Absolute Hand, and Contrast Loss in Single-particle Electron Cryomicroscopy](http://cdn.fraserlab.com/courses/methods/2003_rosenthal.pdf)
 - Other Model and Map validation tools (a lot of overlap with X-ray tools but a few examples that don't: [phenix.mtriage](https://www.phenix-online.org/documentation/reference/mtriage.html), [EMRinger](http://cdn.fraserlab.com/publications/2015_barad.pdf))
 
-# Mar 1-3 - X-ray Crystallography - Lectures Bob Stroud, Tutorials Aashish Manglik
+## Mar 1-3 - X-ray Crystallography - Lectures Bob Stroud, Tutorials Aashish Manglik
 
-## Monday March 1
+### Monday March 1
 
-### [Lecture 1 from Bob Stroud](http://cdn.fraserlab.com/methods/rs2021.pdf)
-### [Tutorial 1 : What's the deal with the spots](https://docs.google.com/document/d/1nr4IIDVqjRautGy_CnyPHrNbdGwbgTnKjGznl6ZQPII/edit?usp=sharing)
+#### [Lecture 1 from Bob Stroud](http://cdn.fraserlab.com/methods/rs2021.pdf)
+#### [Tutorial 1 : What's the deal with the spots](https://docs.google.com/document/d/1nr4IIDVqjRautGy_CnyPHrNbdGwbgTnKjGznl6ZQPII/edit?usp=sharing)
 - Examine diffraction data in adxv
 - Use xia2 to process diffraction data
 - Understand various metrics for data reduction
 - What do we have at the end?
 
-## Tuesday March 2
+### Tuesday March 2
 
-### [Lecture 2 from Bob Stroud](http://cdn.fraserlab.com/methods/rs2021.pdf)
-### [Tutorial 2: Molecular Replacement](https://docs.google.com/document/d/1nr4IIDVqjRautGy_CnyPHrNbdGwbgTnKjGznl6ZQPII/edit#)
+#### [Lecture 2 from Bob Stroud](http://cdn.fraserlab.com/methods/rs2021.pdf)
+#### [Tutorial 2: Molecular Replacement](https://docs.google.com/document/d/1nr4IIDVqjRautGy_CnyPHrNbdGwbgTnKjGznl6ZQPII/edit#)
 - Prepare a model from a different nanobody for phasing by molecular replacement
 - Run Phaser, analyze output in Coot
 - Use the mNb6 itself to solve the structure
 
-## Wednesday March 3
+### Wednesday March 3
 
-### [Lecture 3 from Bob Stroud](http://cdn.fraserlab.com/methods/rs2021.pdf)
-### [Tutorial 3: Model refinement](https://docs.google.com/document/d/1nr4IIDVqjRautGy_CnyPHrNbdGwbgTnKjGznl6ZQPII/edit?usp=sharing)
+#### [Lecture 3 from Bob Stroud](http://cdn.fraserlab.com/methods/rs2021.pdf)
+#### [Tutorial 3: Model refinement](https://docs.google.com/document/d/1nr4IIDVqjRautGy_CnyPHrNbdGwbgTnKjGznl6ZQPII/edit?usp=sharing)
 - Manual model building in Coot
 - Reciprocal space refinement in Phenix
 - Rfree and what that means
@@ -162,42 +162,42 @@ This is a team-based class where students work in small groups develop their own
 - Ensemble refinement
 - [Coot tutorial video](https://www.youtube.com/watch?v=6RxvOFNu_rA)
 
-## Reading on rigor and reproducibility in Crystallography:
+### Reading on rigor and reproducibility in Crystallography:
 - [R-free](http://cdn.fraserlab.com/courses/methods/1992_brunger.pdf)
 - [MolProbity](http://cdn.fraserlab.com/courses/methods/2010_chen.pdf)
 - [Data Challenges and synthetic data](http://cdn.fraserlab.com/courses/methods/2019_holton.pdf)
 - [Protein crystallography for non‐crystallographers, or how to get the best (but not more) from published macromolecular structures](https://febs.onlinelibrary.wiley.com/doi/full/10.1111/j.1742-4658.2007.06178.x)
 
-# Mar 8-10 - NMR - Lectures John Gross, Tutorials Ryan Tibble
+## Mar 8-10 - NMR - Lectures John Gross, Tutorials Ryan Tibble
 
-## Monday March 8
-### Lecture 1 from John Gross, Introduction to multidimensional NMR
+### Monday March 8
+#### Lecture 1 from John Gross, Introduction to multidimensional NMR
 - Process HSQC spectra of Nanobody-Spike RBD complexes
 - [from FID to 2D](http://cdn.fraserlab.com/courses/methods/2021_2DNMR_Processing_Tutorial.pdf) (Ryan Tibble and John Gross)
 - Supplemental reading: [How does an HSQC work?](http://cdn.fraserlab.com/courses/methods/HSQC-Guided-tour.pdf)
 
-## Tuesday March 9
-### Lecture 2 from John Gross, Introduction to chemical shift perturbation mapping
+### Tuesday March 9
+#### Lecture 2 from John Gross, Introduction to chemical shift perturbation mapping
 - Overlay HSQCs using Sparky; generate peak lists for CSP analyses
 - [Intro to Sparky](http://cdn.fraserlab.com/courses/methods/2021_Sparky_tutorial.pdf)
 - [Common Sparky Commands](http://cdn.fraserlab.com/courses/methods/Sparky_common_cmds.pdf)
 
-## Wednesday March 10
-### Lecture 3 from John Gross, Introduction to Dynamic NMR
+### Wednesday March 10
+#### Lecture 3 from John Gross, Introduction to Dynamic NMR
 - Analyze CSPs to infer dynamics and binding modes of Nanobody-Spike RBD complexes
 - chemical shift perturbation plot versus primary sequence; mapping onto structure, [CSPs from Sparky Lists](http://cdn.fraserlab.com/courses/methods/Sparky_CSP.py)
 -  [Sparky Integration Tutorial](http://cdn.fraserlab.com/courses/methods/Sparky_Integration.pdf)
 
-## Reading on rigor and reproducibility in NMR:
+### Reading on rigor and reproducibility in NMR:
 - [Tools for validating NMR structures](http://cdn.fraserlab.com/courses/methods/2014_vuister.pdf)
 - [Q-scores](http://cdn.fraserlab.com/courses/methods/2004_clore.pdf)
 - [Integrative modeling](http://cdn.fraserlab.com/courses/methods/2019_rout.pdf)
 - [CSP mapping by NMR when resonance asignments of the bound state are unknown](http://cdn.fraserlab.com/courses/methods/1996_farmer.pdf)
 
 
-# Mar 15-16 - Work in teams
+## Mar 15-16 - Work in teams
 
-## Monday March 15
+### Monday March 15
 - [ChimeraX tutorial part II and Q/A by Tom Goddard](https://www.rbvi.ucsf.edu/chimerax/data/nanobody-feb2021/nanobody.html)
 	- [Color by Chemical Shift Perturbations](https://www.rbvi.ucsf.edu/chimerax/data/nanobody-feb2021/chemshift.html)
 	- [How to View Nanobody Molecular Dynamics in ChimeraX](https://www.rbvi.ucsf.edu/chimerax/data/nanobody-feb2021/nanobody_md.html)
@@ -205,13 +205,13 @@ This is a team-based class where students work in small groups develop their own
 	- [Trajectory data](https://ucsf.box.com/s/xtx3jm8esx2c15zyz1z97jy0mlbbgswe)
 	- [Pymol install instructions](https://pymolwiki.org/index.php/MAC_Install)
 
-# Mar 17 - Final presentations 
+## Mar 17 - Final presentations 
 
-## Presenting as a team, in 15 minutes (we will stop you at 15 minutes sharp!) tell us about the scientist your team is named after, what you did, what you learned, and what is one more experiment you'd like to do! Followed by 5 minutes of questions. 
+### Presenting as a team, in 15 minutes (we will stop you at 15 minutes sharp!) tell us about the scientist your team is named after, what you did, what you learned, and what is one more experiment you'd like to do! Followed by 5 minutes of questions. 
 
-### Email your slides to James Fraser by 8:30AM that morning!
+#### Email your slides to James Fraser by 8:30AM that morning!
 
-### Presentation times (an invididual zoom link will be emailed to you):
+#### Presentation times (an invididual zoom link will be emailed to you):
 
 * 8:30-8:50: Team Amos
 * 8:55-9:15: Team Cintrón
@@ -220,12 +220,12 @@ This is a team-based class where students work in small groups develop their own
 * 10:10-10:30: Team Just
 * 10:35-10:55: Team Yonath
 
-# After March 17 
+## After March 17 
 
-## self schedule Macro mini-quals with 2 faculty (in consultation with your TAs who will report the grades back to Oren)
+### self schedule Macro mini-quals with 2 faculty (in consultation with your TAs who will report the grades back to Oren)
 
 
-# Supplemental material and tutorial videos
+## Supplemental material and tutorial videos
 
 - [Getting started in CryoEM - Grant Jensen lectures](https://www.youtube.com/playlist?list=PL8_xPU5epJdctoHdQjpfHmd_z9WvGxK8-)
 - [LMB EM Course](https://www2.mrc-lmb.cam.ac.uk/research/scientific-training/electron-microscopy/)

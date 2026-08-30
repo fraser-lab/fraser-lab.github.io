@@ -6,13 +6,13 @@ layout: post
 group: news
 tags: opinion
 ---
-# Why Hasn’t Preprint Peer Review Caught On?  
+## Why Hasn’t Preprint Peer Review Caught On?  
 
 Preprints have transformed how we share science. Posting a preprint is joyful: you upload your work, and it just works. That frictionless experience is a big reason preprinting has become such a success.  
 
 But preprint *peer review* hasn’t taken off in the same way. This week, I realized one surprisingly simple reason why: **authors often don’t even know when feedback happens.**  
 
-## The Notifications Are Missing!
+### The Notifications Are Missing!
 
 When we give feedback on preprints (all of our reviews are posted on [our reviews page](https://fraserlab.com/reviews/)), I used to use Disqus, which is embedded into [bioRxiv](https://www.biorxiv.org/). More recently, we’ve been posting through [PREreview](https://prereview.org/) (including in the graduate-level class we teach on peer review: [details of the peer review course](https://fraserlab.com/peer_review/)).  
 

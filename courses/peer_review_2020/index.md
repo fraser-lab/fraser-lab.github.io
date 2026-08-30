@@ -26,14 +26,14 @@ We have modeled this class based on [a course at NYU](http://bhabhaekiertlab.org
 Each students will serve as Discussion Leaders for one manuscript topic.  Everyone should be prepared for class by having read the paper carefully. The Discussion Leader will prepare a talk similar in content and quality to a Tetrad or QBC Journal Club presentation, with an estimated 30-40 minute duration (noting that interruptions and discussion may take us closer to an hour). After, the student will compose a review, reflecting both their original thoughts and what emerged in the discussion, that will be posted (either named or anonymously through James Fraser acting as an "editor") as comments associated with the preprint on BioRxiv or other servers.
 
 
-# Some good guidelines for reviewing
+## Some good guidelines for reviewing
 
 - Don't be an a$$hole
 - Consider that you may have misunderstood something and ask for clarification
 - Be constructive
 - Don't be an a$$hole
 
-## April 20
+### April 20
 - Intro to class, guidelines for selecting your preprint to review, sign-up for presentations
 - Panel:
   - [Michael Eisen](http://eisenlab.org/) - [Editor in Chief of eLife](https://elifesciences.org/about/people)
@@ -47,27 +47,27 @@ Each students will serve as Discussion Leaders for one manuscript topic.  Everyo
     - [How to Write a Response to Reviewers in Ten Easy Steps](https://telliamedrevisited.wordpress.com/2020/07/15/how-to-write-a-response-to-reviewers-in-ten-easy-steps/)
 
 
-## April 23
+### April 23
 - New developments in peer review:
   - [Jessica Polka](https://en.wikipedia.org/wiki/Jessica_Polka) - [Executive Director of ASAPbio](https://asapbio.org/dt_team/jessica-polka)
 - [Keeping on top of the literature](https://fraserlab.com/2013/09/28/The-Fraser-Lab-method-of-following-the-scientific-literature/)
 
-## April 30
+### April 30
 - Presentation 1: [Structural and functional analysis of a potent sarbecovirus neutralizing antibody](http://cdn.fraserlab.com/courses/peer_review_2020/2020_pinto.pdf)
 
 
-## May 1
+### May 1
 - Presentation 2: [Visualizing Wnt secretion from Endoplasmic Reticulum to Filopodia ](http://cdn.fraserlab.com/courses/peer_review_2020/2018_moti.pdf)
 - Presentation 3: [Sulfopin, a selective covalent inhibitor of Pin1, blocks Myc-driven tumor initiation and growth in vivo](http://cdn.fraserlab.com/courses/peer_review_2020/2020_dubiella.pdf)
 
-## May 4
+### May 4
 - Presentation 4: [Noise-Reducing Negative-Feedback Optogenetic Circuits in Mammalian Cells](http://cdn.fraserlab.com/courses/peer_review_2020/2019_guinn.pdf)
 - Presentation 5: [SETD2 is an actin lysine methyltransferase](http://cdn.fraserlab.com/courses/peer_review_2020/2020_seervai.pdf)
 
-## May 7
+### May 7
 - Presentation 6: [Two dynamically distinct circuits driving inhibition in sensory thalamus](http://cdn.fraserlab.com/courses/peer_review_2020/2020_martinez_garcia.pdf)
 - Presentation 7: [Transient “rest” induces functional reinvigoration and epigenetic remodeling in exhausted CAR-T cells](http://cdn.fraserlab.com/courses/peer_review_2020/2020_weber.pdf)
 
-## May 8
+### May 8
 - Presentation 8: [Monitoring the production of high diffraction-quality crystals of two enzymes in real time using in situ dynamic light scattering](http://cdn.fraserlab.com/courses/peer_review_2020/2020_wijn.pdf)
 - Presentation 9: [Sensory-evoked extracellular	vesicle	release	and targeting](http://cdn.fraserlab.com/courses/peer_review_2020/2020_wang.pdf)

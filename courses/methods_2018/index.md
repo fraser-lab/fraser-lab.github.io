@@ -6,9 +6,9 @@ group: courses
 
 # Biophysics 204A: Methods in Macromolecular Structure #
 
-# [Fall 2018 Calendar](https://calendar.google.com/calendar/embed?src=48215r0h4nka496mop16f40dc4%40group.calendar.google.com&ctz=America%2FLos_Angeles) #
+## [Fall 2018 Calendar](https://calendar.google.com/calendar/embed?src=48215r0h4nka496mop16f40dc4%40group.calendar.google.com&ctz=America%2FLos_Angeles) #
 
-## Fall 2018 Syllabus ##
+### Fall 2018 Syllabus ##
 
 <img class="img-fluid mx-auto d-block" src="/static/img/courses/methods_wb.JPG" alt="Macro methods whiteboard in the teaching lab">
 
@@ -126,7 +126,7 @@ at http://sds.ucsf.edu. Accommodations are never retroactive; therefore students
 Program issued laptops and a 3 button mouse, or a two button mouse that emulates 3 buttons
 
 
-## Schedule ##
+### Schedule ##
 
 **Week 1 – Welcome**
 _Tues Nov 6_

@@ -4,7 +4,7 @@ description: "This is the official web page for the James Fraser Lab at UCSF."
 url: "https://fraserlab.com"
 
 paginate: 5
-plugins: [jekyll-paginate]
+plugins: [jekyll-paginate, jekyll-sitemap]
 paginate_path: "news/page:num"
 
 permalink: pretty

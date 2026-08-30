@@ -21,13 +21,46 @@
     <meta name="twitter:description" content="{{ page.description | default: site.description }}">
     <meta name="twitter:image" content="{{ '/static/img/logo/og-card.jpg' | absolute_url }}">
 
+    <meta name="author" content="Fraser Lab, University of California, San Francisco">
+
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "ResearchOrganization",
+      "name": "Fraser Lab",
+      "url": "{{ site.url }}",
+      "description": "{{ site.description }}",
+      "parentOrganization": {
+        "@type": "CollegeOrUniversity",
+        "name": "University of California, San Francisco",
+        "url": "https://www.ucsf.edu"
+      },
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "600 16th Street, Genentech Hall Room S472E",
+        "addressLocality": "San Francisco",
+        "addressRegion": "CA",
+        "postalCode": "94158",
+        "addressCountry": "US"
+      },
+      "employee": {
+        "@type": "Person",
+        "name": "James S. Fraser",
+        "jobTitle": "Professor and Chair, Department of Bioengineering and Therapeutic Sciences",
+        "identifier": "https://orcid.org/0000-0002-5080-2859",
+        "affiliation": {
+          "@type": "CollegeOrUniversity",
+          "name": "University of California, San Francisco"
+        }
+      }
+    }
+    </script>
+
     <link rel="stylesheet" href="/static/css/bootstrap.min.css">
     {% if page.group == 'news' %}
     <link rel="alternate" type="application/atom+xml" title="Fraser Lab News Feed" href="/news.xml">
     {% endif %}
 
-    <!-- <link href="/static/css/bootstrap.css" rel="stylesheet"> -->
-    <!-- <link href="/static/css/bootstrap-responsive.css" rel="stylesheet"> -->
     <link href="/static/css/syntax.css" rel="stylesheet">
     <link href="/static/css/custom.css" rel="stylesheet">
   </head>

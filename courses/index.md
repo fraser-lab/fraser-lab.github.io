@@ -50,18 +50,18 @@ This minicourse will focus on the practice of peer review of scientific manuscri
 - [2025 - Peer Review minicourse](/courses/peer_review_2025/)
 - [2026 - Peer Review minicourse](/peer_review/)
 
-# Previously Taught:
-##  Mechanisms of Antimicrobial Resistance
+## Previously Taught:
+###  Mechanisms of Antimicrobial Resistance
 This minicourse will be a survey of recent and classic papers on antibiotic resistance with an emphasis on evolutionary biology, biochemical mechanisms, and new ideas for chemical matter.  Tetrad minicourse.
 - [2019 - AMR minicourse](/courses/amr_2019/)
 
 
-## iPQB Reproducibility and Rigor
+### iPQB Reproducibility and Rigor
 - [2018 - Experimental Controls Module](/courses/rigor_2018/)
 
 
 
-## Biophysics 205A: Physical Underpinnings of Biological Systems (PUBS)
+### Biophysics 205A: Physical Underpinnings of Biological Systems (PUBS)
 The PUBS course is a hands-on, project-based course that integrates proteomics, deep mutational profiling [Fowler and Fields, 2014](http://cdn.fraserlab.com/courses/pubs/2014_fowler.pdf), and computational biology.
 - [PUBS 2014](/courses/pubs/pubs_2014/)
   - [Paper in eLife](http://cdn.fraserlab.com/publications/2016_mavor.pdf)
@@ -79,6 +79,6 @@ PUBS is now run by Martin Kampmann and examines alpha synuclein!
 
 
 
-##  Engineering Life:  A Flipped Classroom with iBiology
+###  Engineering Life:  A Flipped Classroom with iBiology
 How did life evolve?  How can understand the principles of biological systems to create new proteins, new chemicals, biological structures, cells and tissues?  We will cover these topics in a "flipped course" where you will hear online lectures from scientific leaders in the field, read a paper, and then discuss as a group.  Tetrad minicourse.
 - [2015 - Engineering Life](/courses/flipped_2015/)

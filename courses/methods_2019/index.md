@@ -6,9 +6,9 @@ group: courses
 
 # Biophysics 204A: Methods in Macromolecular Structure #
 
-# [Fall 2019 Calendar](https://calendar.google.com/calendar/embed?src=cbj98ch6et7uhc68ml1pgm1e2g%40group.calendar.google.com&ctz=America%2FLos_Angeles) #
+## [Fall 2019 Calendar](https://calendar.google.com/calendar/embed?src=cbj98ch6et7uhc68ml1pgm1e2g%40group.calendar.google.com&ctz=America%2FLos_Angeles) #
 
-## Fall 2019 Syllabus ##
+### Fall 2019 Syllabus ##
 
 <img class="img-fluid mx-auto d-block" src="/static/img/courses/methods_wb.JPG" alt="Macro methods whiteboard in the teaching lab">
 
@@ -119,7 +119,7 @@ at http://sds.ucsf.edu. Accommodations are never retroactive; therefore students
 **Required Materials**
 Program issued laptops and a 3 button mouse, or a two button mouse that emulates 3 buttons - PLEASE HAVE A MOUSE!
 
-## Schedule ##
+### Schedule ##
 
 - Week of Oct 14 - M, T 1-3 PM - intro lectures
 - Week of Oct 21 - M, T 1-4 PM - EM practical sessions
@@ -132,7 +132,7 @@ Program issued laptops and a 3 button mouse, or a two button mouse that emulates
 - Week of Dec 9 - M, T, W 1-5 PM - X-ray data processing
 - Presentations Dec 16th
 
-## Groups ##
+### Groups ##
 
 - [Bjorkman](https://en.wikipedia.org/wiki/Pamela_J._Bjorkman): Audrey Kishishita, Regan Volk, Leandrew Dailey, Marcell Zimanyi
 

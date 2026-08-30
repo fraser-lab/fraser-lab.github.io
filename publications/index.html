@@ -11,6 +11,7 @@ group: publications
 		<button class="btn btn-sm btn-outline-primary pub-filter active" data-filter="all" aria-pressed="true">All Publications</button>
 		<button class="btn btn-sm btn-outline-primary pub-filter" data-filter="key" aria-pressed="false">Key Publications</button>
 	</div>
+	<p class="sr-only" role="status" aria-live="polite" id="pub-filter-status"></p>
 	<div id="tag-filters" style="display: none;">
 		<strong>Topics:</strong>
 		{% for tag in site.data.publication_tags %}
@@ -88,19 +89,19 @@ Co-first authors are marked with &#42; so we check for &#42;** which indicates a
 		<ul>
 		<!--PMID-->
 		{% if publication.pmid %}
-		<li>PMID: <a href="http://www.ncbi.nlm.nih.gov/pubmed/{{publication.pmid}}" title = "PubMed: {{publication.pmid}} (opens in new tab)" target="_blank"> {{publication.pmid}}</a></li>
+		<li>PMID: <a href="http://www.ncbi.nlm.nih.gov/pubmed/{{publication.pmid}}" title = "PubMed: {{publication.pmid}} (opens in new tab)" target="_blank" rel="noopener"> {{publication.pmid}}</a></li>
 		{% endif %}
 
 		<!--PMCID - optional -->
 		{% if publication.pmcid %}
-		<li>PMCID: <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/{{publication.pmcid}}" title = "PubMed Central: {{publication.pmcid}} (opens in new tab)" target="_blank"> {{publication.pmcid}}</a></li>
+		<li>PMCID: <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/{{publication.pmcid}}" title = "PubMed Central: {{publication.pmcid}} (opens in new tab)" target="_blank" rel="noopener"> {{publication.pmcid}}</a></li>
 		{% endif %}
 
 		<!--Biorxiv - optional -->
 			{% if publication.biorxiv %}
 			{% assign bval = publication.biorxiv %}
 			{% if bval contains 'http' or bval contains 'doi' %}
-			<li>BioRxiv Preprint: <a href="{{ bval }}" title =  "BioRxiv Preprint: {{bval}} (opens in new tab)" target="_blank">{{ bval }}</a></li>
+			<li>BioRxiv Preprint: <a href="{{ bval }}" title =  "BioRxiv Preprint: {{bval}} (opens in new tab)" target="_blank" rel="noopener">{{ bval }}</a></li>
 			{% else %}
 						{% assign has_dot = bval contains '.' %}
 						{% if has_dot %}
@@ -109,24 +110,24 @@ Co-first authors are marked with &#42; so we check for &#42;** which indicates a
 							{% assign date_string = parts[0] | append: '.' | append: parts[1] | append: '.' | append: parts[2] %}
 							{% assign biorxiv_base = bval %}
 							{% if date_string > '2025.12.01' %}
-							<li>BioRxiv Preprint: <a href="https://doi.org/10.64898/{{biorxiv_base}}" title =  "BioRxiv Preprint: {{bval}} (opens in new tab)" target="_blank"> {{biorxiv_base | split: "." | last }}</a></li>
+							<li>BioRxiv Preprint: <a href="https://doi.org/10.64898/{{biorxiv_base}}" title =  "BioRxiv Preprint: {{bval}} (opens in new tab)" target="_blank" rel="noopener"> {{biorxiv_base | split: "." | last }}</a></li>
 							{% else %}
-							<li>BioRxiv Preprint: <a href="https://doi.org/10.1101/{{biorxiv_base}}" title =  "BioRxiv Preprint: {{bval}} (opens in new tab)" target="_blank"> {{biorxiv_base | split: "." | last }}</a></li>
+							<li>BioRxiv Preprint: <a href="https://doi.org/10.1101/{{biorxiv_base}}" title =  "BioRxiv Preprint: {{bval}} (opens in new tab)" target="_blank" rel="noopener"> {{biorxiv_base | split: "." | last }}</a></li>
 							{% endif %}
 						{% else %}
 							{% assign biorxiv_base = bval %}
-							<li>BioRxiv Preprint: <a href="https://doi.org/10.1101/{{biorxiv_base}}" title =  "BioRxiv Preprint: {{bval}} (opens in new tab)" target="_blank"> {{biorxiv_base}}</a></li>
+							<li>BioRxiv Preprint: <a href="https://doi.org/10.1101/{{biorxiv_base}}" title =  "BioRxiv Preprint: {{bval}} (opens in new tab)" target="_blank" rel="noopener"> {{biorxiv_base}}</a></li>
 						{% endif %}
 						{% else %}
 						{% assign biorxiv_base = bval %}
-						<li>BioRxiv Preprint: <a href="https://doi.org/10.1101/{{biorxiv_base}}" title =  "BioRxiv Preprint: {{bval}} (opens in new tab)" target="_blank"> {{biorxiv_base}}</a></li>
+						<li>BioRxiv Preprint: <a href="https://doi.org/10.1101/{{biorxiv_base}}" title =  "BioRxiv Preprint: {{bval}} (opens in new tab)" target="_blank" rel="noopener"> {{biorxiv_base}}</a></li>
 						{% endif %}
 			{% endif %}
 			{% endif %}
 
 		<!--Arxiv - optional -->
 		{% if publication.arxiv %}
-		<li>arXiv Preprint: <a href="https://arxiv.org/abs/{{publication.arxiv}}" title = "aRxiv Preprint: {{publication.arxiv}} (opens in new tab)" target="_blank"> {{publication.arxiv}}</a></li>
+		<li>arXiv Preprint: <a href="https://arxiv.org/abs/{{publication.arxiv}}" title = "aRxiv Preprint: {{publication.arxiv}} (opens in new tab)" target="_blank" rel="noopener"> {{publication.arxiv}}</a></li>
 		{% endif %}
 
 		<!--Chemrxiv - optional -->
@@ -135,32 +136,32 @@ Co-first authors are marked with &#42; so we check for &#42;** which indicates a
 			{% assign filename = filename_parts | last %}
 			{% assign year_prefix = filename | slice: 0, 4 | plus: 0 %}
 			{% if year_prefix >= 2026 %}
-		<li>ChemRxiv Preprint: <a href="https://doi.org/10.26434/chemrxiv.{{publication.chemrxiv}}/v1" title = "ChemRxiv Preprint: {{publication.chemrxiv}} (opens in new tab)" target="_blank"> {{publication.chemrxiv}}</a></li>
+		<li>ChemRxiv Preprint: <a href="https://doi.org/10.26434/chemrxiv.{{publication.chemrxiv}}/v1" title = "ChemRxiv Preprint: {{publication.chemrxiv}} (opens in new tab)" target="_blank" rel="noopener"> {{publication.chemrxiv}}</a></li>
 			{% else %}
-		<li>ChemRxiv Preprint: <a href="https://doi.org/10.26434/chemrxiv-{{publication.chemrxiv}}" title = "ChemRxiv Preprint: {{publication.chemrxiv}} (opens in new tab)" target="_blank"> {{publication.chemrxiv}}</a></li>
+		<li>ChemRxiv Preprint: <a href="https://doi.org/10.26434/chemrxiv-{{publication.chemrxiv}}" title = "ChemRxiv Preprint: {{publication.chemrxiv}} (opens in new tab)" target="_blank" rel="noopener"> {{publication.chemrxiv}}</a></li>
 			{% endif %}
 		{% endif %}
 
 		<!--Preprints.org - optional -->
 		{% if publication.preprints %}
-		<li>Preprints.org Preprint: <a href="https://www.preprints.org/manuscript/{{publication.preprints}}" title = "Preprints.org Preprint: {{publication.preprints}} (opens in new tab)" target="_blank"> {{publication.preprints}}</a></li>
+		<li>Preprints.org Preprint: <a href="https://www.preprints.org/manuscript/{{publication.preprints}}" title = "Preprints.org Preprint: {{publication.preprints}} (opens in new tab)" target="_blank" rel="noopener"> {{publication.preprints}}</a></li>
 		{% endif %}
 
 		<!--The Stacks - optional -->
 		{% if publication.stacks %}
-		<li>The Stacks: <a href="https://thestacks.org/publications/{{publication.stacks.slug}}" title = "The Stacks: {{publication.stacks.slug}} (opens in new tab)" target="_blank"> {{publication.stacks.slug}}</a>{% if publication.stacks.doi %} (<a href="https://doi.org/{{publication.stacks.doi}}" title = "DOI: {{publication.stacks.doi}} (opens in new tab)" target="_blank">doi: {{publication.stacks.doi}}</a>){% endif %}</li>
+		<li>The Stacks: <a href="https://thestacks.org/publications/{{publication.stacks.slug}}" title = "The Stacks: {{publication.stacks.slug}} (opens in new tab)" target="_blank" rel="noopener"> {{publication.stacks.slug}}</a>{% if publication.stacks.doi %} (<a href="https://doi.org/{{publication.stacks.doi}}" title = "DOI: {{publication.stacks.doi}} (opens in new tab)" target="_blank" rel="noopener">doi: {{publication.stacks.doi}}</a>){% endif %}</li>
 		{% endif %}
 
 		<!-- PDF -->
 		{% if publication.journal %}
 			{% if publication.pdf %}
-		<li><a href="{{publication.pdf}}" title = "PDF for {{publication.title}} (opens in new tab)" target="_blank"> Full Text</a></li>
+		<li><a href="{{publication.pdf}}" title = "PDF for {{publication.title}} (opens in new tab)" target="_blank" rel="noopener"> Full Text</a></li>
 			{% endif %}
 		{% endif %}
 
 		<!--OSF - optional -->
 		{% if publication.osf %}
-		<li>OSF Preprint: <a href="https://osf.io/{{publication.osf}}" title = "OSF Preprint: {{publication.osf}} (opens in new tab)" target="_blank"> {{publication.osf}}</a></li>
+		<li>OSF Preprint: <a href="https://osf.io/{{publication.osf}}" title = "OSF Preprint: {{publication.osf}} (opens in new tab)" target="_blank" rel="noopener"> {{publication.osf}}</a></li>
 		{% endif %}
 
 		<!-- SBGrid Datasets - optional -->
@@ -169,11 +170,11 @@ Co-first authors are marked with &#42; so we check for &#42;** which indicates a
 			{% if publication.data.size > 1 %}
 			<ul>
 				{% for dataset in publication.data %}
-				<li><a href="http://dx.doi.org/{{dataset}}" title =  "SBGrid Data Repository (opens in new tab)" target="_blank">doi: {{dataset}}</a></li>
+				<li><a href="http://dx.doi.org/{{dataset}}" title =  "SBGrid Data Repository (opens in new tab)" target="_blank" rel="noopener">doi: {{dataset}}</a></li>
 				{% endfor %}
 			</ul>
 			{% else %}
-			<a href="http://dx.doi.org/{{publication.data}}" title =  "SBGrid Data Repository (opens in new tab)" target="_blank">doi: {{publication.data}}</a>
+			<a href="http://dx.doi.org/{{publication.data}}" title =  "SBGrid Data Repository (opens in new tab)" target="_blank" rel="noopener">doi: {{publication.data}}</a>
 			{% endif %}
 		</li>
 		{% endif %}
@@ -182,7 +183,7 @@ Co-first authors are marked with &#42; so we check for &#42;** which indicates a
 		{% if publication.pdbs %}
 		<li>Deposited Structure{% if publication.pdbs.size > 1 %}s{% endif %}:
 			{% for code in publication.pdbs %}
-			<a href="http://www.rcsb.org/pdb/explore/explore.do?structureId={{code}}" title =  "PDB: {{code}} (opens in new tab)" target="_blank">{{code}}</a>{% unless forloop.last %}, {% endunless %}
+			<a href="http://www.rcsb.org/pdb/explore/explore.do?structureId={{code}}" title =  "PDB: {{code}} (opens in new tab)" target="_blank" rel="noopener">{{code}}</a>{% unless forloop.last %}, {% endunless %}
 			{% endfor %}
 		</li>
 		{% endif %}
@@ -191,7 +192,7 @@ Co-first authors are marked with &#42; so we check for &#42;** which indicates a
 		{% if publication.emdbs %}
 		<li>Deposited Map{% if publication.emdbs.size > 1 %}s{% endif %}:
 			{% for code in publication.emdbs %}
-			<a href="http://www.ebi.ac.uk/pdbe/entry/emdb/EMD-{{code}}" title =  "EMDB: {{code}} (opens in new tab)" target="_blank">{{code}}</a>{% unless forloop.last %}, {% endunless %}
+			<a href="http://www.ebi.ac.uk/pdbe/entry/emdb/EMD-{{code}}" title =  "EMDB: {{code}} (opens in new tab)" target="_blank" rel="noopener">{{code}}</a>{% unless forloop.last %}, {% endunless %}
 			{% endfor %}
 		</li>
 		{% endif %}
@@ -200,7 +201,7 @@ Co-first authors are marked with &#42; so we check for &#42;** which indicates a
 		{% if publication.paired_maps_and_models %}
 		<li>Deposited Structure{% if publication.paired_maps_and_models.size > 1 %}s{% endif %} and Map{% if publication.paired_maps_and_models.size > 1 %}s{% endif %}:
 			{% for pair in publication.paired_maps_and_models %}
-			<a href="http://www.rcsb.org/pdb/explore/explore.do?structureId={{pair.pdb}}" title =  "PDB and Map pair: {{pair.pdb}} (opens in new tab)" target="_blank">{{pair.pdb}}</a>/<a href="http://www.ebi.ac.uk/pdbe/entry/emdb/EMD-{{pair.emdb}}">{{pair.emdb}}</a>{% unless forloop.last %}, {% endunless %}
+			<a href="http://www.rcsb.org/pdb/explore/explore.do?structureId={{pair.pdb}}" title =  "PDB and Map pair: {{pair.pdb}} (opens in new tab)" target="_blank" rel="noopener">{{pair.pdb}}</a>/<a href="http://www.ebi.ac.uk/pdbe/entry/emdb/EMD-{{pair.emdb}}">{{pair.emdb}}</a>{% unless forloop.last %}, {% endunless %}
 			{% endfor %}
 		</li>
 		{% endif %}
@@ -209,7 +210,7 @@ Co-first authors are marked with &#42; so we check for &#42;** which indicates a
 		{% if publication.paired_maps_and_models_and_data %}
 		<li>Deposited Structure{% if publication.paired_maps_and_models_and_data.size > 1 %}s{% endif %}, Map{% if publication.paired_maps_and_models_and_data.size > 1 %}s{% endif %}, and Data set{% if publication.paired_maps_and_models_and_data.size > 1 %}s{% endif %}:
 			{% for pair in publication.paired_maps_and_models_and_data %}
-			<a href="http://www.rcsb.org/pdb/explore/explore.do?structureId={{pair.pdb}}" title =  "PDB and Map pair: {{pair.pdb}} (opens in new tab)" target="_blank">{{pair.pdb}}</a>/<a href="http://www.ebi.ac.uk/pdbe/entry/emdb/EMD-{{pair.emdb}}">{{pair.emdb}}</a>/<a href="https://empiar.org/{{pair.empiar}}/">{{pair.empiar}}</a>{% unless forloop.last %}, {% endunless %}
+			<a href="http://www.rcsb.org/pdb/explore/explore.do?structureId={{pair.pdb}}" title =  "PDB and Map pair: {{pair.pdb}} (opens in new tab)" target="_blank" rel="noopener">{{pair.pdb}}</a>/<a href="http://www.ebi.ac.uk/pdbe/entry/emdb/EMD-{{pair.emdb}}">{{pair.emdb}}</a>/<a href="https://empiar.org/{{pair.empiar}}/">{{pair.empiar}}</a>{% unless forloop.last %}, {% endunless %}
 			{% endfor %}
 		</li>
 		{% endif %}
@@ -218,7 +219,7 @@ Co-first authors are marked with &#42; so we check for &#42;** which indicates a
 		{% if publication.zenodo %}
 		<li>Zenodo Record{% if publication.zenodo.size > 1 %}s{% endif %}:
 			{% for record in publication.zenodo %}
-			<a href="https://www.zenodo.org/record/{{record.code}}/" title =  "Zenodo: {{record.code}} (opens in new tab)" target="_blank">{{record.code}}</a>{% if record.description %} ({{record.description}}){% endif %}{% unless forloop.last %}, {% endunless %}
+			<a href="https://www.zenodo.org/record/{{record.code}}/" title =  "Zenodo: {{record.code}} (opens in new tab)" target="_blank" rel="noopener">{{record.code}}</a>{% if record.description %} ({{record.description}}){% endif %}{% unless forloop.last %}, {% endunless %}
 			{% endfor %}
 		</li>
 		{% endif %}
@@ -227,7 +228,7 @@ Co-first authors are marked with &#42; so we check for &#42;** which indicates a
 		{% if publication.github %}
 		<li>{% if publication.github.size > 1 %}GitHub Repositories:{%else%}GitHub Repository:{% endif %}
 			{% for record in publication.github %}
-				<a href="https://www.github.com/{{record.url}}/" title="GitHub Repository: {{record.url}} (opens in new tab)" target="_blank">{{record.url}}</a>{% if record.description %} ({{record.description}}){% endif %}{% unless forloop.last %}, {% endunless %}
+				<a href="https://www.github.com/{{record.url}}/" title="GitHub Repository: {{record.url}} (opens in new tab)" target="_blank" rel="noopener">{{record.url}}</a>{% if record.description %} ({{record.description}}){% endif %}{% unless forloop.last %}, {% endunless %}
 			{% endfor %}
 		</li>
 		{% endif %}
@@ -236,7 +237,7 @@ Co-first authors are marked with &#42; so we check for &#42;** which indicates a
 		{% if publication.addgene %}
 		<li>Addgene Plasmid{% if publication.addgene.size > 1 %}s{% endif %}:
 			{% for record in publication.addgene %}
-				<a href="https://www.addgene.org/{{record.plasmid}}/" title="Addgene Plasmid: {{record.plasmid}} (opens in new tab)" target="_blank">{{record.plasmid}}</a>{% if record.description %} ({{record.description}}){% endif %}{% unless forloop.last %}, {% endunless %}
+				<a href="https://www.addgene.org/{{record.plasmid}}/" title="Addgene Plasmid: {{record.plasmid}} (opens in new tab)" target="_blank" rel="noopener">{{record.plasmid}}</a>{% if record.description %} ({{record.description}}){% endif %}{% unless forloop.last %}, {% endunless %}
 			{% endfor %}
 		</li>
 		{% endif %}
@@ -247,7 +248,7 @@ Co-first authors are marked with &#42; so we check for &#42;** which indicates a
 			<h3 class="h6">Additional Link{% if publication.links.size > 1 %}s{% endif %}</h3>
 			<ul>
 			{% for link in publication.links %}
-				<li><a href="{{link.url}}" title="{{link.name}} (opens in new tab)" target="_blank">{{link.name}}</a></li>
+				<li><a href="{{link.url}}" title="{{link.name}} (opens in new tab)" target="_blank" rel="noopener">{{link.name}}</a></li>
 			{% endfor %}
 		{% endif %}
 	</ul>
@@ -310,6 +311,17 @@ document.addEventListener('DOMContentLoaded', function() {
 		});
 	});
 
+	function announce() {
+		var status = document.getElementById('pub-filter-status');
+		if (!status) { return; }
+		var shown = 0;
+		document.querySelectorAll('div.pub-entry').forEach(function(entry) {
+			if (entry.style.display !== 'none') { shown++; }
+		});
+		var what = currentTag ? 'publications tagged ' + currentTag : (currentFilter === 'key' ? 'key publications' : 'publications');
+		status.textContent = 'Showing ' + shown + ' ' + what + '.';
+	}
+
 	function applyFilters() {
 		document.querySelectorAll('.pub-entry').forEach(function(entry) {
 			var isKey = entry.getAttribute('data-key') === 'true';
@@ -330,6 +342,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
 			entry.style.display = show ? '' : 'none';
 		});
+		announce();
 	}
 
 	// Show tag filters by default when viewing all

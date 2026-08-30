@@ -292,9 +292,9 @@ Other Class Material:
 - WHANGEE: N-term linked poly-Ub - 2W9N
 - [ddG Data Website](https://guybrush.ucsf.edu/local/DDG/ubiquitin)
 
-# Tuesday November 24 - FINAL TEAM PRESENTATIONS
+## Tuesday November 24 - FINAL TEAM PRESENTATIONS
 
-# 15 slide maximum, 15 minutes per team (plus questions)
+## 15 slide maximum, 15 minutes per team (plus questions)
 
 Schedule:
 - 1:10-1:30 PM - SHMOO: Nadja, Ryan, Daniel, Derek (TA: Leanna)

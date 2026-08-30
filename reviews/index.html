@@ -6,7 +6,7 @@ group: reviews
 
 <h1>Peer Review</h1>
 <div class="container-fluid">
-<h7>
+<p class="mt-3">
 Peer review of scientific manuscripts is essential for what is, currently, by far the most widely
 accepted means of communication of scientific results: publishing papers in scientific journals. The
 process of peer review plays an important role in refining the body of work prior to final publication.
@@ -14,10 +14,10 @@ process of peer review plays an important role in refining the body of work prio
 We believe that transparency in peer review can improve the speed, quality, and collegiality of the publication
 process.  Peer review is also an important training opportunity for lab members in scientific thinking and writing. As such, we only review manuscripts that have been posted on preprint servers and we post our peer review
 comments publicly. Additional resources can be found in our
-<a href="https://fraserlab.com/philosophy/" target="_blank" title= "Lab Compact (opens in new tab)">Lab Compact</a>
-and in the <a href="https://fraserlab.com/peer_review/" target="_blank" title= "Peer Review minicourse (opens in new tab)">Peer Review minicourse</a>. We support other initiatives to improve peer review (such as <a href="https://www.reviewcommons.org/" target="blank" title= "Review Commons (opens in new tab)">Review Commons</a> and <a href="https://asapbio.org/feedbackasap" target="blank" title= "FeedbackASAP (opens in new tab)">FeedbackASAP</a>).
+<a href="https://fraserlab.com/philosophy/" target="_blank" rel="noopener" title= "Lab Compact (opens in new tab)">Lab Compact</a>
+and in the <a href="https://fraserlab.com/peer_review/" target="_blank" rel="noopener" title= "Peer Review minicourse (opens in new tab)">Peer Review minicourse</a>. We support other initiatives to improve peer review (such as <a href="https://www.reviewcommons.org/" target="_blank" rel="noopener" title= "Review Commons (opens in new tab)">Review Commons</a> and <a href="https://asapbio.org/feedbackasap" target="_blank" rel="noopener" title= "FeedbackASAP (opens in new tab)">FeedbackASAP</a>).
 <br><br>
-</h7>
+</p>
 
 {% assign sorted = site.reviews | sort: "date" | reverse %}
 {% for review in sorted %}
@@ -45,7 +45,7 @@ and in the <a href="https://fraserlab.com/peer_review/" target="_blank" title= "
 				{% if record.biorxiv %}
 				{% assign bval = record.biorxiv %}
 				{% if bval contains 'http' or bval contains 'doi' %}
-				<li>Biorxiv Preprint: <a href="{{ bval }}" target="_blank" title= "biorxiv preprint link: {{bval}}">{{ bval }}</a></li>
+				<li>Biorxiv Preprint: <a href="{{ bval }}" target="_blank" rel="noopener" title= "biorxiv preprint link: {{bval}}">{{ bval }}</a></li>
 				{% else %}
 								{% assign has_dot = bval contains '.' %}
 								{% if has_dot %}
@@ -54,33 +54,33 @@ and in the <a href="https://fraserlab.com/peer_review/" target="_blank" title= "
 									{% assign date_string = parts[0] | append: '.' | append: parts[1] | append: '.' | append: parts[2] %}
 									{% assign biorxiv_base = bval %}
 									{% if date_string > '2025.12.01' %}
-									<li>Biorxiv Preprint: <a href="https://doi.org/10.64898/{{biorxiv_base}}" target="_blank" title= "biorxiv preprint link: {{biorxiv_base}}">{{biorxiv_base | split: "." | last }}</a></li>
+									<li>Biorxiv Preprint: <a href="https://doi.org/10.64898/{{biorxiv_base}}" target="_blank" rel="noopener" title= "biorxiv preprint link: {{biorxiv_base}}">{{biorxiv_base | split: "." | last }}</a></li>
 									{% else %}
-									<li>Biorxiv Preprint: <a href="https://doi.org/10.1101/{{biorxiv_base}}" target="_blank" title= "biorxiv preprint link: {{biorxiv_base}}">{{biorxiv_base | split: "." | last }}</a></li>
+									<li>Biorxiv Preprint: <a href="https://doi.org/10.1101/{{biorxiv_base}}" target="_blank" rel="noopener" title= "biorxiv preprint link: {{biorxiv_base}}">{{biorxiv_base | split: "." | last }}</a></li>
 									{% endif %}
 								{% else %}
 									{% assign biorxiv_base = bval %}
-									<li>Biorxiv Preprint: <a href="https://doi.org/10.1101/{{biorxiv_base}}" target="_blank" title= "biorxiv preprint link: {{biorxiv_base}}">{{biorxiv_base}}</a></li>
+									<li>Biorxiv Preprint: <a href="https://doi.org/10.1101/{{biorxiv_base}}" target="_blank" rel="noopener" title= "biorxiv preprint link: {{biorxiv_base}}">{{biorxiv_base}}</a></li>
 								{% endif %}
 								{% else %}
-								<li>Biorxiv Preprint: <a href="https://doi.org/10.1101/{{bval}}" target="_blank" title= "biorxiv preprint link: {{bval}}">{{bval}}</a></li>
+								<li>Biorxiv Preprint: <a href="https://doi.org/10.1101/{{bval}}" target="_blank" rel="noopener" title= "biorxiv preprint link: {{bval}}">{{bval}}</a></li>
 								{% endif %}
 				{% endif %}
 				{% endif %}
 
 				<!--Arxiv-->
 				{% if record.arxiv %}
-				<li>arXiv Preprint: <a href="https://arxiv.org/abs/{{record.arxiv}}" target="_blank" title= "arxiv preprint link: {{record.arxiv}}">{{record.arxiv}}</a></li>
+				<li>arXiv Preprint: <a href="https://arxiv.org/abs/{{record.arxiv}}" target="_blank" rel="noopener" title= "arxiv preprint link: {{record.arxiv}}">{{record.arxiv}}</a></li>
 				{% endif %}
 
 				<!--prereview.org -->
 				{% if record.prereview %}
-				<li>PREreview.org: <a href="https://www.prereview.org/reviews/{{record.prereview}}" target="_blank" title= "prereview.org preprint link: {{record.prereview}}">{{record.prereview}}</a></li>
+				<li>PREreview.org: <a href="https://www.prereview.org/reviews/{{record.prereview}}" target="_blank" rel="noopener" title= "prereview.org preprint link: {{record.prereview}}">{{record.prereview}}</a></li>
 				{% endif %}
 
 				<!--prereview.org beta version -->
 				{% if record.prereview_beta %}
-				<li>PREreview.org: <a href="https://beta.prereview.org/preprints/{{record.prereview_beta}}" target="_blank" title= "prereview.org preprint link: {{record.prereview_beta}}">{{record.prereview_beta}}</a></li>
+				<li>PREreview.org: <a href="https://beta.prereview.org/preprints/{{record.prereview_beta}}" target="_blank" rel="noopener" title= "prereview.org preprint link: {{record.prereview_beta}}">{{record.prereview_beta}}</a></li>
 				{% endif %}
 
 				<!--Chemrxiv-->
@@ -89,21 +89,21 @@ and in the <a href="https://fraserlab.com/peer_review/" target="_blank" title= "
 					{% assign filename = filename_parts | last %}
 					{% assign year_prefix = filename | slice: 0, 4 | plus: 0 %}
 					{% if year_prefix >= 2026 %}
-				<li>ChemRxiv Preprint: <a href="https://doi.org/10.26434/chemrxiv.{{record.chemrxiv}}/v1" target="_blank" title= "chemrxiv preprint link: {{record.chemrxiv}}">{{record.chemrxiv}}</a></li>
+				<li>ChemRxiv Preprint: <a href="https://doi.org/10.26434/chemrxiv.{{record.chemrxiv}}/v1" target="_blank" rel="noopener" title= "chemrxiv preprint link: {{record.chemrxiv}}">{{record.chemrxiv}}</a></li>
 					{% else %}
-				<li>ChemRxiv Preprint: <a href="https://doi.org/10.26434/chemrxiv-{{record.chemrxiv}}" target="_blank" title= "chemrxiv preprint link: {{record.chemrxiv}}">{{record.chemrxiv}}</a></li>
+				<li>ChemRxiv Preprint: <a href="https://doi.org/10.26434/chemrxiv-{{record.chemrxiv}}" target="_blank" rel="noopener" title= "chemrxiv preprint link: {{record.chemrxiv}}">{{record.chemrxiv}}</a></li>
 					{% endif %}
 				{% endif %}
 
 				<!--Preprints.org -->
 				{% if record.preprintsorg %}
-				<li>Preprints.org: <a href="https://www.preprints.org/manuscript/{{record.preprintsorg}}" target="_blank" title= "preprints.org preprint link: {{record.preprintsorg}}">{{record.preprintsorg}}</a></li>
+				<li>Preprints.org: <a href="https://www.preprints.org/manuscript/{{record.preprintsorg}}" target="_blank" rel="noopener" title= "preprints.org preprint link: {{record.preprintsorg}}">{{record.preprintsorg}}</a></li>
 				{% endif %}
 
 
 				<!--Disqus comment-->
 				{% if record.disqus %}
-				<li>Review: <a href="http://disq.us/p/{{record.disqus}}" target="_blank" title= "link to review as Disqus comment: {{record.disqus}}">{{record.disqus}}</a></li>
+				<li>Review: <a href="http://disq.us/p/{{record.disqus}}" target="_blank" rel="noopener" title= "link to review as Disqus comment: {{record.disqus}}">{{record.disqus}}</a></li>
 				{% endif %}
 
 				<!--TRiP Review-->
@@ -115,25 +115,25 @@ and in the <a href="https://fraserlab.com/peer_review/" target="_blank" title= "
 									{% if parts_trip.size >= 3 %}
 										{% assign date_string_trip = parts_trip[0] | append: '.' | append: parts_trip[1] | append: '.' | append: parts_trip[2] %}
 										{% if date_string_trip > '2025.12.01' %}
-											<li>Reviewer: <a href="https://doi.org/10.64898/{{bval}}#review" target="_blank" title= "link to review as TRiP comment: {{record.trip}}">#{{record.trip}}</a></li>
+											<li>Reviewer: <a href="https://doi.org/10.64898/{{bval}}#review" target="_blank" rel="noopener" title= "link to review as TRiP comment: {{record.trip}}">#{{record.trip}}</a></li>
 										{% else %}
-											<li>Reviewer: <a href="https://doi.org/10.1101/{{bval}}#review" target="_blank" title= "link to review as TRiP comment: {{record.trip}}">#{{record.trip}}</a></li>
+											<li>Reviewer: <a href="https://doi.org/10.1101/{{bval}}#review" target="_blank" rel="noopener" title= "link to review as TRiP comment: {{record.trip}}">#{{record.trip}}</a></li>
 										{% endif %}
 									{% else %}
-										<li>Reviewer: <a href="https://doi.org/10.1101/{{bval}}#review" target="_blank" title= "link to review as TRiP comment: {{record.trip}}">#{{record.trip}}</a></li>
+										<li>Reviewer: <a href="https://doi.org/10.1101/{{bval}}#review" target="_blank" rel="noopener" title= "link to review as TRiP comment: {{record.trip}}">#{{record.trip}}</a></li>
 									{% endif %}
 								{% else %}
-									<li>Reviewer: <a href="https://doi.org/10.1101/{{bval}}#review" target="_blank" title= "link to review as TRiP comment: {{record.trip}}">#{{record.trip}}</a></li>
+									<li>Reviewer: <a href="https://doi.org/10.1101/{{bval}}#review" target="_blank" rel="noopener" title= "link to review as TRiP comment: {{record.trip}}">#{{record.trip}}</a></li>
 								{% endif %}
 								{% endif %}
 
 				<!--zenodo record-->
 				{% if record.zenodo %}
-				<li>Zenodo Record: <a href="https://www.zenodo.org/record/{{record.zenodo}}" target="_blank" title= "link to review as zenodo PDF: {{record.zenodo}}">{{record.zenodo}}</a></li>
+				<li>Zenodo Record: <a href="https://www.zenodo.org/record/{{record.zenodo}}" target="_blank" rel="noopener" title= "link to review as zenodo PDF: {{record.zenodo}}">{{record.zenodo}}</a></li>
 				{% endif %}
 
 				{% if record.pdf %}
-				<li>Review: <a href="{{record.pdf}}" target="_blank" title="link to full review text: {{record.pdf}}">Full Text</a></li>
+				<li>Review: <a href="{{record.pdf}}" target="_blank" rel="noopener" title="link to full review text: {{record.pdf}}">Full Text</a></li>
 				{% endif %}
 
 			{% endfor %}
@@ -143,7 +143,7 @@ and in the <a href="https://fraserlab.com/peer_review/" target="_blank" title= "
 			<h4 class="h6">Additional Link{% if review.links.size > 1 %}s{% endif %}</h4>
 			<ul>
 			{% for link in review.links %}
-				<li><a href="{{link.url}}" title="{{link.name}} (opens in new tab)" target="_blank">{{link.name}}</a></li>
+				<li><a href="{{link.url}}" title="{{link.name}} (opens in new tab)" target="_blank" rel="noopener">{{link.name}}</a></li>
 			{% endfor %}
 		{% endif %}
 
@@ -154,7 +154,7 @@ and in the <a href="https://fraserlab.com/peer_review/" target="_blank" title= "
 		<ul>
 		{% for record in review.response %}
 			{% if record.url %}
-			<li>Link: <a href="{{record.url}}" target="_blank" title= "link: {{record.url}}">
+			<li>Link: <a href="{{record.url}}" target="_blank" rel="noopener" title= "link: {{record.url}}">
 				{% if record.description %}
 					{{record.description}}
 				{% else%}
@@ -165,7 +165,7 @@ and in the <a href="https://fraserlab.com/peer_review/" target="_blank" title= "
 			{% endif %}
 			<!--Disqus comment-->
 			{% if record.disqus %}
-			<li>Response: <a href="http://disq.us/p/{{record.disqus}}" target="_blank" title= "link to response as Disqus comment: {{record.disqus}}">{{record.disqus}}</a></li>
+			<li>Response: <a href="http://disq.us/p/{{record.disqus}}" target="_blank" rel="noopener" title= "link to response as Disqus comment: {{record.disqus}}">{{record.disqus}}</a></li>
 			{% endif %}
 
 		{% endfor %}
@@ -203,12 +203,12 @@ and in the <a href="https://fraserlab.com/peer_review/" target="_blank" title= "
 
 					<!--Zenodo Record-->
 					{% if record.zenodo %}
-					<li>Zenodo Record: <a href="https://www.zenodo.org/record/{{record.zenodo}}" target="_blank" title= "link to review as zenodo: {{record.zenodo}}">{{record.zenodo}}</a></li>
+					<li>Zenodo Record: <a href="https://www.zenodo.org/record/{{record.zenodo}}" target="_blank" rel="noopener" title= "link to review as zenodo: {{record.zenodo}}">{{record.zenodo}}</a></li>
 					{% endif %}
 
 					<!--PDF-->
 					{% if record.pdf %}
-					<li><a href="{{record.pdf}}" target="_blank" title="link to full text: {{record.pdf}}">Full Text</a></li>
+					<li><a href="{{record.pdf}}" target="_blank" rel="noopener" title="link to full text: {{record.pdf}}">Full Text</a></li>
 					{% endif %}
 
 				{% endfor %}

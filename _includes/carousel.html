@@ -6,10 +6,17 @@
   {% endif %}
 {% endfor %}
 
-<div class="carousel__holder" markdown="0">
+<section class="carousel__holder" markdown="0" aria-roledescription="carousel" aria-label="{{ include.label | default: 'Illustrations' }}">
     <div class="carousel">
         {% for item in images %}
-          <input class="carousel__activator" type="radio" name="carousel" id="{{ forloop.index0 }}" {% if forloop.first %}checked="checked"{% endif %} />
+          {% assign filename = item | split: '/' | last | split: '.' | first %}
+          {% if filename contains 'current_members' %}
+            {% assign slidename = 'the current lab members' %}
+          {% else %}
+            {% assign year = filename | slice: 0, 4 %}
+            {% assign slidename = 'the lab in ' | append: year %}
+          {% endif %}
+          <input class="carousel__activator" type="radio" name="carousel" id="carousel-slide-{{ forloop.index0 }}" {% if forloop.first %}checked="checked"{% endif %} aria-label="Illustration {{ forloop.index }} of {{ images.size }}: {{ slidename }}" />
         {% endfor %}
         {% for item in images %}
           {% if forloop.index == forloop.length %}
@@ -23,24 +30,34 @@
             {% assign previndex = forloop.index0 | minus: 1 %}
           {% endif %}
           <div class="carousel__controls">
-              <label class="carousel__control carousel__control--backward" for="{{ previndex }}"></label>
-              <label class="carousel__control carousel__control--forward" for="{{ nextindex }}"></label>
+              <label class="carousel__control carousel__control--backward" for="carousel-slide-{{ previndex }}"><span class="sr-only">Previous illustration</span></label>
+              <label class="carousel__control carousel__control--forward" for="carousel-slide-{{ nextindex }}"><span class="sr-only">Next illustration</span></label>
           </div>
         {% endfor %}
         <div class="carousel__track">
           <ul>
             {% for item in images %}
-            <li class="carousel__slide" style="background-image: url('{{ item }}');"></li>
+            {% assign filename = item | split: '/' | last | split: '.' | first %}
+            {% if filename contains 'current_members' %}
+              {% assign slidealt = 'Illustration of the current Fraser lab members, drawn by Jennifer Li' %}
+            {% else %}
+              {% assign year = filename | slice: 0, 4 %}
+              {% assign slidealt = 'Illustration of the Fraser lab members in ' | append: year %}
+            {% endif %}
+            <li class="carousel__slide"><img src="{{ item }}" alt="{{ slidealt }}" loading="{% if forloop.first %}eager{% else %}lazy{% endif %}" decoding="async"></li>
             {% endfor %}
           </ul>
         </div>
         <div class="carousel__indicators">
             {% for item in images %}
-              <label class="carousel__indicator" for="{{ forloop.index0 }}"></label>
+              <label class="carousel__indicator" for="carousel-slide-{{ forloop.index0 }}"><span class="sr-only">Show illustration {{ forloop.index }}</span></label>
             {% endfor %}
         </div>
     </div>
-</div>
+    {% if include.duration %}
+    <button type="button" class="carousel__pause" aria-pressed="false">Pause</button>
+    {% endif %}
+</section>
 
 <style>
 .carousel__holder {width: 100%; position: relative; padding-bottom: {{ include.height }}{{ include.unit }}; margin: 1rem 0 1rem;}
@@ -52,9 +69,25 @@
   position: absolute;
   padding: 0;
 }
-.carousel__controls,
-.carousel__activator {
+.carousel__controls {
   display: none;
+}
+/* The radios stay in the accessibility tree and keep keyboard focus (arrow keys
+   move between slides); they are only removed visually. */
+.carousel__activator {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  padding: 0;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+.carousel__activator:focus-visible ~ .carousel__indicators .carousel__indicator {
+  outline: 2px solid #0056b3;
+  outline-offset: 2px;
 }
 {% for item in images %}
 .carousel__activator:nth-of-type({{ forloop.index }}):checked ~ .carousel__track {
@@ -92,13 +125,11 @@
   border-width: 5px 5px 0 0;
   border-style: solid;
   border-color: #666666;
-  opacity: 0.35;
   opacity: 1;
-  outline: 0;
   z-index: 3;
 }
 .carousel__control:hover {
-  opacity: 1;
+  border-color: #333333;
 }
 .carousel__control--backward {
   left: 20px;
@@ -126,9 +157,23 @@
   cursor: pointer;
   opacity: 0.35;
   margin: 0 2.5px 0 2.5px;
+  background-color: #666666;
 }
 .carousel__indicator:hover {
   opacity: 0.75;
+}
+.carousel__pause {
+  position: absolute;
+  right: 0.5rem;
+  bottom: 0.5rem;
+  z-index: 4;
+  padding: 0.1rem 0.6rem;
+  font-size: 0.85rem;
+  color: #052049;
+  background-color: rgba(255, 255, 255, 0.9);
+  border: 1px solid #666666;
+  border-radius: 3px;
+  cursor: pointer;
 }
 .carousel__track {
   position: absolute;
@@ -155,71 +200,91 @@
 }
 {% endfor %}
 
-.carousel--scale .carousel__slide {
-  -webkit-transform: scale(0);
-          transform: scale(0);
-}
 .carousel__slide {
   height: 100%;
+  width: 100%;
   position: absolute;
   opacity: 0;
   overflow: hidden;
-  background-size: contain;
-  background-repeat: no-repeat;
-  background-position: center;
+  list-style: none;
 }
-.carousel__slide .overlay {height: 100%;}
-.carousel--thumb .carousel__indicator {
-  height: 30px;
-  width: 30px;
+.carousel__slide img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  object-position: center;
 }
-.carousel__indicator {
-  background-color: #666666;
+.carousel__track ul {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  list-style: none;
 }
-{% for item in images %}
-.carousel__slide:nth-of-type({{ forloop.index }}),
-.carousel--thumb .carousel__indicators .carousel__indicator:nth-of-type({{ forloop.index }}) {
-  background-size: cover;
-  background-position: center;
+
+@media (prefers-reduced-motion: reduce) {
+  .carousel__track,
+  .carousel__slide {
+    transition: none;
+  }
 }
-{% endfor %}
 </style>
 
+{% if include.duration %}
 <script>
-  function isVisible(el) {
-        while (el) {
-            if (el === document) {
-                return true;
-            }
-
-            var $style = window.getComputedStyle(el, null);
-
-            if (!el) {
-                return false;
-            } else if (!$style) {
-                return false;
-            } else if ($style.display === 'none') {
-                return false;
-            } else if ($style.visibility === 'hidden') {
-                return false;
-            } else if (+$style.opacity === 0) {
-                return false;
-            } else if (($style.display === 'block' || $style.display === 'inline-block') &&
-                $style.height === '0px' && $style.overflow === 'hidden') {
-                return false;
-            } else {
-                return $style.position === 'fixed' || isVisible(el.parentNode);
-            }
-        }
+(function () {
+  var holder = document.currentScript.previousElementSibling;
+  while (holder && !holder.classList.contains('carousel__holder')) {
+    holder = holder.previousElementSibling;
   }
-  {% if include.duration %}
-  setInterval(function(){
-    var j=0;
-    var elements = document.querySelectorAll('.carousel__control--forward');
-    for(i=(elements.length - 1);i>-1;i--) {
-      if(isVisible(elements[i])) j=i;
+  if (!holder) { return; }
+
+  var pause = holder.querySelector('.carousel__pause');
+  var forward = holder.querySelectorAll('.carousel__control--forward');
+  var reduce = window.matchMedia('(prefers-reduced-motion: reduce)');
+  // WCAG 2.2.2: anything that moves on its own needs a way to stop it. Start
+  // stopped when the visitor has asked for reduced motion.
+  var paused = reduce.matches;
+  var hovering = false;
+
+  function label() {
+    if (!pause) { return; }
+    pause.textContent = paused ? 'Play' : 'Pause';
+    pause.setAttribute('aria-pressed', paused ? 'true' : 'false');
+  }
+
+  function advance() {
+    if (paused || hovering) { return; }
+    for (var i = 0; i < forward.length; i++) {
+      if (forward[i].offsetParent !== null) { forward[i].click(); return; }
     }
-    elements[j].click();
-  },{{ include.duration }}000);
-  {% endif %}
+  }
+
+  if (pause) {
+    pause.addEventListener('click', function () { paused = !paused; label(); });
+  }
+  // Reading a slide, or tabbing through the controls, should not be interrupted.
+  holder.addEventListener('mouseenter', function () { hovering = true; });
+  holder.addEventListener('mouseleave', function () { hovering = false; });
+  holder.addEventListener('focusin', function () { hovering = true; });
+  holder.addEventListener('focusout', function () { hovering = false; });
+
+  label();
+  setInterval(advance, {{ include.duration }}000);
+
+  // The slides beyond the first load lazily so the page paints fast, but a
+  // lazy slide that has not been fetched yet shows blank the moment the
+  // carousel reaches it. Warm the rest once the page itself has loaded.
+  window.addEventListener('load', function () {
+    setTimeout(function () {
+      var slides = holder.querySelectorAll('.carousel__slide img');
+      for (var i = 0; i < slides.length; i++) {
+        // A slide translated out of the viewport is never "intersecting", so a
+        // lazy one stays unfetched and flashes blank when its turn comes.
+        slides[i].removeAttribute('loading');
+        slides[i].src = slides[i].src;
+      }
+    }, 800);
+  });
+})();
 </script>
+{% endif %}
