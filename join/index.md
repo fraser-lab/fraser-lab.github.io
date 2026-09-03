@@ -19,6 +19,8 @@ We are always in the market for motivated and talented people, even if we do not
 
 At UCSF, students can apply to a single [graduate program](https://graduate.ucsf.edu/programs) and do not apply directly to labs. The landscape of life science PhD programs and their admissions processes can be incredibly opaque, so Hersh Bhargava and I wrote a [guide on Applying to Quantitative Biology PhD Programs](https://hershbhargava.com/writing/applying-to-phd-programs/). 
 
+**Unfortunately, we don't have the bandwidth to speak to prospective students individually prior to the graduate interview process.**
+
 **The Fraser Lab participates in the following UCSF graduate programs:**
 {: .lead}
   * **[Biophysics](http://biophysics.ucsf.edu/)**: The Biophysics Graduate Program (BP) at the University of California, San Francisco (UCSF) prepares scientists to leverage new and emerging research tools—from nanotechnology to nuclear magnetic resonance spectroscopy—to quantify biological processes in living biological systems using physics and chemistry.
@@ -29,8 +31,6 @@ At UCSF, students can apply to a single [graduate program](https://graduate.ucsf
 Once students are admitted to UCSF, during the first year of a Ph.D. program, students rotate through ~3 labs prior to deciding on a thesis lab. Our lab is usually open for rotation students every quarter and will generally have room for 1-2 new graduate students (regardless of program affiliation) per year.
 
 As the 3rd rotation period comes to a close, we will talk with the year's rotation students (at least those who remain interested!) about joining the lab.  During this period, we encourage students to keep talking to the PI and lab members about what kind of project they might want to shape. We consider project fit, scientific chemistry, and alignment with lab values. Because we are a member of multiple graduate programs with different policies and timings for final lab decision making, we cannot make any final commitments until the end of the Spring Quarter to ensure all rotations students are given consideration.
-
-**Unfortunately, we don't have the bandwidth to speak to prospective students individually prior to the graduate interview process.**
 
 ## Postdoctoral Fellows
 
