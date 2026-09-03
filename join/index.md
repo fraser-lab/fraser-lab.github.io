@@ -30,6 +30,8 @@ Once students are admitted to UCSF, during the first year of a Ph.D. program, st
 
 As the 3rd rotation period comes to a close, we will talk with the year's rotation students (at least those who remain interested!) about joining the lab.  During this period, we encourage students to keep talking to the PI and lab members about what kind of project they might want to shape. We consider project fit, scientific chemistry, and alignment with lab values. Because we are a member of multiple graduate programs with different policies and timings for final lab decision making, we cannot make any final commitments until the end of the Spring Quarter to ensure all rotations students are given consideration.
 
+**Unfortunately, we don't have the bandwidth to speak to prospective students individually prior to the graduate interview process.**
+
 ## Postdoctoral Fellows
 
 Inquiries about Postdoctoral positions should be emailed directly to [Dr. James Fraser](/contact). We set our postdoctoral fellow compensation to the [Stanford rates](https://postdocs.stanford.edu/funding-levels-and-guidelines) **and** encourage candidates to explore applying for extramural fellowships to support their research.
