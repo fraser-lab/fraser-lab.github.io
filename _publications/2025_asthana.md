@@ -10,7 +10,7 @@ tags:
 pmcid: "PMC12435910"
 #biorxiv:
 biorxiv: "2025.01.31.635826"
-#pdf: 
+pdf: "http://cdn.fraserlab.com/publications/2025_asthana.pdf"
 pdbs:
   - 7HZV
   - 7HZW

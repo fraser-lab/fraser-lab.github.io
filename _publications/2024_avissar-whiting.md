@@ -8,6 +8,7 @@ tags:
   - Scientific Community
 pmcid: "PMC10903809"
 osf: "cht8p"
+pdf: "http://cdn.fraserlab.com/publications/2024_avissar-whiting.pdf"
 image: "/static/img/pub/2023_avissar-whiting.png"
 links:
   - name: Recognizing Preprint Peer Review meeting at Janelia
