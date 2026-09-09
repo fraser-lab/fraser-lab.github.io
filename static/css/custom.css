@@ -206,3 +206,13 @@ body {
 .navbar-nav .nav-link {
   font-size: 16px;
 }
+
+/* Standing invitation at the very top of the contact page, above the h1.
+   Sized like a heading because the Join page is no longer in the main nav, so
+   this and the homepage sidebar are how people find it - but it stays a <p>:
+   a heading here would sit ahead of the page's own h1 and break the outline. */
+.join-cta {
+  font-size: 2.25rem;
+  line-height: 1.2;
+  margin: 0 0 1.5rem;
+}

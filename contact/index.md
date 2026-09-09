@@ -4,6 +4,8 @@ layout: default
 group: contact
 ---
 
+<p class="join-cta"><a href="/join">Interested in joining the Fraser lab?</a></p>
+
 # Contact the Fraser Lab
 
 
