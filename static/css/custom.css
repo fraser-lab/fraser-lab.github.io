@@ -164,3 +164,45 @@ main li a {
   list-style: none;
   font-size: 0.9rem;
 }
+
+
+/* UCSF Identity web banner (static/css/ucsf-banner.css, vendored at 1.4).
+   The template's outer div carries Drupal's .row, which Bootstrap reads as
+   display:flex and that collapses the banner's float layout. Neutralise it
+   inside the banner only, so the vendored file stays a clean drop-in.
+   The -15px side margins .row also sets are already outranked by the
+   template's own #ucsf-banner-nav .top-header-container rule. */
+#ucsf-banner-nav .top-header-container.row {
+  display: block;
+  /* The template centres its contents in a 1230px column, but the navbar below
+     is full-bleed, which left the UCSF logo and links floating inboard of
+     "Fraser Lab" and the nav. Run the banner full width and match the navbar's
+     gutters instead: 16px on the left puts the logo under the brand; on the
+     right the navbar's link text sits at 16px + the 8px nav-link padding, so
+     14px here plus the template's own 10px on each li lands on the same 24px. */
+  max-width: none;
+  padding-left: 16px;
+  padding-right: 14px;
+}
+
+/* Accessibility, Privacy Policy, Terms of Use and the A-Z list are required on
+   every UCSF site. Same flex-wrap treatment as .section-index ul above. */
+.footer-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem 1.25rem;
+  margin: 0 0 0.5rem;
+  padding: 0;
+  list-style: none;
+  font-size: 0.9rem;
+}
+
+/* identity.ucsf.edu specifies Helvetica Neue Roman, falling back to Arial
+   where webfonts are unavailable, and 16px navigation links. */
+body {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.navbar-nav .nav-link {
+  font-size: 16px;
+}

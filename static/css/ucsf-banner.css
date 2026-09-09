@@ -1,0 +1,107 @@
+/*! UCSF Identity Web Banner Templates 1.4 - vendored unmodified from
+    https://github.com/ucsf-web-services/ucsf_identity_web_banner_templates
+    (MIT, Copyright (c) 2014 Regents of the University of California).
+    Do not edit: overrides live in custom.css so this file stays a clean
+    drop-in for a future release. Logo images must sit beside this file. */
+#ucsf-banner-nav {
+  height: 40px;
+  overflow: hidden;
+  font-family: "Helvetica Neue", "arial", sans-serif;
+  background: #052049; }
+  #ucsf-banner-nav.no-logo .top-header-container ul.menu li.first {
+    background: none;
+    text-indent: 0%;
+    padding-left: 0;
+  }
+
+  /* line 4, /Users/richardbaker/git_repos/shoestring/src/assets/sass/ucsf/components/banner */
+  #ucsf-banner-nav .top-header-container {
+    margin-right: auto;
+    margin-left: auto;
+    padding-left: 15px;
+    padding-right: 15px;
+    max-width: 1230px; }
+    /* line 9, /Users/richardbaker/git_repos/shoestring/src/assets/sass/ucsf/components/banner */
+    #ucsf-banner-nav .top-header-container ul.menu {
+      padding: 0;
+      margin: 0; }
+      /* line 12, /Users/richardbaker/git_repos/shoestring/src/assets/sass/ucsf/components/banner */
+      #ucsf-banner-nav .top-header-container ul.menu li.first {
+        display: inline-block;
+        float: left;
+        padding: 12px 0px 12px 58px;
+        background: url("ucsf-logo-banner.png") no-repeat;
+        background-position: 0 35%;
+        background-position-x: 0;
+        background-position-y: 35%; }
+        @media (max-width: 600px) {
+          #ucsf-banner-nav .top-header-container ul.menu li.first {
+            text-indent: 100%;
+            white-space: nowrap;
+            overflow: hidden; } }
+      /* line 26, /Users/richardbaker/git_repos/shoestring/src/assets/sass/ucsf/components/banner */
+      #ucsf-banner-nav .top-header-container ul.menu li {
+        display: inline-block;
+        float: right;
+        font-size: 14px;
+        padding: 12px 10px 12px; }
+        @media (max-width: 830px) {
+          #ucsf-banner-nav .top-header-container ul.menu li {
+            display: none; } }
+        @media (max-width: 600px) {
+          #ucsf-banner-nav .top-header-container ul.menu li {
+            display: none; } }
+        /* line 37, /Users/richardbaker/git_repos/shoestring/src/assets/sass/ucsf/components/banner */
+        #ucsf-banner-nav .top-header-container ul.menu li a {
+          text-decoration: none;
+          color: #fff; }
+        #ucsf-banner-nav .top-header-container ul.menu li a:hover {
+          text-decoration: underline;}
+
+/* Colors */
+
+#ucsf-banner-nav.arial {
+    font-family: arial,sans-serif;
+}
+
+#ucsf-banner-nav.teal {
+    background: #058488;
+}
+
+#ucsf-banner-nav.light-blue {
+    background: #007CBE;
+}
+
+#ucsf-banner-nav.grey {
+    background: #4D4D4D;
+}
+
+#ucsf-banner-nav.purple {
+    background: #716fb2;
+}
+
+
+#ucsf-banner-nav.yellow {
+    background: #ffdd00;
+}
+
+#ucsf-banner-nav.white {
+    background: #ffffff;
+}
+
+#ucsf-banner-nav.yellow a,#ucsf-banner-nav.white a {
+    color: #000000;
+}
+
+:root #ucsf-banner-nav .top-header-container ul.menu li.first {
+    background: url("ucsf-logo-banner.svg") no-repeat;
+    background-size: 45px 22px;
+    background-position-x: 0;
+    background-position-y: 35%;
+    background-position: 0 35%;
+}
+
+
+:root #ucsf-banner-nav.no-logo .top-header-container ul.menu li.first {
+    background: none;
+}

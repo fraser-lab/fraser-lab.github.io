@@ -64,6 +64,7 @@
     </script>
 
     <link rel="stylesheet" href="/static/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/static/css/ucsf-banner.css">
     {% if page.group == 'news' %}
     <link rel="alternate" type="application/atom+xml" title="Fraser Lab News Feed" href="/news.xml">
     {% endif %}
@@ -76,10 +77,26 @@
 
     <a class="skip-link" href="#main">Skip to main content</a>
 
+    <!-- UCSF Identity web banner. Markup is the 1.4 template verbatim (see
+         static/css/ucsf-banner.css) apart from https:// on the four links.
+         The <nav> wrapper is ours: it gives the banner a named landmark
+         without touching the template inside it. -->
+    <nav aria-label="UCSF">
+      <div id="ucsf-banner-nav">
+        <div class="top-header-container row">
+          <ul class="menu">
+            <li class="first"><a href="https://www.ucsf.edu">University of California San Francisco</a></li>
+            <li><a href="https://www.ucsfhealth.org/">UCSF Medical Center</a></li>
+            <li><a href="https://www.ucsf.edu/search">Search UCSF</a></li>
+            <li><a href="https://www.ucsf.edu/about">About UCSF</a></li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+
     <!-- Static navbar -->
-    <nav class="navbar navbar-expand-lg navbar-dark" style="background-color: #052049">
+    <nav class="navbar navbar-expand-lg navbar-dark" aria-label="Fraser Lab" style="background-color: #052049">
         <a class="navbar-brand" href="/">{{site.name}}</a>
-        <a href="https://www.ucsf.edu" rel="noopener"><img class="inline-block navb-icon" src="/static/img/logo/ucsf_logo_white.svg" alt="University of California, San Francisco (UCSF) logo"></a>
         <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbarContent" aria-controls="navbarContent" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
