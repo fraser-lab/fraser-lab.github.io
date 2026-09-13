@@ -33,8 +33,24 @@
   height: 1.8em;
 }
 
+/* The banner and the navbar are the same navy, so Bootstrap's .5rem of
+   vertical navbar padding reads as dead space between the two rows of text
+   rather than as padding. Zero it: the nav links and the toggler carry their
+   own padding, so the bar still lands at 40px - the same height as the banner
+   above it - and the gap between the two wordmarks drops from 28px to 20px. */
 .navbar {
   margin-bottom: 20px;
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
+/* Below the lg breakpoint the collapsed menu opens inside the bar, and with
+   the bar's own padding gone the last link would sit flush on its bottom
+   edge. Give the open panel back the space the bar no longer has. */
+@media (max-width: 991.98px) {
+  .navbar-collapse.show {
+    padding-bottom: 0.5rem;
+  }
 }
 
 .welcomefont {
