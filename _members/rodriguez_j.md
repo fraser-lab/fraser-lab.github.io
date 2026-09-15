@@ -1,4 +1,3 @@
-
 ---
 name: Joshua Rodriguez, Ph.D.
 timeline_name: Josh
