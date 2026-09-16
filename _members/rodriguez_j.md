@@ -3,8 +3,8 @@ name: Joshua Rodriguez, Ph.D.
 timeline_name: Josh
 startdate: [2026-08-17]
 enddate:
-image: /static/img/members/Rodriguez.jpg 
-#altimage: /static/img/members/LastName_pb.jpg 
+image: static/img/members/Rodriguez.jpg 
+#altimage: static/img/members/LastName_pb.jpg 
 position: Postdoctoral Scholar 
 subsequent:
 email: joshua.rodriguez@ucsf.edu
