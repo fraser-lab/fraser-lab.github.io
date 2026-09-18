@@ -14,8 +14,8 @@ github:
 zenodo:
   - code: "20584989"
 links:
-  - name: "Diffuse"
-    url: "https://diffuse.science/"
+  - name: "Prism"
+    url: "https://prismscience.org/"
   - name: "Radial @ Astera Institute"
     url: "https://astera.org/radial/"
 ---
