@@ -40,7 +40,7 @@ Consulting/speaker fees/travel:
 
 Sponsored and Collaborative Research:
 
-* Through our work in [OpenADMET](https://openadmet.org/), we collaborate with [Octant](https://www.octant.bio/) (funded by ARPA-H, the Astera Institute, and the Gates Foundation) and [Schrödinger](https://www.schrodinger.com/) (funded by the Gates Foundation). None of this work is proprietary and we make all data and code available to the public.
+* [OpenADMET](https://openadmet.org/) is a collaboration between UCSF, [Octant](https://www.octant.bio/), and the [Open Molecular Software Foundation](https://omsf.io/) (OMSF). OpenADMET is supported by ARPA-H (under the AVOID-OME program, Award Number 1AY1AX000035), Radial and the [Astera Institute](https://ror.org/00ydx1s47), Schrödinger, the Bill & Melinda Gates Foundation, and the OpenAI Foundation; these awards are held across the collaborating organizations and support work at UCSF through subawards and sponsored research agreements. We also thank our partners Enamine, Hugging Face, OpenEye, CDD Vault, Discovery Life Sciences, and the NSLS-II beamline staff for their ongoing support. None of this work is proprietary and we make all data and code available to the public.
 * Past: Relay Therapeutics, Salesforce, Eli Lilly and Company, JSR, Asahi Kasei
 
 I also am the head of the participating research team of beamline 8.3.1. at the Advanced Light Source. Many companies have used that beamline or have sponsored research and development activities by the beamline scientists, including: Achira, Plexxikon, Relay Therapeutics, Eli Lilly and Company, and Global Blood Therapeutics.
