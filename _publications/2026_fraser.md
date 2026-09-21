@@ -1,7 +1,7 @@
 ---
 title: "Mapping the avoid-ome: a systematic open-science approach to predictive ADMET"
 authors: "**Fraser JS**, Edgar S, Handly LN, Kosuri S, Chodera JD, Murcko M, Walters WP"
-journal: "Nature Communications"
+journal: "Preprints.org"
 pub_date: "2026-05-25"
 image: "/static/img/pub/2026_fraser.jpg"
 tags:
