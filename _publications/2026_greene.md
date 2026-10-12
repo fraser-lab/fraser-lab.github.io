@@ -1,15 +1,15 @@
 ---
 title: "Product-stabilized filamentation by human glutamine synthetase allosterically tunes metabolic activity"
-authors: "**Greene ER**, Muniz R, **Yamamura H**, **Bajaj P, Lee DJ, Thompson EM, Arada A**, Lee GM, Bonomi M, Kollman JM, **Fraser JS**"
-# journal: #""
-pub_date: "2025-07-04"
-image: "/static/img/pub/2025_greene.jpg"
+authors: "**Greene ER**, Muniz R, **Yamamura H**, Hoff SE, **Bajaj P**, Tecson MCB, Geluz C, **Lee DJ, Thompson EM, Arada A**, Lee GM, Bonomi M, Kollman JM, **Fraser JS**"
+journal: "eLife"
+pub_date: "2026-10-12"
+image: "/static/img/pub/2026_greene.jpg"
 tags:
   - Enzyme Mechanism
-# pmid: #""
+pmid: "42862727"
 # pmcid: #""
 biorxiv: "2025.07.04.663231"
-# pdf: #""
+pdf: "http://cdn.fraserlab.com/publications/2026_greene.pdf"
 paired_maps_and_models:
   - pdb: "9OTM"
     emdb: "70841"
