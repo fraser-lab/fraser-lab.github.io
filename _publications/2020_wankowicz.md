@@ -3,7 +3,7 @@ title: "Ensemble refinement produces consistent R-free values but smaller ensemb
 authors: "**Wankowicz SA, Fraser JS**"
 journal: 'Computational Crystallography Newsletter'
 pub_date: '2020-01-01'
-image: '/static/img/pub/2020_wankowicz.png'
+image: '/static/img/pub/2020_wankowicz.jpg'
 tags:
   - Computational Modeling Methods
 # pmid: '########'

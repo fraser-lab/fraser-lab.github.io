@@ -3,7 +3,7 @@ title: "Mapping kinase domain resistance mechanisms for the MET receptor tyrosin
 authors: "**Estevam GO**, Linossi EM, Rao J, **Macdonald CM**, **Ravikumar A**, **Chrispens KM**, Capra JA, Coyote-Maestas W, Pimentel H, Collisson EA, Jura N, **Fraser JS**"
 journal: eLife
 pub_date: "2025-02-17"
-image: "/static/img/pub/2024_estevam.png"
+image: "/static/img/pub/2024_estevam.jpg"
 pmid: 39960754
 tags:
   - Deep Mutational Scanning

@@ -3,7 +3,7 @@ title: "Advances in uncovering the mechanisms of macromolecular conformational e
 authors: "**Wankowicz SA**, **Fraser JS**"
 journal: "Nature Chemical Biology"
 pub_date: "2025-04-25" 
-image: "/static/img/pub/2023_Wankowicz_2.png" 
+image: "/static/img/pub/2023_Wankowicz_2.jpg" 
 pdf: "http://cdn.fraserlab.com/publications/2025_wankowicz.pdf"
 pmid: "40275100"
 tags:

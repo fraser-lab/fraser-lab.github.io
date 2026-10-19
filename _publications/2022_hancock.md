@@ -3,7 +3,7 @@ title: "Integration of software tools for integrative modeling of biomolecular s
 authors: "Hancock M, Peulen TO, Webb B, Poon B, **Fraser JS**, Adams P, Sali A"
 journal: "Journal of Structural Biology"
 pub_date: "2022-02-11"
-image: "/static/img/pub/2022_hancock.png"
+image: "/static/img/pub/2022_hancock.jpg"
 pmid: '35149213'
 tags:
   - Computational Modeling Methods

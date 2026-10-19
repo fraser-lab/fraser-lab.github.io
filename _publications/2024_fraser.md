@@ -3,7 +3,7 @@ title: "Structure is beauty, but not always truth"
 authors: "**Fraser JS**, Murcko MA"
 journal: "Cell"
 pub_date: "2024-02-01"
-image: "/static/img/pub/2024_fraser.png"
+image: "/static/img/pub/2024_fraser.jpg"
 pmid: "38306978"
 tags:
   - Scientific Community

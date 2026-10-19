@@ -3,7 +3,7 @@ title: "qFit-ligand reveals widespread conformational heterogeneity of drug-like
 authors: "van Zundert GCP&#42;, **Hudson BM&#42;**, **Oliveira SHP**, **Keedy DA**, Fonseca R, Heliou A, **Suresh P**, Borrelli K, Day T, **Fraser JS**, van den Bedem H"
 journal: 'Journal of Medicinal Chemistry'
 pub_date: '2018-12-27'
-image: '/static/img/pub/2018_VZ_Hudson.gif'
+image: '/static/img/pub/2018_VZ_Hudson.webp'
 pmid: '30457858'
 tags:
   - Drug Discovery

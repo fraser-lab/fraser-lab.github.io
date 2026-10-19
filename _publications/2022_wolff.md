@@ -3,7 +3,7 @@ title: "Mapping Protein Dynamics at High-Resolution with Temperature-Jump X-ray 
 authors: "**Wolff AM**, Nango E, **Young ID**, Brewster AS, Kubo M, Nomura T, Sugahara M, Owada S, **Barad BA, Ito K**, Bhowmick A, Carbajo S, Hino T, Holton JM, Im D, O'Riordan LJ, Tanaka T, Tanaka R, Sierra RG, Yumoto F, Tono K, Iwata S, Sauter NK, **Fraser JS, Thompson MC**"
 journal: "Nature Chemistry"
 pub_date: "2023-09-18"
-image: "/static/img/pub/2022_wolff.png"
+image: "/static/img/pub/2022_wolff.jpg"
 pmid: "37723259"
 tags:
   - Protein Dynamics

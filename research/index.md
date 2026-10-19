@@ -100,7 +100,7 @@ We pioneered multitemperature data collection, which recovers states and tempera
 </div>
 <div class="col-md-5 order-md-2 align-self-center">
 
-![Frontier crystallography resolving protein motions](/static/img/pub/2022_wolff.png){: .img-fluid}
+![Frontier crystallography resolving protein motions](/static/img/pub/2022_wolff.jpg){: .img-fluid}
 
 </div>
 </div>
@@ -144,7 +144,7 @@ Now we follow this chemistry across the tree of life. Writers install ADP-ribose
 </div>
 <div class="col-md-5 order-md-2 align-self-center">
 
-![Surface view of the SARS-CoV-2 Mac1 macrodomain with fragments bound in the adenosine pocket](/static/img/pub/2022_gahbauer_correy.gif){: .img-fluid}
+![Surface view of the SARS-CoV-2 Mac1 macrodomain with fragments bound in the adenosine pocket](/static/img/pub/2022_gahbauer_correy.webp){: .img-fluid}
 
 </div>
 </div>

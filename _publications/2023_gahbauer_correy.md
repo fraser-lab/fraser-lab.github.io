@@ -3,7 +3,7 @@ title: "Iterative computational design and crystallographic screening identifies
 authors: "Gahbauer S&#42;, **Correy GJ&#42;**, Schuller M, Ferla MP, Doruk YU, Rachman M, Wu T, Diolaiti M, Wang S, Neitz RJ, Fearon D, Radchenko DS, Moroz YS, Irwin JJ, Renslo AR, Taylor JC, Gestwicki JE, von Delft F, Ashworth A, Ahel I, Shoichet BK, **Fraser JS**"
 journal: "PNAS"
 pub_date: "2023-01-04"
-image: "/static/img/pub/2022_gahbauer_correy.gif" #Minimum dimensions of
+image: "/static/img/pub/2022_gahbauer_correy.webp" #Minimum dimensions of
 pmid: "36598939"
 tags:
   - Macrodomain

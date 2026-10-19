@@ -3,7 +3,7 @@ title: "Accurate positioning of functional residues with robotics-inspired compu
 authors: "Krivacic C&#42;, Kundert K&#42;, Pan X&#42;, Pache RA&#42;, **Liu L**, Conchúir SO, Jeliazkov JR, Gray JJ, **Thompson MC, Fraser JS**, Kortemme T"
 journal: "PNAS"
 pub_date: "2022-03-07"
-image: "/static/img/pub/2021_krivacic_kundert_pan_pache.png"
+image: "/static/img/pub/2021_krivacic_kundert_pan_pache.jpg"
 pmid: "35254891"
 tags:
   - Protein Design

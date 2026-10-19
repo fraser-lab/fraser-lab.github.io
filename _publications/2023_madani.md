@@ -3,7 +3,7 @@ title: "Deep neural language modeling enables functional protein generation acro
 authors: "Madani A, Krause B&#42;, **Greene ER&#42;**, Subramanian S, Mohr BP, Holton JM, **Olmos Jr. JL**, Xiong C, Sun ZZ, Socher R, **Fraser JS**, Naik N"
 journal: "Nature Biotechnology"
 pub_date: '2023-01-26'
-image: "/static/img/pub/2021_madani.gif"
+image: "/static/img/pub/2021_madani.webp"
 pmid: "36702895"
 tags:
   - Protein Design

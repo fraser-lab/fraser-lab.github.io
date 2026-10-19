@@ -3,7 +3,7 @@ title: "MET variants with activating N-lobe mutations identified in hereditary p
 authors: "Guerin C, Vinchent A, Fernandes M, Damour I, Laratte A, Tellier R, **Estevam GO**, Meneboo JP, Villenet C, Descarpentries C, **Fraser JS**, Figeac M, Cortot AB, Rouleau E, Tulasne D"
 journal: "Molecular Oncology"
 pub_date: "2025-02-20"
-image: /static/img/pub/2023_guerin.png
+image: /static/img/pub/2023_guerin.jpg
 pmid: "39980226"
 tags:
   - Collaborations
