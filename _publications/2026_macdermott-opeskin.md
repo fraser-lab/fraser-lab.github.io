@@ -3,7 +3,7 @@ title: "Operational insights from the front lines of OpenADMET: lessons from our
 authors: "MacDermott-Opeskin H, Castellanos M, Swain JA, Scheen J, Colby S, Channing G, Simpkins S, Warneford-Thomson R, **Correy GJ**, Handly LN, Kosuri S, Chodera J, **Fraser JS**, Walters WP"
 #journal:
 pub_date: "2026-09-20"
-image: "/static/img/pub/2026_macdermott-opeskin.png"
+image: "/static/img/pub/2026_macdermott-opeskin.jpg"
 tags:
   - Drug Discovery
   - Scientific Community

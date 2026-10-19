@@ -3,7 +3,7 @@ title: "Distinct activation mechanisms underlie ligand efficacy at a GPCR"
 authors: "Howard MK, Fine EJ, Srinivasan K, Richman DD, Freudenberg J, Weinberg Z, Rao J, **Zou Z, Macdonald C**, Rockefeller Grimes P, Varga BR, **Fraser JS**, Von Zastrow M, Majumdar S, Pimentel H, English J, Dror RO, Manglik A, Coyote-Maestas W"
 #journal: "Journal Name" #Leave blank/commented until accepted at journal
 pub_date: "2026-10-18"
-image: "/static/img/pub/2026_howard.png"
+image: "/static/img/pub/2026_howard.jpg"
 tags:
   - "Deep Mutational Scanning"
   - "Collaborations"

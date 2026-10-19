@@ -4,7 +4,7 @@ authors: "Hancock M, Holton JM, **Fraser JS**, Adams PD, Sali A"
 journal: "Biorxiv" # To be updated upon publication
 biorxiv: "2025.10.07.680994"
 pub_date: "2025-10-07" # Date of bioRxiv posting. Change to Journal date once accepted
-image: "/static/img/pub/2025_hancock.png"
+image: "/static/img/pub/2025_hancock.jpg"
 tags:
   - Computational Modeling Methods
 # pmid: "" # To be updated upon publication

@@ -62,7 +62,7 @@ We have developed [qFit](https://github.com/ExcitedStates/qfit-3.0), which build
 </div>
 <div class="col-md-5 order-md-2 align-self-center">
 
-![Sampleworks ensemble generation](/static/img/pub/2026_chrispens.png){: .img-fluid}
+![Sampleworks ensemble generation](/static/img/pub/2026_chrispens.jpg){: .img-fluid}
 
 </div>
 </div>
@@ -119,7 +119,7 @@ We have built systematic drug resistance maps and used them to ask whether prote
 </div>
 <div class="col-md-5 order-md-1 align-self-center">
 
-![Deep mutational scanning analysis](/static/img/pub/2025_rao.png){: .img-fluid}
+![Deep mutational scanning analysis](/static/img/pub/2025_rao.jpg){: .img-fluid}
 
 </div>
 </div>

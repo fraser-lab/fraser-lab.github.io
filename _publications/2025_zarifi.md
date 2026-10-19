@@ -4,7 +4,7 @@ authors: "Zarifi N, **Asthana P**, Doustmohammadi H, Klaus C, Sanchez J, Hunt SE
 journal: Nature Communications
 biorxiv: "2025.02.21.639315"
 pub_date: "2025-09-30" #Date of publication. Change from Biorxiv date to Journal date once accepted
-image: "/static/img/pub/2025_zarifi.png"
+image: "/static/img/pub/2025_zarifi.jpg"
 pdbs:
   - 8FMC
   - 8FOQ

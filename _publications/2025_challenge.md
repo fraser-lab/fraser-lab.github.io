@@ -4,7 +4,7 @@ authors: "MacDermott-Opeskin H, Scheen J, Wognum C, Horton JT, West D, Payne AM,
 journal: "Journal of Chemical Information and Modeling"
 chemrxiv: "2025-zd9mr"
 pub_date: "2026-02-26"
-image: "/static/img/pub/2025_challenge.png"
+image: "/static/img/pub/2025_challenge.jpg"
 pmid: "41749419"
 tags:
   - Drug Discovery

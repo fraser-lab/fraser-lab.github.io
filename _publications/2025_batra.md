@@ -4,7 +4,7 @@ authors: "Batra J, Rutkowska M, Zhou Y, Ye C, Adavikolanu R, Young JM, Anand D, 
 journal: "Cell Host and Microbe"
 biorxiv: "2025.07.26.666918"
 pub_date: "2026-05-13" #Date of publication. Change from Biorxiv date to Journal date once accepted
-image: "/static/img/pub/2025_batra.png"
+image: "/static/img/pub/2025_batra.jpg"
 tags:
   - Collaborations
 pmid: "42134328"
