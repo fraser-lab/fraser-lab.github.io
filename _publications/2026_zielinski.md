@@ -1,0 +1,41 @@
+---
+title: "Iterating diffuse scattering protocols in parallel leads to reproducible, high-quality data from Mac1"
+authors: "**Zielinski K**, Meisburger SP, Lu K, **Bassim V**, Holton JM, Burnim AA, Chou E, **Fraser JS**, Ando N"
+pub_date: "2026-10-20"
+image: "/static/img/pub/2026_zielinski.jpg"
+tags:
+  - "Structural Biology Methods"
+  - "Protein Dynamics"
+  - "Macrodomain"
+stacks:
+  slug: "diffuse-scattering-east-west"
+  doi: "10.82153/hrpy-t681"
+github:
+  - url: "prism-science/diffuse-analysis-mac1-east-west"
+    description: "diffuse-analysis-mac1-east-west"
+  - url: "prism-science/diffuse-processing-mac1-east-west"
+    description: "diffuse-processing-mac1-east-west"
+  - url: "prism-science/diffuse-data-pub-mac1-east-west"
+    description: "diffuse-data-pub-mac1-east-west"
+  - url: "prism-science/diffuse-data-pub-mac1-suboptimal"
+    description: "diffuse-data-pub-mac1-suboptimal"
+  - url: "prism-science/logbook"
+    description: "logbook"
+zenodo:
+  - code: "23487401"
+  - code: "23487517"
+  - code: "23487904"
+  - code: "23487927"
+  - code: "17351307"
+links:
+  - name: "Diffuse beamtime logbook"
+    url: "https://diffuse.science/logbook/beamtime"
+  - name: "SBGrid Data Bank 1301-1304"
+    url: "https://data.sbgrid.org/dataset/1301/"
+  - name: "Ando Lab @ Cornell"
+    url: "https://ando.chem.cornell.edu/"
+  - name: "Prism"
+    url: "https://prismscience.org/"
+  - name: "Radial @ Astera Institute"
+    url: "https://astera.org/radial/"
+---
