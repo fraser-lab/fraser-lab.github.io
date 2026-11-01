@@ -15,7 +15,7 @@ UCSF: #UCSF Profile ID - Employees only
 twitter: 
 linkedin: 
 github: connorzzou
-orcid: 
+orcid: 0009-0004-5516-6099
 description: "Ziyue graduated from University of Maryland, College Park with a degree in Chemistry, where he worked on AI-augmented molecular dynamics simulations of crystal nucleations with Dr. [Pratyush Tiwary](https://sites.google.com/site/pratyushtiwary/).
 
 In the Fraser lab, Ziyue works on integrating machine learning models to predict responses to mutation in selection experiments.
