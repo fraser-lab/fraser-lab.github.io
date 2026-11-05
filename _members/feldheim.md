@@ -5,7 +5,7 @@ startdate: [2026-06-10]
 enddate: #[]
 image: /static/img/members/feldheim.jpg
 altimage: /static/img/members/feldheim_pb.jpg
-position: "Undergraduate Student"
+position: Undergraduate Intern
 #timeline_positions: ["Graduate Student (2019-2023)]
 #subsequent:  update once you become an alumnus
 pronouns: he/him/his
