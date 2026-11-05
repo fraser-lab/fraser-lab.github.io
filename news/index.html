@@ -33,23 +33,42 @@ group: news
     {% endfor %}
     <hr>
 
-    <!-- This makes links to other paginator pages -->
+    <!-- Windowed pager: first, last, and two pages either side of the current one -->
     {% if paginator.total_pages > 1 %}
-    <ul class="pagination">
-      <li> {% if paginator.previous_page %} <a href="{{ paginator.previous_page_path }}"> {% endif %} Prev</a>&nbsp;</li>
+    {% assign cur = paginator.page %}
+    {% assign last = paginator.total_pages %}
+    {% assign win_lo = cur | minus: 2 %}
+    {% assign win_hi = cur | plus: 2 %}
+    {% assign penult = last | minus: 1 %}
+    <nav class="news-pager" aria-label="News pages">
+      <ul class="pagination justify-content-center flex-wrap">
+        {% if paginator.previous_page %}
+        <li class="page-item"><a class="page-link" href="{{ paginator.previous_page_path }}" rel="prev" aria-label="Newer posts">&larr; Newer</a></li>
+        {% else %}
+        <li class="page-item disabled"><span class="page-link">&larr; Newer</span></li>
+        {% endif %}
 
-      {% for page in (1..paginator.total_pages) %}
-      {% if page == paginator.page %}
-      <li class="active">{{ page }}&nbsp;</li>
-      {% elsif page == 1 %}
-      <li><a href="/news/">{{ page }}</a>&nbsp;</li>
-      {% else %}
-      <li><a href="/news/page{{ page }}">{{ page }}</a>&nbsp;</li>
-      {% endif %}
-      {% endfor %}
+        {% for p in (1..last) %}
+          {% if p == 1 or p == last or p >= win_lo and p <= win_hi %}
+            {% if p == 1 %}{% assign href = "/news/" %}{% else %}{% capture href %}/news/page{{ p }}/{% endcapture %}{% endif %}
+            {% if p == cur %}
+        <li class="page-item active" aria-current="page"><span class="page-link">{{ p }}</span></li>
+            {% else %}
+        <li class="page-item"><a class="page-link" href="{{ href }}">{{ p }}</a></li>
+            {% endif %}
+          {% elsif p == 2 or p == penult %}
+        <li class="page-item disabled gap" aria-hidden="true"><span class="page-link">&hellip;</span></li>
+          {% endif %}
+        {% endfor %}
 
-      <li> {% if paginator.next_page %} <a href="{{ paginator.next_page_path }}"> {% endif %} Next</a></li>
-    </ul>
+        {% if paginator.next_page %}
+        <li class="page-item"><a class="page-link" href="{{ paginator.next_page_path }}" rel="next" aria-label="Older posts">Older &rarr;</a></li>
+        {% else %}
+        <li class="page-item disabled"><span class="page-link">Older &rarr;</span></li>
+        {% endif %}
+      </ul>
+      <p class="news-pager-status">Page {{ cur }} of {{ last }}</p>
+    </nav>
     {% endif %}
   </div>
 

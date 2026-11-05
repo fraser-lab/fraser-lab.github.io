@@ -232,3 +232,55 @@ body {
   line-height: 1.2;
   margin: 0 0 1.5rem;
 }
+
+/* News page pager: rounded pill buttons in the site link colour. */
+.news-pager {
+  margin: 2rem 0 1rem;
+}
+
+.news-pager .pagination {
+  gap: 0.35rem;
+  margin-bottom: 0.5rem;
+}
+
+.news-pager .page-link {
+  border-radius: 999px !important;
+  min-width: 2.5rem;
+  text-align: center;
+  color: #0056b3;
+  border-color: #dee2e6;
+  text-decoration: none;
+  transition: background-color 0.15s, color 0.15s, border-color 0.15s;
+}
+
+.news-pager a.page-link:hover,
+.news-pager a.page-link:focus {
+  background-color: #e7f0fa;
+  border-color: #0056b3;
+  color: #003d80;
+}
+
+.news-pager .page-item.active .page-link {
+  background-color: #0056b3;
+  border-color: #0056b3;
+  color: #fff;
+  font-weight: 600;
+}
+
+.news-pager .page-item.disabled .page-link {
+  color: #6c757d;
+}
+
+.news-pager .gap .page-link {
+  border-color: transparent;
+  background: transparent;
+  min-width: 1.5rem;
+  padding-left: 0.25rem;
+  padding-right: 0.25rem;
+}
+
+.news-pager-status {
+  text-align: center;
+  font-size: 0.875rem;
+  color: #6c757d;
+}
