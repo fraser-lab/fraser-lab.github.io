@@ -1,0 +1,64 @@
+# Prism and OpenADMET blog posts reviewed for mirroring on the news page.
+# Mirrored posts are recognised by their source_url in _posts and are not
+# listed here. Posts below were reviewed and deliberately not mirrored.
+# The weekly mirror task appends to this list.
+declined:
+  - https://prismscience.org/research/code-impact-predictions
+  - https://prismscience.org/research/mindful-of-the-md-model
+  - https://prismscience.org/research/katie-lu-summer-2026
+  - https://prismscience.org/research/prism-vision
+  - https://prismscience.org/research/qfitlatent
+  - https://prismscience.org/research/waterflow
+  - https://prismscience.org/research/mdx2
+  - https://prismscience.org/research/goodvibes
+  - https://prismscience.org/research/mmcif-browser
+  - https://prismscience.org/research/plug-benchmark
+  - https://prismscience.org/research/diffuse-open-science-policies
+  - https://prismscience.org/research/science-in-the-open
+  - https://prismscience.org/research/encoding-proposal
+  - https://prismscience.org/research/water-analysis
+  - https://prismscience.org/research/expanding-diffuse
+  - https://prismscience.org/research/sampleworks
+  - https://prismscience.org/research/shake-it-up
+  - https://prismscience.org/research/allhands-january-2026
+  - https://prismscience.org/research/in-the-cloud
+  - https://prismscience.org/research/3-2-1-contact
+  - https://prismscience.org/research/multi-to-ens
+  - https://prismscience.org/research/jax-refine
+  - https://prismscience.org/research/windows
+  - https://prismscience.org/research/encoding
+  - https://prismscience.org/research/modeling
+  - https://prismscience.org/research/jobs
+  - https://prismscience.org/research/lets-dance
+  - https://prismscience.org/research/wetfeet
+  - https://prismscience.org/research/davinci
+  - https://prismscience.org/research/ligands
+  - https://openadmet.ghost.io/when-experiment-and-computation-disagree-lessons-from-pka-and-logp/
+  - https://openadmet.ghost.io/openadmet-quarterly-newsletter-q3-2026/
+  - https://openadmet.ghost.io/escape-from-flatland-cyp-edition/
+  - https://openadmet.ghost.io/practicing-what-we-preach-why-open-science-needs-clear-rules/
+  - https://openadmet.ghost.io/tune-in-what-fine-tuning-openfold3-taught-us/
+  - https://openadmet.ghost.io/are-tabular-foundation-models-all-you-need/
+  - https://openadmet.ghost.io/pxr-structure-activity-from-a-semi-pure-screen/
+  - https://openadmet.ghost.io/open-sourcing-our-blind-challenge-platform/
+  - https://openadmet.ghost.io/applicability-domain-how-to-know-when-your-model-is-actually-relevant/
+  - https://openadmet.ghost.io/lowering-inhibitions-one-cyp-at-a-time-building-the-openadmet-cyp-inhibition-and-tdi-dataset/
+  - https://openadmet.ghost.io/openadmets-cyp-challenge-is-underway/
+  - https://openadmet.ghost.io/do-our-cyp-structural-alerts-actually-work/
+  - https://openadmet.ghost.io/throwing-everything-and-the-kitchen-sink-at-chemeleon/
+  - https://openadmet.ghost.io/announcing-openadmets-cyp-inhibition-blind-challenge/
+  - https://openadmet.ghost.io/model-take-the-wheel-part-ii-multi-fidelity-cost-aware-active-learning/
+  - https://openadmet.ghost.io/openadmet-quarterly-newsletter-q2-2026/
+  - https://openadmet.ghost.io/not-invited-to-the-party-how-to-make-proprietary-admet-insights-more-accessible/
+  - https://openadmet.ghost.io/cofolding-i-hardly-know-her-cofolding-methods-on-admet-targets/
+  - https://openadmet.ghost.io/navigating-pxr-chemical-space-with-high-throughput-chemistry-and-standard-free-quantification/
+  - https://openadmet.ghost.io/model-take-the-wheel-active-learning-with-pec50-data/
+  - https://openadmet.ghost.io/running-the-openadmet-stack-on-amd-gpus-with-rocm/
+  - https://openadmet.ghost.io/a-hot-fresh-new-clearance-model-2/
+  - https://openadmet.ghost.io/openadmets-inaugural-model-release/
+  - https://openadmet.ghost.io/concerning-uncertainty/
+  - https://openadmet.ghost.io/openadmet-expansionrx-blind-challenge/
+  - https://openadmet.ghost.io/expansionrx-openadmet-blind-challenge/
+  - https://openadmet.ghost.io/time-for-a-new-adventure/
+  - https://seemay.substack.com/p/from-systems-operators-to-systems
+  - http://openadmet.github.io/Octant_CYP_blog_post/
