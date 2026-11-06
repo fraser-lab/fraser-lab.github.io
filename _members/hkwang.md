@@ -3,7 +3,7 @@ name: Harrison Wang
 timeline_name:
 startdate: [2026-10-01]
 enddate: #[]
-image: /static/img/members/hkwang.JPG
+image: /static/img/members/hkwang.jpg
 altimage: /static/img/members/hkwang_pb.jpg
 position: Postdoctoral Scholar
 pronouns: he/him/his
