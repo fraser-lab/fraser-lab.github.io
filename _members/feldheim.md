@@ -17,5 +17,5 @@ twitter:
 linkedin: 
 github: 
 orcid: 0009-0002-4208-6167
-description: "Lucas is currently an undergarduate student pursuing a B.S in chemical biology at the University of California, Berkeley. In the Fraser lab, Lucas uses Xray crystallography and cryo-EM to study cytochrome P450 oxidoreductase enzymes and their drug interactions as part of the AVOID-OmE project. In his free time, Lucas enjoys cooking, cycling, and spending time outdoors."
+description: "Lucas is currently an undergraduate student pursuing a B.S. in chemical biology at the University of California, Berkeley. In the Fraser lab, Lucas uses X-ray crystallography and cryo-EM to study cytochrome P450 oxidoreductase enzymes and their drug interactions as part of the AVOID-OmE project. In his free time, Lucas enjoys cooking, cycling, and spending time outdoors."
 ---
