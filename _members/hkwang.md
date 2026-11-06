@@ -15,7 +15,7 @@ twitter:
 linkedin: harrisonkwang
 github: hkwang
 orcid: 0000-0003-4275-9472
-description: "Harrison earned a dual B.S. in Chemistry and Biology, as well as Physics, from the Massachussetts Institute of Technology, where he worked with [Prof. Mei Hong](https://meihonglab.com/) on biomolecular solid-state NMR. He then earned his PhD in Biophysics at Harvard University, working with [Prof. Doeke Hekstra](https://hekstralab.fas.harvard.edu/) on time-resolved crystallography methods for probing allostery. 
+description: "Harrison earned a dual B.S. in Chemistry and Biology, as well as Physics, from the Massachusetts Institute of Technology, where he worked with [Prof. Mei Hong](https://meihonglab.com/) on biomolecular solid-state NMR. He then earned his PhD in Biophysics at Harvard University, working with [Prof. Doeke Hekstra](https://hekstralab.fas.harvard.edu/) on time-resolved crystallography methods for probing allostery. 
 
 Harrison is coadvised by Bill DeGrado and Jaime Fraser, using computational methods and crystallographic fragment screening for de novo enzyme design. 
 
