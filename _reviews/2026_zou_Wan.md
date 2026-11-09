@@ -1,7 +1,7 @@
 ---
 title: "Combining Stability-Centered Atomistic Design with Machine Learning for Targeted Enzyme Optimization"
 date: "2026-09-11" #Date of Public Review
-authors: "Bali S, Zou Z, Fraser JS" #Use Lastname Initials format, NOT full first names
+authors: "Wan L, Helabad MB, Fraedrich L, Fleishman SJ, Weissenborn MJ" #Use Lastname Initials format, NOT full first names
 reviewers: "Bali S, Zou Z, Fraser JS"
 image: "/static/img/reviews/2026_Wan_MLEE.jpg"
 peer-review:
