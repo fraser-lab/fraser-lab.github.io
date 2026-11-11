@@ -4,7 +4,8 @@ startdate: [2024-03-24]
 enddate: []
 image: /static/img/members/Niznak.jpg
 # altimage: /static/img/members/Fraser_pb.jpg
-position: Administrator
+position: "Affiliate, Administrator"
+timeline_group: staff
 #current:
 pronouns: she/her/hers
 email: rebecca.niznak2 (at) ucsf.edu 

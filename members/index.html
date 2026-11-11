@@ -198,6 +198,8 @@ The Fraser lab welcomes people of any race, ethnicity, religion, national origin
 			{% assign color = "gold" %}
 		{% elsif position contains "staff scientist" or position contains "programmer" or position contains "manager" %}
 			{% assign color = "green" %}
+		{% elsif position == "staff" %}
+			{% assign color = "deeppink" %}
 		{% elsif position contains "specialist" or position contains "technician" or position contains "propel"%}
 			{% assign color = "turquoise" %}
 		{% elsif position contains "srtp" or position contains "intern" or position contains "summer" %}
@@ -216,7 +218,7 @@ The Fraser lab welcomes people of any race, ethnicity, religion, national origin
 {% assign i = i | plus: 1 %}
 {% endfor %}
 
-{% assign legendn = 7 %}
+{% assign legendn = 8 %}
 {% assign fontsize = 14 %}
 {% assign xposition = 10 %}
 {% assign yposition = i | times: yspacing %}
@@ -232,6 +234,9 @@ The Fraser lab welcomes people of any race, ethnicity, religion, national origin
 {% assign yposition = yposition | plus: legendboxspacing %}
 <rect x="{{ xposition }}" y="{{ yposition }}" width="{{ legendboxsize }}" height="{{ legendboxsize }}" fill="green" />
 <text x="{{ fontsize | times: 0.25 | plus: legendboxsize | plus: xposition }}" y="{{ fontsize | times: 0.75 | plus: legendboxsize | times: 0.5 | plus: yposition }}" font-family="sans-serif" font-size="{{ fontsize }}" stroke="black">Staff scientist</text>
+{% assign yposition = yposition | plus: legendboxspacing %}
+<rect x="{{ xposition }}" y="{{ yposition }}" width="{{ legendboxsize }}" height="{{ legendboxsize }}" fill="deeppink" />
+<text x="{{ fontsize | times: 0.25 | plus: legendboxsize | plus: xposition }}" y="{{ fontsize | times: 0.75 | plus: legendboxsize | times: 0.5 | plus: yposition }}" font-family="sans-serif" font-size="{{ fontsize }}" stroke="black">Staff</text>
 {% assign yposition = yposition | plus: legendboxspacing %}
 <rect x="{{ xposition }}" y="{{ yposition }}" width="{{ legendboxsize }}" height="{{ legendboxsize }}" fill="turquoise" />
 <text x="{{ fontsize | times: 0.25 | plus: legendboxsize | plus: xposition }}" y="{{ fontsize | times: 0.75 | plus: legendboxsize | times: 0.5 | plus: yposition }}" font-family="sans-serif" font-size="{{ fontsize }}" stroke="black">Research specialist</text>

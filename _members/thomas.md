@@ -6,6 +6,7 @@ enddate: []
 image: /static/img/members/thomas.jpg #365 x 365 pixels, 72 dpi
 altimage: #/static/img/members/thomas_pb.jpg #365 x 365 pixels, 72 dpi
 position: "Affiliate, Scientific Program Manager"
+timeline_group: staff
 #subsequent:  update once you become an alumnus
 pronouns: "she/they" #personal pronouns
 email: "Veenathomasucsf (at) gmail.com" #Preferred public email address

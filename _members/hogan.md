@@ -4,7 +4,8 @@ startdate: [2020-05-11]
 enddate: []
 image: /static/img/members/Hogan.jpg
 altimage: /static/img/members/Hogan_pb.jpg
-position: Programmer
+position: "Affiliate, System Administrator"
+timeline_group: staff
 #subsequent:  update once you become an alumnus
 pronouns: he/him/his
 email: daniel.hogan (at) ucsf.edu
