@@ -20,7 +20,9 @@ description: "Veena graduated from MIT with a BS in Biology, where she worked wi
 
 Afterwards she founded her own technical & strategic drug target consultancy, DrugAbility LLC, and spent several years doing technical consulting for biotech and AI-for-drug-discovery companies helping them choose smarter, safer, and more strategic drug targets to tackle – working with companies like insitro, Foresite Labs from Foresite Capital, and others.
 
+
 Most recently she did both technical and cross-functional strategy management work for the $67M ASAP Discovery Consortium, a global NIH-funded initiative for antiviral drug discovery and pandemic preparedness. Through this work, she experienced first-hand the importance of cross-functional leadership roles with deep technical expertise to work at the technical interface as a “glue layer” between drug discovery disciplines, institutions, and people to advance complex drug discovery programs. She’s absolutely thrilled to use her range of technical skills to advance exciting team science forward – and to be back at UCSF again! – as the Fraser Lab’s Scientific Program Manager for multi-institution scientific consortia, such as the Michael J. Fox Foundation / Aligning Science Against Parkinson’s (MJFF-ASAP) consortium for ligand discovery for Parkinson’s disease.
+
 
 Outside of work Veena does improv comedy, writes flash fiction / microfiction, attends queer events, and hunts for earthquake shack-derived homes around SF."
 ---
