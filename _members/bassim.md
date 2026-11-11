@@ -6,6 +6,7 @@ enddate: []
 image: /static/img/members/bassim.jpg #365 x 365 pixels, 72 dpi
 altimage: /static/img/members/bassim_pb.jpg #365 x 365 pixels, 72 dpi
 position: "Affiliate, [X-ray Crystallography Core](https://sites.google.com/view/ucsf-xray-internal/home) Manager"
+timeline_group: staff
 #subsequent:  update once you become an alumnus
 pronouns: "she/her/hers" #personal pronouns
 email: "violla.bassim (at) ucsf.edu" #Preferred public email address

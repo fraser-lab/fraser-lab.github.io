@@ -9,7 +9,7 @@ position: "Affiliate, Scientific Program Manager"
 timeline_group: staff
 #subsequent:  update once you become an alumnus
 pronouns: "she/they" #personal pronouns
-email: "Veenathomasucsf (at) gmail.com" #Preferred public email address
+email: "veenathomasucsf (at) gmail.com" #Preferred public email address
 scholar:  #Google Scholar User ID
 website:
 UCSF: #"028699684" #UCSF Profile ID - Employees only
