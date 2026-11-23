@@ -70,7 +70,46 @@
       });
     }
 
+    // Mark the sidebar link for the section currently being read: the last
+    // section whose heading has scrolled past the top of the viewport.
+    function trackActiveSection() {
+      var links = document.querySelectorAll('.philosophy-sidebar a[href^="#"]');
+      if (!links.length) return;
+      var pairs = [];
+      links.forEach(function(link) {
+        var section = document.getElementById(link.getAttribute('href').substring(1));
+        if (section) pairs.push({ link: link, section: section });
+      });
+      var current = null;
+      var ticking = false;
+
+      function update() {
+        ticking = false;
+        var active = pairs[0];
+        for (var i = 0; i < pairs.length; i++) {
+          if (pairs[i].section.getBoundingClientRect().top - HEADER_OFFSET_PX - 10 <= 0) {
+            active = pairs[i];
+          } else {
+            break;
+          }
+        }
+        if (active === current) return;
+        if (current) current.link.removeAttribute('aria-current');
+        active.link.setAttribute('aria-current', 'true');
+        current = active;
+      }
+
+      window.addEventListener('scroll', function() {
+        if (!ticking) {
+          ticking = true;
+          window.requestAnimationFrame(update);
+        }
+      }, { passive: true });
+      update();
+    }
+
     // Initialize handlers
+    trackActiveSection();
     handleHashLinks();
     handleHashOnLoad();
 
