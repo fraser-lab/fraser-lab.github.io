@@ -29,7 +29,7 @@ Peer review is also an important training opportunity for lab members in scienti
 
 ## Anonymity in peer review
 
-Additionally, JF recognizes that he holds certain privileges that allow him to post peer review comments non-anonymously without fear of repercussion. Unfortunately, this is not the case for all researchers. JF is willing to post reviews on behalf of anyone in or outside the Fraser lab who wishes to remain anonymous.
+Additionally, JF recognizes that he holds certain privileges that allow him to post peer review comments non-anonymously without fear of repercussion. Unfortunately, this is not the case for all researchers. JF is willing to post reviews on behalf of anyone in or outside the Fraser Lab who wishes to remain anonymous.
 
 ## Responding to reviews
 

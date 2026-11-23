@@ -7,10 +7,10 @@ tags: how_to
 permalink: /philosophy/presentations/
 ---
 
-In the Fraser lab, we strive to give clear presentations that explain our scientific results to new audiences. Delivering a good presentation is hard work. Below, we outline advice for structuring and delivering presentations, focused primarily on external audiences, noting modifications for internal audiences. When planning a new presentation, consider first:
+In the Fraser Lab, we strive to give clear presentations that explain our scientific results to new audiences. Delivering a good presentation is hard work. Below, we outline advice for structuring and delivering presentations, focused primarily on external audiences, noting modifications for internal audiences. When planning a new presentation, consider first:
 
 1. **Who is your audience?** <br>
-   (Fraser lab group members, other graduate students from your program, specialists in your field at a conference, people evaluating you for a job/fellowship, etc)
+   (Fraser Lab group members, other graduate students from your program, specialists in your field at a conference, people evaluating you for a job/fellowship, etc)
 
 2. **What question does your presentation answer?** <br>
    (is the answer a key data take away, a clear next step you want to take, a shift in how we approach a problem, etc)
