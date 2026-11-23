@@ -1,13 +1,13 @@
 - title: Overview
   id: "overview"
   show: True
-  body: >
+  body: |
     The [Fraser Lab Mission](#mission) is to do fantastic science, openly! We engage in a lot of [collaborative](#publishing) projects and strive for transparency in all things (see also our potential [conflicts of interest](#coi)), but especially in our [publishing](#publishing) practices. We believe great science is made possible by our [lab values](#values) that heavily emphasize [mentorship](#mentorship) and the [well-being](#wellbeing) of every member of the lab. Sustaining a positive working environment involves conscientious [communication](#communication) and bidirectional [feedback](#feedback). To facilitate this, we have a set of [general lab expectations](#expectations). We take [career development](#career_dev) seriously, which includes not only attending and [presenting](/philosophy/presentations/){:target="_blank" rel="noopener"} regularly at [conferences](#conferences) but also making use of all the resources available at UCSF and more broadly. In return, we take tracking and sharing our [data](#data) very seriously. We are very fortunate to have access to an incredible wealth of scientific [literature](#literature), a strong track record of [grant and fellowship funding](#grants), and our amazing colleagues and core facilities at UCSF. Finally, this is a living document informed by a growing collection of external [resources](#resources) — we aim to iteratively improve upon everything described here!
 
 - title: Fraser Lab Mission
   id: "mission"
   show: False
-  body: >
+  body: |
     We want to produce high quality research in an uncompromising and transparent manner. We strive to work on unique problems using rigorous methods and disseminate our work as it occurs, through publishing preprints, blog posts, and through not-for-profit publications. Our software and scripts are open access on [GitHub](https://github.com/fraser-lab){:target="_blank" rel="noopener"}. We continuously amend our policies to make our data and methods more accessible to the community.
 
     Macromolecules are not static, and our scientific mission focuses on the interface between statistical mechanics and biology. We call the branch of structural biology “statistical structural biology” because it breaks the one-to-one mapping of model to dataset, and describes distributions of conformations. Using these approaches, we measure how physical, chemical, and genetic perturbations shift the relative balance of those conformations. Through this mapping of stimuli to sets of structures we gain valuable insight into a variety of biological processes that can be applied to protein engineering or small molecule discovery. See [research](https://fraserlab.com/research/).
@@ -15,7 +15,7 @@
 - title: Core Lab Values
   id: "values"
   show: False
-  body: >
+  body: |
     Our motto is “Beer and Tacos”. While our lab culture is not alcohol focused, it represents our mentality. The phrase was first coined by Dayn Perry regarding baseball scouting. You can find the full origin story in this [2016 blog post](/2016/03/16/BeerAndTacos/){:target="_blank" rel="noopener"}. In short, “Beer and Tacos” is about finding synergy between 2 or more things, especially in cases where they are presented in opposition. For example, we like to publish and [review](/philosophy/peer_review/){:target="_blank" rel="noopener"} preprints AND recognize the value of review-coordination and visibility that traditional outlets provide. Similarly, two groups can ponder over whether to go out for a beer or to go out for tacos, but they don’t have to be mutually exclusive. Why fight? Beer and tacos can be enjoyed together. Cryo-EM or X-ray crystallography for protein structure? Both! “Beer AND Tacos”. We find ways to make things work so we get the best of multiple worlds. Or in the words of Dayn Perry, “Why construct an either-or scenario where none need exist?”
 
     ![Beer and Tacos Acrostic](/static/img/philosophy/beer_and_tacos_acrostic.png "Beer and Tacos Acrostic!"){: .img-fluid .w-75 p-3 .mx-auto .d-block}
@@ -25,13 +25,13 @@
 - title: Land Acknowledgment
   id: "land_ack"
   show: False
-  body: >
+  body: |
     The Fraser lab recognizes that [the University of California San Francisco sits on the unceded land of the Ramaytush Ohlone (pronounced Rah-mah-tush O-lone-ee) peoples, the original inhabitants of the San Francisco Peninsula](https://diversity.ucsf.edu/ucsf-land-acknowledgment){:target="_blank" rel="noopener"}. As settlers on this land, we want to recognize the historic, and ongoing, discrimination and violence inflicted upon Indigenous people in North America. Please read our [full statement](/land_ack){:target="_blank" rel="noopener"}.
 
 - title: General Lab Expectations
   id: "expectations"
   show: False
-  body: >
+  body: |
     As a researcher you are expected to develop your knowledge and skills, make progress on your projects, and contribute to the running of the lab. This presupposes a lot of self-initiative and personal responsibility. The biggest driver of your academic career is you, not your advisor (JF) or your collaborators. Speak up when you need help or find yourself going down an undesired path as that is when your advisor is most useful. To ensure we can work together effectively, you are also expected to document all of your work, including methods, troubleshooting, and development. This information should be readily available to the rest of the lab, collaborators, and other scientists. You are also expected to present your research both internally at group meetings a few times a year and at conferences and other national and international meetings periodically (see [Presentations](https://fraserlab.com/philosophy/presentations/)). The lab values science communication, and we rely on feedback from group meetings and practice talks to hone our ability to make our science accessible to a variety of communities. This also means you are expected to engage with and give others feedback on their presentations – at group meeting or additional practice talks that are self-organized. You are expected to practice presentations intended for external audiences beyond just JF. Get feedback from multiple lab members and incorporate it.
 
     As a member of the lab community, you are expected to treat fellow members with respect. You are expected to follow lab policies, adapt as they evolve, and be a team player. This includes respect for peoples’ lab areas and personal space and having consent for actions that will affect them. Part of embracing a group of diverse people is that sometimes people’s different opinions and perspectives will lead to conflict. While our opinions or beliefs may differ, we respect each other’s opinions. It is usually better to involve JF as early as possible when potential conflicts between lab members arise. If a satisfactory resolution is not reached after involving JF, we can involve an external moderator, such as the [Ombuds](https://ombuds.ucsf.edu){:target="_blank" rel="noopener"} or a [Restorative Justice circle facilitator](https://studentlife.ucsf.edu/circles){:target="_blank" rel="noopener"}.
@@ -43,7 +43,7 @@
 - title: Communication
   id: "communication"
   show: False
-  body: >
+  body: |
     ### Slack
 
     Our internal electronic communications occur on Slack, with email reserved for coordinating with external collaborators. It is a given that people can ignore slack messages outside of normal working hours to preserve their personal time and space. For truly urgent/emergency matters, you should contact people by phone/text. Often, deeper conversations are best had synchronously in person, rather than over slack.
@@ -73,7 +73,7 @@
 - title: Lab Notebooks and Data Deposition
   id: "data"
   show: False
-  body: >
+  body: |
     As transparency, openness, and reproducibility are key values to the lab, sharing our information within the lab and externally to the scientific community is a top priority.
 
     ### Lab Notebooks
@@ -98,13 +98,9 @@
             - Use minimal nested folders within a project. Project > subfolder 1 > subfolder 2 is the furthest down it should go.
             - Currently, there’s no way to “peak” to see a folder’s contents without opening the folder.
     3. Date everything. Date notebook entries and physical samples. This makes it much easier for you and others to retrace your steps. Plus, it makes using the calendar in Benchling easy to track items and work. (Must use “insert > new day” or “ctrl + \” for the Benchling calendar to work.)
-
     4. Input all handwritten notes. Either type it out or attach a photo.
-
     5. Record mistakes and things that don’t work.
-
     6. Include data, both raw and analyzed.
-
     7. Protocols should include: title, what the experiment sets out to achieve, materials needed with CAT numbers, procedure.
         * Copy a protocol to make changes and append a version number (v1, v2, etc.)
         * Add in the protocol’s intro what was changed and why
@@ -117,23 +113,17 @@
     ### List of <a id="repositories">repositories</a>
 
     * **Addgene** - [Plasmids](https://www.addgene.org/c9d87dff_2638_427c_9b9f_f189bdd8f4bc/){:target="_blank" rel="noopener"}
-
     * **Zenodo** - [Datasets](https://zenodo.org/){:target="_blank" rel="noopener"}
-
     * **Protein Diffraction** - [X-Ray diffraction images](https://proteindiffraction.org/){:target="_blank" rel="noopener"}
-
     * **PDB** - [Protein structures](https://www.rcsb.org/search?request=%7B%22query%22%3A%7B%22parameters%22%3A%7B%22value%22%3A%22Fraser%2C%20J.S.%22%7D%2C%22type%22%3A%22terminal%22%2C%22service%22%3A%22text%22%2C%22node_id%22%3A0%7D%2C%22return_type%22%3A%22entry%22%2C%22request_options%22%3A%7B%22pager%22%3A%7B%22start%22%3A0%2C%22rows%22%3A25%7D%2C%22scoring_strategy%22%3A%22combined%22%2C%22sort%22%3A%5B%7B%22sort_by%22%3A%22score%22%2C%22direction%22%3A%22desc%22%7D%5D%7D%2C%22request_info%22%3A%7B%22src%22%3A%22ui%22%2C%22query_id%22%3A%22e69d1126f738b570a0ad272572a43a1c%22%7D%7D){:target="_blank" rel="noopener"}
-
     * **GenBank** - [Raw sequencing data](https://www.ncbi.nlm.nih.gov/genbank/submit/){:target="_blank" rel="noopener"}
-
     * **MaveDB** - [Deep mutational scanning (DMS) data](https://www.mavedb.org/){:target="_blank" rel="noopener"}
-
     * **Mave Registry** - [DMS experiments](https://registry.varianteffect.org/){:target="_blank" rel="noopener"}
 
 - title: Reading and Following the Scientific Literature
   id: "literature"
   show: False
-  body: >
+  body: |
     As a scientist, it should be a pleasure to keep up with current literature. You should dedicate a few hours each week to scanning and reading new preprints and journal articles - and we recommend a [strategy that leverages RSS feeds](/philosophy/rss_how_to) to follow the literature. Several people in the lab have nerded out on this, so feel free to ask others in the lab how they best like to stay on top of the literature. This activity helps increase one's **breadth** of knowledge. In working through these papers, we inevitably end up studying a small number more deeply, which includes scanning and reading the literature cited by that paper. This activity helps increase one's **depth** of knowledge and supplements the project specific-reading we do in preparing for qualifying exams, writing fellowships/grants, and planning projects. Both breadth and depth of understanding are essential.
 
     Every other week at group meetings, we have a mini journal club where each lab member shares a 30-60 second summary of an interesting paper they have read. Periodically, we do journal clubs (Review Revue!) to have an in-depth conversation about papers and methods of particular interest. Often we invite other labs to join us for the discussion. We summarize the discussion and post a public [review](/reviews){:target="_blank" rel="noopener"}.
@@ -141,7 +131,7 @@
 - title: Publishing
   id: "publishing"
   show: False
-  body: >
+  body: |
     The real end goal of any research is to get the work out there for others to build on, not to publish in journals. We encourage sharing of work in progress in a variety of ways, including blog posts on the lab or affiliated consortia websites, presenting data at conferences, and encouraging feedback on our codebases. We post our scholarly work as preprints when we judge them to be ready for feedback. All Fraser lab scholarly outputs will be published rapidly as preprints (e.g., on bioRxiv, arXiv, ChemRxiv, etc), appear in open access and not-for-profit venues, and be licensed with the Creative Commons Attribution (CC BY 4.0). We also respect all funder publication policies with regard to open-access archives and publication venues. The Fraser Lab no longer publishes in closed access or for-profit venues.
 
     Because we center posting preprints as our major scholarly output, that is when we usually undergo a major push to publicize our work, invite feedback from the community, and celebrate the accomplishment of putting scholarly work out into the world. A preprint-centric publishing strategy has important consequences for accelerating science. The traditional "behind closed doors" journal organized peer review process can delay the disclosure of important results by months. Moreover, it is often plagued with politics and biases that are harmful to the scientific process as a whole. The Fraser lab prefers venues compatible with the “publish, review, curate” model of scientific publishing. This model prioritizes transparent preprint review and allows us, as authors, to remain in control of the extent of the review process. Recognizing the value of a coordinated review process and the audience enabled by open access and not-for-profit venues, some work can also be peer reviewed in a more traditional model.
@@ -149,7 +139,7 @@
 - title: LLM + AI Usage
   id: "llm"
   show: False
-  body: >
+  body: |
     Writing is one of the key ways to test your understanding. So we recommend using AI sparingly during scientific writing, especially during training exercises in graduate school (e.g. qualifying exams, fellowship drafts, etc). That said, we are also using LLMs extensively in coding, in summarizing work, and to give feedback.
 
     We also take a human-centered approach to writing and reading. The point of doing scientific writing is not only to help other people understand your work, but also to improve your own understanding. The point of doing peer review isn’t just to give feedback, it is also to develop a familiarity with cutting edge work and rapport within the community.
@@ -159,7 +149,7 @@
 - title: Mentorship
   id: "mentorship"
   show: False
-  body: >
+  body: |
     My mentorship philosophy is centered around ensuring lab members are set up to grow towards the position they want next. I view my job as to make sure that the lab provides: the resources to accomplish what they want to accomplish in the lab, an environment conducive to developing new ideas, and tailored support for the next steps in a career (e.g. tapping into my network, prepping chalk talks for faculty positions, etc).
 
     It is also important to mentor up defined as [‘the mentee’s proactive engagement in the mentor-mentee relationship, so that both parties mutually benefit from the relationship and move forward towards an agreed-upon purpose or vision’](https://tomprof.stanford.edu/posting/1525){:target="_blank" rel="noopener"}.
@@ -167,25 +157,25 @@
 - title: Career Development
   id: "career_dev"
   show: False
-  body: >
+  body: |
     As articulated in the mentorship section, my primary goal is to ensure each person can grow during their time in the lab in a way that sets them up for the position they want next. That position can be in academia, industry, other ventures, or even growth to new responsibilities within the lab. I expect people to be engaged in a constant conversation with me about what they want to do next, especially if this changes. This is a critical part of mentoring up. It also allows me to tailor training, networking, conferences, and even aspects of their research project around what we think can be most beneficial.
 
 - title: Grant Writing and Fellowship Funding
   id: "grants"
   show: False
-  body: >
+  body: |
     For all science career paths, being able to explain yourself and the value of your work is an invaluable skill. Funding our research is vital to keeping the lab running. Grant/proposal writing is the responsibility of the entire lab: it is important for developing a key skill, and helps lab members get a feel for how we describe our research in a grant-writing context. Lab members and I collaborate to write grants and proposals to fund themselves, to fund lab research and equipment, and to request use of scientific facilities outside of UCSF. There are grant writing resources on the [internal lab website](https://sites.google.com/fraserlab.com/fraserlab-private/lab-administration/general-grants-fellowship?authuser=0){:target="_blank" rel="noopener"}.
 
 - title: Conferences and Travel
   id: "conferences"
   show: False
-  body: >
+  body: |
     Talk about your work openly. Share early. A key component of information transparency is getting it out there. People should present their work at conferences, which are great ways to communicate our results and get other people excited about our work. Conferences are important to build your network and science communication skills. I think everyone should attend 1-2 conferences a year. Your time is valuable; consider this when booking flights and ground transportation.
 
 - title: Feedback
   id: "feedback"
   show: False
-  body: >
+  body: |
     We're all growing, trying to live up to our core values, and essential to this is an emphasis on feedback. Even the content presented here is sometimes an idealized version of the lab.
 
     I am always open to feedback on how the lab and I can function better as long as it is respectful. I recognize I can be defensive when facing criticism when I'm not watching myself, and I always try to fight against that. Because of this, when possible, I like to have a lot of structure with evaluation as it provides the time to digest it. We have surveys a couple times a year to give lab members an opportunity to voice how they think things are going. Before the spring retreat, we have an anonymous lab survey and have a group discussion. In the summer there is another personally-centered survey that is followed by a one-on-one meeting. Outside of these surveys, you can always come to me privately or otherwise.
@@ -205,13 +195,9 @@
     My expectations around vacation:
 
     1. You should take it! Everyone deserves time off to enjoy themselves, friends, family, etc. With some breaks, you will likely be a more productive scientist.
-
     2. Don’t take too much of it. Time spent in the lab or working on science is related to productivity. Don’t expect to excel at your projects if you don't put in adequate time.
-
     3. Figure out what works for you. Do you need one day off frequently, or is it better to take two weeks off infrequently?
-
     4. Vacation time is tracked in MyTime for employees. Please keep track of your vacation time. For graduate students, I expect you to take around three weeks of vacation a year. As soon as you know you will be taking time off, please mark it in the respective lab calendar. If you will be taking a vacation for more than a week, please let me know so I can plan around it!
-
     5. We are lucky to work in a relatively flexible environment. While you can generally make up your own hours, I expect everyone to be in the lab from 10 to 4 every day to make sure we all have overlap when we are there. If you have a doctor’s appointment, short conflict, etc., you do not need to take vacation time, but please make up the hours.
 
     ### Resources
@@ -223,7 +209,7 @@
 - title: Collaboration
   id: "collaboration"
   show: False
-  body: >
+  body: |
     ### Within the Fraser lab
 
     In addition to myself, all of your lab members are a resource. It is expected that you will develop collegial relationships within the lab and occasionally work on shared projects. The spirit between lab members should be of cooperation and not adversarial competition. To that end, we try not to reinvent the wheel and make efficient use of everyone’s time by sharing our knowledge. Protocols are updated and shared in Benchling or LIMs for everyone in the lab to use and several guides exist on the internal lab site for nearly every task, administrative or scientific, that anyone may need. We are all here to help each other, but also be mindful and respectful of your fellow lab members' time. If someone in the lab has helped you a lot on a project they probably should be included as an author on your publications.
@@ -239,7 +225,7 @@
 - title: Conflicts of Interest
   id: "coi"
   show: False
-  body: >
+  body: |
     As an advisor, there are often conflicts of interest between what's best for me and the lab and what’s best for my lab members and their careers. There is opposition between wanting to keep the talent you’ve fostered and helping people to move on with their careers. I am constantly trying to prioritize the aspirations of people. In the end, if I am aligned with people's long-term goals, most things fall into place.
 
     We occasionally also do sponsored research in the lab and I consult for companies to the extent my primary responsibilities allow. These activities can create potential financial [conflicts of interest](/coi). I’m as transparent as possible about this work and relationships while honoring confidentiality agreements. If these financial conflicts cause an issue with the work or working relationship between me and a lab member, I want people to feel like they can have those conversations with me early, and I am happy to talk about it. My department chair would be a good person to talk to if you don't feel comfortable talking to me about it directly.
@@ -247,46 +233,32 @@
 - title: Lab Resources and Advice
   id: "advice"
   show: False
-  body: >
+  body: |
     Longer guides and advice on specific topics:
 
     * [Presentations](/philosophy/presentations/)
-
     * [Writing](/philosophy/writing/)
-
     * [Some General Advice for Postdocs](/philosophy/advice_for_postdocs/)
-
     * [Some General Advice for Graduate Students](/philosophy/advice_for_grad_students/)
-
     * [Some General Advice for Postbaccs/Technicians](/philosophy/advice_for_postbaccs/)
-
     * [Individual Development Plans](/philosophy/idp/)
-
     * [Peer Review](/philosophy/peer_review/)
-
     * [How to use RSS to follow the Scientific Literature](/philosophy/rss_how_to/)
-
     * [How to Peer Review](/philosophy/peer_review_how_to/)
-
     * [How to Respond to Your Reviews](/philosophy/respond_to_reviews_how_to/)
 
 - title: Outside Resources
   id: "resources"
   show: False
-  body: >
+  body: |
     A comprehensive collection of some resources for the topics listed in this compact has been compiled [here](https://docs.google.com/document/d/1zSiJaa5gQIHJ7G3uSXN5d9BdpvEABmQKi2Yr6j6Lr54/edit?usp=sharing){:target="_blank" rel="noopener"}.
     <br/>
     <br/>
     This development of this compact was guided by similar compacts and philosophies of several labs, see links.
 
     * [Avasthi Lab, Dartmouth College](http://www.avasthilab.org/lab-policies-and-tips/){:target="_blank" rel="noopener"}
-
     * [Heemstra Lab, Emory University](https://docs.google.com/document/d/1a8ecjUWVbXR1JqgbzqRwKmqaNK2cvBsysNFVXk56Lpo/edit){:target="_blank" rel="noopener"}
-
     * [Matreyek Lab, Case Western Reserve University](http://www.matreyeklab.com/6-lab-philosophy/){:target="_blank" rel="noopener"}
-
     * [Moghe Lab, Cornell University](https://www.moghelab.org/lab-philosophy){:target="_blank" rel="noopener"}
-
     * [Syed Lab, University of Minnesota](https://docs.google.com/document/d/1wa067HF3iBv5M0_ao6M1GzPg4mUof_PoVlEAKyIn8Xk/edit){:target="_blank" rel="noopener"}
-
     * [Mentoring resources, University of Wisconsin-Madison ICTR](https://ictr.wisc.edu/mentoring/mentors-alignment-phase-resources/){:target="_blank" rel="noopener"}
