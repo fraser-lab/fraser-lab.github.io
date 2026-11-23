@@ -239,7 +239,7 @@
   if (!holder) { return; }
 
   var pause = holder.querySelector('.carousel__pause');
-  var forward = holder.querySelectorAll('.carousel__control--forward');
+  var radios = holder.querySelectorAll('.carousel__activator');
   var reduce = window.matchMedia('(prefers-reduced-motion: reduce)');
   // WCAG 2.2.2: anything that moves on its own needs a way to stop it. Start
   // stopped when the visitor has asked for reduced motion.
@@ -254,8 +254,13 @@
 
   function advance() {
     if (paused || hovering) { return; }
-    for (var i = 0; i < forward.length; i++) {
-      if (forward[i].offsetParent !== null) { forward[i].click(); return; }
+    // Set the radio directly rather than clicking its label: a label click
+    // focuses the radio, and focusing scrolls the page back to the carousel.
+    for (var i = 0; i < radios.length; i++) {
+      if (radios[i].checked) {
+        radios[(i + 1) % radios.length].checked = true;
+        return;
+      }
     }
   }
 
