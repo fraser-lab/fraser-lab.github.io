@@ -98,9 +98,13 @@
             - Use minimal nested folders within a project. Project > subfolder 1 > subfolder 2 is the furthest down it should go.
             - Currently, there’s no way to “peak” to see a folder’s contents without opening the folder.
     3. Date everything. Date notebook entries and physical samples. This makes it much easier for you and others to retrace your steps. Plus, it makes using the calendar in Benchling easy to track items and work. (Must use “insert > new day” or “ctrl + \” for the Benchling calendar to work.)
+
     4. Input all handwritten notes. Either type it out or attach a photo.
+
     5. Record mistakes and things that don’t work.
+
     6. Include data, both raw and analyzed.
+
     7. Protocols should include: title, what the experiment sets out to achieve, materials needed with CAT numbers, procedure.
         * Copy a protocol to make changes and append a version number (v1, v2, etc.)
         * Add in the protocol’s intro what was changed and why
@@ -113,11 +117,17 @@
     ### List of <a id="repositories">repositories</a>
 
     * **Addgene** - [Plasmids](https://www.addgene.org/c9d87dff_2638_427c_9b9f_f189bdd8f4bc/){:target="_blank" rel="noopener"}
+
     * **Zenodo** - [Datasets](https://zenodo.org/){:target="_blank" rel="noopener"}
+
     * **Protein Diffraction** - [X-Ray diffraction images](https://proteindiffraction.org/){:target="_blank" rel="noopener"}
+
     * **PDB** - [Protein structures](https://www.rcsb.org/search?request=%7B%22query%22%3A%7B%22parameters%22%3A%7B%22value%22%3A%22Fraser%2C%20J.S.%22%7D%2C%22type%22%3A%22terminal%22%2C%22service%22%3A%22text%22%2C%22node_id%22%3A0%7D%2C%22return_type%22%3A%22entry%22%2C%22request_options%22%3A%7B%22pager%22%3A%7B%22start%22%3A0%2C%22rows%22%3A25%7D%2C%22scoring_strategy%22%3A%22combined%22%2C%22sort%22%3A%5B%7B%22sort_by%22%3A%22score%22%2C%22direction%22%3A%22desc%22%7D%5D%7D%2C%22request_info%22%3A%7B%22src%22%3A%22ui%22%2C%22query_id%22%3A%22e69d1126f738b570a0ad272572a43a1c%22%7D%7D){:target="_blank" rel="noopener"}
+
     * **GenBank** - [Raw sequencing data](https://www.ncbi.nlm.nih.gov/genbank/submit/){:target="_blank" rel="noopener"}
+
     * **MaveDB** - [Deep mutational scanning (DMS) data](https://www.mavedb.org/){:target="_blank" rel="noopener"}
+
     * **Mave Registry** - [DMS experiments](https://registry.varianteffect.org/){:target="_blank" rel="noopener"}
 
 - title: Reading and Following the Scientific Literature
@@ -195,9 +205,13 @@
     My expectations around vacation:
 
     1. You should take it! Everyone deserves time off to enjoy themselves, friends, family, etc. With some breaks, you will likely be a more productive scientist.
+
     2. Don’t take too much of it. Time spent in the lab or working on science is related to productivity. Don’t expect to excel at your projects if you don't put in adequate time.
+
     3. Figure out what works for you. Do you need one day off frequently, or is it better to take two weeks off infrequently?
+
     4. Vacation time is tracked in MyTime for employees. Please keep track of your vacation time. For graduate students, I expect you to take around three weeks of vacation a year. As soon as you know you will be taking time off, please mark it in the respective lab calendar. If you will be taking a vacation for more than a week, please let me know so I can plan around it!
+
     5. We are lucky to work in a relatively flexible environment. While you can generally make up your own hours, I expect everyone to be in the lab from 10 to 4 every day to make sure we all have overlap when we are there. If you have a doctor’s appointment, short conflict, etc., you do not need to take vacation time, but please make up the hours.
 
     ### Resources
@@ -237,14 +251,23 @@
     Longer guides and advice on specific topics:
 
     * [Presentations](/philosophy/presentations/)
+
     * [Writing](/philosophy/writing/)
+
     * [Some General Advice for Postdocs](/philosophy/advice_for_postdocs/)
+
     * [Some General Advice for Graduate Students](/philosophy/advice_for_grad_students/)
+
     * [Some General Advice for Postbaccs/Technicians](/philosophy/advice_for_postbaccs/)
+
     * [Individual Development Plans](/philosophy/idp/)
+
     * [Peer Review](/philosophy/peer_review/)
+
     * [How to use RSS to follow the Scientific Literature](/philosophy/rss_how_to/)
+
     * [How to Peer Review](/philosophy/peer_review_how_to/)
+
     * [How to Respond to Your Reviews](/philosophy/respond_to_reviews_how_to/)
 
 - title: Outside Resources
@@ -257,8 +280,13 @@
     This development of this compact was guided by similar compacts and philosophies of several labs, see links.
 
     * [Avasthi Lab, Dartmouth College](http://www.avasthilab.org/lab-policies-and-tips/){:target="_blank" rel="noopener"}
+
     * [Heemstra Lab, Emory University](https://docs.google.com/document/d/1a8ecjUWVbXR1JqgbzqRwKmqaNK2cvBsysNFVXk56Lpo/edit){:target="_blank" rel="noopener"}
+
     * [Matreyek Lab, Case Western Reserve University](http://www.matreyeklab.com/6-lab-philosophy/){:target="_blank" rel="noopener"}
+
     * [Moghe Lab, Cornell University](https://www.moghelab.org/lab-philosophy){:target="_blank" rel="noopener"}
+
     * [Syed Lab, University of Minnesota](https://docs.google.com/document/d/1wa067HF3iBv5M0_ao6M1GzPg4mUof_PoVlEAKyIn8Xk/edit){:target="_blank" rel="noopener"}
+
     * [Mentoring resources, University of Wisconsin-Madison ICTR](https://ictr.wisc.edu/mentoring/mentors-alignment-phase-resources/){:target="_blank" rel="noopener"}
