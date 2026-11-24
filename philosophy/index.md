@@ -127,6 +127,48 @@ group: philosophy
 .philosophy-sidebar > ul > li > a {
   font-weight: 500;
 }
+.philosophy-sidebar li.has-sub {
+  position: relative;
+}
+.philosophy-sidebar li.has-sub > a {
+  padding-right: 1.8rem;
+}
+.philosophy-sidebar__toggle {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 1.8rem;
+  height: 1.9rem;
+  padding: 0;
+  border: 0;
+  background: none;
+  color: #6c757d;
+  cursor: pointer;
+}
+.philosophy-sidebar__toggle::before {
+  content: "";
+  display: inline-block;
+  width: 0.45rem;
+  height: 0.45rem;
+  border-right: 2px solid currentColor;
+  border-bottom: 2px solid currentColor;
+  transform: rotate(-45deg);
+  transition: transform 0.15s ease;
+}
+.philosophy-sidebar__toggle[aria-expanded="true"]::before {
+  transform: rotate(45deg);
+}
+.philosophy-sidebar__toggle:hover,
+.philosophy-sidebar__toggle:focus-visible {
+  color: #052049;
+  background-color: #f1f3f5;
+}
+@media (prefers-reduced-motion: reduce) {
+  .philosophy-sidebar__toggle::before { transition: none; }
+}
+.philosophy-sidebar ul.philosophy-sidebar__sub[hidden] {
+  display: none;
+}
 .philosophy-sidebar ul.philosophy-sidebar__sub {
   margin: 0.1rem 0 0.4rem 0.9rem;
   border-left: 1px solid #dee2e6;

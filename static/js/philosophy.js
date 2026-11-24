@@ -93,10 +93,15 @@
             break;
           }
         }
-        if (active === current) return;
-        if (current) current.link.removeAttribute('aria-current');
-        active.link.setAttribute('aria-current', 'true');
-        current = active;
+        // A sub-heading inside a collapsed list can't be seen, so highlight
+        // its parent section instead.
+        var target = active.link;
+        var collapsed = target.closest('.philosophy-sidebar__sub[hidden]');
+        if (collapsed) target = collapsed.parentNode.querySelector(':scope > a');
+        if (target === current) return;
+        if (current) current.removeAttribute('aria-current');
+        target.setAttribute('aria-current', 'true');
+        current = target;
       }
 
       window.addEventListener('scroll', function() {
@@ -126,7 +131,36 @@
           li.appendChild(a);
           sub.appendChild(li);
         }
-        if (sub.children.length) link.parentNode.appendChild(sub);
+        if (!sub.children.length) return;
+
+        // Collapsed by default; the chevron button toggles it, and clicking
+        // the section link itself opens it.
+        var item = link.parentNode;
+        var subId = 'toc-sub-' + heading.id;
+        sub.id = subId;
+        sub.hidden = true;
+        item.classList.add('has-sub');
+
+        var toggle = document.createElement('button');
+        toggle.type = 'button';
+        toggle.className = 'philosophy-sidebar__toggle';
+        toggle.setAttribute('aria-expanded', 'false');
+        toggle.setAttribute('aria-controls', subId);
+        toggle.setAttribute('aria-label', 'Show subsections of ' + link.textContent.trim());
+
+        function setOpen(open) {
+          sub.hidden = !open;
+          toggle.setAttribute('aria-expanded', open ? 'true' : 'false');
+          toggle.setAttribute('aria-label',
+            (open ? 'Hide' : 'Show') + ' subsections of ' + link.textContent.trim());
+          // Let the active-section highlight move into or out of the list.
+          window.dispatchEvent(new Event('scroll'));
+        }
+        toggle.addEventListener('click', function() { setOpen(sub.hidden); });
+        link.addEventListener('click', function() { setOpen(true); });
+
+        item.appendChild(toggle);
+        item.appendChild(sub);
       });
     }
 
