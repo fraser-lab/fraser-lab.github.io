@@ -22,7 +22,7 @@
   link: "/philosophy"
   group: philosophy
 
-- name: news
+- name: blogs
   link: "/news"
   group: news
 
