@@ -118,6 +118,12 @@ group: philosophy
   background-color: #f1f3f5;
   text-decoration: none;
 }
+.philosophy-content h3 {
+  font-size: 1.2rem;
+  font-weight: 500;
+  color: #343a40;
+  margin-top: 1.5rem;
+}
 .philosophy-sidebar > ul > li > a {
   font-weight: 500;
 }
