@@ -2,7 +2,7 @@
   id: "overview"
   show: True
   body: |
-    The [Fraser Lab Mission](#mission) is to do fantastic science, openly! We engage in a lot of collaborative projects and strive for transparency in all things (see also our potential [conflicts of interest](#coi)), but especially in our [publishing](#publishing) practices. We believe great science is made possible by our [lab values](#values), which heavily emphasize [mentorship](#mentorship). Sustaining a positive working environment involves conscientious [communication](#communication) and a shared set of [general lab expectations](#expectations). We take [career development](#career_dev) seriously and make use of all the resources available at UCSF and more broadly. In return, we take tracking and sharing our [data](#data) very seriously. We are very fortunate to have access to an incredible wealth of scientific [literature](#literature), a strong track record of [grant and fellowship funding](#grants), and our amazing colleagues and core facilities at UCSF. Finally, this is a living document informed by a growing collection of external [resources](#resources) — we aim to iteratively improve upon everything described here!
+    The [Fraser Lab Mission](#mission) is to do fantastic science, openly! We engage in a lot of collaborative projects and strive for transparency in all things (see also our potential [conflicts of interest](#coi)), but especially in our [publishing](#publishing) practices. We believe great science is made possible by our [lab values](#values), which heavily emphasize [mentorship](#mentorship). Sustaining a positive working environment involves conscientious [communication](#communication) and a shared set of [general lab expectations](#expectations).  We are very fortunate to have access to an incredible wealth of scientific [literature](#literature), a strong track record of [grant and fellowship funding](#grants), and our amazing colleagues and core facilities at UCSF. Finally, this is a living document informed by a growing collection of external [resources](#resources) — we aim to iteratively improve upon everything described here!
 
 - title: Fraser Lab Mission
   id: "mission"
@@ -124,7 +124,7 @@
 
     ### Grant Writing and Fellowship Funding {#grants}
 
-    For all science career paths, being able to explain yourself and the value of your work is an invaluable skill. Funding our research is vital to keeping the lab running. Grant/proposal writing is the responsibility of the entire lab: it is important for developing a key skill, and helps lab members get a feel for how we describe our research in a grant-writing context. Lab members collaborate with the PI to write grants and proposals to fund personnel, to fund lab research and equipment, and to request use of scientific facilities outside of UCSF. As in paper writing, we generally start by outlining the specific aims and the subaims. Until we are clear on the topic and concluding sentences of each section, it is not worth writing a detailed draft. There are examples of successful awards on the Fraser Lab internal site. We also advocate being able to answer 5 key questions in the preamble of the specific aims prior to writing a detailed draft:
+    For all science career paths, being able to explain yourself and the value of your work is an invaluable skill. Funding our research is vital to keeping the lab running. Grant/proposal writing is the responsibility of the entire lab: it is important for developing a key skill, and helps lab members get a feel for how we describe our research in a grant-writing context. Lab members collaborate with the PI to write grants and proposals to fund personnel, to fund lab research and equipment, and to request use of scientific facilities outside of UCSF. As in paper writing, we generally start by outlining the specific aims and the subaims. Until we are clear on the topic and concluding sentences of each section, it is not worth writing a detailed draft. We start each grant by trying to answer 5 key questions in the preamble of the specific aims and iterate on these answers prior to writing a detailed draft:
 
     1. What is the problem?
     2. What is the barrier to solving it?
@@ -132,6 +132,8 @@
     4. What do you expect to learn? *(Make sure this explicitly calls back to the barrier.)*
     5. Where will this leave the field?
 
+    There are examples of successful awards on the Fraser Lab internal site.
+ 
 - title: Publishing
   id: "publishing"
   show: False
