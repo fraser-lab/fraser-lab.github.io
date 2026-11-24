@@ -2,7 +2,7 @@
   id: "overview"
   show: True
   body: |
-    The [Fraser Lab Mission](#mission) is to do fantastic science, openly! We engage in a lot of [collaborative](#collaboration) projects and strive for transparency in all things (see also our potential [conflicts of interest](#coi)), but especially in our [publishing](#publishing) practices. We believe great science is made possible by our [lab values](#values), which heavily emphasize [mentorship](#mentorship). Sustaining a positive working environment involves conscientious [communication](#communication) and a shared set of [general lab expectations](#expectations). We take [career development](#career_dev) seriously, which includes not only attending and [presenting](/philosophy/presentations/){:target="_blank" rel="noopener"} regularly at [conferences](#conferences) but also making use of all the resources available at UCSF and more broadly. In return, we take tracking and sharing our [data](#data) very seriously. We are very fortunate to have access to an incredible wealth of scientific [literature](#literature), a strong track record of [grant and fellowship funding](#grants), and our amazing colleagues and core facilities at UCSF. Finally, this is a living document informed by a growing collection of external [resources](#resources) — we aim to iteratively improve upon everything described here!
+    The [Fraser Lab Mission](#mission) is to do fantastic science, openly! We engage in a lot of [collaborative](#collaboration) projects and strive for transparency in all things (see also our potential [conflicts of interest](#coi)), but especially in our [publishing](#publishing) practices. We believe great science is made possible by our [lab values](#values), which heavily emphasize [mentorship](#mentorship). Sustaining a positive working environment involves conscientious [communication](#communication) and a shared set of [general lab expectations](#expectations). We take [career development](#career_dev) seriously and make use of all the resources available at UCSF and more broadly. In return, we take tracking and sharing our [data](#data) very seriously. We are very fortunate to have access to an incredible wealth of scientific [literature](#literature), a strong track record of [grant and fellowship funding](#grants), and our amazing colleagues and core facilities at UCSF. Finally, this is a living document informed by a growing collection of external [resources](#resources) — we aim to iteratively improve upon everything described here!
 
 - title: Fraser Lab Mission
   id: "mission"
@@ -38,7 +38,7 @@
 
     * [Writing](/philosophy/writing/)
     
-    You are also expected to present your research both internally at group meetings a few times a year and at conferences and other national and international meetings periodically. The lab values science communication, and we rely on feedback from group meetings and practice talks to hone our ability to make our science accessible to a variety of communities. This also means you are expected to engage with and give others feedback on their presentations – at group meeting or additional practice talks that are self-organized. You are expected to practice presentations intended for external audiences beyond just JF. Get feedback from multiple lab members and incorporate it. A guide on how to prepare presentations is available: 
+    You are also expected to present your research both internally at group meetings a few times a year and at conferences and other national and international meetings periodically. The lab values science communication, and we rely on feedback from group meetings and practice talks to hone our ability to make our science accessible to a variety of communities. This also means you are expected to engage with and give others feedback on their presentations – at group meeting or additional practice talks that are self-organized. You are expected to practice presentations intended for external audiences. Get feedback from multiple lab members and incorporate it. When we present externally, we talk about our work openly and share early. Lab members generally attend 1-2 conferences per year. A guide on how to prepare presentations is available: 
 
     * [Presentations](/philosophy/presentations/)
 
@@ -54,8 +54,6 @@
     2. Vacation time is tracked in MyTime for employees. Please keep track of your vacation time. As soon as you know you will be taking time off, please mark it in the respective lab calendar. If you will be taking a vacation for more than a week, please make sure to let me know so I can plan around it!
 
     If you are in need of support, there are mental health resources provided by UCSF for [students](https://studenthealth.ucsf.edu/){:target="_blank" rel="noopener"} and [staff](https://hr.ucsf.edu/hr.php/x/files?F=1&cms_id=5304){:target="_blank" rel="noopener"}.
-
-    Additional resources, including those listed above, can be found in [Resources](https://docs.google.com/document/d/1zSiJaa5gQIHJ7G3uSXN5d9BdpvEABmQKi2Yr6j6Lr54/edit?usp=sharing){:target="_blank" rel="noopener"}.
 
 - title: Communication
   id: "communication"
@@ -171,10 +169,12 @@
 
     It is also important to mentor up defined as [‘the mentee’s proactive engagement in the mentor-mentee relationship, so that both parties mutually benefit from the relationship and move forward towards an agreed-upon purpose or vision’](https://tomprof.stanford.edu/posting/1525){:target="_blank" rel="noopener"}.
 
-- title: Career Development
-  id: "career_dev"
-  show: False
-  body: |
+    * [Some General Advice for Postdocs](/philosophy/advice_for_postdocs/)
+    * [Some General Advice for Graduate Students](/philosophy/advice_for_grad_students/)
+    * [Some General Advice for Postbaccs/Technicians](/philosophy/advice_for_postbaccs/)
+
+    ### Career Development {#career_dev}
+
     Given the rapidly changing career landscape for scientists, JF believes the lab should be a supportive space where each person can develop toward the career that fits them best and the primary goal is to ensure each person grows during their time in the lab in a way that sets them up for the position they want next. It is expected that lab members are engaged in a constant conversation with JF about what they want to do next as this allows for tailored training, networking, conferences, and even aspects of a research project around what will be most beneficial.
 
     Every summer, each lab member has a 1:1 meeting with JF to review their Individual Development Plan (IDP). The IDP is a regular, structured place to line up your timeline, papers, training goals, and networking opportunities with where you want to go next. To prepare:
@@ -188,17 +188,10 @@
 
     If you are unsure about your career direction, the resources at the end of the IDP guide are good places to start. We also include timelines in group meetings and thesis committee presentations, which lets other lab members know what you are thinking about for experimental planning, publication strategy, and career structure. However, don't wait until the IDP meeting to have this conversation. JF loves it when lab members prompt him for additional meetings to check in about career development, and the cadence and topic of these meetings can change over your time in the lab.
 
-- title: Grant Writing and Fellowship Funding
-  id: "grants"
-  show: False
-  body: |
+    ### Grant Writing and Fellowship Funding {#grants}
+
     For all science career paths, being able to explain yourself and the value of your work is an invaluable skill. Funding our research is vital to keeping the lab running. Grant/proposal writing is the responsibility of the entire lab: it is important for developing a key skill, and helps lab members get a feel for how we describe our research in a grant-writing context. Lab members and I collaborate to write grants and proposals to fund themselves, to fund lab research and equipment, and to request use of scientific facilities outside of UCSF. There are grant writing resources on the [internal lab website](https://sites.google.com/fraserlab.com/fraserlab-private/lab-administration/general-grants-fellowship?authuser=0){:target="_blank" rel="noopener"}.
 
-- title: Conferences and Travel
-  id: "conferences"
-  show: False
-  body: |
-    Talk about your work openly. Share early. A key component of information transparency is getting it out there. People should present their work at conferences, which are great ways to communicate our results and get other people excited about our work. Conferences are important to build your network and science communication skills. I think everyone should attend 1-2 conferences a year. Your time is valuable; consider this when booking flights and ground transportation.
 
 - title: Collaboration
   id: "collaboration"
@@ -226,9 +219,6 @@
   body: |
     Longer guides and advice on specific topics:
 
-    * [Some General Advice for Postdocs](/philosophy/advice_for_postdocs/)
-    * [Some General Advice for Graduate Students](/philosophy/advice_for_grad_students/)
-    * [Some General Advice for Postbaccs/Technicians](/philosophy/advice_for_postbaccs/)
     * [Peer Review](/philosophy/peer_review/)
     * [How to use RSS to follow the Scientific Literature](/philosophy/rss_how_to/)
     * [How to Peer Review](/philosophy/peer_review_how_to/)
