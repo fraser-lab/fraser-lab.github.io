@@ -140,7 +140,9 @@
   body: |
     As a scientist, it should be a pleasure to keep up with current literature. You should dedicate a few hours each week to scanning and reading new preprints and journal articles - and we recommend a [strategy that leverages RSS feeds](/philosophy/rss_how_to) to follow the literature. Several people in the lab have nerded out on this, so feel free to ask others in the lab how they best like to stay on top of the literature. This activity helps increase one's **breadth** of knowledge. In working through these papers, we inevitably end up studying a small number more deeply, which includes scanning and reading the literature cited by that paper. This activity helps increase one's **depth** of knowledge and supplements the project specific-reading we do in preparing for qualifying exams, writing fellowships/grants, and planning projects. Both breadth and depth of understanding are essential.
 
-    Every other week at group meetings, we have a mini journal club where each lab member shares a 30-60 second summary of an interesting paper they have read. Periodically, we do journal clubs (Review Revue!) to have an in-depth conversation about papers and methods of particular interest. Often we invite other labs to join us for the discussion. We summarize the discussion and post a public [review](/reviews){:target="_blank" rel="noopener"}.
+    Every other week at group meetings, we have a mini journal club where each lab member shares a 30-60 second summary of an interesting paper they have read. Periodically, we do journal clubs (Review Revue!) to have an in-depth conversation about papers and methods of particular interest. Often we invite other labs to join us for the discussion. We summarize the discussion and post a public [review](/reviews){:target="_blank" rel="noopener"}. More thoughts on Peer review are available:
+    
+        * [Peer Review](/philosophy/peer_review/)
 
 - title: Lab Notebooks and Data Deposition
   id: "data"
@@ -214,7 +216,6 @@
   body: |
     Longer guides and advice on specific topics:
 
-    * [Peer Review](/philosophy/peer_review/)
     * [How to use RSS to follow the Scientific Literature](/philosophy/rss_how_to/)
     * [How to Peer Review](/philosophy/peer_review_how_to/)
     * [How to Respond to Your Reviews](/philosophy/respond_to_reviews_how_to/)
