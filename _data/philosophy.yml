@@ -2,7 +2,7 @@
   id: "overview"
   show: True
   body: |
-    The [Fraser Lab Mission](#mission) is to do fantastic science, openly! We engage in a lot of [collaborative](#collaboration) projects and strive for transparency in all things (see also our potential [conflicts of interest](#coi)), but especially in our [publishing](#publishing) practices. We believe great science is made possible by our [lab values](#values), which heavily emphasize [mentorship](#mentorship). Sustaining a positive working environment involves conscientious [communication](#communication) and a shared set of [general lab expectations](#expectations). We take [career development](#career_dev) seriously and make use of all the resources available at UCSF and more broadly. In return, we take tracking and sharing our [data](#data) very seriously. We are very fortunate to have access to an incredible wealth of scientific [literature](#literature), a strong track record of [grant and fellowship funding](#grants), and our amazing colleagues and core facilities at UCSF. Finally, this is a living document informed by a growing collection of external [resources](#resources) — we aim to iteratively improve upon everything described here!
+    The [Fraser Lab Mission](#mission) is to do fantastic science, openly! We engage in a lot of collaborative projects and strive for transparency in all things (see also our potential [conflicts of interest](#coi)), but especially in our [publishing](#publishing) practices. We believe great science is made possible by our [lab values](#values), which heavily emphasize [mentorship](#mentorship). Sustaining a positive working environment involves conscientious [communication](#communication) and a shared set of [general lab expectations](#expectations). We take [career development](#career_dev) seriously and make use of all the resources available at UCSF and more broadly. In return, we take tracking and sharing our [data](#data) very seriously. We are very fortunate to have access to an incredible wealth of scientific [literature](#literature), a strong track record of [grant and fellowship funding](#grants), and our amazing colleagues and core facilities at UCSF. Finally, this is a living document informed by a growing collection of external [resources](#resources) — we aim to iteratively improve upon everything described here!
 
 - title: Fraser Lab Mission
   id: "mission"
@@ -123,7 +123,7 @@
 
     ### Data Deposition
 
-    We make our data, materials, and processing details available to the public through deposition to various repositories. Lab code is made accessible through [GitHub](https://github.com/fraser-lab){:target="_blank" rel="noopener"}. Data and information should be  regularly deposited to the appropriate repositories. We happily share our plasmids and other materials freely by request.
+    We make our data, materials, and processing details available to the public through deposition to various repositories. Lab code is made accessible through [GitHub](https://github.com/fraser-lab){:target="_blank" rel="noopener"}. Data and information should be regularly deposited to the appropriate repositories. We happily share our plasmids and other materials freely by request.
 
     ### List of <a id="repositories">repositories</a>
 
@@ -165,9 +165,11 @@
   id: "mentorship"
   show: False
   body: |
-    My mentorship philosophy is centered around ensuring lab members are set up to grow towards the position they want next. I view my job as to make sure that the lab provides: the resources to accomplish what they want to accomplish in the lab, an environment conducive to developing new ideas, and tailored support for the next steps in a career (e.g. tapping into my network, prepping chalk talks for faculty positions, etc).
+    Our mentorship philosophy is centered around ensuring lab members are set up to grow towards the position they want next. A major role of the principal investigator is to make sure that the lab provides: the resources to accomplish what they want to accomplish in the lab, an environment conducive to developing new ideas, and tailored support for the next steps in a career (e.g. tapping into the PI's network, prepping chalk talks for faculty positions, etc).
 
-    It is also important to mentor up defined as [‘the mentee’s proactive engagement in the mentor-mentee relationship, so that both parties mutually benefit from the relationship and move forward towards an agreed-upon purpose or vision’](https://tomprof.stanford.edu/posting/1525){:target="_blank" rel="noopener"}.
+    There are often conflicts of interest between what’s best for the PI, what's best for the lab, and what’s best for the career of a lab member. For example, there is a tension between wanting to keep the talent we've fostered and helping people to move on with their careers. We try to prioritize the career aspirations of lab members. To that end, if we are aligned with people's long-term goals, great science tends also to fall into place.
+
+    It is important to mentor up, defined as [‘the mentee’s proactive engagement in the mentor-mentee relationship, so that both parties mutually benefit from the relationship and move forward towards an agreed-upon purpose or vision’](https://tomprof.stanford.edu/posting/1525){:target="_blank" rel="noopener"}. Beyond this, there are some career-stage-specific guidelines:
 
     * [Some General Advice for Postdocs](/philosophy/advice_for_postdocs/)
     * [Some General Advice for Graduate Students](/philosophy/advice_for_grad_students/)
@@ -190,27 +192,12 @@
 
     ### Grant Writing and Fellowship Funding {#grants}
 
-    For all science career paths, being able to explain yourself and the value of your work is an invaluable skill. Funding our research is vital to keeping the lab running. Grant/proposal writing is the responsibility of the entire lab: it is important for developing a key skill, and helps lab members get a feel for how we describe our research in a grant-writing context. Lab members and I collaborate to write grants and proposals to fund themselves, to fund lab research and equipment, and to request use of scientific facilities outside of UCSF. There are grant writing resources on the [internal lab website](https://sites.google.com/fraserlab.com/fraserlab-private/lab-administration/general-grants-fellowship?authuser=0){:target="_blank" rel="noopener"}.
-
-
-- title: Collaboration
-  id: "collaboration"
-  show: False
-  body: |
-    ### Within the Fraser Lab
-
-    In addition to myself, all of your lab members are a resource. It is expected that you will develop collegial relationships within the lab and occasionally work on shared projects. The spirit between lab members should be of cooperation and not adversarial competition. To that end, we try not to reinvent the wheel and make efficient use of everyone’s time by sharing our knowledge. Protocols are updated and shared in Benchling or LIMs for everyone in the lab to use and several guides exist on the internal lab site for nearly every task, administrative or scientific, that anyone may need. We are all here to help each other, but also be mindful and respectful of your fellow lab members' time. If someone in the lab has helped you a lot on a project they probably should be included as an author on your publications.
-
-    ### Beyond the Fraser Lab
-
-    The diverse nature of work in the lab encourages a lot of collaboration with partner labs both within UCSF, at other universities, and in industry. We seek to collaborate with labs who share a positive environment and a commitment to open science. Lab members are expected to foster relationships with our collaborators inline with our values of transparency and cooperativity. In other environments collaborations have been tricky for some people. However, our collaborations have been very positive, and I try to do my part to ensure that continues to be the case. Lab members can expect me to be actively involved in both the details of the project as well as communication with the partner labs. I will have my lab members’ backs and manage difficult conversations such as authorship. I also feel an important factor to fruitful partnership is to all actually be in the same place from time to time and so I encourage travel for scientific collaborations. I’m happy to provide funding to facilitate these visits and meetings.
+    For all science career paths, being able to explain yourself and the value of your work is an invaluable skill. Funding our research is vital to keeping the lab running. Grant/proposal writing is the responsibility of the entire lab: it is important for developing a key skill, and helps lab members get a feel for how we describe our research in a grant-writing context. Lab members collaborate with the PI to write grants and proposals to fund personnel, to fund lab research and equipment, and to request use of scientific facilities outside of UCSF. There are examples of successful awards on the Fraser Lab internal site.
 
 - title: Conflicts of Interest
   id: "coi"
   show: False
   body: |
-    As an advisor, there are often conflicts of interest between what's best for me and the lab and what’s best for my lab members and their careers. There is opposition between wanting to keep the talent you’ve fostered and helping people to move on with their careers. I am constantly trying to prioritize the aspirations of people. In the end, if I am aligned with people's long-term goals, most things fall into place.
-
     We occasionally also do sponsored research in the lab and I consult for companies to the extent my primary responsibilities allow. These activities can create potential financial [conflicts of interest](/coi). I’m as transparent as possible about this work and relationships while honoring confidentiality agreements. If these financial conflicts cause an issue with the work or working relationship between me and a lab member, I want people to feel like they can have those conversations with me early, and I am happy to talk about it. My department chair would be a good person to talk to if you don't feel comfortable talking to me about it directly.
 
 - title: Lab Resources and Advice
