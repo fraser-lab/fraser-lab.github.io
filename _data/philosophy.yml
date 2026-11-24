@@ -216,9 +216,18 @@
   body: |
     Longer guides and advice on specific topics:
 
-    * [How to use RSS to follow the Scientific Literature](/philosophy/rss_how_to/)
-    * [How to Peer Review](/philosophy/peer_review_how_to/)
+    * [Writing](/philosophy/writing/)
+    * [Presentations](/philosophy/presentations/)
+    * [Peer Review Philosophy](/philosophy/peer_review/)
+    * [How to Write a Peer Review](/philosophy/peer_review_how_to/)
     * [How to Respond to Your Reviews](/philosophy/respond_to_reviews_how_to/)
+    * [Some General Advice for Postdocs](/philosophy/advice_for_postdocs/)
+    * [Some General Advice for Graduate Students](/philosophy/advice_for_grad_students/)
+    * [Some General Advice for Postbaccs/Technicians](/philosophy/advice_for_postbaccs/)
+    * [How to Structure 1:1 Meetings](/2021/03/29/one-on-one-meetings/)
+    * [Developing a Foundation in the Scientific Literature](/2025/05/26/Developing-a-foundation-in-the-scientific-literature/)
+    * [How to use RSS to follow the Scientific Literature](/philosophy/rss_how_to/)
+    * [The Fraser Lab Method of Following the Scientific Literature](/2013/09/28/The-Fraser-Lab-method-of-following-the-scientific-literature/)
 
 - title: Outside Resources
   id: "resources"
