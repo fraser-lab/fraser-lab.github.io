@@ -118,6 +118,19 @@ group: philosophy
   background-color: #f1f3f5;
   text-decoration: none;
 }
+.philosophy-sidebar > ul > li > a {
+  font-weight: 500;
+}
+.philosophy-sidebar ul.philosophy-sidebar__sub {
+  margin: 0.1rem 0 0.4rem 0.9rem;
+  border-left: 1px solid #dee2e6;
+}
+.philosophy-sidebar__sub a {
+  padding: 0.15rem 0.6rem;
+  font-size: 0.8rem;
+  font-weight: 400;
+  color: #5a6470;
+}
 .philosophy-sidebar a[aria-current="true"] {
   border-left-color: #052049;
   background-color: #e9eef5;

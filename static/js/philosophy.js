@@ -108,7 +108,30 @@
       update();
     }
 
+    // Add each section's ### sub-headers to the sidebar as a nested list.
+    // Only the sidebar gets them; the mobile button TOC stays top-level only.
+    function buildSidebarSubheadings() {
+      var links = document.querySelectorAll('.philosophy-sidebar > ul > li > a[href^="#"]');
+      links.forEach(function(link) {
+        var heading = document.getElementById(link.getAttribute('href').substring(1));
+        if (!heading) return;
+        var sub = document.createElement('ul');
+        sub.className = 'philosophy-sidebar__sub';
+        for (var el = heading.nextElementSibling; el && el.tagName !== 'H2'; el = el.nextElementSibling) {
+          if (el.tagName !== 'H3' || !el.id) continue;
+          var li = document.createElement('li');
+          var a = document.createElement('a');
+          a.href = '#' + el.id;
+          a.textContent = el.textContent.trim();
+          li.appendChild(a);
+          sub.appendChild(li);
+        }
+        if (sub.children.length) link.parentNode.appendChild(sub);
+      });
+    }
+
     // Initialize handlers
+    buildSidebarSubheadings();
     trackActiveSection();
     handleHashLinks();
     handleHashOnLoad();
