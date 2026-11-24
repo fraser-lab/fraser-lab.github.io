@@ -93,6 +93,55 @@
 
     Each week, we also have an automated slack-based “standup” report that JF reads every Friday. This lets JF keep tabs on progress and obstacles on a consistent basis, even when traveling. The goal is to provide a high level overview - JF will follow up on Slack or with a one-off meeting depending on need.
 
+- title: Mentorship
+  id: "mentorship"
+  show: False
+  body: |
+    Our mentorship philosophy is centered around ensuring lab members are set up to grow towards the position they want next. A major role of the principal investigator is to make sure that the lab provides: the resources to accomplish what they want to accomplish in the lab, an environment conducive to developing new ideas, and tailored support for the next steps in a career (e.g. tapping into the PI's network, prepping chalk talks for faculty positions, etc).
+
+    There are often conflicts of interest between what’s best for the PI, what's best for the lab, and what’s best for the career of a lab member. For example, there is a tension between wanting to keep the talent we've fostered and helping people to move on with their careers. We try to prioritize the career aspirations of lab members. To that end, if we are aligned with people's long-term goals, great science tends also to fall into place.
+
+    It is important to mentor up, defined as [‘the mentee’s proactive engagement in the mentor-mentee relationship, so that both parties mutually benefit from the relationship and move forward towards an agreed-upon purpose or vision’](https://tomprof.stanford.edu/posting/1525){:target="_blank" rel="noopener"}. Beyond this, there are some career-stage-specific guidelines:
+
+    * [Some General Advice for Postdocs](/philosophy/advice_for_postdocs/)
+    * [Some General Advice for Graduate Students](/philosophy/advice_for_grad_students/)
+    * [Some General Advice for Postbaccs/Technicians](/philosophy/advice_for_postbaccs/)
+
+    ### Career Development {#career_dev}
+
+    Given the rapidly changing career landscape for scientists, JF believes the lab should be a supportive space where each person can develop toward the career that fits them best and the primary goal is to ensure each person grows during their time in the lab in a way that sets them up for the position they want next. It is expected that lab members are engaged in a constant conversation with JF about what they want to do next as this allows for tailored training, networking, conferences, and even aspects of a research project around what will be most beneficial.
+
+    Every summer, each lab member has a 1:1 meeting with JF to review their Individual Development Plan (IDP). The IDP is a regular, structured place to line up your timeline, papers, training goals, and networking opportunities with where you want to go next. To prepare:
+
+    1. Read the [IDP guide](https://docs.google.com/document/d/1qkxtyT8W2DKaeC7sPT0PJcXmvhtDMwvs4g86XzekQVo/edit?usp=sharing){:target="_blank" rel="noopener"} first. It walks through each section of the template with examples.
+    2. Make a private copy of the right template in your own Drive, with your name in place of "template":
+        * [My First IDP](https://docs.google.com/document/d/1ULzTyvdA5HRwp5csB5Win3_4-f7nbcHIPtN4iceyAeE/edit?usp=sharing){:target="_blank" rel="noopener"} if this is your first IDP in the lab
+        * [the annual IDP template](https://docs.google.com/document/d/1UVaRMkQrivqa4_VKBhF1pk93UNomjYE_Y5uQg2VTZhY/edit?usp=sharing){:target="_blank" rel="noopener"} every year after that
+    3. Fill it out. Focus your goals on outputs (preprints, fellowships, presentations, job applications) and write them as SMART goals: Specific, Measurable, Attainable, Relevant, Time-based. The template also asks you to assess your communication, leadership and management, and career and professional skills; to reflect on your strengths, what you enjoy, and what you value; and to commit to one small, concrete career development step for the month after the meeting.
+    4. Download it as a Word document, upload it through the Dropbox link posted in Slack, and schedule a meeting with JF to discuss it. After the meeting, JF will provide written feedback and suggestions for career development.
+
+    If you are unsure about your career direction, the resources at the end of the IDP guide are good places to start. We also include timelines in group meetings and thesis committee presentations, which lets other lab members know what you are thinking about for experimental planning, publication strategy, and career structure. However, don't wait until the IDP meeting to have this conversation. JF loves it when lab members prompt him for additional meetings to check in about career development, and the cadence and topic of these meetings can change over your time in the lab.
+
+    ### Grant Writing and Fellowship Funding {#grants}
+
+    For all science career paths, being able to explain yourself and the value of your work is an invaluable skill. Funding our research is vital to keeping the lab running. Grant/proposal writing is the responsibility of the entire lab: it is important for developing a key skill, and helps lab members get a feel for how we describe our research in a grant-writing context. Lab members collaborate with the PI to write grants and proposals to fund personnel, to fund lab research and equipment, and to request use of scientific facilities outside of UCSF. There are examples of successful awards on the Fraser Lab internal site.
+
+- title: Publishing
+  id: "publishing"
+  show: False
+  body: |
+    The real end goal of any research is to get the work out there for others to build on, not to publish in journals. We encourage sharing of work in progress in a variety of ways, including blog posts on the lab or affiliated consortia websites, presenting data at conferences, and encouraging feedback on our codebases. We post our scholarly work as preprints when we judge them to be ready for feedback. All Fraser Lab scholarly outputs will be published rapidly as preprints (e.g., on bioRxiv, arXiv, ChemRxiv, etc), appear in open access and not-for-profit venues, and be licensed with the Creative Commons Attribution (CC BY 4.0). We also respect all funder publication policies with regard to open-access archives and publication venues. The Fraser Lab no longer publishes in closed access or for-profit venues. 
+
+    Because we center posting preprints as our major scholarly output, that is when we usually undergo a major push to publicize our work, invite feedback from the community, and celebrate the accomplishment of putting scholarly work out into the world. A preprint-centric publishing strategy has important consequences for accelerating science. The traditional "behind closed doors" journal organized peer review process can delay the disclosure of important results by months. Moreover, it is often plagued with politics and biases that are harmful to the scientific process as a whole. The Fraser Lab prefers venues compatible with the “publish, review, curate” model of scientific publishing. This model prioritizes transparent preprint review and allows us, as authors, to remain in control of the extent of the review process. Recognizing the value of a coordinated review process and the audience enabled by open access and not-for-profit venues, some work can also be peer reviewed in a more traditional model.
+
+- title: Reading and Following the Scientific Literature
+  id: "literature"
+  show: False
+  body: |
+    As a scientist, it should be a pleasure to keep up with current literature. You should dedicate a few hours each week to scanning and reading new preprints and journal articles - and we recommend a [strategy that leverages RSS feeds](/philosophy/rss_how_to) to follow the literature. Several people in the lab have nerded out on this, so feel free to ask others in the lab how they best like to stay on top of the literature. This activity helps increase one's **breadth** of knowledge. In working through these papers, we inevitably end up studying a small number more deeply, which includes scanning and reading the literature cited by that paper. This activity helps increase one's **depth** of knowledge and supplements the project specific-reading we do in preparing for qualifying exams, writing fellowships/grants, and planning projects. Both breadth and depth of understanding are essential.
+
+    Every other week at group meetings, we have a mini journal club where each lab member shares a 30-60 second summary of an interesting paper they have read. Periodically, we do journal clubs (Review Revue!) to have an in-depth conversation about papers and methods of particular interest. Often we invite other labs to join us for the discussion. We summarize the discussion and post a public [review](/reviews){:target="_blank" rel="noopener"}.
+
 - title: Lab Notebooks and Data Deposition
   id: "data"
   show: False
@@ -143,22 +192,6 @@
     * **MaveDB** - [Deep mutational scanning (DMS) data](https://www.mavedb.org/){:target="_blank" rel="noopener"}
     * **Mave Registry** - [DMS experiments](https://registry.varianteffect.org/){:target="_blank" rel="noopener"}
 
-- title: Reading and Following the Scientific Literature
-  id: "literature"
-  show: False
-  body: |
-    As a scientist, it should be a pleasure to keep up with current literature. You should dedicate a few hours each week to scanning and reading new preprints and journal articles - and we recommend a [strategy that leverages RSS feeds](/philosophy/rss_how_to) to follow the literature. Several people in the lab have nerded out on this, so feel free to ask others in the lab how they best like to stay on top of the literature. This activity helps increase one's **breadth** of knowledge. In working through these papers, we inevitably end up studying a small number more deeply, which includes scanning and reading the literature cited by that paper. This activity helps increase one's **depth** of knowledge and supplements the project specific-reading we do in preparing for qualifying exams, writing fellowships/grants, and planning projects. Both breadth and depth of understanding are essential.
-
-    Every other week at group meetings, we have a mini journal club where each lab member shares a 30-60 second summary of an interesting paper they have read. Periodically, we do journal clubs (Review Revue!) to have an in-depth conversation about papers and methods of particular interest. Often we invite other labs to join us for the discussion. We summarize the discussion and post a public [review](/reviews){:target="_blank" rel="noopener"}.
-
-- title: Publishing
-  id: "publishing"
-  show: False
-  body: |
-    The real end goal of any research is to get the work out there for others to build on, not to publish in journals. We encourage sharing of work in progress in a variety of ways, including blog posts on the lab or affiliated consortia websites, presenting data at conferences, and encouraging feedback on our codebases. We post our scholarly work as preprints when we judge them to be ready for feedback. All Fraser Lab scholarly outputs will be published rapidly as preprints (e.g., on bioRxiv, arXiv, ChemRxiv, etc), appear in open access and not-for-profit venues, and be licensed with the Creative Commons Attribution (CC BY 4.0). We also respect all funder publication policies with regard to open-access archives and publication venues. The Fraser Lab no longer publishes in closed access or for-profit venues. 
-
-    Because we center posting preprints as our major scholarly output, that is when we usually undergo a major push to publicize our work, invite feedback from the community, and celebrate the accomplishment of putting scholarly work out into the world. A preprint-centric publishing strategy has important consequences for accelerating science. The traditional "behind closed doors" journal organized peer review process can delay the disclosure of important results by months. Moreover, it is often plagued with politics and biases that are harmful to the scientific process as a whole. The Fraser Lab prefers venues compatible with the “publish, review, curate” model of scientific publishing. This model prioritizes transparent preprint review and allows us, as authors, to remain in control of the extent of the review process. Recognizing the value of a coordinated review process and the audience enabled by open access and not-for-profit venues, some work can also be peer reviewed in a more traditional model.
-
 - title: LLM + AI Usage
   id: "llm"
   show: False
@@ -168,39 +201,6 @@
     We also take a human-centered approach to writing and reading. The point of doing scientific writing is not only to help other people understand your work, but also to improve your own understanding. The point of doing peer review isn’t just to give feedback, it is also to develop a familiarity with cutting edge work and rapport within the community.
 
     LLMs can be useful tools for suggesting solutions also, but it remains important to stay vigilant and think critically. You always own whatever you do.
-
-- title: Mentorship
-  id: "mentorship"
-  show: False
-  body: |
-    Our mentorship philosophy is centered around ensuring lab members are set up to grow towards the position they want next. A major role of the principal investigator is to make sure that the lab provides: the resources to accomplish what they want to accomplish in the lab, an environment conducive to developing new ideas, and tailored support for the next steps in a career (e.g. tapping into the PI's network, prepping chalk talks for faculty positions, etc).
-
-    There are often conflicts of interest between what’s best for the PI, what's best for the lab, and what’s best for the career of a lab member. For example, there is a tension between wanting to keep the talent we've fostered and helping people to move on with their careers. We try to prioritize the career aspirations of lab members. To that end, if we are aligned with people's long-term goals, great science tends also to fall into place.
-
-    It is important to mentor up, defined as [‘the mentee’s proactive engagement in the mentor-mentee relationship, so that both parties mutually benefit from the relationship and move forward towards an agreed-upon purpose or vision’](https://tomprof.stanford.edu/posting/1525){:target="_blank" rel="noopener"}. Beyond this, there are some career-stage-specific guidelines:
-
-    * [Some General Advice for Postdocs](/philosophy/advice_for_postdocs/)
-    * [Some General Advice for Graduate Students](/philosophy/advice_for_grad_students/)
-    * [Some General Advice for Postbaccs/Technicians](/philosophy/advice_for_postbaccs/)
-
-    ### Career Development {#career_dev}
-
-    Given the rapidly changing career landscape for scientists, JF believes the lab should be a supportive space where each person can develop toward the career that fits them best and the primary goal is to ensure each person grows during their time in the lab in a way that sets them up for the position they want next. It is expected that lab members are engaged in a constant conversation with JF about what they want to do next as this allows for tailored training, networking, conferences, and even aspects of a research project around what will be most beneficial.
-
-    Every summer, each lab member has a 1:1 meeting with JF to review their Individual Development Plan (IDP). The IDP is a regular, structured place to line up your timeline, papers, training goals, and networking opportunities with where you want to go next. To prepare:
-
-    1. Read the [IDP guide](https://docs.google.com/document/d/1qkxtyT8W2DKaeC7sPT0PJcXmvhtDMwvs4g86XzekQVo/edit?usp=sharing){:target="_blank" rel="noopener"} first. It walks through each section of the template with examples.
-    2. Make a private copy of the right template in your own Drive, with your name in place of "template":
-        * [My First IDP](https://docs.google.com/document/d/1ULzTyvdA5HRwp5csB5Win3_4-f7nbcHIPtN4iceyAeE/edit?usp=sharing){:target="_blank" rel="noopener"} if this is your first IDP in the lab
-        * [the annual IDP template](https://docs.google.com/document/d/1UVaRMkQrivqa4_VKBhF1pk93UNomjYE_Y5uQg2VTZhY/edit?usp=sharing){:target="_blank" rel="noopener"} every year after that
-    3. Fill it out. Focus your goals on outputs (preprints, fellowships, presentations, job applications) and write them as SMART goals: Specific, Measurable, Attainable, Relevant, Time-based. The template also asks you to assess your communication, leadership and management, and career and professional skills; to reflect on your strengths, what you enjoy, and what you value; and to commit to one small, concrete career development step for the month after the meeting.
-    4. Download it as a Word document, upload it through the Dropbox link posted in Slack, and schedule a meeting with JF to discuss it. After the meeting, JF will provide written feedback and suggestions for career development.
-
-    If you are unsure about your career direction, the resources at the end of the IDP guide are good places to start. We also include timelines in group meetings and thesis committee presentations, which lets other lab members know what you are thinking about for experimental planning, publication strategy, and career structure. However, don't wait until the IDP meeting to have this conversation. JF loves it when lab members prompt him for additional meetings to check in about career development, and the cadence and topic of these meetings can change over your time in the lab.
-
-    ### Grant Writing and Fellowship Funding {#grants}
-
-    For all science career paths, being able to explain yourself and the value of your work is an invaluable skill. Funding our research is vital to keeping the lab running. Grant/proposal writing is the responsibility of the entire lab: it is important for developing a key skill, and helps lab members get a feel for how we describe our research in a grant-writing context. Lab members collaborate with the PI to write grants and proposals to fund personnel, to fund lab research and equipment, and to request use of scientific facilities outside of UCSF. There are examples of successful awards on the Fraser Lab internal site.
 
 - title: Conflicts of Interest
   id: "coi"
