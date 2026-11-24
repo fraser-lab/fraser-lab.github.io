@@ -2,7 +2,7 @@
   id: "overview"
   show: True
   body: |
-    The [Fraser Lab Mission](#mission) is to do fantastic science, openly! We engage in a lot of [collaborative](#publishing) projects and strive for transparency in all things (see also our potential [conflicts of interest](#coi)), but especially in our [publishing](#publishing) practices. We believe great science is made possible by our [lab values](#values) that heavily emphasize [mentorship](#mentorship) and the [well-being](#wellbeing) of every member of the lab. Sustaining a positive working environment involves conscientious [communication](#communication) and bidirectional [feedback](#feedback). To facilitate this, we have a set of [general lab expectations](#expectations). We take [career development](#career_dev) seriously, which includes not only attending and [presenting](/philosophy/presentations/){:target="_blank" rel="noopener"} regularly at [conferences](#conferences) but also making use of all the resources available at UCSF and more broadly. In return, we take tracking and sharing our [data](#data) very seriously. We are very fortunate to have access to an incredible wealth of scientific [literature](#literature), a strong track record of [grant and fellowship funding](#grants), and our amazing colleagues and core facilities at UCSF. Finally, this is a living document informed by a growing collection of external [resources](#resources) — we aim to iteratively improve upon everything described here!
+    The [Fraser Lab Mission](#mission) is to do fantastic science, openly! We engage in a lot of [collaborative](#collaboration) projects and strive for transparency in all things (see also our potential [conflicts of interest](#coi)), but especially in our [publishing](#publishing) practices. We believe great science is made possible by our [lab values](#values), which heavily emphasize [mentorship](#mentorship). Sustaining a positive working environment involves conscientious [communication](#communication) and a shared set of [general lab expectations](#expectations). We take [career development](#career_dev) seriously, which includes not only attending and [presenting](/philosophy/presentations/){:target="_blank" rel="noopener"} regularly at [conferences](#conferences) but also making use of all the resources available at UCSF and more broadly. In return, we take tracking and sharing our [data](#data) very seriously. We are very fortunate to have access to an incredible wealth of scientific [literature](#literature), a strong track record of [grant and fellowship funding](#grants), and our amazing colleagues and core facilities at UCSF. Finally, this is a living document informed by a growing collection of external [resources](#resources) — we aim to iteratively improve upon everything described here!
 
 - title: Fraser Lab Mission
   id: "mission"
@@ -44,9 +44,18 @@
 
     As a member of the lab community, you are expected to treat fellow members with respect. You are expected to follow lab policies, adapt as they evolve, and be a team player. This includes respect for peoples’ lab areas and personal space and having consent for actions that will affect them. Part of embracing a group of diverse people is that sometimes people’s different opinions and perspectives will lead to conflict. While our opinions or beliefs may differ, we respect each other’s opinions. It is usually better to involve JF as early as possible when potential conflicts between lab members arise. If a satisfactory resolution is not reached after involving JF, we can involve an external moderator, such as the [Ombuds](https://ombuds.ucsf.edu){:target="_blank" rel="noopener"} or a [Restorative Justice circle facilitator](https://studentlife.ucsf.edu/circles){:target="_blank" rel="noopener"}.
 
-    Respect also means that when communicating with each other we empower rather than belittle people for their mistakes; we are all learning and growing. We are a collaborative, supportive lab, so we ask for guidance from our fellow lab members. In scientific matters, self-reliance is important to develop and we try to solve problems on our own first before seeking assistance. Try to find a few possible solutions, try them, and then seek out feedback from lab members and then your advisor.
+    Respect also means that when communicating with each other we empower rather than belittle people for their mistakes; we are all learning and growing. We are a collaborative, supportive lab, so we ask for guidance from our fellow lab members. In scientific matters, self-reliance is important to develop and we try to solve problems on our own first before seeking assistance. Try to find a few possible solutions, try them, and then seek out feedback from lab members and then your advisor. We’re all growing, trying to live up to our core values, and essential to this is an emphasis on feedback. Even the content presented here is sometimes an idealized version of the lab. For the spring retreat, we have an anonymous lab survey and have a group discussion about how we can improve in the lab.
 
     There are no specific "set hours" for the lab, but generally we expect people to be around from 10-4:30. We benefit from a flexible schedule to accommodate caregiver responsibilities, personal fitness, etc. You are expected to attend 1:1, subgroup, and group meetings. The lab is very flexible with rescheduling, just send a message ahead of time and we can likely accommodate it. While group meetings are always in person, a Zoom option can be made available for subgroup or 1:1 on rare occasions. It is ok to occasionally miss group meetings for events like travel, illness (don't come in if you aren't well!), major equipment usage (beamtimes, microscope time), class (although we do our best to schedule around rotation student class schedules), or other rare lab-related events (e.g. time points for uncooperative experiments). If you miss a group meeting, it is expected that you will contact the presenter, get a copy of their slides, and engage them in a conversation about your questions/feedback.
+
+    Our expectations around vacation:
+
+    1. You should take it! Everyone deserves time off to enjoy themselves, friends, family, etc. With some breaks, you will likely be a more productive scientist.
+    2. Vacation time is tracked in MyTime for employees. Please keep track of your vacation time. As soon as you know you will be taking time off, please mark it in the respective lab calendar. If you will be taking a vacation for more than a week, please make sure to let me know so I can plan around it!
+
+    If you are in need of support, there are mental health resources provided by UCSF for [students](https://studenthealth.ucsf.edu/){:target="_blank" rel="noopener"} and [staff](https://hr.ucsf.edu/hr.php/x/files?F=1&cms_id=5304){:target="_blank" rel="noopener"}.
+
+    Additional resources, including those listed above, can be found in [Resources](https://docs.google.com/document/d/1zSiJaa5gQIHJ7G3uSXN5d9BdpvEABmQKi2Yr6j6Lr54/edit?usp=sharing){:target="_blank" rel="noopener"}.
 
 - title: Communication
   id: "communication"
@@ -190,40 +199,6 @@
   show: False
   body: |
     Talk about your work openly. Share early. A key component of information transparency is getting it out there. People should present their work at conferences, which are great ways to communicate our results and get other people excited about our work. Conferences are important to build your network and science communication skills. I think everyone should attend 1-2 conferences a year. Your time is valuable; consider this when booking flights and ground transportation.
-
-- title: Feedback
-  id: "feedback"
-  show: False
-  body: |
-    We're all growing, trying to live up to our core values, and essential to this is an emphasis on feedback. Even the content presented here is sometimes an idealized version of the lab.
-
-    I am always open to feedback on how the lab and I can function better as long as it is respectful. I recognize I can be defensive when facing criticism when I'm not watching myself, and I always try to fight against that. Because of this, when possible, I like to have a lot of structure with evaluation as it provides the time to digest it. We have surveys a couple times a year to give lab members an opportunity to voice how they think things are going. Before the spring retreat, we have an anonymous lab survey and have a group discussion. In the summer there is another personally-centered survey that is followed by a one-on-one meeting. Outside of these surveys, you can always come to me privately or otherwise.
-
-    I view it as part of my job to give people critical feedback, and I've learned to assess how people like to receive it. Some people need time to cool off after a presentation; some people want it written down; some people like to meet about it. I’m constantly learning how to give feedback to different people, and so my way of giving feedback to a person changes over time. Figuring out how to give people effective feedback is iterative and can be a long process, but I’m always trying to improve it. Part of “mentoring up” is communicating how you best take feedback, and reflecting on this, so keep that in mind when responding to the feedback I give you.
-
-    ### Work-Life Balance {#wellbeing}
-
-    I’m not super prescriptive of how people work. I expect people to be really invested in their work and have a presence in the lab, but how they establish their rhythm of work-life balance is up to them. It’s easier to have balance when you’re working hard and enjoying it. I'm much more worried about when people aren't working hard and are seemingly dissatisfied with the work that they're doing; it seems to signal a misalignment of their work and life.
-
-    I trust people, and life happens. Take care of yourself and your loved ones. If somebody says “I need some time” that's all I need to hear, but I'm here to provide whatever resources and support I can both personally and professionally. I don't need to hear any more details unless people are comfortable. Lack of asking is not lack of caring or empathy, but rather just that I want to be respectful of people’s space. All that we ask is that, as soon as it makes sense, you try to pass off, reschedule, or communicate any time sensitive items like deadlines or microscope time. We are a community, and we are here for one another.
-
-    As a parent, I am often not done with work when I have to leave the lab at the end of the day. I like what I do, and as a result I find myself catching up asynchronously. This means I often send messages and will very rarely (but not never) ask people to meet outside of working hours. While I try to minimize cutting into others personal time, this is how I achieve my work-life balance. I don’t expect people to respond to my late-night messages, and I expect people to arrange their time for their family, friends, health, relaxation, and recreation.
-
-    ### Vacation
-
-    My expectations around vacation:
-
-    1. You should take it! Everyone deserves time off to enjoy themselves, friends, family, etc. With some breaks, you will likely be a more productive scientist.
-    2. Don’t take too much of it. Time spent in the lab or working on science is related to productivity. Don’t expect to excel at your projects if you don't put in adequate time.
-    3. Figure out what works for you. Do you need one day off frequently, or is it better to take two weeks off infrequently?
-    4. Vacation time is tracked in MyTime for employees. Please keep track of your vacation time. For graduate students, I expect you to take around three weeks of vacation a year. As soon as you know you will be taking time off, please mark it in the respective lab calendar. If you will be taking a vacation for more than a week, please let me know so I can plan around it!
-    5. We are lucky to work in a relatively flexible environment. While you can generally make up your own hours, I expect everyone to be in the lab from 10 to 4 every day to make sure we all have overlap when we are there. If you have a doctor’s appointment, short conflict, etc., you do not need to take vacation time, but please make up the hours.
-
-    ### Resources
-
-    If you are in need of support, there are mental health resources provided by UCSF for [students](https://studenthealth.ucsf.edu/){:target="_blank" rel="noopener"} and [staff](https://hr.ucsf.edu/hr.php/x/files?F=1&cms_id=5304){:target="_blank" rel="noopener"}.
-
-    Additional resources, including those listed above, can be found in [Resources](https://docs.google.com/document/d/1zSiJaa5gQIHJ7G3uSXN5d9BdpvEABmQKi2Yr6j6Lr54/edit?usp=sharing){:target="_blank" rel="noopener"}.
 
 - title: Collaboration
   id: "collaboration"
